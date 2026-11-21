@@ -1,0 +1,57 @@
+{
+  "id": "EZE.32.1",
+  "livro": "EZE",
+  "titulo": "O Faraó desce à cova",
+  "secao": "Oráculos contra as nações",
+  "referencia": "Ez 32,1-32",
+  "ini": {
+    "c": 32,
+    "v": 1
+  },
+  "fim": {
+    "c": 32,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "Lamentação sobre o Faraó: a descida à cova com os incircuncisos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No ano doze, duas lamentações finais sobre o Egito. Na primeira, o Faraó se julgava leão das nações, mas era um crocodilo que turvava as águas com os pés. Deus estenderá sobre ele a sua rede por meio de muitos povos, o lançará em terra, alimentará com ele as aves e as feras, encherá os vales com os seus restos, regará a terra com o seu sangue. Quando se apagar, Deus cobrirá os céus, escurecerá as estrelas, cobrirá o sol de nuvens, e a lua não dará luz: luto cósmico. A espada do rei de Babilônia virá; o Egito será despojado; as águas, não mais turvadas, correrão mansas como azeite. Na segunda, quinze dias depois, o profeta acompanha o Egito na descida ao Xeol, a morada dos mortos. Lá estão os que já desceram, cada um com o seu povo ao redor do sepulcro: a Assíria, Elam, Mosoc e Tubal, Edom, os príncipes do norte, os sidônios. Todos “espalharam o terror na terra dos vivos” e agora jazem com os incircuncisos, mortos pela espada, sem a honra dos heróis antigos sepultados com as suas armas. O Faraó os verá e se consolará diante de tanta multidão; também ele jazerá no meio deles, com todo o seu exército.",
+    "alegorico": "Os sinais cósmicos (sol, lua e estrelas escurecidos) voltam nos discursos de Jesus sobre o fim (Mt 24,29): a queda dos impérios é figura do juízo final. A descida de todos os poderosos à cova contrasta com a descida de Cristo aos infernos, não como vencido, mas para libertar os justos.",
+    "moral": "Esta visão do Xeol é uma meditação sobre a morte do poder: os que “espalharam o terror na terra dos vivos” terminam deitados lado a lado. A glória terrena não acompanha ninguém ao túmulo. A única consolação do Faraó é ver que outros caíram como ele: triste consolo de quem não conhece Deus.",
+    "anagogico": "A morte iguala todos os impérios; mas Cristo desceu à morada dos mortos e a venceu. A verdadeira distinção não é entre fortes e fracos, mas entre os que morrem com Cristo e os que morrem sem ele."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Leão das gentes, pereceste!” “Velarei os céus… encobrirei o sol de nuvens, e a lua não dará a sua luz.” “A quem excedes em beleza? Desce e deita-te com os incircuncidados.” “Espalharam o terror na terra dos vivos.”",
+    "meditatio_perguntas": [
+      "Como penso na minha morte: com medo, com indiferença ou com esperança em Cristo?",
+      "Que terror ou medo espalho à minha volta?",
+      "Que glória terrena busco que não me acompanhará ao túmulo?"
+    ],
+    "oratio_guia": "Senhor Jesus, que desceste à morada dos mortos e a venceste, livra-me da ilusão do poder. Que eu viva na terra dos vivos espalhando paz, e que a minha morte seja passagem para ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "A quem excedes em beleza? Desce e deita-te com os incircuncidados",
+      "ref": "Ez 32,19"
+    }
+  },
+  "ancoras": {
+    "32:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "12º ano, 12º mês, dia 1: março de 585 a.C., depois da queda de Jerusalém.",
+        "origem": "ia"
+      }
+    },
+    "32:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O Xeol, na concepção do AT, é a morada sombria de todos os mortos; ser posto “com os incircuncisos” era a maior desonra.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

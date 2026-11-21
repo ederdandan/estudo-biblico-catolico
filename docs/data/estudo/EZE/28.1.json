@@ -1,0 +1,57 @@
+{
+  "id": "EZE.28.1",
+  "livro": "EZE",
+  "titulo": "O príncipe de Tiro: eu sou um deus",
+  "secao": "Oráculos contra as nações",
+  "referencia": "Ez 28,1-19",
+  "ini": {
+    "c": 28,
+    "v": 1
+  },
+  "fim": {
+    "c": 28,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "Eu sou um deus, disse o teu coração: és um homem, e não um deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus fala ao príncipe de Tiro: o teu coração se elevou e disseste: “Eu sou um deus, estou sentado sobre a cadeira divina, no meio do mar.” És mais sábio que Daniel, nenhum segredo te escapa; com a sabedoria no comércio acumulaste ouro e prata, e por isso o coração se orgulhou. Porque te julgaste igual a Deus, estrangeiros violentos desembainharão a espada contra a tua sabedoria; morrerás no coração dos mares. “Porventura dirás ainda: Eu sou um deus diante dos teus executores? Mas és um homem… e não um deus.” Segue uma lamentação sobre o rei de Tiro, com imagens do paraíso: “Tu eras um modelo de perfeição, cheio de sabedoria e perfeito na beleza; vivias no Éden, jardim de Deus”, coberto de pedras preciosas; eras um querubim protetor sobre o monte santo de Deus, caminhando entre pedras de fogo. “Foste perfeito nos teus caminhos desde o dia da tua criação, até que a iniquidade se achou em ti.” Pela abundância do comércio te encheste de violência e pecaste; Deus te expulsou do monte santo. “O teu coração se elevou por causa da tua beleza; perdeste a tua sabedoria por causa do teu brilho.” Deus fez sair do meio dele um fogo que o devorou e o reduziu a cinza.",
+    "alegorico": "Muitos Padres (Orígenes, Tertuliano, Gregório Magno) leram esta lamentação, junto com Is 14, como descrição da queda de Lúcifer: criatura perfeita e bela que se perdeu pelo orgulho. Cristo é o oposto: sendo de condição divina, não se apegou a ser igual a Deus, mas se esvaziou (Fl 2,6-7).",
+    "moral": "O pecado original de todos os tempos é dizer “sou um deus”: a autossuficiência que nasce dos próprios dons. A sabedoria e a beleza são boas, mas corrompem quem se gloria nelas; “perdeste a tua sabedoria por causa do teu brilho”. O sucesso nos negócios pode encher o interior de violência.",
+    "anagogico": "A humildade de reconhecer “sou homem, e não um deus” é o começo da salvação. Quem se humilha será exaltado e reintroduzido no jardim de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu sou um deus, estou sentado sobre a cadeira divina.” “Mas és um homem… e não um deus.” “Vivias no Éden, jardim de Deus.” “Foste perfeito nos teus caminhos… até que a iniquidade se achou em ti.” “Perdeste a tua sabedoria por causa do teu brilho.”",
+    "meditatio_perguntas": [
+      "Em que momentos ajo como se fosse “um deus”, senhor absoluto da minha vida?",
+      "Os meus dons me tornam grato ou orgulhoso?",
+      "Reconheço com paz que sou criatura?"
+    ],
+    "oratio_guia": "Senhor, eu sou homem, e não um deus. Livra-me do orgulho que nasce dos teus dons e ensina-me a humildade de Cristo, que se esvaziou por amor. Amém.",
+    "contemplatio_foco": {
+      "texto": "Foste perfeito nos teus caminhos desde o dia da tua criação, até que a iniquidade se achou em ti",
+      "ref": "Ez 28,15"
+    }
+  },
+  "ancoras": {
+    "28:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Daniel (Danel) era figura proverbial de sabedoria; cf. Ez 14,14.",
+        "origem": "ia"
+      }
+    },
+    "28:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A lista das pedras lembra as pedras do peitoral do sumo sacerdote (Ex 28,17-20).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

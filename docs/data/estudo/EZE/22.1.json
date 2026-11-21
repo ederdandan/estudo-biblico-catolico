@@ -1,0 +1,49 @@
+{
+  "id": "EZE.22.1",
+  "livro": "EZE",
+  "titulo": "A cidade sanguinária",
+  "secao": "O juízo sobre Jerusalém",
+  "referencia": "Ez 22,1-31",
+  "ini": {
+    "c": 22,
+    "v": 1
+  },
+  "fim": {
+    "c": 22,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Busquei um homem que se pusesse na brecha, e não o encontrei",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus pede ao profeta que julgue “a cidade do sangue” e lhe mostre as suas abominações. Jerusalém derrama sangue no seu meio e fabrica ídolos; apressou o seu fim e se tornou zombaria das nações. Segue uma lista de pecados: os príncipes usam a força para derramar sangue; desprezam pai e mãe; maltratam o estrangeiro, oprimem o órfão e a viúva; desprezam o santuário e profanam os sábados; há caluniadores que provocam mortes, banquetes idolátricos nos montes, pecados sexuais dentro da família, suborno para matar, usura, extorsão: “esqueces-te de mim, diz o Senhor Deus”. Deus bate as mãos de horror; pergunta se o coração dela resistirá; e anuncia a dispersão para purificá-la. Segue uma imagem metalúrgica: Israel tornou-se escória, cobre, estanho, ferro e chumbo misturados na fornalha; Deus os juntará em Jerusalém como num crisol e soprará o fogo da sua ira para fundi-los. Por fim, um retrato de todas as classes: príncipes como leões que devoram, sacerdotes que não distinguem o santo do profano, chefes como lobos, profetas que rebocam com barro, o povo que oprime o pobre e o estrangeiro. “Busquei entre eles um homem que reconstruísse um muro e se pusesse na brecha, diante de mim, em favor desta terra, para eu a não destruir, e não o encontrei.”",
+    "alegorico": "O homem que Deus procurava para se pôr na brecha é encontrado em Cristo, único mediador, que se pôs entre Deus e a humanidade e, pela sua intercessão na cruz, “reconstruiu o muro” e reconciliou o mundo. Os santos, a exemplo de Moisés (Sl 105,23), participam dessa intercessão.",
+    "moral": "O pecado de uma sociedade não é só individual: atinge todas as classes, dos governantes aos sacerdotes e ao povo. A lista mistura culto e justiça: profanar o sábado e oprimir a viúva são o mesmo esquecimento de Deus. E Deus procura intercessores: cada cristão é chamado a pôr-se na brecha pela sua terra, pela oração e pela vida justa.",
+    "anagogico": "O crisol de Deus purifica a prata da escória; o fogo do juízo final deixará só o que é precioso. Quem se põe na brecha com Cristo participa da salvação do mundo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não julgarás a cidade do sangue?” “Oprimem no teu recinto o órfão e a viúva.” “Esqueces-te de mim, diz o Senhor Deus.” “Não distinguem entre o santo e o profano.” “Busquei entre eles um homem que… se pusesse na brecha, diante de mim, em favor desta terra… e não o encontrei.”",
+    "meditatio_perguntas": [
+      "Sou alguém que se põe “na brecha” em favor da minha terra?",
+      "Distingo o santo do profano, ou tudo se tornou igual para mim?",
+      "Como trato o estrangeiro, o órfão e a viúva?"
+    ],
+    "oratio_guia": "Senhor, que procuras um homem que se ponha na brecha, faz de mim um intercessor pela minha terra, unido a Cristo. Purifica-nos no teu crisol e não permitas que nos esqueçamos de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Busquei entre eles um homem que reconstruísse um muro e se pusesse na brecha, diante de mim, em favor desta terra",
+      "ref": "Ez 22,30"
+    }
+  },
+  "ancoras": {
+    "22:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A purificação da prata exigia fundir o metal com chumbo para separar as impurezas (cf. Jr 6,29; Is 1,22-25).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

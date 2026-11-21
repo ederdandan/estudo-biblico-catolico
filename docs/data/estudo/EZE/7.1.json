@@ -1,0 +1,57 @@
+{
+  "id": "EZE.7.1",
+  "livro": "EZE",
+  "titulo": "Vem o fim",
+  "secao": "O juízo sobre Jerusalém",
+  "referencia": "Ez 7,1-27",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "Vem o fim sobre os quatro cantos da terra",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Um poema de alarme ritmado pelo grito “o fim”: “Eis o fim! Já vem o fim sobre os quatro lados desta terra.” Deus julgará Israel segundo os seus caminhos e fará recair sobre ele as suas abominações; o seu olho não poupará. “O fim vem, vem o fim; ele despertou contra ti; ei-lo aí vem!” Chegou o tempo, está perto o dia; acabou a alegria dos montes. “Floresceu a vara, brotou a soberba”: a violência cresceu como planta. Quem compra não se alegre, quem vende não chore: os negócios perderam o sentido diante do juízo. Toca-se a trombeta, mas ninguém vai à batalha. Fora, a espada; dentro, a peste e a fome. Os sobreviventes gemerão nos montes como pombas; as mãos desfalecem, os joelhos se desfazem em água; cingem-se de saco, rapam a cabeça. Lançarão a prata nas ruas e o ouro será como imundície: “A sua prata e o seu ouro não os poderão livrar no dia do furor do Senhor”, porque foram tropeço para a iniquidade; das joias fizeram ídolos. O santuário será profanado por estrangeiros. Desastre sobre desastre, boato sobre boato; buscarão visão do profeta, mas a lei faltará ao sacerdote e o conselho aos anciãos. O rei chorará, o povo tremerá; Deus os julgará como eles julgaram os outros.",
+    "alegorico": "O “dia” e o “fim” anunciados por Ezequiel prefiguram o dia do Senhor no fim dos tempos, de que falam Jesus (Mt 24) e Pedro (2Pd 3,10). A inutilidade do ouro e da prata no dia do juízo ecoa em Sofonias (1,18) e no Evangelho: de que serve ganhar o mundo inteiro? (Mc 8,36).",
+    "moral": "Diante do fim, os valores se invertem: o ouro vira lixo, comprar e vender já não importa. Vale perguntar o que em minha vida resistirá ao “dia do Senhor”. A riqueza que vira ídolo se torna tropeço. E a medida do juízo é a mesma que usamos com os outros (Mt 7,2).",
+    "anagogico": "Cada vida tem o seu “fim”, e a história tem o seu. Viver na luz desse fim não é viver com medo, mas com sabedoria: acumular tesouros que não perecem."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eis o fim! Já vem o fim.” “O fim vem, vem o fim; ele despertou contra ti.” “O que compra, não alegre; e o que vende, não chore.” “A sua prata e o seu ouro não os poderão livrar no dia do furor do Senhor.” “Julgá-los-ei conforme eles julgaram os outros.”",
+    "meditatio_perguntas": [
+      "O que em minha vida resistiria ao “dia do Senhor”?",
+      "Que riquezas fiz de ídolo, e se tornaram tropeço?",
+      "Com que medida julgo os outros?"
+    ],
+    "oratio_guia": "Senhor, ensina-me a contar os meus dias e a viver à luz do fim. Livra-me de confiar na prata e no ouro e julga-me com misericórdia, como eu quero aprender a julgar os meus irmãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "A sua prata e o seu ouro não os poderão livrar no dia do furor do Senhor",
+      "ref": "Ez 7,19"
+    }
+  },
+  "ancoras": {
+    "7:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “vara” que floresce pode ser o bastão do opressor (Babilônia) ou a própria soberba de Israel, que cresceu até ao castigo.",
+        "origem": "ia"
+      }
+    },
+    "7:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Profeta (visão), sacerdote (lei) e anciãos (conselho): as três formas de guia falham ao mesmo tempo (cf. Jr 18,18).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

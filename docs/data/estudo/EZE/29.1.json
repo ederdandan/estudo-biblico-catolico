@@ -1,0 +1,65 @@
+{
+  "id": "EZE.29.1",
+  "livro": "EZE",
+  "titulo": "Contra o Faraó, o grande dragão",
+  "secao": "Oráculos contra as nações",
+  "referencia": "Ez 29,1-21",
+  "ini": {
+    "c": 29,
+    "v": 1
+  },
+  "fim": {
+    "c": 29,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "O grande crocodilo que diz: o Nilo é meu, eu o fiz",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No décimo ano, Deus manda o profeta voltar o rosto contra o Faraó e todo o Egito. O Faraó é um “crocodilo enorme” deitado no meio dos seus rios, que diz: “O rio é meu, eu é que o fiz.” Deus lhe porá ganchos nas mandíbulas, grudará nas suas escamas os peixes do Nilo, o arrancará do rio e o lançará no deserto, pasto para as feras e as aves. O motivo é também a relação com Israel: o Egito foi para a casa de Israel um apoio de cana; quando o pegaram, quebrou-se, feriu-lhes o ombro; quando se apoiaram nele, partiu-se e fez vacilar os seus rins. Por isso a espada virá, e o Egito será deserto desde Migdol até Siene, por quarenta anos. Depois Deus reunirá os egípcios dispersos e os fará voltar a Patros, a terra de origem, mas como um reino humilde, que não dominará mais as nações nem será objeto de confiança para Israel. Segue um oráculo datado do ano vinte e sete, o último do livro: Nabucodonosor esgotou o seu exército no cerco de Tiro, todas as cabeças ficaram calvas e os ombros esfolados, sem salário; Deus lhe dará o Egito como pagamento, “porque ele trabalhou para mim”. Naquele dia Deus fará brotar um chifre, um poder, para a casa de Israel, e abrirá a boca do profeta no meio deles.",
+    "alegorico": "O crocodilo do Nilo, monstro das águas, é uma das figuras do dragão antigo vencido por Deus (Sl 73,13-14; Is 27,1), e que o Apocalipse identifica com Satanás (Ap 12,9). O “chifre” que Deus faz brotar para Israel é lido como anúncio do “poder de salvação” suscitado na casa de Davi (Lc 1,69).",
+    "moral": "Dizer “o rio é meu, eu o fiz” é a soberba de quem esquece que recebeu tudo. O Egito como “cana quebrada” ensina que quem se apoia em seguranças humanas acaba ferido por elas. E o oráculo sobre o salário de Nabucodonosor mostra que até os ímpios, sem saber, trabalham para Deus; a profecia, ajustada à história, é palavra viva, não fórmula rígida.",
+    "anagogico": "O monstro das águas será definitivamente vencido; no fim só o poder que Deus faz brotar em Cristo permanecerá, e todos os reinos soberbos serão humildes diante dele."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Crocodilo enorme, que te deitas no meio dos teus rios.” “O rio é meu, eu é que o fiz.” “Tu foste para a casa de Israel um apoio frágil de cana.” “Ele trabalhou para mim, diz o Senhor Deus.” “Farei brotar um chifre à casa de Israel.”",
+    "meditatio_perguntas": [
+      "O que eu digo “é meu, eu o fiz”, esquecendo que é dom?",
+      "Em que “cana quebrada” me apoio em vez de Deus?",
+      "Vejo Deus agir até por meio de pessoas que não o conhecem?"
+    ],
+    "oratio_guia": "Senhor, livra-me da soberba que diz “eu o fiz” e da confiança em canas quebradas. Faz brotar em mim a força da tua salvação e abre a minha boca para te louvar. Amém.",
+    "contemplatio_foco": {
+      "texto": "tu foste para a casa de Israel um apoio (frágil) de cana",
+      "ref": "Ez 29,6"
+    }
+  },
+  "ancoras": {
+    "29:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "10º ano, 10º mês, dia 12: janeiro de 587 a.C., durante o cerco de Jerusalém.",
+        "origem": "ia"
+      }
+    },
+    "29:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O 27º ano (571 a.C.) é a data mais tardia do livro. O oráculo reconhece que o cerco de Tiro não deu o resultado anunciado em 26,7-14.",
+        "origem": "ia"
+      }
+    },
+    "29:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Migdol, no delta, e Siene (Assuã), na fronteira sul: o Egito de ponta a ponta.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

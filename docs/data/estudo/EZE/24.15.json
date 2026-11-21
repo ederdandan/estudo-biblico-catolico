@@ -1,0 +1,57 @@
+{
+  "id": "EZE.24.15",
+  "livro": "EZE",
+  "titulo": "A morte da esposa do profeta",
+  "secao": "O juízo sobre Jerusalém",
+  "referencia": "Ez 24,15-27",
+  "ini": {
+    "c": 24,
+    "v": 15
+  },
+  "fim": {
+    "c": 24,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "A morte da delícia dos olhos: o profeta que não chora",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus avisa Ezequiel: vou tirar-te de um golpe a delícia dos teus olhos, a tua esposa; mas não farás luto, não chorarás, não derramarás lágrimas. Geme em silêncio; põe o turbante na cabeça e as sandálias nos pés, não cubras o rosto, não comas o pão do luto. “Falei de manhã ao povo, e à tarde morreu minha mulher; ao outro dia, pela manhã, fiz o que me tinha sido ordenado.” O povo, espantado, pergunta: não nos explicas o que significa isto para nós? Ezequiel responde: o Senhor vai profanar o seu santuário, o orgulho da vossa força, a delícia dos vossos olhos, o amor das vossas almas; os filhos que deixastes em Jerusalém cairão pela espada. E fareis como eu fiz: não fareis luto público nem chorareis; vos consumireis nas vossas iniquidades e gemereis uns com os outros. “Ezequiel será para vós um sinal.” A tragédia será tão grande que o luto habitual não bastará. E Deus diz ao profeta: no dia em que um fugitivo vier contar a queda, a tua boca se abrirá, falarás e não ficarás mais mudo.",
+    "alegorico": "O profeta que perde a esposa e se torna sinal para o povo antecipa Cristo, cuja dor pessoal se torna sinal e salvação para todos. A perda do Templo, “delícia dos olhos”, prepara a revelação do verdadeiro Templo, o Corpo de Cristo, destruído e reerguido.",
+    "moral": "É um dos textos mais dolorosos dos profetas: a vida pessoal de Ezequiel, até o seu luto, é posta a serviço da palavra. O silêncio pedido não é frieza, mas um gemido contido que fala mais que o pranto. Ensina também a perguntar o que é “a delícia dos meus olhos”: há coisas santas, como o Templo, que podem tornar-se seguranças que Deus precisa tirar.",
+    "anagogico": "A boca do profeta se abrirá quando a notícia chegar: depois do silêncio do juízo vem a palavra da restauração (caps. 33–48). Também o nosso luto espera a palavra da ressurreição."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vou tirar-te dum golpe aquilo que é mais agradável aos teus olhos.” “Geme em silêncio.” “Falei de manhã ao povo, e à tarde morreu minha mulher.” “Por que nos não explicas o que significam estas coisas?” “Ezequiel será para vós um sinal.” “Abrir-se-á a tua boca.”",
+    "meditatio_perguntas": [
+      "Qual é a “delícia dos meus olhos” que poderia tornar-se segurança fora de Deus?",
+      "Como vivo as perdas: posso oferecê-las a Deus como sinal?",
+      "Sei gemer em silêncio diante de Deus quando as palavras não bastam?"
+    ],
+    "oratio_guia": "Senhor, que pediste ao teu profeta o sacrifício da delícia dos seus olhos, consola os que choram os seus mortos. Ensina-me a pôr tudo nas tuas mãos e a esperar a palavra que vem depois do silêncio. Amém.",
+    "contemplatio_foco": {
+      "texto": "Falei de manhã ao povo, e à tarde morreu minha mulher",
+      "ref": "Ez 24,18"
+    }
+  },
+  "ancoras": {
+    "24:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os ritos de luto incluíam descobrir a cabeça, andar descalço, cobrir a barba e comer o pão oferecido pelos vizinhos (cf. Jr 16,7).",
+        "origem": "ia"
+      }
+    },
+    "24:27": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O cumprimento está em 33,21-22: a notícia chega e a boca do profeta se abre.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

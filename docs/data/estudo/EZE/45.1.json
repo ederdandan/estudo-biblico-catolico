@@ -1,0 +1,57 @@
+{
+  "id": "EZE.45.1",
+  "livro": "EZE",
+  "titulo": "A porção sagrada, o príncipe e as festas",
+  "secao": "O novo Templo",
+  "referencia": "Ez 45,1–46,24",
+  "ini": {
+    "c": 45,
+    "v": 1
+  },
+  "fim": {
+    "c": 46,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "Praticai o direito e a justiça: a terra, o príncipe e as festas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quando a terra for repartida, uma porção será reservada ao Senhor: uma faixa sagrada no centro, com o santuário no meio, as residências dos sacerdotes, a parte dos levitas e a da cidade, que pertence a toda a casa de Israel. O príncipe terá a sua porção dos dois lados, para que não oprima mais o povo. E vem um apelo direto: “Baste-vos, ó príncipes de Israel! Cessai de cometer a violência e as rapinas, praticai o direito e a justiça, não sobrecarregueis com mais exações o meu povo.” Que as balanças e as medidas sejam justas. O povo dará ao príncipe uma contribuição fixa de trigo, cevada, azeite e gado, e o príncipe se encarregará dos holocaustos e oferendas das festas, sábados e luas novas. Seguem as prescrições do calendário: a purificação do santuário no primeiro dia do primeiro mês; a Páscoa no dia catorze, com pães ázimos durante sete dias e o sacrifício pelo pecado oferecido pelo príncipe por si e pelo povo; a festa do sétimo mês. Também são reguladas as entradas: a porta oriental do átrio interior se abre só no sábado e na lua nova; o príncipe adora no limiar, e o povo adora à entrada da porta. Nas festas, quem entra por uma porta sai pela oposta, para não voltar pelo mesmo caminho. O príncipe não pode tomar a herança do povo pela violência; dará herança aos filhos do que é seu, “a fim de que ninguém do meu povo seja esbulhado da sua possessão”. Por fim, são mostradas as cozinhas onde se cozem os sacrifícios.",
+    "alegorico": "O príncipe que oferece o sacrifício pascal por si e pelo povo prefigura Cristo, Rei e Sacerdote, que se oferece de uma vez por todas. O centro da terra reservado a Deus mostra que, no Reino, tudo se organiza ao redor da presença do Senhor.",
+    "moral": "Culto e justiça andam juntos: o mesmo texto que regula a liturgia exige balanças justas e proíbe que o governante despoje o povo. A regra de não sair pela mesma porta por onde se entrou é bela: quem encontra Deus não volta igual, mas segue adiante por outro caminho.",
+    "anagogico": "A terra repartida com o Senhor no centro é imagem do mundo renovado, onde não haverá mais opressão, e onde todos terão parte na herança."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Separai, como oferta reservada ao Senhor, um pedaço da terra.” “Cessai de cometer a violência e as rapinas, praticai o direito e a justiça.” “Seja justa a vossa balança.” “Aquele que entrar pelo pórtico do aquilão… saia pelo pórtico do meio-dia.” “A fim de que ninguém do meu povo seja esbulhado.”",
+    "meditatio_perguntas": [
+      "Deus está no centro da “partilha” da minha vida, do meu tempo e dos meus bens?",
+      "As minhas “balanças” são justas no trabalho e nos negócios?",
+      "Saio de cada encontro com Deus por um caminho novo?"
+    ],
+    "oratio_guia": "Senhor, sê o centro da minha vida e da minha terra. Faz que eu pratique o direito e a justiça, e que de cada encontro contigo eu saia por um caminho novo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Cessai de cometer a violência e as rapinas, praticai o direito e a justiça",
+      "ref": "Ez 45,9"
+    }
+  },
+  "ancoras": {
+    "45:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Páscoa no 14º dia do 1º mês segue Ex 12; aqui o príncipe, e não o sumo sacerdote, oferece o sacrifício pelo povo.",
+        "origem": "ia"
+      }
+    },
+    "46:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A regra de sair pela porta oposta servia para ordenar a multidão nas festas; os Padres a leram como imagem da conversão.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

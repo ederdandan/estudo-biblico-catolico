@@ -1,0 +1,57 @@
+{
+  "id": "EZE.19.1",
+  "livro": "EZE",
+  "titulo": "Lamentação sobre os príncipes de Israel",
+  "secao": "O juízo sobre Jerusalém",
+  "referencia": "Ez 19,1-14",
+  "ini": {
+    "c": 19,
+    "v": 1
+  },
+  "fim": {
+    "c": 19,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "Lamentação sobre os príncipes: a leoa e a videira",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus manda o profeta entoar uma lamentação fúnebre sobre os príncipes de Israel. A mãe, a nação de Judá ou a rainha-mãe, era uma leoa entre leões, que criava os seus filhotes. Um deles cresceu, aprendeu a despedaçar a presa e a devorar homens; as nações o apanharam numa cova e o levaram com ganchos para o Egito: é Joacaz, deportado pelo faraó. A leoa, vendo a esperança perdida, fez de outro filhote um leão; ele devastou palácios e cidades, até que as nações o prenderam numa rede, o puseram numa jaula e o levaram ao rei de Babilônia, para que o seu rugido não se ouvisse mais sobre os montes de Israel: é Joaquin. A segunda imagem: a mãe era uma videira plantada junto às águas, frondosa, com ramos fortes que viraram cetros de soberanos, alta no meio da folhagem. Mas foi arrancada com fúria, lançada por terra; o vento do oriente secou o fruto, o fogo devorou os ramos; agora está plantada no deserto, numa terra seca. De um dos seus ramos saiu o fogo que a consumiu, e já não há nela ramo forte para cetro de rei. “Cântico lúgubre é este, e para pranto servirá.”",
+    "alegorico": "A videira sem cetro parece pôr fim à dinastia de Davi, mas Deus prometeu um raminho novo (17,22-24). Cristo, “leão da tribo de Judá” (Ap 5,5) e videira verdadeira, é o rei que a casa de Davi não conseguiu dar, e reina não devorando homens, mas dando a vida por eles.",
+    "moral": "O poder que aprende a “devorar homens” termina enjaulado. A lamentação mostra que a ruína dos governantes é tragédia para todo o povo. “De um dos seus ramos saiu o fogo”: a destruição veio de dentro, dos próprios reis infiéis. É um aviso para todo poder: a sua corrupção consome a casa inteira.",
+    "anagogico": "A videira transplantada para o deserto espera a primavera de Deus. O pranto sobre os reis prepara o anúncio do Rei messiânico cujo reino não terá fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Que era a tua mãe? Uma leoa entre leões.” “Aprendeu a despedaçar uma presa e devorou homens.” “Tua mãe, sendo como uma videira plantada junto das águas.” “Dos seus ramos saiu uma chama que devorou o seu fruto.” “Cântico lúgubre é este, e para pranto servirá.”",
+    "meditatio_perguntas": [
+      "Uso a autoridade que tenho para servir ou para “devorar”?",
+      "Que “fogo” sai de dentro de mim e consome o meu próprio fruto?",
+      "Rezo pelos governantes, sabendo que a sua ruína atinge a todos?"
+    ],
+    "oratio_guia": "Senhor, Rei verdadeiro que não devoras, mas dás a vida, purifica os que governam e guarda o teu povo. Que nenhum fogo saia do meu coração para destruir o fruto que plantaste. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tua mãe, sendo como uma videira plantada junto das águas, deu frutos e lançou folhagem",
+      "ref": "Ez 19,10"
+    }
+  },
+  "ancoras": {
+    "19:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Joacaz foi levado ao Egito pelo faraó Necao em 609 a.C. (2Rs 23,33-34).",
+        "origem": "ia"
+      }
+    },
+    "19:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Provavelmente Joaquin (597 a.C.); outros pensam em Sedecias (587 a.C.).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

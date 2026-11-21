@@ -1,0 +1,49 @@
+{
+  "id": "EZE.15.1",
+  "livro": "EZE",
+  "titulo": "A lenha da videira",
+  "secao": "O juízo sobre Jerusalém",
+  "referencia": "Ez 15,1-8",
+  "ini": {
+    "c": 15,
+    "v": 1
+  },
+  "fim": {
+    "c": 15,
+    "v": 8
+  },
+  "liturgia": {
+    "tema_central": "A videira que não dá fruto só serve para o fogo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Uma breve parábola. Deus pergunta ao profeta: que vale o lenho da videira em comparação com as árvores da floresta? Pode-se tirar dele madeira para alguma obra, ou ao menos uma estaca para pendurar um objeto? Não: é lançado ao fogo como combustível. E se mesmo inteiro não servia para nada, muito menos depois que o fogo lhe queimou as duas pontas e chamuscou o meio. A aplicação é direta: assim como, entre as árvores do bosque, o lenho da videira é destinado ao fogo, assim Deus entregará os habitantes de Jerusalém. Escaparam de um fogo (a deportação de 597), mas outro fogo os consumirá. Deus voltará contra eles o rosto e tornará a terra deserta, porque foram infiéis.",
+    "alegorico": "Israel era a vinha do Senhor (Is 5; Sl 79). Jesus retoma a imagem: “Eu sou a videira verdadeira… Se alguém não permanecer em mim, será lançado fora como o sarmento, e secará; e o lançarão ao fogo” (Jo 15,1-6). A videira só tem valor pelo fruto, e o fruto só vem da união com Cristo.",
+    "moral": "A videira não tem madeira nobre; o seu único valor é o fruto. Assim também a nossa vida: não vale pelo que parecemos, mas pelo fruto de amor que damos. Uma vida cristã sem frutos perde a razão de ser. E as provações já sofridas (as pontas queimadas) são chamados a dar fruto enquanto há tempo.",
+    "anagogico": "No juízo, o que conta é o fruto. Permanecer em Cristo é a condição para não ser lançado ao fogo, mas recolhido no celeiro de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Por que há-de valer mais o pau da vide que o de qualquer outro ramo?” “Tomar-se-á dela um pau que sirva para se fazer alguma obra?” “Eis que se lança ao fogo.” “Escaparam ao fogo, mas o fogo os consumirá.”",
+    "meditatio_perguntas": [
+      "Que frutos a minha vida produz para Deus?",
+      "Estou unido a Cristo, a videira verdadeira, ou separado como sarmento seco?",
+      "Aprendi com as provações já sofridas ou continuo sem fruto?"
+    ],
+    "oratio_guia": "Senhor Jesus, videira verdadeira, faz-me permanecer em ti para dar fruto. Não permitas que a minha vida seja lenha seca, mas ramo carregado do teu amor. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porventura tomar-se-á dela um pau que sirva para se fazer alguma obra",
+      "ref": "Ez 15,3"
+    }
+  },
+  "ancoras": {
+    "15:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Escaparam ao fogo”: alusão à primeira deportação (597 a.C.); o segundo fogo é a destruição de 587 a.C.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "EZE.47.1",
+  "livro": "EZE",
+  "titulo": "As águas que saem do Templo",
+  "secao": "O novo Templo",
+  "referencia": "Ez 47,1-12",
+  "ini": {
+    "c": 47,
+    "v": 1
+  },
+  "fim": {
+    "c": 47,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "A torrente que sai do templo: onde chegar, tudo viverá",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O guia traz o profeta de volta à entrada do templo. E eis que águas brotam de debaixo do limiar, para o oriente, pelo lado direito do templo, ao sul do altar. O profeta sai pela porta do norte e vê as águas correndo do lado direito. O homem mede mil côvados e o faz atravessar: a água dá pelos tornozelos. Mais mil: dá pelos joelhos. Mais mil: pelos rins. Mais mil: é uma torrente que não se pode atravessar, águas que só se passam a nado. “Viste, filho de homem?” Nas duas margens há muitíssimas árvores. O guia explica: estas águas vão para a região oriental, descem ao Arabá e entram no mar Morto, e as suas águas se tornarão sãs. “Todo o animal vivo… viverá por toda a parte onde chegar a torrente”; haverá peixes em grande quantidade; pescadores estenderão as redes desde Engadi até Engalim. Só os pântanos ficarão salgados, para o sal. Nas margens crescerão árvores frutíferas de toda espécie, cuja folha não murchará e cujo fruto não faltará: darão frutos novos todos os meses, porque as suas águas saem do santuário; os frutos servirão de alimento e as folhas de remédio.",
+    "alegorico": "Jesus, na festa dos Tabernáculos, proclama: “Do seu seio correrão rios de água viva”, falando do Espírito (Jo 7,37-39). Do lado direito do novo Templo, o corpo de Cristo, trespassado na cruz, saem sangue e água (Jo 19,34): os Padres viram ali o Batismo e a Eucaristia, e a Igreja canta no tempo pascal o “Vidi aquam”, a água que sai do lado direito do templo. O Apocalipse retoma o rio e as árvores de folhas medicinais (Ap 22,1-2).",
+    "moral": "A graça cresce: primeiro pelos tornozelos, depois pelos joelhos, pelos rins, até que é preciso nadar, isto é, abandonar-se. O caminho espiritual vai do controle ao abandono. E onde a graça chega, até o mar Morto da nossa vida pode voltar a ter peixes. Os frutos “de cada mês” falam de uma fecundidade constante, que vem de estar enraizado junto à fonte.",
+    "anagogico": "O rio da água da vida, que sai do trono de Deus e do Cordeiro, regará a cidade eterna; as folhas da árvore da vida servirão para curar as nações (Ap 22,1-2)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eis que brotavam águas debaixo do limiar da porta.” “A água… me dava pelos tornozelos… pelos joelhos… pelos rins.” “Era já uma torrente que não pude atravessar.” “Onde chegarem estas águas, as outras se tornarão sãs.” “Não lhes cairá a folha, nem faltará o fruto.”",
+    "meditatio_perguntas": [
+      "Até onde deixo entrar em mim a água da graça: tornozelos, joelhos, ou me entrego a nadar?",
+      "Que “mar Morto” há na minha vida esperando ser curado?",
+      "Estou plantado junto à fonte que sai do santuário?"
+    ],
+    "oratio_guia": "Senhor Jesus, de cujo lado aberto brotou a água viva, faz-me entrar no rio da tua graça até me abandonar inteiramente. Cura o que está morto em mim e faz-me dar fruto todos os meses. Amém.",
+    "contemplatio_foco": {
+      "texto": "onde chegarem estas águas, as outras se tornarão sãs e haverá vida em toda a parte",
+      "ref": "Ez 47,9"
+    }
+  },
+  "ancoras": {
+    "47:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto do “Vidi aquam”, antífona da aspersão no tempo pascal.",
+        "origem": "ia"
+      }
+    },
+    "47:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Engadi fica na margem ocidental do mar Morto; Engalim talvez no extremo norte. No mar Morto, pela salinidade, não há peixes.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

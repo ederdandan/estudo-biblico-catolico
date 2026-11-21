@@ -1,0 +1,57 @@
+{
+  "id": "EZE.26.1",
+  "livro": "EZE",
+  "titulo": "Contra Tiro",
+  "secao": "Oráculos contra as nações",
+  "referencia": "Ez 26,1-21",
+  "ini": {
+    "c": 26,
+    "v": 1
+  },
+  "fim": {
+    "c": 26,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "Tiro, que se alegrou com a ruína de Jerusalém",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No décimo primeiro ano, Deus fala contra Tiro, a grande cidade fenícia construída numa ilha diante da costa. Quando Jerusalém caiu, Tiro disse: “É bem feito! Foi quebrada a porta dos povos! Volta-se para mim!”, esperando enriquecer com o comércio que passava pela cidade arruinada. Por isso Deus fará subir contra Tiro muitas nações, como o mar levanta as suas ondas; derrubarão muros e torres, e Deus varrerá até o pó, deixando-a rocha nua, lugar onde os pescadores estendem as redes. Nabucodonosor, “rei dos reis”, virá com cavalos, carros e cavaleiros, levantará cercos e rampas, baterá os muros com aríetes; os cavalos cobrirão a cidade de poeira e pisarão as ruas; as riquezas serão saqueadas e as pedras lançadas ao mar. Cessará o som dos cantos e das cítaras. As ilhas tremerão com a queda; os príncipes do mar descerão dos tronos, tirarão os mantos e se sentarão na terra, entoando uma lamentação: como pereceste, cidade célebre, poderosa no mar! Deus fará Tiro descer à cova, junto com os mortos antigos; buscarão por ela e não a acharão.",
+    "alegorico": "A queda de Tiro, cidade do comércio e da riqueza, é retomada no Apocalipse na lamentação dos reis e mercadores sobre a Babilônia (Ap 18,9-19). É a figura do mundo que vive do lucro e se alegra quando o concorrente cai.",
+    "moral": "Tiro pensa como um negociante: a desgraça do vizinho é oportunidade de lucro. Deus julga essa mentalidade que transforma a dor alheia em vantagem. Toda grandeza fundada no comércio e na riqueza pode tornar-se, em pouco tempo, rocha nua onde se secam as redes.",
+    "anagogico": "As cidades orgulhosas descem à cova; só a cidade cujo arquiteto é Deus permanece (Hb 11,10)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“É bem feito! Foi quebrada a porta dos povos! Volta-se para mim!” “Farei subir contra ti muitas nações, como o mar faz subir as suas ondas.” “Virá a ser no meio do mar como um enxugadouro das redes.” “Farei cessar o ruído dos teus cantares.” “Como pereceste… ó cidade célebre?”",
+    "meditatio_perguntas": [
+      "Vejo na desgraça alheia uma oportunidade para mim?",
+      "Em que construo a minha segurança: no lucro ou em Deus?",
+      "Que “cantares e cítaras” poderiam silenciar se Deus não estiver no centro?"
+    ],
+    "oratio_guia": "Senhor, livra-me da mentalidade que lucra com a dor dos outros. Que eu não edifique a minha vida sobre riquezas que viram rocha nua, mas sobre ti, que permaneces para sempre. Amém.",
+    "contemplatio_foco": {
+      "texto": "Virá a ser no meio do mar como um enxugadouro das redes",
+      "ref": "Ez 26,5"
+    }
+  },
+  "ancoras": {
+    "26:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O 11º ano é 587/586 a.C., o ano da queda de Jerusalém.",
+        "origem": "ia"
+      }
+    },
+    "26:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Nabucodonosor cercou Tiro durante treze anos (c. 586–573 a.C.) sem tomá-la de assalto; a ilha só foi destruída por Alexandre Magno em 332 a.C. (cf. Ez 29,17-20).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "EZE.4.1",
+  "livro": "EZE",
+  "titulo": "O cerco figurado e os cabelos cortados",
+  "secao": "O juízo sobre Jerusalém",
+  "referencia": "Ez 4,1–5,17",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "O profeta carrega a iniquidade do povo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ezequiel recebe ordens para encenar o cerco de Jerusalém. Desenha a cidade num tijolo, monta em torno dela trincheiras, rampas, acampamentos e aríetes, e põe entre si e a cidade uma chapa de ferro, como muro: é um sinal para a casa de Israel. Depois deve deitar-se sobre o lado esquerdo durante trezentos e noventa dias, carregando a iniquidade de Israel, um dia por ano; e sobre o lado direito quarenta dias, pela iniquidade de Judá, com o rosto voltado para a cidade sitiada e o braço descoberto. Prepara um pão misturado de trigo, cevada, favas, lentilhas, milho e espelta, comido em ração de vinte siclos por dia, com a água medida: é a fome do cerco. Deus ordena cozê-lo sobre excrementos humanos, sinal do pão impuro do exílio; o profeta, sacerdote, protesta que nunca se contaminou, e Deus permite esterco de boi. Em seguida, Ezequiel raspa a cabeça e a barba com uma espada, pesa os cabelos e os divide em três partes: um terço queimado no meio da cidade, um terço cortado à espada ao redor, um terço lançado ao vento. Guarda alguns fios na orla do manto, mas até destes alguns vão ao fogo. A explicação: Jerusalém, posta no meio das nações, foi mais rebelde que elas; um terço morrerá de peste e fome, um terço pela espada, um terço será disperso. Assim saberão que o Senhor falou no seu zelo.",
+    "alegorico": "O profeta que carrega sobre si a iniquidade do povo, deitado e acorrentado, é figura do Servo que “tomou sobre si as nossas iniquidades” (Is 53,4-6) e de Cristo, que levou os nossos pecados no seu corpo sobre o madeiro (1Pd 2,24). Os poucos cabelos guardados na orla do manto são o “resto” que Deus preserva.",
+    "moral": "Ezequiel não anuncia o castigo de longe: o vive no próprio corpo, com fome, imobilidade e humilhação. Quem intercede de verdade carrega algo do peso dos outros. O protesto do profeta, que não quer contaminar-se, mostra que Deus escuta e modera as suas ordens. E a lição de Jerusalém é dura: quem mais recebeu, mais será julgado.",
+    "anagogico": "Mesmo no juízo mais severo, Deus guarda um resto na orla do seu manto, imagem dos que pertencem a ele e serão salvos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Pega num tijolo… e desenha nele uma cidade: Jerusalém.” “Tomarás sobre ti as suas iniquidades.” “Ai, Senhor Deus, a minha alma não está manchada!” “Reservarás uma pequena quantidade, que atarás nas orlas da tua capa.” “Esta é aquela Jerusalém que coloquei no meio das nações.”",
+    "meditatio_perguntas": [
+      "Estou disposto a carregar algo do peso dos irmãos na minha oração e no meu corpo?",
+      "Tenho a liberdade de dizer a Deus o que me custa, como o profeta?",
+      "Quanto recebi de Deus, e como correspondo?"
+    ],
+    "oratio_guia": "Senhor Jesus, que carregaste as nossas iniquidades, ensina-me a interceder pelos irmãos com todo o meu ser. Guarda-me na orla do teu manto, entre os que te pertencem. Amém.",
+    "contemplatio_foco": {
+      "texto": "Reservarás uma pequena quantidade, que atarás nas orlas da tua capa",
+      "ref": "Ez 5,3"
+    }
+  },
+  "ancoras": {
+    "4:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os 390 e 40 anos são números simbólicos; somados (430) lembram os anos da escravidão no Egito (Ex 12,40), como se Israel voltasse a uma nova escravidão.",
+        "origem": "ia"
+      }
+    },
+    "4:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Usar excremento seco como combustível era comum; o problema era a impureza ritual (Dt 23,13-15).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

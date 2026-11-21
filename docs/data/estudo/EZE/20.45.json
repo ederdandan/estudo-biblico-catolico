@@ -1,0 +1,65 @@
+{
+  "id": "EZE.20.45",
+  "livro": "EZE",
+  "titulo": "A espada afiada",
+  "secao": "O juízo sobre Jerusalém",
+  "referencia": "Ez 20,45–21,32",
+  "ini": {
+    "c": 20,
+    "v": 45
+  },
+  "fim": {
+    "c": 21,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "A espada desembainhada: até que venha aquele a quem pertence o direito",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O profeta volta o rosto para o sul e profetiza contra a floresta do Négueb: Deus acenderá nela um fogo que consumirá a árvore verde e a seca. Ezequiel se queixa: dizem de mim que só falo em parábolas. Então a imagem se torna explícita: volta o rosto para Jerusalém e para o santuário; Deus tirará a espada da bainha e não a guardará mais. O profeta deve gemer diante de todos, com os rins quebrados; quando perguntarem por quê, dirá: pela notícia que vem, diante da qual todo coração desfalece. Segue o “canto da espada”: afiada para matar, polida para reluzir, posta na mão do executor; o profeta grita, uiva, bate na coxa, bate palmas; a espada se duplica, triplica, golpeia à direita e à esquerda. Depois, uma cena: o rei de Babilônia, numa encruzilhada, hesita entre atacar Rabá dos amonitas ou Jerusalém; consulta a sorte com flechas, os ídolos domésticos e o fígado das vítimas; a sorte cai sobre Jerusalém. Ao “profano e ímpio príncipe de Israel”, Sedecias, Deus diz: “Tira a tiara, depõe a coroa! Tudo vai mudar. O baixo será elevado, e o alto abaixado.” “Ruína, ruína, ruína!… até que venha aquele a quem pertence o direito e a quem o entregarei.” Por fim, a espada se volta também contra Amon.",
+    "alegorico": "“Até que venha aquele a quem pertence o direito” retoma Gn 49,10 (“até que venha aquele a quem pertence o cetro”): a dinastia de Davi cai, mas a coroa fica reservada ao Messias, Cristo, Rei por direito. O “baixo elevado e o alto abaixado” ecoa no Magnificat (Lc 1,52). Jesus, a caminho da cruz, retoma a imagem da árvore verde e da seca (Lc 23,31).",
+    "moral": "O profeta geme diante do povo: há notícias que pedem lágrimas, não indiferença. A cena do rei de Babilônia que consulta presságios mostra que Deus conduz a história até pelos meios dos pagãos. E o poder humano é provisório: tiaras e coroas são depostas; só o direito de Cristo é definitivo.",
+    "anagogico": "A coroa reservada “àquele a quem pertence o direito” será dada a Cristo no fim, quando todo joelho se dobrar diante dele. Até lá, toda realeza terrena é provisória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Toda a carne verá que eu, o Senhor, lancei o fogo.” “Geme… com o coração despedaçado e repleto de amargura.” “A espada, sim, a espada está aguçada e polida.” “Tira a tiara, depõe a coroa! Tudo vai mudar.” “Até que venha aquele a quem pertence o direito.”",
+    "meditatio_perguntas": [
+      "Gemo diante de Deus pelos males que vêm sobre o mundo?",
+      "Que “coroa” preciso depor diante de Cristo, a quem pertence o direito?",
+      "Creio que Deus conduz a história mesmo quando parece entregue ao acaso?"
+    ],
+    "oratio_guia": "Senhor Jesus, a quem pertence o direito e a coroa, reina sobre mim. Depõe em mim toda soberba e eleva o que é humilde. Que a espada do juízo encontre em mim um coração convertido. Amém.",
+    "contemplatio_foco": {
+      "texto": "O baixo será elevado, e o alto abaixado",
+      "ref": "Ez 21,26"
+    }
+  },
+  "ancoras": {
+    "20:45": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na Bíblia hebraica, 20,45-49 corresponde a 21,1-5, e o cap. 21 tem 37 versículos; Matos Soares segue a Vulgata.",
+        "origem": "ia"
+      }
+    },
+    "21:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Três técnicas de adivinhação babilônica: flechas sacudidas na aljava, consulta aos terafim (ídolos domésticos) e exame do fígado (hepatoscopia).",
+        "origem": "ia"
+      }
+    },
+    "21:27": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Eco de Gn 49,10, que a tradição judaica e cristã leu como profecia messiânica.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

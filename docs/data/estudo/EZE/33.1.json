@@ -1,0 +1,57 @@
+{
+  "id": "EZE.33.1",
+  "livro": "EZE",
+  "titulo": "Não quero a morte do ímpio",
+  "secao": "A restauração de Israel",
+  "referencia": "Ez 33,1-20",
+  "ini": {
+    "c": 33,
+    "v": 1
+  },
+  "fim": {
+    "c": 33,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "Constituí-te sentinela: convertei-vos, por que haveis de morrer?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Abre-se a segunda grande parte do livro, a da restauração, com a renovação da vocação do profeta. Deus propõe uma parábola: quando a espada vem sobre um país, o povo escolhe uma sentinela; se ela vê o perigo e toca a trombeta, quem não ouve é responsável pela própria morte; mas se a sentinela vê a espada e não avisa, Deus pedirá contas do sangue à sentinela. “Ora tu, filho de homem, és aquele a quem constituí sentinela na casa de Israel.” Se Deus diz ao ímpio “morrerás” e o profeta se cala, o ímpio morrerá, mas o seu sangue será pedido ao profeta; se avisar e o ímpio não se converter, o profeta salvou a sua alma. Agora o povo, esmagado, diz: os nossos pecados estão sobre nós e nos consumimos; como poderemos viver? Deus responde com juramento: “Juro pela minha vida… que não quero a morte do ímpio, mas sim que se converta do seu mau proceder e viva. Convertei-vos, convertei-vos dos vossos maus caminhos! Por que haveis de morrer, casa de Israel?” Retoma-se a doutrina do cap. 18: a justiça passada não salva quem peca hoje, e a impiedade passada não condena quem se converte, restitui o penhor e devolve o roubado. O povo diz que o caminho do Senhor não é reto; Deus julgará cada um segundo as suas obras.",
+    "alegorico": "A sentinela é figura do pastor na Igreja: bispos, sacerdotes e todo cristão que tem a missão de anunciar a verdade. São Gregório Magno meditou longamente este texto sobre a responsabilidade dos pregadores. Cristo é a sentinela perfeita, que não só avisa, mas toma sobre si o golpe da espada.",
+    "moral": "Calar a verdade por medo ou comodidade é falta grave para quem tem responsabilidade sobre outros. Mas o resultado não depende do mensageiro: quem avisou “salvou a sua alma”. E para quem se sente esmagado pelos pecados (“como poderemos viver?”), a resposta de Deus não é condenação, mas um apelo à conversão.",
+    "anagogico": "Deus jura pela própria vida que quer a nossa vida. A trombeta da sentinela anuncia a trombeta final; quem a ouve agora e se converte não temerá aquela."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Tu, filho de homem, és aquele a quem constituí sentinela na casa de Israel.” “As nossas iniquidades… estão sobre nós… como poderemos viver?” “Não quero a morte do ímpio, mas sim que se converta… e viva.” “Convertei-vos, convertei-vos dos vossos maus caminhos!”",
+    "meditatio_perguntas": [
+      "Por quem Deus me constituiu “sentinela”?",
+      "Calo a verdade por medo de desagradar?",
+      "Quando me sinto esmagado pelo pecado, escuto o apelo de Deus à vida?"
+    ],
+    "oratio_guia": "Senhor, que juras pela tua vida que queres a minha vida, converte-me de novo. Dá-me coragem de ser sentinela fiel para os que me confiaste, sem calar a tua palavra. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ora tu, filho de homem, és aquele a quem constituí sentinela na casa de Israel",
+      "ref": "Ez 33,7"
+    }
+  },
+  "ancoras": {
+    "33:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O cap. 33 retoma 3,16-21 e o cap. 18, marcando o início da segunda parte do livro.",
+        "origem": "ia"
+      }
+    },
+    "33:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A conversão inclui a reparação concreta: devolver o penhor e restituir o roubado.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

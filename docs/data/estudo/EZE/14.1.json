@@ -1,0 +1,49 @@
+{
+  "id": "EZE.14.1",
+  "livro": "EZE",
+  "titulo": "Ídolos no coração; Noé, Daniel e Jó",
+  "secao": "O juízo sobre Jerusalém",
+  "referencia": "Ez 14,1-23",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Ídolos no coração; Noé, Daniel e Jó",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Alguns anciãos de Israel se sentam diante de Ezequiel para consultar o Senhor. Mas Deus lhe revela: “essas pessoas instalaram os seus ídolos nos seus corações” e põem diante dos olhos o tropeço da sua iniquidade; deverei deixar-me consultar por eles? Qualquer israelita ou estrangeiro que, com ídolos no coração, vier consultar um profeta, receberá do próprio Deus a resposta: Deus voltará o rosto contra ele. Por isso o apelo: “Convertei-vos, retirai-vos dos vossos ídolos, afastai o vosso rosto de todas as vossas abominações.” Se um profeta se deixar seduzir e responder, também será punido, para que Israel não se extravie mais e seja o povo de Deus. Em seguida, um princípio de justiça pessoal: se uma terra pecar e Deus mandar fome, feras, espada ou peste, ainda que estivessem nela três homens justos, Noé, Daniel e Jó, eles salvariam só a própria vida pela sua justiça; não livrariam nem filhos nem filhas. Contudo, de Jerusalém sairá um resto de sobreviventes; quando os exilados virem o comportamento deles, reconhecerão que Deus não agiu sem motivo, e serão consolados.",
+    "alegorico": "Os três justos — Noé, que atravessou o dilúvio; Daniel, fiel no exílio; Jó, paciente na prova — são figuras do Justo único, Cristo, cuja justiça salva não só a si, mas a todos os que nele creem. A intercessão de Abraão (Gn 18) e a de Moisés encontram nele a sua plenitude.",
+    "moral": "Não se pode consultar a Deus com ídolos no coração: a oração exige pureza de intenção. Buscar a vontade de Deus enquanto se agarra ao próprio ídolo é querer que Deus confirme o que já se decidiu. E ninguém se salva pela santidade de outros: a fé é pessoal, embora a intercessão dos santos ajude.",
+    "anagogico": "No juízo, cada um responderá por si. A justiça de Noé, Daniel e Jó é promessa de que a fidelidade pessoal é guardada por Deus mesmo quando tudo ao redor cai."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Essas pessoas instalaram os seus ídolos nos seus corações.” “Acaso deverei permitir que me consultem?” “Convertei-vos, retirai-vos dos vossos ídolos.” “Ainda que no meio dele se achem estes três homens, Noé, Daniel e Job.” “Não foi sem um justo motivo que eu fiz nela tudo o que fiz.”",
+    "meditatio_perguntas": [
+      "Que ídolo levo no coração quando venho rezar?",
+      "Busco a vontade de Deus ou a confirmação da minha?",
+      "Confio na fé dos outros em vez de cultivar a minha?"
+    ],
+    "oratio_guia": "Senhor, retira os ídolos do meu coração para que eu possa consultar-te com sinceridade. Dá-me a justiça perseverante de Noé, Daniel e Jó, e converte-me inteiramente a ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Convertei-vos, retirai-vos dos vossos ídolos, afastai o vosso rosto de todas as vossas abominações",
+      "ref": "Ez 14,6"
+    }
+  },
+  "ancoras": {
+    "14:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O Daniel aqui citado pode ser o sábio lendário Danel, conhecido dos textos de Ugarit; a tradição cristã o identificou com o profeta Daniel, contemporâneo de Ezequiel.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

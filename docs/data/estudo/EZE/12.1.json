@@ -1,0 +1,49 @@
+{
+  "id": "EZE.12.1",
+  "livro": "EZE",
+  "titulo": "A bagagem do exilado",
+  "secao": "O juízo sobre Jerusalém",
+  "referencia": "Ez 12,1-28",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "A bagagem do exilado: nenhuma palavra minha será adiada",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ezequiel vive no meio de uma casa rebelde, que tem olhos e não vê, ouvidos e não ouve. Deus lhe manda fazer um sinal mudo: preparar uma bagagem de exilado e tirá-la de casa em pleno dia, à vista de todos; à tarde, abrir um buraco na parede e sair por ele no escuro, com a bagagem às costas e o rosto coberto, sem ver a terra. Ele o faz. Na manhã seguinte, Deus pergunta: não te disseram “Que fazes?” Responde-lhes: “Eu sou para vós um símbolo”: assim acontecerá com o príncipe em Jerusalém e com o povo. O príncipe sairá no escuro por um buraco na muralha, com o rosto coberto; Deus estenderá sobre ele a sua rede; será levado a Babilônia, “mas ele não a verá, e lá morrerá”. Um pequeno resto escapará para contar as suas abominações entre as nações. Outro sinal: comer o pão com tremor e beber a água com angústia, como os de Jerusalém. Por fim, Deus responde a dois provérbios do povo: “Os dias passam, e em nada vão parar todas as visões”, e “ele profetiza para tempos remotos”. Deus diz: farei cessar esse provérbio; “não será mais diferida qualquer palavra minha; a palavra que eu proferir, cumprir-se-á”.",
+    "alegorico": "A profecia se cumpriu à letra em Sedecias, que fugiu de noite, foi preso e cegado antes de ir para Babilônia (Jr 52,7-11): ele foi, mas “não a viu”. O provérbio “as visões não se cumprem” é o mesmo dos escarnecedores que dizem “onde está a promessa da sua vinda?” (2Pd 3,4); a resposta é a mesma: Deus não tarda, é paciente.",
+    "moral": "Ezequiel prega com o corpo e a vida, não só com palavras: o testemunho fala quando as palavras já não são ouvidas. O texto adverte contra a ilusão de que a palavra de Deus é para “um dia distante” e por isso pode ser ignorada hoje. A conversão não admite adiamento.",
+    "anagogico": "A palavra de Deus se cumpre no tempo dele; o Senhor virá, e não tardará. Viver como exilado com a bagagem pronta é a atitude de quem espera a sua vinda."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Têm olhos para ver e não vêem.” “Vai preparando para ti uma bagagem de emigrante.” “Eu sou para vós um símbolo.” “Os dias passam, e em nada vão parar todas as visões?” “Não será mais diferida qualquer palavra minha.”",
+    "meditatio_perguntas": [
+      "Minha vida é um “sinal” que fala de Deus quando as palavras não chegam?",
+      "Adio a resposta à palavra de Deus achando que é para depois?",
+      "Vivo com a bagagem leve, pronto para partir?"
+    ],
+    "oratio_guia": "Senhor, cuja palavra não tarda, abre os meus olhos para ver e os meus ouvidos para ouvir. Que eu não adie a conversão e que a minha vida seja sinal da tua palavra. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não será mais diferida qualquer palavra minha; a palavra que eu proferir, cumprir-se-á, diz o Senhor",
+      "ref": "Ez 12,28"
+    }
+  },
+  "ancoras": {
+    "12:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Sedecias teve os olhos arrancados em Rebla e foi levado cego a Babilônia (2Rs 25,7): por isso “não a verá”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

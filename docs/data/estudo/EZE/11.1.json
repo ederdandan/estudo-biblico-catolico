@@ -1,0 +1,57 @@
+{
+  "id": "EZE.11.1",
+  "livro": "EZE",
+  "titulo": "Um coração novo; a glória deixa a cidade",
+  "secao": "O juízo sobre Jerusalém",
+  "referencia": "Ez 11,1-25",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "Tirarei o coração de pedra e darei um coração de carne",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O espírito leva Ezequiel à porta oriental do Templo, onde vinte e cinco homens, entre eles Jezonias e Feltias, chefes do povo, dão maus conselhos: “não estão as nossas casas edificadas há muito tempo? Esta cidade é a caldeira, e nós somos a carne”, isto é, estamos seguros aqui dentro. Deus conhece os pensamentos que sobem ao espírito deles: encheram a cidade de mortos; esses mortos é que são a carne; eles serão tirados da cidade e julgados nas fronteiras de Israel pela espada que temem. Enquanto Ezequiel profetiza, Feltias morre. O profeta cai com o rosto em terra: “Ai, Senhor Deus! Vais acabar com os restos de Israel?” A resposta de Deus inverte a lógica: os habitantes de Jerusalém diziam aos deportados: estais longe do Senhor, a terra é nossa. Mas Deus diz dos exilados: dispersei-os, “mas eu mesmo lhes servirei de santuário, durante breve tempo, nos países para onde foram”. Ele os reunirá, lhes dará a terra, e eles tirarão dela os ídolos. “E eu lhes darei um só coração e derramarei no seu íntimo um novo espírito; tirarei da sua carne o coração de pedra e dar-lhes-ei um coração de carne, para que andem nos meus preceitos.” Então a glória do Senhor se ergue, sai da cidade e para sobre o monte a oriente. O espírito leva Ezequiel de volta à Caldeia, e ele conta aos exilados tudo o que viu.",
+    "alegorico": "O coração de carne e o espírito novo são o dom do Espírito Santo na nova aliança (2Cor 3,3). A glória que pousa sobre o monte a oriente, o Monte das Oliveiras, prefigura Cristo, que dali chora sobre a cidade, ali agoniza e dali sobe aos céus (At 1,12). Deus feito “santuário” para os exilados anuncia Cristo, verdadeiro Templo presente onde dois ou três se reúnem em seu nome.",
+    "moral": "A falsa segurança de “estar dentro” da cidade santa é desmentida: Deus está com os que pareciam longe. Ninguém pode dizer do outro “estás longe do Senhor”. E a obediência não nasce de esforço sobre um coração de pedra, mas de um coração novo dado por Deus. A conversão é antes de tudo um transplante de coração.",
+    "anagogico": "“Serão o meu povo e eu o seu Deus”: o coração novo é o começo da vida eterna, em que Deus será tudo em todos. A glória que saiu voltará, e o povo reunido a verá."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Esta é a caldeira, e nós somos a carne.” “Eu conheço os pensamentos que sobem ao vosso espírito.” “Eu mesmo lhes servirei de santuário.” “Tirarei da sua carne o coração de pedra e dar-lhes-ei um coração de carne.” “A glória do Senhor… foi-se pôr sobre o monte que está no oriente da cidade.”",
+    "meditatio_perguntas": [
+      "Julgo alguém “longe do Senhor” enquanto me considero seguro “dentro”?",
+      "Onde o meu coração é de pedra e precisa ser trocado?",
+      "Creio que Deus é santuário para mim mesmo no exílio?"
+    ],
+    "oratio_guia": "Senhor, tira de mim o coração de pedra e dá-me um coração de carne. Derrama em mim um espírito novo, para que eu caminhe nos teus preceitos, e sê o meu santuário em todo lugar. Amém.",
+    "contemplatio_foco": {
+      "texto": "tirarei da sua carne o coração de pedra e dar-lhes-ei um coração de carne",
+      "ref": "Ez 11,19"
+    }
+  },
+  "ancoras": {
+    "11:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Provérbio dos dirigentes de Jerusalém: como a carne protegida na panela, eles se julgavam a parte escolhida, protegida pelos muros.",
+        "origem": "ia"
+      }
+    },
+    "11:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O monte a oriente de Jerusalém é o Monte das Oliveiras.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "EZE.10.1",
+  "livro": "EZE",
+  "titulo": "A glória sobre os querubins",
+  "secao": "O juízo sobre Jerusalém",
+  "referencia": "Ez 10,1-22",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "A glória do Senhor deixa a soleira do Templo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ezequiel vê de novo, no firmamento acima dos querubins, algo como um trono de safira. O Senhor manda o homem vestido de linho entrar entre as rodas, debaixo dos querubins, encher as mãos de brasas ardentes e espalhá-las sobre a cidade. A nuvem enche o átrio interior; a glória do Senhor se ergue de cima dos querubins e vai à soleira do Templo, que fica cheio da nuvem e do esplendor da glória; o ruído das asas dos querubins se ouve até o átrio exterior, como a voz do Deus Onipotente quando fala. Um querubim estende a mão ao fogo entre os querubins e o põe nas mãos do homem de linho, que sai. O profeta descreve de novo as quatro rodas, como roda dentro de roda, cheias de olhos, chamadas “turbilhão”, e os quatro rostos de cada querubim. Reconhece que são os mesmos seres vivos que vira junto ao Cobar: são querubins, os portadores do trono de Deus. Então a glória do Senhor sai da soleira do Templo e se põe sobre os querubins, que levantam voo com as rodas e param à entrada da porta oriental da casa do Senhor, com a glória do Deus de Israel sobre eles.",
+    "alegorico": "A glória que sai do Templo prepara a sua volta, que Ezequiel verá no cap. 43, e a sua morada definitiva na carne de Cristo: “vimos a sua glória” (Jo 1,14). As brasas tiradas do meio dos querubins lembram a brasa que purificou os lábios de Isaías (Is 6,6) e o fogo do Espírito em Pentecostes, que purifica em vez de destruir.",
+    "moral": "Deus não abandona o seu Templo de repente: sai passo a passo, como quem hesita e espera ainda uma conversão. Mas a sua presença não é garantida a quem a profana. A pergunta é pessoal: o que faz a glória de Deus afastar-se do templo que eu sou?",
+    "anagogico": "A glória que parte e voltará anuncia a história da salvação inteira: Deus se afasta do pecado, mas volta para habitar para sempre no meio do seu povo, na Jerusalém nova, iluminada pela glória de Deus (Ap 21,23)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Enche a tua mão de carvões ardentes… e espalha-os sobre a cidade.” “O átrio encheu-se do esplendor da glória do Senhor.” “Como a voz de Deus Omnipotente, quando fala.” “Conheci que eram querubins.” “Saiu a glória do Senhor da entrada do templo.”",
+    "meditatio_perguntas": [
+      "O que em mim pode fazer a glória de Deus se afastar, passo a passo?",
+      "Percebo os sinais com que Deus me avisa antes de se “retirar”?",
+      "Peço o fogo que purifica em vez do fogo que destrói?"
+    ],
+    "oratio_guia": "Senhor, não retires a tua glória do templo do meu coração. Purifica-me com o teu fogo e faz-me sentir a tua presença, para que eu não te expulse com as minhas infidelidades. Amém.",
+    "contemplatio_foco": {
+      "texto": "o átrio encheu-se do esplendor da glória do Senhor",
+      "ref": "Ez 10,4"
+    }
+  },
+  "ancoras": {
+    "10:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "No lugar do “rosto de touro” do cap. 1 aparece aqui o “rosto de querubim”; os querubins eram imaginados com corpo de touro alado, como os guardiães dos palácios assírios.",
+        "origem": "ia"
+      }
+    },
+    "10:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A porta oriental é a direção do Monte das Oliveiras, para onde a glória irá em 11,23.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

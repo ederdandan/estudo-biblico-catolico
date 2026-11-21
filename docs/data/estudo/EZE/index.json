@@ -1,0 +1,726 @@
+{
+ "livro": "EZE",
+ "secoes": [
+  "A vocação do profeta",
+  "O juízo sobre Jerusalém",
+  "Oráculos contra as nações",
+  "A restauração de Israel",
+  "O novo Templo"
+ ],
+ "pericopes": [
+  {
+   "id": "EZE.1.1",
+   "titulo": "A visão da glória do Senhor junto ao Cobar",
+   "secao": "A vocação do profeta",
+   "referencia": "Ez 1,1-28",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 28
+   }
+  },
+  {
+   "id": "EZE.2.1",
+   "titulo": "O livro comido: filho do homem, eu te envio",
+   "secao": "A vocação do profeta",
+   "referencia": "Ez 2,1–3,15",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 15
+   }
+  },
+  {
+   "id": "EZE.3.16",
+   "titulo": "A sentinela da casa de Israel",
+   "secao": "A vocação do profeta",
+   "referencia": "Ez 3,16-27",
+   "ini": {
+    "c": 3,
+    "v": 16
+   },
+   "fim": {
+    "c": 3,
+    "v": 27
+   }
+  },
+  {
+   "id": "EZE.4.1",
+   "titulo": "O cerco figurado e os cabelos cortados",
+   "secao": "O juízo sobre Jerusalém",
+   "referencia": "Ez 4,1–5,17",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 17
+   }
+  },
+  {
+   "id": "EZE.6.1",
+   "titulo": "Contra os montes de Israel",
+   "secao": "O juízo sobre Jerusalém",
+   "referencia": "Ez 6,1-14",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 14
+   }
+  },
+  {
+   "id": "EZE.7.1",
+   "titulo": "Vem o fim",
+   "secao": "O juízo sobre Jerusalém",
+   "referencia": "Ez 7,1-27",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 27
+   }
+  },
+  {
+   "id": "EZE.8.1",
+   "titulo": "As abominações no Templo",
+   "secao": "O juízo sobre Jerusalém",
+   "referencia": "Ez 8,1-18",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 18
+   }
+  },
+  {
+   "id": "EZE.9.1",
+   "titulo": "O sinal Tau na fronte",
+   "secao": "O juízo sobre Jerusalém",
+   "referencia": "Ez 9,1-11",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 11
+   }
+  },
+  {
+   "id": "EZE.10.1",
+   "titulo": "A glória sobre os querubins",
+   "secao": "O juízo sobre Jerusalém",
+   "referencia": "Ez 10,1-22",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 22
+   }
+  },
+  {
+   "id": "EZE.11.1",
+   "titulo": "Um coração novo; a glória deixa a cidade",
+   "secao": "O juízo sobre Jerusalém",
+   "referencia": "Ez 11,1-25",
+   "ini": {
+    "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 25
+   }
+  },
+  {
+   "id": "EZE.12.1",
+   "titulo": "A bagagem do exilado",
+   "secao": "O juízo sobre Jerusalém",
+   "referencia": "Ez 12,1-28",
+   "ini": {
+    "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 28
+   }
+  },
+  {
+   "id": "EZE.13.1",
+   "titulo": "Contra os profetas que dizem paz",
+   "secao": "O juízo sobre Jerusalém",
+   "referencia": "Ez 13,1-23",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 23
+   }
+  },
+  {
+   "id": "EZE.14.1",
+   "titulo": "Ídolos no coração; Noé, Daniel e Jó",
+   "secao": "O juízo sobre Jerusalém",
+   "referencia": "Ez 14,1-23",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 23
+   }
+  },
+  {
+   "id": "EZE.15.1",
+   "titulo": "A lenha da videira",
+   "secao": "O juízo sobre Jerusalém",
+   "referencia": "Ez 15,1-8",
+   "ini": {
+    "c": 15,
+    "v": 1
+   },
+   "fim": {
+    "c": 15,
+    "v": 8
+   }
+  },
+  {
+   "id": "EZE.16.1",
+   "titulo": "Jerusalém, a menina abandonada e a esposa infiel",
+   "secao": "O juízo sobre Jerusalém",
+   "referencia": "Ez 16,1-43",
+   "ini": {
+    "c": 16,
+    "v": 1
+   },
+   "fim": {
+    "c": 16,
+    "v": 43
+   }
+  },
+  {
+   "id": "EZE.16.44",
+   "titulo": "Sodoma, Samaria e a aliança eterna",
+   "secao": "O juízo sobre Jerusalém",
+   "referencia": "Ez 16,44-63",
+   "ini": {
+    "c": 16,
+    "v": 44
+   },
+   "fim": {
+    "c": 16,
+    "v": 63
+   }
+  },
+  {
+   "id": "EZE.17.1",
+   "titulo": "As duas águias e o raminho de cedro",
+   "secao": "O juízo sobre Jerusalém",
+   "referencia": "Ez 17,1-24",
+   "ini": {
+    "c": 17,
+    "v": 1
+   },
+   "fim": {
+    "c": 17,
+    "v": 24
+   }
+  },
+  {
+   "id": "EZE.18.1",
+   "titulo": "A alma que pecar, essa morrerá",
+   "secao": "O juízo sobre Jerusalém",
+   "referencia": "Ez 18,1-32",
+   "ini": {
+    "c": 18,
+    "v": 1
+   },
+   "fim": {
+    "c": 18,
+    "v": 32
+   }
+  },
+  {
+   "id": "EZE.19.1",
+   "titulo": "Lamentação sobre os príncipes de Israel",
+   "secao": "O juízo sobre Jerusalém",
+   "referencia": "Ez 19,1-14",
+   "ini": {
+    "c": 19,
+    "v": 1
+   },
+   "fim": {
+    "c": 19,
+    "v": 14
+   }
+  },
+  {
+   "id": "EZE.20.1",
+   "titulo": "A história de um povo rebelde",
+   "secao": "O juízo sobre Jerusalém",
+   "referencia": "Ez 20,1-44",
+   "ini": {
+    "c": 20,
+    "v": 1
+   },
+   "fim": {
+    "c": 20,
+    "v": 44
+   }
+  },
+  {
+   "id": "EZE.20.45",
+   "titulo": "A espada afiada",
+   "secao": "O juízo sobre Jerusalém",
+   "referencia": "Ez 20,45–21,32",
+   "ini": {
+    "c": 20,
+    "v": 45
+   },
+   "fim": {
+    "c": 21,
+    "v": 32
+   }
+  },
+  {
+   "id": "EZE.22.1",
+   "titulo": "A cidade sanguinária",
+   "secao": "O juízo sobre Jerusalém",
+   "referencia": "Ez 22,1-31",
+   "ini": {
+    "c": 22,
+    "v": 1
+   },
+   "fim": {
+    "c": 22,
+    "v": 31
+   }
+  },
+  {
+   "id": "EZE.23.1",
+   "titulo": "Oola e Ooliba",
+   "secao": "O juízo sobre Jerusalém",
+   "referencia": "Ez 23,1-49",
+   "ini": {
+    "c": 23,
+    "v": 1
+   },
+   "fim": {
+    "c": 23,
+    "v": 49
+   }
+  },
+  {
+   "id": "EZE.24.1",
+   "titulo": "A panela enferrujada",
+   "secao": "O juízo sobre Jerusalém",
+   "referencia": "Ez 24,1-14",
+   "ini": {
+    "c": 24,
+    "v": 1
+   },
+   "fim": {
+    "c": 24,
+    "v": 14
+   }
+  },
+  {
+   "id": "EZE.24.15",
+   "titulo": "A morte da esposa do profeta",
+   "secao": "O juízo sobre Jerusalém",
+   "referencia": "Ez 24,15-27",
+   "ini": {
+    "c": 24,
+    "v": 15
+   },
+   "fim": {
+    "c": 24,
+    "v": 27
+   }
+  },
+  {
+   "id": "EZE.25.1",
+   "titulo": "Contra Amon, Moab, Edom e os filisteus",
+   "secao": "Oráculos contra as nações",
+   "referencia": "Ez 25,1-17",
+   "ini": {
+    "c": 25,
+    "v": 1
+   },
+   "fim": {
+    "c": 25,
+    "v": 17
+   }
+  },
+  {
+   "id": "EZE.26.1",
+   "titulo": "Contra Tiro",
+   "secao": "Oráculos contra as nações",
+   "referencia": "Ez 26,1-21",
+   "ini": {
+    "c": 26,
+    "v": 1
+   },
+   "fim": {
+    "c": 26,
+    "v": 21
+   }
+  },
+  {
+   "id": "EZE.27.1",
+   "titulo": "Lamentação sobre Tiro, o navio soberbo",
+   "secao": "Oráculos contra as nações",
+   "referencia": "Ez 27,1-36",
+   "ini": {
+    "c": 27,
+    "v": 1
+   },
+   "fim": {
+    "c": 27,
+    "v": 36
+   }
+  },
+  {
+   "id": "EZE.28.1",
+   "titulo": "O príncipe de Tiro: eu sou um deus",
+   "secao": "Oráculos contra as nações",
+   "referencia": "Ez 28,1-19",
+   "ini": {
+    "c": 28,
+    "v": 1
+   },
+   "fim": {
+    "c": 28,
+    "v": 19
+   }
+  },
+  {
+   "id": "EZE.28.20",
+   "titulo": "Contra Sidônia; Israel reunido",
+   "secao": "Oráculos contra as nações",
+   "referencia": "Ez 28,20-26",
+   "ini": {
+    "c": 28,
+    "v": 20
+   },
+   "fim": {
+    "c": 28,
+    "v": 26
+   }
+  },
+  {
+   "id": "EZE.29.1",
+   "titulo": "Contra o Faraó, o grande dragão",
+   "secao": "Oráculos contra as nações",
+   "referencia": "Ez 29,1-21",
+   "ini": {
+    "c": 29,
+    "v": 1
+   },
+   "fim": {
+    "c": 29,
+    "v": 21
+   }
+  },
+  {
+   "id": "EZE.30.1",
+   "titulo": "O dia do Egito",
+   "secao": "Oráculos contra as nações",
+   "referencia": "Ez 30,1-26",
+   "ini": {
+    "c": 30,
+    "v": 1
+   },
+   "fim": {
+    "c": 30,
+    "v": 26
+   }
+  },
+  {
+   "id": "EZE.31.1",
+   "titulo": "O cedro abatido",
+   "secao": "Oráculos contra as nações",
+   "referencia": "Ez 31,1-18",
+   "ini": {
+    "c": 31,
+    "v": 1
+   },
+   "fim": {
+    "c": 31,
+    "v": 18
+   }
+  },
+  {
+   "id": "EZE.32.1",
+   "titulo": "O Faraó desce à cova",
+   "secao": "Oráculos contra as nações",
+   "referencia": "Ez 32,1-32",
+   "ini": {
+    "c": 32,
+    "v": 1
+   },
+   "fim": {
+    "c": 32,
+    "v": 32
+   }
+  },
+  {
+   "id": "EZE.33.1",
+   "titulo": "Não quero a morte do ímpio",
+   "secao": "A restauração de Israel",
+   "referencia": "Ez 33,1-20",
+   "ini": {
+    "c": 33,
+    "v": 1
+   },
+   "fim": {
+    "c": 33,
+    "v": 20
+   }
+  },
+  {
+   "id": "EZE.33.21",
+   "titulo": "A notícia da queda de Jerusalém",
+   "secao": "A restauração de Israel",
+   "referencia": "Ez 33,21-33",
+   "ini": {
+    "c": 33,
+    "v": 21
+   },
+   "fim": {
+    "c": 33,
+    "v": 33
+   }
+  },
+  {
+   "id": "EZE.34.1",
+   "titulo": "Eu mesmo apascentarei as minhas ovelhas",
+   "secao": "A restauração de Israel",
+   "referencia": "Ez 34,1-31",
+   "ini": {
+    "c": 34,
+    "v": 1
+   },
+   "fim": {
+    "c": 34,
+    "v": 31
+   }
+  },
+  {
+   "id": "EZE.35.1",
+   "titulo": "Contra o monte Seir",
+   "secao": "A restauração de Israel",
+   "referencia": "Ez 35,1-15",
+   "ini": {
+    "c": 35,
+    "v": 1
+   },
+   "fim": {
+    "c": 35,
+    "v": 15
+   }
+  },
+  {
+   "id": "EZE.36.1",
+   "titulo": "Profecia aos montes de Israel",
+   "secao": "A restauração de Israel",
+   "referencia": "Ez 36,1-15",
+   "ini": {
+    "c": 36,
+    "v": 1
+   },
+   "fim": {
+    "c": 36,
+    "v": 15
+   }
+  },
+  {
+   "id": "EZE.36.16",
+   "titulo": "Um coração novo e um espírito novo",
+   "secao": "A restauração de Israel",
+   "referencia": "Ez 36,16-38",
+   "ini": {
+    "c": 36,
+    "v": 16
+   },
+   "fim": {
+    "c": 36,
+    "v": 38
+   }
+  },
+  {
+   "id": "EZE.37.1",
+   "titulo": "Os ossos secos",
+   "secao": "A restauração de Israel",
+   "referencia": "Ez 37,1-14",
+   "ini": {
+    "c": 37,
+    "v": 1
+   },
+   "fim": {
+    "c": 37,
+    "v": 14
+   }
+  },
+  {
+   "id": "EZE.37.15",
+   "titulo": "Os dois lenhos: um só povo",
+   "secao": "A restauração de Israel",
+   "referencia": "Ez 37,15-28",
+   "ini": {
+    "c": 37,
+    "v": 15
+   },
+   "fim": {
+    "c": 37,
+    "v": 28
+   }
+  },
+  {
+   "id": "EZE.38.1",
+   "titulo": "Gog da terra de Magog",
+   "secao": "A restauração de Israel",
+   "referencia": "Ez 38,1-23",
+   "ini": {
+    "c": 38,
+    "v": 1
+   },
+   "fim": {
+    "c": 38,
+    "v": 23
+   }
+  },
+  {
+   "id": "EZE.39.1",
+   "titulo": "A derrota de Gog",
+   "secao": "A restauração de Israel",
+   "referencia": "Ez 39,1-29",
+   "ini": {
+    "c": 39,
+    "v": 1
+   },
+   "fim": {
+    "c": 39,
+    "v": 29
+   }
+  },
+  {
+   "id": "EZE.40.1",
+   "titulo": "O homem com a cana de medir: as portas e os átrios",
+   "secao": "O novo Templo",
+   "referencia": "Ez 40,1-49",
+   "ini": {
+    "c": 40,
+    "v": 1
+   },
+   "fim": {
+    "c": 40,
+    "v": 49
+   }
+  },
+  {
+   "id": "EZE.41.1",
+   "titulo": "O santuário e as câmaras",
+   "secao": "O novo Templo",
+   "referencia": "Ez 41,1–42,20",
+   "ini": {
+    "c": 41,
+    "v": 1
+   },
+   "fim": {
+    "c": 42,
+    "v": 20
+   }
+  },
+  {
+   "id": "EZE.43.1",
+   "titulo": "A glória volta ao Templo",
+   "secao": "O novo Templo",
+   "referencia": "Ez 43,1-27",
+   "ini": {
+    "c": 43,
+    "v": 1
+   },
+   "fim": {
+    "c": 43,
+    "v": 27
+   }
+  },
+  {
+   "id": "EZE.44.1",
+   "titulo": "A porta fechada; os sacerdotes",
+   "secao": "O novo Templo",
+   "referencia": "Ez 44,1-31",
+   "ini": {
+    "c": 44,
+    "v": 1
+   },
+   "fim": {
+    "c": 44,
+    "v": 31
+   }
+  },
+  {
+   "id": "EZE.45.1",
+   "titulo": "A porção sagrada, o príncipe e as festas",
+   "secao": "O novo Templo",
+   "referencia": "Ez 45,1–46,24",
+   "ini": {
+    "c": 45,
+    "v": 1
+   },
+   "fim": {
+    "c": 46,
+    "v": 24
+   }
+  },
+  {
+   "id": "EZE.47.1",
+   "titulo": "As águas que saem do Templo",
+   "secao": "O novo Templo",
+   "referencia": "Ez 47,1-12",
+   "ini": {
+    "c": 47,
+    "v": 1
+   },
+   "fim": {
+    "c": 47,
+    "v": 12
+   }
+  },
+  {
+   "id": "EZE.47.13",
+   "titulo": "A partilha da terra: O Senhor está ali",
+   "secao": "O novo Templo",
+   "referencia": "Ez 47,13–48,35",
+   "ini": {
+    "c": 47,
+    "v": 13
+   },
+   "fim": {
+    "c": 48,
+    "v": 35
+   }
+  }
+ ]
+}

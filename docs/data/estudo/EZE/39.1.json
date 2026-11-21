@@ -1,0 +1,57 @@
+{
+  "id": "EZE.39.1",
+  "livro": "EZE",
+  "titulo": "A derrota de Gog",
+  "secao": "A restauração de Israel",
+  "referencia": "Ez 39,1-29",
+  "ini": {
+    "c": 39,
+    "v": 1
+  },
+  "fim": {
+    "c": 39,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "Derramarei o meu espírito sobre toda a casa de Israel",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O oráculo contra Gog continua. Deus o trará dos confins do norte aos montes de Israel, quebrará o arco da sua mão esquerda e fará cair as flechas da direita; Gog cairá com os seus exércitos sobre os montes, pasto das aves e das feras. Deus enviará fogo sobre Magog e sobre as ilhas, e fará conhecer o seu santo nome no meio do seu povo; não o deixará mais profanar. Os habitantes de Israel sairão das cidades e farão fogo com as armas inimigas, escudos, arcos, flechas, lanças, durante sete anos, sem precisar cortar lenha. Gog será sepultado num vale a leste do mar, o “Vale da multidão de Gog”; a casa de Israel levará sete meses enterrando os mortos para purificar a terra, e haverá homens encarregados de procurar os ossos que restarem. Deus convoca as aves e as feras para um grande “sacrifício”, um banquete com a carne dos guerreiros. Então as nações saberão que Israel foi ao exílio por causa da sua culpa, porque Deus escondeu deles a sua face. Mas agora Deus fará voltar os cativos de Jacó, terá compaixão de toda a casa de Israel e terá zelo pelo seu santo nome. Eles carregarão a vergonha das suas infidelidades, habitando em paz na sua terra. “Não lhes esconderei mais a minha face, porque derramarei o meu espírito sobre toda a casa de Israel.”",
+    "alegorico": "A promessa final, “derramarei o meu espírito”, prepara o anúncio de Joel (Jl 3,1), cumprido em Pentecostes (At 2,17). O banquete das aves sobre os inimigos é retomado em Ap 19,17-18, em contraste com o banquete das núpcias do Cordeiro. As armas que viram lenha anunciam a paz messiânica em que as espadas viram arados (Is 2,4).",
+    "moral": "O dom do Espírito é a garantia de que Deus não esconderá mais a sua face. A purificação da terra, que exige meses de trabalho para sepultar os mortos, mostra que a reconstrução depois da violência é longa e paciente. E a lembrança do pecado passado não é desespero, mas memória humilde de quem habita em paz pela graça.",
+    "anagogico": "O fim da história não é a vitória das armas, mas a face de Deus que não se esconde mais. No Reino, o Espírito derramado sobre todos fará do povo uma só comunhão com Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quebrarei o teu arco na tua mão esquerda.” “Tornarei conhecido o meu santo nome no meio do meu povo.” “Sustentarão o seu fogo com estas armas.” “Escondi deles a minha face.” “Não lhes esconderei mais a minha face, porque derramarei o meu espírito sobre toda a casa de Israel.”",
+    "meditatio_perguntas": [
+      "Que “armas” da minha vida precisam virar lenha para o fogo da paz?",
+      "Já senti Deus “esconder a face”, e como entendi isso?",
+      "Peço o derramamento do Espírito sobre mim e sobre a Igreja?"
+    ],
+    "oratio_guia": "Senhor, não escondas de nós a tua face. Derrama o teu Espírito sobre toda a tua Igreja, quebra as armas da violência e faz-nos habitar em paz diante de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não lhes esconderei mais a minha face, porque derramarei o meu espírito sobre toda a casa de Israel",
+      "ref": "Ez 39,29"
+    }
+  },
+  "ancoras": {
+    "39:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Hamon-Gog significa “multidão de Gog”; a cidade de “Hamona” (39,16) joga com o mesmo nome.",
+        "origem": "ia"
+      }
+    },
+    "39:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os cadáveres tornavam a terra impura (Nm 19,11-16); por isso o sepultamento é ato de purificação.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

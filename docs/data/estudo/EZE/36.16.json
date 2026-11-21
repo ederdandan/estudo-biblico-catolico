@@ -1,0 +1,57 @@
+{
+  "id": "EZE.36.16",
+  "livro": "EZE",
+  "titulo": "Um coração novo e um espírito novo",
+  "secao": "A restauração de Israel",
+  "referencia": "Ez 36,16-38",
+  "ini": {
+    "c": 36,
+    "v": 16
+  },
+  "fim": {
+    "c": 36,
+    "v": 38
+  },
+  "liturgia": {
+    "tema_central": "Dar-vos-ei um coração novo e porei em vós o meu espírito",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus explica a história: quando a casa de Israel habitava na sua terra, contaminou-a com a sua conduta; por isso Deus derramou a sua ira e a dispersou entre as nações. Mas, entre as nações, o povo profanou o nome santo de Deus, porque se dizia: estes são o povo do Senhor, e tiveram de sair da sua terra. Então Deus teve compaixão do seu nome. “Não é por amor de vós, casa de Israel, que procedo desta forma, mas por atenção ao meu santo nome.” Deus santificará o seu grande nome diante das nações. E segue a grande promessa: “Tirar-vos-ei dentre as nações, congregar-vos-ei de todos os países e conduzir-vos-ei para a vossa terra. Derramarei sobre vós uma água pura, e sereis purificados de todas as vossas imundícies… Dar-vos-ei um coração novo e porei um novo espírito no meio de vós; tirarei da vossa carne o coração de pedra e dar-vos-ei um coração de carne. Porei em vós o meu espírito e farei que andeis nos meus preceitos.” Sereis o meu povo e eu serei o vosso Deus. A terra dará trigo e frutos; então vos lembrareis dos maus caminhos e tereis nojo de vós mesmos. A terra desolada será como o jardim do Éden; as cidades em ruínas, cheias de gente, “como o rebanho santo de Jerusalém nas suas festas”.",
+    "alegorico": "Esta é uma das profecias centrais da nova aliança. A água pura anuncia o Batismo, “banho de regeneração e renovação no Espírito Santo” (Tt 3,5); o coração novo e o espírito de Deus dado ao homem se cumprem em Pentecostes. Jesus fala a Nicodemos de nascer “da água e do Espírito” (Jo 3,5). A Igreja lê este texto na Vigília Pascal.",
+    "moral": "A conversão profunda não é fruto de esforço humano, mas dom: Deus tira o coração de pedra e dá um coração de carne. O coração de pedra é o que já não sente, não se comove, não ama. A lei deixa de ser imposição exterior e se torna inclinação interior pelo Espírito. E o motivo da graça é a santidade do nome de Deus, não o nosso mérito.",
+    "anagogico": "A terra que se torna jardim do Éden e as cidades cheias como em dia de festa anunciam o Paraíso restaurado, onde Deus habitará com o seu povo e enxugará toda lágrima."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não é por amor de vós… mas por atenção ao meu santo nome.” “Derramarei sobre vós uma água pura.” “Dar-vos-ei um coração novo e porei um novo espírito no meio de vós.” “Tirarei da vossa carne o coração de pedra e dar-vos-ei um coração de carne.” “Porei em vós o meu espírito.” “Tornou-se como um jardim de Éden.”",
+    "meditatio_perguntas": [
+      "Em que parte da minha vida o meu coração se tornou de pedra?",
+      "Peço a Deus o Espírito que me faz querer o bem, e não só cumpri-lo?",
+      "Vivo o Batismo como água pura que me renovou?"
+    ],
+    "oratio_guia": "Senhor, derrama sobre mim a água pura e purifica-me de todos os ídolos. Tira o meu coração de pedra e dá-me um coração de carne. Põe em mim o teu Espírito, para que eu caminhe nos teus preceitos. Amém.",
+    "contemplatio_foco": {
+      "texto": "tirarei da vossa carne o coração de pedra e dar-vos-ei um coração de carne",
+      "ref": "Ez 36,26"
+    }
+  },
+  "ancoras": {
+    "36:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto lido na Vigília Pascal (7ª leitura) antes da celebração do Batismo.",
+        "origem": "ia"
+      }
+    },
+    "36:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Paralelo com a nova aliança de Jr 31,31-34, escrita no coração.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "EZE.17.1",
+  "livro": "EZE",
+  "titulo": "As duas águias e o raminho de cedro",
+  "secao": "O juízo sobre Jerusalém",
+  "referencia": "Ez 17,1-24",
+  "ini": {
+    "c": 17,
+    "v": 1
+  },
+  "fim": {
+    "c": 17,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "Tomarei um raminho tenro do cedro e o plantarei no monte alto",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus manda Ezequiel propor um enigma. Uma grande águia, de asas enormes e penas multicores, vem ao Líbano, arranca o cimo do cedro e o leva a uma cidade de mercadores. Toma também uma semente da terra e a planta junto a muitas águas: torna-se uma videira baixa e extensa, com ramos voltados para a águia. Aparece outra grande águia, e a videira volta para ela as raízes e os ramos, para ser regada. Prosperará? A primeira águia não a arrancará? Não secará ao primeiro vento oriental? Deus explica: a primeira águia é o rei de Babilônia, que levou o rei Joaquin e os príncipes; a semente é Sedecias, com quem fez aliança e juramento para que o reino ficasse humilde. Mas Sedecias se revoltou, enviando mensageiros ao Egito, a segunda águia, para obter cavalos e soldados. Quem quebra a aliança escapará? Deus jura que Sedecias morrerá em Babilônia; o Faraó não o socorrerá; e, porque desprezou o juramento feito em nome do Senhor, é a aliança de Deus que violou. Por fim, uma promessa: o próprio Deus tomará um raminho tenro do alto do cedro e o plantará no monte alto de Israel; ele se tornará um cedro magnífico, e todas as aves habitarão à sua sombra. “E saberão todas as árvores dos campos que eu, o Senhor, é que humilho a árvore elevada e exalto a árvore humilde, que seco a árvore verde e faço reverdecer a árvore seca.”",
+    "alegorico": "O raminho tenro plantado por Deus no monte alto é o Messias da casa de Davi, Cristo, nascido pequeno e humilde, que se torna a árvore onde as aves do céu vêm abrigar-se, como na parábola do grão de mostarda (Mc 4,30-32). A árvore seca que reverdece é a cruz, que se tornou árvore da vida.",
+    "moral": "A fidelidade à palavra dada, mesmo a um pagão, é questão de fidelidade a Deus, em cujo nome se jura. As alianças políticas feitas por cálculo, sem Deus, terminam em ruína. E a lógica de Deus é a do Magnificat: humilha os altivos e exalta os humildes (Lc 1,52).",
+    "anagogico": "O cedro onde todas as aves fazem ninho é imagem do Reino de Deus consumado, onde todos os povos encontrarão repouso à sombra de Cristo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Propõe um enigma, conta uma parábola à casa de Israel.” “O que violou a aliança, escapará?” “Tomarei do cimo do elevado cedro… um tenro garfo, e plantá-lo-ei sobre uma elevadíssima montanha.” “Todas as aves habitarão debaixo dele.” “Humilho a árvore elevada e exalto a árvore humilde.”",
+    "meditatio_perguntas": [
+      "Cumpro a palavra dada, mesmo quando custa?",
+      "Em que “águia” busco segurança fora de Deus?",
+      "Acolho a lógica de Deus, que exalta o humilde e humilha o soberbo?"
+    ],
+    "oratio_guia": "Senhor, que plantaste o raminho tenro do teu Filho no monte alto, faz-me repousar à sua sombra. Humilha em mim o que é altivo e faz reverdecer o que está seco. Amém.",
+    "contemplatio_foco": {
+      "texto": "eu, o Senhor é que humilho a árvore elevada e exalto a árvore humilde, que seco a árvore verde e faço reverdecer a árvore seca",
+      "ref": "Ez 17,24"
+    }
+  },
+  "ancoras": {
+    "17:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A primeira águia é Nabucodonosor; o cimo do cedro, o rei Joaquin, deportado em 597 a.C.; a segunda águia, o faraó Psamético II ou Hofra.",
+        "origem": "ia"
+      }
+    },
+    "17:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto lido na liturgia (11º Domingo do Tempo Comum, Ano B) junto com a parábola do grão de mostarda.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

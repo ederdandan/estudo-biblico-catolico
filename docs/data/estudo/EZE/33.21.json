@@ -1,0 +1,57 @@
+{
+  "id": "EZE.33.21",
+  "livro": "EZE",
+  "titulo": "A notícia da queda de Jerusalém",
+  "secao": "A restauração de Israel",
+  "referencia": "Ez 33,21-33",
+  "ini": {
+    "c": 33,
+    "v": 21
+  },
+  "fim": {
+    "c": 33,
+    "v": 33
+  },
+  "liturgia": {
+    "tema_central": "A cidade foi tomada: ouvem as tuas palavras, mas não as praticam",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No ano doze do exílio, no décimo mês, no dia cinco, um fugitivo chega de Jerusalém e diz: “A cidade foi tomada.” Na tarde anterior, a mão do Senhor tinha vindo sobre o profeta e lhe abrira a boca; a partir de então, não ficou mais mudo. Logo vem uma palavra sobre os que ficaram nas ruínas da Judeia: eles dizem: Abraão era um só e recebeu a terra; nós somos muitos, a terra é nossa. Deus responde: vós comeis carne com sangue, levantais os olhos aos ídolos, derramais sangue, confiais na espada, cometeis abominações, e pensais herdar a terra? Os que estão nas ruínas cairão pela espada, os do campo serão dados às feras, os das fortalezas morrerão de peste; a terra será desolada. E uma palavra ao profeta sobre os exilados: eles falam de ti junto dos muros e às portas das casas, dizem uns aos outros: vamos ouvir o que o Senhor diz. Vêm em massa, sentam-se diante de ti, ouvem as tuas palavras, mas não as praticam; com a boca falam de amor, mas o coração vai atrás do lucro. “Tu para eles és como um cantor delicioso, dotado de bela voz e que toca bem a sua cítara; ouvem as tuas palavras, mas não as põem em prática.” Quando acontecer o que foi dito, saberão que houve um profeta no meio deles.",
+    "alegorico": "O cumprimento da palavra profética na queda de Jerusalém é sinal de que toda palavra de Deus se cumpre. Jesus retoma a censura aos que ouvem e não praticam na parábola da casa sobre a areia (Mt 7,26) e na advertência de Tiago: “sede cumpridores da palavra, e não somente ouvintes” (Tg 1,22).",
+    "moral": "Duas tentações. A dos que ficaram: invocar Abraão e a herança para justificar-se, sem conversão. A dos exilados: ouvir a pregação como um espetáculo agradável, admirar o pregador e não mudar de vida. A palavra de Deus não é música para entreter, mas apelo para obedecer.",
+    "anagogico": "“Saberão que houve um profeta no meio deles”: no fim, todos reconhecerão a verdade da Palavra. Feliz quem a reconheceu a tempo de praticá-la."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A cidade foi tomada.” “O Senhor tinha-me aberto a boca.” “Abraão era sozinho… a nós… é que foi dada esta terra.” “Vêm ter contigo… ouvem as tuas palavras, mas não as põem em prática.” “Tu para eles és como um cantor delicioso.”",
+    "meditatio_perguntas": [
+      "Ouço a palavra de Deus como espetáculo ou como apelo?",
+      "Invoco a minha “herança” religiosa sem conversão real?",
+      "O que ouvi recentemente e ainda não pus em prática?"
+    ],
+    "oratio_guia": "Senhor, não permitas que a tua palavra seja para mim apenas uma bela canção. Faz-me cumpridor da palavra, e não só ouvinte, para que a minha casa esteja fundada sobre a rocha. Amém.",
+    "contemplatio_foco": {
+      "texto": "ouvem as tuas palavras, mas não as põem em prática",
+      "ref": "Ez 33,31"
+    }
+  },
+  "ancoras": {
+    "33:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "12º ano, 10º mês, dia 5: cerca de janeiro de 585 a.C., uns cinco meses depois da queda de Jerusalém (julho/agosto de 586), tempo da viagem até a Babilônia.",
+        "origem": "ia"
+      }
+    },
+    "33:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cumprimento de 24,27: a boca do profeta se abre.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

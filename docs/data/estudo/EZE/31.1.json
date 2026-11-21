@@ -1,0 +1,57 @@
+{
+  "id": "EZE.31.1",
+  "livro": "EZE",
+  "titulo": "O cedro abatido",
+  "secao": "Oráculos contra as nações",
+  "referencia": "Ez 31,1-18",
+  "ini": {
+    "c": 31,
+    "v": 1
+  },
+  "fim": {
+    "c": 31,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "O cedro mais alto do jardim de Deus foi abatido",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No ano onze, Deus pergunta ao Faraó: a quem te assemelhas na tua grandeza? E conta a história da Assíria como espelho. Era um cedro do Líbano, de belos ramos e folhagem espessa, de tronco alto, com a copa entre as nuvens. As águas do abismo o fizeram crescer; ultrapassou todas as árvores; nos seus ramos faziam ninho todas as aves do céu, debaixo deles pariam os animais, à sua sombra habitavam as nações. No jardim de Deus não havia cedro igual; todas as árvores do Éden lhe tinham inveja. Mas, porque se elevou e o seu coração se orgulhou da sua altura, Deus o entregou ao mais forte das nações; estrangeiros cruéis o cortaram e o abandonaram nos montes; os ramos caíram pelos vales; as aves passaram a habitar no seu tronco caído. A lição: “nenhuma árvore plantada junto das águas se orgulhe da sua altura”, porque todas estão destinadas à morte, à terra inferior, com os que descem à cova. No dia em que desceu ao abismo, Deus decretou luto, fechou as águas, cobriu o Líbano de escuridão, e as árvores do Éden se consolaram no fundo da terra. E conclui: “A quem eras semelhante, ó Faraó?… Com as árvores do Éden foste precipitado no fundo da terra.” Assim será o Faraó e toda a sua multidão.",
+    "alegorico": "O grande cedro abatido contrasta com o pequeno ramo plantado por Deus no monte de Israel (17,22-24), que se torna árvore onde as aves fazem ninho: é Cristo, cuja grandeza vem da humildade. Também a árvore de Nabucodonosor em Dn 4 retoma esta imagem.",
+    "moral": "A grandeza é dom (“eu o tinha feito belo”), mas o orgulho a transforma em queda. A frase central vale para todos: nenhuma árvore se orgulhe da sua altura, porque todas descem à mesma terra. O exemplo da Assíria deveria bastar ao Egito; a história dos outros é escola de humildade.",
+    "anagogico": "Diante da morte, todas as árvores são iguais. A única altura que permanece é a de quem foi elevado por Deus, como Cristo exaltado depois de se humilhar."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A quem te assemelhas na tua grandeza?” “Um cedro sobre o Líbano… erguendo até às nuvens o alto da sua copa.” “No jardim de Deus não havia cedros tão altos como ele.” “Nenhuma árvore plantada junto das águas se orgulhe da sua altura.”",
+    "meditatio_perguntas": [
+      "De que “altura” me orgulho?",
+      "Aprendo com a queda dos poderosos que vi na história ou na vida?",
+      "Que sombra ofereço aos outros com os dons que recebi?"
+    ],
+    "oratio_guia": "Senhor, que me plantaste junto às águas, não permitas que eu me orgulhe da minha altura. Faz-me humilde como o teu Filho, para que, à sua sombra, eu ofereça abrigo aos outros. Amém.",
+    "contemplatio_foco": {
+      "texto": "nenhuma árvore plantada junto das águas se orgulhe da sua altura",
+      "ref": "Ez 31,14"
+    }
+  },
+  "ancoras": {
+    "31:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "11º ano, 3º mês, dia 1: junho de 587 a.C.",
+        "origem": "ia"
+      }
+    },
+    "31:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Assíria caiu em 612–609 a.C. diante de babilônios e medos; poucos anos antes era o maior império do mundo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

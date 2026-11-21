@@ -1,0 +1,57 @@
+{
+  "id": "EZE.40.1",
+  "livro": "EZE",
+  "titulo": "O homem com a cana de medir: as portas e os átrios",
+  "secao": "O novo Templo",
+  "referencia": "Ez 40,1-49",
+  "ini": {
+    "c": 40,
+    "v": 1
+  },
+  "fim": {
+    "c": 40,
+    "v": 49
+  },
+  "liturgia": {
+    "tema_central": "Vê, ouve e põe no teu coração: o homem com a cana de medir",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No ano vinte e cinco do exílio, catorze anos depois da destruição de Jerusalém, a mão do Senhor leva o profeta em visões à terra de Israel e o põe sobre um monte muito alto, onde se vê algo como uma cidade. Ali está um homem com aspecto de bronze, com um cordel de linho e uma cana de medir na mão, de pé junto à porta. Ele diz: “Filho de homem, vê com os teus olhos, ouve com os teus ouvidos e põe no teu coração todas as coisas que te vou mostrar”, para anunciá-las à casa de Israel. Começa uma longa visita guiada: um muro rodeia o conjunto; o homem mede, com a cana de seis côvados, a espessura e a altura do muro; depois a porta oriental, com os seus degraus, as câmaras dos guardas, as pilastras ornadas de palmeiras e o vestíbulo; depois o átrio exterior, com as suas câmaras e o pavimento; depois as portas do norte e do sul, todas com as mesmas medidas. Passa ao átrio interior, a um nível mais alto, com portas iguais às de fora. Junto às portas há mesas de pedra para imolar os holocaustos e os sacrifícios pelo pecado, e câmaras para os cantores e para os sacerdotes que guardam o templo e o altar, os filhos de Sadoc. O átrio interior é um quadrado perfeito de cem côvados, e diante dele está o vestíbulo do templo.",
+    "alegorico": "O templo medido em visão não é uma planta para os construtores, mas uma revelação: a presença ordenada e santa de Deus no meio do povo. O Apocalipse retoma a imagem do anjo com a cana de ouro que mede a Jerusalém celeste (Ap 21,15). Cristo é o verdadeiro templo (Jo 2,21), e a Igreja, edificada sobre ele, é o templo de pedras vivas (1Pd 2,5).",
+    "moral": "As medidas minuciosas ensinam que nada é indiferente no encontro com Deus: há ordem, proporção, progressão do exterior ao interior. A vida espiritual também tem portas, átrios e degraus. A ordem dada ao profeta vale para todo leitor: ver, ouvir e pôr no coração.",
+    "anagogico": "O monte muito alto e a cidade vista de longe são a Jerusalém do alto. O que o profeta mede em visão será um dia habitado pelos santos na presença de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Em visões divinas levou-me à terra de Israel e deixou-me sobre um monte muito alto.” “Um homem… tendo na mão um cordel de linho e uma cana de medir.” “Vê com os teus olhos, ouve com os teus ouvidos e põe no teu coração.” “Uma escada de oito degraus.”",
+    "meditatio_perguntas": [
+      "Vejo, ouço e guardo no coração o que Deus me mostra?",
+      "Há ordem e proporção na minha vida de oração?",
+      "Que “degraus” Deus me pede para subir em direção a ele?"
+    ],
+    "oratio_guia": "Senhor, mostra-me a tua casa e faz-me ver, ouvir e guardar no coração o que me revelas. Ordena a minha vida segundo a tua medida, para que eu suba até o teu santuário. Amém.",
+    "contemplatio_foco": {
+      "texto": "Filho de homem, vê com os teus olhos, ouve com os teus ouvidos e põe no teu coração todas as coisas que te vou mostrar",
+      "ref": "Ez 40,4"
+    }
+  },
+  "ancoras": {
+    "40:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O 25º ano é 573 a.C. O “décimo dia” do primeiro mês lembra a preparação da Páscoa (Ex 12,3).",
+        "origem": "ia"
+      }
+    },
+    "40:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O côvado “longo” (côvado e um palmo) mede cerca de 52 cm; a cana, pouco mais de 3 m.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

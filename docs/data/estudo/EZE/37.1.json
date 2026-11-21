@@ -1,0 +1,57 @@
+{
+  "id": "EZE.37.1",
+  "livro": "EZE",
+  "titulo": "Os ossos secos",
+  "secao": "A restauração de Israel",
+  "referencia": "Ez 37,1-14",
+  "ini": {
+    "c": 37,
+    "v": 1
+  },
+  "fim": {
+    "c": 37,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "Ossos secos, ouvi a palavra do Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A mão do Senhor leva o profeta em espírito e o deixa no meio de um vale cheio de ossos, muito numerosos e completamente secos. Deus o faz percorrê-lo e pergunta: “Filho de homem, porventura estes ossos poderão reviver?” Ezequiel responde: “Senhor Deus, tu o sabes.” Deus lhe manda profetizar: “Ossos secos, ouvi a palavra do Senhor… Eis que vou infundir em vós o espírito, e vivereis.” Prometo nervos, carne, pele e espírito. O profeta obedece; ouve-se um ruído, um estremecimento, e os ossos se aproximam um do outro; nervos e carne os cobrem, a pele se estende por cima; mas não há espírito neles. Deus manda profetizar ao espírito: “Espírito, vem dos quatro ventos e sopra sobre estes mortos, para que revivam.” O espírito entra neles; vivem e se põem de pé, um exército imenso. Deus explica: estes ossos são toda a casa de Israel, que diz: “Os nossos ossos tornaram-se secos, a nossa esperança sumiu-se, estamos perdidos.” E promete: “Povo meu, vou abrir os vossos túmulos, tirar-vos dos vossos sepulcros e introduzir-vos na terra de Israel… infundirei o meu espírito em vós para reviverdes.” E saberão que o Senhor disse e fez.",
+    "alegorico": "A visão anuncia a restauração de Israel depois do exílio e, mais profundamente, a ressurreição dos mortos. A palavra “espírito” (ruah) é ao mesmo tempo vento, sopro e Espírito: como em Gn 2,7, Deus sopra a vida no homem. Jesus ressuscitado sopra sobre os discípulos: “Recebei o Espírito Santo” (Jo 20,22). A Igreja lê esta visão na Vigília de Pentecostes e na liturgia dos defuntos.",
+    "moral": "“A nossa esperança sumiu-se”: é o desânimo de quem se julga acabado. A resposta de Deus não é negar a morte, mas vencê-la. A cena tem duas etapas: a palavra que reorganiza os ossos e o Espírito que dá vida. Não bastam estruturas e corpos bem compostos sem o Espírito. E a resposta humilde do profeta, “tu o sabes”, é a atitude de quem não vê saída mas confia.",
+    "anagogico": "“Vou abrir os vossos túmulos”: promessa da ressurreição da carne no último dia. O Espírito que ressuscitou Jesus dará vida também aos nossos corpos mortais (Rm 8,11)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Filho de homem, porventura estes ossos poderão reviver? Senhor Deus, tu o sabes.” “Ossos secos, ouvi a palavra do Senhor.” “Espírito, vem dos quatro ventos.” “Os nossos ossos tornaram-se secos, a nossa esperança sumiu-se.” “Vou abrir os vossos túmulos.”",
+    "meditatio_perguntas": [
+      "Que “ossos secos” há na minha vida ou na minha comunidade?",
+      "Peço o Espírito, ou confio só em estruturas e organização?",
+      "Creio na ressurreição da carne?"
+    ],
+    "oratio_guia": "Espírito Santo, vem dos quatro ventos e sopra sobre o que está morto em mim. Abre os meus túmulos, devolve-me a esperança e faz-me viver de novo para Deus. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ossos secos, ouvi a palavra do Senhor",
+      "ref": "Ez 37,4"
+    }
+  },
+  "ancoras": {
+    "37:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Em hebraico, ruah significa vento, sopro e espírito; o texto joga com os três sentidos.",
+        "origem": "ia"
+      }
+    },
+    "37:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto lido na Missa da Vigília de Pentecostes e no 5º Domingo da Quaresma, Ano A, junto com a ressurreição de Lázaro.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,65 @@
+{
+  "id": "EZE.1.1",
+  "livro": "EZE",
+  "titulo": "A visão da glória do Senhor junto ao Cobar",
+  "secao": "A vocação do profeta",
+  "referencia": "Ez 1,1-28",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "Abriram-se os céus: a glória de Deus no exílio",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No trigésimo ano, no quinto ano da deportação do rei Joaquin (593 a.C.), Ezequiel, filho de Buzi, sacerdote, está entre os exilados junto ao rio Cobar, na Babilônia. “Abriram-se os céus, e tive visões divinas”, e a mão do Senhor veio sobre ele. Do norte chega um vento tempestuoso, uma grande nuvem com fogo cintilante e, no centro, um brilho como de metal reluzente. No meio aparecem quatro seres vivos de forma humana, cada um com quatro rostos e quatro asas, pés como de novilho que brilham como bronze, mãos humanas debaixo das asas. Os rostos: de homem à frente, de leão à direita, de touro à esquerda, de águia. Andam sempre em frente, sem se voltar, para onde o espírito os impele; parecem brasas ardentes, e entre eles correm relâmpagos. Junto de cada um há uma roda, como roda dentro de roda, com aros altíssimos cheios de olhos; as rodas seguem os seres vivos para onde vai o espírito, “porque o espírito de cada vivente estava nas rodas”. Sobre as cabeças estende-se um firmamento de cristal; o ruído das asas é como o de muitas águas, como a voz do Onipotente. Acima do firmamento há algo como um trono de safira, e sobre o trono “um ser com aparência humana”, envolto em fogo e num resplendor como o arco-íris na nuvem. O profeta, prudente, multiplica as palavras “semelhança” e “aspecto”: é a visão da glória do Senhor, que não pode ser descrita diretamente.",
+    "alegorico": "Os quatro rostos dos seres vivos (homem, leão, touro, águia), retomados em Ap 4,7, foram aplicados pela tradição, desde Santo Ireneu e São Jerônimo, aos quatro Evangelistas: Mateus, Marcos, Lucas e João. O “ser com aparência humana” sobre o trono é uma antecipação da Encarnação: Deus que se mostra em figura de homem, plenamente revelado em Cristo, “resplendor da glória” do Pai (Hb 1,3).",
+    "moral": "Deus não ficou preso ao Templo de Jerusalém: aparece no exílio, junto a um canal de Babilônia, a um sacerdote sem templo. Nenhum lugar é longe demais para a sua glória. A visão ensina também a humildade diante do mistério: falamos de Deus por semelhanças, nunca o abarcamos.",
+    "anagogico": "O trono, o arco-íris e os seres vivos reaparecem na liturgia celeste do Apocalipse (Ap 4). A visão de Ezequiel é uma janela para a adoração eterna diante do trono de Deus e do Cordeiro."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Estando no meio dos cativos, ao rio Cobar, se abriram os céus, e tive visões divinas.” “Para onde os impelia o espírito, para ali caminhavam.” “Como o ruído de muitas águas, como a voz do Omnipotente.” “Sobre esta semelhança de trono havia, no alto, um ser com aparência humana.”",
+    "meditatio_perguntas": [
+      "Creio que Deus pode abrir os céus para mim também no “exílio”?",
+      "Deixo-me conduzir pelo Espírito, sem voltar atrás, como os seres vivos?",
+      "Como cultivo o assombro e a reverência diante da glória de Deus?"
+    ],
+    "oratio_guia": "Senhor, que abriste os céus a Ezequiel no meio dos cativos, mostra-me a tua glória onde eu estiver. Conduz-me pelo teu Espírito e ensina-me a adorar-te com reverência. Amém.",
+    "contemplatio_foco": {
+      "texto": "se abriram os céus, e tive visões divinas",
+      "ref": "Ez 1,1"
+    }
+  },
+  "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “ano trigésimo” é provavelmente a idade de Ezequiel, idade em que o sacerdote começava o serviço (Nm 4,3).",
+        "origem": "ia"
+      }
+    },
+    "1:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O rio (canal) Cobar ligava o Eufrates perto de Nipur, na Babilônia.",
+        "origem": "ia"
+      }
+    },
+    "1:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A associação aos Evangelistas é de Santo Ireneu e São Jerônimo; daí os símbolos tradicionais: homem (Mateus), leão (Marcos), touro (Lucas), águia (João).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

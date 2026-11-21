@@ -1,0 +1,57 @@
+{
+  "id": "EZE.27.1",
+  "livro": "EZE",
+  "titulo": "Lamentação sobre Tiro, o navio soberbo",
+  "secao": "Oráculos contra as nações",
+  "referencia": "Ez 27,1-36",
+  "ini": {
+    "c": 27,
+    "v": 1
+  },
+  "fim": {
+    "c": 27,
+    "v": 36
+  },
+  "liturgia": {
+    "tema_central": "Tiro, o navio soberbo, afunda no coração do mar",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus manda o profeta entoar uma lamentação sobre Tiro, que dizia: “Sou duma formosura perfeita.” A cidade é descrita como um magnífico navio: o casco é de cipreste de Sanir, o mastro de cedro do Líbano, os remos de carvalho de Basã, os bancos de marfim incrustado em cedro de Chipre; a vela, de linho bordado do Egito; o toldo, de jacinto e púrpura. Remadores de Sidônia e de Arvad, pilotos sábios, calafates de Biblos; persas, lídios e líbios no seu exército. Segue o longo catálogo dos parceiros comerciais: Társis com prata, ferro, estanho e chumbo; Javã, Tubal e Mosoc com escravos e cobre; Togorma com cavalos; Dedã com marfim e ébano; a Síria com púrpura e corais; Judá e Israel com trigo, mel, azeite e bálsamo; Damasco com vinho e lã; a Arábia e Cedar com rebanhos; Sabá e Reema com aromas, pedras e ouro. “Foste cheia de bens e de glória no coração do mar.” Mas os remadores a levaram para águas profundas, e o vento do oriente a quebrou no coração do mar. Afundam as riquezas, as mercadorias, os marinheiros, os guerreiros. Os marujos descem dos navios, lançam pó sobre a cabeça, rapam o cabelo e choram: “Que cidade há como Tiro, que emudeceu no meio do mar?” Tu enriquecias os reis da terra; agora afundaste com tudo o que tinhas.",
+    "alegorico": "O navio carregado de riquezas que naufraga é imagem do mundo que passa com as suas concupiscências (1Jo 2,17). A Igreja, ao contrário, é a barca de Pedro, que atravessa as tempestades porque Cristo está nela (Mc 4,35-41). A lista de mercadorias reaparece em Ap 18,12-13, na queda de Babilônia.",
+    "moral": "A beleza e a riqueza de Tiro são reais, e o texto as descreve com admiração. O problema é dizer “sou perfeita”: a autossuficiência. A economia que liga todos os povos pode ser bênção, mas, quando se torna o centro de tudo, afunda com tudo o que carrega. O vento do oriente vem quando menos se espera.",
+    "anagogico": "Tudo o que se acumula afunda no mar da morte, exceto o que se depositou em Deus. “Onde está o teu tesouro, aí estará o teu coração” (Mt 6,21)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ó Tiro, tu disseste: Sou duma formosura perfeita.” “Está o teu império situado no coração do mar.” “Foste cheia de bens e de glória no coração do mar.” “O vento do oriente quebrou-te no coração do mar.” “Que cidade há como Tiro, que emudeceu no meio do mar?”",
+    "meditatio_perguntas": [
+      "Em que penso “sou perfeito” e não preciso de Deus?",
+      "Que “carga” levo no meu navio que poderia afundar comigo?",
+      "Onde está o meu tesouro?"
+    ],
+    "oratio_guia": "Senhor, quando o meu navio estiver carregado de bens e de glória, lembra-me que tudo passa. Guarda-me na barca da tua Igreja e faz-me depositar em ti o meu tesouro. Amém.",
+    "contemplatio_foco": {
+      "texto": "Foste cheia de bens e de glória no coração do mar",
+      "ref": "Ez 27,25"
+    }
+  },
+  "ancoras": {
+    "27:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Sanir é o nome amorreu do Hermon (Dt 3,9). Os materiais vêm de todo o mundo conhecido, mostrando o alcance comercial de Tiro.",
+        "origem": "ia"
+      }
+    },
+    "27:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Judá e Israel exportavam produtos agrícolas a Tiro desde Salomão (1Rs 5,11).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

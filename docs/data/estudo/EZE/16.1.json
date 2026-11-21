@@ -1,0 +1,65 @@
+{
+  "id": "EZE.16.1",
+  "livro": "EZE",
+  "titulo": "Jerusalém, a menina abandonada e a esposa infiel",
+  "secao": "O juízo sobre Jerusalém",
+  "referencia": "Ez 16,1-43",
+  "ini": {
+    "c": 16,
+    "v": 1
+  },
+  "fim": {
+    "c": 16,
+    "v": 43
+  },
+  "liturgia": {
+    "tema_central": "Vive! Eu te vi no teu sangue e te fiz minha esposa",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus manda Ezequiel fazer Jerusalém conhecer as suas abominações por meio de uma longa alegoria. A tua origem é Canaã; teu pai, amorreu; tua mãe, hitita. No dia em que nasceste, ninguém te cortou o cordão, nem te lavou, nem te esfregou com sal, nem te enfaixou; ninguém teve piedade: foste lançada no campo, com desprezo. “Passando junto de ti, vi-te, debatendo-te no teu sangue, e disse-te: Vive no teu sangue. Ainda que coberta do teu sangue, vive!” Deus a fez crescer até a juventude, ainda nua. Passou de novo, era o tempo dos amores: estendeu sobre ela o seu manto, jurou-lhe aliança, “e tu ficaste sendo minha”. Lavou-a, ungiu-a, vestiu-a de bordados, linho e seda, adornou-a de braceletes, colar e diadema; alimentou-a de flor de farinha, mel e azeite; tornou-se rainha, e a sua fama correu pelas nações por causa da beleza que Deus lhe dera. Mas ela confiou na própria beleza e se prostituiu: fez com as vestes lugares altos, com o ouro de Deus imagens, ofereceu-lhes o azeite, o incenso e o pão recebidos, e até sacrificou os filhos. Não se lembrou dos dias da sua juventude, quando estava nua no seu sangue. Prostituiu-se com o Egito, a Assíria e a Caldeia, e, ao contrário das meretrizes, pagava aos amantes. Por isso Deus reunirá esses amantes contra ela, que a despirão e a julgarão como adúltera; então o seu zelo se aplacará.",
+    "alegorico": "A menina abandonada e salva é a imagem da graça: Deus ama primeiro o que nada tem de amável. Os Padres viram aqui a humanidade e a alma resgatadas por Cristo, que a lava no Batismo, a unge com o Crisma, a veste da veste nupcial e a alimenta com a Eucaristia, “flor de farinha”. A esposa infiel prefigura a Igreja chamada à fidelidade e cada alma tentada a usar os dons de Deus contra ele.",
+    "moral": "Tudo o que temos de belo é dom: “graças ao esplendor de que eu te havia revestido”. O pecado começa quando se confia na própria beleza e se esquece a origem. A ingratidão chega a oferecer aos ídolos os próprios dons de Deus. O remédio é a memória: lembrar-se dos dias em que estávamos nus no próprio sangue e Deus disse: vive!",
+    "anagogico": "O manto estendido e a aliança jurada anunciam as núpcias eternas do Cordeiro com a Esposa, vestida de linho puro (Ap 19,7-8)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vi-te, debatendo-te no teu sangue, e disse-te: Vive no teu sangue.” “Estendi sobre ti o meu manto e cobri a tua nudez; jurei-te fidelidade, fiz aliança contigo.” “Graças ao esplendor de que eu te havia revestido.” “Puseste a tua confiança na tua beleza.” “Não te lembraste dos dias da tua mocidade.”",
+    "meditatio_perguntas": [
+      "Lembro-me de onde Deus me tirou, quando eu estava “no meu sangue”?",
+      "Uso os dons de Deus para mim mesmo ou contra ele?",
+      "Em que confio na minha “beleza” em vez de confiar em quem ma deu?"
+    ],
+    "oratio_guia": "Senhor, que me viste abandonado no meu sangue e me disseste: vive!, estende sobre mim o teu manto. Guarda-me da ingratidão e faz-me lembrar sempre que todo o meu esplendor vem de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ainda que coberta do teu sangue, vive!",
+      "ref": "Ez 16,6"
+    }
+  },
+  "ancoras": {
+    "16:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Amorreus e hititas eram povos pré-israelitas de Canaã; a origem de Jerusalém, cidade jebusita, era pagã.",
+        "origem": "ia"
+      }
+    },
+    "16:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Esfregar o recém-nascido com sal era costume antigo no Oriente, por higiene e proteção.",
+        "origem": "ia"
+      }
+    },
+    "16:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Estender a orla do manto sobre a mulher era gesto de pedido de casamento (Rt 3,9).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

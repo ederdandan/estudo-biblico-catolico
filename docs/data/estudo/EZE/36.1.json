@@ -1,0 +1,49 @@
+{
+  "id": "EZE.36.1",
+  "livro": "EZE",
+  "titulo": "Profecia aos montes de Israel",
+  "secao": "A restauração de Israel",
+  "referencia": "Ez 36,1-15",
+  "ini": {
+    "c": 36,
+    "v": 1
+  },
+  "fim": {
+    "c": 36,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "Montes de Israel, dai os vossos ramos: o meu povo está para voltar",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Em contraste com o oráculo contra Seir, o profeta se dirige agora aos próprios montes de Israel, aos outeiros, às ribeiras, aos vales e às ruínas. O inimigo disse: “Bem feito! Estas alturas eternas foram-nos dadas como herança!” As nações os pisaram e os insultaram. Por isso Deus fala no ardor do seu zelo contra as nações e Edom, que se apropriaram da sua terra com alegria e desprezo, e jura que elas carregarão a sua própria vergonha. E aos montes diz: “E vós, montes de Israel, lançareis os vossos ramos e dareis o vosso fruto ao meu povo de Israel, porque está para voltar.” Deus se volta para eles: serão lavrados e semeados; multiplicará homens e animais; as cidades serão reconstruídas; Deus fará mais bem do que no princípio. Dizia-se que a terra “devorava homens e matava os filhos”, por causa da guerra, da fome e dos sacrifícios; não será mais assim, e o povo não ouvirá mais os insultos das nações.",
+    "alegorico": "A terra que reverdece para receber o povo que volta é imagem da criação inteira que espera a revelação dos filhos de Deus (Rm 8,19-21). Em Cristo, a terra que “devorava homens” torna-se terra que dá vida.",
+    "moral": "Deus se volta não só para as pessoas, mas também para a terra ferida; a restauração inclui o cultivo, as cidades, a natureza. Quando parece que tudo foi tomado pelo inimigo, Deus diz: “eis que venho a vós”. A esperança cristã é concreta: semear, reconstruir, multiplicar a vida.",
+    "anagogico": "Os montes que dão fruto ao povo que volta anunciam os novos céus e a nova terra, onde Deus fará “mais bem do que no princípio”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Montes de Israel, ouvi a palavra do Senhor.” “Bem feito! Estas alturas eternas foram-nos dadas como herança!” “Lançareis os vossos ramos e dareis o vosso fruto ao meu povo de Israel, porque está para voltar.” “Eis que venho a vós, me volto para vós.” “Dar-vos-ei bens ainda maiores que os que tivestes no princípio.”",
+    "meditatio_perguntas": [
+      "Que “ruínas” na minha vida esperam que Deus se volte para elas?",
+      "Creio que Deus pode dar mais do que no princípio?",
+      "Cuido da terra e da criação como dom de Deus?"
+    ],
+    "oratio_guia": "Senhor, volta-te para as minhas ruínas e faz brotar nelas ramos e fruto. Restaura a tua terra e o teu povo, e dá-nos mais do que no princípio. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eis que venho a vós, me volto para vós: (de novo) sereis lavrados e recebereis a semente",
+      "ref": "Ez 36,9"
+    }
+  },
+  "ancoras": {
+    "36:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A terra que “devora homens” lembra o relatório dos exploradores em Nm 13,32.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "EZE.24.1",
+  "livro": "EZE",
+  "titulo": "A panela enferrujada",
+  "secao": "O juízo sobre Jerusalém",
+  "referencia": "Ez 24,1-14",
+  "ini": {
+    "c": 24,
+    "v": 1
+  },
+  "fim": {
+    "c": 24,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "A panela enferrujada: a cidade que não quis ser limpa",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No nono ano, no décimo mês, no dia dez, a palavra do Senhor vem a Ezequiel: escreve a data deste dia, porque hoje o rei de Babilônia cercou Jerusalém. Ao mesmo tempo, muito longe, o profeta sabe o que acontece. Deus lhe manda propor uma parábola à casa rebelde: põe uma panela ao fogo, enche-a de água, põe nela os melhores pedaços de carne, coxa e espádua, os melhores ossos; acende muita lenha embaixo e faz ferver até cozer tudo. Então vem a explicação: “Ai da cidade do sangue, que é como uma caldeira cheia de ferrugem, ferrugem que não pode ser tirada.” Esvaziai-a, pedaço por pedaço, sem escolher. O sangue que ela derramou está sobre a rocha nua, sem ser coberto de terra, clamando por justiça; por isso Deus também o deixou à vista. Que se acenda uma grande fogueira, que a carne se consuma e os ossos queimem. Depois, a panela vazia deve ser posta sobre as brasas, para que o bronze se aqueça e a ferrugem se funda. Mas é inútil: a ferrugem não sai nem pelo fogo. “Da imundície do teu proceder eu quis limpar-te, mas não ficaste limpa das tuas impurezas.” O Senhor falou: agirá segundo as obras da cidade.",
+    "alegorico": "O sangue sobre a rocha que clama lembra o sangue de Abel (Gn 4,10), e o sangue de Cristo, que “fala melhor que o de Abel” (Hb 12,24), porque clama por misericórdia. Só esse sangue tira a ferrugem que nenhum fogo humano remove.",
+    "moral": "Deus quis limpar a cidade, e ela não se deixou limpar: o drama não é a falta de misericórdia, mas a recusa da purificação. A ferrugem que penetra o metal é o pecado enraizado que já não se quer arrancar. A data escrita lembra que Deus conhece o dia exato das nossas crises e as acompanha.",
+    "anagogico": "O fogo que purifica pode ser aceito agora, na conversão, ou sofrido depois. A cidade nova não terá ferrugem: nada de impuro entrará nela (Ap 21,27)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Escreve a data deste dia.” “Põe uma caldeira ao lume.” “Ai da cidade do sangue, que é como uma caldeira cheia de ferrugem.” “Não saiu dela a sua muita ferrugem, nem por meio do fogo.” “Da imundície do teu proceder eu quis limpar-te, mas não ficaste limpa.”",
+    "meditatio_perguntas": [
+      "Que “ferrugem” resiste em mim mesmo às purificações de Deus?",
+      "Deixo que Deus me limpe, ou resisto ao fogo que purifica?",
+      "Reconheço que Deus acompanha cada data da minha história?"
+    ],
+    "oratio_guia": "Senhor, tu quiseste limpar-me e eu resisti. Lava a minha ferrugem com o sangue do teu Filho, que fala melhor que o de Abel, e não permitas que eu recuse a tua purificação. Amém.",
+    "contemplatio_foco": {
+      "texto": "Da iniundície do teu proceder eu quis limpar-te, mas não ficaste limpa das tuas impurezas",
+      "ref": "Ez 24,13"
+    }
+  },
+  "ancoras": {
+    "24:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O 10º dia do 10º mês do 9º ano corresponde a janeiro de 588 a.C., início do cerco (cf. 2Rs 25,1). O judaísmo ainda recorda esta data com um jejum (10 de Tevet).",
+        "origem": "ia"
+      }
+    },
+    "24:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Pela Lei, o sangue derramado devia ser coberto com terra (Lv 17,13); sangue exposto “clama” por vingança (Gn 4,10; Jó 16,18).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "EZE.35.1",
+  "livro": "EZE",
+  "titulo": "Contra o monte Seir",
+  "secao": "A restauração de Israel",
+  "referencia": "Ez 35,1-15",
+  "ini": {
+    "c": 35,
+    "v": 1
+  },
+  "fim": {
+    "c": 35,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "Contra o monte de Seir: o ódio eterno de Edom",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Novo oráculo contra Edom, o monte de Seir, que funciona como contraponto à restauração dos montes de Israel. Deus estenderá a mão contra Seir e o tornará deserto, as suas cidades em ruínas. O motivo: Edom nutriu “um ódio eterno” contra os filhos de Israel, seu irmão (Esaú e Jacó), e os entregou à espada no tempo da sua desgraça, quando a culpa deles chegava ao fim. Por isso o sangue o perseguirá: quem não odiou o sangue será perseguido pelo sangue. Os seus montes se encherão de mortos, as suas cidades ficarão desertas para sempre. Edom também disse: as duas nações, Israel e Judá, e os dois países serão meus e os possuirei, “quando o Senhor estava lá presente”; e proferiu insultos contra os montes de Israel: estão desolados, foram-nos dados para devorar. Deus ouviu cada palavra soberba dita contra ele. Assim como Edom se alegrou com a destruição da herança de Israel, assim Deus o tratará: será desolação, monte de Seir e toda a Idumeia.",
+    "alegorico": "Edom, o irmão inimigo que odeia e se aproveita da queda de Jacó, tornou-se na tradição figura dos que perseguem o povo de Deus. A rivalidade entre irmãos começada no seio de Rebeca (Gn 25,22-23) só será curada no Reino, onde “o monte de Sião julgará o monte de Esaú” (Ab 21).",
+    "moral": "O ódio “eterno” é um dos pecados mais destrutivos: nutrido por gerações, transforma a desgraça do irmão em oportunidade. Edom esqueceu que a terra de Israel pertencia ao Senhor, que “estava lá presente”. Quem cobiça o que é dos outros na hora da sua fraqueza peca contra eles e contra Deus.",
+    "anagogico": "Deus ouve todas as palavras soberbas ditas contra ele e contra os seus. No fim, o ódio cairá sobre quem o alimentou, e a herança de Deus será dada aos mansos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Porque nutriste um ódio eterno aos filhos de Israel.” “Os entregaste à espada no tempo da sua aflição.” “Duas nações e dois países serão meus.” “Quando o Senhor estava lá presente.” “Eu as ouvi.”",
+    "meditatio_perguntas": [
+      "Guardo algum “ódio antigo” na família ou entre irmãos?",
+      "Aproveito-me da fraqueza de alguém?",
+      "Lembro-me de que Deus está presente onde eu quero me apropriar?"
+    ],
+    "oratio_guia": "Senhor, arranca do meu coração todo ódio antigo e toda cobiça. Reconcilia os irmãos divididos e faz-me lembrar que estás presente em toda parte. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porque nutriste um ódio eterno aos filhos de Israel",
+      "ref": "Ez 35,5"
+    }
+  },
+  "ancoras": {
+    "35:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Depois de 586 a.C., os edomitas ocuparam o sul de Judá, a região que mais tarde se chamou Idumeia.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

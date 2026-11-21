@@ -1,0 +1,57 @@
+{
+  "id": "EZE.44.1",
+  "livro": "EZE",
+  "titulo": "A porta fechada; os sacerdotes",
+  "secao": "O novo Templo",
+  "referencia": "Ez 44,1-31",
+  "ini": {
+    "c": 44,
+    "v": 1
+  },
+  "fim": {
+    "c": 44,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "A porta fechada; os sacerdotes que guardaram a fidelidade",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O guia leva o profeta à porta oriental exterior, que está fechada. O Senhor diz: “Este pórtico estará fechado: não se abrirá, ninguém passará por ele, porque o Senhor Deus de Israel por aí passou.” Só o príncipe poderá sentar-se no seu vestíbulo para comer o pão diante do Senhor. Depois, diante do templo cheio de glória, o profeta cai de novo com o rosto em terra, e Deus lhe dá as leis da casa. Nenhum estrangeiro “incircunciso de coração e incircunciso de carne” entrará no santuário. Os levitas que se afastaram de Deus atrás dos ídolos carregarão a sua culpa: servirão como porteiros e auxiliares, mas não se aproximarão das coisas santíssimas. Os sacerdotes levitas filhos de Sadoc, “que guardaram as ordenações do meu santuário quando os filhos de Israel se desencaminharam”, esses se aproximarão para servir. Seguem as normas: vestes de linho no santuário, deixadas ao sair; cabelos aparados; abstinência de vinho antes do serviço; matrimônio com virgem de Israel ou viúva de sacerdote; não tocar cadáveres, salvo de parentes próximos. “Ensinarão ao meu povo a diferença que há entre o santo e o profano, entre o puro e o impuro”; julgarão segundo a lei. E não terão herança: “eu é que sou a sua herança… eu é que sou o seu quinhão”.",
+    "alegorico": "Santo Ambrósio, Santo Agostinho e São Jerônimo leram a porta fechada, por onde só o Senhor passou, como figura da virgindade perpétua de Maria: Deus entrou no mundo pelo seu seio, e ela permaneceu virgem. A liturgia mariana aplica-lhe o título “porta do céu”. Os sacerdotes que têm o Senhor por herança anunciam o sacerdócio da Nova Aliança.",
+    "moral": "A fidelidade nos tempos de apostasia é recompensada com a proximidade de Deus. A missão do sacerdote é ensinar a distinguir o santo do profano, e a sua riqueza é o próprio Deus. Todo cristão pode dizer com o salmista: “O Senhor é a minha herança” (Sl 15,5).",
+    "anagogico": "Ter Deus por herança é a definição da vida eterna. Os que lhe forem fiéis quando todos se desviam servirão diante dele para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Este pórtico estará fechado… porque o Senhor Deus de Israel por aí passou.” “Incircuncidado de coração.” “Que guardaram as ordenações do meu santuário, quando os filhos de Israel se desencaminharam.” “Ensinarão ao meu povo a diferença que há entre o santo e o profano.” “Eu é que sou a sua herança.”",
+    "meditatio_perguntas": [
+      "Permaneço fiel quando outros se desviam?",
+      "O Senhor é a minha herança, ou busco outras seguranças?",
+      "Rezo pelos sacerdotes, para que ensinem a distinguir o santo do profano?"
+    ],
+    "oratio_guia": "Senhor, que passaste pela porta fechada do seio de Maria, faz-me fiel como os filhos de Sadoc. Sê tu a minha herança e o meu quinhão, e dá à tua Igreja sacerdotes santos. Amém.",
+    "contemplatio_foco": {
+      "texto": "eu é que sou a sua herança; não lhes dareis quinhão em Israel, porque eu é que sou o seu quinhão",
+      "ref": "Ez 44,28"
+    }
+  },
+  "ancoras": {
+    "44:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Interpretação mariana em Santo Ambrósio (De institutione virginis 8,52) e São Jerônimo; a Porta Dourada de Jerusalém, a oriente, está murada até hoje.",
+        "origem": "ia"
+      }
+    },
+    "44:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Sadoc foi o sacerdote fiel a Davi e a Salomão (1Rs 1,32-39); os seus descendentes dirigiram o sacerdócio de Jerusalém.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "EZE.41.1",
+  "livro": "EZE",
+  "titulo": "O santuário e as câmaras",
+  "secao": "O novo Templo",
+  "referencia": "Ez 41,1–42,20",
+  "ini": {
+    "c": 41,
+    "v": 1
+  },
+  "fim": {
+    "c": 42,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "Este é o Santo dos Santos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O guia introduz o profeta no próprio templo e mede tudo: as pilastras da entrada, a porta, o Santo, com quarenta côvados de comprimento e vinte de largura. Depois o homem entra sozinho no recinto mais interior e o mede: vinte côvados por vinte, um quadrado perfeito. “Este é o Santo dos Santos.” O profeta, que não é sacerdote, não entra ali. São descritas as câmaras laterais, em três andares, que rodeiam o templo, um edifício a ocidente e as espessuras dos muros. O interior está revestido de madeira, com janelas e decorações: querubins e palmeiras alternados ao redor de todo o templo; cada querubim tem duas faces, uma de homem voltada para uma palmeira e outra de leão voltada para a outra. Diante do Santo há um altar de madeira, “a mesa que está diante do Senhor”, e as portas são de duas folhas. Em seguida, o guia mostra as câmaras dos sacerdotes, ao norte e ao sul: são câmaras santas, onde os sacerdotes comem as coisas santíssimas e depositam as ofertas; ali deixarão as vestes sagradas antes de sair ao átrio do povo. Por fim, mede o perímetro exterior: quinhentos côvados de cada lado, um muro que “separava o sagrado do profano”.",
+    "alegorico": "O Santo dos Santos, onde só se entra por mediação, foi aberto por Cristo, que entrou “não em santuário feito por mãos humanas, mas no próprio céu” (Hb 9,24); o véu rasgado na sua morte abre a todos o acesso a Deus (Mt 27,51). Querubins e palmeiras evocam o Éden e o seu guarda (Gn 3,24), agora dentro do templo: o paraíso reencontrado.",
+    "moral": "A separação entre sagrado e profano não é desprezo do mundo, mas reconhecimento de que Deus é santo. As vestes sagradas que ficam no templo ensinam o respeito pelo culto. E a mesa “diante do Senhor” lembra que a comunhão com Deus é o centro de tudo.",
+    "anagogico": "O quadrado perfeito do Santo dos Santos anuncia a cidade celeste, também ela um cubo perfeito (Ap 21,16), onde todo o espaço será Santo dos Santos e não haverá mais templo, porque Deus e o Cordeiro são o seu templo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Este é o Santo dos Santos.” “Querubins e palmeiras; entre querubim e querubim estava uma palmeira.” “Esta é a mesa que está diante do Senhor.” “São câmaras santas.” “Separava o lugar sagrado do profano.”",
+    "meditatio_perguntas": [
+      "Tenho reverência pelo que é santo?",
+      "Como vivo o acesso a Deus que Cristo me abriu?",
+      "Distingo na minha vida o sagrado do profano?"
+    ],
+    "oratio_guia": "Senhor Jesus, que entraste no Santo dos Santos e abriste para nós o caminho, faz-me aproximar de Deus com reverência e confiança, e prepara-me para a sua mesa. Amém.",
+    "contemplatio_foco": {
+      "texto": "Este é o Santo dos Santos",
+      "ref": "Ez 41,4"
+    }
+  },
+  "ancoras": {
+    "41:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O guia entra sozinho no Santo dos Santos; Ezequiel, embora de família sacerdotal, fica de fora.",
+        "origem": "ia"
+      }
+    },
+    "41:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O altar de madeira diante do Santo corresponde à mesa dos pães da proposição (Ex 25,23-30).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

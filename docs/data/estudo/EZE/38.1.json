@@ -1,0 +1,57 @@
+{
+  "id": "EZE.38.1",
+  "livro": "EZE",
+  "titulo": "Gog da terra de Magog",
+  "secao": "A restauração de Israel",
+  "referencia": "Ez 38,1-23",
+  "ini": {
+    "c": 38,
+    "v": 1
+  },
+  "fim": {
+    "c": 38,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Gog, de Magog: o último assalto contra o povo de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Abre-se uma visão de tom apocalíptico. Deus manda o profeta voltar o rosto contra Gog, na terra de Magog, príncipe de Mosoc e Tubal, povos do extremo norte. Deus mesmo o trará, com um freio nos queixos, com cavalos e cavaleiros, com aliados de todos os confins: persas, etíopes, líbios, Gomer, Togorma. Depois de muitos dias, nos últimos anos, Gog virá contra uma terra que se recuperou da espada, um povo reunido dentre as nações que habita em segurança. Virá como tempestade e como nuvem. Nesse dia, formará no seu coração planos maus: “irei contra uma terra sem muros, atacarei homens em paz”, para saquear e despojar. Os mercadores de Sabá, Dedã e Társis perguntam: vens para pilhar? Mas Deus revela que é ele quem traz Gog contra a sua terra, “para que as nações me conheçam, quando eu for santificado em ti, ó Gog”. Tu és aquele de quem falaram os profetas antigos. Naquele dia haverá um grande tremor na terra de Israel: os peixes, as aves, os animais, todos os homens tremerão diante de Deus; os montes cairão. Deus chamará a espada contra Gog; a espada de cada um se voltará contra o irmão; peste, sangue, chuva torrencial, granizo, fogo e enxofre cairão sobre ele. “Manifestarei a minha grandeza e a minha santidade.”",
+    "alegorico": "Gog e Magog tornaram-se no Apocalipse figura das forças do mal reunidas no fim dos tempos contra “o acampamento dos santos e a cidade amada”, consumidas pelo fogo de Deus (Ap 20,7-10). O povo que habita “sem muros” é a Igreja que confia não nas suas defesas, mas no Senhor.",
+    "moral": "Depois da restauração vem ainda a prova: a paz conquistada não dispensa a vigilância. O mal planeja atacar justamente os que vivem em paz e sem defesa. Mas a última palavra é de Deus, que até as forças inimigas conduz com “freio nos queixos”. Os mercadores que só perguntam pelo saque mostram como o mundo vê a guerra: como negócio.",
+    "anagogico": "Haverá um último combate entre o mal e o povo de Deus, mas Deus o vencerá sozinho e manifestará a sua santidade a todas as nações. A esperança cristã atravessa a provação final com confiança."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eis que venho contra ti, Gog.” “Pôr-te-ei um freio nos queixos.” “Irei contra uma terra que está sem muros, atacarei homens em paz.” “Acontecerá nos últimos dias.” “Manifestarei a minha grandeza e a minha santidade.”",
+    "meditatio_perguntas": [
+      "Confio em Deus como meu muro, mesmo “sem muros” humanos?",
+      "Mantenho-me vigilante mesmo em tempos de paz?",
+      "Creio que Deus conduz a história até nas suas horas mais escuras?"
+    ],
+    "oratio_guia": "Senhor, muro e defesa do teu povo, guarda-nos na hora da prova. Que nenhuma força do mal nos separe de ti, e que a tua santidade se manifeste a todas as nações. Amém.",
+    "contemplatio_foco": {
+      "texto": "Irei contra uma terra que está sem muros, atacarei homens em paz",
+      "ref": "Ez 38,11"
+    }
+  },
+  "ancoras": {
+    "38:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Gog é talvez reminiscência de Giges, rei da Lídia (séc. VII a.C.); Magog, Mosoc e Tubal são povos do norte da Ásia Menor (Gn 10,2).",
+        "origem": "ia"
+      }
+    },
+    "38:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Referência a profecias anteriores sobre o inimigo do norte (Jr 4–6).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

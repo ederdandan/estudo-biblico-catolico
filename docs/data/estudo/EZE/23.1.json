@@ -1,0 +1,57 @@
+{
+  "id": "EZE.23.1",
+  "livro": "EZE",
+  "titulo": "Oola e Ooliba",
+  "secao": "O juízo sobre Jerusalém",
+  "referencia": "Ez 23,1-49",
+  "ini": {
+    "c": 23,
+    "v": 1
+  },
+  "fim": {
+    "c": 23,
+    "v": 49
+  },
+  "liturgia": {
+    "tema_central": "Oola e Ooliba: as duas irmãs infiéis",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Nova alegoria das duas irmãs, filhas da mesma mãe, que se prostituíram desde a juventude no Egito. A mais velha chama-se Oola (Samaria); a mais nova, Ooliba (Jerusalém). Ambas foram de Deus e lhe deram filhos e filhas. Oola foi infiel e se apaixonou pelos assírios, governadores vestidos de púrpura, jovens cavaleiros; manchou-se com os seus ídolos e não abandonou as prostituições aprendidas no Egito. Por isso Deus a entregou aos seus amantes, que a desnudaram, levaram os filhos e a mataram à espada. Ooliba viu tudo isso e foi ainda pior: também se apaixonou pelos assírios e, depois, ao ver figuras de caldeus pintadas nas paredes, enviou mensageiros à Caldeia; os babilônios vieram e a contaminaram, e ela se desgostou deles, mas voltou ao Egito, lembrando os dias da juventude. Deus então suscitará contra ela os amantes de que se desgostou: babilônios, caldeus e assírios virão com carros e armas, a tratarão com furor, levarão os filhos e a deixarão nua. “Andaste pelo mesmo caminho de tua irmã: meterei na tua mão o cálice que ela bebeu”, cálice profundo e largo, de embriaguez e dor, que ela beberá até o fim, “visto que te esqueceste de mim e me lançaste para trás das costas”. As duas sacrificaram os filhos aos ídolos e, no mesmo dia, entraram no santuário para profaná-lo. Homens justos as julgarão, e todas as mulheres aprenderão a não imitar a sua impudicícia.",
+    "alegorico": "As duas irmãs representam as alianças políticas e religiosas de Israel com as potências, que Deus lê como adultério. A esposa infiel contrasta com a Igreja, Esposa que Cristo quer “sem mancha nem ruga” (Ef 5,27). O cálice amargo de Samaria, que Jerusalém deve beber, é o cálice que Cristo tomará sobre si.",
+    "moral": "A linguagem dura revela a dor de um amor traído: Deus não é indiferente às nossas infidelidades. O pecado de Ooliba é não aprender com a queda da irmã: a experiência alheia é aviso para nós. E a mais grave hipocrisia é sacrificar aos ídolos e entrar no mesmo dia no santuário. A sedução começa pelos olhos (“figuras pintadas nas paredes”).",
+    "anagogico": "“Lançar Deus para trás das costas” é a definição do pecado; voltar-se para ele, a da conversão. No fim, a Esposa fiel será apresentada ao Cordeiro, e a infidelidade terá sido curada ou julgada."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Havia duas mulheres, filhas da mesma mãe.” “Tendo visto isto, sua irmã Ooliba… excedeu.” “Logo ao primeiro olhar concebeu por eles uma paixão louca.” “Meterei na tua mão o cálice que ela bebeu.” “Visto que te esqueceste de mim e me lançaste para trás das costas.”",
+    "meditatio_perguntas": [
+      "Aprendo com as quedas dos outros, ou repito os mesmos erros?",
+      "Que “figuras pintadas na parede” despertam em mim desejos que me afastam de Deus?",
+      "Em que “lancei Deus para trás das costas”?"
+    ],
+    "oratio_guia": "Senhor, esposo fiel, não permitas que eu te lance para trás das costas. Guarda os meus olhos da sedução e ensina-me a aprender com as quedas alheias, para permanecer fiel a ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "visto que te esqueceste de mim e me lançaste para trás das costas",
+      "ref": "Ez 23,35"
+    }
+  },
+  "ancoras": {
+    "23:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Oola significa “a sua tenda” (Samaria, com santuário próprio); Ooliba, “a minha tenda está nela” (Jerusalém, onde estava o Templo do Senhor).",
+        "origem": "ia"
+      }
+    },
+    "23:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os relevos pintados de oficiais babilônios eram comuns nos palácios; o texto mostra como a fascinação pela potência estrangeira começa pelo olhar.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

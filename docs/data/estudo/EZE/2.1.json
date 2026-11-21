@@ -1,0 +1,57 @@
+{
+  "id": "EZE.2.1",
+  "livro": "EZE",
+  "titulo": "O livro comido: filho do homem, eu te envio",
+  "secao": "A vocação do profeta",
+  "referencia": "Ez 2,1–3,15",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "Come este livro: doce como mel na boca",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Diante da glória do Senhor, Ezequiel cai com o rosto em terra. Uma voz diz: “Filho de homem, põe-te de pé, e eu falarei contigo.” O espírito entra nele e o põe de pé. Deus o envia aos filhos de Israel, povo rebelde, de rosto duro e coração empedernido: dirás “assim fala o Senhor”; quer escutem quer não, saberão que houve um profeta no meio deles. Não temas, ainda que estejas entre cardos e espinhos e habites com escorpiões. E acrescenta: “não sejas rebelde como esta casa; abre a tua boca e come tudo o que te dou.” Uma mão estende-lhe um rolo, escrito por dentro e por fora, cheio de lamentações, gemidos e ais. “Come esse livro, e depois, vai falar.” Ele abre a boca e o come, e o livro “na minha boca era doce como mel”. Deus explica: não te envio a um povo de língua estranha, que te ouviria; mas Israel não te quer ouvir porque não me quer ouvir; por isso farei a tua fronte dura como diamante. Recebe no coração as minhas palavras. O espírito o levanta; ele ouve atrás de si: “Abençoada a glória do Senhor, no lugar da sua morada”, o ruído das asas e das rodas; e vai, amargurado, com a mão do Senhor sobre ele, até Tel-Abib, onde fica sete dias estupefato entre os deportados.",
+    "alegorico": "O título “filho de homem”, que aqui sublinha a fragilidade do profeta diante de Deus, será o título preferido de Jesus para si mesmo, unindo a humildade humana e a glória de Dn 7,13. Comer o livro antecipa a assimilação da Palavra e a Eucaristia; o Apocalipse retoma o gesto: doce na boca, amargo nas entranhas (Ap 10,9-10).",
+    "moral": "O mensageiro precisa primeiro comer a palavra: só transmite com verdade o que assimilou. A palavra pode ser feita de lamentações e ainda assim ser doce, porque é de Deus. A missão não depende do sucesso: “quer escutem quer não”. E o profeta não deve ser rebelde como o povo: a primeira obediência é a dele.",
+    "anagogico": "A glória “no lugar da sua morada” é bendita para sempre; o profeta é enviado para que um povo rebelde volte a ela. A doçura da palavra é antegosto da contemplação de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Filho de homem, põe-te de pé, e eu falarei contigo.” “Entrou em mim o espírito, e me firmou sobre os meus pés.” “Quer te escutem ou não… saberão que esteve no meio deles um profeta.” “Não sejas rebelde como esta casa; abre a tua boca e come tudo o que te dou.” “Era doce como mel.”",
+    "meditatio_perguntas": [
+      "Assimilo a Palavra de Deus antes de falar dela aos outros?",
+      "Aceito anunciar a verdade “quer escutem quer não”?",
+      "Em que sou rebelde como a casa a que Deus me envia?"
+    ],
+    "oratio_guia": "Senhor, que me pões de pé pelo teu Espírito, dá-me a tua palavra para comer, mesmo quando contém lamentações. Que ela seja doce na minha boca e que eu a anuncie sem medo, quer me ouçam, quer não. Amém.",
+    "contemplatio_foco": {
+      "texto": "Comi-o, e ele na minha boca era doce como mel",
+      "ref": "Ez 3,3"
+    }
+  },
+  "ancoras": {
+    "2:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na Bíblia hebraica a frase “Esta visão era a semelhança da glória do Senhor” encerra o cap. 1 (1,28b).",
+        "origem": "ia"
+      }
+    },
+    "3:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Tel-Abib (“colina das espigas”) era um povoado de deportados junto ao Cobar; o nome foi dado à moderna Tel Aviv.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "EZE.16.44",
+  "livro": "EZE",
+  "titulo": "Sodoma, Samaria e a aliança eterna",
+  "secao": "O juízo sobre Jerusalém",
+  "referencia": "Ez 16,44-63",
+  "ini": {
+    "c": 16,
+    "v": 44
+  },
+  "fim": {
+    "c": 16,
+    "v": 63
+  },
+  "liturgia": {
+    "tema_central": "Lembrar-me-ei da minha aliança e estabelecerei contigo uma aliança eterna",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A alegoria continua com um provérbio: “Tal mãe, tal filha.” Jerusalém é filha da mãe hitita e irmã de Samaria, a irmã mais velha ao norte, e de Sodoma, a mais nova ao sul. Mas foi pior que ambas. Deus jura: Sodoma e as suas filhas não fizeram tanto como tu. E define o pecado de Sodoma: “a soberba, a fartura de pão, a ociosidade dela e de suas filhas e o não estender a mão para o pobre e para o desgraçado.” Samaria não cometeu metade dos teus pecados; com as tuas abominações, justificaste as tuas irmãs: elas parecem justas ao teu lado. Então vem a surpresa: Deus restaurará a sorte de Sodoma e de Samaria, e também a de Jerusalém, para que ela carregue a sua vergonha e seja um consolo para elas. No tempo do orgulho, Jerusalém nem pronunciava o nome de Sodoma, até que a sua própria maldade foi descoberta. Deus tratará Jerusalém como ela tratou o juramento; “apesar disso, lembrar-me-ei da aliança que tinha feito contigo, nos dias da tua mocidade, e estabelecerei contigo uma aliança eterna”. Ela receberá as irmãs como filhas, não pela sua aliança, mas pela de Deus. E o fim é o silêncio da gratidão: “a fim de que te recordes e te confundas, e não te atrevas a abrir mais a boca… quando eu te tiver perdoado todas as coisas que fizeste”.",
+    "alegorico": "A aliança eterna que Deus estabelece por pura fidelidade, apesar da infidelidade da esposa, é a nova aliança em Cristo. As irmãs “recebidas como filhas” anunciam a entrada dos povos pagãos na Igreja, que se torna mãe de muitos (Gl 4,26-27).",
+    "moral": "O texto dá uma definição de pecado social: soberba, abundância, ociosidade e indiferença ao pobre; é o pecado de Sodoma, e pode ser o nosso. Quem julga os outros (“nem pronunciava o nome de Sodoma”) muitas vezes é pior. E o perdão de Deus não produz orgulho, mas uma confusão humilde, um silêncio que já não se justifica.",
+    "anagogico": "A aliança eterna, fundada só na fidelidade de Deus, garante que a última palavra é o perdão. No fim, os que se julgavam melhores e os que eram desprezados estarão juntos, reconciliados por pura graça."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Tal mãe, tal filha.” “A soberba, a fartura de pão, a ociosidade… e o não estender a mão para o pobre e para o desgraçado.” “Justificaste as tuas irmãs.” “Lembrar-me-ei da aliança… e estabelecerei contigo uma aliança eterna.” “Quando eu te tiver perdoado todas as coisas que fizeste.”",
+    "meditatio_perguntas": [
+      "Há em mim soberba, fartura, ociosidade e indiferença ao pobre?",
+      "Julgo os outros como “Sodoma” sem ver o meu próprio pecado?",
+      "Vivo o perdão de Deus com o silêncio agradecido de quem não merece?"
+    ],
+    "oratio_guia": "Senhor, fiel quando somos infiéis, lembra-te da tua aliança e perdoa-me tudo o que fiz. Livra-me da soberba e da indiferença ao pobre, e que eu viva o teu perdão em humilde gratidão. Amém.",
+    "contemplatio_foco": {
+      "texto": "lembrar-me-ei da aliança que tinha feito contigo, nos dias da tua mocidade, e estabelecerei contigo uma aliança eterna",
+      "ref": "Ez 16,60"
+    }
+  },
+  "ancoras": {
+    "16:49": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Este versículo é uma das leituras bíblicas mais claras do “pecado de Sodoma” em termos de injustiça social, ao lado da perversão relatada em Gn 19.",
+        "origem": "ia"
+      }
+    },
+    "16:53": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A restauração de Sodoma é uma das afirmações mais ousadas da misericórdia de Deus no AT.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,65 @@
+{
+  "id": "EZE.8.1",
+  "livro": "EZE",
+  "titulo": "As abominações no Templo",
+  "secao": "O juízo sobre Jerusalém",
+  "referencia": "Ez 8,1-18",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "O que fazem os anciãos nas trevas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No sexto ano do exílio, estando os anciãos de Judá sentados diante de Ezequiel, a mão do Senhor cai sobre ele. Uma figura de fogo e de luz o toma pelos cabelos e o espírito o leva, “em visões divinas”, a Jerusalém, à porta norte do Templo, onde está a glória do Deus de Israel. Ali Deus lhe mostra, em quatro cenas crescentes, as abominações que o farão afastar-se do seu santuário. Primeiro, “o ídolo do ciúme” à entrada da porta do altar. Depois, cavando um buraco na parede, Ezequiel entra numa câmara onde estão pintados répteis, animais impuros e ídolos; setenta anciãos de Israel, com Jezonias, filho de Safã, no meio, oferecem incenso: fazem isso nas trevas, dizendo “o Senhor não nos vê, o Senhor abandonou a terra”. Terceiro, à porta norte, mulheres sentadas choram Tamuz (Adônis), o deus da vegetação. Por fim, no átrio interior, entre o vestíbulo e o altar, uns vinte e cinco homens de costas para o Templo e de rosto para o oriente adoram o sol. Deus diz: é pouco? Ainda enchem a terra de violência e aproximam o ramo do nariz; não terei compaixão.",
+    "alegorico": "O Templo profanado anuncia o novo Templo, Cristo, que expulsa os vendilhões; e o templo interior, que somos nós, onde podem esconder-se idolatrias “nas trevas”. Voltar as costas ao santuário para adorar o sol é a inversão da adoração verdadeira, que se volta para Cristo, “sol nascente que vem do alto” (Lc 1,78).",
+    "moral": "A idolatria mais perigosa é a que se pratica às escondidas, nos “quartos pintados” da alma, por pessoas respeitáveis, com a desculpa de que “o Senhor não vê”. Deus pede ao profeta que cave a parede: o exame de consciência às vezes precisa escavar o que escondemos de nós mesmos.",
+    "anagogico": "Nada fica oculto para sempre: o que se faz nas trevas será revelado à luz (Lc 12,2-3). A glória que se afasta do Templo profanado ensina que Deus só habita onde é adorado em verdade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O espírito levantou-me entre a terra e o céu, e levou-me a Jerusalém.” “Filho de homem, escava a parede.” “Vês bem… o que os anciães da casa de Israel fazem nas trevas?” “O Senhor não nos vê, o Senhor retirou-se da terra.” “Tinham as costas voltadas para o templo do Senhor.”",
+    "meditatio_perguntas": [
+      "Que “câmara pintada” escondo na alma, onde penso que Deus não vê?",
+      "Volto as costas a Deus para adorar outra coisa?",
+      "Deixo o Senhor “cavar a parede” do meu coração no exame de consciência?"
+    ],
+    "oratio_guia": "Senhor, que vês o que se faz nas trevas, cava a parede do meu coração e mostra-me os meus ídolos ocultos. Que eu não te volte as costas, mas te adore com o rosto voltado para ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Vês bem, filho de homem, o que os anciães da casa de Israel fazem nas trevas",
+      "ref": "Ez 8,12"
+    }
+  },
+  "ancoras": {
+    "8:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O sexto ano do exílio de Joaquin corresponde a 592 a.C.",
+        "origem": "ia"
+      }
+    },
+    "8:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Tamuz (a Vulgata traduz “Adônis”) era o deus mesopotâmico da vegetação, cuja morte se chorava no verão.",
+        "origem": "ia"
+      }
+    },
+    "8:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Chegar o ramo ao nariz” é talvez um gesto ritual do culto solar, ou uma expressão de desprezo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

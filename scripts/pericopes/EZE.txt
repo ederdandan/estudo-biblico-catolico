@@ -1,0 +1,58 @@
+# Divisão em perícopes (numeração Matos Soares / Vulgata). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## A vocação do profeta
+1:1-1:28 | A visão da glória do Senhor junto ao Cobar
+2:1-3:15 | O livro comido: filho do homem, eu te envio
+3:16-3:27 | A sentinela da casa de Israel
+## O juízo sobre Jerusalém
+4:1-5:17 | O cerco figurado e os cabelos cortados
+6:1-6:14 | Contra os montes de Israel
+7:1-7:27 | Vem o fim
+8:1-8:18 | As abominações no Templo
+9:1-9:11 | O sinal Tau na fronte
+10:1-10:22 | A glória sobre os querubins
+11:1-11:25 | Um coração novo; a glória deixa a cidade
+12:1-12:28 | A bagagem do exilado
+13:1-13:23 | Contra os profetas que dizem paz
+14:1-14:23 | Ídolos no coração; Noé, Daniel e Jó
+15:1-15:8 | A lenha da videira
+16:1-16:43 | Jerusalém, a menina abandonada e a esposa infiel
+16:44-16:63 | Sodoma, Samaria e a aliança eterna
+17:1-17:24 | As duas águias e o raminho de cedro
+18:1-18:32 | A alma que pecar, essa morrerá
+19:1-19:14 | Lamentação sobre os príncipes de Israel
+20:1-20:44 | A história de um povo rebelde
+20:45-21:32 | A espada afiada
+22:1-22:31 | A cidade sanguinária
+23:1-23:49 | Oola e Ooliba
+24:1-24:14 | A panela enferrujada
+24:15-24:27 | A morte da esposa do profeta
+## Oráculos contra as nações
+25:1-25:17 | Contra Amon, Moab, Edom e os filisteus
+26:1-26:21 | Contra Tiro
+27:1-27:36 | Lamentação sobre Tiro, o navio soberbo
+28:1-28:19 | O príncipe de Tiro: eu sou um deus
+28:20-28:26 | Contra Sidônia; Israel reunido
+29:1-29:21 | Contra o Faraó, o grande dragão
+30:1-30:26 | O dia do Egito
+31:1-31:18 | O cedro abatido
+32:1-32:32 | O Faraó desce à cova
+## A restauração de Israel
+33:1-33:20 | Não quero a morte do ímpio
+33:21-33:33 | A notícia da queda de Jerusalém
+34:1-34:31 | Eu mesmo apascentarei as minhas ovelhas
+35:1-35:15 | Contra o monte Seir
+36:1-36:15 | Profecia aos montes de Israel
+36:16-36:38 | Um coração novo e um espírito novo
+37:1-37:14 | Os ossos secos
+37:15-37:28 | Os dois lenhos: um só povo
+38:1-38:23 | Gog da terra de Magog
+39:1-39:29 | A derrota de Gog
+## O novo Templo
+40:1-40:49 | O homem com a cana de medir: as portas e os átrios
+41:1-42:20 | O santuário e as câmaras
+43:1-43:27 | A glória volta ao Templo
+44:1-44:31 | A porta fechada; os sacerdotes
+45:1-46:24 | A porção sagrada, o príncipe e as festas
+47:1-47:12 | As águas que saem do Templo
+47:13-48:35 | A partilha da terra: O Senhor está ali

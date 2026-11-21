@@ -1,0 +1,57 @@
+{
+  "id": "EZE.34.1",
+  "livro": "EZE",
+  "titulo": "Eu mesmo apascentarei as minhas ovelhas",
+  "secao": "A restauração de Israel",
+  "referencia": "Ez 34,1-31",
+  "ini": {
+    "c": 34,
+    "v": 1
+  },
+  "fim": {
+    "c": 34,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Eu mesmo apascentarei as minhas ovelhas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus fala contra os pastores de Israel, os reis e chefes, que apascentam a si mesmos: bebem o leite, vestem-se de lã, matam as ovelhas gordas, mas não apascentam o rebanho. “Não fortalecestes as ovelhas débeis, não curastes as enfermas, não pensastes a ferida, não fizestes voltar a desgarrada, não buscastes a perdida”, mas governastes com dureza e violência. Por isso as ovelhas se dispersaram, sem pastor, e viraram presa das feras pelos montes. Deus pedirá contas aos pastores e lhes tirará o rebanho. E promete: “Eu mesmo cuidarei das minhas ovelhas e vigiá-las-ei.” Como um pastor que procura o rebanho disperso, Deus as libertará de todos os lugares onde se perderam no dia de nuvens e trevas, as reunirá, as levará à sua terra, as apascentará nos montes de Israel, em pastos bons. “Irei procurar a perdida, farei voltar a desgarrada, pensarei a ferida, fortalecerei a fraca.” Deus julgará também entre ovelha e ovelha: as gordas pisam o pasto que sobra e turvam a água que as outras precisam beber, e empurram as fracas com os chifres. Então Deus suscitará “um único pastor… o meu servo Davi”, que será príncipe no meio delas. Fará com elas uma aliança de paz, afastará as feras, dará chuvas de bênção; habitarão em segurança. “Vós, ovelhas minhas, sois o rebanho da minha pastagem, e eu sou o vosso Deus.”",
+    "alegorico": "Jesus assume este texto quando se proclama o Bom Pastor (Jo 10,11-16): ele é o próprio Deus que vem apascentar o rebanho e o “Davi” prometido, único pastor. A parábola da ovelha perdida (Lc 15,4-7) e a imagem do juízo entre ovelhas e bodes (Mt 25,31-33) também nascem daqui.",
+    "moral": "Todo serviço de autoridade, na Igreja, na família, no trabalho, é examinado por este texto: apascento os outros ou a mim mesmo? Os verbos de Deus definem o cuidado verdadeiro: procurar, reconduzir, enfaixar, fortalecer. Também as “ovelhas gordas” são julgadas: quem tem muito e pisa o pasto dos outros.",
+    "anagogico": "O Pastor reunirá o rebanho disperso nos montes eternos, numa aliança de paz definitiva, e “o Cordeiro será o seu pastor e os conduzirá às fontes das águas da vida” (Ap 7,17)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ai dos pastores de Israel que se apascentam a si próprios!” “Não buscastes a perdida.” “Eu mesmo cuidarei das minhas ovelhas.” “Irei procurar a perdida, farei voltar a desgarrada, pensarei a ferida, fortalecerei a fraca.” “Suscitarei um único pastor… o meu servo Davi.” “Vós, ovelhas minhas, sois o rebanho… da minha pastagem.”",
+    "meditatio_perguntas": [
+      "De quem sou pastor, e como os apascento?",
+      "Sou “ovelha gorda” que turva a água dos outros?",
+      "Deixo-me encontrar e curar pelo Bom Pastor?"
+    ],
+    "oratio_guia": "Senhor Jesus, Bom Pastor, procura-me quando me perco, enfaixa as minhas feridas, fortalece a minha fraqueza. Dá à tua Igreja pastores segundo o teu coração. Amém.",
+    "contemplatio_foco": {
+      "texto": "Irei procurar a perdida, farei voltar a desgarrada, pensarei a ferida, fortalecerei a fraca",
+      "ref": "Ez 34,16"
+    }
+  },
+  "ancoras": {
+    "34:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "No Antigo Oriente, “pastor” era título comum dos reis.",
+        "origem": "ia"
+      }
+    },
+    "34:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Davi tinha morrido havia séculos: o “meu servo Davi” é o Messias da sua descendência (cf. Jr 23,5; 30,9).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

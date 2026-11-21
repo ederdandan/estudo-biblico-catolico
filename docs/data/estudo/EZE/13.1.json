@@ -1,0 +1,57 @@
+{
+  "id": "EZE.13.1",
+  "livro": "EZE",
+  "titulo": "Contra os profetas que dizem paz",
+  "secao": "O juízo sobre Jerusalém",
+  "referencia": "Ez 13,1-23",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Rebocam a parede com barro: contra os falsos profetas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus manda Ezequiel profetizar contra os profetas que falam “por sua cabeça”, seguem o próprio espírito e não viram nada. São como raposas entre ruínas: não subiram às brechas nem levantaram o muro para defender Israel no dia do Senhor. Dizem “oráculo do Senhor” sem que o Senhor os tenha enviado, e ainda esperam que a palavra se cumpra. Por isso não terão lugar na assembleia do povo nem entrarão na terra. A imagem central: “enganaram o meu povo, dizendo: Paz! e paz não havia. Quando o meu povo levanta uma parede, eles cobrem-na de barro.” Virá a chuva torrencial, o granizo e o vento; a parede cairá, os fundamentos aparecerão, e se perguntará: onde está o reboco? Depois o profeta se volta contra as profetisas que também profetizam por conta própria, praticando magia com faixas nos pulsos e véus na cabeça “a fim de apanharem as almas”. Profanam a Deus “por um punhado de cevada e por um pedaço de pão”, matando os que não deviam morrer e dando vida aos que não deviam viver. Deus libertará as almas apanhadas como pássaros, porque elas afligiram o justo, que Deus não afligira, e fortaleceram a mão do ímpio para que não se convertesse.",
+    "alegorico": "Cristo, verdadeiro profeta, “subiu à brecha”: pôs-se entre Deus e o povo, como Moisés (Sl 105,23), dando a vida. A casa construída sobre a areia, que cai com a chuva e o vento (Mt 7,26-27), retoma a imagem da parede rebocada. A Igreja tem o dever de discernir os espíritos (1Jo 4,1).",
+    "moral": "O falso pastor esconde as rachaduras com reboco, em vez de reconstruir o muro. Consolar sem verdade é deixar o outro desprotegido. A religião usada para ganhar dinheiro e controlar pessoas (“apanhar almas”) é profanação. O critério: a verdadeira profecia consola o justo e chama o ímpio à conversão; a falsa faz o contrário.",
+    "anagogico": "No dia do Senhor, os fundamentos aparecerão (1Cor 3,13): só o que foi edificado sobre a rocha resistirá à tempestade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ai dos profetas insensatos, que seguem o seu próprio espírito e não vêem nada!” “Não subistes às brechas.” “Paz! e paz não havia.” “Quando o meu povo levanta uma parede, eles cobrem-na de barro.” “Contristastes o coração do justo… e fortificastes as mãos do ímpio.”",
+    "meditatio_perguntas": [
+      "Em que “reboco” as rachaduras da minha vida em vez de reconstruí-las?",
+      "Subo à brecha em favor dos outros, ou me escondo como raposa entre ruínas?",
+      "Busco “profetas” que me agradam ou que me dizem a verdade?"
+    ],
+    "oratio_guia": "Senhor, livra-me de rebocar com barro as minhas rachaduras. Dá-me coragem de subir à brecha pelo teu povo e de falar a verdade que consola o justo e converte o pecador. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porque eles enganaram o meu povo. dizendo: Paz! e paz não havia",
+      "ref": "Ez 13,10"
+    }
+  },
+  "ancoras": {
+    "13:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Subir à brecha” é a imagem do soldado que fecha com o corpo a abertura da muralha; Ez 22,30 retoma o tema.",
+        "origem": "ia"
+      }
+    },
+    "13:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As faixas e véus eram objetos de magia, usados para “prender” ou proteger pessoas mediante pagamento.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

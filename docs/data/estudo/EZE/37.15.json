@@ -1,0 +1,49 @@
+{
+  "id": "EZE.37.15",
+  "livro": "EZE",
+  "titulo": "Os dois lenhos: um só povo",
+  "secao": "A restauração de Israel",
+  "referencia": "Ez 37,15-28",
+  "ini": {
+    "c": 37,
+    "v": 15
+  },
+  "fim": {
+    "c": 37,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "Os dois lenhos unidos: um só povo, um só pastor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus ordena ao profeta um gesto: pegar um pedaço de madeira e escrever “Para Judá e os filhos de Israel seus companheiros”; outro, e escrever “Para José, lenho de Efraim, e toda a casa de Israel seus companheiros”; depois juntá-los na mão, de modo que formem um só. Quando o povo perguntar o significado, dirá: Deus tomará o lenho de José e o unirá ao de Judá, formando um só lenho na sua mão. Juntará os filhos de Israel dentre as nações, os levará à sua terra e fará deles uma só nação, com um só rei; nunca mais serão duas nações nem dois reinos. Não se contaminarão mais com os ídolos; Deus os salvará de todas as apostasias e os purificará; serão o seu povo, e ele será o seu Deus. “O meu servo Davi reinará sobre eles; será um só o pastor de todos eles”; caminharão nos preceitos de Deus. Habitarão para sempre na terra dada a Jacó, e Davi será o seu príncipe para sempre. Deus fará com eles uma aliança de paz, aliança eterna; porá o seu santuário no meio deles para sempre. “O meu tabernáculo estará entre eles; serei o seu Deus e eles serão o meu povo.”",
+    "alegorico": "A unidade dos dois reinos divididos se cumpre em Cristo, filho de Davi, que veio “reunir na unidade os filhos de Deus dispersos” (Jo 11,52) e fará “um só rebanho e um só pastor” (Jo 10,16). Os Padres viram nos dois lenhos unidos na mão do profeta a cruz, que une judeus e gentios num só corpo (Ef 2,14-16). O tabernáculo no meio deles é o Verbo que “armou a sua tenda entre nós” (Jo 1,14).",
+    "moral": "A divisão no povo de Deus é ferida e escândalo. O gesto do profeta pede que se trabalhe pela unidade: na família, na comunidade, entre os cristãos. A unidade não é obra humana apenas, mas se faz “na mão de Deus”, e passa pela purificação dos ídolos.",
+    "anagogico": "“O meu tabernáculo estará entre eles”: Ap 21,3 retoma estas palavras para a Jerusalém celeste, onde Deus habitará com os homens para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Toma um pedaço de tábua e escreve sobre ela.” “Que fiquem a ser na tua mão um só pedaço de tábua.” “Nunca mais formarão duas nações.” “Será um só o pastor de todos eles.” “Farei com eles uma aliança de paz… será eterna.” “O meu tabernáculo estará entre eles.”",
+    "meditatio_perguntas": [
+      "Que divisões existem na minha família ou comunidade?",
+      "Rezo e trabalho pela unidade dos cristãos?",
+      "Reconheço Cristo como o único pastor que une?"
+    ],
+    "oratio_guia": "Senhor Jesus, único pastor, une na tua mão o que está dividido. Faz da tua Igreja um só povo, purificado dos ídolos, e habita no meio de nós para sempre. Amém.",
+    "contemplatio_foco": {
+      "texto": "O meu tabernáculo estará entre eles; serei o seu Deus e eles serão o meu povo",
+      "ref": "Ez 37,27"
+    }
+  },
+  "ancoras": {
+    "37:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "José/Efraim representa o antigo reino do Norte (Israel), destruído em 722 a.C.; Judá, o reino do Sul.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

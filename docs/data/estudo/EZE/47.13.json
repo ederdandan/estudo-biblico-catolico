@@ -1,0 +1,57 @@
+{
+  "id": "EZE.47.13",
+  "livro": "EZE",
+  "titulo": "A partilha da terra: O Senhor está ali",
+  "secao": "O novo Templo",
+  "referencia": "Ez 47,13–48,35",
+  "ini": {
+    "c": 47,
+    "v": 13
+  },
+  "fim": {
+    "c": 48,
+    "v": 35
+  },
+  "liturgia": {
+    "tema_central": "A terra repartida entre as tribos; o nome da cidade: O Senhor está ali",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus fixa as fronteiras da terra que as doze tribos receberão como herança, com porção dupla para José: ao norte, até a entrada de Emat; a leste, o Jordão; ao sul, de Tamar até as águas de Meriba; a oeste, o Grande Mar. “Possuireis todos igualmente, cada um tanto como seu irmão.” E há uma novidade notável: a terra será sorteada também para os estrangeiros que vivem no meio de Israel e lá tiveram filhos: “considerá-los-eis como naturais entre os filhos de Israel; tomarão parte convosco na herança”. Seguem as faixas paralelas das tribos, de norte a sul: Dã, Aser, Neftali, Manassés, Efraim, Rúben, Judá; no centro, a porção reservada ao Senhor, com o santuário, os sacerdotes, os levitas e a cidade com o seu território, ladeada pela parte do príncipe; abaixo, Benjamim, Simeão, Issacar, Zabulon e Gad. A cidade tem doze portas, três de cada lado, com os nomes das doze tribos. O seu perímetro é de dezoito mil côvados. E o livro termina com o nome da cidade: “Desde esse dia, o nome da cidade será: O Senhor está ali.”",
+    "alegorico": "A cidade de doze portas com os nomes das tribos reaparece na Jerusalém celeste (Ap 21,12-13). O estrangeiro admitido na herança anuncia a Igreja, onde “já não há estrangeiros nem hóspedes, mas concidadãos dos santos” (Ef 2,19). O nome “O Senhor está ali” se cumpre em Cristo, Emanuel, “Deus conosco” (Mt 1,23).",
+    "moral": "A terra é repartida com igualdade, “cada um tanto como seu irmão”, e o estrangeiro recebe a sua parte: um ideal de justiça e acolhida. O livro, que começou com a glória de Deus no exílio e passou pela sua saída do templo, termina com a certeza de que o Senhor está presente. É a resposta a toda desolação.",
+    "anagogico": "“O Senhor está ali” é o nome eterno da cidade de Deus. Ali não haverá mais exílio, porque Deus habitará com os homens, e eles serão o seu povo (Ap 21,3)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Possuireis todos igualmente, cada um tanto como seu irmão.” “Considerá-los-eis como naturais entre os filhos de Israel.” “Tomarão parte convosco na herança.” “Desde esse dia, o nome da cidade será: O Senhor está ali.”",
+    "meditatio_perguntas": [
+      "Partilho com justiça o que recebi, “cada um tanto como seu irmão”?",
+      "Como acolho o estrangeiro na minha comunidade?",
+      "Reconheço que “o Senhor está ali”, no lugar onde vivo?"
+    ],
+    "oratio_guia": "Senhor, que estás presente no meio do teu povo, faz de nós uma cidade justa e acolhedora, onde o estrangeiro tenha parte na herança. Que o teu nome, “O Senhor está ali”, seja verdade na minha vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "Desde esse dia, o nome da cidade será: Iavé-Scham",
+      "ref": "Ez 48,35"
+    }
+  },
+  "ancoras": {
+    "47:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A inclusão dos estrangeiros residentes na herança vai além de Lv 19,34 e é única no AT.",
+        "origem": "ia"
+      }
+    },
+    "48:35": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Em hebraico YHWH-shammah, “o Senhor está ali”, conclusão do livro.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

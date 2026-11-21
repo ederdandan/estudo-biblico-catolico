@@ -1,0 +1,57 @@
+{
+  "id": "EZE.9.1",
+  "livro": "EZE",
+  "titulo": "O sinal Tau na fronte",
+  "secao": "O juízo sobre Jerusalém",
+  "referencia": "Ez 9,1-11",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "Marca com o Tau os que gemem",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Uma voz forte chama os executores da cidade. Chegam seis homens pela porta do norte, cada um com uma arma de destruição; no meio deles, um homem vestido de linho com um tinteiro de escriba à cintura. A glória do Deus de Israel se ergue de cima do querubim e vai à soleira do Templo. O Senhor diz ao homem de linho: “Passa pelo meio da cidade, pelo meio de Jerusalém, e com um tau marca a fronte dos homens que gemem e que se doem de todas as abominações que se fazem no meio dela.” Aos outros: passai atrás dele e feri sem compaixão, velhos, jovens, moças, crianças e mulheres; “mas não mateis nenhum daqueles sobre quem virdes o tau. E começai pelo meu santuário.” Começam pelos anciãos diante do Templo. Ezequiel, ficando só, cai com o rosto em terra e grita: Ai, Senhor Deus! Destruirás todo o resto de Israel? Deus responde: a iniquidade é imensa, a terra está cheia de sangue e a cidade de injustiça, porque dizem: “O Senhor abandonou a terra, o Senhor não vê.” O homem de linho volta e relata: “Fiz o que mandaste.”",
+    "alegorico": "O tau, última letra do alfabeto hebraico, era escrito em forma de cruz (+ ou X). Os Padres (Tertuliano, Cipriano, Jerônimo) viram nele o sinal da cruz traçado na fronte dos cristãos, que os preserva do juízo, como o sangue do cordeiro nas portas do Egito. O Apocalipse retoma: os servos de Deus são marcados na fronte (Ap 7,3; 14,1). São Francisco de Assis adotou o Tau como assinatura.",
+    "moral": "Os marcados não são os perfeitos, mas os que “gemem e se doem” pelas abominações: os que não se acostumaram ao mal. A indiferença diante do pecado é já cumplicidade. O juízo “começa pelo santuário”: os responsáveis pela religião são os primeiros a prestar contas (1Pd 4,17).",
+    "anagogico": "No dia final, o sinal de Cristo na fronte distinguirá os que lhe pertencem. A oração de intercessão de Ezequiel mostra que o profeta, mesmo anunciando o juízo, implora pelo resto."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Marca a fronte dos homens que gemem e que se doem de todas as abominações.” “Não mateis nenhum daqueles sobre quem virdes o tau.” “E começai pelo meu santuário.” “Ai, Senhor Deus! Porventura destruirás tudo o que resta de Israel?” “Fiz o que mandaste.”",
+    "meditatio_perguntas": [
+      "Ainda gemo e me dói o mal que vejo, ou já me acostumei?",
+      "Vivo como alguém marcado com o sinal da cruz na fronte?",
+      "Intercedo pelos outros, como Ezequiel, mesmo quando merecem o juízo?"
+    ],
+    "oratio_guia": "Senhor, marca a minha fronte com o sinal da cruz do teu Filho. Dá-me um coração que geme pelas abominações do mundo, sem se acostumar ao mal, e que interceda pelo teu povo. Amém.",
+    "contemplatio_foco": {
+      "texto": "marca a fronte dos homens que gemem e que se doem de todas as abominações que se fazem no meio dela",
+      "ref": "Ez 9,4"
+    }
+  },
+  "ancoras": {
+    "9:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na antiga escrita hebraica o tau tinha forma de cruz; daí a leitura cristã do sinal.",
+        "origem": "ia"
+      }
+    },
+    "9:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O homem vestido de linho, vestimenta sacerdotal e angélica, reaparece em Dn 10,5.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "EZE.43.1",
+  "livro": "EZE",
+  "titulo": "A glória volta ao Templo",
+  "secao": "O novo Templo",
+  "referencia": "Ez 43,1-27",
+  "ini": {
+    "c": 43,
+    "v": 1
+  },
+  "fim": {
+    "c": 43,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "A glória do Senhor volta e enche a casa",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O guia leva o profeta à porta oriental. E eis que a glória do Deus de Israel vem do oriente, com um ruído como o das grandes águas, e a terra resplandece com a sua glória. É a mesma visão do rio Cobar e a de quando Deus veio destruir a cidade; o profeta cai com o rosto em terra. A glória entra no templo pela porta oriental, a mesma pela qual tinha saído (10,19; 11,23). O espírito eleva o profeta ao átrio interior, e a casa está cheia da glória do Senhor. Uma voz fala de dentro do templo: “Filho de homem, este é o lugar do meu trono, o lugar onde assentarei os meus pés, onde habitarei para sempre entre os filhos de Israel.” A casa de Israel não profanará mais o seu nome com prostituições e com os cadáveres dos seus reis, cujos túmulos estavam ao lado do templo; agora os afastarão, e Deus habitará para sempre no meio deles. O profeta deve mostrar o templo ao povo para que se envergonhe das suas iniquidades, e, se se envergonhar, deve dar-lhe a planta e as leis. “Tal é a lei da casa: sobre o cume do monte, todo o espaço em roda é santíssimo.” Seguem as medidas do altar dos holocaustos e o ritual da sua consagração em sete dias de sacrifícios pelo pecado; “ao oitavo dia… eu me reconciliarei convosco”.",
+    "alegorico": "A glória que volta pelo oriente é o centro da visão: tudo foi preparado para isto. Cumpre-se na Encarnação: “o Verbo se fez carne e habitou entre nós, e vimos a sua glória” (Jo 1,14). A tradição associou a porta oriental à vinda de Cristo, o “Oriente do alto” (Lc 1,78), e a liturgia orienta a oração para o oriente. O oitavo dia da reconciliação aponta para o domingo da Ressurreição.",
+    "moral": "A glória não volta sem conversão: o povo deve afastar os seus ídolos e envergonhar-se do passado. Deus quer habitar “para sempre” no meio do seu povo, mas não ao lado dos “cadáveres dos reis”, das velhas idolatrias. A vergonha diante da santidade de Deus é o começo da renovação.",
+    "anagogico": "“Habitarei para sempre entre os filhos de Israel”: promessa que se consuma na Jerusalém celeste, onde a glória de Deus é a luz e o Cordeiro é a lâmpada (Ap 21,23)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eis que entrava a glória do Deus de Israel pelo lado do oriente.” “A terra estava resplandecente.” “A casa estava cheia da glória do Senhor.” “Este é o lugar do meu trono… onde habitarei para sempre.” “Todo o espaço em roda é santíssimo.” “Eu me reconciliarei convosco.”",
+    "meditatio_perguntas": [
+      "Que “cadáveres” e ídolos preciso afastar para que Deus habite em mim?",
+      "Deixo-me envergonhar diante da santidade de Deus para ser renovado?",
+      "Vivo o domingo como o oitavo dia da reconciliação?"
+    ],
+    "oratio_guia": "Senhor, que voltaste pelo oriente e encheste a tua casa de glória, vem habitar em mim para sempre. Afasta os meus ídolos e reconcilia-me contigo. Amém.",
+    "contemplatio_foco": {
+      "texto": "A glória do Senhor entrou no templo pela porta oriental",
+      "ref": "Ez 43,4"
+    }
+  },
+  "ancoras": {
+    "43:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cumpre-se o retorno da glória que tinha deixado o Templo em 10,18-19 e 11,22-23.",
+        "origem": "ia"
+      }
+    },
+    "43:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os palácios e túmulos reais ficavam junto ao Templo de Salomão; o novo templo é separado de todo poder humano.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

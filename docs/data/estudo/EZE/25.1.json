@@ -1,0 +1,49 @@
+{
+  "id": "EZE.25.1",
+  "livro": "EZE",
+  "titulo": "Contra Amon, Moab, Edom e os filisteus",
+  "secao": "Oráculos contra as nações",
+  "referencia": "Ez 25,1-17",
+  "ini": {
+    "c": 25,
+    "v": 1
+  },
+  "fim": {
+    "c": 25,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "Não se alegrar com a queda do irmão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Começam os oráculos contra as nações, que no livro ficam entre o anúncio do cerco e a notícia da queda. São quatro breves sentenças contra os vizinhos de Judá, todas motivadas pela atitude deles diante da ruína de Jerusalém. Amon disse “É bem feito!” sobre o santuário profanado, a terra devastada e o povo deportado; bateu palmas e saltou de alegria com desprezo. Por isso será entregue aos “filhos do oriente”, as tribos do deserto; Rabá será pasto de camelos. Moab e Seir disseram: “A casa de Judá é como todas as outras nações”, negando a sua eleição; Moab perderá as suas belas cidades de fronteira. Edom se vingou cruelmente de Judá; Deus exercerá a sua vingança sobre Edom pela mão do seu povo. Os filisteus agiram com vingança e ódio antigo; Deus estenderá a mão contra eles e os quereteus da costa. Em cada caso, o refrão: “e saberão que eu sou o Senhor”.",
+    "alegorico": "Os povos vizinhos que se alegram com a queda de Jerusalém lembram os que zombam de Cristo na cruz. Mas o Evangelho supera a lógica da vingança: o próprio Cristo chora sobre Jerusalém e reza pelos que o crucificam. Também Rute, a moabita, e os magos do oriente mostram que esses povos são chamados à salvação.",
+    "moral": "Alegrar-se com a desgraça alheia é um pecado que Deus leva a sério (Pr 24,17-18). Os vizinhos não são julgados pela sua idolatria, mas pelo desprezo, pela vingança e pelo ódio diante do sofrimento de outro povo. Também é tentação negar que Deus tem um desígnio particular sobre alguém: “é como os outros”.",
+    "anagogico": "Deus é o juiz de todas as nações. No fim, a vingança humana dará lugar à justiça de Deus, e os povos reconhecerão que só ele é o Senhor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Porque disseste: É bem feito, é bem feito! sobre o meu santuário.” “Porque bateste palmas e saltaste de gozo.” “A casa de Judá é como todas as outras nações.” “Porque a Idumeia exerceu vingança.” “Saberão que eu sou o Senhor.”",
+    "meditatio_perguntas": [
+      "Alegro-me interiormente quando quem me feriu cai?",
+      "Guardo “ódio antigo” contra alguém?",
+      "Reconheço a ação de Deus na vida dos outros, mesmo dos que caíram?"
+    ],
+    "oratio_guia": "Senhor, livra-me da alegria maligna diante da queda dos outros e do desejo de vingança. Dá-me um coração que chore com os que choram e deixe a justiça em tuas mãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porque bateste palmas e saltaste de gozo, porque sentiste uma alegria desdenhosa pela (infelicidade da) terra de Israel",
+      "ref": "Ez 25,6"
+    }
+  },
+  "ancoras": {
+    "25:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os “cretenses” (hebr. kereti) eram um grupo de filisteus vindos de Creta (cf. 1Sm 30,14).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

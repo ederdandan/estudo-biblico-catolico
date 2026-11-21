@@ -1,0 +1,57 @@
+{
+  "id": "EZE.20.1",
+  "livro": "EZE",
+  "titulo": "A história de um povo rebelde",
+  "secao": "O juízo sobre Jerusalém",
+  "referencia": "Ez 20,1-44",
+  "ini": {
+    "c": 20,
+    "v": 1
+  },
+  "fim": {
+    "c": 20,
+    "v": 44
+  },
+  "liturgia": {
+    "tema_central": "Por amor do meu nome: a história de um povo rebelde",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No sétimo ano, anciãos de Israel vêm consultar o Senhor. Deus recusa responder e manda o profeta recordar-lhes as abominações dos pais, numa releitura severa da história. No Egito, Deus escolheu Israel, jurou dar-lhe a terra e pediu: lançai fora os ídolos do Egito; mas não obedeceram. Deus pensou derramar a sua ira, mas agiu “por amor do meu nome”, para que não fosse profanado diante das nações. No deserto, deu-lhes as leis “em cuja observância o homem encontrará a vida” e os sábados como sinal; mas os pais se rebelaram; de novo Deus os poupou por causa do seu nome, e não os exterminou. Aos filhos no deserto disse: não sigais os costumes dos vossos pais; também eles se revoltaram. Chegou a dar-lhes “preceitos não bons”, deixando-os ir até aos sacrifícios dos primogênitos, para que reconhecessem o Senhor. Na terra, ofereceram sacrifícios em todo outeiro alto. E agora os exilados querem ser “como as nações, adorando paus e pedras”. Deus jura: não será assim; reinarei sobre vós com mão forte; vos levarei ao “deserto dos povos” e ali vos julgarei face a face, como no Êxodo; separarei os rebeldes. Depois, no monte santo, toda a casa de Israel me servirá; vos receberei como perfume agradável; ali vos lembrareis dos vossos caminhos e tereis nojo de vós mesmos; e sabereis que eu sou o Senhor, quando agir convosco por amor do meu nome, e não segundo os vossos maus caminhos.",
+    "alegorico": "O “deserto dos povos” onde Deus julga e purifica o seu povo é imagem do tempo da Igreja peregrina, e do deserto onde Cristo foi tentado e venceu onde Israel caiu (Mt 4,1-11). O povo recebido como “perfume agradável” anuncia os cristãos, “bom odor de Cristo” (2Cor 2,15), oferecidos com ele ao Pai.",
+    "moral": "A história de Israel é a história de cada alma: graças, infidelidades, perdões. O motivo último da misericórdia não são os nossos méritos, mas o nome de Deus, a sua fidelidade a si mesmo. A tentação de “ser como as nações” é a de dissolver a fé no costume do mundo. E o arrependimento verdadeiro nasce quando, salvos, nos lembramos do que fomos.",
+    "anagogico": "No monte santo toda a casa de Israel servirá a Deus: é a liturgia eterna. Ali, recordando o caminho, os salvos saberão que tudo foi graça “por amor do seu nome”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Porventura viestes vós a consultar-me?” “Dei-lhes as minhas leis, em cuja observância o homem encontrará a vida.” “Procedi de outra forma por amor do meu nome.” “Seremos como as nações.” “Entrarei em juízo convosco, cara a cara.” “Vos receberei como um perfume agradável.”",
+    "meditatio_perguntas": [
+      "Que “ídolos do Egito” ainda carrego desde o início da minha caminhada?",
+      "Sinto a tentação de ser “como os outros” e diluir a fé?",
+      "Reconheço que Deus me poupa por amor do seu nome, não pelos meus méritos?"
+    ],
+    "oratio_guia": "Senhor, que tantas vezes me poupaste por amor do teu nome, não me trates segundo os meus maus caminhos. Purifica-me no deserto e recebe-me como perfume agradável no teu monte santo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Então vos receberei como um perfume agradável",
+      "ref": "Ez 20,41"
+    }
+  },
+  "ancoras": {
+    "20:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O sétimo ano do exílio de Joaquin corresponde a 591 a.C.",
+        "origem": "ia"
+      }
+    },
+    "20:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os “preceitos não bons” são uma forma semítica de dizer que Deus permitiu que o povo seguisse os seus desvios até as consequências, como em Rm 1,24.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

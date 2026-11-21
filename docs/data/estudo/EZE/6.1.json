@@ -1,0 +1,57 @@
+{
+  "id": "EZE.6.1",
+  "livro": "EZE",
+  "titulo": "Contra os montes de Israel",
+  "secao": "O juízo sobre Jerusalém",
+  "referencia": "Ez 6,1-14",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "Saberão que eu sou o Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O profeta volta o rosto para os montes de Israel, lugares dos santuários idolátricos, e profetiza contra montanhas, colinas, ravinas e vales. A espada destruirá os altos, os altares serão demolidos, as colunas de incenso quebradas, e os cadáveres cairão diante dos ídolos; os ossos serão espalhados em torno dos altares. As cidades ficarão desertas e as obras idolátricas aniquiladas, “e sabereis que eu sou o Senhor”. Mas Deus deixará um resto: os que escaparem à espada e forem dispersos entre as nações “lembrar-se-ão de mim”, quando eu quebrar o seu coração adúltero, que se afastou de mim, e os seus olhos que se prostituíram aos ídolos; terão nojo de si mesmos por causa do mal que fizeram, e saberão que Deus não falou em vão. O profeta deve bater as mãos e os pés e gritar “ai!” sobre as abominações: o que está longe morrerá de peste, o que está perto pela espada, o sitiado pela fome. Quando os mortos jazerem entre os ídolos, em todo outeiro alto e debaixo de toda árvore frondosa, saberão que eu sou o Senhor.",
+    "alegorico": "O refrão “saberão que eu sou o Senhor”, que atravessa todo o livro, cumpre-se na revelação do nome divino em Cristo: “Quando levantardes o Filho do Homem, sabereis que Eu Sou” (Jo 8,28). O coração adúltero quebrado anuncia o coração contrito do penitente que Deus não despreza (Sl 50,19).",
+    "moral": "O resto se converte quando se lembra de Deus no exílio e sente nojo do próprio pecado. Essa repulsa do mal é uma graça: Deus “quebra” o coração adúltero para que volte. O objetivo do juízo não é destruir, mas fazer conhecer a Deus.",
+    "anagogico": "No fim, todos saberão quem é o Senhor: os que se converteram, para a alegria; os que se obstinaram, para a sua confusão."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Montes de Israel, ouvi a palavra do Senhor Iavé.” “Deixar-vos-ei um resto.” “Lembrar-se-ão de mim entre as nações.” “Quando eu quebrar o seu coração adúltero.” “E sabereis que eu sou o Senhor.”",
+    "meditatio_perguntas": [
+      "Que “altos” de idolatria há na paisagem da minha vida?",
+      "Lembro-me de Deus nos momentos de “exílio”?",
+      "Peço a graça de detestar o pecado que antes me seduzia?"
+    ],
+    "oratio_guia": "Senhor, quebra o meu coração adúltero e faz-me lembrar de ti onde quer que eu esteja. Que eu deteste o mal que fiz e saiba, por experiência, que tu és o Senhor. Amém.",
+    "contemplatio_foco": {
+      "texto": "lembrar-se-ão de mim entre as nações, para onde foram levados cativos",
+      "ref": "Ez 6,9"
+    }
+  },
+  "ancoras": {
+    "6:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os “altos” (bamot) eram santuários a céu aberto nas colinas, condenados desde a reforma de Josias (2Rs 23).",
+        "origem": "ia"
+      }
+    },
+    "6:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Diblata é talvez Ribla, no norte; a expressão indica a terra de ponta a ponta.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

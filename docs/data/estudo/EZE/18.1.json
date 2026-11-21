@@ -1,0 +1,57 @@
+{
+  "id": "EZE.18.1",
+  "livro": "EZE",
+  "titulo": "A alma que pecar, essa morrerá",
+  "secao": "O juízo sobre Jerusalém",
+  "referencia": "Ez 18,1-32",
+  "ini": {
+    "c": 18,
+    "v": 1
+  },
+  "fim": {
+    "c": 18,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "Não quero a morte do ímpio: convertei-vos e vivei",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O povo repete um provérbio fatalista: “Os pais comeram os agraços, e os dentes dos filhos é que ficaram botos”, isto é, sofremos pelos pecados dos antepassados. Deus jura que esse provérbio não será mais dito: “todas as vidas são minhas… O que pecar, esse morrerá.” Segue um caso em três gerações. O pai justo não pratica a idolatria nos montes, não viola a mulher do próximo, não oprime, devolve o penhor, não rouba, “dá do seu pão ao faminto e agasalha o nu”, não empresta com usura, julga com retidão e observa os mandamentos: esse viverá. Se tiver um filho violento, que faz o contrário, o filho morrerá pela sua culpa. Se esse filho tiver por sua vez um filho que vê os pecados do pai e não os imita, este viverá; não carregará a culpa do pai. “O filho não levará a iniquidade do pai, e o pai não levará a iniquidade do filho.” E mais: dentro da mesma vida, se o ímpio se converte, viverá, e as suas culpas não serão lembradas; se o justo abandona a justiça, as suas boas obras passadas não o salvam. O povo protesta: “o caminho do Senhor não é justo!” Deus responde: não são antes os vossos caminhos injustos? “Porventura será do meu gosto a morte do ímpio?… Não quero antes que ele se retire dos seus caminhos e viva?” E conclui: “fazei-vos um coração novo e um espírito novo. Por que hás-de morrer, ó casa de Israel?… Convertei-vos e vivei.”",
+    "alegorico": "A Igreja reza com estas palavras na Liturgia: “Não quero a morte do pecador, mas que se converta e viva.” Em Cristo, Deus vai além: não só não quer a morte do ímpio, mas morre por ele (Rm 5,8). A parábola do filho pródigo é a ilustração viva: o passado não é lembrado quando o filho volta (Lc 15).",
+    "moral": "Cada pessoa é responsável diante de Deus; nem a herança familiar condena, nem a santidade dos pais salva. Ninguém está preso ao passado: a conversão abre um futuro novo, e o pecado de ontem não é lembrado. Mas também ninguém pode se apoiar nas boas obras passadas. A justiça descrita é muito concreta: pão para o faminto, roupa para o nu, nada de usura nem de violência.",
+    "anagogico": "Deus quer a vida, e a vida eterna. O chamado “por que hás-de morrer?” é a súplica de um Pai que deseja que todos se salvem (1Tm 2,4)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Todas as vidas são minhas.” “Der do seu pão ao faminto e agasalhar o nu.” “Não se guardará mais lembrança de nenhuma das iniquidades que cometeu.” “Porventura será do meu gosto a morte do ímpio?… Não quero antes que ele se retire dos seus caminhos e viva?” “Fazei-vos um coração novo e um espírito novo.” “Convertei-vos e vivei.”",
+    "meditatio_perguntas": [
+      "Culpo o passado ou a família pelo que eu mesmo escolho?",
+      "Creio que Deus esquece o pecado de quem se converte?",
+      "Apoio-me em boas obras passadas em vez de converter-me hoje?"
+    ],
+    "oratio_guia": "Senhor, que não queres a morte do pecador, mas que se converta e viva, converte-me a ti. Dá-me um coração novo e um espírito novo, e esquece as minhas iniquidades. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não sinto gosto na morte do que morre, diz o Senhor Deus! Convertei-vos e vivei",
+      "ref": "Ez 18,32"
+    }
+  },
+  "ancoras": {
+    "18:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O mesmo provérbio aparece em Jr 31,29. Ezequiel desenvolve a responsabilidade pessoal diante de Deus.",
+        "origem": "ia"
+      }
+    },
+    "18:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A usura, empréstimo a juros entre israelitas, era proibida pela Lei (Ex 22,24; Lv 25,36-37).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

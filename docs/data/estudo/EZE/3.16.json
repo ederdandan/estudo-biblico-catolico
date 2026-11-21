@@ -1,0 +1,57 @@
+{
+  "id": "EZE.3.16",
+  "livro": "EZE",
+  "titulo": "A sentinela da casa de Israel",
+  "secao": "A vocação do profeta",
+  "referencia": "Ez 3,16-27",
+  "ini": {
+    "c": 3,
+    "v": 16
+  },
+  "fim": {
+    "c": 3,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "Eu te dei por sentinela à casa de Israel",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Passados os sete dias, a palavra do Senhor vem a Ezequiel: “Filho de homem, eu dei-te por sentinela à casa de Israel. Quando ouvires da minha boca uma palavra, anunciá-la-ás a eles da minha parte.” A responsabilidade da sentinela é descrita em quatro casos. Se Deus anunciar a morte ao ímpio e o profeta não o avisar, o ímpio morrerá na sua culpa, mas Deus pedirá conta do seu sangue ao profeta. Se o profeta avisar e o ímpio não se converter, o ímpio morre, mas o profeta salva a sua vida. Se o justo abandonar a justiça e o profeta não o advertir, o justo morrerá, e as suas obras passadas serão esquecidas, mas o profeta responderá. Se o advertir e ele não pecar, viverá, e o profeta também. Depois a mão do Senhor o leva ao vale, onde vê de novo a glória e se prostra. O espírito o põe de pé e lhe ordena: fecha-te em casa; serão postas cordas sobre ti; farei a tua língua colar-se ao paladar e ficarás mudo, sem poder repreendê-los. Mas, quando eu te falar, abrirei a tua boca, e dirás: “Quem quiser ouvir, ouça; quem não quiser ouvir, não ouça.”",
+    "alegorico": "Cristo é a sentinela perfeita, que dá a vida para que nenhuma ovelha se perca. São Gregório Magno, comentando Ezequiel, aplica este texto aos pastores da Igreja: quem cala por medo diante do pecado do rebanho é “cão mudo”. O “quem quiser ouvir, ouça” ecoa no Evangelho: “Quem tem ouvidos para ouvir, ouça” (Mc 4,9).",
+    "moral": "Todos somos, de algum modo, sentinelas dos irmãos: pais, educadores, pastores, amigos. O silêncio cúmplice diante do mal do outro é uma falta. Mas a responsabilidade tem limite: avisar com caridade; a conversão depende da liberdade do outro. Também o justo precisa ser advertido: ninguém está seguro sem vigilância.",
+    "anagogico": "Deus pedirá contas a cada um das almas que lhe confiou. A sentinela vigia esperando a manhã, o dia do Senhor, quando se verá o fruto da sua fidelidade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Filho de homem, eu dei-te por sentinela à casa de Israel.” “Anunciá-la-ás a eles da minha parte.” “Eu requererei da tua mão o seu sangue.” “Se, porém, avisares… tu salvar-te-ás.” “Quem quiser ouvir, ouça; quem não quiser ouvir, não ouça.”",
+    "meditatio_perguntas": [
+      "De quem sou sentinela, e calo-me por medo ou comodidade?",
+      "Sei advertir com caridade, deixando ao outro a liberdade de responder?",
+      "Aceito ser advertido quando eu, que me julgo justo, me desvio?"
+    ],
+    "oratio_guia": "Senhor, que me fizeste sentinela dos meus irmãos, dá-me coragem para avisar com caridade e humildade para ser avisado. Abre a minha boca quando falares e fecha-a quando for tempo de silêncio. Amém.",
+    "contemplatio_foco": {
+      "texto": "Filho de homem, eu dei-te por sentinela à casa de Israel",
+      "ref": "Ez 3,17"
+    }
+  },
+  "ancoras": {
+    "3:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O tema da sentinela é retomado e ampliado em Ez 33,1-20.",
+        "origem": "ia"
+      }
+    },
+    "3:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O mutismo do profeta durará até a notícia da queda de Jerusalém (24,27; 33,22): ele só fala quando Deus lhe dá a palavra.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

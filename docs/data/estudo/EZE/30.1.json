@@ -1,0 +1,57 @@
+{
+  "id": "EZE.30.1",
+  "livro": "EZE",
+  "titulo": "O dia do Egito",
+  "secao": "Oráculos contra as nações",
+  "referencia": "Ez 30,1-26",
+  "ini": {
+    "c": 30,
+    "v": 1
+  },
+  "fim": {
+    "c": 30,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "Está próximo o dia do Senhor: o braço do Faraó quebrado",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Lamentação sobre o Egito: “Ai! Que dia!” Está perto o dia do Senhor, dia de nuvens, tempo das nações. A espada virá sobre o Egito, e a angústia sobre a Etiópia; cairão também os aliados: etíopes, líbios, lídios e outros povos. Os que sustentavam o Egito cairão, e o orgulho da sua força será abatido desde Migdol até Siene. Mensageiros partirão em navios para espalhar o terror na Etiópia. Deus destruirá a multidão do Egito pela mão de Nabucodonosor e do seu povo, os mais violentos das nações; secará os canais do Nilo; destruirá os ídolos de Mênfis; não haverá mais príncipe no Egito. Uma lista de cidades é percorrida pelo juízo: Patros, Tânis, Tebas, Sin, Heliópolis, Bubástis, Tafnis, onde o dia se escurecerá quando Deus quebrar o jugo do Egito. Um segundo oráculo, do ano onze: “quebrei o braço de Faraó”, e ninguém o enfaixou para que recuperasse a força para empunhar a espada. Deus quebrará também o braço sadio, fortalecerá os braços do rei de Babilônia e porá na sua mão a sua própria espada; o Faraó gemerá diante dele como um ferido de morte.",
+    "alegorico": "O “dia do Senhor” sobre o Egito é um dos muitos anúncios parciais do grande Dia de Cristo, quando todo poder contrário a Deus será quebrado. O braço do Faraó, que oprimiu Israel no Êxodo, cede diante do “braço estendido” do Senhor, que em Cristo se revela como braço que salva (Is 53,1).",
+    "moral": "O poder humano é um braço que se quebra; quem confia nele cai junto (“os que sustinham o Egito cairão”). Deus pode usar até a força de um império pagão como instrumento. A pergunta é sempre: em que braço apoio a minha vida?",
+    "anagogico": "O dia do Senhor virá sobre todas as potências. Feliz quem, nesse dia, estiver sustentado não por braços humanos, mas pelo braço de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ai! Que dia!” “Aproxima-se o dia do Senhor: dia de nuvens.” “A soberba da sua força será destruída.” “Quebrei o braço de Faraó.” “Fortificarei os braços do rei de Babilônia.”",
+    "meditatio_perguntas": [
+      "Em que “braço” humano apoio a minha segurança?",
+      "Vivo à espera do dia do Senhor com temor e esperança?",
+      "Reconheço os ídolos que precisam cair em mim?"
+    ],
+    "oratio_guia": "Senhor, cujo braço salva, não me deixes confiar em braços quebrados. Que no teu dia eu seja achado apoiado em ti somente. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porque o dia está perto, aproxima-se o dia do Senhor",
+      "ref": "Ez 30,3"
+    }
+  },
+  "ancoras": {
+    "30:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "11º ano, 1º mês, dia 7: abril de 587 a.C., pouco depois do fracasso da tentativa egípcia de socorrer Jerusalém (Jr 37,5-11).",
+        "origem": "ia"
+      }
+    },
+    "30:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Nô é Tebas, a grande capital do Alto Egito; Soan é Tânis, no delta.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

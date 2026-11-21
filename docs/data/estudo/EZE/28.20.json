@@ -1,0 +1,49 @@
+{
+  "id": "EZE.28.20",
+  "livro": "EZE",
+  "titulo": "Contra Sidônia; Israel reunido",
+  "secao": "Oráculos contra as nações",
+  "referencia": "Ez 28,20-26",
+  "ini": {
+    "c": 28,
+    "v": 20
+  },
+  "fim": {
+    "c": 28,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "Contra Sidônia; Israel reunido habitará em segurança",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Breve oráculo contra Sidônia, cidade irmã de Tiro: Deus virá contra ela e será glorificado no meio dela; enviará a peste e o sangue nas ruas, a espada de todos os lados, e saberão que ele é o Senhor. Com isso termina a série contra os vizinhos próximos, e o profeta resume: já não haverá para a casa de Israel espinho que fere nem acúleo que dilacera da parte dos vizinhos que a desprezam. Então vem uma promessa: quando Deus reunir a casa de Israel dentre os povos pelos quais foi dispersa, manifestará a sua santidade diante das nações; habitarão na terra que ele deu a Jacó, seu servo; “habitarão nela com segurança, edificarão casas, plantarão vinhas, viverão em segurança”, e saberão que ele é o Senhor seu Deus.",
+    "alegorico": "Sidônia, julgada aqui, recebe mais tarde a visita de Jesus, que ali cura a filha da mulher cananeia (Mt 15,21-28): o juízo dá lugar à misericórdia. A promessa de habitar com segurança, edificar e plantar descreve a paz messiânica.",
+    "moral": "Deus libera o seu povo dos “espinhos” que o feriam, mas também o chama a viver de modo novo: edificar, plantar, habitar em paz. A segurança verdadeira não vem do enfraquecimento dos inimigos, mas da presença de Deus que santifica.",
+    "anagogico": "A reunião dos dispersos e a vida segura na terra anunciam o Reino definitivo, onde ninguém mais causará dano nem perigo no monte santo (Is 11,9)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vou ser glorificado no meio de ti.” “Não haverá mais… espinho dilacerante ou acúleo pungente.” “Quando eu juntar a casa de Israel de entre os povos.” “Habitarão nela com segurança, edificarão casas, plantarão vinhas.” “Saber-se-á que sou o Senhor seu Deus.”",
+    "meditatio_perguntas": [
+      "Que “espinhos” Deus quer tirar da minha vida?",
+      "Tenho coragem de edificar e plantar, confiando em Deus?",
+      "Onde busco a minha segurança?"
+    ],
+    "oratio_guia": "Senhor, reúne o teu povo disperso e tira de nós os espinhos que ferem. Dá-nos habitar em segurança, edificar e plantar, sabendo que tu és o nosso Deus. Amém.",
+    "contemplatio_foco": {
+      "texto": "Habitarão nela com segurança, edificarão casas, plantarão vinhas",
+      "ref": "Ez 28,26"
+    }
+  },
+  "ancoras": {
+    "28:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Sidônia, ao norte de Tiro, era a outra grande cidade fenícia; Jezabel era filha do rei de Sidônia (1Rs 16,31).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
