@@ -1,0 +1,49 @@
+{
+  "id": "JOB.15.1",
+  "livro": "JOB",
+  "titulo": "Elifaz: o ímpio vive em angústia",
+  "secao": "Segundo ciclo de discursos",
+  "referencia": "Jó 15,1-35",
+  "ini": {
+    "c": 15,
+    "v": 1
+  },
+  "fim": {
+    "c": 15,
+    "v": 35
+  },
+  "liturgia": {
+    "tema_central": "Elifaz: és tu o primeiro homem que nasceu?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Abre-se o segundo ciclo de discursos, e o tom dos amigos endurece. Elifaz, antes cortês, agora acusa: as tuas palavras são vento; tu destróis a piedade e o temor de Deus; “a tua própria boca te condena”. Ironiza: “Porventura és tu o primeiro homem que nasceu, e foste tu formado antes dos outeiros?” Entraste no conselho de Deus? Que sabes tu que nós não saibamos? Há entre nós anciãos mais velhos que teu pai. Desprezas as consolações de Deus e as nossas palavras suaves? Repete o argumento: que é o homem, nascido de mulher, para ser puro? Se nem os céus são puros diante de Deus, quanto menos o homem, “ser abominável e corrompido, que bebe a iniquidade como a água”. Depois descreve longamente a sorte do ímpio, segundo a tradição dos sábios: vive atormentado todos os dias; um ruído de terror está sempre nos seus ouvidos; mesmo na paz teme o assaltante; vagueia em busca de pão. Por quê? Porque estendeu a mão contra Deus e o desafiou com soberba. Habitará cidades em ruínas; os seus bens não durarão; será como a vinha que perde os cachos verdes, como a oliveira que deixa cair a flor. “Ele concebeu o mal e deu à luz a desventura.”",
+    "alegorico": "A pergunta irônica “és tu o primeiro homem?” encontra uma resposta inesperada em Cristo, “primogênito de toda criatura” (Cl 1,15), a Sabedoria gerada “antes dos outeiros” (Pr 8,25), que entrou no conselho de Deus e o revelou. Só ele pode falar do mistério do sofrimento por dentro.",
+    "moral": "Elifaz não escuta mais; repete. Transforma o sofredor em réu. A descrição do ímpio atormentado por terrores é verdadeira em parte: o pecado traz inquietação interior. Mas aplicar esse quadro a quem sofre é crueldade. A pergunta para nós: quando um amigo protesta na dor, ouço o seu coração ou só as suas palavras?",
+    "anagogico": "O ímpio que “não crê poder voltar das trevas à luz” é o desesperado; a esperança cristã crê que de toda treva se pode voltar à luz pela misericórdia."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A tua própria boca te condena.” “Porventura és tu o primeiro homem que nasceu?” “Tens em pouca conta as consolações divinas?” “Bebe a iniquidade como a água.” “Não crê que se possa voltar das trevas à luz.”",
+    "meditatio_perguntas": [
+      "Escuto o coração de quem protesta na dor, ou só as palavras?",
+      "Considero-me mais sábio que os outros pela experiência?",
+      "Creio que sempre é possível voltar das trevas à luz?"
+    ],
+    "oratio_guia": "Senhor, livra-me da presunção de quem tudo sabe e da dureza de quem julga. Faz-me escutar o coração dos que sofrem e crer que de toda treva se volta à luz pela tua graça. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porventura és tu o primeiro homem que nasceu, e foste tu formado antes dos outeiros?",
+      "ref": "Jó 15,7"
+    }
+  },
+  "ancoras": {
+    "15:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Alusão ao mito do primeiro homem sábio, presente nos céus antes da criação (cf. Ez 28,13).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

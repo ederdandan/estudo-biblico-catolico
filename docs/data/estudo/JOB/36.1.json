@@ -1,0 +1,57 @@
+{
+  "id": "JOB.36.1",
+  "livro": "JOB",
+  "titulo": "Eliú: a grandeza de Deus na tempestade",
+  "secao": "Os discursos de Eliú",
+  "referencia": "Jó 36,1–37,24",
+  "ini": {
+    "c": 36,
+    "v": 1
+  },
+  "fim": {
+    "c": 37,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "Eliú: Deus é grande e abre o ouvido pela aflição",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Eliú pede paciência: ainda tenho palavras em defesa de Deus; buscarei longe o meu saber e provarei que o meu Criador é justo. “Deus é poderoso, mas não desdenhoso.” Não deixa viver o ímpio e faz justiça aos pobres; não tira os olhos dos justos e os põe no trono com os reis. Se estão presos em cadeias e laços de aflição, Deus lhes mostra as suas faltas e o seu orgulho, “abre-lhes os ouvidos à correção” e manda que se convertam. Se ouvirem, terminarão os dias em felicidade; se não, perecerão. “Deus livra o pobre pela sua angústia, e abre-lhe o ouvido com a tribulação.” Também a ti Deus quer tirar da angústia para um lugar espaçoso. Cuidado: não te deixes seduzir pela ira. “Olha como Deus é excelso na sua fortaleza”; quem lhe dirá “fizeste mal”? Lembra-te de exaltar a sua obra. “Deus é grande e ultrapassa toda a nossa ciência.” Eliú contempla então a tempestade que se aproxima: Deus atrai as gotas, derrama a chuva, estende as nuvens, faz troar a sua tenda, espalha o relâmpago. No capítulo 37 o coração lhe estremece: “Ouvi, ouvi a sua voz terrível”; Deus troveja, manda à neve que caia, à chuva que seja forte; os animais se recolhem; o gelo se forma ao seu sopro. “Ouve, Jó, estas coisas: para e considera as maravilhas de Deus.” Sabes como ele equilibra as nuvens? Do norte vem um esplendor de ouro; Deus se reveste de majestade terrível. “Não podemos alcançar o Onipotente.”",
+    "alegorico": "A tempestade que Eliú descreve prepara a teofania: logo depois, o Senhor falará “do meio do turbilhão” (38,1). Eliú é como o precursor que anuncia a vinda de Deus, imagem de João Batista que prepara o caminho. A ideia de que Deus “abre o ouvido pela tribulação” é uma das chaves cristãs para ler o sofrimento.",
+    "moral": "O ensinamento mais valioso de Eliú: Deus pode usar a aflição para abrir os ouvidos e libertar do orgulho. O sofrimento não é necessariamente castigo, mas pode ser ensinamento e caminho de liberdade. O convite “para e considera as maravilhas de Deus” é atual: contemplar a criação educa para a humildade e o louvor.",
+    "anagogico": "Deus põe os justos no trono com os reis, para sempre: a glória final dos que perseveram. E o “lugar espaçoso” para onde Deus nos tira da angústia é, em última instância, o céu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Deus é poderoso, mas não desdenhoso.” “Deus livra o pobre pela sua angústia, e abre-lhe o ouvido com a tribulação.” “Lembra-te que deves celebrar a sua obra.” “Deus é grande e ultrapassa toda a nossa ciência.” “Ouvi, ouvi a sua voz terrível.” “Ouve, Jó, estas coisas: para e considera as maravilhas de Deus.”",
+    "meditatio_perguntas": [
+      "Que ouvidos Deus abriu em mim pela tribulação?",
+      "Paro para considerar as maravilhas de Deus na criação?",
+      "Aceito que Deus ultrapassa toda a minha ciência?"
+    ],
+    "oratio_guia": "Senhor, grande e não desdenhoso, abre os meus ouvidos pela tribulação e tira-me da angústia para um lugar espaçoso. Faz-me parar e contemplar as tuas maravilhas. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus livra o pobre, pela sua angústia, e abre-lhe o ouvido com a tribulação",
+      "ref": "Jó 36,15"
+    }
+  },
+  "ancoras": {
+    "36:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jogo de palavras no hebraico: Deus salva o aflito “pela” aflição (be‘onyo).",
+        "origem": "ia"
+      }
+    },
+    "37:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “esplendor de ouro” vindo do norte anuncia a teofania de 38,1.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

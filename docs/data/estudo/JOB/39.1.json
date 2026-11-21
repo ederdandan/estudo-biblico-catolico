@@ -1,0 +1,57 @@
+{
+  "id": "JOB.39.1",
+  "livro": "JOB",
+  "titulo": "O Senhor e os animais selvagens",
+  "secao": "O Senhor responde do meio do turbilhão",
+  "referencia": "Jó 39,1-30",
+  "ini": {
+    "c": 39,
+    "v": 1
+  },
+  "fim": {
+    "c": 39,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "O Senhor e os animais selvagens",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor continua a interrogar Jó, agora sobre o mundo dos animais selvagens, que vivem longe do homem e fora do seu controle. Conheces o tempo em que as cabras monteses dão à luz nos rochedos? Observaste o parto das corças, contaste os meses da sua gestação? Elas se curvam, dão à luz, e os filhotes crescem e partem sem voltar. Quem soltou o asno selvagem, que zomba do tumulto da cidade e não ouve os gritos do condutor, e busca pastos nos montes? Quererá o búfalo servir-te, dormir no teu estábulo, puxar o teu arado? A avestruz bate as asas alegremente, mas abandona os ovos na terra, esquecendo que um pé pode esmagá-los; é dura com os filhos, porque Deus lhe negou a sabedoria; mas, quando corre, zomba do cavalo e do cavaleiro. És tu que dás força ao cavalo e vestes o seu pescoço de crina? Ele salta como o gafanhoto, o seu relincho é terrível; escava a terra, exulta, corre ao encontro das armas, ri-se do medo; ao som da trombeta diz “ah!”, e fareja de longe a batalha. É pela tua sabedoria que o falcão voa e estende as asas para o sul? É por ordem tua que a águia sobe e põe o ninho nas alturas, de onde avista a presa, e onde houver cadáveres, aí está ela?",
+    "alegorico": "A criação selvagem, livre e misteriosa, revela que Deus tem os seus próprios desígnios, que não se reduzem à utilidade humana. Jesus contempla os lírios e as aves como mestres de confiança (Mt 6,26-29). A águia que vê de longe tornou-se símbolo de São João, o evangelista que contempla o Verbo das alturas.",
+    "moral": "Deus mostra a Jó um mundo que não foi feito só para o homem: a cabra, o asno selvagem, a avestruz estranha, o cavalo corajoso, a águia. Há beleza e liberdade que não controlamos e que, no entanto, Deus governa. Isso relativiza as nossas pretensões e nos educa para a admiração. Até a “insensatez” da avestruz tem o seu lugar no desígnio divino.",
+    "anagogico": "A criação inteira, com a sua variedade, será renovada e participará da glória dos filhos de Deus (Rm 8,21). O cuidado de Deus por cada criatura antecipa a harmonia do Reino."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Porventura conheces o tempo em que as cabras montesas dão à luz?” “Quem soltou o asno montês?” “Porventura quererá o búfalo servir-te?” “És tu que dás fortaleza ao cavalo?” “Acaso o açor levanta o voo pela tua sabedoria?”",
+    "meditatio_perguntas": [
+      "Admiro a criação pelo que ela é, ou só pelo que me é útil?",
+      "Aceito que há muita coisa que não controlo e que Deus governa?",
+      "Que animal ou paisagem me fala hoje da grandeza de Deus?"
+    ],
+    "oratio_guia": "Senhor, que cuidas da cabra nos rochedos e da águia nas alturas, ensina-me a admirar as tuas obras e a confiar no teu governo sobre tudo o que não controlo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Acaso o açor levanta o voo pela tua sabedoria, estendendo as suas asas para o meio-dia?",
+      "ref": "Jó 39,26"
+    }
+  },
+  "ancoras": {
+    "39:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração hebraica este capítulo começa em 39,1 e termina em 39,30; os vv. 31-35 da Vulgata correspondem a 40,1-5 do hebraico.",
+        "origem": "ia"
+      }
+    },
+    "39:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O retrato do cavalo de guerra é uma das descrições animais mais célebres da literatura antiga.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

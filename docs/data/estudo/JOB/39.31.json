@@ -1,0 +1,49 @@
+{
+  "id": "JOB.39.31",
+  "livro": "JOB",
+  "titulo": "Jó põe a mão sobre a boca",
+  "secao": "O Senhor responde do meio do turbilhão",
+  "referencia": "Jó 39,31-35",
+  "ini": {
+    "c": 39,
+    "v": 31
+  },
+  "fim": {
+    "c": 39,
+    "v": 35
+  },
+  "liturgia": {
+    "tema_central": "Ponho a minha mão sobre a minha boca",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor dirige-se diretamente a Jó: “Porventura o censor do Onipotente quer disputar com ele? Que aquele que censura a Deus, responda.” Jó, que tantas vezes desejara encontrar Deus e expor-lhe a sua causa, agora que está diante dele não acha palavras. “Eu, desprezível como sou, que coisa posso responder? Ponho a minha mão sobre a minha boca. Uma coisa disse, oxalá não tivesse dito!, e uma outra também, às quais nada mais acrescentarei.” É o primeiro passo da conversão de Jó: não uma confissão de crimes que não cometeu, mas o silêncio de quem percebe a sua pequenez diante da majestade de Deus.",
+    "alegorico": "O gesto de pôr a mão sobre a boca é o mesmo que Jó pedia aos amigos (21,5) e que os príncipes faziam diante dele (29,9): agora é ele quem se cala diante de Deus. É a atitude de Maria, que “guardava todas estas coisas no coração”, e o silêncio de Cristo diante dos acusadores. O silêncio adorante é a primeira resposta à revelação.",
+    "moral": "Há momentos em que a melhor resposta é o silêncio. Jó não retira tudo o que disse com sinceridade, mas reconhece que falou demais sobre o que não conhecia. Saber calar diante do mistério é sinal de maturidade espiritual. E é preciso deixar Deus falar até o fim: depois deste silêncio, virá a segunda fala de Deus.",
+    "anagogico": "Diante da glória de Deus, toda palavra humana se cala; mas esse silêncio não é vazio, é o começo da contemplação que será eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Porventura o censor do Omnipotente quer disputar com ele?” “Eu, desprezível como sou, que coisa posso responder?” “Ponho a minha mão sobre a minha boca.” “Uma coisa disse — oxalá não tivesse dito!”",
+    "meditatio_perguntas": [
+      "Sei calar-me diante do mistério de Deus?",
+      "O que disse de Deus que preferiria não ter dito?",
+      "A minha oração tem espaço para o silêncio adorante?"
+    ],
+    "oratio_guia": "Senhor, diante de ti ponho a mão sobre a minha boca. Perdoa as palavras que disse sem saber, e ensina-me o silêncio que adora e escuta. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu, desprezível como sou, que coisa posso responder? Ponho a minha mão sobre a minha boca",
+      "ref": "Jó 39,34"
+    }
+  },
+  "ancoras": {
+    "39:34": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na Bíblia hebraica, 40,4. Cf. Pr 30,32 e Mq 7,16: pôr a mão na boca é sinal de silêncio respeitoso.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

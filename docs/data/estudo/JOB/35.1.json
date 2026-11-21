@@ -1,0 +1,49 @@
+{
+  "id": "JOB.35.1",
+  "livro": "JOB",
+  "titulo": "Eliú: onde está Deus, que dá cânticos na noite?",
+  "secao": "Os discursos de Eliú",
+  "referencia": "Jó 35,1-16",
+  "ini": {
+    "c": 35,
+    "v": 1
+  },
+  "fim": {
+    "c": 35,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "Onde está o Deus que dá cânticos na noite?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Eliú prossegue: achas justo dizer que tens razão contra Deus, ou perguntar de que te serve não pecar? Levanta os olhos ao céu e vê as nuvens, mais altas do que tu. Se pecas, que dano fazes a Deus? Se és justo, que lhe dás? A tua maldade atinge o homem teu semelhante, e a tua justiça serve ao filho do homem. Deus é transcendente; não ganha nem perde com as nossas ações. Depois Eliú observa algo profundo: os oprimidos gritam por causa da violência dos poderosos, “mas nenhum disse: Onde está o Deus que me criou, que inspira cânticos de júbilo em plena noite; que nos instrui mais que aos animais da terra, e nos ilustra mais que às aves do céu?” Clamam, mas Deus não responde, por causa da soberba dos maus; Deus não ouve gritos vazios. Quanto a ti, que dizes que não o vês: a tua causa está diante dele; espera-o. Mas porque a sua ira ainda não castigou, Jó multiplica palavras sem sentido.",
+    "alegorico": "O Deus “que dá cânticos na noite” é aquele que se revela na noite da Paixão e da Páscoa: Paulo e Silas cantam na prisão à meia-noite (At 16,25), e a Igreja canta o Exsultet na noite santa. A noite escura da alma, segundo São João da Cruz, é também lugar onde Deus ensina a cantar.",
+    "moral": "Há uma diferença entre gritar de dor e buscar a Deus. Muitos clamam por alívio, mas não perguntam “onde está o meu Criador?”. A oração verdadeira não é só pedido de libertação, mas busca de Deus por ele mesmo. E Deus pode dar alegria mesmo na noite, quando nada mudou exteriormente. Esperar nele é já resposta.",
+    "anagogico": "Os cânticos na noite são o prelúdio do cântico eterno, quando não haverá mais noite (Ap 22,5)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Levanta os olhos ao céu e vê.” “Se pecares, que dano farás tu a Deus?” “Onde está o Deus que me criou, que inspira cânticos de júbilo em plena noite?” “Que nos instrui mais que aos animais da terra.” “A tua causa está já diante dele, espera o seu julgamento.”",
+    "meditatio_perguntas": [
+      "Na minha dor, só peço alívio, ou busco o próprio Deus?",
+      "Já experimentei Deus dando cânticos na noite?",
+      "Sei esperar, sabendo que a minha causa está diante dele?"
+    ],
+    "oratio_guia": "Deus meu criador, que dás cânticos na noite, ensina-me a buscar-te por ti mesmo, e não só os teus dons. Na noite escura, põe na minha boca um cântico de confiança. Amém.",
+    "contemplatio_foco": {
+      "texto": "Onde está o Deus que me criou, que inspira cânticos de júbilo em plena noite",
+      "ref": "Jó 35,10"
+    }
+  },
+  "ancoras": {
+    "35:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 22,2-3: Eliú retoma uma ideia de Elifaz sobre a transcendência de Deus.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

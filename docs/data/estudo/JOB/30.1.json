@@ -1,0 +1,57 @@
+{
+  "id": "JOB.30.1",
+  "livro": "JOB",
+  "titulo": "Jó lamenta a miséria presente",
+  "secao": "O monólogo final de Jó",
+  "referencia": "Jó 30,1-31",
+  "ini": {
+    "c": 30,
+    "v": 1
+  },
+  "fim": {
+    "c": 30,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "A minha cítara mudou-se em pranto",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Agora o contraste: “Porém, agora zombam de mim os mais novos que eu”, filhos de gente tão desprezada que eu não os poria com os cães do meu rebanho. Jó descreve esses marginalizados que vivem no deserto, comendo raízes, expulsos da sociedade; e agora até eles fazem dele canção de zombaria, cospem-lhe no rosto, levantam-se contra ele. Terrores o assaltam; a sua dignidade foi levada pelo vento, a sua felicidade passou como nuvem. A alma se derrama, os dias de aflição o agarram; de noite a dor lhe penetra os ossos, e os males que o roem não dormem. Deus o lançou na lama; “sou semelhante ao pó e à cinza”. E se dirige a Deus: “Clamo a ti, e não me ouves; ponho-me diante de ti, e não olhas para mim.” Tornaste-te cruel comigo; levantas-me ao vento e me desfazes na tempestade; sei que me levarás à morte. Mas quem se afoga não estende a mão? “Eu chorava outrora com aquele que estava aflito, e a minha alma compadecia-se do pobre. Esperava bens, e vieram-me males; esperava a luz, e saíram-me trevas.” Caminho escurecido, sem sol; sou irmão dos chacais e companheiro dos avestruzes; a pele se enegrece, os ossos ardem. “A minha cítara trocou-se em pranto, e a minha lira em lamentos.”",
+    "alegorico": "O justo zombado pelos últimos, cuspido no rosto, que clama a Deus sem resposta, é retrato da Paixão de Cristo: escarnecido pelos soldados e pelos passantes, gritando ao Pai na cruz. Ele, que chorou com os que choravam, entra na noite em que “esperava a luz, e vieram trevas”.",
+    "moral": "Jó conhece a queda do prestígio à humilhação, e a sente com amargura. O texto ajuda a acompanhar os que perderam tudo: a dor da perda de dignidade é tão profunda quanto a física. E há aqui uma pergunta legítima: “eu chorava com os aflitos”; por que ninguém chora comigo? A compaixão que demos nem sempre volta dos homens, mas Deus a guarda.",
+    "anagogico": "A cítara mudada em pranto será de novo cítara: no céu os redimidos cantam o cântico novo com cítaras de Deus (Ap 15,2-3). O pranto desta vida é semente do louvor eterno."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Agora zombam de mim os mais novos que eu.” “Não receiam cuspir-me no rosto.” “A minha felicidade passou como nuvem.” “Clamo a ti, e não me ouves.” “Eu chorava outrora com aquele que estava aflito.” “Esperava a luz, e saíram-me trevas.” “A minha cítara trocou-se em pranto.”",
+    "meditatio_perguntas": [
+      "Como acompanho quem perdeu prestígio e dignidade?",
+      "Continuo a clamar a Deus quando parece que não me ouve?",
+      "A compaixão que pratico depende de ser retribuída?"
+    ],
+    "oratio_guia": "Senhor, quando a minha cítara se muda em pranto e espero a luz mas vêm trevas, não deixes de me olhar. Une a minha dor à do teu Filho humilhado, e um dia muda de novo o meu pranto em canto. Amém.",
+    "contemplatio_foco": {
+      "texto": "A minha cítara trocou-se em pranto, e a minha lira em lamentos",
+      "ref": "Jó 30,31"
+    }
+  },
+  "ancoras": {
+    "30:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jó, ao falar com desprezo dos marginalizados, mostra ainda a mentalidade de prestígio da sua época; o próprio sofrimento o fará igual a eles.",
+        "origem": "ia"
+      }
+    },
+    "30:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Chacais e avestruzes habitam o deserto e emitem gritos lúgubres; símbolo de solidão e lamento (Mq 1,8).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

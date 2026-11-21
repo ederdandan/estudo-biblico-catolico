@@ -1,0 +1,57 @@
+{
+  "id": "JOB.21.1",
+  "livro": "JOB",
+  "titulo": "Jó: por que vivem os ímpios e prosperam?",
+  "secao": "Segundo ciclo de discursos",
+  "referencia": "Jó 21,1-34",
+  "ini": {
+    "c": 21,
+    "v": 1
+  },
+  "fim": {
+    "c": 21,
+    "v": 34
+  },
+  "liturgia": {
+    "tema_central": "Por que vivem os ímpios e prosperam?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jó pede apenas: ouvi as minhas palavras; deixai-me falar, depois zombareis. Olhai para mim e ponde a mão na boca. E levanta a questão que os amigos evitam: “Por que razão vivem os ímpios e envelhecem, aumentando a sua força?” Os seus filhos estão firmes ao redor deles; as suas casas estão em paz, a vara de Deus não os toca; os rebanhos se multiplicam; as crianças saltam como cordeiros; cantam ao som do tamborim e da cítara; passam os dias em felicidade e descem num instante ao sepulcro. E são estes que dizem a Deus: “Retira-te de nós, pois não queremos saber nada dos teus caminhos. Quem é o Onipotente para que o sirvamos?” Jó rejeita esse modo de pensar, mas pergunta: quantas vezes se apaga a lâmpada dos ímpios? Dizeis que Deus castiga os filhos; que castigue o próprio culpado! E observa a realidade: um morre na prosperidade, tranquilo e gordo; outro morre na amargura, sem ter provado a felicidade; “e todavia ambos dormirão igualmente no pó, e os vermes cobrem os dois”. Perguntai aos viajantes: o mau é poupado no dia da desgraça, levado com honra ao túmulo, e a multidão o acompanha. “Como pois me consolais em vão?”",
+    "alegorico": "A pergunta de Jó é a do Salmo 72 e de Jeremias (Jr 12,1), e só encontra resposta plena na perspectiva da vida eterna e do juízo. Jesus a retoma na parábola do rico e de Lázaro (Lc 16,19-31): a prosperidade terrena não é sinal de bênção, nem a miséria sinal de maldição.",
+    "moral": "Jó tem a coragem de olhar a realidade de frente: nem sempre os maus sofrem e os bons prosperam. Uma fé que nega os fatos para salvar uma teoria não é verdadeira. Mas Jó não inveja os ímpios nem adota o seu pensamento: “longe esteja de mim o modo de pensar dos ímpios”. A fé não depende do sucesso.",
+    "anagogico": "Se tudo terminasse no pó, a pergunta de Jó seria sem resposta. A justiça de Deus se revela plenamente além da morte, no juízo onde cada um receberá segundo as suas obras."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Olhai para mim, e pasmai, e ponde a mão sobre a vossa boca.” “Por que razão vivem os ímpios e envelhecem?” “Retira-te de nós, pois não queremos saber nada dos teus caminhos.” “Longe esteja de mim o modo de pensar dos ímpios.” “Ambos dormirão igualmente no pó.”",
+    "meditatio_perguntas": [
+      "Tenho coragem de encarar os fatos que não se encaixam nas minhas teorias sobre Deus?",
+      "Invejo a prosperidade dos que vivem sem Deus?",
+      "Sirvo a Deus mesmo sem recompensa visível?"
+    ],
+    "oratio_guia": "Senhor, quando vejo os ímpios prosperar, guarda o meu coração da inveja e do modo de pensar deles. Que eu te sirva sem esperar recompensa nesta terra, confiando na tua justiça eterna. Amém.",
+    "contemplatio_foco": {
+      "texto": "Por que razão vivem os ímpios e envelhecem, aumentando á sua força?",
+      "ref": "Jó 21,7"
+    }
+  },
+  "ancoras": {
+    "21:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A frase dos ímpios é a negação prática de Deus: não negam a sua existência, mas a sua relevância.",
+        "origem": "ia"
+      }
+    },
+    "21:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Ecl 9,2-3: “a mesma sorte para o justo e para o ímpio”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

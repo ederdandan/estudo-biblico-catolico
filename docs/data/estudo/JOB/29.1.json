@@ -1,0 +1,57 @@
+{
+  "id": "JOB.29.1",
+  "livro": "JOB",
+  "titulo": "Jó recorda a felicidade passada",
+  "secao": "O monólogo final de Jó",
+  "referencia": "Jó 29,1-25",
+  "ini": {
+    "c": 29,
+    "v": 1
+  },
+  "fim": {
+    "c": 29,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "Fui o olho do cego e o pé do coxo: a felicidade passada",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Começa o grande monólogo final de Jó, em três partes: o passado, o presente e o juramento. Primeiro, a nostalgia: “Quem me dera ser como fui nos meses antigos, como nos dias em que Deus me guardava, quando a sua lâmpada luzia sobre a minha cabeça!” Era o tempo em que a amizade de Deus repousava sobre a sua tenda, os filhos estavam ao redor, os pés eram lavados em leite e a rocha derramava rios de azeite. Quando ia à porta da cidade e se sentava na praça, os jovens se retiravam com respeito, os anciãos se levantavam, os príncipes calavam. Por quê? Não por causa da riqueza, mas da justiça: “eu livrava o aflito suplicante, e o órfão que não tinha quem o socorresse”; a bênção do moribundo vinha sobre ele, e ele fazia cantar o coração da viúva. “Revesti-me de justiça, e a equidade serviu-me como de vestido e de diadema. Fui o olho do cego, e o pé do coxo. Eu era o pai dos pobres”, e investigava a causa até do desconhecido; quebrava as presas do injusto. Pensava: morrerei no meu ninho, com dias numerosos como a areia; as minhas raízes junto às águas, o orvalho nos meus ramos. Esperavam a minha palavra como a chuva; quando lhes sorria, não acreditavam; eu me sentava como chefe, como rei entre as tropas, “como um consolador dos aflitos”.",
+    "alegorico": "O retrato de Jó como pai dos pobres, olho do cego e pé do coxo descreve o próprio Cristo, que abre os olhos aos cegos, faz andar os coxos e anuncia a boa-nova aos pobres (Lc 7,22). A justiça vestida como manto anuncia o “revesti-vos do Senhor Jesus Cristo” (Rm 13,14).",
+    "moral": "A verdadeira grandeza de Jó não estava nas posses, mas no serviço: a sua autoridade vinha da justiça e da compaixão. Este capítulo é um programa de vida para quem tem algum poder: ser olho, pé, pai e consolador dos que não têm ninguém. Mostra também que lembrar o bem recebido pode ser fonte de dor quando se perde, mas também de gratidão.",
+    "anagogico": "A lâmpada de Deus que brilhava sobre a cabeça de Jó será a luz eterna dos justos. O que se faz aos pobres permanece: são as obras que nos acompanham (Ap 14,13)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quando a sua lâmpada luzia sobre a minha cabeça.” “Eu livrava o aflito suplicante, e o órfão.” “Eu consolava o coração da viúva.” “Revesti-me de justiça.” “Fui o olho do cego, e o pé do coxo. Eu era o pai dos pobres.” “Como um consolador dos aflitos.”",
+    "meditatio_perguntas": [
+      "De quem sou “olho” e “pé” hoje?",
+      "A minha autoridade, onde a tenho, vem do serviço?",
+      "Investigo a causa de quem não conheço, ou só ajudo os próximos?"
+    ],
+    "oratio_guia": "Senhor, que a tua lâmpada brilhe sobre a minha cabeça. Faz-me olho do cego, pé do coxo, pai dos pobres e consolador dos aflitos, revestido da tua justiça como de um manto. Amém.",
+    "contemplatio_foco": {
+      "texto": "Fui o olho do cego, e o pé do coxo",
+      "ref": "Jó 29,15"
+    }
+  },
+  "ancoras": {
+    "29:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A porta da cidade era o lugar das assembleias e dos julgamentos; ali se sentavam os anciãos.",
+        "origem": "ia"
+      }
+    },
+    "29:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Este capítulo responde às falsas acusações de Elifaz em 22,6-9.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

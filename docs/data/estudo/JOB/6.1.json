@@ -1,0 +1,57 @@
+{
+  "id": "JOB.6.1",
+  "livro": "JOB",
+  "titulo": "Jó: a vida do homem é uma milícia sobre a terra",
+  "secao": "Primeiro ciclo de discursos",
+  "referencia": "Jó 6,1–7,21",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "A vida do homem sobre a terra é uma milícia",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jó responde. Se a minha dor fosse pesada na balança, pesaria mais que a areia do mar; por isso as minhas palavras são desvairadas. As flechas do Onipotente estão cravadas em mim. O asno selvagem zurra quando lhe falta erva: também eu grito porque me falta tudo. Quem dera Deus me esmagasse! Teria ao menos o consolo de não ter renegado as palavras do Santo. A minha força não é de pedra, nem a minha carne de bronze. Então se volta para os amigos: “Aquele que não tem compaixão do seu amigo, abandona o temor do Senhor.” Os meus irmãos foram traiçoeiros como uma torrente do deserto, que transborda no inverno e seca no verão, frustrando as caravanas que contavam com ela. Pedi-vos algum dinheiro? Ensinai-me e me calarei; mostrai-me em que errei. Depois, no capítulo 7, Jó medita sobre a condição humana: “A vida do homem sobre a terra é uma milícia; os seus dias são como os dias dum mercenário.” Tive meses vazios e noites de fadiga; os meus dias correm mais rápido que a lançadeira do tecelão e acabam sem esperança. “Lembra-te que a minha vida é um sopro.” E se dirige a Deus com ousadia: sou eu o mar ou um monstro marinho, para me vigiares? “Que coisa é o homem para tanto te importares com ele?” Até quando não tirarás os olhos de mim? Se pequei, que te fiz? Por que não perdoas o meu pecado? Logo dormirei no pó; tu me procurarás, e já não existirei.",
+    "alegorico": "A pergunta “que coisa é o homem?” inverte o Salmo 8, onde é admiração. A resposta definitiva vem em Cristo: Deus se ocupa tanto do homem que se faz homem e assume a sua milícia e a sua morte. O amigo que não abandona é Cristo, que chama os seus de amigos (Jo 15,15).",
+    "moral": "Jó denuncia a falta de compaixão dos amigos: a amizade se prova na desgraça. A imagem da torrente seca é forte: há amizades que só existem quando tudo vai bem. A vida como “milícia” (serviço militar, combate) é retomada pela tradição espiritual: a vida cristã é luta. E Jó, mesmo protestando, fala com Deus, não sobre Deus: a oração ousada é melhor que o silêncio da indiferença.",
+    "anagogico": "“Lembra-te que a minha vida é um sopro”: a brevidade da vida remete ao Deus eterno, o único que pode dar a esse sopro uma consistência que não passa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Aquele que não tem compaixão do seu amigo, abandona o temor do Senhor.” “Meus irmãos enganaram-me como a torrente.” “A vida do homem sobre a terra é uma milícia.” “Lembra-te que a minha vida é um sopro.” “Que coisa é o homem para tanto te importares com ele?”",
+    "meditatio_perguntas": [
+      "Sou amigo fiel na desgraça, ou “torrente que seca”?",
+      "Vivo a vida como combate espiritual?",
+      "Falo com Deus com sinceridade, mesmo quando não o entendo?"
+    ],
+    "oratio_guia": "Senhor, lembra-te de que a minha vida é um sopro. Sê o meu apoio no combate de cada dia e faz de mim um amigo fiel para os que sofrem, que não desaparece como a torrente no verão. Amém.",
+    "contemplatio_foco": {
+      "texto": "A vida do homem sobre a terra é uma milícia; os seus dias são como os dias dum mercenário",
+      "ref": "Jó 7,1"
+    }
+  },
+  "ancoras": {
+    "7:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Vulgata traduz “militia est vita hominis super terram”, frase muito citada pelos autores espirituais.",
+        "origem": "ia"
+      }
+    },
+    "7:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Inversão do Sl 8,5: o que lá é louvor, aqui é queixa por ser observado.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

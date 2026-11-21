@@ -1,0 +1,57 @@
+{
+  "id": "JOB.31.1",
+  "livro": "JOB",
+  "titulo": "O juramento de inocência de Jó",
+  "secao": "O monólogo final de Jó",
+  "referencia": "Jó 31,1-40",
+  "ini": {
+    "c": 31,
+    "v": 1
+  },
+  "fim": {
+    "c": 31,
+    "v": 40
+  },
+  "liturgia": {
+    "tema_central": "Fiz pacto com os meus olhos: o juramento de inocência",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jó conclui o seu discurso com um solene juramento de inocência, uma série de “se eu fiz tal coisa, então caia sobre mim tal castigo”, que revela uma moral extraordinariamente elevada. “Fiz pacto com os meus olhos de não olhar cobiçosamente para uma virgem.” Se caminhei com a falsidade, que Deus me pese numa balança justa e conhecerá a minha integridade. Se o meu coração seguiu os meus olhos, que outro coma o que semeei. Se fui seduzido pela mulher do meu próximo, seja a minha mulher de outro, pois o adultério é um fogo que devora até o abismo. Se desprezei o direito do meu servo ou da minha serva quando reclamavam contra mim, que responderei a Deus? “Porventura o que me formou no ventre materno não o criou também a ele?” Se neguei ao pobre o que pedia, se deixei desfalecer os olhos da viúva, “ou comi sozinho o meu bocado de pão, e o órfão não comeu dele”; se vi alguém morrer sem roupa e não o aqueci com a lã das minhas ovelhas; se levantei a mão contra o órfão: que o meu ombro se desprenda. Não pus a confiança no ouro, não me alegrei com a riqueza; não beijei a mão diante do sol e da lua; não me alegrei com a ruína do meu inimigo, nem pedi a sua morte; o estrangeiro não dormiu fora, a minha porta estava aberta ao viajante; não escondi o meu pecado como Adão. E termina: “Eis a minha assinatura: que o Onipotente me responda!” Levarei a acusação sobre os ombros como uma coroa. “Findaram as palavras de Jó.”",
+    "alegorico": "O pacto com os olhos antecipa o ensino de Jesus: quem olha com cobiça já cometeu adultério no coração (Mt 5,28). O reconhecimento de que o servo foi criado pelo mesmo Deus prepara a fraternidade cristã, onde “não há escravo nem livre” (Gl 3,28). E o pão partilhado com o órfão, a roupa dada ao nu, o estrangeiro acolhido são as obras de misericórdia pelas quais seremos julgados (Mt 25,31-46).",
+    "moral": "É um dos mais belos exames de consciência da Bíblia. A moral de Jó vai além dos atos exteriores: inclui o olhar, o coração, a confiança no dinheiro, a alegria pela desgraça do inimigo. Funda a justiça social no fato de que patrão e servo foram formados pelo mesmo Deus. E recusa esconder o pecado: a transparência diante de Deus.",
+    "anagogico": "Jó pede para ser pesado numa balança justa: é o juízo final, onde o amor concreto aos pobres será o critério. Quem vive assim pode esperar o juízo com confiança, “como um príncipe”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Fiz pacto com os meus olhos.” “Pese-me Deus em sua balança justa.” “O que me formou no ventre materno não o criou também a ele?” “Comi sozinho o meu bocado de pão, e o órfão não comeu dele?” “Não disse ao ouro mais puro: tu és a minha confiança.” “A minha porta estava sempre aberta ao viandante.”",
+    "meditatio_perguntas": [
+      "Fiz “pacto com os meus olhos”?",
+      "Como trato os que trabalham para mim ou dependem de mim?",
+      "Como respondo a este exame: pão, roupa, porta aberta, alegria pela queda do inimigo?"
+    ],
+    "oratio_guia": "Senhor, pesa-me na tua balança justa e purifica o meu coração. Guarda os meus olhos, abre as minhas mãos aos pobres e a minha porta ao estrangeiro, e livra-me de confiar no ouro. Amém.",
+    "contemplatio_foco": {
+      "texto": "Fiz pacto com os meus olhos de não olhar (cobiçosamente) para uma virgem",
+      "ref": "Jó 31,1"
+    }
+  },
+  "ancoras": {
+    "31:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Uma das afirmações mais claras da igualdade fundamental entre senhor e escravo no mundo antigo.",
+        "origem": "ia"
+      }
+    },
+    "31:33": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Vulgata traduz “si abscondi quasi homo peccatum meum”; o hebraico pode ler “como Adão”, alusão a Gn 3,8-10.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

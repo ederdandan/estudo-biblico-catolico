@@ -1,0 +1,47 @@
+# Divisão em perícopes (numeração Matos Soares / Vulgata). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## Prólogo: a prova do justo
+1:1-1:22 | Jó, o justo provado: o Senhor o deu, o Senhor o tirou
+2:1-2:13 | A segunda prova; a mulher de Jó e os três amigos
+## Primeiro ciclo de discursos
+3:1-3:26 | Jó amaldiçoa o dia em que nasceu
+4:1-5:27 | Elifaz: o inocente nunca pereceu
+6:1-7:21 | Jó: a vida do homem é uma milícia sobre a terra
+8:1-8:22 | Baldad: Deus não rejeita o íntegro
+9:1-10:22 | Jó: como pode o homem ser justo diante de Deus?
+11:1-11:20 | Sofar: podes sondar os mistérios de Deus?
+12:1-13:28 | Jó: quero falar ao Todo-Poderoso
+14:1-14:22 | Jó: o homem nascido de mulher vive pouco tempo
+## Segundo ciclo de discursos
+15:1-15:35 | Elifaz: o ímpio vive em angústia
+16:1-17:16 | Jó: a minha testemunha está nos céus
+18:1-18:21 | Baldad: a luz do ímpio se apagará
+19:1-19:29 | Jó: eu sei que o meu Redentor vive
+20:1-20:29 | Sofar: breve é a alegria do ímpio
+21:1-21:34 | Jó: por que vivem os ímpios e prosperam?
+## Terceiro ciclo de discursos
+22:1-22:30 | Elifaz: reconcilia-te com Deus e terás paz
+23:1-24:25 | Jó: quem me dera saber onde encontrá-lo
+25:1-25:6 | Baldad: como pode o homem ser justo diante de Deus?
+26:1-26:14 | Jó: estas são apenas as orlas dos seus caminhos
+27:1-27:23 | Jó mantém a sua integridade
+28:1-28:28 | Hino à sabedoria: o temor do Senhor é a sabedoria
+## O monólogo final de Jó
+29:1-29:25 | Jó recorda a felicidade passada
+30:1-30:31 | Jó lamenta a miséria presente
+31:1-31:40 | O juramento de inocência de Jó
+## Os discursos de Eliú
+32:1-32:22 | Eliú entra na discussão
+33:1-33:33 | Eliú: Deus fala ao homem pelo sonho e pela dor
+34:1-34:37 | Eliú: longe de Deus a injustiça
+35:1-35:16 | Eliú: onde está Deus, que dá cânticos na noite?
+36:1-37:24 | Eliú: a grandeza de Deus na tempestade
+## O Senhor responde do meio do turbilhão
+38:1-38:41 | Onde estavas tu quando eu fundava a terra?
+39:1-39:30 | O Senhor e os animais selvagens
+39:31-39:35 | Jó põe a mão sobre a boca
+40:1-40:19 | Queres condenar-me para te justificares? O Beemot
+40:20-41:25 | O Leviatã, rei dos altivos
+## Epílogo
+42:1-42:6 | Agora os meus olhos te veem
+42:7-42:16 | O Senhor restaura Jó

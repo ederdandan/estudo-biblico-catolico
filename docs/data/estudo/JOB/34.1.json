@@ -1,0 +1,49 @@
+{
+  "id": "JOB.34.1",
+  "livro": "JOB",
+  "titulo": "Eliú: longe de Deus a injustiça",
+  "secao": "Os discursos de Eliú",
+  "referencia": "Jó 34,1-37",
+  "ini": {
+    "c": 34,
+    "v": 1
+  },
+  "fim": {
+    "c": 34,
+    "v": 37
+  },
+  "liturgia": {
+    "tema_central": "Eliú: longe de Deus a iniquidade!",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Eliú se dirige agora aos sábios presentes: o ouvido distingue as palavras como o paladar prova os alimentos; examinemos juntos o que é justo. Resume as palavras de Jó: “Eu sou justo, e Deus recusa-me justiça”; e acrescenta, exagerando, que Jó disse: “não aproveita ao homem estar de bem com Deus”. Responde com força: “Longe de Deus a iniquidade! Longe do Onipotente a injustiça!” Ele retribui ao homem segundo as suas obras. Quem lhe confiou a terra? Se Deus retirasse para si o seu espírito e o seu sopro, “toda a carne pereceria num instante, e o homem voltaria ao pó”. Poderia governar quem odeia a justiça? Deus não faz acepção de príncipes, não prefere o rico ao pobre, “porque todos são obra das suas mãos”. Os seus olhos estão sobre os caminhos de cada homem; não há trevas nem sombra de morte onde os malfeitores se escondam. Derruba os poderosos numa noite, sem inquérito, porque se afastaram dele e fizeram chegar até ele o clamor do pobre, e ele ouve o grito dos oprimidos. Se ele se cala, quem o condenará? Eliú conclui duramente: Jó fala sem saber; que seja provado até o fim, porque ao seu pecado junta a revolta.",
+    "alegorico": "A afirmação de que toda carne vive pelo sopro de Deus, e voltaria ao pó se ele o retirasse, ecoa no Salmo 103,29-30: “envias o teu Espírito e são criados”. O Deus que ouve o clamor do pobre e não prefere o rico ao pobre se revela em Cristo, que se fez pobre por nós (2Cor 8,9).",
+    "moral": "Eliú defende com razão a justiça de Deus: Deus não pode ser injusto, e vê tudo. É uma verdade necessária. Mas exagera e deforma as palavras de Jó para combatê-las: o erro de quem debate pensando mais em vencer que em compreender. A frase “todos são obra das suas mãos” funda a igualdade de ricos e pobres diante de Deus.",
+    "anagogico": "Não há trevas onde se possa esconder de Deus: no juízo, tudo será manifesto. Esta verdade, que assusta o malfeitor, consola o justo injustiçado."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O ouvido julga as palavras, assim como o paladar distingue os manjares.” “Longe de Deus a iniquidade! Longe do Onipotente a injustiça!” “Se retraísse o seu sopro… o homem voltaria ao pó.” “Não antepõe o rico ao pobre, porque todos são obra das suas mãos.” “Não há trevas… onde possam esconder-se os que praticam a iniquidade.”",
+    "meditatio_perguntas": [
+      "Deformo as palavras dos outros para vencer uma discussão?",
+      "Lembro-me de que vivo pelo sopro de Deus a cada instante?",
+      "Trato ricos e pobres de modo igual, como obra das mãos de Deus?"
+    ],
+    "oratio_guia": "Senhor, justo e santo, em ti não há iniquidade. Conserva em mim o teu sopro de vida e ensina-me a tratar todos como obra das tuas mãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Longe de Deus a iniquidade! Longe do Omnipotente a injustiça!",
+      "ref": "Jó 34,10"
+    }
+  },
+  "ancoras": {
+    "34:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jó não disse exatamente isto; Eliú tira uma conclusão de 9,22 e 21,15.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

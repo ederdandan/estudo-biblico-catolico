@@ -1,0 +1,57 @@
+{
+  "id": "JOB.19.1",
+  "livro": "JOB",
+  "titulo": "Jó: eu sei que o meu Redentor vive",
+  "secao": "Segundo ciclo de discursos",
+  "referencia": "Jó 19,1-29",
+  "ini": {
+    "c": 19,
+    "v": 1
+  },
+  "fim": {
+    "c": 19,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "Eu sei que o meu Redentor vive",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jó responde: até quando atormentareis a minha alma? Dez vezes me insultastes. Sabei que foi Deus quem me oprimiu e me envolveu na sua rede. Grito “violência!” e ninguém responde; Deus barrou o meu caminho, tirou-me a coroa, arrancou a minha esperança como uma árvore. Descreve a solidão total: os irmãos se afastaram, os conhecidos se tornaram estranhos, os vizinhos e os íntimos me esqueceram, os servos não respondem, a minha mulher tem nojo do meu hálito, até as crianças zombam de mim, os que eu amava se voltaram contra mim. Os ossos estão colados à pele. E suplica: “Compadecei-vos de mim, compadecei-vos de mim, ao menos vós, que sois meus amigos, porque a mão do Senhor me feriu.” Por que me perseguis como Deus? Então deseja que as suas palavras fiquem gravadas para sempre, a ferro e chumbo na rocha. E proclama: “Porque eu sei que o meu Redentor vive, e que surgirá finalmente na terra. Então, revestido da minha pele, na minha própria carne verei o meu Deus. Eu mesmo o verei, os meus olhos o hão-de contemplar, e não os de outro.” As minhas entranhas se consomem nesta espera. E adverte os amigos: temei a espada, porque há um juízo.",
+    "alegorico": "É o ponto mais alto do livro e uma das grandes profecias da ressurreição. O Redentor (hebr. go’el, o parente que resgata) é Cristo, que vive e se levanta sobre a terra no último dia. A Igreja lê este texto no Ofício e nas Missas pelos Defuntos, e Haendel o pôs no “Messias”: “I know that my Redeemer liveth”.",
+    "moral": "A fé de Jó brota no fundo do abandono: sem amigos, sem família, sem saúde, ele afirma “eu sei”. Não é otimismo; é certeza nascida da fidelidade de Deus. O grito “compadecei-vos de mim” é também apelo a nós: há pessoas que só pedem compaixão. E a esperança cristã é concreta: verei a Deus “na minha própria carne”.",
+    "anagogico": "A ressurreição da carne e a visão de Deus face a face são o horizonte da vida cristã: “eu mesmo o verei”. Esta esperança sustenta todo sofrimento."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Compadecei-vos de mim, compadecei-vos de mim, ao menos vós, que sois meus amigos.” “Quem me dera que as minhas palavras fossem escritas!” “Eu sei que o meu Redentor vive.” “Na minha própria carne verei o meu Deus.” “Os meus olhos o hão-de contemplar, e não os de outro.”",
+    "meditatio_perguntas": [
+      "Posso dizer “eu sei que o meu Redentor vive” no meio da minha dor?",
+      "Quem, ao meu redor, me pede apenas compaixão?",
+      "Vivo na esperança de ver a Deus com os meus próprios olhos?"
+    ],
+    "oratio_guia": "Eu sei, Senhor, que o meu Redentor vive. Na minha carne verei o meu Deus; os meus olhos te contemplarão. Sustenta esta esperança em mim e nos que sofrem sozinhos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porque eu sei que o meu Redentor vive, e que surgirá finalmente na terra",
+      "ref": "Jó 19,25"
+    }
+  },
+  "ancoras": {
+    "19:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O go’el era o parente próximo obrigado a resgatar o familiar da escravidão ou vingar o seu sangue (Lv 25,25; Rt 4).",
+        "origem": "ia"
+      }
+    },
+    "19:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Vulgata traduz claramente no sentido da ressurreição: “et rursum circumdabor pelle mea, et in carne mea videbo Deum meum”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

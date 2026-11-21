@@ -1,0 +1,49 @@
+{
+  "id": "JOB.32.1",
+  "livro": "JOB",
+  "titulo": "Eliú entra na discussão",
+  "secao": "Os discursos de Eliú",
+  "referencia": "Jó 32,1-22",
+  "ini": {
+    "c": 32,
+    "v": 1
+  },
+  "fim": {
+    "c": 32,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Eliú: é o espírito de Deus que dá a inteligência",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os três amigos deixam de responder, porque Jó se considera justo. Entra então em cena um personagem novo, Eliú, filho de Baraquel, de Buz. Ele se inflama de ira contra Jó, porque se justificava diante de Deus, e contra os três amigos, porque, sem encontrar resposta, condenavam Jó. Eliú tinha esperado, por respeito à idade dos outros. Agora fala: sou jovem e vós sois velhos, por isso tive medo de expor o meu saber. Pensava: falem os dias, que os muitos anos ensinem a sabedoria. “Mas, pelo que vejo, é o espírito de Deus nos homens, é a inspiração do Onipotente que dá a inteligência.” Os anos não fazem os sábios. Escutei os vossos argumentos, e nenhum refutou Jó. Não digais: encontramos a sabedoria, Deus o derrotará. Eles estão confusos, já não respondem. Pois agora eu falarei: estou cheio de palavras, o espírito me pressiona por dentro; o meu peito é como vinho novo sem respiradouro, que faz estourar odres novos. Falarei para respirar. Não farei acepção de pessoas, não lisonjearei ninguém.",
+    "alegorico": "A afirmação de que é o Espírito de Deus, e não a idade, que dá a inteligência anuncia a profecia de Joel cumprida em Pentecostes: “os vossos jovens terão visões” (At 2,17). O vinho novo que rompe os odres lembra a palavra de Jesus sobre o vinho novo em odres novos (Mc 2,22).",
+    "moral": "Eliú ensina que a sabedoria é dom do Espírito, não monopólio dos mais velhos: os jovens podem e devem ser ouvidos. Mostra também paciência: esperou a sua vez. Mas a sua impetuosidade (“estou cheio de palavras”) é também um risco; nem todo impulso de falar vem do Espírito. A sabedoria precisa de humildade e de escuta.",
+    "anagogico": "O Espírito que dá a inteligência conduzirá a Igreja à verdade plena (Jo 16,13). Na eternidade, todos serão ensinados por Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Sou novo ainda, e vós já velhos.” “É o espírito de Deus nos homens, é a inspiração do Onipotente que dá a inteligência.” “Não são sábios os de muita idade.” “O meu peito é como o mosto sem respiradouro.” “Não farei aceitação de pessoa.”",
+    "meditatio_perguntas": [
+      "Escuto os mais jovens, ou desprezo o que dizem pela idade?",
+      "Peço ao Espírito Santo a inteligência das coisas de Deus?",
+      "Sei esperar a minha vez de falar?"
+    ],
+    "oratio_guia": "Espírito Santo, que dás a inteligência aos pequenos e aos jovens, ilumina-me. Dá-me paciência para escutar e sabedoria para falar sem lisonja e sem soberba. Amém.",
+    "contemplatio_foco": {
+      "texto": "é o espírito de Deus nos homens, é a inspiração do Omnipotente que dá a inteligência",
+      "ref": "Jó 32,8"
+    }
+  },
+  "ancoras": {
+    "32:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Buz era irmão de Hus (Gn 22,21). Os discursos de Eliú (32–37) não são mencionados no prólogo nem no epílogo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "JOB.28.1",
+  "livro": "JOB",
+  "titulo": "Hino à sabedoria: o temor do Senhor é a sabedoria",
+  "secao": "Terceiro ciclo de discursos",
+  "referencia": "Jó 28,1-28",
+  "ini": {
+    "c": 28,
+    "v": 1
+  },
+  "fim": {
+    "c": 28,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "Hino à sabedoria: o temor do Senhor é a sabedoria",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Um poema de grande beleza interrompe o debate. Começa descrevendo a engenhosidade humana: a prata tem a sua mina, o ouro o lugar onde é purificado; o ferro sai da terra, o cobre da pedra fundida. O homem põe fim às trevas, escava galerias longe dos povoados, suspenso em cordas no fundo das minas; a terra que dá pão por cima é revolvida por baixo como pelo fogo; ali há safiras e pó de ouro. Nem a águia nem o abutre conhecem esses caminhos; o homem fura as rochas, revolve os montes pela raiz, vê tudo o que é precioso, descobre o que estava escondido. “Mas a sabedoria, onde se encontra ela? Qual é o lugar da inteligência?” O homem não conhece o seu caminho; o abismo diz: não está em mim; o mar: não está comigo. Não se compra com ouro puro nem com prata; não se compara ao ouro de Ofir, ao ônix, à safira, ao cristal, ao coral; “a sabedoria vale mais que as pérolas”. Está escondida a todos os viventes; a morte só ouviu falar dela. “Deus conhece o caminho para a encontrar, ele sabe onde se encontra”, porque vê os confins do mundo. Quando deu peso ao vento, mediu as águas, deu lei à chuva e caminho ao trovão, então a viu, a mediu, a estabeleceu. “E disse ao homem: O temor do Senhor é a verdadeira sabedoria; o apartar-se do mal é a inteligência.”",
+    "alegorico": "A sabedoria escondida, que só Deus conhece e que estava com ele na criação, é Cristo, “sabedoria de Deus” (1Cor 1,24), “em quem estão escondidos todos os tesouros da sabedoria e da ciência” (Cl 2,3). A pérola de grande valor da parábola (Mt 13,45-46) é esta sabedoria que vale mais do que tudo.",
+    "moral": "O homem é capaz de façanhas técnicas extraordinárias: desce às profundezas, encontra tesouros escondidos. Mas a técnica não encontra a sabedoria. O sentido da vida não se extrai da terra nem se compra; é dom de Deus, recebido no temor reverente e na fuga do mal. A ciência é preciosa, mas não substitui a sabedoria.",
+    "anagogico": "A sabedoria que a morte “só ouviu falar” será plenamente possuída na vida eterna, onde conheceremos como somos conhecidos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O homem põe um fim às trevas.” “Mas a sabedoria, onde se encontra ela?” “Não é dada pelo mais puro ouro.” “A sabedoria vale mais que as pérolas.” “Deus conhece o caminho para a encontrar.” “O temor do Senhor é a sabedoria; o apartar-se do mal é a inteligência.”",
+    "meditatio_perguntas": [
+      "Busco a sabedoria com o mesmo empenho com que busco outras riquezas?",
+      "Confundo conhecimento técnico com sabedoria de vida?",
+      "Vivo no temor do Senhor e na fuga do mal?"
+    ],
+    "oratio_guia": "Senhor, só tu conheces o caminho da sabedoria. Dá-me o teu temor, que é o princípio de toda sabedoria, e a inteligência de me afastar do mal. Que eu te prefira a todas as pérolas. Amém.",
+    "contemplatio_foco": {
+      "texto": "O temor do Senhor é a (verdadeira) sabedoria; o apartar-se do mal é a inteligência",
+      "ref": "Jó 28,28"
+    }
+  },
+  "ancoras": {
+    "28:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O poema descreve técnicas de mineração antigas, como as das minas de cobre do Arabá e do Sinai.",
+        "origem": "ia"
+      }
+    },
+    "28:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Pr 1,7; 9,10; Sl 110,10; Eclo 1,16: o temor do Senhor como princípio da sabedoria.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

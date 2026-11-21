@@ -1,0 +1,533 @@
+{
+ "livro": "JOB",
+ "secoes": [
+  "Prólogo: a prova do justo",
+  "Primeiro ciclo de discursos",
+  "Segundo ciclo de discursos",
+  "Terceiro ciclo de discursos",
+  "O monólogo final de Jó",
+  "Os discursos de Eliú",
+  "O Senhor responde do meio do turbilhão",
+  "Epílogo"
+ ],
+ "pericopes": [
+  {
+   "id": "JOB.1.1",
+   "titulo": "Jó, o justo provado: o Senhor o deu, o Senhor o tirou",
+   "secao": "Prólogo: a prova do justo",
+   "referencia": "Jó 1,1-22",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 22
+   }
+  },
+  {
+   "id": "JOB.2.1",
+   "titulo": "A segunda prova; a mulher de Jó e os três amigos",
+   "secao": "Prólogo: a prova do justo",
+   "referencia": "Jó 2,1-13",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 13
+   }
+  },
+  {
+   "id": "JOB.3.1",
+   "titulo": "Jó amaldiçoa o dia em que nasceu",
+   "secao": "Primeiro ciclo de discursos",
+   "referencia": "Jó 3,1-26",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 26
+   }
+  },
+  {
+   "id": "JOB.4.1",
+   "titulo": "Elifaz: o inocente nunca pereceu",
+   "secao": "Primeiro ciclo de discursos",
+   "referencia": "Jó 4,1–5,27",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 27
+   }
+  },
+  {
+   "id": "JOB.6.1",
+   "titulo": "Jó: a vida do homem é uma milícia sobre a terra",
+   "secao": "Primeiro ciclo de discursos",
+   "referencia": "Jó 6,1–7,21",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 21
+   }
+  },
+  {
+   "id": "JOB.8.1",
+   "titulo": "Baldad: Deus não rejeita o íntegro",
+   "secao": "Primeiro ciclo de discursos",
+   "referencia": "Jó 8,1-22",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 22
+   }
+  },
+  {
+   "id": "JOB.9.1",
+   "titulo": "Jó: como pode o homem ser justo diante de Deus?",
+   "secao": "Primeiro ciclo de discursos",
+   "referencia": "Jó 9,1–10,22",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 22
+   }
+  },
+  {
+   "id": "JOB.11.1",
+   "titulo": "Sofar: podes sondar os mistérios de Deus?",
+   "secao": "Primeiro ciclo de discursos",
+   "referencia": "Jó 11,1-20",
+   "ini": {
+    "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 20
+   }
+  },
+  {
+   "id": "JOB.12.1",
+   "titulo": "Jó: quero falar ao Todo-Poderoso",
+   "secao": "Primeiro ciclo de discursos",
+   "referencia": "Jó 12,1–13,28",
+   "ini": {
+    "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 28
+   }
+  },
+  {
+   "id": "JOB.14.1",
+   "titulo": "Jó: o homem nascido de mulher vive pouco tempo",
+   "secao": "Primeiro ciclo de discursos",
+   "referencia": "Jó 14,1-22",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 22
+   }
+  },
+  {
+   "id": "JOB.15.1",
+   "titulo": "Elifaz: o ímpio vive em angústia",
+   "secao": "Segundo ciclo de discursos",
+   "referencia": "Jó 15,1-35",
+   "ini": {
+    "c": 15,
+    "v": 1
+   },
+   "fim": {
+    "c": 15,
+    "v": 35
+   }
+  },
+  {
+   "id": "JOB.16.1",
+   "titulo": "Jó: a minha testemunha está nos céus",
+   "secao": "Segundo ciclo de discursos",
+   "referencia": "Jó 16,1–17,16",
+   "ini": {
+    "c": 16,
+    "v": 1
+   },
+   "fim": {
+    "c": 17,
+    "v": 16
+   }
+  },
+  {
+   "id": "JOB.18.1",
+   "titulo": "Baldad: a luz do ímpio se apagará",
+   "secao": "Segundo ciclo de discursos",
+   "referencia": "Jó 18,1-21",
+   "ini": {
+    "c": 18,
+    "v": 1
+   },
+   "fim": {
+    "c": 18,
+    "v": 21
+   }
+  },
+  {
+   "id": "JOB.19.1",
+   "titulo": "Jó: eu sei que o meu Redentor vive",
+   "secao": "Segundo ciclo de discursos",
+   "referencia": "Jó 19,1-29",
+   "ini": {
+    "c": 19,
+    "v": 1
+   },
+   "fim": {
+    "c": 19,
+    "v": 29
+   }
+  },
+  {
+   "id": "JOB.20.1",
+   "titulo": "Sofar: breve é a alegria do ímpio",
+   "secao": "Segundo ciclo de discursos",
+   "referencia": "Jó 20,1-29",
+   "ini": {
+    "c": 20,
+    "v": 1
+   },
+   "fim": {
+    "c": 20,
+    "v": 29
+   }
+  },
+  {
+   "id": "JOB.21.1",
+   "titulo": "Jó: por que vivem os ímpios e prosperam?",
+   "secao": "Segundo ciclo de discursos",
+   "referencia": "Jó 21,1-34",
+   "ini": {
+    "c": 21,
+    "v": 1
+   },
+   "fim": {
+    "c": 21,
+    "v": 34
+   }
+  },
+  {
+   "id": "JOB.22.1",
+   "titulo": "Elifaz: reconcilia-te com Deus e terás paz",
+   "secao": "Terceiro ciclo de discursos",
+   "referencia": "Jó 22,1-30",
+   "ini": {
+    "c": 22,
+    "v": 1
+   },
+   "fim": {
+    "c": 22,
+    "v": 30
+   }
+  },
+  {
+   "id": "JOB.23.1",
+   "titulo": "Jó: quem me dera saber onde encontrá-lo",
+   "secao": "Terceiro ciclo de discursos",
+   "referencia": "Jó 23,1–24,25",
+   "ini": {
+    "c": 23,
+    "v": 1
+   },
+   "fim": {
+    "c": 24,
+    "v": 25
+   }
+  },
+  {
+   "id": "JOB.25.1",
+   "titulo": "Baldad: como pode o homem ser justo diante de Deus?",
+   "secao": "Terceiro ciclo de discursos",
+   "referencia": "Jó 25,1-6",
+   "ini": {
+    "c": 25,
+    "v": 1
+   },
+   "fim": {
+    "c": 25,
+    "v": 6
+   }
+  },
+  {
+   "id": "JOB.26.1",
+   "titulo": "Jó: estas são apenas as orlas dos seus caminhos",
+   "secao": "Terceiro ciclo de discursos",
+   "referencia": "Jó 26,1-14",
+   "ini": {
+    "c": 26,
+    "v": 1
+   },
+   "fim": {
+    "c": 26,
+    "v": 14
+   }
+  },
+  {
+   "id": "JOB.27.1",
+   "titulo": "Jó mantém a sua integridade",
+   "secao": "Terceiro ciclo de discursos",
+   "referencia": "Jó 27,1-23",
+   "ini": {
+    "c": 27,
+    "v": 1
+   },
+   "fim": {
+    "c": 27,
+    "v": 23
+   }
+  },
+  {
+   "id": "JOB.28.1",
+   "titulo": "Hino à sabedoria: o temor do Senhor é a sabedoria",
+   "secao": "Terceiro ciclo de discursos",
+   "referencia": "Jó 28,1-28",
+   "ini": {
+    "c": 28,
+    "v": 1
+   },
+   "fim": {
+    "c": 28,
+    "v": 28
+   }
+  },
+  {
+   "id": "JOB.29.1",
+   "titulo": "Jó recorda a felicidade passada",
+   "secao": "O monólogo final de Jó",
+   "referencia": "Jó 29,1-25",
+   "ini": {
+    "c": 29,
+    "v": 1
+   },
+   "fim": {
+    "c": 29,
+    "v": 25
+   }
+  },
+  {
+   "id": "JOB.30.1",
+   "titulo": "Jó lamenta a miséria presente",
+   "secao": "O monólogo final de Jó",
+   "referencia": "Jó 30,1-31",
+   "ini": {
+    "c": 30,
+    "v": 1
+   },
+   "fim": {
+    "c": 30,
+    "v": 31
+   }
+  },
+  {
+   "id": "JOB.31.1",
+   "titulo": "O juramento de inocência de Jó",
+   "secao": "O monólogo final de Jó",
+   "referencia": "Jó 31,1-40",
+   "ini": {
+    "c": 31,
+    "v": 1
+   },
+   "fim": {
+    "c": 31,
+    "v": 40
+   }
+  },
+  {
+   "id": "JOB.32.1",
+   "titulo": "Eliú entra na discussão",
+   "secao": "Os discursos de Eliú",
+   "referencia": "Jó 32,1-22",
+   "ini": {
+    "c": 32,
+    "v": 1
+   },
+   "fim": {
+    "c": 32,
+    "v": 22
+   }
+  },
+  {
+   "id": "JOB.33.1",
+   "titulo": "Eliú: Deus fala ao homem pelo sonho e pela dor",
+   "secao": "Os discursos de Eliú",
+   "referencia": "Jó 33,1-33",
+   "ini": {
+    "c": 33,
+    "v": 1
+   },
+   "fim": {
+    "c": 33,
+    "v": 33
+   }
+  },
+  {
+   "id": "JOB.34.1",
+   "titulo": "Eliú: longe de Deus a injustiça",
+   "secao": "Os discursos de Eliú",
+   "referencia": "Jó 34,1-37",
+   "ini": {
+    "c": 34,
+    "v": 1
+   },
+   "fim": {
+    "c": 34,
+    "v": 37
+   }
+  },
+  {
+   "id": "JOB.35.1",
+   "titulo": "Eliú: onde está Deus, que dá cânticos na noite?",
+   "secao": "Os discursos de Eliú",
+   "referencia": "Jó 35,1-16",
+   "ini": {
+    "c": 35,
+    "v": 1
+   },
+   "fim": {
+    "c": 35,
+    "v": 16
+   }
+  },
+  {
+   "id": "JOB.36.1",
+   "titulo": "Eliú: a grandeza de Deus na tempestade",
+   "secao": "Os discursos de Eliú",
+   "referencia": "Jó 36,1–37,24",
+   "ini": {
+    "c": 36,
+    "v": 1
+   },
+   "fim": {
+    "c": 37,
+    "v": 24
+   }
+  },
+  {
+   "id": "JOB.38.1",
+   "titulo": "Onde estavas tu quando eu fundava a terra?",
+   "secao": "O Senhor responde do meio do turbilhão",
+   "referencia": "Jó 38,1-41",
+   "ini": {
+    "c": 38,
+    "v": 1
+   },
+   "fim": {
+    "c": 38,
+    "v": 41
+   }
+  },
+  {
+   "id": "JOB.39.1",
+   "titulo": "O Senhor e os animais selvagens",
+   "secao": "O Senhor responde do meio do turbilhão",
+   "referencia": "Jó 39,1-30",
+   "ini": {
+    "c": 39,
+    "v": 1
+   },
+   "fim": {
+    "c": 39,
+    "v": 30
+   }
+  },
+  {
+   "id": "JOB.39.31",
+   "titulo": "Jó põe a mão sobre a boca",
+   "secao": "O Senhor responde do meio do turbilhão",
+   "referencia": "Jó 39,31-35",
+   "ini": {
+    "c": 39,
+    "v": 31
+   },
+   "fim": {
+    "c": 39,
+    "v": 35
+   }
+  },
+  {
+   "id": "JOB.40.1",
+   "titulo": "Queres condenar-me para te justificares? O Beemot",
+   "secao": "O Senhor responde do meio do turbilhão",
+   "referencia": "Jó 40,1-19",
+   "ini": {
+    "c": 40,
+    "v": 1
+   },
+   "fim": {
+    "c": 40,
+    "v": 19
+   }
+  },
+  {
+   "id": "JOB.40.20",
+   "titulo": "O Leviatã, rei dos altivos",
+   "secao": "O Senhor responde do meio do turbilhão",
+   "referencia": "Jó 40,20–41,25",
+   "ini": {
+    "c": 40,
+    "v": 20
+   },
+   "fim": {
+    "c": 41,
+    "v": 25
+   }
+  },
+  {
+   "id": "JOB.42.1",
+   "titulo": "Agora os meus olhos te veem",
+   "secao": "Epílogo",
+   "referencia": "Jó 42,1-6",
+   "ini": {
+    "c": 42,
+    "v": 1
+   },
+   "fim": {
+    "c": 42,
+    "v": 6
+   }
+  },
+  {
+   "id": "JOB.42.7",
+   "titulo": "O Senhor restaura Jó",
+   "secao": "Epílogo",
+   "referencia": "Jó 42,7-16",
+   "ini": {
+    "c": 42,
+    "v": 7
+   },
+   "fim": {
+    "c": 42,
+    "v": 16
+   }
+  }
+ ]
+}

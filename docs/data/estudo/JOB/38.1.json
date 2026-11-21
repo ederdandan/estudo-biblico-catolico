@@ -1,0 +1,57 @@
+{
+  "id": "JOB.38.1",
+  "livro": "JOB",
+  "titulo": "Onde estavas tu quando eu fundava a terra?",
+  "secao": "O Senhor responde do meio do turbilhão",
+  "referencia": "Jó 38,1-41",
+  "ini": {
+    "c": 38,
+    "v": 1
+  },
+  "fim": {
+    "c": 38,
+    "v": 41
+  },
+  "liturgia": {
+    "tema_central": "Onde estavas tu quando eu lançava os fundamentos da terra?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Por fim, o Senhor responde a Jó “do meio dum redemoinho”. Mas não responde às suas perguntas; faz-lhe outras. “Quem é este que obscurece assim a Providência, com discursos insipientes? Cinge os teus rins como um homem; interrogar-te-ei, e responder-me-ás. Onde estavas tu, quando eu lançava os fundamentos da terra?” Quem fixou as suas medidas, quem assentou a pedra angular, “quando os astros da manhã, em coro, me louvavam, e todos os filhos de Deus aplaudiam jubilosos”? Quem fechou o mar com portas quando saía do seio materno, quando lhe dei as nuvens por veste e a névoa por fraldas, e disse: “Até aqui chegarás, mas daqui não passarás: aqui quebrarás a soberba das tuas ondas”? Deste ordens à manhã, mostraste à aurora o seu lugar? Desceste às fontes do mar, foram-te abertas as portas da morte? Conheces o caminho da luz e a morada das trevas? Entraste nos depósitos da neve e do granizo? Quem abriu canal ao aguaceiro e caminho ao trovão, para fazer chover sobre o deserto onde não há ninguém e fazer brotar a erva? A chuva tem pai? De que seio saiu o gelo? Prendes as Plêiades, soltas o Órion, guias a Ursa? Mandas os relâmpagos e eles dizem: aqui estamos? Quem caça para a leoa? “Quem prepara ao corvo o seu sustento, quando os seus filhinhos gritam para Deus?”",
+    "alegorico": "Deus não explica o sofrimento, mas se mostra. A sabedoria que fundou a terra é a Sabedoria eterna, o Verbo “por quem tudo foi feito” (Jo 1,3). Jesus retoma a imagem do Pai que alimenta os corvos (Lc 12,24). E aquele que diz ao mar “até aqui chegarás” é o mesmo que, no lago, acalma a tempestade (Mc 4,39).",
+    "moral": "A resposta de Deus desloca Jó: do centro do seu problema para a imensidão da criação. Não é desprezo: é um convite a ver a vida a partir de Deus. O universo não gira em torno de nós; e, no entanto, Deus cuida até da chuva no deserto onde ninguém mora, e do filhote do corvo que grita. Quem cuida assim de tudo não esqueceu Jó.",
+    "anagogico": "Os astros que louvavam em coro na criação são imagem da liturgia eterna. O homem é convidado a unir a sua voz a esse coro, pela adoração."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Então o Senhor falou a Job, do meio dum redemoinho.” “Onde estavas tu, quando eu lançava os fundamentos da terra?” “Quando os astros da manhã, em coro, me louvavam.” “Até aqui chegarás, mas daqui não passarás.” “A chuva tem pai?” “Quem prepara ao corvo o seu sustento?”",
+    "meditatio_perguntas": [
+      "Coloco-me no centro de tudo, ou vejo a minha vida a partir de Deus?",
+      "Contemplo a criação como sinal do cuidado de Deus?",
+      "Aceito que Deus responda me mostrando a si mesmo, e não explicando tudo?"
+    ],
+    "oratio_guia": "Senhor, que lançaste os fundamentos da terra e alimentas os filhotes do corvo, cala em mim os discursos sem saber. Ensina-me a adorar-te com os astros da manhã e a confiar no teu cuidado. Amém.",
+    "contemplatio_foco": {
+      "texto": "Onde estavas tu, quando eu lançava os fundamentos da terra?",
+      "ref": "Jó 38,4"
+    }
+  },
+  "ancoras": {
+    "38:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “redemoinho” ou tempestade é o lugar clássico das teofanias (Ex 19,16; Sl 17,8-16; Na 1,3).",
+        "origem": "ia"
+      }
+    },
+    "38:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os “filhos de Deus” são os anjos, testemunhas da criação.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

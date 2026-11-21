@@ -1,0 +1,57 @@
+{
+  "id": "JOB.14.1",
+  "livro": "JOB",
+  "titulo": "Jó: o homem nascido de mulher vive pouco tempo",
+  "secao": "Primeiro ciclo de discursos",
+  "referencia": "Jó 14,1-22",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "O homem nascido de mulher: se um homem morrer, tornará a viver?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jó continua a sua oração com uma meditação sobre a fragilidade humana: “O homem, nascido da mulher, vive pouco tempo e é cheio de muitas misérias.” Como uma flor, nasce e é cortada; foge como a sombra. E sobre um ser assim abres os olhos e o chamas a juízo? “Quem pode fazer sair o puro do impuro? Ninguém.” Os seus dias estão contados; deixa-o descansar como um jornaleiro no fim do dia. Para a árvore há esperança: cortada, rebrota; com a raiz velha e o tronco morto, ao sentir a água, reverdece. Mas o homem, quando morre, jaz; expira, e onde está? Como o lago que seca, deita-se e não se levanta até que os céus passem. Então surge um desejo surpreendente: quem dera me escondesses no sepulcro até passar a tua ira, e marcasses um tempo para te lembrares de mim! “Pensas porventura que um homem já morto tornará a viver? Todos os dias da minha milícia esperaria, até que chegasse a hora do levantamento.” Então me chamarias e eu te responderia; desejarias a obra das tuas mãos. Mas logo volta a amargura: como a água desgasta a pedra e a enxurrada arrasta a terra, assim destróis a esperança do homem; ele vai embora e não sabe se os filhos são honrados ou humilhados.",
+    "alegorico": "A pergunta “se um homem morrer, tornará a viver?” é uma das primeiras aberturas do AT para a ressurreição. A árvore cortada que reverdece ao cheiro da água é imagem do rebento de Jessé (Is 11,1) e de Cristo, que ressuscita. A Igreja reza este texto no Ofício dos Defuntos.",
+    "moral": "A consciência da brevidade da vida pode levar ao desespero ou à sabedoria. Jó deixa entrever uma esperança contra a esperança: que Deus se lembre dele além da morte. A oração mais sincera nasce quando reconhecemos a nossa fragilidade e, mesmo assim, desejamos ser chamados por Deus.",
+    "anagogico": "“Então me chamarias e eu te responderia”: é a voz do Senhor que chamará os mortos no último dia (Jo 5,28-29). O desejo de Jó será plenamente atendido."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O homem, nascido da mulher, vive pouco tempo e é cheio de muitas misérias.” “Como uma flor nasce e é cortada.” “Uma árvore tem esperança.” “Pensas porventura que um homem já morto tornará a viver?” “Então me chamarias e eu te responderia.”",
+    "meditatio_perguntas": [
+      "Como encaro a brevidade da minha vida?",
+      "Que esperança tenho além da morte?",
+      "Ouço já agora a voz de Deus que me chama?"
+    ],
+    "oratio_guia": "Senhor, eu sou como a flor que passa. Lembra-te de mim, chama-me, e eu te responderei. Faz-me esperar, todos os dias da minha milícia, a hora em que me levantarás. Amém.",
+    "contemplatio_foco": {
+      "texto": "O homem, nascido da mulher, vive pouco tempo e é cheio de muitas misérias",
+      "ref": "Jó 14,1"
+    }
+  },
+  "ancoras": {
+    "14:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto lido no Ofício dos Defuntos (Matinas, segunda lição) na liturgia tradicional.",
+        "origem": "ia"
+      }
+    },
+    "14:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Vulgata traduz “cunctis diebus quibus nunc milito exspecto donec veniat immutatio mea”: “espero até que venha a minha mudança”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "JOB.40.1",
+  "livro": "JOB",
+  "titulo": "Queres condenar-me para te justificares? O Beemot",
+  "secao": "O Senhor responde do meio do turbilhão",
+  "referencia": "Jó 40,1-19",
+  "ini": {
+    "c": 40,
+    "v": 1
+  },
+  "fim": {
+    "c": 40,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "Queres condenar-me para te justificares? Considera o Beemot",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor fala pela segunda vez do meio do turbilhão: “Cinge os teus rins como homem; eu te interrogarei, e me responderás.” E vai ao ponto mais delicado do drama: “Porventura queres reduzir a nada a minha justiça, e condenar-me a mim, para te justificares a ti?” Jó, para afirmar a sua inocência, chegou a acusar Deus de injustiça. Deus o desafia com ironia: se tens um braço como o de Deus e trovejas com voz igual, reveste-te de majestade e glória, derrama a tua ira, humilha com um olhar os soberbos, esmaga os ímpios onde estão, sepulta-os no pó; então eu mesmo confessarei que a tua direita pode salvar-te. Isto é: governar o mundo e vencer o mal não é tão simples como parece a quem o julga de fora. Depois Deus apresenta uma criatura assombrosa: o Beemot, “criado por mim, como tu”; come erva como o boi; tem força nos lombos e vigor nos músculos do ventre; a cauda rija como um cedro, os ossos como tubos de bronze, a estrutura como barras de ferro. “É obra-prima de Deus.” Repousa à sombra dos lótus, entre os canaviais e os pântanos; se o rio transborda, não se assusta, ainda que um Jordão lhe chegue à boca. Quem o apanhará de frente?",
+    "alegorico": "O Beemot, provavelmente o hipopótamo elevado à condição de monstro primordial, simboliza as forças brutas da criação que só Deus domina. Os Padres, como São Gregório Magno, viram nele o poder do demônio, que Cristo venceu. A pergunta “queres condenar-me para te justificares?” desmascara a tentação de construir a própria justiça contra Deus, superada pela justiça que vem da fé (Fl 3,9).",
+    "moral": "Deus aponta o erro de Jó: na defesa da sua inocência, chegou a fazer-se juiz de Deus. É possível ter razão sobre a própria inocência e errar ao exigir de Deus contas. A ironia divina é pedagógica: experimenta tu governar o mundo e acabar com o mal. Humildade não é negar a verdade, mas reconhecer os limites do próprio juízo.",
+    "anagogico": "Só Deus pode vencer definitivamente o mal e humilhar os soberbos; isto acontecerá no juízo final. Até lá, confiamos que o Criador do Beemot governa também o que nos parece caos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Cinge os teus rins como homem.” “Porventura queres reduzir a nada a minha justiça, e condenar-me a mim, para te justificares a ti?” “Se tu tens um braço forte como Deus.” “Considera o Beemot, criado por mim, como tu.” “É obra-prima de Deus.”",
+    "meditatio_perguntas": [
+      "Na defesa de mim mesmo, já acusei a Deus?",
+      "Julgo o governo de Deus como se eu pudesse fazê-lo melhor?",
+      "Que “Beemot”, força que não controlo, me lembra a grandeza de Deus?"
+    ],
+    "oratio_guia": "Senhor, perdoa-me quando quis justificar-me condenando-te. Só tu tens o braço que vence o mal. Ensina-me a confiar no teu governo, mesmo quando não o compreendo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porventura queres reduzir a nada a minha justiça, e condenar-me a mim, para te justificares a ti?",
+      "ref": "Jó 40,3"
+    }
+  },
+  "ancoras": {
+    "40:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração hebraica, 40,6. Começa o segundo discurso de Deus.",
+        "origem": "ia"
+      }
+    },
+    "40:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Beemot é plural intensivo de “animal”: “a besta por excelência”. A descrição se baseia no hipopótamo do Nilo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "JOB.33.1",
+  "livro": "JOB",
+  "titulo": "Eliú: Deus fala ao homem pelo sonho e pela dor",
+  "secao": "Os discursos de Eliú",
+  "referencia": "Jó 33,1-33",
+  "ini": {
+    "c": 33,
+    "v": 1
+  },
+  "fim": {
+    "c": 33,
+    "v": 33
+  },
+  "liturgia": {
+    "tema_central": "Eliú: Deus fala de um modo e de outro, e o homem não percebe",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Eliú dirige-se a Jó pelo nome: ouve as minhas palavras. “O espírito de Deus me fez, e o sopro do Onipotente me deu a vida.” Fui feito do mesmo barro que tu; não tenhas medo de mim. Disseste: sou puro, sem pecado; Deus procura pretextos contra mim e me trata como inimigo. Nisto não tens razão: Deus é maior que o homem. Por que te queixas de que ele não responde? “Deus fala de um modo, fala de outro, mas o homem não o entende.” Fala em sonhos, nas visões noturnas, quando o sono cai sobre os homens: abre-lhes os ouvidos, adverte-os, para os afastar do mal e da soberba, para salvar a sua alma da cova. Também fala pela dor: o homem é corrigido no seu leito, os ossos estremecem, o pão lhe causa nojo, a carne se consome, a alma se aproxima da cova. Mas, se houver junto dele um anjo, um mediador entre mil, que lhe mostre o seu dever, que tenha compaixão e diga: “Livra-o, para que não desça à corrupção; encontrei o resgate”, então a sua carne reverdecerá como na juventude; ele rezará, Deus o acolherá, e verá com júbilo a face de Deus. Dirá aos homens: pequei e não fui castigado como merecia; Deus resgatou a minha alma, e a minha vida vê a luz. Deus faz isto duas, três vezes com o homem, para iluminá-lo com a luz dos viventes.",
+    "alegorico": "O “anjo mediador” que encontra um resgate para o homem é figura de Cristo, mediador que deu a vida “em resgate por muitos” (Mc 10,45). A carne que reverdece como na juventude anuncia a renovação batismal e a ressurreição. Eliú introduz uma ideia nova: o sofrimento pode ser pedagogia, não só castigo.",
+    "moral": "Eliú dá um passo além dos amigos: Deus fala, mas de muitos modos, e é preciso aprender a escutá-lo, até nos sonhos e na doença. O sofrimento pode ser escola que afasta da soberba. A confissão humilde, “pequei e não fui castigado como merecia”, é o fruto dessa escola. Deus é paciente: insiste duas, três vezes.",
+    "anagogico": "“Verá com júbilo a face de Deus”: o fim da pedagogia divina é a visão de Deus, a luz dos viventes que não se apaga."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O espírito de Deus me fez, e o sopro do Onipotente me deu a vida.” “Deus fala de um modo, fala de outro, mas o homem não o entende.” “Para os apartar do mal, para os livrar da soberba.” “Se houver algum anjo… que fale a seu favor.” “Encontrei o resgate.” “Mostrar-lhe-á com júbilo a sua face.”",
+    "meditatio_perguntas": [
+      "Por quais caminhos Deus tem falado comigo, e eu não percebi?",
+      "A doença ou a dor já foram para mim escola de humildade?",
+      "Reconheço que não fui tratado como mereciam os meus pecados?"
+    ],
+    "oratio_guia": "Senhor, que falas de muitos modos, abre os meus ouvidos para que eu te entenda. Obrigado por Jesus, o mediador que encontrou o resgate para mim. Faz-me ver com júbilo a tua face. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus fala de um modo, fala de outro, mas o homem não o entende",
+      "ref": "Jó 33,14"
+    }
+  },
+  "ancoras": {
+    "33:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “anjo intérprete” ou mediador; a tradição viu aqui o anjo da guarda e, em sentido pleno, Cristo.",
+        "origem": "ia"
+      }
+    },
+    "33:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “resgate” (hebr. kofer) é o preço que liberta da morte.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

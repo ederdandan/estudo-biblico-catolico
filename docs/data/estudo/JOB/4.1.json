@@ -1,0 +1,57 @@
+{
+  "id": "JOB.4.1",
+  "livro": "JOB",
+  "titulo": "Elifaz: o inocente nunca pereceu",
+  "secao": "Primeiro ciclo de discursos",
+  "referencia": "Jó 4,1–5,27",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "Elifaz: que inocente pereceu jamais?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O primeiro dos amigos, Elifaz de Teman, o mais velho e respeitoso, toma a palavra. Começa com delicadeza: tu ensinaste a muitos, fortaleceste mãos cansadas e joelhos trêmulos; agora que a desgraça te toca, desfaleces. Não é a tua piedade a tua esperança? E formula a tese que guiará os amigos: “Lembra-te: que inocente pereceu jamais? Ou quando foram os justos destruídos?” Quem semeia iniquidade colhe dores. Elifaz conta uma revelação noturna: no horror de uma visão, um espírito passou diante dele, os cabelos se arrepiaram, e uma voz como brisa disse: “Porventura o homem, em confronto com Deus, será tido por justo?” Se Deus encontra defeito até nos anjos, quanto mais nos que habitam casas de barro. No capítulo 5, conclui: a desgraça não nasce do pó; “o homem nasceu para sofrer, como as faíscas para voar”. Eu, no teu lugar, recorreria a Deus, que faz maravilhas, exalta os humildes, frustra os astutos e salva o pobre. “Bem-aventurado o homem a quem Deus corrige. Não desprezes, pois, a correção do Onipotente, porque ele fere e sara.” Seis vezes te livrará, e na sétima o mal não te tocará; terás paz, descendência numerosa e chegarás ao túmulo maduro como um feixe colhido a seu tempo.",
+    "alegorico": "Muitas frases de Elifaz são verdadeiras e são citadas no NT: “apanha os sábios na sua astúcia” (1Cor 3,19); “bem-aventurado o homem que Deus corrige” ecoa em Hb 12,5-11. Mas a aplicação a Jó é falsa. Só em Cristo se revela que o sofrimento do inocente pode ser redentor, e não castigo.",
+    "moral": "Elifaz fala bem, com piedade e bom senso, mas parte de um princípio rígido: quem sofre deve ter pecado. É a tentação de quem consola com teorias em vez de escutar. Palavras verdadeiras, ditas no momento errado e com um pressuposto falso, ferem. Também ensina: ninguém é puro diante de Deus, e a correção pode ser graça.",
+    "anagogico": "“Ele fere e sara”: a última palavra de Deus sobre o sofrimento é a cura, que na eternidade será completa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Deste vigor a mãos cansadas.” “Que inocente pereceu jamais?” “Porventura o homem, em confronto com Deus, será tido por justo?” “O homem nasceu para sofrer, como os filhos da chama para voar.” “Bem-aventurado o homem a quem Deus corrige.” “Ele fere e sara.”",
+    "meditatio_perguntas": [
+      "Já expliquei o sofrimento de alguém como castigo, sem saber?",
+      "Consolo com teorias ou com presença?",
+      "Acolho as correções de Deus como bem para mim?"
+    ],
+    "oratio_guia": "Senhor, que feres e curas, dá-me humildade para acolher as tuas correções. Livra-me de julgar os que sofrem e ensina-me a consolar com verdade e com amor. Amém.",
+    "contemplatio_foco": {
+      "texto": "Bem-aventurado o homem a quem Deus corrige",
+      "ref": "Jó 5,17"
+    }
+  },
+  "ancoras": {
+    "4:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Teman, em Edom, era famosa pela sabedoria (Jr 49,7).",
+        "origem": "ia"
+      }
+    },
+    "5:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado por São Paulo em 1Cor 3,19, o único texto de Jó citado literalmente no NT.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

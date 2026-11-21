@@ -1,0 +1,57 @@
+{
+  "id": "JOB.42.7",
+  "livro": "JOB",
+  "titulo": "O Senhor restaura Jó",
+  "secao": "Epílogo",
+  "referencia": "Jó 42,7-16",
+  "ini": {
+    "c": 42,
+    "v": 7
+  },
+  "fim": {
+    "c": 42,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "O meu servo Jó orará por vós: a restauração",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Termina a parte poética e volta a prosa do prólogo. O Senhor diz a Elifaz: “O meu furor se acendeu contra ti e contra os teus dois amigos, porque vós não falastes de mim retamente, como falou o meu servo Jó.” Surpresa: Deus dá razão a Jó, que protestou, e não aos amigos, que o defenderam com teorias falsas. Ordena-lhes oferecer sete touros e sete carneiros e ir a Jó: “o meu servo Jó orará por vós”, e por causa dele Deus não os tratará segundo a sua loucura. Eles obedecem, e o Senhor atende Jó. E quando Jó reza pelos amigos, o Senhor muda a sua sorte e lhe dá o dobro de tudo o que tinha. Os irmãos, irmãs e conhecidos vêm comer com ele, consolam-no por todo o mal que o Senhor lhe enviara, e cada um lhe dá uma moeda e um anel de ouro. O Senhor abençoa o fim de Jó mais que o princípio: catorze mil ovelhas, seis mil camelos, mil juntas de bois, mil jumentas. Tem de novo sete filhos e três filhas, Jemima, Quesia e Querenhapuc, as mulheres mais belas da terra, e o pai lhes dá herança com os irmãos. Jó vive ainda cento e quarenta anos, vê filhos e netos até a quarta geração e morre velho e saciado de dias.",
+    "alegorico": "Jó, o justo sofredor que intercede pelos que o acusaram e por quem eles são perdoados, é figura de Cristo, que reza na cruz pelos que o crucificam (Lc 23,34) e por cuja intercessão somos salvos. A restauração “em dobro” é imagem da Ressurreição: depois da Paixão vem a glória. São Tiago cita Jó como modelo: “ouvistes falar da paciência de Jó e vistes o fim que o Senhor lhe deu” (Tg 5,11).",
+    "moral": "Deus prefere a oração sincera e protestante de Jó às defesas piedosas e falsas dos amigos. Falar “retamente” de Deus é falar com verdade, e não repetir fórmulas. A restauração de Jó começa quando ele reza pelos que o feriram: o perdão abre as portas da bênção. Note-se também a herança dada às filhas, gesto incomum que mostra a nova liberdade do coração de Jó.",
+    "anagogico": "A vida “saciada de dias” e o “fim melhor que o princípio” anunciam a vida eterna, onde Deus devolverá multiplicado tudo o que foi perdido por amor a ele (Mc 10,29-30)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vós não falastes de mim retamente, como falou o meu servo Jó.” “O meu servo Jó orará por vós.” “O Senhor atendeu a Jó.” “Quando orava pelos seus amigos, deu-lhe o duplo de tudo.” “O Senhor abençoou Jó no seu último estado muito mais do que no primeiro.” “Morreu, velho e saciado de dias.”",
+    "meditatio_perguntas": [
+      "Falo de Deus “retamente”, com verdade, ou com fórmulas prontas?",
+      "Rezo por aqueles que me feriram?",
+      "Creio que Deus pode fazer o fim melhor que o princípio?"
+    ],
+    "oratio_guia": "Senhor, que deste razão ao teu servo Jó, ensina-me a falar de ti com verdade. Dá-me a graça de rezar pelos que me feriram, e faz que o fim da minha vida seja abençoado mais que o princípio. Amém.",
+    "contemplatio_foco": {
+      "texto": "E o Senhor abençoou Job no seu último estado muito mais do que no primeiro",
+      "ref": "Jó 42,12"
+    }
+  },
+  "ancoras": {
+    "42:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Sete touros e sete carneiros: sacrifício solene de expiação (cf. Nm 23,1).",
+        "origem": "ia"
+      }
+    },
+    "42:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jemima (“pomba”), Quesia (“cássia”, perfume) e Querenhapuc (“frasco de pintura para os olhos”): nomes de beleza e graça.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

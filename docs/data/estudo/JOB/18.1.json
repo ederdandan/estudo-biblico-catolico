@@ -1,0 +1,57 @@
+{
+  "id": "JOB.18.1",
+  "livro": "JOB",
+  "titulo": "Baldad: a luz do ímpio se apagará",
+  "secao": "Segundo ciclo de discursos",
+  "referencia": "Jó 18,1-21",
+  "ini": {
+    "c": 18,
+    "v": 1
+  },
+  "fim": {
+    "c": 18,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "Baldad: a luz do ímpio se apagará",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Baldad responde com irritação: até quando falarás palavras vãs? Por que nos tratas como animais? Tu que te despedaças na tua ira, achas que a terra ficará deserta por tua causa e as rochas mudarão de lugar? E retoma, com imagens sombrias, a sorte do ímpio: “a luz do ímpio se apagará”, a lâmpada da sua tenda se escurecerá; os seus passos firmes encurtarão, o seu próprio conselho o derrubará. Os seus pés caem na rede, o laço o prende, armadilhas escondidas no caminho; terrores o assaltam de todos os lados. A fome devora a sua força; “o primogênito da morte”, uma doença terrível, devora os seus membros. É arrancado da tenda onde se sentia seguro e levado ao “rei dos terrores”. Outros habitarão a sua casa; enxofre será espalhado sobre ela. As raízes secam por baixo, os ramos são cortados por cima; a sua memória desaparece da terra, sem nome, sem descendência. É expulso da luz para as trevas. “Tais serão as moradas do ímpio, tal é o lugar daquele que não conhece a Deus.”",
+    "alegorico": "A descrição do ímpio tirado da luz para as trevas é verdadeira para quem recusa Deus até o fim. Mas Baldad, ao aplicá-la a Jó, descreve sem saber os sofrimentos de Cristo: arrancado da sua tenda, entregue à morte, sem descendência aparente. A ressurreição revela que nesse caso a escuridão foi atravessada pelo Justo, e não pelo ímpio.",
+    "moral": "Baldad pinta um quadro tão exato da desgraça de Jó (doença, filhos mortos, casa vazia) que a acusação é transparente: “tu és esse ímpio”. É a forma mais cruel de falar: descrever o sofrimento do outro como prova da sua culpa. Ao mesmo tempo, o texto lembra que viver sem Deus é caminhar entre laços e terrores.",
+    "anagogico": "Quem não conhece Deus caminha para as trevas; quem o conhece, mesmo atravessando a morte, caminha para a luz que não se apaga."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Até quando dirás palavras vãs?” “A luz do ímpio se apagará.” “Prendem-se os seus pés na rede.” “Será arrancado da sua tenda onde se julgava seguro.” “Será arrojado da luz para as trevas.” “Tal é o lugar daquele que não conhece a Deus.”",
+    "meditatio_perguntas": [
+      "Descrevo o sofrimento dos outros como castigo?",
+      "Que “laços” escondidos no caminho me prendem?",
+      "Conheço a Deus, ou apenas falo sobre ele?"
+    ],
+    "oratio_guia": "Senhor, luz que não se apaga, guarda os meus pés dos laços do mal e não permitas que eu seja arrojado às trevas. Livra-me de julgar os que sofrem. Amém.",
+    "contemplatio_foco": {
+      "texto": "Será arrojado da luz para as trevas, será desterrado do mundo",
+      "ref": "Jó 18,18"
+    }
+  },
+  "ancoras": {
+    "18:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“O primogênito da morte” designa provavelmente uma doença mortal; a frase visa diretamente a enfermidade de Jó.",
+        "origem": "ia"
+      }
+    },
+    "18:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “rei dos terrores” (hebr.) é a morte personificada.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "JOB.1.1",
+  "livro": "JOB",
+  "titulo": "Jó, o justo provado: o Senhor o deu, o Senhor o tirou",
+  "secao": "Prólogo: a prova do justo",
+  "referencia": "Jó 1,1-22",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "O Senhor o deu, o Senhor o tirou: bendito seja o nome do Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Na terra de Hus vivia um homem chamado Jó, “sincero, reto, temia a Deus e fugia do mal”. Tinha sete filhos e três filhas e imensas riquezas: era o maior dos orientais. Quando os filhos terminavam os seus dias de banquete, Jó os purificava e oferecia holocaustos por cada um, dizendo: talvez tenham pecado no coração. Um dia, os filhos de Deus, os anjos, apresentam-se diante do Senhor, e entre eles vem Satanás, o adversário, que vem “de dar uma volta pela terra”. O Senhor lhe pergunta: reparaste no meu servo Jó? Não há ninguém como ele. Satanás responde: “Porventura Jó teme a Deus debalde?” Tu o protegeste com uma cerca e abençoaste tudo o que faz; toca nos seus bens e ele te amaldiçoará na cara. Deus permite: tudo o que ele tem está em teu poder, mas não toques nele. Então, num único dia, chegam mensageiros um após outro: os sabeus levaram os bois e as jumentas; o fogo de Deus queimou as ovelhas; os caldeus roubaram os camelos; um vento do deserto derrubou a casa onde comiam os filhos, e todos morreram. Jó se levanta, rasga o manto, rapa a cabeça, prostra-se por terra e adora: “Nu saí do ventre de minha mãe, e nu tornarei para lá; o Senhor o deu, o Senhor o tirou… bendito seja o nome do Senhor.” Em tudo isso Jó não pecou.",
+    "alegorico": "Jó, justo provado sem culpa, é figura de Cristo, o Justo que sofre inocente e permanece fiel ao Pai. São Gregório Magno, nas “Morais sobre Jó”, lê nele Cristo e a Igreja, que sofrem as investidas do adversário. A pergunta de Satanás, se Jó serve a Deus “de graça”, encontra resposta perfeita em Jesus, que ama o Pai sem interesse até a cruz.",
+    "moral": "A questão central do livro é posta logo no início: amamos a Deus por ele mesmo ou pelos seus dons? A fé verdadeira não é um contrato de recompensas. A resposta de Jó é a da adoração no despojamento: tudo é dom, e o Doador continua digno de louvor mesmo quando retira os dons. Note-se que Jó oferecia sacrifícios pelos filhos: a oração de intercessão pelos seus.",
+    "anagogico": "“Nu saí… e nu tornarei”: nada levamos deste mundo senão o amor. A prova revela o que permanece para a eternidade: a fidelidade a Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Este homem era sincero, reto, temia a Deus e fugia do mal.” “Porventura Jó teme a Deus debalde?” “Tudo o que ele tem está em teu poder.” “Nu saí do ventre de minha mãe, e nu tornarei para lá.” “O Senhor o deu, o Senhor o tirou.” “Em todas estas coisas Jó não pecou com os seus lábios.”",
+    "meditatio_perguntas": [
+      "Sirvo a Deus “de graça”, ou pelos benefícios que espero?",
+      "Consigo bendizer a Deus quando ele tira algo que amo?",
+      "Rezo e ofereço sacrifícios pelos meus, como Jó por seus filhos?"
+    ],
+    "oratio_guia": "Senhor, tudo o que tenho é dom teu. Quando deres, que eu te bendiga; quando tirares, que eu te bendiga ainda. Ensina-me a amar-te por ti mesmo. Bendito seja o teu nome. Amém.",
+    "contemplatio_foco": {
+      "texto": "o Senhor o deu, o Senhor o tirou",
+      "ref": "Jó 1,21"
+    }
+  },
+  "ancoras": {
+    "1:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Satanás (hebr. ha-satan, “o adversário”) aparece aqui como acusador no conselho celeste, sob o domínio de Deus, que lhe limita a ação.",
+        "origem": "ia"
+      }
+    },
+    "1:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Hus (Uz) ficava provavelmente em Edom ou no norte da Arábia: Jó não é israelita, e o livro trata de uma questão universal.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

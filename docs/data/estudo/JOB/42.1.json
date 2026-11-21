@@ -1,0 +1,57 @@
+{
+  "id": "JOB.42.1",
+  "livro": "JOB",
+  "titulo": "Agora os meus olhos te veem",
+  "secao": "Epílogo",
+  "referencia": "Jó 42,1-6",
+  "ini": {
+    "c": 42,
+    "v": 1
+  },
+  "fim": {
+    "c": 42,
+    "v": 6
+  },
+  "liturgia": {
+    "tema_central": "Os meus ouvidos haviam escutado falar de ti, mas agora os meus olhos te veem",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jó responde ao Senhor pela última vez. “Sei que podes tudo, e que nenhum projeto é, para ti, demasiado difícil.” Retoma as palavras de Deus: “Quem é este que, falto de ciência, encobre o conselho de Deus?”, e confessa: falei nesciamente de coisas que me ultrapassam e que eu não conhecia. Retoma também: “Ouve, e eu falarei; interrogar-te-ei, e responder-me-ás.” E diz a frase que resume todo o livro: “Os meus ouvidos haviam escutado falar de ti, mas agora os meus próprios olhos te veem. Por isso acuso-me a mim mesmo, e faço penitência no pó e na cinza.” Jó não recebeu uma explicação do seu sofrimento. Recebeu algo maior: o encontro com Deus. A fé de “ouvir dizer” tornou-se fé de experiência. A sua penitência não é a confissão dos crimes que os amigos lhe atribuíam, mas o arrependimento de ter falado de Deus sem conhecê-lo.",
+    "alegorico": "Jó passa do conhecimento de ouvir falar ao de ver: é o caminho de toda vida cristã, do catecismo à contemplação. Em Cristo, “quem me vê, vê o Pai” (Jo 14,9). A promessa final é ver a Deus face a face (1Cor 13,12; 1Jo 3,2). O pó e a cinza lembram a Quarta-feira de Cinzas, entrada no caminho pascal.",
+    "moral": "A resposta de Deus ao sofrimento não é uma teoria, mas a sua presença. Muitas vezes, só a prova nos faz passar da religião de ouvir dizer à experiência viva de Deus. A humildade final de Jó não é humilhação: é a paz de quem encontrou Deus e já não precisa ter razão. Arrepender-se de ter falado de Deus sem conhecê-lo é sinal de maturidade.",
+    "anagogico": "“Agora os meus olhos te veem”: antecipação da visão beatífica, quando veremos Deus como ele é. Toda prova suportada com fé prepara este encontro."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Sei que podes tudo.” “Falei nesciamente, sobre coisas que me ultrapassam e que eu ignoro.” “Os meus ouvidos haviam escutado falar de ti, mas agora os meus próprios olhos te veem.” “Faço penitência no pó e na cinza.”",
+    "meditatio_perguntas": [
+      "Conheço Deus só “de ouvir falar”, ou já o encontrei pessoalmente?",
+      "Que prova me levou a um encontro mais verdadeiro com Deus?",
+      "Arrependo-me de ter falado de Deus sem conhecê-lo?"
+    ],
+    "oratio_guia": "Senhor, eu te conhecia de ouvir falar; mostra-me o teu rosto. Perdoa as palavras que disse sem saber. No pó e na cinza, eu te adoro, porque podes tudo e me amas. Amém.",
+    "contemplatio_foco": {
+      "texto": "Os meus ouvidos haviam escutado falar de ti, mas agora os meus próprios olhos te vêem",
+      "ref": "Jó 42,5"
+    }
+  },
+  "ancoras": {
+    "42:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jó cita as palavras de Deus em 38,2 e 38,3/40,2, mostrando que as acolheu.",
+        "origem": "ia"
+      }
+    },
+    "42:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O verbo hebraico pode significar também “retrato-me” ou “consolo-me”; a Vulgata traduz “ago paenitentiam in favilla et cinere”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "JOB.11.1",
+  "livro": "JOB",
+  "titulo": "Sofar: podes sondar os mistérios de Deus?",
+  "secao": "Primeiro ciclo de discursos",
+  "referencia": "Jó 11,1-20",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "Sofar: podes sondar a profundidade de Deus?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O terceiro amigo, Sofar de Naamat, é o mais impetuoso. Acusa Jó de tagarelice e de zombaria: disseste que és puro diante de Deus. Oxalá Deus falasse e te mostrasse os segredos da sua sabedoria: verias que ele te castiga muito menos do que mereces. E lança uma pergunta bela: “Porventura alcançarás os caminhos de Deus, e conhecerás perfeitamente o Onipotente?” Ele é mais alto que o céu, mais profundo que o abismo; a sua medida é mais longa que a terra e mais larga que o mar. Deus conhece os perversos e vê a iniquidade. Segue um apelo: se voltares o teu coração para Deus e estenderes a ele as mãos, se afastares a iniquidade da tua casa, então levantarás o rosto sem mancha; esquecerás o sofrimento, lembrando-o como águas que passaram; o teu futuro brilhará como o meio-dia, as trevas se mudarão em aurora; deitado, dormirás tranquilo. Mas os olhos dos ímpios se consumirão.",
+    "alegorico": "A pergunta de Sofar sobre a altura, a profundidade e a largura de Deus é retomada por São Paulo, que pede que os cristãos possam compreender “a largura, o comprimento, a altura e a profundidade” do amor de Cristo (Ef 3,18-19). O mistério de Deus, inalcançável, se revela no amor do crucificado.",
+    "moral": "Sofar tem razão: não podemos sondar Deus. Mas usa essa verdade contra Jó, supondo um pecado escondido que ele não tem. É o risco de quem fala de Deus com certezas que não conhece. A promessa de que o sofrimento passará “como águas que passaram” é verdadeira para quem confia, mas não pode ser usada como chantagem: converte-te e tudo ficará bem.",
+    "anagogico": "“As trevas se mudarão em aurora”: a esperança cristã sabe que a noite termina na manhã da Ressurreição."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Porventura alcançarás os caminhos de Deus?” “Ele é mais alto do que o céu… mais profundo do que o inferno.” “Se voltares o teu coração para Deus.” “Lembrar-te-ás deles como de águas que passaram.” “As trevas se mudarão em aurora.”",
+    "meditatio_perguntas": [
+      "Aceito que não posso sondar os caminhos de Deus?",
+      "Uso a doutrina como arma para acusar os outros?",
+      "Creio que as minhas trevas podem mudar-se em aurora?"
+    ],
+    "oratio_guia": "Senhor, mais alto que o céu e mais profundo que o abismo, faz-me adorar o teu mistério com humildade. Muda as minhas trevas em aurora, e que eu lembre as dores passadas como águas que correram. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porventura alcançarás os caminhos de Deus, e conhecerás perfeitamente o Omnipotente?",
+      "ref": "Jó 11,7"
+    }
+  },
+  "ancoras": {
+    "11:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Sofar chega a dizer que Jó é castigado menos do que merece: o auge da dureza dos amigos no primeiro ciclo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "JOB.2.1",
+  "livro": "JOB",
+  "titulo": "A segunda prova; a mulher de Jó e os três amigos",
+  "secao": "Prólogo: a prova do justo",
+  "referencia": "Jó 2,1-13",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Recebemos os bens da mão de Deus; não receberemos também os males?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "De novo os filhos de Deus se apresentam diante do Senhor, e Satanás com eles. O Senhor diz: Jó ainda conserva a sua integridade, embora me tenhas incitado contra ele sem motivo. Satanás replica: “Pele por pele! O homem dará tudo o que possui pela sua vida.” Toca nos seus ossos e na sua carne, e verás se não te amaldiçoa. Deus permite, mas guarda a vida dele. Satanás fere Jó com uma chaga maligna da planta dos pés ao alto da cabeça. Jó, sentado na cinza, raspa as feridas com um caco de telha. A sua mulher lhe diz: “Ainda perseveras na tua integridade? Maldiz a Deus e morre.” Jó responde: “Falaste como uma mulher insensata; se nós recebemos os bens da mão de Deus, por que não havemos de receber também os males?” Em tudo isso Jó não pecou com os lábios. Três amigos, Elifaz de Teman, Baldad de Suhé e Sofar de Naamat, ouvem falar da desgraça e combinam ir consolá-lo. De longe não o reconhecem; choram em alta voz, rasgam os mantos, lançam pó sobre a cabeça. “Sentaram-se com ele por terra durante sete dias e sete noites, e nenhum lhe dizia palavra, porque viam quão veemente era a sua dor.”",
+    "alegorico": "Jó sentado na cinza, coberto de chagas, desfigurado a ponto de os amigos não o reconhecerem, prefigura o Servo sofredor, “sem aparência nem beleza” (Is 53,2-3), e Cristo na Paixão, “Ecce homo”. A tentação da mulher, “maldiz a Deus”, é a mesma do tentador: romper com Deus no sofrimento.",
+    "moral": "A prova chega ao corpo, e a tentação vem de quem está mais perto. A resposta de Jó ensina a aceitar da mão de Deus o bem e o mal, sem fazer da fé um negócio. Os amigos ensinam uma lição preciosa antes de falar: os sete dias de silêncio, presença solidária diante da dor. O melhor consolo começa por calar e ficar.",
+    "anagogico": "A integridade conservada na prova é o tesouro que atravessa a morte. Quem permanece fiel na cinza será revestido de glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Pele por pele! O homem dará tudo o que possui pela sua vida.” “Sentado sobre a cinza, raspava a podridão com um pedaço de telha.” “Ainda perseveras na tua integridade? Maldiz a Deus e morre.” “Se nós recebemos os bens da mão de Deus, por que não havemos de receber também os males?” “Nenhum lhe dizia palavra, porque viam quão veemente era a sua dor.”",
+    "meditatio_perguntas": [
+      "Aceito das mãos de Deus também o que me custa?",
+      "Sei estar em silêncio ao lado de quem sofre, sem pressa de explicar?",
+      "Quando a tentação de desistir vem de quem amo, como respondo?"
+    ],
+    "oratio_guia": "Senhor, que eu receba da tua mão os bens e os males, sem perder a integridade. Ensina-me a estar em silêncio ao lado dos que sofrem, como presença de consolo. Amém.",
+    "contemplatio_foco": {
+      "texto": "se nós recebemos os bens da mão de Deus por que não havemos de receber também os males?",
+      "ref": "Jó 2,10"
+    }
+  },
+  "ancoras": {
+    "2:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A cinza era o lugar fora da cidade onde se queimava o lixo; ali ficavam os doentes e excluídos.",
+        "origem": "ia"
+      }
+    },
+    "2:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Sete dias era o tempo do luto pelos mortos (Gn 50,10; Eclo 22,13).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

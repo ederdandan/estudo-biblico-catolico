@@ -1,0 +1,49 @@
+{
+  "id": "JOB.20.1",
+  "livro": "JOB",
+  "titulo": "Sofar: breve é a alegria do ímpio",
+  "secao": "Segundo ciclo de discursos",
+  "referencia": "Jó 20,1-29",
+  "ini": {
+    "c": 20,
+    "v": 1
+  },
+  "fim": {
+    "c": 20,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "Sofar: breve é a alegria do ímpio",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Sofar responde impaciente: ouvi a tua repreensão ofensiva, e o meu espírito me obriga a responder. Não sabes que, desde que o homem foi posto na terra, “é breve a glória dos ímpios, e a alegria do ímpio dura um momento”? Ainda que a sua soberba suba ao céu e a sua cabeça toque as nuvens, perecerá como o esterco; os que o viam dirão: onde está? Voará como um sonho, desaparecerá como uma visão noturna. Os seus filhos indenizarão os pobres. Segue uma imagem forte: o mal era doce na sua boca, escondia-o debaixo da língua, saboreava-o; mas esse alimento se transforma nas entranhas em veneno de víbora; vomitará as riquezas que engoliu. Não verá os rios de mel e leite. Por quê? “Porque oprimiu e despojou os pobres, roubou casas que não edificou.” A sua voracidade era insaciável; no meio da abundância, tudo lhe é pouco. Deus mandará sobre ele o furor; se escapar da arma de ferro, o arco de bronze o atravessará; um fogo não aceso por homem o devorará. Os céus revelarão a sua culpa, a terra se levantará contra ele. “Esta é a sorte reservada por Deus ao homem ímpio.”",
+    "alegorico": "A imagem do mal doce na boca e amargo nas entranhas é retomada no Apocalipse, onde o livro é doce na boca e amargo no ventre (Ap 10,9-10). O pecado se apresenta sempre como doçura, mas o seu fruto é morte (Rm 6,23).",
+    "moral": "O retrato de Sofar sobre a ganância é certeiro: a voracidade insaciável, o roubo do pobre, a riqueza engolida que envenena. É uma boa meditação contra a avareza. O erro, mais uma vez, é aplicá-lo a Jó, que nada disso fez. Podemos ter razão sobre o pecado em geral e estar completamente errados sobre uma pessoa concreta.",
+    "anagogico": "A alegria do ímpio “dura um momento”; a dos justos, a eternidade. Esta perspectiva relativiza todo sucesso conseguido à custa dos outros."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“É breve a glória dos ímpios, e a alegria do ímpio dura um momento.” “Como um sonho, ele voa.” “Se o mal foi doce na sua boca.” “Se converterá interiormente em fel de áspides.” “Porque oprimiu e despojou os pobres.” “No cúmulo da abundância, tudo lhe é pouco.”",
+    "meditatio_perguntas": [
+      "Que mal parece “doce” na minha boca?",
+      "Há em mim voracidade que nunca se sacia?",
+      "Distingo a verdade geral do juízo sobre uma pessoa concreta?"
+    ],
+    "oratio_guia": "Senhor, livra-me do mal que é doce na boca e amargo nas entranhas. Arranca de mim a avareza e a voracidade, e ensina-me a não julgar ninguém. Amém.",
+    "contemplatio_foco": {
+      "texto": "é breve a glória dos ímpios, e a alegria do ímpio dura um momento",
+      "ref": "Jó 20,5"
+    }
+  },
+  "ancoras": {
+    "20:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O pecado social da opressão do pobre é o centro da acusação; Jó responderá em 29,12-17 e 31,16-22 mostrando que fez o contrário.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

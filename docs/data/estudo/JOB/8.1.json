@@ -1,0 +1,57 @@
+{
+  "id": "JOB.8.1",
+  "livro": "JOB",
+  "titulo": "Baldad: Deus não rejeita o íntegro",
+  "secao": "Primeiro ciclo de discursos",
+  "referencia": "Jó 8,1-22",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Baldad: pode o papiro crescer sem água?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O segundo amigo, Baldad de Suhé, é mais seco e direto. Até quando falarás assim, com palavras que são vento impetuoso? “Porventura Deus perverte os seus juízos, ou o Onipotente subverte a justiça?” E aplica a tese sem piedade: se os teus filhos pecaram, Deus os entregou à sua culpa. Mas, se tu recorreres a Deus, se fores puro e reto, ele te restaurará, e o teu fim será maior que o teu começo. Baldad invoca a tradição: interroga as gerações passadas; nós somos de ontem e nada sabemos, os nossos dias passam como sombra; eles te ensinarão. Segue uma imagem: “Porventura um papiro pode crescer fora do paul? Pode crescer um junco sem água?” Seca antes de qualquer outra erva, ainda verde. Assim é a sorte de todos os que se esquecem de Deus; a esperança do ímpio é como teia de aranha; apoia-se na sua casa, e ela não se mantém. Ele é como uma planta viçosa ao sol, cujas raízes se enredam nas pedras; mas, arrancada, o seu lugar a renega: não te conheço. E conclui: “Deus não rejeita o homem sincero, nem dá a mão aos malvados.” Ele ainda encherá a tua boca de riso e os teus lábios de júbilo.",
+    "alegorico": "A imagem do papiro que não cresce sem água é verdadeira para a vida espiritual: separados de Cristo, fonte de água viva, secamos (Jo 15,5; Jr 17,5-8). Mas a aplicação de Baldad a Jó é injusta; só a cruz mostrará que o Justo pode ser “arrancado” sem ser ímpio.",
+    "moral": "Baldad defende Deus atacando o amigo: chega a dizer que os filhos de Jó morreram pelos seus pecados. É a crueldade de uma teologia sem compaixão. Ainda assim, a tradição que invoca contém verdade: quem esquece Deus fica sem raiz, e a sua confiança é teia de aranha. O desafio é dizer a verdade sem ferir quem sofre.",
+    "anagogico": "“Encherá a tua boca de riso”: a alegria final dos justos é promessa verdadeira, mas virá de Deus, não como prêmio automático; cumpre-se na bem-aventurança: “felizes os que choram, porque serão consolados”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Porventura Deus perverte os seus juízos?” “Nós somos de ontem… os nossos dias sobre a terra passam como a sombra.” “Porventura um papiro pode crescer fora do paul?” “A sua confiança será como a teia de aranha.” “Deus não rejeita o homem sincero.” “Um dia encherá a tua boca de riso.”",
+    "meditatio_perguntas": [
+      "Em que águas está plantada a minha vida?",
+      "A minha “confiança” é sólida ou teia de aranha?",
+      "Defendo a Deus de modo que fere os que sofrem?"
+    ],
+    "oratio_guia": "Senhor, fonte de água viva, planta-me junto de ti, para que eu não seque. Faz que a minha confiança esteja em ti e que as minhas palavras sobre ti consolem, e não firam. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porventura um papiro pode crescer fora do paul? Pode crescer um junco sem água?",
+      "ref": "Jó 8,11"
+    }
+  },
+  "ancoras": {
+    "8:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Suhé (Shuah) é nome de um filho de Abraão e Cetura (Gn 25,2), região a leste.",
+        "origem": "ia"
+      }
+    },
+    "8:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Baldad alude cruamente à morte dos filhos de Jó (1,19).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

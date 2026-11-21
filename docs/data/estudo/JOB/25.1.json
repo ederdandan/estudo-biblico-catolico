@@ -1,0 +1,49 @@
+{
+  "id": "JOB.25.1",
+  "livro": "JOB",
+  "titulo": "Baldad: como pode o homem ser justo diante de Deus?",
+  "secao": "Terceiro ciclo de discursos",
+  "referencia": "Jó 25,1-6",
+  "ini": {
+    "c": 25,
+    "v": 1
+  },
+  "fim": {
+    "c": 25,
+    "v": 6
+  },
+  "liturgia": {
+    "tema_central": "Baldad: como pode o homem ser puro diante de Deus?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O último discurso de Baldad é muito breve, como se os amigos já não tivessem argumentos. É um pequeno hino à grandeza de Deus: “O poder e o terror estão naquele que mantém a concórdia nos seus altos céus.” Quem pode contar as suas milícias celestes? Sobre quem não se levanta a sua luz? E repete pela terceira vez a ideia comum aos amigos: “Porventura pode justificar-se o homem, comparado com Deus, ou aparecer puro o que nasceu da mulher?” Se até a lua não brilha e as estrelas não são puras aos seus olhos, “quanto menos o homem, que é podridão, e o filho do homem, que é um verme!”",
+    "alegorico": "O Salmo 21, salmo da Paixão, põe na boca do Messias: “Eu sou um verme e não um homem” (Sl 21,7). O Filho de Deus assumiu a condição do “filho do homem que é um verme”, para elevá-lo à dignidade de filho de Deus. Onde Baldad vê só a miséria humana, a Encarnação revela a sua grandeza.",
+    "moral": "Diante da santidade de Deus, a humildade é a atitude justa: ninguém é puro por si mesmo. Mas a humildade não é desprezo de si. A visão de Baldad esquece que o homem é imagem de Deus, criado “pouco inferior aos anjos” (Sl 8). A fé cristã une as duas verdades: somos pó e somos amados.",
+    "anagogico": "O homem, que diante de Deus parece verme, é chamado a brilhar como as estrelas (Dn 12,3). A graça transforma a podridão em glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O poder e o terror estão naquele que mantém a concórdia nos seus altos céus.” “Sobre quem é que não se levanta a sua luz?” “Porventura pode justificar-se o homem, comparado com Deus?” “Quanto menos o homem, que é podridão.”",
+    "meditatio_perguntas": [
+      "Como uno, em mim, a humildade e a consciência de ser amado por Deus?",
+      "Desprezo a mim mesmo ou aos outros em nome da humildade?",
+      "Deixo que a luz de Deus se levante sobre mim?"
+    ],
+    "oratio_guia": "Senhor, diante de ti sou pó, mas tu me amaste e me fizeste teu filho. Dá-me a verdadeira humildade, que reconhece a minha miséria e confia na tua misericórdia. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porventura pode justificar-se o homem, comparado com Deus, ou aparecer puro o que nasceu da mulher?",
+      "ref": "Jó 25,4"
+    }
+  },
+  "ancoras": {
+    "25:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O terceiro ciclo está incompleto: Baldad fala muito pouco e Sofar não fala. Muitos estudiosos pensam que partes de 26–27 pertenciam originalmente aos amigos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

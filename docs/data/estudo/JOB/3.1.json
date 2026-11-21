@@ -1,0 +1,57 @@
+{
+  "id": "JOB.3.1",
+  "livro": "JOB",
+  "titulo": "Jó amaldiçoa o dia em que nasceu",
+  "secao": "Primeiro ciclo de discursos",
+  "referencia": "Jó 3,1-26",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "Pereça o dia em que nasci: o grito de Jó",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Depois de sete dias de silêncio, Jó abre a boca e amaldiçoa o dia do seu nascimento. O paciente do prólogo dá lugar ao homem que grita. “Pereça o dia em que nasci, e a noite em que se disse: Foi concebido um homem.” Que esse dia se converta em trevas, que Deus não se lembre dele, que a escuridão o envolva; que aquela noite não entre no calendário, que nela não se ouça grito de alegria, que as estrelas não brilhem e a aurora não se abra. E pergunta: “Por que não morri eu dentro do ventre materno?” Por que houve joelhos para me receber e seios para me amamentar? Agora estaria dormindo em paz, com os reis e os príncipes que construíram mausoléus, ou como um aborto escondido que não viu a luz. Na morada dos mortos, os ímpios cessam de agitar-se, os cansados repousam, os prisioneiros não ouvem mais o capataz, o pequeno e o grande estão juntos, e o escravo está livre do senhor. “Por que foi concedida a luz aos infelizes, a vida aos que estão em amargura de ânimo?” Eles esperam a morte que não vem. Os meus suspiros são o meu pão, os meus gemidos se derramam como água; o que eu temia aconteceu-me. “Não tenho paz nem sossego, não tenho repouso, mas apenas perturbação.”",
+    "alegorico": "O grito de Jó antecipa o grito de Jeremias (Jr 20,14-18) e, sobretudo, o de Cristo na cruz: “Meu Deus, meu Deus, por que me abandonaste?” (Mt 27,46). Deus não despreza esse grito; Jesus o assume e o transforma em oração confiante.",
+    "moral": "A Bíblia dá lugar ao lamento: a dor pode e deve ser dita diante de Deus, mesmo com palavras extremas. Jó não amaldiçoa a Deus, como queria Satanás, mas o dia do seu nascimento. A oração honesta, que não esconde a angústia, é mais verdadeira que uma resignação fingida. E quem acompanha os que sofrem precisa aprender a escutar esse grito sem escandalizar-se.",
+    "anagogico": "O repouso que Jó procura na morte é imagem distorcida do verdadeiro descanso que Cristo promete: “Vinde a mim, vós que estais cansados… e eu vos aliviarei” (Mt 11,28)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Pereça o dia em que nasci.” “Por que não morri eu dentro do ventre materno?” “Ali repousam os cansados de forças.” “Por que foi concedida a luz aos infelizes?” “O mal que eu temo, acontece-me.” “Não tenho paz nem sossego, não tenho repouso.”",
+    "meditatio_perguntas": [
+      "Tenho coragem de dizer a Deus, com sinceridade, a minha dor?",
+      "Como reajo quando alguém desabafa um sofrimento extremo?",
+      "Onde busco descanso quando “não tenho paz nem sossego”?"
+    ],
+    "oratio_guia": "Senhor, que escutas o grito dos que sofrem, acolhe a minha angústia quando não tenho paz. Ensina-me a gritar para ti, e não contra ti, e dá-me o repouso que só tu podes dar. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não tenho paz nem sossego, não tenho repouso, mas apenas perturbação",
+      "ref": "Jó 3,26"
+    }
+  },
+  "ancoras": {
+    "3:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Leviatã, monstro do caos marinho; os “que amaldiçoam o dia” eram feiticeiros que se julgava poderem despertá-lo.",
+        "origem": "ia"
+      }
+    },
+    "3:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Aqui começa a parte poética do livro (3,1–42,6), emoldurada pelo prólogo e epílogo em prosa.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

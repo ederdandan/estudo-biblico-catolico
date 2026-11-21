@@ -1,0 +1,57 @@
+{
+  "id": "JOB.22.1",
+  "livro": "JOB",
+  "titulo": "Elifaz: reconcilia-te com Deus e terás paz",
+  "secao": "Terceiro ciclo de discursos",
+  "referencia": "Jó 22,1-30",
+  "ini": {
+    "c": 22,
+    "v": 1
+  },
+  "fim": {
+    "c": 22,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "Elifaz: reconcilia-te com Deus e terás paz",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Abre-se o terceiro ciclo. Elifaz começa com uma pergunta teológica: “Porventura pode o homem ser útil a Deus?” De que lhe serve a tua justiça? E, sem provas, inventa os pecados de Jó para salvar a sua teoria: tiraste penhores aos teus irmãos sem motivo, despojaste os nus das suas roupas, negaste água ao cansado e pão ao faminto, mandaste embora as viúvas de mãos vazias e quebraste os braços dos órfãos; por isso estás cercado de laços e de trevas. Acusa-o também de pensar que Deus não vê: “Que sabe Deus? Pode ele julgar por entre as trevas?” Queres seguir o caminho antigo dos ímpios, que diziam a Deus “retira-te de nós”? Depois, um belo apelo à conversão: “Submete-te, pois, a Deus, e terás paz.” Recebe a lei da sua boca, grava as suas palavras no teu coração; se voltares ao Onipotente, serás restaurado. Se lançares o ouro ao pó e o ouro de Ofir entre as pedras da torrente, “o Onipotente será o teu ouro”; porás nele as tuas delícias, levantarás o rosto para Deus; rezarás e ele te ouvirá; a luz brilhará nos teus caminhos. “Porque quem se humilha será glorificado.”",
+    "alegorico": "Ironia do livro: Elifaz diz que Deus salvará até o culpado pela pureza das mãos de outro (v. 30, no hebraico); será exatamente Jó quem intercederá por Elifaz no fim (42,8). É a figura de Cristo, o Justo, por cuja intercessão os culpados são salvos.",
+    "moral": "Elifaz mostra até onde pode chegar quem defende uma teoria a todo custo: inventa pecados que o outro não cometeu. É a calúnia piedosa. Mas o seu apelo final é belíssimo e vale para todos: deixar o ouro e fazer de Deus o próprio tesouro, pôr nele as delícias. A mesma boca pode dizer verdades profundas e injustiças graves.",
+    "anagogico": "“O Onipotente será o teu ouro”: a herança eterna não é um prêmio além de Deus, mas o próprio Deus possuído para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Porventura pode o homem ser útil a Deus?” “Negaste pão ao faminto.” “Que sabe Deus? Pode ele julgar por entre trevas?” “Submete-te, pois, a Deus, e terás paz.” “O Onipotente será o teu ouro.” “Quem se humilha será glorificado.”",
+    "meditatio_perguntas": [
+      "Já atribuí a alguém culpas que não podia provar?",
+      "Deus é o meu “ouro”, ou ainda guardo outros tesouros?",
+      "Ponho em Deus as minhas delícias?"
+    ],
+    "oratio_guia": "Senhor, sê tu o meu ouro e a minha prata brilhante. Livra-me de julgar e caluniar, e faz-me encontrar em ti as minhas delícias. Amém.",
+    "contemplatio_foco": {
+      "texto": "o Omnipotente será o teu ouro, será para ti prata brilhante",
+      "ref": "Jó 22,25"
+    }
+  },
+  "ancoras": {
+    "22:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Elifaz atribui a Jó pecados típicos dos ricos contra os pobres; Jó os negará um a um no cap. 31.",
+        "origem": "ia"
+      }
+    },
+    "22:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ofir, região de ouro famoso (1Rs 9,28), talvez na Arábia meridional.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

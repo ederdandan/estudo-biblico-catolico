@@ -1,0 +1,49 @@
+{
+  "id": "JOB.27.1",
+  "livro": "JOB",
+  "titulo": "Jó mantém a sua integridade",
+  "secao": "Terceiro ciclo de discursos",
+  "referencia": "Jó 27,1-23",
+  "ini": {
+    "c": 27,
+    "v": 1
+  },
+  "fim": {
+    "c": 27,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Enquanto eu viver, defenderei a minha inocência",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jó retoma a palavra solenemente, com um juramento: pelo Deus vivo, que me negou justiça, pelo Onipotente que encheu de amargura a minha alma, “enquanto em mim houver alento, enquanto Deus me conservar a respiração, os meus lábios não dirão nada de injusto, nem a minha língua proferirá mentira”. Longe de mim dar-vos razão; “enquanto eu viver, defenderei a minha inocência… porque o meu coração nada me reprova em toda a minha vida”. Que o meu inimigo seja tratado como ímpio. Qual é a esperança do ímpio quando Deus lhe tira a vida? Ouvirá Deus o seu clamor na angústia? Poderá deleitar-se no Onipotente? Segue uma descrição da sorte do ímpio, semelhante à dos amigos: os seus filhos serão para a espada, os netos não terão pão, as viúvas não chorarão; ainda que amontoe prata como pó e roupas como barro, quem as vestirá é o justo; a sua casa é como a da traça, frágil como a cabana do vigia; deita-se rico e, ao abrir os olhos, já não há nada; o terror o arrasta como inundação, o vento do oriente o leva; todos batem palmas e assobiam sobre ele.",
+    "alegorico": "Jó, que não aceita confessar uma culpa que não tem, é figura de Cristo diante dos seus acusadores: “Quem de vós me acusa de pecado?” (Jo 8,46). A verdade não se negocia nem para obter alívio.",
+    "moral": "Jó prefere sofrer a mentir. Não aceita a falsa confissão que os amigos lhe pedem para “resolver” o problema. É uma lição de integridade: a consciência reta não se vende nem para agradar a Deus com uma humildade falsa. A pergunta sobre o ímpio também é forte: pode ele deleitar-se no Onipotente? A alegria em Deus é o que distingue o justo.",
+    "anagogico": "A esperança do justo não se apaga com a morte, ao passo que a do ímpio termina quando Deus lhe tira a vida. A diferença é decidida pela relação com Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Enquanto em mim houver alento… os meus lábios não dirão nada de injusto.” “Enquanto eu viver, defenderei a minha inocência.” “O meu coração nada me reprova.” “Poderá ele deleitar-se no Onipotente?” “O rico deita-se: é pela última vez.”",
+    "meditatio_perguntas": [
+      "Mantenho a verdade, mesmo quando mentir me aliviaria?",
+      "A minha consciência é reta diante de Deus?",
+      "Encontro em Deus a minha alegria?"
+    ],
+    "oratio_guia": "Senhor, enquanto houver alento em mim, que os meus lábios não digam mentira. Dá-me uma consciência reta e a alegria de me deleitar em ti em todo o tempo. Amém.",
+    "contemplatio_foco": {
+      "texto": "enquanto eu viver, defenderei a minha inocência",
+      "ref": "Jó 27,5"
+    }
+  },
+  "ancoras": {
+    "27:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os vv. 13-23 repetem o tema dos amigos; alguns os atribuem ao terceiro discurso de Sofar, que falta no texto.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

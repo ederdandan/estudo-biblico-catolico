@@ -1,0 +1,49 @@
+{
+  "id": "JOB.26.1",
+  "livro": "JOB",
+  "titulo": "Jó: estas são apenas as orlas dos seus caminhos",
+  "secao": "Terceiro ciclo de discursos",
+  "referencia": "Jó 26,1-14",
+  "ini": {
+    "c": 26,
+    "v": 1
+  },
+  "fim": {
+    "c": 26,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "Estas são apenas as orlas dos seus caminhos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jó responde a Baldad com ironia: como ajudaste o fraco! Como socorreste o braço sem força! Que conselho deste ao ignorante! De quem é o espírito que fala pela tua boca? E então ele próprio entoa um hino à grandeza de Deus, superior ao de Baldad. Diante de Deus tremem os mortos debaixo das águas; o abismo está nu diante dele, a perdição não tem véu. “Ele é que estende o setentrião sobre o vácuo, e o que suspende a terra sobre o nada.” Prende as águas nas nuvens, e as nuvens não se rasgam; cobre a face do seu trono com nuvens; traçou um círculo sobre as águas, no limite entre a luz e as trevas. As colunas do céu tremem à sua ameaça. Com a sua força agita o mar, com a sua sabedoria abate o monstro; o seu sopro clareia os céus, a sua mão traspassa a serpente fugitiva. E conclui com uma frase admirável: “Eis que tudo isto não é senão uma pequena parte das suas obras, e se apenas temos ouvido um leve sussurro da sua palavra, quem poderá compreender o trovão da sua grandeza?”",
+    "alegorico": "A terra suspensa “sobre o nada” evoca a criação a partir do nada (2Mc 7,28). O “sussurro” da palavra de Deus lembra a brisa suave em que Elias encontra o Senhor (1Rs 19,12), e o Verbo que, encarnado, fala em voz humana o que o trovão não podia dizer.",
+    "moral": "Quem conhece um pouco da grandeza de Deus sabe que conhece apenas as orlas dos seus caminhos. Esta humildade intelectual falta aos amigos, que falam de Deus como se o tivessem compreendido. A contemplação da criação leva ao louvor e ao silêncio diante do mistério.",
+    "anagogico": "O que agora é sussurro será um dia trovão: na visão de Deus conheceremos o que agora só entrevemos “como num espelho” (1Cor 13,12)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Que auxílio deste a um fraco!” “Aberto está o inferno diante dele.” “Suspende a terra sobre o nada.” “Com a sua sabedoria doma o monstro.” “Tudo isto não é senão uma pequena parte das suas obras.” “Apenas temos ouvido um leve sussurro da sua palavra.”",
+    "meditatio_perguntas": [
+      "Falo de Deus como se o tivesse compreendido?",
+      "A contemplação da criação me conduz ao louvor?",
+      "Sei escutar o “leve sussurro” da palavra de Deus?"
+    ],
+    "oratio_guia": "Senhor, que suspendes a terra sobre o nada, de ti conheço só as orlas dos teus caminhos. Faz-me escutar o sussurro da tua palavra e adorar com humildade o trovão da tua grandeza. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ele é que estende o setentrião sobre o vácuo, e o que suspende a terra sobre o nada",
+      "ref": "Jó 26,7"
+    }
+  },
+  "ancoras": {
+    "26:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “monstro” (Raab) e a “cobra tortuosa” (v. 13) são símbolos do caos marinho, vencido por Deus na criação.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
