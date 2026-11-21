@@ -1,0 +1,49 @@
+{
+  "id": "SIR.22.1",
+  "livro": "SIR",
+  "titulo": "O preguiçoso e o insensato",
+  "secao": "O domínio de si e a palavra",
+  "referencia": "Eclo 22,1-18",
+  "ini": {
+    "c": 22,
+    "v": 1
+  },
+  "fim": {
+    "c": 22,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "O preguiçoso, o filho mal-educado e o insensato",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio descreve com ironia algumas figuras da desordem. O preguiçoso é como uma pedra suja: todos assobiam de desprezo; é como esterco de bois: quem o toca sacode a mão. O filho mal-educado é a vergonha do pai, e a filha insensata, a sua tristeza; a filha sensata é herança para o marido. Seguem imagens sobre o ensino fora de tempo: “Um discurso fora de propósito é como a música em ocasião de luto.” Os filhos bem educados honram os pais; os soberbos os desonram. “Aquele que ensina o insensato é como o que quer tornar a unir os cacos de um vaso quebrado”; “aquele que fala da sabedoria a um insensato é como o que fala com um homem adormecido, o qual, no fim do discurso, dirá: Quem é este?” E uma reflexão sobre o luto: “Chora pouco sobre o morto, porque ele entrou no descanso; mas a vida criminosa do mau é pior que a morte.” O luto por um morto dura sete dias; pelo insensato e ímpio, todos os dias da sua vida. Não converses muito com o insensato: a areia, o sal e o ferro são mais fáceis de carregar do que ele. A casa bem travejada não se desfaz no terremoto; assim o coração firme não teme.",
+    "alegorico": "O insensato adormecido que pergunta “quem é este?” evoca os discípulos que dormem no Getsêmani (Mt 26,40) e todos os que não reconhecem o Senhor. “Ele entrou no descanso” antecipa a esperança cristã sobre os que morrem no Senhor (Ap 14,13).",
+    "moral": "O texto lembra a responsabilidade da educação e a dificuldade de ensinar quem não quer aprender. Também ensina uma hierarquia surpreendente: pior que a morte do corpo é a morte da alma no pecado. Por isso devemos chorar mais o pecado do que a morte, e construir a vida sobre bases firmes, como casa bem travejada.",
+    "anagogico": "Para o justo, a morte é entrada no repouso; para o ímpio, a verdadeira morte é a separação de Deus. A esperança cristã chora os mortos, mas não como os que não têm esperança (1Ts 4,13)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Um discurso fora de propósito é como a música em ocasião de luto.” “Como o que quer tornar a unir os cacos de um vaso quebrado.” “Chora pouco sobre o morto, porque ele entrou no descanso.” “A vida criminosa do mau é pior que a morte.”",
+    "meditatio_perguntas": [
+      "Sou preguiçoso em algum dever?",
+      "Choro mais a morte do corpo ou a morte da alma no pecado?",
+      "O meu coração está firme como casa bem travejada?"
+    ],
+    "oratio_guia": "Senhor, livra-me da preguiça e da insensatez. Dá descanso aos que morreram em ti e converte os que vivem longe de ti, pois essa é a morte mais triste. Amém.",
+    "contemplatio_foco": {
+      "texto": "Chora pouco sobre o morto, porque ele entrou no descanso",
+      "ref": "Eclo 22,11"
+    }
+  },
+  "ancoras": {
+    "22:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O luto de sete dias era costume em Israel (Gn 50,10; Jt 16,24).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

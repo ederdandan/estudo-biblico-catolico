@@ -1,0 +1,49 @@
+{
+  "id": "SIR.32.1",
+  "livro": "SIR",
+  "titulo": "O banquete: presidir, falar e ouvir",
+  "secao": "A família, a amizade e a vida social",
+  "referencia": "Eclo 32,1-17",
+  "ini": {
+    "c": 32,
+    "v": 1
+  },
+  "fim": {
+    "c": 32,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "O que preside o banquete; fala pouco e com acerto",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Continuam as regras do banquete, agora para quem o preside. “Puseram-te a presidir? Não te ensoberbeças por isso; sê entre os outros como um deles. Tem cuidado deles, e depois disso assenta-te; cumpridas todas as tuas obrigações, põe-te a comer.” Assim terás alegria e receberás a coroa como ornamento. “Fala, tu que és o mais velho, pois é a ti que pertence falar primeiro, mas fala com conhecimento e acerto, e não impeças a música.” Onde não se escuta, não derrames palavras, nem te exibas fora de tempo. Um concerto de música num banquete é como um rubi engastado em ouro. Ao jovem: fala apenas se for necessário; “se fores interrogado duas vezes, tenha concisão a tua resposta”. Resume muito em poucas palavras; sê como quem sabe e se cala. Entre os grandes, não te ponhas a par; onde há anciãos, não fales muito. O relâmpago precede o trovão, e a graça precede o homem modesto. Na hora de sair, não te atrases; volta para casa e ali alegra-te; e por tudo isto bendize o Senhor que te criou e te sacia com os seus bens.",
+    "alegorico": "“Sê entre os outros como um deles” anuncia o Cristo que diz: “Eu estou no meio de vós como aquele que serve” (Lc 22,27), e lava os pés dos discípulos antes da ceia (Jo 13). A ação de graças no fim do banquete prefigura a Eucaristia, “ação de graças”.",
+    "moral": "Quem preside deve servir antes de ser servido e não se exaltar. O mais velho fala, mas com acerto e sem impedir a alegria; o jovem fala pouco e com concisão. A alegria e a música têm o seu lugar. E tudo termina na bênção a Deus, que nos sacia com os seus bens.",
+    "anagogico": "O banquete bem vivido, terminado em louvor, é imagem do banquete eterno, onde o Senhor “se cingirá e servirá” os seus servos (Lc 12,37)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Puseram-te a presidir? Não te ensoberbeças por isso.” “Sê entre os outros como um deles.” “Fala com conhecimento e acerto, e não impeças a música.” “Tenha concisão a tua resposta.” “Bendize o Senhor que te criou.”",
+    "meditatio_perguntas": [
+      "Quando tenho autoridade, sirvo antes de ser servido?",
+      "Falo pouco e com acerto?",
+      "Termino as refeições agradecendo a Deus?"
+    ],
+    "oratio_guia": "Senhor Jesus, que estás no meio de nós como quem serve, ensina-me a presidir servindo, a falar com acerto e a bendizer-te por todos os teus dons. Amém.",
+    "contemplatio_foco": {
+      "texto": "Puseram-te a presidir? Não te ensoberbeças por isso; sê entre os outros como um deles",
+      "ref": "Eclo 32,1"
+    }
+  },
+  "ancoras": {
+    "32:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “presidente do banquete” (symposiarca) era costume grego adotado pelos judeus helenizados.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

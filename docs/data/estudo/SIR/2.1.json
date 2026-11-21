@@ -1,0 +1,49 @@
+{
+  "id": "SIR.2.1",
+  "livro": "SIR",
+  "titulo": "Filho, se entrares no serviço de Deus, prepara-te para a prova",
+  "secao": "A sabedoria e o temor do Senhor",
+  "referencia": "Eclo 2,1-23",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Filho, se entrares no serviço de Deus, prepara a tua alma para a prova",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O autor fala como um pai espiritual: “Meu filho, se entrares no serviço de Deus, persevera firme na justiça e no temor, e prepara a tua alma para a prova.” Humilha o coração e tem paciência; inclina o ouvido e acolhe as palavras sensatas; não te apresses no tempo da adversidade. “Sofre as demoras de Deus; conserva-te unido a Deus, espera pacientemente, para que no fim a tua vida cresça.” Aceita tudo o que te acontecer, sê paciente na humilhação, “porque no fogo se prova o ouro e a prata, e os homens amados de Deus no cadinho da humilhação”. Confia em Deus e ele te ajudará. Segue uma série de exortações aos que temem o Senhor: esperai a sua misericórdia, crede nele, esperai os seus bens, amai-o, e os vossos corações serão iluminados. Olhai as gerações passadas: “ninguém que esperou no Senhor foi confundido”. O Senhor é misericordioso e perdoa os pecados. Ai do coração covarde, das mãos frouxas, do pecador que anda por dois caminhos; ai dos que perderam a paciência! Os que temem o Senhor preparam o coração e se humilham diante dele, dizendo: “Se não fizermos penitência, cairemos nas mãos do Senhor, e não nas mãos dos homens; porque, como é a sua grandeza, assim é a sua misericórdia.”",
+    "alegorico": "A prova que purifica como o ouro no fogo é retomada por São Pedro: a fé provada “mais preciosa que o ouro provado pelo fogo” (1Pd 1,6-7). Cristo, provado em tudo, permaneceu unido ao Pai na Paixão e “no fim” a sua vida cresceu na Ressurreição.",
+    "moral": "Quem começa a servir a Deus não deve esperar uma vida sem dificuldades, mas preparar-se para a prova. A perseverança e a paciência com as “demoras de Deus” são essenciais. E a última frase é consoladora: é melhor cair nas mãos de Deus que nas dos homens, porque a sua misericórdia é tão grande quanto a sua majestade.",
+    "anagogico": "“Para que no fim a tua vida cresça”: a prova paciente prepara a plenitude da vida eterna, onde nenhum dos que esperaram no Senhor será confundido."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Meu filho, se entrares no serviço de Deus… prepara a tua alma para a prova.” “Sofre as demoras de Deus.” “No fogo se prova o ouro e a prata.” “Ninguém que esperou no Senhor foi confundido.” “Cairemos nas mãos do Senhor, e não nas mãos dos homens.” “Como é a sua grandeza, assim é a sua misericórdia.”",
+    "meditatio_perguntas": [
+      "Estou preparado para a prova no serviço de Deus?",
+      "Como suporto as “demoras de Deus”?",
+      "Confio que a misericórdia de Deus é tão grande quanto a sua grandeza?"
+    ],
+    "oratio_guia": "Senhor, quando me provares, faz-me perseverar unido a ti. Dá-me paciência nas tuas demoras e confiança na tua misericórdia, tão grande quanto a tua majestade. Amém.",
+    "contemplatio_foco": {
+      "texto": "Meu filho, se entrares no serviço de Deus, persevera firme na justiça e no temor, e prepara a tua alma para a prova",
+      "ref": "Eclo 2,1"
+    }
+  },
+  "ancoras": {
+    "2:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Eco de 2Sm 24,14, quando Davi prefere cair nas mãos de Deus.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

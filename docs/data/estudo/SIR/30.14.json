@@ -1,0 +1,49 @@
+{
+  "id": "SIR.30.14",
+  "livro": "SIR",
+  "titulo": "A saúde e a alegria do coração",
+  "secao": "A família, a amizade e a vida social",
+  "referencia": "Eclo 30,14-27",
+  "ini": {
+    "c": 30,
+    "v": 14
+  },
+  "fim": {
+    "c": 30,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "A saúde e a alegria do coração; afasta a tristeza",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio celebra a saúde e a alegria. “Um pobre são e cheio de força vale mais do que um rico fraco e atormentado de doenças. A saúde da alma, na santidade da justiça, vale mais do que todo o ouro e prata; um corpo robusto vale mais do que imensos bens. Não há riqueza maior do que a saúde do corpo, nem contentamento igual à alegria do coração.” Melhor a morte que uma vida amarga, o repouso eterno que a doença sem fim. Os bens oferecidos a quem não pode comer são como iguarias postas sobre um túmulo, ou como oferendas a um ídolo que não come nem cheira. E vem um apelo contra a tristeza: “Não abandones a tua alma à tristeza, e não te aflijas a ti mesmo nos teus pensamentos. O júbilo do coração é a vida do homem e um tesouro inexaurível de santidade; a alegria do homem prolonga a sua vida. Tem piedade da tua alma, procurando agradar a Deus… e afugenta para longe de ti a tristeza. Com efeito, a tristeza tem matado a muitos, e não há utilidade nela. A inveja e a ira abreviam os dias, e os afãs fazem chegar a velhice antes do tempo.”",
+    "alegorico": "A alegria do coração é fruto do Espírito (Gl 5,22). Paulo exorta: “Alegrai-vos sempre no Senhor” (Fl 4,4), e distingue a tristeza segundo Deus, que leva à conversão, da tristeza do mundo, que produz a morte (2Cor 7,10).",
+    "moral": "A saúde do corpo e da alma é um bem precioso, e a alegria tem algo de santo. Cuidar de si não é egoísmo: é ter “piedade da própria alma”. A tristeza cultivada, a inveja, a ira e a ansiedade envelhecem e matam. O sábio ensina a afastar a tristeza procurando agradar a Deus.",
+    "anagogico": "A alegria do coração, “tesouro inexaurível de santidade”, antecipa a alegria plena que ninguém nos tirará (Jo 16,22)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não há riqueza maior do que a saúde do corpo, nem contentamento igual à alegria do coração.” “Não abandones a tua alma à tristeza.” “O júbilo do coração é a vida do homem.” “Afugenta para longe de ti a tristeza.” “Os afans fazem chegar a velhice antes do tempo.”",
+    "meditatio_perguntas": [
+      "Cuido da saúde do corpo e da alma?",
+      "Deixo-me dominar pela tristeza, pela inveja ou pela ansiedade?",
+      "Onde encontro a alegria verdadeira?"
+    ],
+    "oratio_guia": "Senhor, obrigado pela saúde e pela alegria. Afasta de mim a tristeza que mata, a inveja e a ansiedade, e dá-me o júbilo do coração que vem de te agradar. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não abandones a tua alma à tristeza, e não te aflijas a ti mesmo nos teus pensamentos",
+      "ref": "Eclo 30,22"
+    }
+  },
+  "ancoras": {
+    "30:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Crítica às oferendas de alimentos aos mortos e aos ídolos; cf. Br 6,26.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

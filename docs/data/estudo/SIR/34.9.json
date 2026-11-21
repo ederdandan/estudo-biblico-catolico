@@ -1,0 +1,49 @@
+{
+  "id": "SIR.34.9",
+  "livro": "SIR",
+  "titulo": "A experiência; feliz a alma que teme o Senhor",
+  "secao": "O culto, a oração e o conselho",
+  "referencia": "Eclo 34,9-20",
+  "ini": {
+    "c": 34,
+    "v": 9
+  },
+  "fim": {
+    "c": 34,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "Que sabe quem não foi provado? Bem-aventurada a alma que teme o Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio fala da experiência, fruto das provas. “Que sabe aquele que não foi provado? O homem experimentado em muitas coisas tem muitos pensamentos; o que aprendeu muito fala com sabedoria.” Quem não tem experiência pouco sabe. “Que sabe aquele que não foi tentado?” O autor fala de si: viu muitas coisas nas suas viagens, e muitas vezes correu perigo de morte, mas foi salvo pela graça de Deus. Então canta a segurança dos que temem a Deus: “O espírito daqueles que temem a Deus será procurado… a sua esperança está posta naquele que os salva, e os olhos de Deus estão sobre os que o amam. Aquele que teme o Senhor de nada tremerá, e não terá pavor algum, porque ele mesmo é a sua esperança. Bem-aventurada a alma daquele que teme o Senhor.” A quem olha ele? Quem é a sua força? “Os olhos do Senhor estão sobre os que o temem; ele é um protetor poderoso, um esteio forte, um abrigo contra o calor, uma proteção contra o ardor do meio-dia”, amparo contra a queda, socorro no tropeço; eleva a alma, ilumina os olhos, dá saúde, vida e bênção.",
+    "alegorico": "Cristo, “provado em tudo como nós, exceto no pecado” (Hb 4,15), sabe compadecer-se dos que são provados. O Salmo 90 canta a mesma proteção: “à sombra do Altíssimo… não temerás”. O temor de Deus liberta de todos os outros temores.",
+    "moral": "As provas e tentações não são só sofrimento: formam a sabedoria e a experiência. O sábio que passou por perigos reconhece neles a graça de Deus. E o temor de Deus é paradoxalmente o fim do medo: quem teme a Deus não teme mais nada, porque o próprio Deus é a sua esperança.",
+    "anagogico": "Deus, “abrigo contra o calor”, será para sempre o refúgio dos que o temem: “não terão fome nem sede, nem os atingirá o calor” (Ap 7,16)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Que sabe aquele que não foi provado?” “Os olhos de Deus estão sobre os que o amam.” “Aquele que teme o Senhor de nada tremerá.” “Bem-aventurada a alma daquele que teme o Senhor.” “Um abrigo contra o calor, uma protecção contra o ardor do meio-dia.”",
+    "meditatio_perguntas": [
+      "Que sabedoria as minhas provas me deram?",
+      "Reconheço a graça de Deus nos perigos de que escapei?",
+      "O temor de Deus me liberta dos outros medos?"
+    ],
+    "oratio_guia": "Senhor, abrigo contra o calor e amparo na queda, obrigado por me teres salvo tantas vezes. Que o teu temor me liberte de todo medo, porque tu és a minha esperança. Amém.",
+    "contemplatio_foco": {
+      "texto": "Aquele que teme o Senhor de nada tremerá, e não terá pavor algum, porque ele mesmo é a sua esperança",
+      "ref": "Eclo 34,16"
+    }
+  },
+  "ancoras": {
+    "34:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Testemunho autobiográfico do autor sobre as suas viagens e perigos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "SIR.3.31",
+  "livro": "SIR",
+  "titulo": "A esmola apaga o pecado; não voltes o rosto ao pobre",
+  "secao": "Os pais, os pobres e a sabedoria",
+  "referencia": "Eclo 3,31–4,11",
+  "ini": {
+    "c": 3,
+    "v": 31
+  },
+  "fim": {
+    "c": 4,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "A água apaga o fogo, e a esmola resiste aos pecados",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Começa um ensinamento sobre a caridade com os pobres. “A água apaga o fogo ardente, e a esmola resiste aos pecados.” Deus vê quem pratica a misericórdia e se lembra dele; no tempo da queda ele encontrará apoio. Seguem conselhos concretos: “Filho, não prives o pobre da sua esmola, não apartes dele os teus olhos.” Não desprezes quem tem fome, não exasperes o pobre na sua necessidade, não aflijas o coração do desventurado, não adies a esmola ao necessitado, não rejeites a súplica do atribulado, não voltes o rosto ao pobre. Porque, se o pobre te amaldiçoar na amargura da alma, quem o criou ouvirá a sua oração. Sê afável na assembleia dos pobres, humilha-te diante do ancião, inclina a cabeça diante do grande. “Aplica o teu ouvido ao pobre, sem enfado”, paga a tua dívida e responde-lhe com mansidão. Livra o oprimido da mão do soberbo; quando julgares, não sejas pusilânime. “Sê misericordioso com os órfãos como um pai, e como um marido para com a sua mãe; e serás como um filho obediente do Altíssimo, que se compadecerá de ti mais do que uma mãe.”",
+    "alegorico": "A esmola que “apaga” os pecados é retomada em Tobias (Tb 12,9), em Daniel (Dn 4,24) e em São Pedro: “a caridade cobre uma multidão de pecados” (1Pd 4,8). Cristo se identifica com o pobre: o que fazemos a ele, fazemos a Cristo (Mt 25,40). A imagem de Deus que ama “mais do que uma mãe” prepara a revelação da ternura do Pai.",
+    "moral": "A caridade não é só dar coisas, mas olhar, escutar, não voltar o rosto, responder com mansidão. A pior ofensa ao pobre é a indiferença. O texto lembra que Deus ouve o clamor do pobre ferido. E promete: quem é pai para o órfão será tratado por Deus com amor maior que o de uma mãe.",
+    "anagogico": "Deus se lembrará no futuro de quem praticou a misericórdia: no juízo, os misericordiosos alcançarão misericórdia (Mt 5,7)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A água apaga o fogo ardente, e a esmola resiste aos pecados.” “Não apartes dele os teus olhos.” “Não voltes a cara ao pobre.” “Aplica o teu ouvido ao pobre, sem enfado.” “Sê misericordioso com os órfãos como um pai.” “Que se compadecerá de ti, mais do que uma mãe.”",
+    "meditatio_perguntas": [
+      "Desvio os olhos do pobre que encontro?",
+      "Escuto os pobres sem enfado?",
+      "Pratico a esmola como caminho de conversão?"
+    ],
+    "oratio_guia": "Senhor, que amas mais do que uma mãe, abre os meus olhos e os meus ouvidos aos pobres. Que a minha esmola apague os meus pecados e que eu seja pai dos órfãos e amigo dos aflitos. Amém.",
+    "contemplatio_foco": {
+      "texto": "A água apaga o fogo ardente, e a esmola resiste aos pecados",
+      "ref": "Eclo 3,33"
+    }
+  },
+  "ancoras": {
+    "3:33": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração grega, 3,30. A esmola, no judaísmo, é chamada tsedaqah, “justiça”.",
+        "origem": "ia"
+      }
+    },
+    "4:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A oração do pobre ofendido é ouvida por Deus: cf. Ex 22,22-23.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

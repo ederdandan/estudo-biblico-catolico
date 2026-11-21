@@ -1,0 +1,57 @@
+{
+  "id": "SIR.51.18",
+  "livro": "SIR",
+  "titulo": "A busca da sabedoria desde a juventude",
+  "secao": "Epílogo",
+  "referencia": "Eclo 51,18-38",
+  "ini": {
+    "c": 51,
+    "v": 18
+  },
+  "fim": {
+    "c": 51,
+    "v": 38
+  },
+  "liturgia": {
+    "tema_central": "Desde a juventude busquei a sabedoria",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A segunda oração é um poema autobiográfico, em forma acróstica no hebraico, sobre a busca da sabedoria. “Quando eu ainda era jovem, antes de andar errante, busquei abertamente a sabedoria com a minha oração. Diante do templo eu a pedia, e buscá-la-ei até ao fim da minha vida. Ela floresceu em mim como uva temporã; o meu coração alegrou-se nela; os meus pés andaram por caminho direito; desde a minha mocidade tenho ido em seguimento dela.” Inclinou um pouco o ouvido e a recebeu; fez progressos nela. “Ao que me deu a sabedoria, dar-lhe-ei glória.” Decidiu praticá-la, foi zeloso do bem; lutou por ela; “levantei as minhas mãos ao alto, e chorei a loucura da minha alma”. Dirigiu a alma para ela e a encontrou na pureza. “O Senhor deu-me em recompensa uma língua eloquente; com ela o louvarei.” E faz o convite final, como mestre que abre a sua escola: “Aproximai-vos de mim, ignorantes, e reuni-vos na casa da instrução.” Por que vos falta isto, e as vossas almas têm tanta sede? “Submetei o vosso pescoço ao seu jugo, e receba a vossa alma a instrução, porque perto se pode encontrá-la. Vede com os vossos olhos o pouco que trabalhei, e como adquiri muito descanso.” Adquiri a instrução com muito dinheiro e possuireis por ela muito ouro. “Realizai a vossa obra, antes que passe o tempo, e ele vos dará a seu tempo a vossa recompensa.”",
+    "alegorico": "O convite “submetei o pescoço ao seu jugo… e adquiri muito descanso” é retomado quase literalmente por Jesus: “Tomai sobre vós o meu jugo… e achareis descanso para as vossas almas” (Mt 11,29). Cristo, Sabedoria encarnada, abre a verdadeira “casa da instrução” a todos os pequenos.",
+    "moral": "A sabedoria se busca desde a juventude, na oração, e até o fim da vida. Exige luta, pureza de coração, lágrimas sobre a própria loucura. Mas o esforço é pequeno comparado ao descanso que ela dá. O livro termina com urgência: fazer a obra agora, “antes que passe o tempo”.",
+    "anagogico": "“Ele vos dará a seu tempo a vossa recompensa”: a busca da sabedoria termina no descanso eterno, onde a Sabedoria se dará plenamente aos que a amaram."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quando eu ainda era jovem… busquei abertamente a sabedoria com a minha oração.” “Buscá-la-ei até ao fim da minha vida.” “Ela floresceu em mim como uva temporã.” “Submetei o vosso pescoço ao seu jugo.” “Vede… o pouco que trabalhei, e como adquiri muito descanso.” “Realizai a vossa obra, antes que passe o tempo.”",
+    "meditatio_perguntas": [
+      "Busco a sabedoria na oração, como o autor desde a juventude?",
+      "Aceito o “jugo” de Cristo, que dá descanso?",
+      "Que obra preciso realizar antes que passe o tempo?"
+    ],
+    "oratio_guia": "Senhor Jesus, Sabedoria do Pai, desde hoje quero buscar-te até o fim da vida. Ponho o meu pescoço sob o teu jugo suave; dá-me o teu descanso e faz-me realizar a minha obra enquanto é tempo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Quando eu ainda era jovem, antes de andar errante, busquei abertamente a sabedoria com a minha oração",
+      "ref": "Eclo 51,18"
+    }
+  },
+  "ancoras": {
+    "51:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Poema acróstico, encontrado em hebraico no rolo dos Salmos de Qumran (11QPsa).",
+        "origem": "ia"
+      }
+    },
+    "51:34": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Mt 11,28-30.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

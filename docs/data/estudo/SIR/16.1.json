@@ -1,0 +1,49 @@
+{
+  "id": "SIR.16.1",
+  "livro": "SIR",
+  "titulo": "Mais vale um filho temente a Deus; a misericórdia e a ira",
+  "secao": "Deus, o homem e a misericórdia",
+  "referencia": "Eclo 16,1-15",
+  "ini": {
+    "c": 16,
+    "v": 1
+  },
+  "fim": {
+    "c": 16,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "Mais vale um filho temente a Deus que mil ímpios",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio contrasta a quantidade com a qualidade: “Não te regozijes com ter muitos filhos, se são ímpios… porque mais vale um filho temente a Deus do que mil filhos ímpios. É mais útil morrer sem filhos do que deixar filhos ímpios.” Um único homem sensato povoa uma cidade, mas uma tribo de ímpios a desertifica. O autor recorda exemplos da história: o fogo se acende na assembleia dos pecadores; os gigantes antigos, confiados na força, não pediram perdão; Deus não poupou a cidade de Ló por causa da soberba; exterminou os povos de Canaã; destruiu os seiscentos mil que se rebelaram no deserto. Então formula uma verdade sobre Deus: “a misericórdia e a ira estão sempre com ele; é poderoso para perdoar, e também o é para derramar a sua ira; os seus castigos igualam a sua misericórdia, julga o homem segundo as suas obras”. O pecador não escapará com o seu roubo, e a paciência do justo não ficará sem recompensa; toda obra de misericórdia terá o seu lugar.",
+    "alegorico": "A Igreja reconhece em Cristo a união perfeita de misericórdia e justiça: na cruz, Deus é justo e justificador (Rm 3,26). A fecundidade espiritual, mais importante que a numérica, se realiza na Igreja, mãe de filhos nascidos “não do sangue, mas de Deus” (Jo 1,13).",
+    "moral": "O valor de uma família, de uma comunidade, de um país não está no número, mas na fidelidade a Deus. Isso vale para a educação dos filhos e para a vida da Igreja. E a imagem de Deus é equilibrada: misericordioso e justo, perdoa e julga; não podemos abusar da sua paciência.",
+    "anagogico": "“Toda a misericórdia preparará a cada um o seu lugar”: no juízo, cada obra receberá a sua medida, e a paciência do justo será recompensada."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Mais vale um filho temente a Deus, do que mil filhos ímpios.” “Por um só homem de juízo será povoado um país.” “A misericórdia e a ira estão sempre com ele.” “É poderoso para perdoar.” “Julga o homem segundo as suas obras.”",
+    "meditatio_perguntas": [
+      "Dou mais valor à quantidade ou à qualidade, na família e na comunidade?",
+      "Educo os filhos no temor de Deus?",
+      "Vivo a confiança na misericórdia sem perder o temor da justiça?"
+    ],
+    "oratio_guia": "Senhor, poderoso para perdoar e justo no julgar, dá-nos filhos e discípulos que te temam. Que eu não abuse da tua paciência, mas confie na tua misericórdia. Amém.",
+    "contemplatio_foco": {
+      "texto": "porque mais vale um (filho) temente a Deus, do que mil filhos ímpios",
+      "ref": "Eclo 16,3"
+    }
+  },
+  "ancoras": {
+    "16:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os “gigantes antigos” aludem a Gn 6,4; a cidade de Ló, a Sodoma (Gn 19); os 600 mil, aos israelitas mortos no deserto (Nm 14).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

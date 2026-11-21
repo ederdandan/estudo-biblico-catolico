@@ -1,0 +1,57 @@
+{
+  "id": "SIR.1.1",
+  "livro": "SIR",
+  "titulo": "Toda a sabedoria vem do Senhor",
+  "secao": "A sabedoria e o temor do Senhor",
+  "referencia": "Eclo 1,1-10",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "Toda a sabedoria vem do Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O livro de Jesus, filho de Sirac, sábio de Jerusalém do início do século II a.C., abre com uma afirmação que é a chave de toda a obra: “Toda a sabedoria vem do Senhor Deus, e com ele esteve sempre e existe antes de todos os séculos.” Seguem perguntas que medem a pequenez humana: quem pode contar a areia do mar, as gotas da chuva, os dias do tempo? Quem mede a altura do céu, a extensão da terra, a profundidade do abismo? Quem penetra a sabedoria de Deus, que precede todas as coisas? A sabedoria foi criada antes de tudo; na tradução latina, “a fonte da sabedoria é o Verbo de Deus nos céus, e os seus caminhos são os mandamentos eternos”. A quem foi revelada a sua raiz? Só um é sábio, o Altíssimo, Criador onipotente, rei temível, sentado no seu trono. Foi ele que a criou, a viu, a contou e a mediu; e “a difundiu por todas as suas obras e por toda a carne, segundo a medida da sua liberalidade, e a comunicou aos que o amam”. A sabedoria não é conquista humana, mas dom que Deus espalha na criação e concede de modo especial a quem o ama.",
+    "alegorico": "A Sabedoria que existe antes dos séculos, criada “no Espírito Santo” segundo a Vulgata, e cuja fonte é “o Verbo de Deus nos céus”, foi lida pelos Padres como anúncio de Cristo, Sabedoria eterna do Pai, “por quem tudo foi feito” (Jo 1,3; 1Cor 1,24). Derramada sobre toda carne, prefigura o dom do Espírito em Pentecostes.",
+    "moral": "Se toda sabedoria vem de Deus, a atitude do sábio é a humildade e o pedido. As perguntas sobre a areia e as gotas de chuva educam para o reconhecimento dos limites. E a sabedoria é dada “aos que o amam”: o caminho para ela não é só o estudo, mas o amor a Deus e a obediência aos seus mandamentos.",
+    "anagogico": "A sabedoria que agora recebemos em medida será plena na visão de Deus, onde conheceremos a sua fonte face a face."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Toda a sabedoria vem do Senhor Deus.” “A areia do mar, as gotas da chuva e os dias do tempo, quem os pode contar?” “A fonte da sabedoria é o Verbo de Deus nos céus.” “Ele a difundiu por todas as suas obras… e a comunicou aos que o amam.”",
+    "meditatio_perguntas": [
+      "Peço a Deus a sabedoria, ou confio só na minha inteligência?",
+      "Reconheço a sabedoria de Deus espalhada nas suas obras?",
+      "Amo a Deus, condição para receber a sua sabedoria?"
+    ],
+    "oratio_guia": "Senhor, fonte de toda sabedoria, que a derramas sobre os que te amam, dá-me um coração que te ame e acolha a tua luz. Que eu reconheça em todas as tuas obras a tua sabedoria. Amém.",
+    "contemplatio_foco": {
+      "texto": "Toda a sabedoria vem do Senhor Deus, e com ele esteve sempre e existe antes de todos os séculos",
+      "ref": "Eclo 1,1"
+    }
+  },
+  "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O texto grego tem um prólogo do neto do autor, que traduziu a obra no Egito por volta de 132 a.C.; a numeração de Matos Soares segue a Vulgata, mais longa que o grego em vários pontos.",
+        "origem": "ia"
+      }
+    },
+    "1:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Este versículo existe só em parte da tradição grega e na Vulgata.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

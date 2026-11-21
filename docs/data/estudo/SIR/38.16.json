@@ -1,0 +1,49 @@
+{
+  "id": "SIR.38.16",
+  "livro": "SIR",
+  "titulo": "O luto pelos mortos",
+  "secao": "O culto, a oração e o conselho",
+  "referencia": "Eclo 38,16-24",
+  "ini": {
+    "c": 38,
+    "v": 16
+  },
+  "fim": {
+    "c": 38,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "O luto pelos mortos: hoje para mim, amanhã para ti",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio ensina como viver o luto. “Filho, derrama lágrimas sobre o morto, põe-te a chorar como quem recebeu um rude golpe; enterra o seu corpo segundo o costume, e não desprezes a sua sepultura.” Chora amargamente, faz o luto conforme a dignidade do morto, um dia ou dois, para evitar a maledicência, “e depois consola-te da tua tristeza”, porque a tristeza leva à morte e abate as forças; a tristeza do coração faz curvar a cabeça. Não entregues o teu coração à tristeza: afasta-a e lembra-te do teu fim. “Não te esqueças dele, porque não há retorno; em nada aproveitarás ao morto, e a ti mesmo farás um grave dano.” E o morto fala: “Lembra-te da minha sorte: a tua será semelhante; ontem para mim, hoje para ti.” “No repouso do morto deixa descansar a sua memória; e consola-o ao exalar o último suspiro.”",
+    "alegorico": "Jesus chorou diante do túmulo de Lázaro (Jo 11,35): as lágrimas pelo morto são santificadas. Mas Paulo pede que não nos entristeçamos “como os que não têm esperança” (1Ts 4,13). A Igreja guarda o costume de honrar a sepultura e rezar pelos defuntos (2Mc 12,43-46).",
+    "moral": "O luto é necessário e humano: chorar, honrar o corpo, cuidar da sepultura. Mas não deve tornar-se tristeza sem fim que destrói quem fica. O sábio pede equilíbrio: chorar e depois consolar-se. E a morte dos outros nos lembra a nossa: “ontem para mim, hoje para ti”.",
+    "anagogico": "O cristão olha a morte à luz da ressurreição: o “não há retorno” do sábio é superado pela promessa de Cristo, “eu sou a ressurreição e a vida” (Jo 11,25)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Filho, derrama lágrimas sobre o morto.” “Não desprezes a sua sepultura.” “Depois consola-te da tua tristeza.” “Ontem para mim, hoje para ti.” “No repouso do morto deixa descansar a sua memória.”",
+    "meditatio_perguntas": [
+      "Como vivo o luto pelos que perdi?",
+      "A tristeza me fecha à vida, ou consigo consolar-me na esperança?",
+      "Rezo pelos meus mortos?"
+    ],
+    "oratio_guia": "Senhor, que choraste por Lázaro, consola os que estão de luto. Dá descanso eterno aos nossos mortos e faz-nos lembrar, com serenidade, do nosso fim. Amém.",
+    "contemplatio_foco": {
+      "texto": "Lembra-te da minha sorte (te dirá o morto): a tua será semelhante; ontem para mim, hoje para ti",
+      "ref": "Eclo 38,23"
+    }
+  },
+  "ancoras": {
+    "38:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Frase tornada inscrição frequente em cemitérios: “Hodie mihi, cras tibi”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

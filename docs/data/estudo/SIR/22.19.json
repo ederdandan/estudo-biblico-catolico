@@ -1,0 +1,49 @@
+{
+  "id": "SIR.22.19",
+  "livro": "SIR",
+  "titulo": "Firmeza de coração; fidelidade ao amigo",
+  "secao": "O domínio de si e a palavra",
+  "referencia": "Eclo 22,19-32",
+  "ini": {
+    "c": 22,
+    "v": 19
+  },
+  "fim": {
+    "c": 22,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "Permanece fiel ao teu amigo na sua pobreza",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio retoma o tema da amizade. Quem fere o olho faz brotar lágrimas; quem fere o coração faz brotar o sentimento. Quem atira uma pedra aos pássaros os espanta; quem ofende o amigo desfaz a amizade. Ainda que tenhas tirado a espada contra o amigo, não desesperes: pode haver volta. Se abriste a boca contra ele com palavras duras, não temas: há reconciliação. Mas há coisas que afastam todo amigo: o ultraje, a soberba, a revelação de um segredo e o golpe traiçoeiro. Daí o conselho de fidelidade: “Permanece fiel ao teu amigo na sua pobreza, para que também te alegres com ele nas suas prosperidades. Conserva-te fiel a ele no tempo da sua tribulação, para que tenhas parte com ele na sua herança.” O fumo do forno precede o fogo; assim as injúrias precedem o sangue. Não terei vergonha de saudar o amigo nem me esconderei dele; e, se me vier mal por causa dele, suportá-lo-ei.",
+    "alegorico": "Rute, que permanece com Noemi na pobreza (Rt 1,16), e Jónatas, fiel a Davi na perseguição (1Sm 20), ilustram esta amizade. Cristo foi fiel aos seus até o fim (Jo 13,1), e pede que não o deixemos na hora da tribulação: “Ficai aqui e vigiai comigo” (Mt 26,38).",
+    "moral": "Feridas na amizade podem ser curadas, mesmo palavras duras. Mas a traição, a revelação de segredos e o desprezo a destroem. A fidelidade se prova na pobreza e na tribulação do amigo: estar presente quando ele nada tem a oferecer é o verdadeiro sinal do amor.",
+    "anagogico": "“Para que tenhas parte com ele na sua herança”: quem permanece fiel a Cristo na sua paixão terá parte na sua glória (Rm 8,17)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quem ofende o amigo desfaz a amizade.” “Não desesperes, porque pode haver volta.” “Permanece fiel ao teu amigo na sua pobreza.” “Conserva-te fiel a ele no tempo da sua tribulação.” “Não terei vergonha de saudar o amigo.”",
+    "meditatio_perguntas": [
+      "Fico ao lado dos amigos na pobreza e na tribulação?",
+      "Guardo os segredos que me confiam?",
+      "Busco a reconciliação depois de uma ofensa?"
+    ],
+    "oratio_guia": "Senhor, fiel até o fim, faz-me fiel aos meus amigos na pobreza e na dor. Que eu nunca traia um segredo e saiba buscar a reconciliação. Amém.",
+    "contemplatio_foco": {
+      "texto": "Permanece fiel ao teu amigo na sua pobreza, para que também te alegres com ele nas suas prosperidades",
+      "ref": "Eclo 22,28"
+    }
+  },
+  "ancoras": {
+    "22:27": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O segredo revelado é, para o sábio, ferida quase incurável na amizade (cf. Eclo 27,17-24).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

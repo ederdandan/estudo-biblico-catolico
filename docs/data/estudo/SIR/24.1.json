@@ -1,0 +1,65 @@
+{
+  "id": "SIR.24.1",
+  "livro": "SIR",
+  "titulo": "A sabedoria faz o seu próprio elogio",
+  "secao": "O elogio da sabedoria",
+  "referencia": "Eclo 24,1-31",
+  "ini": {
+    "c": 24,
+    "v": 1
+  },
+  "fim": {
+    "c": 24,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "A Sabedoria faz o seu próprio elogio",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No centro do livro, a própria Sabedoria toma a palavra, no meio da assembleia do Altíssimo. “Eu saí da boca do Altíssimo, primogénita antes de todas as criaturas.” Fez nascer nos céus uma luz que não se apaga e cobriu a terra como névoa; habitou nas alturas, com o trono sobre uma coluna de nuvem; percorreu o céu e o abismo, as ondas do mar e toda a terra, e buscou entre os povos um lugar de repouso. “Então o Criador de tudo deu-me os seus preceitos… aquele que me criou descansou no meu tabernáculo”, e disse-lhe: habita em Jacó, toma Israel por herança. “Eu fui criada desde o princípio, antes dos séculos, e não deixarei de existir até ao fim dos séculos”; serviu diante dele na morada santa, fixou-se em Sião, em Jerusalém, a cidade amada. “Deitei raízes no meio dum povo glorioso.” Segue uma cascata de imagens vegetais e de perfumes: cresceu como o cedro do Líbano, o cipreste de Sião, a palmeira de Cades, as roseiras de Jericó, a oliveira formosa; perfumou como cinamomo, bálsamo, mirra e incenso; estendeu os ramos como o terebinto, deu frutos como a videira. “Eu sou a mãe do amor formoso, do temor, da ciência e da santa esperança.” E convida: “Vinde a mim todos os que me desejais, e enchei-vos dos meus frutos… Aqueles que me comem terão ainda fome, e os que me bebem terão ainda sede.”",
+    "alegorico": "Esta página é a grande profecia da Encarnação: a Sabedoria que sai da boca do Altíssimo e arma a sua tenda em Israel é o Verbo que “se fez carne e habitou entre nós” (Jo 1,14, literalmente “armou a sua tenda”). A liturgia aplica-a também à Virgem Maria, “mãe do amor formoso” e trono da Sabedoria, nas suas festas. O convite “vinde a mim” ecoa em Mt 11,28 e no pão da vida (Jo 6,35).",
+    "moral": "A Sabedoria não é ideia abstrata: procura um lugar para morar, uma comunidade, um coração. Quem a acolhe experimenta uma fome que cresce ao ser saciada: quanto mais se prova Deus, mais se deseja. A pergunta é se lhe oferecemos lugar de repouso na nossa vida.",
+    "anagogico": "A Sabedoria que existe “até ao fim dos séculos” e enraizada “na assembleia dos santos” aponta para a Jerusalém celeste, onde Deus fará a sua morada com os homens (Ap 21,3) e a fome e a sede de Deus serão saciadas sem fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu saí da boca do Altíssimo, primogénita antes de todas as criaturas.” “Aquele que me criou descansou no meu tabernáculo.” “Deitei raízes no meio dum povo glorioso.” “Eu sou a mãe do amor formoso, do temor, da ciência e da santa esperança.” “Vinde a mim todos os que me desejais.” “Aqueles que me comem terão ainda fome.”",
+    "meditatio_perguntas": [
+      "Ofereço à Sabedoria de Deus um lugar de repouso na minha vida?",
+      "Sinto fome e sede de Deus que crescem ao ser saciadas?",
+      "Como reconheço em Cristo e em Maria esta Sabedoria que arma a sua tenda?"
+    ],
+    "oratio_guia": "Sabedoria eterna, Verbo do Pai que armaste a tua tenda entre nós, vem habitar em mim. Faz-me ter fome e sede de ti, e por Maria, mãe do amor formoso, ensina-me o temor, a ciência e a santa esperança. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu sou a mãe do amor formoso, do temor, da ciência e da santa esperança",
+      "ref": "Eclo 24,24"
+    }
+  },
+  "ancoras": {
+    "24:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Pr 8,22-31 e Sb 7,22-8,1, os outros grandes textos sobre a Sabedoria personificada.",
+        "origem": "ia"
+      }
+    },
+    "24:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto lido na liturgia do Natal (2º Domingo depois do Natal) com o prólogo de João.",
+        "origem": "ia"
+      }
+    },
+    "24:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O v. 24 existe na Vulgata, não no grego; a liturgia o aplica a Maria.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

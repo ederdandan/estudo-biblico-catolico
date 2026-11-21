@@ -1,0 +1,49 @@
+{
+  "id": "SIR.10.22",
+  "livro": "SIR",
+  "titulo": "A verdadeira honra é o temor de Deus",
+  "secao": "Conselhos para a vida",
+  "referencia": "Eclo 10,22-34",
+  "ini": {
+    "c": 10,
+    "v": 22
+  },
+  "fim": {
+    "c": 10,
+    "v": 34
+  },
+  "liturgia": {
+    "tema_central": "Ninguém é tão grande como aquele que teme a Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio reflete sobre a verdadeira honra. A descendência do que teme a Deus será honrada; a do que transgride os mandamentos, desonrada. Entre irmãos, honra-se o chefe; diante do Senhor, os que o temem. “A glória dos ricos, dos nobres e dos pobres é o temor de Deus.” “Não desprezes o homem justo, ainda que pobre, e não glorifiques o pecador, ainda que rico.” O grande, o juiz e o poderoso recebem honra, “porém ninguém é tão grande como aquele que teme a Deus”. Homens livres servirão o servo sábio, e o homem instruído não murmura. Não te gabes do teu trabalho nem te entregues à preguiça; mais vale quem trabalha e tem de tudo do que o orgulhoso que não tem pão. “Filho, conserva a tua alma na mansidão, e dá-lhe a honra que ela merece.” Quem justificará quem peca contra si mesmo? O pobre é honrado pela sua ciência e pelo seu temor; o rico, pela sua riqueza. Mas quem é honrado na pobreza, quanto mais o seria na riqueza.",
+    "alegorico": "A inversão de valores, em que o pobre justo vale mais que o rico pecador, é anunciada nas bem-aventuranças (Lc 6,20-26). Cristo, pobre e servo, é o “servo sábio” a quem os livres servirão, o Senhor que se fez escravo (Fl 2,7).",
+    "moral": "A dignidade verdadeira não vem do dinheiro nem do cargo, mas do temor de Deus. Isso liberta: o pobre não deve sentir-se menor, nem o rico maior. Também pede não julgar pelas aparências, honrando o justo pobre. E a mansidão é uma forma de honrar a própria alma.",
+    "anagogico": "Diante do tribunal de Deus, só o temor de Deus conta. Os títulos humanos passam; a santidade permanece."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A glória dos ricos, dos nobres e dos pobres é o temor de Deus.” “Não desprezes o homem justo, ainda que pobre.” “Ninguém é tão grande como aquele que teme a Deus.” “Conserva a tua alma na mansidão.”",
+    "meditatio_perguntas": [
+      "Em que ponho a minha dignidade?",
+      "Honro o justo pobre, ou só o rico?",
+      "Cultivo a mansidão como honra da minha alma?"
+    ],
+    "oratio_guia": "Senhor, que a minha glória seja o teu temor. Livra-me de julgar pelas riquezas e dá-me a mansidão que honra a alma. Amém.",
+    "contemplatio_foco": {
+      "texto": "ninguém é tão grande como aquele que teme a Deus",
+      "ref": "Eclo 10,27"
+    }
+  },
+  "ancoras": {
+    "10:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os vv. 25 e 26 são idênticos em Matos Soares, reflexo de uma duplicação da tradição latina.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

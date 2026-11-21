@@ -1,0 +1,49 @@
+{
+  "id": "SIR.13.18",
+  "livro": "SIR",
+  "titulo": "O rico e o pobre; o coração muda o rosto",
+  "secao": "Conselhos para a vida",
+  "referencia": "Eclo 13,18-32",
+  "ini": {
+    "c": 13,
+    "v": 18
+  },
+  "fim": {
+    "c": 13,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "O rico e o pobre; o coração muda o rosto",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio observa a lei da semelhança: “Todo o ser vivo ama o seu semelhante; igualmente todo o homem ama o seu próximo.” Toda carne se une à sua espécie. Mas há incompatibilidades: “Quando o lobo tiver amizade com o cordeiro, então a terá o pecador com o justo.” Que paz há entre a hiena e o cão, entre o rico e o pobre? O asno selvagem é presa do leão no deserto; assim os pobres são pasto dos ricos. A humildade é abominação para o soberbo, e o pobre para o rico. Segue um retrato lúcido da desigualdade social: “O rico, se for abalado, é sustido pelos seus amigos; mas o pobre, quando cai, será repelido até pelos seus amigos.” Se o rico erra, muitos o defendem; se fala com arrogância, o justificam. Se o pobre erra, é repreendido; se fala com sabedoria, não lhe dão lugar. “Se fala o rico, todos se calam e exaltam até às nuvens as suas palavras. Se fala o pobre, dizem: Quem é este?” Mas o sábio não condena a riqueza em si: “As riquezas são boas para o que não tem pecado na sua consciência.” E conclui: “O coração do homem muda-lhe o rosto, quer para bem, quer para mal”; um rosto alegre é sinal de coração bom.",
+    "alegorico": "A paz entre o lobo e o cordeiro, impossível para o sábio, é promessa messiânica (Is 11,6) realizada no Reino de Cristo, onde ricos e pobres se sentam à mesma mesa. Jesus inverte o quadro: os pobres são chamados bem-aventurados, e Deus escuta o pobre que os homens não escutam (Lc 16,19-31).",
+    "moral": "O texto denuncia uma injustiça que continua atual: a palavra do rico vale mais que a do pobre; o erro do poderoso é desculpado e o do fraco, castigado. O cristão é chamado a corrigir essa balança: dar voz ao pobre, não bajular o rico. E a riqueza não é má, se a consciência é limpa e o coração, bom.",
+    "anagogico": "No juízo de Deus, a palavra do pobre será ouvida e a do rico pesada com justiça. O lobo e o cordeiro pastarão juntos no Reino."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Todo o ser vivo ama o seu semelhante.” “Quando o lobo tiver amizade com o cordeiro, então a terá o pecador com o justo.” “Se fala o rico, todos se calam.” “Se fala o pobre, dizem: Quem é este?” “O coração do homem muda-lhe o rosto.”",
+    "meditatio_perguntas": [
+      "Dou mais valor à palavra do rico que à do pobre?",
+      "A minha riqueza, pouca ou muita, é acompanhada de consciência limpa?",
+      "O meu rosto revela um coração bom?"
+    ],
+    "oratio_guia": "Senhor, que ouves o pobre que ninguém escuta, corrige em mim a balança injusta que favorece os ricos. Dá-me um coração bom que ilumine o meu rosto. Amém.",
+    "contemplatio_foco": {
+      "texto": "Se fala o pobre, dizem: Quem é este?",
+      "ref": "Eclo 13,29"
+    }
+  },
+  "ancoras": {
+    "13:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O cão e a hiena eram inimigos naturais; a imagem marca a distância entre classes sociais.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

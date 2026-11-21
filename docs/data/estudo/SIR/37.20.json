@@ -1,0 +1,49 @@
+{
+  "id": "SIR.37.20",
+  "livro": "SIR",
+  "titulo": "O verdadeiro sábio; a temperança",
+  "secao": "O culto, a oração e o conselho",
+  "referencia": "Eclo 37,20-34",
+  "ini": {
+    "c": 37,
+    "v": 20
+  },
+  "fim": {
+    "c": 37,
+    "v": 34
+  },
+  "liturgia": {
+    "tema_central": "A palavra verídica precede as obras; a temperança",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Preceda todas as tuas obras a palavra verídica, e todos os teus empreendimentos um conselho estável.” A palavra má muda o coração; dela brotam quatro coisas: o bem e o mal, a vida e a morte, e a língua domina sobre todas. O sábio distingue as sabedorias: há quem seja hábil para ensinar a muitos e inútil para si; há quem fale com pretensão de sábio e seja odioso, privado de toda graça, porque o Senhor não lhe deu favor. Há quem seja sábio para si mesmo, e os frutos da sua inteligência são dignos de louvor. O sábio instrui o seu povo, e os frutos da sua sabedoria são fiéis. “O homem sábio será cheio de bênçãos, e louvá-lo-ão os que o virem.” A vida do homem tem número de dias, mas os dias de Israel são incontáveis; o sábio herdará honra no seu povo, e o seu nome viverá para sempre. Depois, conselhos sobre a temperança: prova a tua alma na tua vida; vê o que lhe faz mal e não lho dês, “porque nem todas as coisas convêm a todos”. Não sejas insaciável nos prazeres, nem te lances sobre os alimentos; o excesso traz doença. “Por causa da intemperança morrem muitos; porém o homem sábio prolonga a sua vida.”",
+    "alegorico": "“Nem todas as coisas convêm a todos” é retomado por Paulo: “Tudo me é permitido, mas nem tudo convém” (1Cor 6,12; 10,23). A palavra que decide entre a vida e a morte é a de Cristo, que tem “palavras de vida eterna” (Jo 6,68).",
+    "moral": "A ação deve ser precedida de reflexão e verdade. Há falsas sabedorias: a de quem ensina e não vive, a de quem só fala bonito. A verdadeira se vê nos frutos. E a temperança é sabedoria prática: conhecer o que nos faz mal e evitar os excessos que encurtam a vida.",
+    "anagogico": "“O seu nome viverá para sempre”: o sábio fiel é lembrado no povo de Deus e, mais ainda, inscrito no livro da vida."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Preceda todas as tuas obras a palavra verídica.” “A língua domina sobre todas.” “O homem sábio será cheio de bênçãos.” “Nem todas as coisas convêm a todos.” “O homem sábio prolonga a sua vida.”",
+    "meditatio_perguntas": [
+      "Reflito antes de agir?",
+      "Vivo o que ensino aos outros?",
+      "Conheço o que me faz mal e o evito?"
+    ],
+    "oratio_guia": "Senhor, que a verdade preceda as minhas obras e a sabedoria guie as minhas escolhas. Dá-me viver o que ensino e a temperança que conserva a vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "Preceda todas as tuas obras a palavra verídica, e todos os teus empreendimentos um conselho estável",
+      "ref": "Eclo 37,20"
+    }
+  },
+  "ancoras": {
+    "37:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As “quatro coisas” (bem, mal, vida, morte) lembram Dt 30,15.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

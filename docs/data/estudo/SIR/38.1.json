@@ -1,0 +1,57 @@
+{
+  "id": "SIR.38.1",
+  "livro": "SIR",
+  "titulo": "Honra o médico",
+  "secao": "O culto, a oração e o conselho",
+  "referencia": "Eclo 38,1-15",
+  "ini": {
+    "c": 38,
+    "v": 1
+  },
+  "fim": {
+    "c": 38,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "Honra o médico; toda a medicina vem de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Este é um dos textos mais equilibrados da Bíblia sobre a doença. “Honra o médico, por causa da necessidade; com efeito, foi o Altíssimo que o criou. Toda a medicina vem de Deus.” A ciência do médico o eleva, e ele é admirado pelos grandes. “O Altíssimo produziu da terra os medicamentos; o homem prudente não os aborrecerá.” Não foi a água adoçada por um lenho, para que se conhecesse o seu poder? Deus deu aos homens a ciência para ser glorificado nas suas maravilhas; com os remédios o médico cura e alivia a dor, e o farmacêutico prepara as misturas. Mas a fé não é deixada de lado: “Filho, não te descuides na tua enfermidade, mas faze oração ao Senhor, e ele te curará. Aparta-te do pecado, endireita as tuas mãos, purifica o teu coração de todo o delito.” Oferece o teu sacrifício. Depois, “dá lugar ao médico, pois para isso é que o Senhor o estabeleceu; e não se aparte de ti, porque te é necessária a sua assistência”. Há momentos em que a cura está nas suas mãos; e também os médicos rezam ao Senhor para acertar no diagnóstico e no tratamento. Quem peca diante do Criador cairá nas mãos do médico.",
+    "alegorico": "Cristo é o médico das almas e dos corpos: “Não são os sãos que precisam de médico” (Mt 9,12). Lucas, “o médico amado” (Cl 4,14), uniu ciência e fé. A unção dos enfermos (Tg 5,14-15) une oração, sacramento e cuidado, como pede o sábio.",
+    "moral": "A fé não se opõe à medicina: o médico e o remédio são dons de Deus. Recusar tratamento por “confiar só em Deus” é imprudência. Mas a cura pede também oração e conversão do coração. Unir a confiança em Deus e o uso dos meios humanos é a atitude cristã diante da doença.",
+    "anagogico": "A medicina alivia por um tempo; a cura definitiva será a ressurreição, quando “não haverá mais morte, nem luto, nem dor” (Ap 21,4)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Honra o médico… foi o Altíssimo que o criou.” “Toda a medicina vem de Deus.” “O homem prudente não os aborrecerá.” “Faze oração ao Senhor, e ele te curará.” “Dá lugar ao médico.”",
+    "meditatio_perguntas": [
+      "Na doença, uno oração e tratamento?",
+      "Agradeço a Deus pelos médicos e pela ciência?",
+      "Rezo pelos profissionais de saúde?"
+    ],
+    "oratio_guia": "Senhor, médico das almas e dos corpos, abençoa os médicos e todos os que cuidam dos doentes. Na doença, dá-me rezar com fé e aceitar com gratidão os remédios que criaste. Amém.",
+    "contemplatio_foco": {
+      "texto": "Toda a medicina vem de Deus",
+      "ref": "Eclo 38,2"
+    }
+  },
+  "ancoras": {
+    "38:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Alusão a Ex 15,23-25: as águas amargas de Mara adoçadas por um lenho.",
+        "origem": "ia"
+      }
+    },
+    "38:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Tg 5,14-16: oração e unção pelos enfermos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

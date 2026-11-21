@@ -1,0 +1,49 @@
+{
+  "id": "SIR.22.33",
+  "livro": "SIR",
+  "titulo": "Quem porá uma guarda à minha boca?",
+  "secao": "O domínio de si e a palavra",
+  "referencia": "Eclo 22,33–23,6",
+  "ini": {
+    "c": 22,
+    "v": 33
+  },
+  "fim": {
+    "c": 23,
+    "v": 6
+  },
+  "liturgia": {
+    "tema_central": "Senhor, meu pai, põe uma guarda à minha boca",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio, consciente da própria fraqueza, passa da exortação à oração. “Quem porá uma guarda à minha boca, e um selo inviolável sobre os meus lábios, para que eu não caia por sua causa, e para que a minha língua me não perca?” E reza: “Senhor, que és meu pai e dono da minha vida, não me abandones ao conselho dos meus lábios, nem permitas que eu caia por causa deles.” Pede que o castigo e a disciplina da sabedoria venham sobre o seu pensamento e o seu coração, para que não poupe as suas ignorâncias e os seus pecados não apareçam; para que as suas faltas não cresçam e o inimigo não se alegre com a sua ruína. “Senhor, meu pai e Deus da minha vida, não me abandones às suas sugestões. Não permitas a imodéstia dos meus olhares, e afasta de mim todo o mau desejo. Tira de mim a intemperança do ventre; não se apodere de mim o apetite carnal, e não me entregues a uma alma sem pudor e sem freio.”",
+    "alegorico": "Esta é uma das raras vezes em que o Antigo Testamento chama Deus “meu pai” numa oração pessoal, antecipando o “Abbá” de Jesus (Mc 14,36) e o Pai-Nosso: “não nos deixes cair em tentação”. O Salmo 140,3 faz o mesmo pedido: “põe, Senhor, uma guarda à minha boca”.",
+    "moral": "Depois de tantos conselhos sobre a língua, o sábio reconhece que não basta saber: é preciso pedir a graça. A oração vigia os pontos frágeis: a boca, os olhos, o ventre, a carne. É humildade verdadeira confiar a Deus, como a um pai, a luta contra as próprias fraquezas.",
+    "anagogico": "O Pai que guarda os nossos lábios e olhos nesta vida nos conduzirá à liberdade plena dos filhos de Deus, onde já não haverá tentação."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quem porá uma guarda à minha boca?” “Senhor, que és meu pai e dono da minha vida.” “Não me abandones ao conselho dos meus lábios.” “Não permitas a imodéstia dos meus olhares.” “Afasta de mim todo o mau desejo.”",
+    "meditatio_perguntas": [
+      "Rezo pedindo a Deus que guarde a minha língua?",
+      "Chamo a Deus de Pai nas minhas lutas?",
+      "Quais são os meus pontos mais frágeis, a confiar a ele?"
+    ],
+    "oratio_guia": "Senhor, meu Pai e Deus da minha vida, põe uma guarda à minha boca e um selo nos meus lábios. Guarda os meus olhos e afasta de mim todo mau desejo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Senhor, que és meu pai e dono da minha vida, não me abandones ao conselho dos meus lábios, nem permitas que eu caia por causa deles",
+      "ref": "Eclo 23,1"
+    }
+  },
+  "ancoras": {
+    "23:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Invocação de Deus como Pai, rara no AT; cf. Is 63,16; Sb 14,3.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

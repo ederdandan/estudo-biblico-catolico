@@ -1,0 +1,49 @@
+{
+  "id": "SIR.31.12",
+  "livro": "SIR",
+  "titulo": "Moderação à mesa e no vinho",
+  "secao": "A família, a amizade e a vida social",
+  "referencia": "Eclo 31,12-42",
+  "ini": {
+    "c": 31,
+    "v": 12
+  },
+  "fim": {
+    "c": 31,
+    "v": 42
+  },
+  "liturgia": {
+    "tema_central": "À mesa: moderação na comida e no vinho",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio ensina as boas maneiras à mesa, que são também virtudes. “Sentaste-te a uma grande mesa? Não sejas tu o primeiro a abrir a boca.” Não digas: quanta coisa há aqui! O olho guloso é coisa má. Não estendas a mão primeiro, não te atropeles no prato. Julga o próximo por ti mesmo: considera o que lhe agrada. “Usa como um homem sóbrio do que te puser diante, não suceda que, por comeres muito, te tornes odioso.” Sê o primeiro a parar, por educação; não sejas insaciável. O sono do homem sóbrio é saudável: levanta-se cedo e bem disposto; o comilão sofre insónias e cólicas. Se foste forçado a comer demais, levanta-te, vomita e descansa. Em todas as tuas obras sê diligente, e nenhuma doença te atingirá. Sobre o vinho: “O vinho desde o princípio foi criado para regozijo, e não para embriaguez. O vinho bebido moderadamente é o júbilo da alma e do coração”; a sobriedade é saúde da alma e do corpo. “O vinho bebido com excesso produz a irritação, a ira e muitas ruínas.” Não repreendas o próximo num banquete regado a vinho.",
+    "alegorico": "Jesus transformou água em vinho em Caná (Jo 2), mostrando que o vinho é dom de alegria; e deu-lhe o sentido supremo na Eucaristia. Ao mesmo tempo, Paulo pede: “Não vos embriagueis com vinho… mas enchei-vos do Espírito” (Ef 5,18).",
+    "moral": "A temperança à mesa é sinal de domínio de si e de respeito pelos outros. Comer e beber são dons de Deus, para a alegria e não para o excesso. A sobriedade traz saúde e sono tranquilo; a gula e a embriaguez trazem doença, ira e ruína.",
+    "anagogico": "A mesa partilhada com sobriedade e alegria antecipa o banquete do Reino, onde o vinho novo será bebido com Cristo (Mt 26,29)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não sejas tu o primeiro a abrir a boca.” “Usa como um homem sóbrio do que te puser diante.” “O vinho desde o princípio foi criado para regozijo, e não para embriaguez.” “O vinho bebido moderadamente é o júbilo da alma e do coração.”",
+    "meditatio_perguntas": [
+      "Sou sóbrio no comer e no beber?",
+      "À mesa, penso no que agrada aos outros?",
+      "Como vivo a alegria das refeições?"
+    ],
+    "oratio_guia": "Senhor, que nos deste o pão e o vinho para a alegria, dá-me a sobriedade e a cortesia à mesa. Que eu use os teus dons com gratidão e medida. Amém.",
+    "contemplatio_foco": {
+      "texto": "O vinho desde o princípio foi criado para regozijo, e não para embriaguez",
+      "ref": "Eclo 31,35"
+    }
+  },
+  "ancoras": {
+    "31:35": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Sl 103,15: “o vinho que alegra o coração do homem”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

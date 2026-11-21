@@ -1,0 +1,57 @@
+{
+  "id": "SIR.46.1",
+  "livro": "SIR",
+  "titulo": "Josué, Caleb e os juízes",
+  "secao": "O elogio dos antepassados",
+  "referencia": "Eclo 46,1-15",
+  "ini": {
+    "c": 46,
+    "v": 1
+  },
+  "fim": {
+    "c": 46,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "Josué, Caleb e os juízes",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio celebra os conquistadores da terra. “Josué, filho de Nun, valente na guerra, sucedeu a Moisés na missão de profeta; foi grande, grande como denota o seu nome, muito grande salvador dos escolhidos de Deus.” Quanta glória obteve quando levantava a mão e brandia a espada contra as cidades! “Quem antes dele combateu assim? De facto, o mesmo Senhor lhe trouxe às mãos os seus inimigos.” Por sua palavra o sol parou e um dia valeu por dois. “Ele invocou o Altíssimo Poderoso… e o grande e santo Deus o ouviu, e fez cair saraiva de grande força.” Assim as nações conheceram que não é fácil lutar contra Deus. Nos dias de Moisés, Josué e Caleb mostraram misericórdia, resistiram ao povo murmurador e por isso, de seiscentos mil, só eles entraram na terra. “O Senhor deu fortaleza ao mesmo Caleb; o seu vigor durou até à velhice.” Depois vieram os juízes, “cujo coração não foi pervertido, e que não se apartaram do Senhor”: que a sua memória seja bendita e os seus ossos refloresçam nos túmulos.",
+    "alegorico": "Josué, cujo nome (Yehoshua) significa “o Senhor salva”, é o mesmo nome de Jesus. Ele introduz o povo na terra prometida, como Cristo nos introduz no repouso de Deus (Hb 4,8-11). Os ossos que “reflorescem” anunciam a ressurreição.",
+    "moral": "Josué e Caleb foram fiéis quando todos murmuravam, e só eles entraram na terra. A fidelidade contra a corrente é recompensada. A força de Caleb na velhice mostra que quem segue a Deus de todo o coração conserva o vigor interior até o fim.",
+    "anagogico": "“Que os seus ossos refloresçam nos túmulos”: a esperança da ressurreição começa a despontar no elogio dos justos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Grande, grande como denota o seu nome.” “O mesmo Senhor lhe trouxe às mãos os seus inimigos.” “Ele seguiu sempre o Todo-Poderoso.” “O seu vigor durou até à velhice.” “Cujo coração não foi pervertido.”",
+    "meditatio_perguntas": [
+      "Sou fiel a Deus quando todos murmuram?",
+      "Sigo o Senhor de todo o coração, como Caleb?",
+      "Que “terra prometida” Deus me chama a conquistar?"
+    ],
+    "oratio_guia": "Senhor Jesus, verdadeiro Josué, conduz-me à terra prometida. Dá-me a fidelidade de Caleb, que te seguiu de todo o coração, e conserva o meu vigor até a velhice. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor deu fortaleza ao mesmo Caleb; o seu vigor durou até à velhice",
+      "ref": "Eclo 46,11"
+    }
+  },
+  "ancoras": {
+    "46:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Js 10,12-14: o sol parado em Gabaon.",
+        "origem": "ia"
+      }
+    },
+    "46:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Nm 14,6-10.30: Josué e Caleb, únicos da geração do êxodo a entrar na terra.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

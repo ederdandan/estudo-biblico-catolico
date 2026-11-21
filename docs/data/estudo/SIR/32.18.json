@@ -1,0 +1,49 @@
+{
+  "id": "SIR.32.18",
+  "livro": "SIR",
+  "titulo": "Quem teme o Senhor ama a lei; nada sem conselho",
+  "secao": "A família, a amizade e a vida social",
+  "referencia": "Eclo 32,18–33,3",
+  "ini": {
+    "c": 32,
+    "v": 18
+  },
+  "fim": {
+    "c": 33,
+    "v": 3
+  },
+  "liturgia": {
+    "tema_central": "Não faças nada sem conselho",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio passa do banquete à vida. “Aquele que teme o Senhor abraçará a sua doutrina, e os que velarem para o buscar receberão a sua bênção. Aquele que busca a lei será cheio dela, e o que procede com hipocrisia tropeçará nela.” Os que temem o Senhor encontrarão o juízo justo e acenderão a justiça como uma luz. O pecador foge da correção e encontra desculpas para fazer a sua vontade. O homem de conselho não despreza a reflexão; o estranho e o soberbo não temem nada. E vem o conselho central: “Filho, não faças coisa alguma sem conselho, e não te arrependerás depois dela feita.” Não andes por caminho de ruína, para não tropeçares nas pedras; não te fies num caminho escarpado. Guarda-te dos teus próprios filhos, e cuida-te dos teus domésticos. Em todas as tuas obras confia na tua alma, porque isto é guardar os mandamentos. Quem crê em Deus atende aos mandamentos; quem confia nele não sofrerá dano. “Aquele que teme o Senhor não sobrevirão desgraças, antes Deus o guardará na tentação e o livrará dos males.” O sábio não odeia a lei; o hipócrita afunda nela como barco na tempestade.",
+    "alegorico": "O conselho é um dos dons do Espírito Santo (Is 11,2). Cristo é o “Conselheiro admirável” (Is 9,6). A promessa de que Deus guarda na tentação ecoa em 1Cor 10,13: “Deus é fiel e não permitirá que sejais tentados além das vossas forças”.",
+    "moral": "Agir sem conselho é um caminho para o arrependimento. A humildade de pedir orientação, a reflexão antes das decisões e a fidelidade aos mandamentos protegem de muitos erros. O hipócrita, que busca a lei só por fora, tropeça nela; quem a busca de coração se enche dela.",
+    "anagogico": "Quem confia em Deus e se deixa guiar por ele será guardado na tentação e conduzido com segurança à salvação."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Os que velarem para o buscar receberão a sua bênção.” “Aquele que busca a lei será cheio dela.” “Filho, não faças coisa alguma sem conselho.” “Deus o guardará na tentação e o livrará dos males.”",
+    "meditatio_perguntas": [
+      "Peço conselho antes das decisões importantes?",
+      "Busco a lei de Deus por dentro ou só por fora?",
+      "Confio que Deus me guarda na tentação?"
+    ],
+    "oratio_guia": "Senhor, dá-me o dom do conselho e a humildade de pedir orientação. Guarda-me na tentação e faz-me buscar a tua lei de todo o coração. Amém.",
+    "contemplatio_foco": {
+      "texto": "Filho, não faças coisa alguma sem conselho, e não te arrependerás depois dela feita",
+      "ref": "Eclo 32,24"
+    }
+  },
+  "ancoras": {
+    "32:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Tb 4,19: “pede sempre conselho ao sábio”; Pr 15,22.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

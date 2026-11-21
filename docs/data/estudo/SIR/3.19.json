@@ -1,0 +1,49 @@
+{
+  "id": "SIR.3.19",
+  "livro": "SIR",
+  "titulo": "Quanto maior és, mais te deves humilhar",
+  "secao": "Os pais, os pobres e a sabedoria",
+  "referencia": "Eclo 3,19-30",
+  "ini": {
+    "c": 3,
+    "v": 19
+  },
+  "fim": {
+    "c": 3,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "Quanto maior és, mais te deves humilhar",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Passando a outro tema, o sábio ensina a humildade. “Filho, leva a cabo as tuas obras com mansidão, e atrairás não só a estima, mas também o amor dos homens.” E dá a regra de ouro da grandeza verdadeira: “Quanto maior és, mais te deves humilhar em todas as coisas, e acharás graça diante de Deus; porque só o poder de Deus é que é grande, e é pelos humildes que ele é honrado.” A humildade também se aplica à inteligência: “Não procures saber o que excede a tua capacidade, e não especules o que ultrapassa as tuas forças, mas pensa sempre no que Deus te mandou.” Não te inquietes com coisas inúteis; já te foi mostrado mais do que o espírito humano compreende. Muitos foram enganados pelas suas opiniões. Seguem provérbios sobre o coração: o coração duro acabará mal; quem ama o perigo nele perecerá; o coração que anda por dois caminhos não terá êxito; a assembleia dos soberbos é incurável, porque a planta do mal está enraizada neles. O coração sábio, ao contrário, compreende as parábolas, e o ouvido atento é o desejo do sábio.",
+    "alegorico": "A regra “quanto maior és, mais te humilhes” se realiza em Cristo, que, sendo Deus, “se humilhou até a morte de cruz” (Fl 2,8), e em Maria, cuja humildade o Senhor olhou (Lc 1,48). Jesus ensina: “quem quiser ser o maior entre vós, seja o vosso servo” (Mt 20,26).",
+    "moral": "A humildade não é negar os dons, mas reconhecer que só Deus é grande. Quanto mais responsabilidade e talento, mais necessidade de humildade. Também há uma humildade intelectual: aceitar os limites do próprio saber, sem curiosidade vã. O soberbo é “incurável” porque não reconhece que precisa de cura.",
+    "anagogico": "“É pelos humildes que ele é honrado”: no Reino, os humildes serão exaltados e verão a Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Leva ao cabo as tuas obras com mansidão.” “Quanto maior és, mais te deves humilhar em todas as coisas, e acharás graça diante de Deus.” “Só o poder de Deus é que é grande.” “Não procures saber o que excede a tua capacidade.” “Aquele que ama o perigo perecerá nele.”",
+    "meditatio_perguntas": [
+      "Os meus dons me tornam mais humilde ou mais orgulhoso?",
+      "Aceito os limites do meu saber diante do mistério?",
+      "Faço as minhas obras com mansidão?"
+    ],
+    "oratio_guia": "Senhor, só tu és grande. Quanto mais me dás, mais me faz humilde, para que eu encontre graça diante de ti. Livra-me do coração duro e da curiosidade vã. Amém.",
+    "contemplatio_foco": {
+      "texto": "Quanto maior és, mais te deves humilhar em todas as coisas, e acharás graça diante de Deus",
+      "ref": "Eclo 3,20"
+    }
+  },
+  "ancoras": {
+    "3:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto lido no 22º Domingo do Tempo Comum, Ano C, com a parábola dos primeiros lugares (Lc 14,7-14).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

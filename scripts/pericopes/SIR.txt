@@ -1,0 +1,117 @@
+# Divisão em perícopes (numeração Matos Soares / Vulgata). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## A sabedoria e o temor do Senhor
+1:1-1:10 | Toda a sabedoria vem do Senhor
+1:11-1:40 | O temor do Senhor é o princípio da sabedoria
+2:1-2:23 | Filho, se entrares no serviço de Deus, prepara-te para a prova
+## Os pais, os pobres e a sabedoria
+3:1-3:18 | Honra teu pai e tua mãe
+3:19-3:30 | Quanto maior és, mais te deves humilhar
+3:31-4:11 | A esmola apaga o pecado; não voltes o rosto ao pobre
+4:12-4:22 | A sabedoria educa os seus filhos
+4:23-4:36 | A boa e a má vergonha; combate pela verdade
+5:1-5:10 | Não tardes em te converter ao Senhor
+5:11-6:4 | Firmeza de palavra; a língua dobre
+6:5-6:17 | O amigo fiel é um tesouro
+6:18-6:37 | O jugo suave da sabedoria
+## Conselhos para a vida
+7:1-7:19 | Não faças o mal; humildade e oração
+7:20-7:30 | A mulher, os servos, os filhos e os pais
+7:31-7:40 | Honra os sacerdotes, socorre o pobre; lembra-te do teu fim
+8:1-8:22 | Prudência nas relações
+9:1-9:13 | Guarda os teus olhos
+9:14-9:25 | O amigo antigo e o convívio com os justos
+10:1-10:21 | O governante sábio; a soberba é o princípio do pecado
+10:22-10:34 | A verdadeira honra é o temor de Deus
+11:1-11:9 | A sabedoria do humilde; não julgues pelas aparências
+11:10-11:30 | Tudo vem de Deus; não louves ninguém antes da morte
+11:31-12:7 | Cautela com quem acolhes e a quem fazes o bem
+12:8-12:19 | O inimigo de lágrimas nos olhos
+13:1-13:17 | Quem toca o pez fica manchado: o rico e o poderoso
+13:18-13:32 | O rico e o pobre; o coração muda o rosto
+14:1-14:21 | A avareza; faze o bem antes da morte
+14:22-15:10 | Bem-aventurado o que medita na sabedoria
+15:11-15:22 | Diante do homem estão a vida e a morte
+## Deus, o homem e a misericórdia
+16:1-16:15 | Mais vale um filho temente a Deus; a misericórdia e a ira
+16:16-16:23 | Não digas: esconder-me-ei de Deus
+16:24-17:13 | Deus criou o homem à sua imagem
+17:14-17:31 | Converte-te ao Senhor; louva-o enquanto vives
+18:1-18:14 | A misericórdia de Deus abraça toda a carne
+18:15-18:29 | O modo de dar; prepara a tua alma antes da oração
+## O domínio de si e a palavra
+18:30-19:3 | Não sigas as tuas paixões
+19:4-19:17 | Guarda o que ouviste; corrige o teu amigo
+19:18-19:28 | A verdadeira e a falsa sabedoria
+20:1-20:33 | O silêncio do sábio; a mentira
+21:1-21:11 | Foge do pecado como de uma serpente
+21:12-21:31 | O sábio e o insensato
+22:1-22:18 | O preguiçoso e o insensato
+22:19-22:32 | Firmeza de coração; fidelidade ao amigo
+22:33-23:6 | Quem porá uma guarda à minha boca?
+23:7-23:20 | A disciplina da língua; os juramentos
+23:21-23:38 | A impureza e o adultério; os olhos do Senhor veem tudo
+## O elogio da sabedoria
+24:1-24:31 | A sabedoria faz o seu próprio elogio
+24:32-24:47 | A sabedoria é o livro da aliança
+## A família, a amizade e a vida social
+25:1-25:16 | O que agrada a Deus; o temor de Deus sobre tudo
+25:17-25:36 | A mulher má e a tristeza do coração
+26:1-26:24 | A mulher virtuosa, luz da casa
+26:25-27:3 | O perigo do comércio e da cobiça
+27:4-27:16 | A palavra revela o homem
+27:17-27:24 | Não reveles os segredos do amigo
+27:25-27:33 | Quem abre a cova cairá nela
+28:1-28:11 | Perdoa ao teu próximo e serás perdoado
+28:12-28:30 | O mal da língua
+29:1-29:18 | Empresta ao próximo; encerra a esmola no coração do pobre
+29:19-29:35 | A fiança; contenta-te com o necessário
+30:1-30:13 | A educação dos filhos
+30:14-30:27 | A saúde e a alegria do coração
+31:1-31:11 | Bem-aventurado o rico que foi achado sem mancha
+31:12-31:42 | Moderação à mesa e no vinho
+32:1-32:17 | O banquete: presidir, falar e ouvir
+32:18-33:3 | Quem teme o Senhor ama a lei; nada sem conselho
+33:4-33:19 | Como o barro nas mãos do oleiro
+33:20-33:33 | Os bens, a casa e os servos
+## O culto, a oração e o conselho
+34:1-34:8 | Os sonhos e as vãs esperanças
+34:9-34:20 | A experiência; feliz a alma que teme o Senhor
+34:21-34:31 | O sacrifício com o pão dos pobres
+35:1-35:13 | Guardar a lei é oferecer sacrifício
+35:14-35:26 | A oração do humilde atravessa as nuvens
+36:1-36:19 | Oração pelo povo de Deus
+36:20-36:28 | O discernimento; a boa esposa
+37:1-37:19 | O falso amigo e o bom conselheiro
+37:20-37:34 | O verdadeiro sábio; a temperança
+38:1-38:15 | Honra o médico
+38:16-38:24 | O luto pelos mortos
+38:25-38:39 | Os ofícios das mãos
+39:1-39:15 | O escriba que medita a lei do Altíssimo
+## A glória de Deus nas suas obras
+39:16-39:41 | Todas as obras do Senhor são boas
+## A condição humana
+40:1-40:11 | Pesado jugo sobre os filhos de Adão
+40:12-40:32 | Acima de tudo, o temor do Senhor
+41:1-41:16 | Ó morte! O bom nome permanece
+41:17-42:14 | De que se envergonhar e de que não se envergonhar
+## A glória de Deus na criação
+42:15-42:26 | Lembrar-me-ei das obras do Senhor
+43:1-43:37 | O sol, a lua, as estrelas e as maravilhas do céu
+## O elogio dos antepassados
+44:1-44:15 | Louvemos os varões ilustres
+44:16-44:27 | Henoc, Noé, Abraão, Isaac e Jacó
+45:1-45:6 | Moisés, amado de Deus e dos homens
+45:7-45:31 | Aarão e Fineias
+46:1-46:15 | Josué, Caleb e os juízes
+46:16-46:23 | Samuel, profeta do Senhor
+47:1-47:13 | Davi
+47:14-47:31 | Salomão e a divisão do reino
+48:1-48:16 | Elias e Eliseu
+48:17-48:28 | Ezequias e Isaías
+49:1-49:19 | Josias, os profetas e os restauradores
+50:1-50:26 | Simão, o sumo sacerdote, na liturgia do Templo
+## Epílogo
+50:27-50:31 | Bem-aventurado o que se dá a estes ensinamentos
+51:1-51:17 | Oração de ação de graças de Jesus, filho de Sirac
+51:18-51:38 | A busca da sabedoria desde a juventude

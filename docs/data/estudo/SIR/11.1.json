@@ -1,0 +1,49 @@
+{
+  "id": "SIR.11.1",
+  "livro": "SIR",
+  "titulo": "A sabedoria do humilde; não julgues pelas aparências",
+  "secao": "Conselhos para a vida",
+  "referencia": "Eclo 11,1-9",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "A sabedoria do humilde; não julgues pelas aparências",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“A sabedoria do humilde exaltará a sua cabeça, e o fará assentar no meio dos grandes.” Daí um conselho: “Não louves o homem pela sua beleza, nem o desprezes pelo seu aspecto. Pequena é a abelha entre os animais voláteis, e contudo o seu fruto é o primeiro na doçura.” Não te glories das roupas, nem te envaideças no dia da honra: as obras do Senhor são maravilhosas e escondidas. Muitos tiranos se sentaram no chão, e um desconhecido usou a coroa; muitos poderosos foram humilhados. Segue um conselho de justiça no falar: “Não vituperes ninguém antes de te haveres informado, e, quando te tiveres informado, repreende com equidade. Antes de ouvir, não respondas nada, e enquanto outro fala não o interrompas.” Não te metas em disputas que não te dizem respeito, nem te sentes com os pecadores para julgar.",
+    "alegorico": "A abelha pequena que dá o mel mais doce é imagem de Maria e dos humildes que Deus escolhe (1Cor 1,27-28). Cristo, que “não tinha aparência nem beleza” (Is 53,2), é a sabedoria de Deus escondida sob a humildade. Jesus adverte: “não julgueis segundo as aparências” (Jo 7,24).",
+    "moral": "Julgamos com facilidade pela aparência: beleza, roupas, posição. A sabedoria ensina a olhar mais fundo. E dá regras de ouro para a convivência: informar-se antes de criticar, ouvir antes de responder, não interromper, não se meter no que não nos diz respeito. São conselhos simples que evitariam muitas injustiças.",
+    "anagogico": "Deus exalta o humilde e humilha o soberbo: na eternidade, muitos últimos serão primeiros, e as aparências serão desfeitas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A sabedoria do humilde exaltará a sua cabeça.” “Não louves o homem pela sua beleza; nem o desprezes pelo seu aspecto.” “Pequena é a abelha… e contudo o seu fruto é o primeiro na doçura.” “Antes de ouvir, não respondas nada.” “Enquanto outro fala não o interrompas.”",
+    "meditatio_perguntas": [
+      "Julgo as pessoas pela aparência?",
+      "Informo-me antes de criticar?",
+      "Sei ouvir sem interromper?"
+    ],
+    "oratio_guia": "Senhor, que escolhes os pequenos, dá-me olhos que vejam além das aparências. Ensina-me a ouvir antes de falar e a julgar com justiça e mansidão. Amém.",
+    "contemplatio_foco": {
+      "texto": "Pequena é a abelha entre os animais voláteis, e contudo o seu fruto é o primeiro na doçura",
+      "ref": "Eclo 11,3"
+    }
+  },
+  "ancoras": {
+    "11:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Pr 18,13: “responder antes de ouvir é estultícia e vergonha”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

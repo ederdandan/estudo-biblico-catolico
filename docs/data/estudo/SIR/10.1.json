@@ -1,0 +1,57 @@
+{
+  "id": "SIR.10.1",
+  "livro": "SIR",
+  "titulo": "O governante sábio; a soberba é o princípio do pecado",
+  "secao": "Conselhos para a vida",
+  "referencia": "Eclo 10,1-21",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "O princípio de todo pecado é a soberba",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio fala dos governantes: “O juiz sábio fará justiça ao seu povo… Qual o juiz do povo, tais os seus ministros; qual o governador da cidade, tais os seus habitantes.” O rei insensato arruína o povo; a cidade prospera com governantes sensatos. Mas o poder está nas mãos de Deus, que suscita a seu tempo o governante útil. Segue um conselho pessoal: “Esquece-te de todas as injúrias que recebeste do teu próximo, e não faças nada por via de violência.” Então vem o grande tema: a soberba. É odiosa a Deus e aos homens; por causa da injustiça e da arrogância, os reinos passam de um povo a outro. Nada é pior que o avarento: “Por que se ensoberbece a terra e a cinza?” Quem ama o dinheiro venderia a própria alma. A vida do poderoso é breve: hoje rei, amanhã morto, herdando vermes. “O princípio da soberba do homem é renegar a Deus, porque o seu coração se afasta daquele que o criou; porque o princípio de todo o pecado é a soberba.” Por isso Deus derrubou os tronos dos soberbos e pôs os mansos no seu lugar; arrancou as raízes das nações orgulhosas e plantou os humildes. “A soberba não foi criada com o homem.”",
+    "alegorico": "“Deus derrubou os tronos dos soberbos e pôs os mansos no seu lugar” é eco direto do Magnificat: “derrubou os poderosos dos seus tronos e exaltou os humildes” (Lc 1,52). Santo Agostinho e Santo Tomás de Aquino citam “initium omnis peccati superbia” como raiz de todo pecado, desde a queda dos anjos e de Adão.",
+    "moral": "A soberba é renegar a Deus: o coração se afasta daquele que o criou e se põe no seu lugar. Dela nascem a avareza, a violência, a injustiça. “Por que se ensoberbece a terra e a cinza?”: lembrar que somos pó é remédio contra o orgulho. E quem governa marca os governados: a responsabilidade de quem tem autoridade é grande.",
+    "anagogico": "A memória dos soberbos será apagada, e a dos humildes conservada: no Reino, os mansos possuirão a terra (Mt 5,4)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Qual o juiz do povo, tais os seus ministros.” “Esquece-te de todas as injúrias que recebeste do teu próximo.” “Por que se ensoberbece a terra e a cinza?” “O princípio de todo o pecado é a soberba.” “Deus destruiu os tronos dos chefes soberbos, e em seu lugar colocou os mansos.”",
+    "meditatio_perguntas": [
+      "Em que meu coração se afasta daquele que me criou?",
+      "Guardo as injúrias recebidas ou as esqueço?",
+      "Como exerço a autoridade que tenho?"
+    ],
+    "oratio_guia": "Senhor, livra-me da soberba, princípio de todo pecado. Lembra-me que sou terra e cinza, e dá-me a mansidão dos humildes que tu exaltas. Amém.",
+    "contemplatio_foco": {
+      "texto": "porque o princípio de todo o pecado é a soberba",
+      "ref": "Eclo 10,15"
+    }
+  },
+  "ancoras": {
+    "10:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração grega, 10,13. Texto clássico da teologia moral sobre a soberba como raiz dos pecados.",
+        "origem": "ia"
+      }
+    },
+    "10:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na Vulgata o v. 9 fala do avarento; cf. 1Tm 6,10: “a raiz de todos os males é o amor ao dinheiro”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

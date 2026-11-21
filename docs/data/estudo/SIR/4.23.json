@@ -1,0 +1,57 @@
+{
+  "id": "SIR.4.23",
+  "livro": "SIR",
+  "titulo": "A boa e a má vergonha; combate pela verdade",
+  "secao": "Os pais, os pobres e a sabedoria",
+  "referencia": "Eclo 4,23-36",
+  "ini": {
+    "c": 4,
+    "v": 23
+  },
+  "fim": {
+    "c": 4,
+    "v": 36
+  },
+  "liturgia": {
+    "tema_central": "Há uma vergonha que leva ao pecado e outra que traz glória",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Segue uma série de conselhos sobre a coragem e a verdade. “Filho, aproveita o tempo, foge do mal.” Não te envergonhes de dizer a verdade para o bem da tua alma, porque “há vergonha que faz cair em pecado, e há vergonha que traz consigo glória e graça”. Não faças acepção de pessoas em teu prejuízo, não mintas para tua perdição; não respeites o próximo na sua queda, isto é, não te cales por respeito humano. “Não retenhas a palavra quando ela pode ser salutar”; a sabedoria se conhece pela língua. Não contradigas a verdade; envergonha-te da mentira que disseste por ignorância. “Não te envergonhes de confessar os teus pecados”, mas não te submetas a ninguém para pecar. Não resistas ao poderoso nem nades contra a corrente sem necessidade; mas “combate pela justiça para salvares a tua vida, peleja até à morte pela justiça, e Deus combaterá por ti”. Não sejas rápido em falar e lento em agir. “Não sejas como um leão na tua casa”, tiranizando os de casa. E conclui: “A tua mão não esteja aberta para receber, e fechada para dar.”",
+    "alegorico": "O apelo a combater pela verdade “até à morte” se cumpre nos mártires e, sobretudo, em Cristo, que deu testemunho da verdade diante de Pilatos (Jo 18,37). A confissão dos pecados sem vergonha prepara o sacramento da Penitência.",
+    "moral": "Há uma vergonha má, o respeito humano que nos faz calar a verdade ou esconder a fé, e uma vergonha boa, que nos faz reconhecer o pecado. O sábio pede coragem para falar quando a palavra é necessária e humildade para confessar o próprio erro. E denuncia dois vícios domésticos: ser tirano em casa e ser avaro.",
+    "anagogico": "“Deus combaterá por ti”: quem luta pela justiça até o fim tem Deus por defensor e a vida eterna por recompensa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Aproveita o tempo, foge do mal.” “Há vergonha que faz cair em pecado, e há vergonha que traz consigo glória e graça.” “Não retenhas a palavra quando ela pode ser salutar.” “Não te envergonhes de confessar os teus pecados.” “Peleja até à morte pela justiça.” “A tua mão não esteja aberta para receber, e fechada para dar.”",
+    "meditatio_perguntas": [
+      "Calo a verdade por respeito humano?",
+      "Tenho coragem de confessar os meus pecados?",
+      "Sou “leão” em casa, duro com os que vivem comigo?"
+    ],
+    "oratio_guia": "Senhor, livra-me da vergonha que leva ao pecado e dá-me a que traz graça. Dá-me coragem de dizer a verdade, humildade para confessar as minhas faltas e mãos abertas para dar. Amém.",
+    "contemplatio_foco": {
+      "texto": "Há vergonha que faz cair em pecado, e há vergonha que traz consigo glória e graça",
+      "ref": "Eclo 4,25"
+    }
+  },
+  "ancoras": {
+    "4:31": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Pr 28,13: “quem confessa os seus pecados e os abandona alcança misericórdia”.",
+        "origem": "ia"
+      }
+    },
+    "4:36": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado na Didaqué 4,5 e na Epístola de Barnabé 19,9.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "SIR.7.20",
+  "livro": "SIR",
+  "titulo": "A mulher, os servos, os filhos e os pais",
+  "secao": "Conselhos para a vida",
+  "referencia": "Eclo 7,20-30",
+  "ini": {
+    "c": 7,
+    "v": 20
+  },
+  "fim": {
+    "c": 7,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "A mulher, os servos, os filhos e os pais",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio volta-se para a vida doméstica. Não troques um amigo por dinheiro, nem um irmão querido pelo ouro. “Não te separes da mulher sensata e virtuosa que recebeste por sorte no temor do Senhor”, porque a graça da sua modéstia vale mais que o ouro. Sobre os que trabalham: “Não trates mal o servo que trabalha com fidelidade, nem o mercenário que todo se dá a servir-te. O servo sensato seja querido de ti como a tua alma; não lhe negues a liberdade, e não o deixes cair na pobreza.” Cuida dos teus rebanhos. Educa os filhos desde a infância; vela pelas filhas; casa a tua filha com um homem sensato. Não repudies a mulher que é segundo o teu coração. E sobre os pais: “De todo o teu coração honra teu pai, e não te esqueças dos gemidos de tua mãe. Lembra-te que não terias nascido sem eles, e faze por eles o que eles fizeram por ti.”",
+    "alegorico": "A casa bem ordenada, com respeito pela esposa, pelos servos e pelos pais, prefigura a “Igreja doméstica” (Ef 5,21–6,9; Cl 3,18–4,1). O servo tratado “como a tua alma” anuncia a fraternidade cristã, onde Paulo pede a Filêmon que receba Onésimo “não como escravo, mas como irmão” (Fm 16).",
+    "moral": "A sabedoria se prova em casa: fidelidade à esposa, justiça com quem trabalha para nós, educação dos filhos, gratidão aos pais. O sábio pede que o trabalhador fiel seja amado e não seja deixado na pobreza: princípio de justiça social. E a lembrança dos “gemidos da mãe” é uma das expressões mais ternas da gratidão filial.",
+    "anagogico": "A família vivida no temor de Deus é preparação para a família eterna dos filhos de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não te separes da mulher sensata e virtuosa.” “Não trates mal o servo que trabalha com fidelidade.” “O servo sensato seja querido de ti como a tua alma.” “Não te esqueças dos gemidos de tua mãe.” “Lembra-te que não terias nascido sem eles.”",
+    "meditatio_perguntas": [
+      "Como trato os que trabalham para mim?",
+      "Sou fiel e grato ao cônjuge que Deus me deu?",
+      "Lembro-me do que os meus pais sofreram por mim?"
+    ],
+    "oratio_guia": "Senhor, abençoa a minha casa. Faz-me fiel no amor conjugal, justo com os que trabalham, atento à educação dos filhos e grato aos meus pais. Amém.",
+    "contemplatio_foco": {
+      "texto": "Lembra-te que não terias nascido sem eles, e faze por eles o que eles fizeram por ti",
+      "ref": "Eclo 7,30"
+    }
+  },
+  "ancoras": {
+    "7:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Ex 21,2 e Dt 15,12-15: a Lei previa a libertação do escravo hebreu no sétimo ano.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

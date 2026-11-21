@@ -1,0 +1,49 @@
+{
+  "id": "SIR.18.30",
+  "livro": "SIR",
+  "titulo": "Não sigas as tuas paixões",
+  "secao": "O domínio de si e a palavra",
+  "referencia": "Eclo 18,30–19,3",
+  "ini": {
+    "c": 18,
+    "v": 30
+  },
+  "fim": {
+    "c": 19,
+    "v": 3
+  },
+  "liturgia": {
+    "tema_central": "Refreia os teus apetites; quem despreza as coisas pequenas cairá",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Começa uma secção sobre o domínio de si. “Não te deixes ir atrás das tuas más tendências e refreia os teus apetites. Se condescenderes com a tua alma no que deseja, ela fará de ti a alegria dos teus inimigos.” Não te alegres nos banquetes, mesmo pequenos, nem te endividas para festejar, quando nada tens na bolsa: isso conduz à ruína. O sábio dá exemplos concretos: “O operário dado ao vinho não enriquecerá. Aquele que despreza as coisas pequenas, pouco a pouco cairá.” “O vinho e as mulheres desencaminham os próprios sábios, e tornam culpáveis os homens sensatos.” Quem se junta às prostitutas torna-se descarado; a podridão e os vermes serão a sua herança, e ele será exemplo para os outros. A queda raramente é repentina: começa por pequenas concessões ao desejo, pelos pequenos descuidos que, somados, arrastam a vida inteira. A liberdade verdadeira supõe governar os próprios apetites, em vez de ser governado por eles.",
+    "alegorico": "Cristo, que no deserto venceu a tentação do pão, do poder e da glória (Mt 4,1-11), é o modelo do domínio de si. Ele ensina que “quem é fiel no pouco é fiel também no muito” (Lc 16,10). A temperança é fruto do Espírito (Gl 5,23), que dá ao cristão a liberdade dos filhos de Deus.",
+    "moral": "Ninguém cai de repente: a ruína moral começa nas pequenas coisas desprezadas, nos apetites a que se cede sem pensar. O vinho, o sexo desordenado, as festas acima das posses são exemplos atuais. A temperança não é negar o prazer, mas ordená-lo, para que o desejo não faça de nós “a alegria dos nossos inimigos”.",
+    "anagogico": "Quem aprende a governar-se no pouco será posto sobre o muito: “Servo bom e fiel, entra na alegria do teu senhor” (Mt 25,21)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não te deixes ir atrás das tuas más tendências.” “Refreia os teus apetites.” “Ela fará de ti a alegria dos teus inimigos.” “Aquele que despreza as coisas pequenas, pouco a pouco cairá.” “O vinho e as mulheres desencaminham os próprios sábios.”",
+    "meditatio_perguntas": [
+      "Que pequenas concessões estão me levando a cair aos poucos?",
+      "Que apetite precisa ser refreado na minha vida?",
+      "Gasto acima das minhas posses para me divertir?"
+    ],
+    "oratio_guia": "Senhor, dá-me o domínio de mim mesmo e a fidelidade nas pequenas coisas. Que eu não seja escravo dos meus apetites, mas livre para te servir. Amém.",
+    "contemplatio_foco": {
+      "texto": "Aquele que despreza as coisas pequenas, pouco a pouco cairá",
+      "ref": "Eclo 19,1"
+    }
+  },
+  "ancoras": {
+    "19:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Sentença muito citada pelos autores espirituais sobre a fidelidade nas pequenas coisas.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

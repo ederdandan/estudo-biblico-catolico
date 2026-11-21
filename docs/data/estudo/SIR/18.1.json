@@ -1,0 +1,49 @@
+{
+  "id": "SIR.18.1",
+  "livro": "SIR",
+  "titulo": "A misericórdia de Deus abraça toda a carne",
+  "secao": "Deus, o homem e a misericórdia",
+  "referencia": "Eclo 18,1-14",
+  "ini": {
+    "c": 18,
+    "v": 1
+  },
+  "fim": {
+    "c": 18,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "A misericórdia de Deus abraça toda a carne",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio contempla o Eterno: “Aquele que vive eternamente criou todas as coisas… Só o Senhor será reconhecido justo.” Quem pode contar as suas obras, penetrar as suas maravilhas, descrever a sua grandeza? Nada se pode tirar nem acrescentar; quando o homem acaba, está apenas no começo. E pergunta: “Que é o homem, e para que presta?” A duração da sua vida é de cem anos, no máximo, “mas, qual gota de água do mar, ou grão de areia, assim são estes poucos anos comparados com o dia da eternidade”. “Por isso é que o Senhor é paciente com os homens, e derrama sobre eles a sua misericórdia.” Vê que o seu fim é miserável e por isso multiplica o perdão. “A misericórdia do homem tem por objeto o seu próximo, porém a misericórdia de Deus estende-se a todo o ser vivo.” Cheio de compaixão, ele corrige, ensina e conduz, “como um pastor faz ao seu rebanho”. Tem piedade dos que aceitam a correção e buscam os seus juízos.",
+    "alegorico": "O Deus que conduz como um pastor revela-se em Cristo, Bom Pastor (Jo 10). A misericórdia que se estende “a todo ser vivo” anuncia a salvação universal oferecida em Cristo, que “quer que todos os homens se salvem” (1Tm 2,4).",
+    "moral": "A nossa pequenez diante da eternidade não é motivo de desespero, mas a razão da paciência de Deus: ele nos conhece frágeis e por isso nos perdoa muito. A misericórdia humana é limitada, a de Deus não tem fronteiras. Isso nos convida a acolher a correção como cuidado de pastor.",
+    "anagogico": "Os poucos anos desta vida são como uma gota diante do mar da eternidade. A misericórdia de Deus nos prepara para esse oceano de vida."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Aquele que vive eternamente criou todas as coisas.” “Que é o homem, e para que presta?” “Qual gota de água do mar… assim são estes poucos anos comparados com o dia da eternidade.” “A misericórdia de Deus estende-se a todo o ser vivo.” “Como um pastor faz ao seu rebanho.”",
+    "meditatio_perguntas": [
+      "Vejo a minha vida à luz da eternidade?",
+      "Acolho a correção de Deus como cuidado de pastor?",
+      "A minha misericórdia é estreita ou se alarga como a de Deus?"
+    ],
+    "oratio_guia": "Senhor eterno, que és paciente com a nossa fragilidade, obrigado pela tua misericórdia sem limites. Conduz-me como pastor e prepara-me para a eternidade. Amém.",
+    "contemplatio_foco": {
+      "texto": "A misericórdia do homem tem por objecto o seu próximo, porém a misericórdia de Deus estende-se a todo o ser vivo",
+      "ref": "Eclo 18,12"
+    }
+  },
+  "ancoras": {
+    "18:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Sl 89,10 e 2Pd 3,8: diante de Deus, mil anos são como um dia.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

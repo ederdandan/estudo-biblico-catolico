@@ -1,0 +1,49 @@
+{
+  "id": "SIR.28.12",
+  "livro": "SIR",
+  "titulo": "O mal da língua",
+  "secao": "A família, a amizade e a vida social",
+  "referencia": "Eclo 28,12-30",
+  "ini": {
+    "c": 28,
+    "v": 12
+  },
+  "fim": {
+    "c": 28,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "O golpe da língua esmigalha os ossos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio volta à língua, agora mostrando o seu poder destruidor. A ira cresce com o poder e a riqueza; “a precipitação em discutir acende o fogo”. E uma imagem genial: “Se assoprares a uma faúlha ela se inflamará; se cuspires sobre ela, se apagará: ambas as coisas saem da boca.” “O mexeriqueiro e o homem de duas línguas são malditos, porque perturbam muitos que viviam em paz.” A terceira língua, a da calúnia, abalou muitos, dispersou-os de nação em nação, destruiu cidades fortes e derrubou casas de grandes; expulsou mulheres virtuosas e as privou do fruto do seu trabalho. “O golpe dum açoite faz uma pisadura, mas o golpe da língua esmigalha os ossos. Muitos morreram passados ao fio da espada, porém não tantos como os que morreram por culpa da sua língua.” Feliz quem está protegido da língua má. O jugo dela é de ferro, a sua morte é amarga. Daí o conselho: “Cerca os teus ouvidos com espinhos, não queiras ouvir a língua má, e põe na tua boca uma porta com ferrolhos. Funde o teu ouro e a tua prata, e faze uma balança para as tuas palavras, e um freio bem ajustado para a tua boca.”",
+    "alegorico": "São Tiago desenvolve as mesmas imagens: a língua é uma pequena chama que incendeia uma floresta, e da mesma boca saem bênção e maldição (Tg 3,5-10). Cristo, “o Verbo”, usou a palavra só para curar e salvar.",
+    "moral": "A mesma boca pode apagar ou acender um incêndio. A fofoca, a calúnia e a língua dobre causam mais mortes que a espada: destroem reputações, famílias e comunidades. O sábio pede dupla vigilância: não ouvir a língua má e pesar as próprias palavras numa balança.",
+    "anagogico": "Pelas nossas palavras seremos justificados ou condenados (Mt 12,37). A língua posta a serviço do bem prepara o canto eterno de louvor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Se assoprares a uma faúlha ela se inflamará, se cuspires sobre ela, se apagará: ambas as coisas saem da boca.” “O golpe da língua esmigalha os ossos.” “Cerca os teus ouvidos com espinhos.” “Faze uma balança para as tuas palavras.”",
+    "meditatio_perguntas": [
+      "As minhas palavras acendem ou apagam conflitos?",
+      "Dou ouvidos à fofoca e à calúnia?",
+      "Peso as minhas palavras antes de falar ou publicar?"
+    ],
+    "oratio_guia": "Senhor, põe uma porta com ferrolhos na minha boca e espinhos nos meus ouvidos contra a língua má. Que as minhas palavras apaguem incêndios e construam a paz. Amém.",
+    "contemplatio_foco": {
+      "texto": "O golpe dum açoite faz uma pisadura, mas o golpe da língua esmigalha os ossos",
+      "ref": "Eclo 28,21"
+    }
+  },
+  "ancoras": {
+    "28:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “terceira língua” é provavelmente a do caluniador que se põe entre duas pessoas.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

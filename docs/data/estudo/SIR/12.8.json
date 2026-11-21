@@ -1,0 +1,49 @@
+{
+  "id": "SIR.12.8",
+  "livro": "SIR",
+  "titulo": "O inimigo de lágrimas nos olhos",
+  "secao": "Conselhos para a vida",
+  "referencia": "Eclo 12,8-19",
+  "ini": {
+    "c": 12,
+    "v": 8
+  },
+  "fim": {
+    "c": 12,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "O inimigo com lágrimas nos olhos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio descreve o falso amigo e o inimigo dissimulado. “Não é na prosperidade que o amigo se conhece, e o inimigo não ficará encoberto nas adversidades.” Quando um homem é feliz, os seus inimigos se entristecem; quando cai, até o amigo se afasta. “Não te fies jamais no teu inimigo, porque a sua malícia é como o azebre que ataca o cobre”: ainda que pareça humilde e venha cabisbaixo, fica atento. Não o ponhas ao teu lado, para que não tome o teu lugar. Quem terá pena do encantador mordido pela serpente? Assim é quem se junta ao pecador. Ficará contigo uma hora; se caíres, não te sustentará. “O inimigo tem sobre os lábios a doçura, mas no seu coração arma laços para te fazer cair na cova. O inimigo tem lágrimas nos olhos, mas, se encontrar ocasião, não se fartará de teu sangue.” Fingindo socorrer-te, te fará tropeçar; abanará a cabeça, baterá palmas, cochichará e mudará de rosto.",
+    "alegorico": "O inimigo de lábios doces e coração traiçoeiro é o retrato de Judas, que entrega o Mestre com um beijo (Lc 22,47-48). Também o tentador se apresenta com doçura. Cristo, conhecendo o coração do traidor, ainda o chama de “amigo” (Mt 26,50): a vigilância do sábio se une à caridade do Salvador.",
+    "moral": "A adversidade revela os verdadeiros amigos e os inimigos disfarçados. O sábio ensina a não ser ingênuo: lágrimas e palavras doces podem esconder intenções más. Mas a prudência não deve tornar-se desconfiança universal nem ódio. O cristão vigia, mas não fecha o coração ao perdão.",
+    "anagogico": "No fim, todo disfarce cairá: Deus revelará os segredos dos corações (1Cor 4,5), e só a verdade do amor permanecerá diante dele."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não é na prosperidade que o amigo se conhece.” “Não te fies jamais no teu inimigo.” “O inimigo tem sobre os lábios a doçura, mas no seu coração arma laços.” “O inimigo tem lágrimas nos olhos.”",
+    "meditatio_perguntas": [
+      "Sou ingênuo ou desconfiado demais?",
+      "Os meus lábios e o meu coração dizem a mesma coisa?",
+      "Como permanecer prudente sem deixar de perdoar?"
+    ],
+    "oratio_guia": "Senhor, que conheceste o beijo do traidor, dá-me a prudência que discerne e o coração que perdoa. Livra-me de ter doçura nos lábios e laços no coração. Amém.",
+    "contemplatio_foco": {
+      "texto": "O inimigo tem sobre os lábios a doçura, mas no seu coração arma laços para te fazer cair na cova",
+      "ref": "Eclo 12,15"
+    }
+  },
+  "ancoras": {
+    "12:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O azebre (verdete) corrói o cobre lentamente: imagem da malícia persistente.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

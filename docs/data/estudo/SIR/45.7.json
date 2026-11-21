@@ -1,0 +1,57 @@
+{
+  "id": "SIR.45.7",
+  "livro": "SIR",
+  "titulo": "Aarão e Fineias",
+  "secao": "O elogio dos antepassados",
+  "referencia": "Eclo 45,7-31",
+  "ini": {
+    "c": 45,
+    "v": 7
+  },
+  "fim": {
+    "c": 45,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Aarão e o sacerdócio eterno; Fineias",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O elogio mais longo é o de Aarão, porque o autor ama o culto do templo. Deus “exaltou seu irmão Aarão, semelhante a ele, da tribo de Levi. Estabeleceu com ele um pacto eterno, deu-lhe o sacerdócio do seu povo, encheu-o de felicidade e de glória.” Cingiu-o de glória e revestiu-o de vestes magníficas: a túnica, o manto, o éfode, as campainhas de ouro que ressoavam quando entrava no santuário, o peitoral com as pedras gravadas com os nomes das tribos, a coroa de ouro com a inscrição “Santidade”. Moisés o consagrou com o óleo santo; “foi-lhe concedido, por um pacto eterno, e aos seus descendentes enquanto durarem os dias do céu, o exercer as funções do sacerdócio, cantar os louvores de Deus e abençoar o seu povo em seu nome”. Deus o escolheu para oferecer o incenso e o perfume em memória, e para ensinar a lei a Israel. Quando Coré, Datã e Abiram se revoltaram contra ele no deserto, Deus “operou contra eles prodígios, e consumiu-os com chamas de fogo”. Aarão não recebeu terra, porque o próprio Senhor era a sua parte. Por fim, “Fineias, filho de Eleazar, é o terceiro em glória”, pelo seu zelo, e recebeu a aliança do sacerdócio perpétuo.",
+    "alegorico": "O sacerdócio de Aarão, com as suas vestes e sacrifícios, é figura do sacerdócio de Cristo, “sumo sacerdote eterno segundo a ordem de Melquisedec”, que entrou no santuário celeste com o seu próprio sangue (Hb 7–9). O sacerdócio ministerial da Igreja participa deste sacerdócio único.",
+    "moral": "O culto tem beleza e dignidade, porque é dirigido a Deus. O sacerdote é escolhido para louvar, interceder, ensinar e abençoar; e “o Senhor é a sua parte”, não a terra nem as riquezas. Este texto convida a rezar pelos sacerdotes e a respeitar a liturgia.",
+    "anagogico": "A liturgia terrena é imagem da liturgia celeste, onde Cristo, sumo sacerdote, intercede por nós para sempre (Hb 7,25)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Estabeleceu com ele um pacto eterno, deu-lhe o sacerdócio do seu povo.” “Cingiu-o de glória.” “Cantar os louvores de Deus e abençoar o seu povo em seu nome.” “O próprio Senhor era a sua parte.”",
+    "meditatio_perguntas": [
+      "Rezo pelos sacerdotes?",
+      "Participo da liturgia com reverência?",
+      "O Senhor é a “minha parte” e herança?"
+    ],
+    "oratio_guia": "Senhor, que escolheste Aarão para o teu serviço, abençoa os teus sacerdotes. Que eles louvem, intercedam e abençoem o teu povo, e que tu sejas sempre a sua parte. Amém.",
+    "contemplatio_foco": {
+      "texto": "Exaltou seu irmão Aarão, semelhante a ele, da tribo de Levi",
+      "ref": "Eclo 45,7"
+    }
+  },
+  "ancoras": {
+    "45:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Nm 16: a revolta de Coré, Datã e Abiram.",
+        "origem": "ia"
+      }
+    },
+    "45:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Nm 25,7-13: o zelo de Fineias.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

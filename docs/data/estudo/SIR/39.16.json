@@ -1,0 +1,57 @@
+{
+  "id": "SIR.39.16",
+  "livro": "SIR",
+  "titulo": "Todas as obras do Senhor são boas",
+  "secao": "A glória de Deus nas suas obras",
+  "referencia": "Eclo 39,16-41",
+  "ini": {
+    "c": 39,
+    "v": 16
+  },
+  "fim": {
+    "c": 39,
+    "v": 41
+  },
+  "liturgia": {
+    "tema_central": "Todas as obras do Senhor são muito boas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio, “cheio de entusiasmo”, convida ao louvor: “Ouvi-me, filhos santos, e crescei como a roseira plantada junto das águas correntes.” “Dai flores como o lírio, exalai perfume, lançai graciosos ramos, entoai cantos de louvor e bendizei o Senhor nas suas obras.” Proclamai o seu nome com harpas e cânticos e dizei: “Todas as obras do Senhor são muito boas.” À sua palavra as águas pararam como num montão; nada é difícil para ele. “O seu olhar estende-se de século em século, e nada é maravilhoso para ele. Não se pode dizer: Que é isto, ou que é aquilo? Com efeito, todas as coisas foram criadas para seus usos.” A sua bênção transborda como um rio e rega a terra. As mesmas coisas que são bens para os justos tornam-se males para os pecadores: água, fogo, ferro, sal, farinha, leite, mel, vinho, azeite e vestido. Também os ventos, o fogo, o granizo, a fome e a morte foram criados para o castigo. O sábio conclui com convicção: “Todas as obras do Senhor são boas, e cada uma delas, chegada a sua hora, fará o seu serviço.” Não se pode dizer: isto é pior do que aquilo, porque tudo, a seu tempo, será reconhecido bom. “E agora, de todo o coração e com a boca, louvai e bendizei o nome do Senhor.”",
+    "alegorico": "O refrão “todas as obras do Senhor são muito boas” ecoa Gn 1,31 e o cântico dos três jovens na fornalha, “Obras do Senhor, bendizei o Senhor” (Dn 3,57), rezado nas Laudes de domingo. Paulo dirá: “tudo o que Deus criou é bom” (1Tm 4,4), e Cristo, por quem tudo foi feito, recapitula a criação.",
+    "moral": "A criação é boa, mas o uso que fazemos dela decide se é bênção ou maldição: a mesma água, o mesmo vinho, o mesmo fogo podem servir à vida ou à morte. O sábio também ensina confiança: o que hoje não entendemos, “a seu tempo” se revelará bom. A resposta adequada é o louvor.",
+    "anagogico": "“Cada uma, chegada a sua hora, fará o seu serviço”: no fim, toda a criação será reconhecida como boa e louvará a Deus nos novos céus e nova terra."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Crescei como a roseira plantada junto das águas correntes.” “Dai flores como o lírio.” “Todas as obras do Senhor são muito boas.” “Todas as coisas foram criadas para seus usos.” “De todo o coração e com a boca, louvai.”",
+    "meditatio_perguntas": [
+      "Louvo a Deus pelas suas obras?",
+      "Uso os bens da criação para o bem ou para o mal?",
+      "Confio que o que não entendo será um dia revelado bom?"
+    ],
+    "oratio_guia": "Senhor, todas as tuas obras são boas. Faz-me crescer como roseira junto às águas e louvar-te de todo o coração, usando os teus dons para o bem. Amém.",
+    "contemplatio_foco": {
+      "texto": "Todas as obras do Senhor são boas, e cada uma delas, chegada a sua hora, fará o seu serviço",
+      "ref": "Eclo 39,39"
+    }
+  },
+  "ancoras": {
+    "39:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Eco de Gn 1,31. Na numeração grega, 39,16.",
+        "origem": "ia"
+      }
+    },
+    "39:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 39,32: os mesmos bens são úteis aos justos e nocivos aos pecadores.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

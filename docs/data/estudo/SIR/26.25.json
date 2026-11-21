@@ -1,0 +1,49 @@
+{
+  "id": "SIR.26.25",
+  "livro": "SIR",
+  "titulo": "O perigo do comércio e da cobiça",
+  "secao": "A família, a amizade e a vida social",
+  "referencia": "Eclo 26,25–27,3",
+  "ini": {
+    "c": 26,
+    "v": 25
+  },
+  "fim": {
+    "c": 27,
+    "v": 3
+  },
+  "liturgia": {
+    "tema_central": "O comércio e o pecado; o forno prova os vasos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio aponta três coisas que o entristecem e irritam: o guerreiro que passa necessidade, o homem sensato desprezado e quem passa da justiça ao pecado, a quem Deus destina à espada. Depois fala dos perigos do comércio: “Dificultosamente evitará as faltas o que negoceia, e o taberneiro não estará isento dos pecados da língua.” “Por causa da pobreza muitos delinquiram; aquele que procura enriquecer-se afasta os olhos.” Como a estaca se crava entre as pedras, assim o pecado se aperta entre a compra e a venda. E conclui com uma advertência: o pecado se instala na troca, e só o temor de Deus protege a casa.",
+    "alegorico": "Jesus expulsa os vendedores do templo, que tinham feito da casa de oração um covil de ladrões (Mt 21,12-13), e adverte que não se pode servir a Deus e ao dinheiro (Mt 6,24). Zaqueu, que restitui o que defraudou, é o comerciante convertido (Lc 19,8).",
+    "moral": "O comércio não é mau em si, mas oferece muitas ocasiões de pecado: enganar no preço, na medida, na palavra. A ânsia de enriquecer faz “desviar os olhos” da justiça e do pobre. O cristão que trabalha com negócios precisa de vigilância especial e de um forte temor de Deus.",
+    "anagogico": "No juízo, as balanças falsas e os lucros injustos serão pesados; a justiça nos negócios é tesouro no céu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Dificultosamente evitará as faltas o que negoceia.” “Por causa da pobreza muitos delinquiram.” “Aquele que procura enriquecer-se afasta os olhos.” “O pecado se aperta entre a compra e a venda.”",
+    "meditatio_perguntas": [
+      "Sou honesto nos negócios e nas compras?",
+      "A ânsia de enriquecer me faz desviar os olhos da justiça?",
+      "Como uno trabalho e temor de Deus?"
+    ],
+    "oratio_guia": "Senhor, guarda-me da avareza e da desonestidade no trabalho e nos negócios. Que eu nunca desvie os olhos da justiça por amor ao dinheiro. Amém.",
+    "contemplatio_foco": {
+      "texto": "Dificultosamente evitará as faltas o que negoceia, e o taberneiro não estará isento dos pecados da língua",
+      "ref": "Eclo 26,28"
+    }
+  },
+  "ancoras": {
+    "26:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O taberneiro, no mundo antigo, tinha fama de enganar e de falar sem freio.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

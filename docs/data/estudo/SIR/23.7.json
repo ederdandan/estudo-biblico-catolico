@@ -1,0 +1,49 @@
+{
+  "id": "SIR.23.7",
+  "livro": "SIR",
+  "titulo": "A disciplina da língua; os juramentos",
+  "secao": "O domínio de si e a palavra",
+  "referencia": "Eclo 23,7-20",
+  "ini": {
+    "c": 23,
+    "v": 7
+  },
+  "fim": {
+    "c": 23,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "A disciplina da boca: juramentos e palavras torpes",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Ouvi, filhos, as regras que vos dou sobre a moderação da língua. Aquele que as guardar não perecerá pelos lábios.” O pecador será apanhado na sua vaidade, e o soberbo e o maldizente cairão por causa dela. Primeiro, o juramento: “A tua boca não se acostume ao juramento, porque isto é causa de muitas quedas.” Não te habitues a pronunciar o nome de Deus, nem a jurar pelos santos. Como o escravo vigiado não escapa das marcas, assim quem jura e nomeia a Deus a todo o momento não ficará puro do pecado. “O homem que jura muito será cheio de iniquidade, e a desgraça não se apartará de sua casa.” Segundo, a linguagem torpe: há palavras que equivalem à morte; não se encontrem na herança de Jacó. Não te habitues à linguagem grosseira, porque nela há palavra de pecado. Lembra-te de teu pai e de tua mãe quando estiveres entre os grandes, para que não te esqueças diante deles e, por mau hábito, te tornes motivo de vergonha. Quem se acostuma a palavras ultrajantes não se corrigirá em toda a sua vida.",
+    "alegorico": "Jesus leva este ensinamento à perfeição: “Não jureis de modo algum… seja o vosso falar sim, sim; não, não” (Mt 5,34-37). O segundo mandamento proíbe tomar o nome de Deus em vão. Paulo pede que “nenhuma palavra torpe saia da vossa boca” (Ef 4,29).",
+    "moral": "O hábito é decisivo: quem se acostuma a jurar, a usar o nome de Deus à toa ou a falar grosserias acaba dominado por isso. A reverência pelo nome de Deus e a limpeza da linguagem são sinais de um coração educado. A lembrança dos pais ajuda a não envergonhar a educação recebida.",
+    "anagogico": "O nome de Deus, hoje às vezes banalizado, será um dia louvado sem fim pelos santos: “Santo, Santo, Santo” (Ap 4,8)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ouvi, filhos, as regras… sobre a moderação da língua.” “A tua boca não se acostume ao juramento.” “O homem que jura muito será cheio de iniquidade.” “Não te habitues à linguagem grosseira.” “Lembra-te de teu pai e de tua mãe.”",
+    "meditatio_perguntas": [
+      "Uso o nome de Deus em vão por hábito?",
+      "A minha linguagem é limpa?",
+      "Que maus hábitos da língua preciso corrigir?"
+    ],
+    "oratio_guia": "Senhor, que o teu nome seja santificado nos meus lábios. Livra-me do hábito de jurar e da linguagem torpe, e faz que as minhas palavras sejam limpas e verdadeiras. Amém.",
+    "contemplatio_foco": {
+      "texto": "A tua boca não se acostume ao juramento, porque isto é causa de muitas quedas",
+      "ref": "Eclo 23,9"
+    }
+  },
+  "ancoras": {
+    "23:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Ex 20,7: o segundo mandamento; Tg 5,12.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

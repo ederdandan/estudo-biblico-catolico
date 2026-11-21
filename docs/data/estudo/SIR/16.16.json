@@ -1,0 +1,49 @@
+{
+  "id": "SIR.16.16",
+  "livro": "SIR",
+  "titulo": "Não digas: esconder-me-ei de Deus",
+  "secao": "Deus, o homem e a misericórdia",
+  "referencia": "Eclo 16,16-23",
+  "ini": {
+    "c": 16,
+    "v": 16
+  },
+  "fim": {
+    "c": 16,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Não digas: esconder-me-ei de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio combate uma ilusão comum: “Não digas: Esconder-me-ei de Deus; quem pensará em mim lá dos altos céus? Eu não serei conhecido entre um tão grande povo; pois que coisa é a minha alma entre tamanha multidão de criaturas?” Responde mostrando a grandeza de Deus: o céu e o céu dos céus, o abismo, toda a terra e tudo o que contêm tremem à sua presença; as montanhas e os fundamentos da terra estremecem quando ele os olha. E no entanto o coração insensato não pensa nisto. Quem compreende os seus caminhos e a tempestade que nenhum olho vê? A maior parte das suas obras está escondida. Quem anunciará a obra da sua justiça? O homem sem juízo pensa em coisas vãs; o insensato e extraviado pensa em loucuras.",
+    "alegorico": "O Salmo 138 responde à mesma ilusão: “Para onde irei longe do teu espírito? Para onde fugirei da tua face?” Jesus revela que o Pai, que vê em segredo, conta até os cabelos da nossa cabeça (Mt 6,6; 10,30): o olhar de Deus que alcança cada um não é ameaça, mas cuidado.",
+    "moral": "Pensar que somos pequenos demais para que Deus nos veja é uma desculpa para pecar sem medo. O sábio lembra que o Criador do universo vê cada alma. Esta verdade é grave para o pecador e consoladora para o aflito: ninguém está perdido na multidão para Deus.",
+    "anagogico": "No juízo, nada ficará escondido. Mas também nenhuma lágrima, nenhuma obra boa escondida terá sido ignorada: Deus as verá e recompensará."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não digas: Esconder-me-ei de Deus.” “Que coisa é a minha alma entre tamanha multidão de criaturas?” “O céu e o céu dos céus… tremerão à sua vista.” “A maior parte das suas obras são ocultas.”",
+    "meditatio_perguntas": [
+      "Já pensei que Deus não me via?",
+      "O olhar de Deus me assusta ou me consola?",
+      "Reconheço que sou conhecido e amado pessoalmente por ele?"
+    ],
+    "oratio_guia": "Senhor, que me vês e me conheces, livra-me da ilusão de me esconder de ti. Que o teu olhar me converta e me console, porque nunca estou perdido diante de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não digas: Esconder-me-ei de Deus; quem pensará em mim lá dos altos céus?",
+      "ref": "Eclo 16,16"
+    }
+  },
+  "ancoras": {
+    "16:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O argumento do pecador é a desproporção entre Deus e o homem; o sábio responde com a onipresença de Deus.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

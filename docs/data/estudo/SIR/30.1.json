@@ -1,0 +1,49 @@
+{
+  "id": "SIR.30.1",
+  "livro": "SIR",
+  "titulo": "A educação dos filhos",
+  "secao": "A família, a amizade e a vida social",
+  "referencia": "Eclo 30,1-13",
+  "ini": {
+    "c": 30,
+    "v": 1
+  },
+  "fim": {
+    "c": 30,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "A educação dos filhos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio, homem do seu tempo, fala da educação firme. “Aquele que ama o seu filho castiga-o com frequência, para que se alegre com isso mais tarde.” “Aquele que instrui o seu filho será louvado nele.” Quem ensina o filho causa inveja ao inimigo e alegria aos amigos. Morre o pai, e é como se não tivesse morrido, porque deixa um semelhante a si; viu-o e alegrou-se em vida, e na morte não se entristece. Deixou um defensor da casa contra os inimigos e alguém que retribui o bem aos amigos. Mas o filho mimado será ferida: quem acaricia demais o filho cuidará das suas feridas, e a cada grito se lhe comoverão as entranhas. O cavalo não domado fica intratável; o filho entregue a si mesmo torna-se insolente. Não rias com ele, para não chorares depois; não lhe dês liberdade na juventude, nem feches os olhos aos seus desvios. “Instrui o teu filho e trabalha por formá-lo, para que te não desonre com a sua vida vergonhosa.”",
+    "alegorico": "A carta aos Hebreus aplica a imagem a Deus: “O Senhor corrige a quem ama e castiga todo aquele que reconhece como filho” (Hb 12,5-11). Paulo, porém, completa: “Pais, não irriteis os vossos filhos, mas educai-os na disciplina e na correção do Senhor” (Ef 6,4).",
+    "moral": "Hoje rejeitamos com razão a violência na educação, que a revelação cristã e a dignidade da criança condenam. Mas permanece a lição: amar não é mimar nem deixar fazer tudo. Educar exige presença, limites, correção e paciência. O filho entregue a si mesmo sofre, e os pais também.",
+    "anagogico": "“É como se não tivesse morrido”: o pai que educa bem deixa no mundo uma imagem viva da sua fé, que prolonga a sua obra para além da morte."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Aquele que instrui o seu filho será louvado nele.” “Deixou um semelhante a si.” “O cavalo não domado fica intratável.” “Instrui o teu filho, e trabalha por formá-lo.”",
+    "meditatio_perguntas": [
+      "Educo com limites e amor, ou mimo por comodidade?",
+      "Corrijo sem humilhar nem ferir?",
+      "Que imagem de fé deixarei aos meus filhos?"
+    ],
+    "oratio_guia": "Senhor, Pai que corriges com amor, dá aos pais sabedoria para educar os filhos com firmeza e ternura. Que eles cresçam na tua disciplina e no teu amor. Amém.",
+    "contemplatio_foco": {
+      "texto": "Instrui o teu filho, e trabalha por formá-lo, para que te não desonre com a sua vida vergonhosa",
+      "ref": "Eclo 30,13"
+    }
+  },
+  "ancoras": {
+    "30:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O castigo físico reflete a pedagogia antiga; a Igreja hoje ensina a educação sem violência, à luz de Ef 6,4 e Cl 3,21.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

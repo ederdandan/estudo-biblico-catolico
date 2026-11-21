@@ -1,0 +1,57 @@
+{
+  "id": "SIR.15.11",
+  "livro": "SIR",
+  "titulo": "Diante do homem estão a vida e a morte",
+  "secao": "Conselhos para a vida",
+  "referencia": "Eclo 15,11-22",
+  "ini": {
+    "c": 15,
+    "v": 11
+  },
+  "fim": {
+    "c": 15,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Diante do homem estão a vida e a morte",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio enfrenta uma objeção: “Não digas: Deus é causa de estar longe de mim a sabedoria”; “não digas: Ele é que me transviou”, porque ele não precisa de pecadores. O Senhor odeia toda abominação. E afirma solenemente a liberdade humana: “Deus criou o homem desde o princípio, e deixou-o na mão do seu conselho.” Deu-lhe os seus mandamentos. “Se quiseres observar os mandamentos e praticar sempre com fidelidade o que é agradável a Deus, eles te guardarão. Ele pôs diante de ti a água e o fogo; lança a tua mão ao que quiseres. Diante do homem estão a vida e a morte, o bem e o mal; o que lhe agradar, isso lhe será dado.” A sabedoria de Deus é grande, ele tudo vê; os seus olhos estão sobre os que o temem, e ele conhece todas as obras do homem. “Ele a ninguém mandou obrar impiamente, a ninguém deu permissão de pecar”, porque não deseja uma multidão de filhos infiéis e inúteis.",
+    "alegorico": "Este é um dos textos bíblicos fundamentais sobre o livre-arbítrio, citado pelos Padres contra o fatalismo. Ecoa Dt 30,15-19: “ponho diante de ti a vida e a morte… escolhe, pois, a vida”. Em Cristo, a liberdade humana é libertada pela graça para escolher o bem (Gl 5,1.13).",
+    "moral": "Não podemos culpar Deus pelos nossos pecados: ele nos criou livres e responsáveis. A liberdade é dom imenso e grave: diante de nós estão a água e o fogo, a vida e a morte. Os mandamentos não limitam a liberdade, mas a guardam. Cada dia é uma escolha.",
+    "anagogico": "A escolha entre a vida e a morte tem alcance eterno. Quem escolhe a vida em Deus, livremente, recebe por fim a vida que não acaba."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não digas: Ele é que me transviou.” “Deus criou o homem desde o princípio, e deixou-o na mão do seu conselho.” “Ele pôs diante de ti a água e o fogo; lança a tua mão ao que quiseres.” “Diante do homem estão a vida e a morte.” “A ninguém deu permissão de pecar.”",
+    "meditatio_perguntas": [
+      "Culpo Deus ou os outros pelos meus pecados?",
+      "Uso a minha liberdade para escolher a vida?",
+      "Vejo os mandamentos como guardiões da minha liberdade?"
+    ],
+    "oratio_guia": "Senhor, que me criaste livre, ajuda-me a escolher sempre a vida. Que eu não te culpe pelos meus erros, mas assuma as minhas escolhas e me deixe guardar pelos teus mandamentos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Diante do homem estão a vida e a morte, o bem e o mal; o que lhe agradar, isso lhe será dado",
+      "ref": "Eclo 15,18"
+    }
+  },
+  "ancoras": {
+    "15:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto clássico sobre o livre-arbítrio, citado pelo Catecismo ao tratar da liberdade humana.",
+        "origem": "ia"
+      }
+    },
+    "15:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto lido no 6º Domingo do Tempo Comum, Ano A.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

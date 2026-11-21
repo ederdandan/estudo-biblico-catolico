@@ -1,0 +1,57 @@
+{
+  "id": "SIR.3.1",
+  "livro": "SIR",
+  "titulo": "Honra teu pai e tua mãe",
+  "secao": "Os pais, os pobres e a sabedoria",
+  "referencia": "Eclo 3,1-18",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Honra teu pai e tua mãe",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Começa um ensinamento sobre o quarto mandamento. “Deus quis honrar o pai pelos filhos e firmou cuidadosamente sobre eles a autoridade da mãe.” Quem honra o pai expia os seus pecados; “como quem acumula tesouros, assim é aquele que honra sua mãe”. Quem honra o pai terá alegria nos seus filhos e será ouvido quando rezar; terá vida longa; quem obedece ao pai consola a mãe. “Honra teu pai por ações, por palavras e com toda a paciência”, para que a sua bênção venha sobre ti; a bênção do pai firma a casa dos filhos, e a maldição da mãe a destrói. Não te glories da desonra do teu pai. E vem um dos conselhos mais ternos da Bíblia: “Filho, ampara a velhice de teu pai, não o entristeças durante a sua vida. Se o seu espírito se for enfraquecendo, suporta-o, não o desprezes por teres mais vigor do que ele, pois a caridade exercida com teu pai não ficará no esquecimento.” Em vez dos teus pecados, ela te será contada; no dia da tribulação Deus se lembrará de ti, e os teus pecados se derreterão como o gelo ao sol. Quem abandona o pai é como um blasfemo, e quem irrita a mãe é amaldiçoado por Deus.",
+    "alegorico": "Cristo viveu perfeitamente este mandamento: submisso a Maria e José em Nazaré (Lc 2,51) e, na cruz, cuidando da mãe ao confiá-la ao discípulo (Jo 19,26-27). A honra devida aos pais é imagem da honra devida ao Pai do céu.",
+    "moral": "Honrar os pais não termina com a infância: inclui cuidar deles na velhice, ter paciência quando perdem as forças e a lucidez. O texto liga este cuidado ao perdão dos pecados e à oração atendida. Numa época que muitas vezes descarta os idosos, este capítulo é um apelo forte à gratidão e à paciência.",
+    "anagogico": "A caridade com os pais “não ficará no esquecimento”: Deus a guarda para o dia do juízo, e ela será contada em favor de quem a praticou."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Como quem acumula tesouros, assim é aquele que honra sua mãe.” “Honra teu pai por ações, por palavras e com toda a paciência.” “Ampara a velhice de teu pai.” “Se o seu espírito se for enfraquecendo, suporta-o.” “A caridade exercida com teu pai não ficará no esquecimento.”",
+    "meditatio_perguntas": [
+      "Como honro hoje os meus pais, vivos ou falecidos?",
+      "Tenho paciência com os idosos que perdem as forças?",
+      "Rezo pelos meus pais?"
+    ],
+    "oratio_guia": "Senhor, que quiseste ser honrado na honra aos pais, dá-me paciência e ternura com os meus pais e com todos os idosos. Que a minha caridade com eles seja agradável a ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Filho, ampara a velhice de teu pai não o entristeças durante a sua vida",
+      "ref": "Eclo 3,14"
+    }
+  },
+  "ancoras": {
+    "3:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto lido na Festa da Sagrada Família (Ano A). Cf. Ex 20,12.",
+        "origem": "ia"
+      }
+    },
+    "3:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na Vulgata, 3,17 fala dos pecados que se derretem como o gelo ao sol.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

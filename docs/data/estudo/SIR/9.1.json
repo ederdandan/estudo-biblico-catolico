@@ -1,0 +1,49 @@
+{
+  "id": "SIR.9.1",
+  "livro": "SIR",
+  "titulo": "Guarda os teus olhos",
+  "secao": "Conselhos para a vida",
+  "referencia": "Eclo 9,1-13",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Guarda os teus olhos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio dá conselhos sobre a relação com as mulheres, refletindo a mentalidade de uma sociedade patriarcal, mas com uma intuição moral perene: a castidade começa pelos olhos. Não sejas ciumento da mulher que amas, para que não aprenda contigo o mal; não entregues a alma ao domínio de outra pessoa. “Não detenhas os teus olhos sobre uma donzela, para que a sua beleza não te seja ocasião de queda.” Não te entregues às prostitutas, para não perderes a ti e aos teus bens. “Não deixes errar os olhos pelas ruas da cidade, nem andes vagueando pelas suas praças. Afasta os teus olhos da mulher enfeitada, e não olhes com insistência para a formosura alheia.” “Por causa da formosura da mulher pereceram muitos, e por ela se acende a concupiscência como fogo.” Muitos, por admirarem a beleza da mulher do próximo, se perderam, porque a sua conversa queima como fogo. Não te sentes com a mulher casada nem te recostes com ela à mesa, nem bebas vinho com ela, para que o teu coração não se incline para ela e caias na perdição.",
+    "alegorico": "Jesus aprofunda este ensinamento: “Todo aquele que olha para uma mulher com desejo já cometeu adultério com ela no seu coração” (Mt 5,28). A pureza do olhar é condição para ver a Deus: “Bem-aventurados os puros de coração” (Mt 5,8). O olhar purificado vê no outro uma pessoa, não um objeto.",
+    "moral": "Lido hoje, o texto vale para homens e mulheres: a guarda dos olhos e a prudência nas situações de intimidade protegem a fidelidade. O desejo se acende “como fogo” a partir do olhar insistente e da conversa imprudente. A sabedoria não está em confiar na própria força, mas em evitar as ocasiões.",
+    "anagogico": "O olhar purificado nesta vida prepara o olhar que contemplará a Deus. A castidade é antecipação da vida dos ressuscitados, que “serão como anjos” (Mt 22,30)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não detenhas os teus olhos sobre uma donzela.” “Não deixes errar os olhos pelas ruas da cidade.” “Não olhes com insistência para a formosura alheia.” “Por ela se acende a concupiscência como fogo.” “A sua conversação queima como fogo.”",
+    "meditatio_perguntas": [
+      "Guardo o meu olhar, também nas telas e nas redes?",
+      "Evito as ocasiões que põem em risco a fidelidade?",
+      "Vejo os outros como pessoas ou como objetos?"
+    ],
+    "oratio_guia": "Senhor, purifica os meus olhos e o meu coração. Dá-me a prudência de evitar as ocasiões e a pureza de ver em cada pessoa a tua imagem. Amém.",
+    "contemplatio_foco": {
+      "texto": "Afasta os teus olhos da mulher enfeitada, e não olhes com insistência para a formosura alheia",
+      "ref": "Eclo 9,8"
+    }
+  },
+  "ancoras": {
+    "9:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O texto reflete a cultura patriarcal do autor; o princípio moral, a guarda do coração, vale para todos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

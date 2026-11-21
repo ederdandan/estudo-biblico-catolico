@@ -1,0 +1,49 @@
+{
+  "id": "SIR.37.1",
+  "livro": "SIR",
+  "titulo": "O falso amigo e o bom conselheiro",
+  "secao": "O culto, a oração e o conselho",
+  "referencia": "Eclo 37,1-19",
+  "ini": {
+    "c": 37,
+    "v": 1
+  },
+  "fim": {
+    "c": 37,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "Os falsos amigos e os conselheiros interessados",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio volta à amizade e ao conselho. “Todo o amigo dirá: Eu também contraí amizade contigo. Porém há amigos que o são somente de nome.” Não é uma dor que se aproxima da morte “que o companheiro e o amigo se convertam em inimigos”? Há quem se alegre com o amigo nos prazeres e no tempo da tribulação seja contra ele; há quem sofra com o amigo por causa do ventre, mas pegue o escudo à vista do inimigo. Não esqueças o amigo na tua alma, nem o esqueças nas tuas riquezas. Sobre o conselho: todo conselheiro dá conselhos, mas há quem aconselhe em proveito próprio. “Vê bem com quem te aconselhas; informa-te primeiro quais são os seus interesses.” Não consultes o sem-religião sobre santidade, o injusto sobre justiça, o covarde sobre guerra, o comerciante sobre negócios, o invejoso sobre gratidão. Busca, ao contrário, o homem piedoso, que guarda os mandamentos e cuja alma é semelhante à tua. “Forma dentro de ti um coração de bom conselho”, porque nada vale mais; a alma do homem às vezes anuncia mais que sete sentinelas numa torre. “Mas sobretudo pede ao Altíssimo que dirija o teu caminho em verdade.”",
+    "alegorico": "O amigo que se torna inimigo evoca o Salmo 54,13-15 e Judas, “o amigo em quem eu confiava” (Sl 40,10; Jo 13,18). O Espírito Santo, “Conselheiro” (Paráclito), forma em nós um coração de bom conselho (Jo 14,26).",
+    "moral": "Na escolha dos conselheiros, é preciso ver os seus interesses: cada um aconselha segundo o que lhe convém. O bom conselheiro é o piedoso, fiel aos mandamentos, que sofre conosco. Mas acima de tudo está a consciência formada e a oração: pedir a Deus que dirija o caminho.",
+    "anagogico": "O Deus que dirige o caminho “em verdade” conduz por fim à Verdade plena, que é ele mesmo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Há amigos que o são somente de nome.” “Vê bem com quem te aconselhas.” “Forma dentro de ti um coração de bom conselho.” “Sobretudo pede ao Altíssimo que dirija o teu caminho em verdade.”",
+    "meditatio_perguntas": [
+      "De quem busco conselho? Que interesses têm?",
+      "Formo a minha consciência para discernir?",
+      "Peço a Deus que dirija os meus caminhos?"
+    ],
+    "oratio_guia": "Senhor, dá-me amigos verdadeiros e conselheiros piedosos. Forma em mim um coração de bom conselho e dirige sempre o meu caminho na verdade. Amém.",
+    "contemplatio_foco": {
+      "texto": "Mas sobretudo pede ao Altíssimo que dirija o teu caminho em verdade",
+      "ref": "Eclo 37,19"
+    }
+  },
+  "ancoras": {
+    "37:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A consciência como “sete sentinelas”: imagem da voz interior que vê mais longe.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

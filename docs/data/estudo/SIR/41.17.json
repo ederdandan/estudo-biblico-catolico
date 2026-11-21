@@ -1,0 +1,49 @@
+{
+  "id": "SIR.41.17",
+  "livro": "SIR",
+  "titulo": "De que se envergonhar e de que não se envergonhar",
+  "secao": "A condição humana",
+  "referencia": "Eclo 41,17–42,14",
+  "ini": {
+    "c": 41,
+    "v": 17
+  },
+  "fim": {
+    "c": 42,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "De que te envergonhar e de que não te envergonhar",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio distingue a vergonha boa da má. “Conservai, filhos, em paz a minha instrução, porque, se a sabedoria está escondida e o tesouro é invisível, que utilidade pode haver em ambas estas coisas?” Tende vergonha: diante do pai e da mãe, da fornicação; diante do chefe e do poderoso, da mentira; diante do juiz, do delito; diante da assembleia, da iniquidade; diante do amigo, da injustiça; diante dos vizinhos, do roubo; de apoiar o cotovelo sobre o pão; de olhar uma prostituta; de desviar o rosto do parente; de olhar a mulher alheia. “Não repitas o que tiveres ouvido, não reveles um segredo; assim serás verdadeiramente isento de confusão.” Mas “não te envergonhes” destas coisas: da lei do Altíssimo e da aliança; de fazer justiça ao ímpio; da exatidão nas contas, nos pesos e medidas; de corrigir o filho; de guardar com prudência o que é teu. Seguem preocupações do pai com a filha, segundo a mentalidade da época: que não passe da idade sem casar, que não seja seduzida, que não envergonhe a casa.",
+    "alegorico": "Jesus diz: “Quem se envergonhar de mim e das minhas palavras, dele se envergonhará o Filho do homem” (Lc 9,26). Paulo: “Não me envergonho do Evangelho” (Rm 1,16). A vergonha boa e a má (cf. Eclo 4,25) recebem em Cristo o seu critério definitivo.",
+    "moral": "Há uma vergonha saudável, que nos impede de fazer o mal diante dos outros e de Deus; e uma vergonha errada, que nos impede de fazer o bem: confessar a fé, ser honesto nas contas, corrigir. O cristão deve envergonhar-se do pecado, nunca da Lei de Deus nem do Evangelho.",
+    "anagogico": "No juízo, quem não se envergonhou de Cristo diante dos homens será reconhecido por ele diante do Pai (Mt 10,32)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Se a sabedoria está escondida e o tesouro é invisível, que utilidade pode haver?” “Não repitas o que tiveres ouvido.” “Não te envergonhes da lei do Altíssimo e da aliança.” “Da exatidão nas contas, nos pesos e medidas.”",
+    "meditatio_perguntas": [
+      "De que me envergonho: do pecado ou do bem?",
+      "Tenho vergonha de manifestar a minha fé?",
+      "Sou exato e honesto nas contas?"
+    ],
+    "oratio_guia": "Senhor, dá-me a vergonha santa que afasta do pecado e livra-me da vergonha que me impede de confessar a tua lei e o teu Evangelho. Amém.",
+    "contemplatio_foco": {
+      "texto": "Melhor é o homem que esconde a sua estultícia, do que o homem que esconde a sua sabedoria",
+      "ref": "Eclo 41,18"
+    }
+  },
+  "ancoras": {
+    "42:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os vv. 42,9-14 refletem a preocupação patriarcal com a honra da filha; devem ser lidos no contexto cultural.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

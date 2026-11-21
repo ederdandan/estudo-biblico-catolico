@@ -1,0 +1,49 @@
+{
+  "id": "SIR.21.1",
+  "livro": "SIR",
+  "titulo": "Foge do pecado como de uma serpente",
+  "secao": "O domínio de si e a palavra",
+  "referencia": "Eclo 21,1-11",
+  "ini": {
+    "c": 21,
+    "v": 1
+  },
+  "fim": {
+    "c": 21,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "Foge do pecado como de uma serpente",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio volta-se para o pecador: “Filho, pecaste? Não tornes a pecar, mas faze oração pelas tuas faltas passadas, para que te sejam perdoadas. Foge dos pecados como de uma serpente, porque, se te aproximares, serás apanhado.” Os dentes do pecado são dentes de leão que matam as almas. “Todo o pecado é como uma espada de dois fios; a sua ferida não tem cura.” A violência e a injustiça arruínam as riquezas; a casa do soberbo será arrasada. E Deus escuta o pobre: “A súplica do pobre chegará desde a sua boca até aos ouvidos de Deus, e prontamente lhe será feita justiça.” Quem odeia a correção segue os passos do pecador; quem teme a Deus se converte de coração. Quem constrói a casa com o dinheiro alheio é como quem junta pedras para o seu túmulo. A assembleia dos maus é como estopa junta para o fogo. O caminho dos pecadores é liso e plano, mas termina no abismo, nas trevas e nos castigos. Quem guarda a lei domina os seus pensamentos, e o fim do temor de Deus é a sabedoria.",
+    "alegorico": "“Não tornes a pecar” é a palavra de Jesus à mulher adúltera e ao paralítico curado (Jo 8,11; 5,14). A serpente evoca o tentador do Éden (Gn 3), vencido por Cristo. O caminho liso que termina no abismo é a “porta larga” do Evangelho (Mt 7,13).",
+    "moral": "O texto une misericórdia e firmeza: o pecado passado pode ser perdoado pela oração e pela conversão, mas é preciso não voltar a ele e fugir das ocasiões, como quem foge de uma serpente. Ninguém deve aproximar-se do pecado achando que é forte. E o caminho fácil do mal engana: parece plano, mas acaba no abismo.",
+    "anagogico": "O fim do caminho dos pecadores são as trevas; o fim do temor de Deus é a sabedoria e a vida. Cada escolha aproxima de um destes fins eternos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Filho, pecaste? Não tornes a pecar.” “Faze oração pelas tuas faltas passadas.” “Foge dos pecados como de uma serpente.” “A súplica do pobre chegará até aos ouvidos de Deus.” “O caminho dos pecadores é liso e plano, mas termina no abismo.”",
+    "meditatio_perguntas": [
+      "De que ocasiões de pecado preciso fugir?",
+      "Rezo pelas minhas faltas passadas com confiança no perdão?",
+      "Deixo-me enganar pelo caminho fácil?"
+    ],
+    "oratio_guia": "Senhor, perdoa os meus pecados passados e dá-me a força de não voltar a eles. Que eu fuja do pecado como de uma serpente e caminhe pela estrada estreita que leva a ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Filho, pecaste? Não tornes a pecar, mas faze oração pelas tuas faltas passadas, para que te sejam perdoadas",
+      "ref": "Eclo 21,1"
+    }
+  },
+  "ancoras": {
+    "21:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Ex 22,22-26 e Eclo 35,21: Deus escuta o clamor do pobre.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

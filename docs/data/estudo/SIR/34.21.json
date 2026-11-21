@@ -1,0 +1,57 @@
+{
+  "id": "SIR.34.21",
+  "livro": "SIR",
+  "titulo": "O sacrifício com o pão dos pobres",
+  "secao": "O culto, a oração e o conselho",
+  "referencia": "Eclo 34,21-31",
+  "ini": {
+    "c": 34,
+    "v": 21
+  },
+  "fim": {
+    "c": 34,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "O sacrifício com o pão dos pobres",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Começa uma reflexão profética sobre o culto e a justiça. “A oblação daquele que sacrifica dos bens havidos com injustiça é imunda.” “O Altíssimo não aprova os dons dos iníquos, não olha para as oblações dos maus, nem pela multidão dos seus sacrifícios lhes perdoará os seus pecados.” Vem uma imagem terrível: “Aquele que oferece um sacrifício com os haveres dos pobres é como o que degola um filho na presença de seu pai.” “O pão dos necessitados é a vida dos pobres; aquele que lho tira é um homem sanguinário.” Quem tira o pão do suor do próximo é como quem o mata; quem defrauda o salário do trabalhador é irmão do homicida. Quando um constrói e outro destrói, que ganham senão fadiga? Quando um reza e outro amaldiçoa, de quem Deus ouvirá a voz? E sobre a conversão superficial: “Se alguém se lava depois de ter tocado um morto, e o toca outra vez, de que lhe serve o ter-se lavado? Assim se porta o homem que jejua pelos seus pecados e que de novo os comete: que proveito tira da sua mortificação? Quem ouvirá a sua oração?”",
+    "alegorico": "Este texto marcou a história da Igreja: foi lendo Eclo 34,21-24 que Bartolomeu de las Casas, em 1514, se converteu e renunciou aos índios que possuía, tornando-se defensor dos povos indígenas. Jesus pede: “deixa a tua oferta diante do altar e vai primeiro reconciliar-te” (Mt 5,23-24).",
+    "moral": "O culto oferecido com dinheiro injusto é abominação. Defraudar o salário do trabalhador é pecado que clama ao céu (Tg 5,4). E a penitência que não muda a vida é como lavar-se e voltar a tocar a impureza. Religião e justiça social são inseparáveis.",
+    "anagogico": "Deus ouve o clamor do pobre defraudado; no juízo, o pão tirado ao pobre pesará como sangue derramado."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A oblação daquele que sacrifica dos bens havidos com injustiça, é imunda.” “É como o que degola um filho na presença de seu pai.” “O pão dos necessitados é a vida dos pobres.” “Assim se porta o homem, que jejua pelos seus pecados e que, de novo, os comete.”",
+    "meditatio_perguntas": [
+      "Pago salário justo a quem trabalha para mim?",
+      "A minha oferta a Deus vem de bens honestos?",
+      "A minha penitência muda de fato a minha vida?"
+    ],
+    "oratio_guia": "Senhor, que ouves o clamor do pobre, livra-me de toda injustiça. Que o meu culto seja acompanhado da justiça e a minha penitência, de verdadeira conversão. Amém.",
+    "contemplatio_foco": {
+      "texto": "O pão dos necessitados é a vida dos pobres; aquele que lho tira é um homem sanguinário",
+      "ref": "Eclo 34,25"
+    }
+  },
+  "ancoras": {
+    "34:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto que levou à conversão de Bartolomeu de las Casas (1514).",
+        "origem": "ia"
+      }
+    },
+    "34:27": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Dt 24,14-15; Tg 5,4: defraudar o salário é pecado que clama ao céu.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

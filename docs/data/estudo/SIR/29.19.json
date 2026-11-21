@@ -1,0 +1,49 @@
+{
+  "id": "SIR.29.19",
+  "livro": "SIR",
+  "titulo": "A fiança; contenta-te com o necessário",
+  "secao": "A família, a amizade e a vida social",
+  "referencia": "Eclo 29,19-35",
+  "ini": {
+    "c": 29,
+    "v": 19
+  },
+  "fim": {
+    "c": 29,
+    "v": 35
+  },
+  "liturgia": {
+    "tema_central": "A fiança e a hospitalidade; o essencial da vida",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio fala da fiança, prática comum no seu tempo. “O homem de bem dá fiança pelo seu próximo; e o que tiver perdido a vergonha o abandonará à sua sorte. Não te esqueças do benefício que te fez o que ficou por teu fiador, porque ele expôs a sua vida por ti.” Mas a fiança arruinou muitos ricos, sacudiu-os como as ondas do mar, exilou homens poderosos. Por isso: “Assiste ao teu próximo conforme as tuas posses, mas olha por ti, não caias tu também.” Segue um elogio da vida simples: “O essencial da vida do homem é a água, o pão, o vestuário e uma casa para cobrir a sua nudez.” Mais vale a comida do pobre sob um teto de tábuas do que banquetes suntuosos em casa alheia. Contenta-te com o pouco ou com o muito, e não ouvirás a censura de seres estrangeiro. Triste é a vida de quem anda de casa em casa como hóspede: não ousa abrir a boca, é mandado servir e ainda ouve: “Sai, dá lugar a outro mais digno; preciso da minha casa.”",
+    "alegorico": "O fiador que “expôs a sua vida” por nós é imagem de Cristo, “fiador de uma aliança melhor” (Hb 7,22), que pagou a nossa dívida com o seu sangue. A lista do essencial (água, pão, roupa, casa) é a mesma das obras de misericórdia corporais (Mt 25,35-36).",
+    "moral": "Ajudar é dever, mas com prudência, para não arruinar a própria família. A gratidão a quem se arriscou por nós é obrigação grave. E o sábio ensina a sobriedade: o essencial é pouco. Mais vale a liberdade de uma casa pobre do que a dependência humilhante do luxo alheio.",
+    "anagogico": "O hóspede que não tem casa própria evoca a condição do cristão, “estrangeiro e peregrino” (1Pd 2,11), que espera a casa preparada pelo Pai (Jo 14,2)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O homem de bem dá fiança pelo seu próximo.” “Ele expôs a sua vida por ti.” “Assiste ao teu próximo conforme as tuas posses.” “O essencial da vida do homem é a água, o pão, o vestuário e uma casa.”",
+    "meditatio_perguntas": [
+      "Sou grato a quem se arriscou por mim?",
+      "Ajudo com generosidade e prudência?",
+      "Contento-me com o essencial?"
+    ],
+    "oratio_guia": "Senhor Jesus, fiador que deste a vida por mim, obrigado. Ensina-me a ajudar os outros com generosidade e prudência, e a contentar-me com o essencial. Amém.",
+    "contemplatio_foco": {
+      "texto": "O essencial da vida do homem é a água, o pão, o vestuário e uma casa para cobrir a sua nudez",
+      "ref": "Eclo 29,28"
+    }
+  },
+  "ancoras": {
+    "29:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Pr 6,1-5 e 11,15 desaconselham a fiança imprudente; aqui o sábio pede equilíbrio.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "SIR.29.1",
+  "livro": "SIR",
+  "titulo": "Empresta ao próximo; encerra a esmola no coração do pobre",
+  "secao": "A família, a amizade e a vida social",
+  "referencia": "Eclo 29,1-18",
+  "ini": {
+    "c": 29,
+    "v": 1
+  },
+  "fim": {
+    "c": 29,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Empresta ao teu próximo; encerra a esmola no coração do pobre",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio trata do empréstimo e da esmola. “Aquele que usa de misericórdia empresta a juro ao seu próximo; aquele que tem a mão generosa guarda os mandamentos.” Empresta ao próximo no tempo da sua necessidade, e restitui a tempo o que te emprestaram. “Cumpre a tua palavra e trata lealmente com ele, e em todo o tempo acharás o que te é necessário.” Mas o sábio conhece a realidade: muitos consideram o empréstimo um achado e afligem quem os ajudou. Beijam as mãos de quem empresta e fazem grandes promessas; na hora de pagar, pedem prazo, queixam-se dos tempos e pagam metade, se pagam; assim fazem do benfeitor um inimigo. Muitos, por isso, deixam de emprestar, não por maldade, mas por medo de serem defraudados. Ainda assim: “Por causa do mandamento acode ao pobre, e não o deixes ir com as mãos vazias. Perde o teu dinheiro por amor do teu irmão e do teu amigo, e não o escondas debaixo duma pedra para ficar perdido. Emprega o teu tesouro segundo os preceitos do Altíssimo, e isto te aproveitará mais do que o ouro. Encerra a esmola no coração do pobre, e ela rogará por ti para te livrar de todo o mal”; melhor que escudo e lança, combaterá por ti contra o inimigo.",
+    "alegorico": "Jesus manda emprestar “sem esperar nada em troca” (Lc 6,35) e dar tesouro aos pobres para ter um tesouro no céu (Mc 10,21). A esmola guardada “no coração do pobre” anuncia o Cristo que se identifica com os pequenos (Mt 25,40): o que damos ao pobre, a ele o damos.",
+    "moral": "Emprestar ao necessitado é obra de misericórdia; pagar o que se deve é justiça. O sábio denuncia quem abusa da bondade alheia, mas não aceita que isso sirva de desculpa para fechar a mão. O dinheiro “escondido debaixo da pedra” se perde; dado ao pobre, torna-se tesouro e oração em nosso favor.",
+    "anagogico": "A esmola “rogará por ti”: as obras de misericórdia intercedem por nós e nos acompanham até o juízo, onde se tornam tesouro eterno."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Aquele que usa de misericórdia empresta a juro ao seu próximo.” “Cumpre a tua palavra.” “Não o deixes ir com as mãos vazias.” “Perde o teu dinheiro por amor do teu irmão.” “Encerra a esmola no coração do pobre, e ela rogará por ti.”",
+    "meditatio_perguntas": [
+      "Pago com pontualidade o que devo?",
+      "Deixo de ajudar por medo de ser enganado?",
+      "Onde está o meu “tesouro”: debaixo da pedra ou no coração do pobre?"
+    ],
+    "oratio_guia": "Senhor, dá-me mãos generosas e palavra fiel. Que eu não esconda o meu tesouro, mas o guarde no coração dos pobres, onde ele rogará por mim. Amém.",
+    "contemplatio_foco": {
+      "texto": "Encerra a esmola no coração do pobre, e ela rogará por ti para te livrar de todo o mal",
+      "ref": "Eclo 29,15"
+    }
+  },
+  "ancoras": {
+    "29:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Lei proibia cobrar juros ao irmão israelita (Ex 22,25; Dt 23,19); “emprestar a juro” aqui é metáfora: Deus paga.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

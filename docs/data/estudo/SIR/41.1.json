@@ -1,0 +1,49 @@
+{
+  "id": "SIR.41.1",
+  "livro": "SIR",
+  "titulo": "Ó morte! O bom nome permanece",
+  "secao": "A condição humana",
+  "referencia": "Eclo 41,1-16",
+  "ini": {
+    "c": 41,
+    "v": 1
+  },
+  "fim": {
+    "c": 41,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "Ó morte, quão amarga é a tua memória",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio medita sobre a morte com profunda humanidade. “Ó morte, quão amarga é a tua memória para o homem que tem paz no meio das suas riquezas, para o homem tranquilo e afortunado em tudo, e que ainda se encontra em estado de tomar alimento! Ó morte, que doce é a tua sentença para o homem necessitado, que se acha falto de forças, para o homem já decrépito e consumido de cuidados, e para o que se vê sem esperança, e a quem falta a paciência!” Mas para todos o conselho é o mesmo: “Não temas o decreto da morte. Lembra-te dos que existiram antes de ti e dos que virão depois de ti: é um decreto que o Senhor promulgou para todos os mortais.” Que importa viver dez, cem ou mil anos? No Xeol não se pede contas da vida. Segue uma reflexão sobre os ímpios, cujos filhos herdam a vergonha: os filhos acusarão o pai ímpio, por causa de quem são desprezados. Ai dos ímpios que abandonaram a lei do Altíssimo! Os homens choram o corpo, mas o nome do pecador será apagado. Então: “Tem cuidado da tua boa reputação, porque esta será para ti um bem mais estável do que mil tesouros grandes e preciosos. A vida boa tem somente um certo número de dias, mas o bom nome permanecerá para sempre.”",
+    "alegorico": "Cristo venceu a morte e lhe tirou o aguilhão: “Ó morte, onde está a tua vitória?” (1Cor 15,55). Para o cristão, a morte não é só “decreto” inevitável, mas passagem para o Pai. São Francisco a chamou “irmã morte”.",
+    "moral": "A morte é amarga para quem se apega aos bens e doce para quem sofre; mas para todos é certa e não deve ser temida com desespero. O sábio convida a viver de modo a deixar um bom nome, que vale mais que tesouros. A memória da morte é escola de sabedoria.",
+    "anagogico": "O Antigo Testamento ainda não via além do Xeol; o Evangelho revela que a vida boa não tem “certo número de dias”, mas se prolonga na vida eterna, onde o nome dos justos está escrito no céu (Lc 10,20)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ó morte, quão amarga é a tua memória.” “Ó morte, que doce é a tua sentença para o homem necessitado.” “Não temas o decreto da morte.” “Tem cuidado da tua boa reputação.” “O bom nome permanecerá para sempre.”",
+    "meditatio_perguntas": [
+      "Como penso na minha morte: com medo, com indiferença ou com esperança?",
+      "Estou apegado demais aos bens?",
+      "Que “nome” estou deixando?"
+    ],
+    "oratio_guia": "Senhor Jesus, vencedor da morte, livra-me do medo desesperado e do apego que torna a morte amarga. Que eu viva de modo a deixar um bom nome e a encontrar-te em paz. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não temas o decreto da morte",
+      "ref": "Eclo 41,5"
+    }
+  },
+  "ancoras": {
+    "41:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O Xeol, morada dos mortos, ainda sem a clara revelação da ressurreição (cf. 2Mc 7; Sb 3).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

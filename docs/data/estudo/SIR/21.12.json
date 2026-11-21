@@ -1,0 +1,49 @@
+{
+  "id": "SIR.21.12",
+  "livro": "SIR",
+  "titulo": "O sábio e o insensato",
+  "secao": "O domínio de si e a palavra",
+  "referencia": "Eclo 21,12-31",
+  "ini": {
+    "c": 21,
+    "v": 12
+  },
+  "fim": {
+    "c": 21,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "O coração do sábio e o do insensato",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio traça uma série de contrastes entre o sensato e o insensato. Quem guarda a lei domina o seu pensamento. A ciência do sábio transborda como uma inundação, e o seu conselho é fonte de vida. Mas “o coração do insensato é como um vaso rachado: nada pode reter da sabedoria”. Se o sábio ouve uma palavra sábia, louva-a e acrescenta-lhe algo; o libertino a ouve com desagrado e a lança para trás das costas. A conversa do insensato é como um fardo no caminho, mas nos lábios do sensato há graça. Na assembleia procura-se a boca do prudente. Para o insensato, a sabedoria é como uma casa em ruínas; a instrução é para ele como algemas nos pés. O insensato ri alto; o sábio sorri discretamente. O insensato espreita pela porta; o educado fica do lado de fora. E uma das sentenças mais belas: “O coração dos insensatos está na sua boca, e a boca dos sábios está no seu coração.” O caluniador mancha a sua alma e será odiado por todos.",
+    "alegorico": "O vaso rachado que não retém a sabedoria contrasta com Maria, que “guardava todas estas coisas, meditando-as no seu coração” (Lc 2,19.51). Ela é o modelo do sábio cuja boca está no coração, e Cristo diz que “a boca fala do que está cheio o coração” (Lc 6,45).",
+    "moral": "O insensato diz tudo o que lhe passa pela cabeça; o sábio pensa antes e fala a partir do coração. A docilidade também se revela: o sábio acolhe e completa a palavra boa; o insensato a joga fora. Pequenos sinais de educação, como o riso discreto e o respeito pela casa alheia, revelam um coração formado.",
+    "anagogico": "O coração que guarda a Palavra se torna morada de Deus. Quem aprendeu a escutar ouvirá um dia a voz do Senhor face a face."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O conselho do sábio é fonte de vida.” “O coração do insensato é como um vaso rachado.” “Nos lábios do sensato há graça.” “O sábio sorri discretamente.” “A boca dos sábios está no seu coração.”",
+    "meditatio_perguntas": [
+      "O meu coração é vaso rachado ou guarda a Palavra?",
+      "Falo a partir do coração ou sem pensar?",
+      "Acolho a palavra sábia ou a lanço para trás?"
+    ],
+    "oratio_guia": "Senhor, cura o meu coração rachado para que guarde a tua sabedoria. Põe a minha boca no meu coração, como Maria, que meditava as tuas palavras. Amém.",
+    "contemplatio_foco": {
+      "texto": "O coração dos insensatos está na sua boca, e a boca dos sábios está no seu coração",
+      "ref": "Eclo 21,29"
+    }
+  },
+  "ancoras": {
+    "21:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Imagem do vaso rachado: a sabedoria escorre sem ser retida.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

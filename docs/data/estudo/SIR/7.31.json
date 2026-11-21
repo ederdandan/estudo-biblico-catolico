@@ -1,0 +1,49 @@
+{
+  "id": "SIR.7.31",
+  "livro": "SIR",
+  "titulo": "Honra os sacerdotes, socorre o pobre; lembra-te do teu fim",
+  "secao": "Conselhos para a vida",
+  "referencia": "Eclo 7,31-40",
+  "ini": {
+    "c": 7,
+    "v": 31
+  },
+  "fim": {
+    "c": 7,
+    "v": 40
+  },
+  "liturgia": {
+    "tema_central": "Lembra-te do teu fim, e nunca pecarás",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O capítulo termina com os deveres para com Deus e para com o próximo. “Teme o Senhor com toda a tua alma, e venera os seus sacerdotes. Ama com todas as tuas forças aquele que te criou, e não desampares os seus ministros.” Dá aos sacerdotes a sua parte das primícias e das ofertas, como manda a Lei. Mas o culto não está separado da caridade: “Estende a tua mão para o pobre, a fim de que o teu sacrifício de expiação e a tua oferta sejam perfeitos.” Dá com generosidade a todos os vivos, e não recuses a tua bondade nem mesmo aos mortos. “Não deixes de consolar os que choram, e acompanha os aflitos. Não sejas preguiçoso em visitar os enfermos, porque é assim que tu te fortificarás na caridade.” E conclui com uma das sentenças mais conhecidas do livro: “Em todas as tuas obras lembra-te do teu fim, e nunca jamais pecarás.”",
+    "alegorico": "Visitar os enfermos, consolar os aflitos e rezar pelos mortos são obras de misericórdia que a Igreja ensina a partir deste e de outros textos (cf. 2Mc 12,46; Mt 25,36). “Lembra-te do teu fim” (os novíssimos: morte, juízo, inferno, paraíso) tornou-se lema de toda a tradição ascética, “memento mori”.",
+    "moral": "A religião autêntica une amor a Deus, respeito aos seus ministros e caridade concreta: a oferta só é perfeita quando acompanhada pela mão estendida ao pobre. As obras de misericórdia fortalecem quem as pratica. E a memória da morte não é tristeza, mas sabedoria: quem lembra o fim ordena a vida.",
+    "anagogico": "Lembrar o fim é viver orientado para a eternidade. Quem pensa no encontro final com Deus vive cada obra à luz dele."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ama com todas as tuas forças aquele que te criou.” “Estende a tua mão para o pobre.” “Não deixes de consolar os que choram.” “Não sejas preguiçoso em visitar os enfermos.” “Em todas as tuas obras lembra-te do teu fim, e nunca jamais pecarás.”",
+    "meditatio_perguntas": [
+      "Visito os enfermos e consolo os que choram?",
+      "O meu culto é acompanhado pela caridade?",
+      "Penso no meu fim de modo sereno e sábio?"
+    ],
+    "oratio_guia": "Senhor, que eu te ame com todas as forças e estenda a mão ao pobre. Dá-me não ser preguiçoso em visitar os doentes e consolar os aflitos, e faz-me lembrar sempre do meu fim. Amém.",
+    "contemplatio_foco": {
+      "texto": "Em todas as tuas obras lembra-te do teu fim, e nunca jamais pecarás",
+      "ref": "Eclo 7,40"
+    }
+  },
+  "ancoras": {
+    "7:37": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Não recuses os teus dons aos mortos”: provavelmente o cuidado da sepultura e do luto; a tradição viu aqui também a oração pelos defuntos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

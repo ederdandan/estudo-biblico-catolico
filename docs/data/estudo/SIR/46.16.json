@@ -1,0 +1,57 @@
+{
+  "id": "SIR.46.16",
+  "livro": "SIR",
+  "titulo": "Samuel, profeta do Senhor",
+  "secao": "O elogio dos antepassados",
+  "referencia": "Eclo 46,16-23",
+  "ini": {
+    "c": 46,
+    "v": 16
+  },
+  "fim": {
+    "c": 46,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Samuel, profeta do Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Samuel, profeta do Senhor, amado do Senhor seu Deus, instituiu um governo novo, e ungiu príncipes na sua nação. Julgou o povo segundo a lei do Senhor, e Deus olhou propiciamente para Jacó. Pela sua fidelidade manifestou-se como profeta”, e foi reconhecido fiel nas suas palavras, porque viu o Deus da luz. “Invocou o Senhor onipotente, quando os inimigos o cercavam de todos os lados, e ofereceu um cordeiro sem mancha.” O Senhor trovejou do céu e fez ouvir a sua voz com grande estrondo, e esmagou os chefes dos tírios e os príncipes dos filisteus. Antes do fim da sua vida, deu testemunho diante do Senhor e do seu ungido: de ninguém recebera dinheiro, nem sequer um par de sandálias, e ninguém o acusou. E mesmo depois da morte profetizou: “Samuel morreu e apareceu ao rei Saul, predizendo-lhe o fim da sua vida; levantou a sua voz de debaixo da terra, profetizando.”",
+    "alegorico": "Samuel, que ofereceu um cordeiro sem mancha e ungiu Davi, prefigura Cristo, Cordeiro sem mancha (1Pd 1,19) e Ungido por excelência. A sua integridade, sem aceitar presentes, é modelo dos pastores (1Pd 5,2-3).",
+    "moral": "Samuel foi fiel desde a infância (“Fala, Senhor, que o teu servo escuta”) até a morte. Ao despedir-se, pôde dizer que nunca tirou nada de ninguém. É um modelo de integridade para todos os que exercem autoridade: servir sem se servir.",
+    "anagogico": "A palavra de Samuel “de debaixo da terra” mostra que os justos continuam a viver diante de Deus; para o cristão, os santos intercedem por nós."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Samuel, profeta do Senhor, amado do Senhor seu Deus.” “Julgou o povo segundo a lei do Senhor.” “Pela sua fidelidade manifestou-se como profeta.” “Ofereceu um cordeiro sem mancha.”",
+    "meditatio_perguntas": [
+      "Escuto a Palavra como Samuel?",
+      "Exerço a autoridade com integridade, sem me servir?",
+      "Poderia, no fim da vida, dizer que não tirei nada de ninguém?"
+    ],
+    "oratio_guia": "Senhor, que amaste Samuel e o fizeste fiel, dá-me um coração que escuta e mãos limpas no serviço. Que eu seja fiel à tua Palavra até o fim. Amém.",
+    "contemplatio_foco": {
+      "texto": "Samuel, profeta do Senhor, amado do Senhor seu Deus, instituiu um governo novo, e ungiu príncipes na sua nação",
+      "ref": "Eclo 46,16"
+    }
+  },
+  "ancoras": {
+    "46:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 1Sm 12,3-5: o testemunho de integridade de Samuel.",
+        "origem": "ia"
+      }
+    },
+    "46:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 1Sm 28: a aparição de Samuel a Saul em Endor.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

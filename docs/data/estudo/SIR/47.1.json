@@ -1,0 +1,57 @@
+{
+  "id": "SIR.47.1",
+  "livro": "SIR",
+  "titulo": "Davi",
+  "secao": "O elogio dos antepassados",
+  "referencia": "Eclo 47,1-13",
+  "ini": {
+    "c": 47,
+    "v": 1
+  },
+  "fim": {
+    "c": 47,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Natã e Davi, que louvou o Senhor de todo o coração",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Depois disto, levantou-se Natã, profeta no tempo de Davi. Assim como a gordura da vítima se separa da carne, assim Davi foi separado dentre os filhos de Israel.” Desde jovem “brincou com os leões como com cordeiros, e tratou os ursos como cordeirinhos”. Matou o gigante, tirou a vergonha do povo, abatendo a arrogância de Golias com uma pedra da funda, porque invocou o Senhor Altíssimo. As mulheres o celebravam por dez mil. Venceu os inimigos ao redor e quebrou o poder dos filisteus. Mas o sábio destaca sobretudo a sua piedade: “Em todas as suas obras deu graças ao Santo e ao Excelso com palavras de louvor. Louvou o Senhor de todo o seu coração, amou a Deus que o criou.” Pôs cantores diante do altar e deu esplendor às festas, para que o santuário ressoasse de louvor desde a manhã. E sobre o seu pecado: “O Senhor o purificou dos seus pecados, exaltou para sempre o seu poder, e assegurou-lhe, por um pacto, a realeza e um trono de glória em Israel.”",
+    "alegorico": "Davi é figura do Messias, “Filho de Davi”, que vence o gigante do mal com a fraqueza da cruz e reina para sempre (Lc 1,32-33). Os salmos de Davi tornaram-se a oração da Igreja, que ainda hoje faz “ressoar o santuário desde a manhã” na Liturgia das Horas.",
+    "moral": "Davi foi grande na coragem, mas maior no louvor e no arrependimento. Pecou gravemente, mas Deus “o purificou”, porque soube reconhecer a culpa (Sl 50). A sua lição: louvar a Deus em todas as obras e voltar a ele depois da queda.",
+    "anagogico": "O trono de Davi “para sempre” se cumpre no Reino eterno de Cristo, onde o louvor que Davi iniciou não terá fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Brincou com os leões como com cordeiros.” “Em todas as suas obras deu graças ao Santo.” “Louvou o Senhor de todo o seu coração.” “O Senhor o purificou dos seus pecados.”",
+    "meditatio_perguntas": [
+      "Dou graças a Deus em todas as minhas obras?",
+      "Louvo de todo o coração?",
+      "Deixo-me purificar depois das quedas, como Davi?"
+    ],
+    "oratio_guia": "Senhor, que purificaste Davi e aceitaste o seu louvor, purifica-me também. Que eu te louve de todo o coração e te dê graças em todas as minhas obras. Amém.",
+    "contemplatio_foco": {
+      "texto": "Louvou o Senhor de todo o seu coração, amou a Deus que o criou e lhe deu força contra os inimigos",
+      "ref": "Eclo 47,10"
+    }
+  },
+  "ancoras": {
+    "47:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 1Sm 17: Davi e Golias.",
+        "origem": "ia"
+      }
+    },
+    "47:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 1Cr 16 e 25: Davi organiza os cantores do templo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

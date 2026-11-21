@@ -1,0 +1,49 @@
+{
+  "id": "SIR.17.14",
+  "livro": "SIR",
+  "titulo": "Converte-te ao Senhor; louva-o enquanto vives",
+  "secao": "Deus, o homem e a misericórdia",
+  "referencia": "Eclo 17,14-31",
+  "ini": {
+    "c": 17,
+    "v": 14
+  },
+  "fim": {
+    "c": 17,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Converte-te ao Senhor; louva-o enquanto vives",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus deu a cada nação um chefe, “mas Israel foi visivelmente a porção de Deus”. Todas as obras dos homens estão diante dele como o sol; os seus olhos estão sempre sobre os seus caminhos. “A esmola do homem é para Deus como um selo, e ele conserva a beneficência do homem como a menina dos olhos.” Ele se levantará para julgar e dará a cada um o que merece. “Aos penitentes, porém, abre o caminho da justiça; conforta os desfalecidos.” Daí o apelo: “Converte-te ao Senhor, deixa os teus pecados; suplica ante a sua face e diminui as tuas ofensas. Volta para o Senhor, afasta-te da tua injustiça, e tem grande horror àquilo que é abominável.” Reconhece os seus juízos, une-te ao povo santo que vive e louva a Deus. “Louva a Deus antes da morte”: o morto já não louva. “Louva-o enquanto vives, louva-o enquanto tens vida e saúde, louva a Deus e glorifica-te nas suas misericórdias. Quão grande é a misericórdia do Senhor, e a sua compaixão para com todos os que se convertem a ele!” O homem é pequeno: o que há de mais brilhante que o sol? E também ele se eclipsa.",
+    "alegorico": "A esmola guardada por Deus como “a menina dos olhos” e o caminho aberto aos penitentes antecipam a alegria do Pai pelo filho que volta (Lc 15). A exortação a louvar a Deus enquanto vivemos encontra o seu cumprimento na liturgia da Igreja, sacrifício de louvor.",
+    "moral": "Deus guarda cada gesto de caridade como algo precioso. A conversão é sempre possível: Deus abre caminho aos penitentes e fortalece os que desanimam. E a vida é o tempo do louvor: louvar a Deus enquanto temos saúde, sem esperar o fim.",
+    "anagogico": "O louvor desta vida é ensaio do louvor eterno. Quem aprende a louvar aqui cantará para sempre a misericórdia do Senhor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A esmola do homem é para Deus como um selo.” “Aos penitentes, porém, abre o caminho da justiça.” “Converte-te ao Senhor, deixa os teus pecados.” “Louva-o enquanto vives, louva-o enquanto tens vida e saúde.” “Quão grande é a misericórdia do Senhor!”",
+    "meditatio_perguntas": [
+      "De que pecado preciso me afastar hoje?",
+      "Louvo a Deus enquanto tenho vida e saúde?",
+      "Creio que Deus guarda cada gesto de caridade?"
+    ],
+    "oratio_guia": "Senhor, que abres o caminho aos penitentes, converte-me a ti. Que eu te louve enquanto vivo e me alegre na tua misericórdia, grande para todos os que voltam a ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Quão grande é a misericórdia do Senhor, e a sua compaixão para com todos os que se convertem a ele!",
+      "ref": "Eclo 17,28"
+    }
+  },
+  "ancoras": {
+    "17:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Sl 6,6 e Is 38,18: no Xeol não há louvor; o AT ainda não tinha clara a esperança da ressurreição.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

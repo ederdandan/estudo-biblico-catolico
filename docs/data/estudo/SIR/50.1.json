@@ -1,0 +1,65 @@
+{
+  "id": "SIR.50.1",
+  "livro": "SIR",
+  "titulo": "Simão, o sumo sacerdote, na liturgia do Templo",
+  "secao": "O elogio dos antepassados",
+  "referencia": "Eclo 50,1-26",
+  "ini": {
+    "c": 50,
+    "v": 1
+  },
+  "fim": {
+    "c": 50,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "Simão, o sumo sacerdote, resplandecente no templo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O elogio culmina num contemporâneo do autor: “Simão, filho de Onias, sumo sacerdote, em sua vida reparou a casa do Senhor, e em seus dias fortificou o templo.” Construiu as fundações, o reservatório de águas, fortificou a cidade contra o cerco e cuidou do seu povo. Vem então a descrição deslumbrante do sumo sacerdote na liturgia: quando saía do santuário, era “como a estrela da manhã no meio da névoa, como a lua resplandecente no plenilúnio, e como um sol brilhante, assim luziu no templo de Deus. Ele era como o arco-íris que reluz entre as nuvens, como a flor das roseiras nos dias da primavera, como os lírios junto da corrente de água, como o incenso que exala perfume”, como vaso de ouro maciço, como a oliveira que brota. Quando subia ao altar com a veste de glória, enchia de glória o santuário. Os sacerdotes, filhos de Aarão, o rodeavam como ramos de palmeira; tocavam as trombetas, o povo se prostrava, os cantores louvavam. “Então o sumo sacerdote, descendo do altar, levantava as suas mãos sobre toda a assembleia dos filhos de Israel, para dar glória a Deus com seus lábios.” E o sábio exorta: “E agora rogai ao Deus de todas as criaturas, que fez grandes coisas em toda a terra… e que nos tratou sempre segundo a sua misericórdia. Conceda-nos ele a alegria do coração, e reine a paz em Israel em nossos dias e para sempre.”",
+    "alegorico": "A glória do sumo sacerdote saindo do Santo dos Santos é imagem de Cristo ressuscitado, sumo sacerdote eterno, que sai do santuário para abençoar o seu povo (Lc 24,50-51). A Igreja vê aqui também a beleza da liturgia, “céu na terra”. A bênção final inspira as bênçãos litúrgicas da Igreja.",
+    "moral": "A liturgia bem celebrada tem uma beleza que eleva a alma: luz, perfume, música, prostração. O sacerdote é servidor da glória de Deus e da bênção do povo. Esta página convida a amar a liturgia, a participar dela com o coração e a pedir a Deus “a alegria do coração e a paz”.",
+    "anagogico": "A liturgia do templo é imagem da liturgia celeste do Apocalipse, onde o Cordeiro está no meio do trono e os santos cantam o louvor eterno (Ap 5)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Como a estrela da manhã, no meio da névoa.” “Como um Sol brilhante, assim luziu no templo de Deus.” “Levantava as suas mãos sobre todo o congresso dos filhos de Israel.” “Nos tratou sempre segundo a sua misericórdia.” “Conceda-nos ele a alegria do coração.”",
+    "meditatio_perguntas": [
+      "Participo da liturgia com o coração e a beleza que ela merece?",
+      "Recebo a bênção de Deus com fé?",
+      "Peço a Deus a alegria do coração e a paz?"
+    ],
+    "oratio_guia": "Deus de todas as criaturas, que nos tratas sempre segundo a tua misericórdia, concede-nos a alegria do coração e a paz em nossos dias. Que a nossa liturgia te glorifique. Amém.",
+    "contemplatio_foco": {
+      "texto": "Como a estrela da manhã, no meio da névoa, como a Lua resplandecente no plenilúnio",
+      "ref": "Eclo 50,6"
+    }
+  },
+  "ancoras": {
+    "50:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Simão II, sumo sacerdote por volta de 219-196 a.C.",
+        "origem": "ia"
+      }
+    },
+    "50:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Provavelmente a liturgia do Dia da Expiação (Lv 16).",
+        "origem": "ia"
+      }
+    },
+    "50:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto que inspirou o hino “Nun danket alle Gott”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

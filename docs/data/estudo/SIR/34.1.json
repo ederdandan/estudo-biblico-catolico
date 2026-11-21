@@ -1,0 +1,49 @@
+{
+  "id": "SIR.34.1",
+  "livro": "SIR",
+  "titulo": "Os sonhos e as vãs esperanças",
+  "secao": "O culto, a oração e o conselho",
+  "referencia": "Eclo 34,1-8",
+  "ini": {
+    "c": 34,
+    "v": 1
+  },
+  "fim": {
+    "c": 34,
+    "v": 8
+  },
+  "liturgia": {
+    "tema_central": "Os sonhos e as vãs esperanças",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio critica a confiança nos sonhos e adivinhações, muito difundida no mundo helenístico. “É próprio do homem insensato sustentar-se de vãs esperanças e de mentira, e os sonhos dão asas à fantasia dos imprudentes. Como o que procura agarrar uma sombra e vai atrás do vento, assim é o que atende a enganosas visões.” A visão dos sonhos é como a imagem de um rosto diante do espelho: reflexo, não realidade. Do impuro, que pureza pode vir? Da mentira, que verdade? A adivinhação, os agouros e os sonhos são vaidade; o coração imagina como o de uma mulher em dores de parto. “Se não forem enviados pelo Altíssimo”, não lhes dês atenção, porque os sonhos enganaram muitos, e caíram os que neles esperavam. A palavra da Lei se cumpre sem engano, e a sabedoria é perfeita na boca do fiel.",
+    "alegorico": "O sábio admite os sonhos “enviados pelo Altíssimo”, como os de José, filho de Jacó (Gn 37; 41), e os de José de Nazaré (Mt 1,20; 2,13). Mas a Revelação definitiva está em Cristo, Palavra do Pai, que dispensa a busca ansiosa de sinais (Hb 1,1-2).",
+    "moral": "Hoje como ontem, muitos buscam segurança em horóscopos, adivinhações, “energias” e sonhos interpretados. O sábio chama isso de correr atrás do vento. O cristão não despreza a ação de Deus nos sonhos, mas põe a sua confiança na Palavra de Deus e no discernimento da Igreja.",
+    "anagogico": "Os sonhos passam como sombras; a realidade definitiva é a visão de Deus face a face, que não engana."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“É próprio do homem insensato sustentar-se de vãs esperanças e de mentira.” “Como o que procura agarrar uma sombra e vai atrás do vento.” “Se não forem enviados pelo Altíssimo, não lhes dês atenção.” “A sabedoria é perfeita na boca do fiel.”",
+    "meditatio_perguntas": [
+      "Busco segurança em superstições ou adivinhações?",
+      "Distingo a ação de Deus das minhas fantasias?",
+      "Ponho a minha confiança na Palavra de Deus?"
+    ],
+    "oratio_guia": "Senhor, livra-me das vãs esperanças e das superstições. Que eu não corra atrás de sombras, mas me apoie na tua Palavra, que não engana. Amém.",
+    "contemplatio_foco": {
+      "texto": "Como o que procura agarrar uma sombra e vai atrás do vento, assim é o que atende a enganosas visões",
+      "ref": "Eclo 34,2"
+    }
+  },
+  "ancoras": {
+    "34:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Dt 18,10-12, que proíbe adivinhação e agouros.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

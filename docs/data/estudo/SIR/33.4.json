@@ -1,0 +1,57 @@
+{
+  "id": "SIR.33.4",
+  "livro": "SIR",
+  "titulo": "Como o barro nas mãos do oleiro",
+  "secao": "A família, a amizade e a vida social",
+  "referencia": "Eclo 33,4-19",
+  "ini": {
+    "c": 33,
+    "v": 4
+  },
+  "fim": {
+    "c": 33,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "Como o barro nas mãos do oleiro",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Prepara o teu discurso, e deste modo serás ouvido; junta o teu saber e depois responde.” O coração do insensato é como roda de carro, e o seu pensamento gira como eixo. O amigo zombador é como cavalo de cobrição que relincha sob qualquer cavaleiro. Então o sábio levanta uma pergunta: por que um dia é mais importante que outro, se toda a luz vem do sol? Responde: “Destes mesmos dias fez Deus a uns grandes e sagrados, e a outros pôs no número dos dias comuns. Assim igualmente todos os homens são feitos do pó.” “O Senhor, pela grandeza da sua sabedoria, distinguiu-os, diversificou os seus caminhos”: a uns abençoou e exaltou, a outros santificou e aproximou de si; a outros amaldiçoou e humilhou. “Como o barro está nas mãos do oleiro, para lhe dar a forma e disposição que deseja… assim o homem se encontra na mão daquele que o criou.” “Contra o mal está o bem, e contra a morte a vida”: considera as obras do Altíssimo, “achá-las-ás duas a duas, e uma oposta à outra”. E o autor se apresenta: “Eu sou o último a vigiar, como quem respiga atrás dos vindimadores”; pela bênção de Deus, encheu o lagar. “Vede que não trabalhei só para mim, mas para todos os que buscam a instrução.”",
+    "alegorico": "A imagem do oleiro, presente em Jeremias (Jr 18) e Isaías (Is 64,8), é retomada por Paulo para falar da liberdade de Deus na eleição (Rm 9,20-21). Os dias santificados entre os dias comuns prefiguram o domingo, dia do Senhor ressuscitado.",
+    "moral": "A diversidade de vocações e destinos não é injustiça, mas sabedoria de Deus, que forma cada um como o oleiro. Aceitar ser barro nas mãos de Deus é o começo da paz. E o mundo é feito de contrastes: o bem diante do mal, a vida diante da morte, que pedem escolha. O autor, “último a respigar”, ensina humildade e partilha.",
+    "anagogico": "O oleiro divino ainda não terminou a sua obra: na ressurreição, o barro será transformado em glória (1Cor 15,49)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Prepara o teu discurso, e, deste modo, serás ouvido.” “Destes mesmos dias fez Deus a uns grandes e sagrados.” “Como o barro está nas mãos do oleiro.” “Contra o mal está o bem, e contra a morte a vida.” “Eu sou o último a vigiar, como quem respiga atrás dos vindimadores.”",
+    "meditatio_perguntas": [
+      "Deixo-me modelar por Deus como barro nas mãos do oleiro?",
+      "Aceito a vocação diferente que Deus me deu?",
+      "Santifico o dia do Senhor entre os dias comuns?"
+    ],
+    "oratio_guia": "Senhor, tu és o oleiro e eu o barro. Forma-me segundo a tua vontade, e faz que eu aceite com paz o caminho que me deste. Amém.",
+    "contemplatio_foco": {
+      "texto": "Como o barro está nas mãos do oleiro, para lhe dar a forma e disposição que deseja",
+      "ref": "Eclo 33,13"
+    }
+  },
+  "ancoras": {
+    "33:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os dias “grandes e sagrados” são as festas e o sábado; cf. Gn 2,3.",
+        "origem": "ia"
+      }
+    },
+    "33:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O autor se apresenta como herdeiro tardio dos sábios de Israel.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

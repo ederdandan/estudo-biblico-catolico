@@ -1,0 +1,49 @@
+{
+  "id": "SIR.27.4",
+  "livro": "SIR",
+  "titulo": "A palavra revela o homem",
+  "secao": "A família, a amizade e a vida social",
+  "referencia": "Eclo 27,4-16",
+  "ini": {
+    "c": 27,
+    "v": 4
+  },
+  "fim": {
+    "c": 27,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "A palavra revela o coração",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Se te não mantiveres firmemente no temor do Senhor, depressa a tua casa será arruinada.” Seguem imagens de prova: “Como quando se abana o crivo apenas ficam as alimpas, assim a perplexidade do homem fica no seu pensamento.” “O forno prova os vasos do oleiro, e a prova da tribulação os homens justos.” E sobretudo: “Como o cuidado que se tem da árvore se dá a conhecer no fruto, assim a palavra manifesta o que vai no coração do homem. Não louves um homem antes de ele falar, porque esta é a prova dos homens.” Se procuras a justiça, a alcançarás e a vestirás como manto de glória; ela habitará contigo e te protegerá, e no dia do juízo será o teu apoio. As aves se juntam com os semelhantes; a verdade volta para os que a praticam. “O homem santo persevera na sabedoria como o sol; o insensato, porém, muda como a lua.” No meio dos insensatos guarda as tuas palavras; entre os sensatos, fica à vontade. A conversa dos pecadores é odiosa, e o seu riso, cheio de pecado.",
+    "alegorico": "Jesus retoma a imagem: “Pelos frutos os conhecereis… a boca fala do que o coração está cheio” (Mt 7,16-20; Lc 6,43-45). O texto é lido no 8º Domingo do Tempo Comum, Ano C, com este Evangelho. O justo provado como o vaso no forno lembra 1Pd 1,7.",
+    "moral": "As palavras revelam o coração, como o fruto revela a árvore. Antes de julgar alguém, convém ouvi-lo. A prova também revela: no crivo e no forno se vê o que há em nós. E a constância é marca do santo: firme como o sol, não volúvel como a lua.",
+    "anagogico": "“No dia do juízo acharás nela apoio”: a justiça praticada é a veste que nos cobrirá diante de Deus (Ap 19,8)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O forno prova os vasos do oleiro.” “A palavra manifesta o que vai no coração do homem.” “Não louves um homem antes de ele falar.” “O homem santo persevera na sabedoria como o Sol; o insensato, porém, muda como a lua.”",
+    "meditatio_perguntas": [
+      "O que as minhas palavras revelam do meu coração?",
+      "Sou constante como o sol ou volúvel como a lua?",
+      "Como passo pela prova do forno?"
+    ],
+    "oratio_guia": "Senhor, purifica o meu coração para que as minhas palavras deem bons frutos. Faz-me constante na sabedoria e fiel na prova. Amém.",
+    "contemplatio_foco": {
+      "texto": "assim a palavra manifesta o que vai no coração do homem",
+      "ref": "Eclo 27,7"
+    }
+  },
+  "ancoras": {
+    "27:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração grega, 27,6. Lido com Lc 6,39-45 (8º Domingo do Tempo Comum, Ano C).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

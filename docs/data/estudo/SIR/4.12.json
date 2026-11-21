@@ -1,0 +1,49 @@
+{
+  "id": "SIR.4.12",
+  "livro": "SIR",
+  "titulo": "A sabedoria educa os seus filhos",
+  "secao": "Os pais, os pobres e a sabedoria",
+  "referencia": "Eclo 4,12-22",
+  "ini": {
+    "c": 4,
+    "v": 12
+  },
+  "fim": {
+    "c": 4,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "A sabedoria educa os seus filhos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio apresenta a Sabedoria como uma mãe e mestra exigente. “A sabedoria infunde vida a seus filhos, toma debaixo da sua proteção os que a buscam, vai adiante deles no caminho da justiça.” Quem a ama, ama a vida; quem vigia para encontrá-la gozará da sua doçura. Quem a possui terá a vida por herança, e Deus abençoa onde ela entra. Servi-la é servir o Santo; Deus ama os que a amam. Quem a escuta julgará as nações; quem tem os olhos nela habitará seguro. Mas o caminho é pedagógico: no começo, a Sabedoria anda com o discípulo por caminhos tortuosos; “fará vir sobre ele o temor, o medo e a prova; atormentá-lo-á com a tribulação da sua disciplina, até que o experimente nos seus pensamentos, e se fie na sua alma”. Depois volta para ele por caminho reto, enche-o de alegria e lhe revela os seus segredos, enriquecendo-o com tesouros de ciência. Mas, se ele se desviar, ela o abandonará e o entregará ao seu inimigo.",
+    "alegorico": "A Sabedoria que educa pela prova é figura de Cristo, Mestre que conduz os discípulos pelo caminho da cruz antes de lhes revelar os segredos do Reino. A pedagogia divina é descrita em Hb 12,5-11: “o Senhor corrige a quem ama”.",
+    "moral": "A sabedoria não se adquire sem disciplina e prova. Há uma fase de dificuldade em que parece que só se sofre; mas é o tempo em que a fidelidade é testada. Quem persevera recebe alegria e luz. A advertência final também é importante: a sabedoria pode ser perdida se a abandonarmos.",
+    "anagogico": "“Terão a vida por herança”: a sabedoria conduz à vida eterna, onde os seus segredos nos serão plenamente revelados."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A sabedoria infunde vida a seus filhos.” “O que a ama, ama a vida.” “Deus ama os que a amam.” “Ela anda com ele na prova.” “Atormentá-lo-á com a tribulação da sua disciplina.” “Enchê-lo-á de alegria, descobrir-lhe-á os seus segredos.”",
+    "meditatio_perguntas": [
+      "Amo a sabedoria a ponto de vigiar para encontrá-la?",
+      "Reconheço nas provas a pedagogia de Deus?",
+      "Persevero quando o caminho parece tortuoso?"
+    ],
+    "oratio_guia": "Senhor, que pela tua Sabedoria educas os teus filhos, dá-me perseverar na prova. Que eu ame a sabedoria, que é amar a vida, e que um dia ela me revele os teus segredos. Amém.",
+    "contemplatio_foco": {
+      "texto": "A sabedoria infunde vida a seus filhos, toma debaixo da sua protecção os que a buscam",
+      "ref": "Eclo 4,12"
+    }
+  },
+  "ancoras": {
+    "4:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Imagem da educação antiga: a disciplina dura no início, a doçura depois.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

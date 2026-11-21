@@ -1,0 +1,1448 @@
+{
+ "livro": "SIR",
+ "secoes": [
+  "A sabedoria e o temor do Senhor",
+  "Os pais, os pobres e a sabedoria",
+  "Conselhos para a vida",
+  "Deus, o homem e a misericórdia",
+  "O domínio de si e a palavra",
+  "O elogio da sabedoria",
+  "A família, a amizade e a vida social",
+  "O culto, a oração e o conselho",
+  "A glória de Deus nas suas obras",
+  "A condição humana",
+  "A glória de Deus na criação",
+  "O elogio dos antepassados",
+  "Epílogo"
+ ],
+ "pericopes": [
+  {
+   "id": "SIR.1.1",
+   "titulo": "Toda a sabedoria vem do Senhor",
+   "secao": "A sabedoria e o temor do Senhor",
+   "referencia": "Eclo 1,1-10",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 10
+   }
+  },
+  {
+   "id": "SIR.1.11",
+   "titulo": "O temor do Senhor é o princípio da sabedoria",
+   "secao": "A sabedoria e o temor do Senhor",
+   "referencia": "Eclo 1,11-40",
+   "ini": {
+    "c": 1,
+    "v": 11
+   },
+   "fim": {
+    "c": 1,
+    "v": 40
+   }
+  },
+  {
+   "id": "SIR.2.1",
+   "titulo": "Filho, se entrares no serviço de Deus, prepara-te para a prova",
+   "secao": "A sabedoria e o temor do Senhor",
+   "referencia": "Eclo 2,1-23",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 23
+   }
+  },
+  {
+   "id": "SIR.3.1",
+   "titulo": "Honra teu pai e tua mãe",
+   "secao": "Os pais, os pobres e a sabedoria",
+   "referencia": "Eclo 3,1-18",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 18
+   }
+  },
+  {
+   "id": "SIR.3.19",
+   "titulo": "Quanto maior és, mais te deves humilhar",
+   "secao": "Os pais, os pobres e a sabedoria",
+   "referencia": "Eclo 3,19-30",
+   "ini": {
+    "c": 3,
+    "v": 19
+   },
+   "fim": {
+    "c": 3,
+    "v": 30
+   }
+  },
+  {
+   "id": "SIR.3.31",
+   "titulo": "A esmola apaga o pecado; não voltes o rosto ao pobre",
+   "secao": "Os pais, os pobres e a sabedoria",
+   "referencia": "Eclo 3,31–4,11",
+   "ini": {
+    "c": 3,
+    "v": 31
+   },
+   "fim": {
+    "c": 4,
+    "v": 11
+   }
+  },
+  {
+   "id": "SIR.4.12",
+   "titulo": "A sabedoria educa os seus filhos",
+   "secao": "Os pais, os pobres e a sabedoria",
+   "referencia": "Eclo 4,12-22",
+   "ini": {
+    "c": 4,
+    "v": 12
+   },
+   "fim": {
+    "c": 4,
+    "v": 22
+   }
+  },
+  {
+   "id": "SIR.4.23",
+   "titulo": "A boa e a má vergonha; combate pela verdade",
+   "secao": "Os pais, os pobres e a sabedoria",
+   "referencia": "Eclo 4,23-36",
+   "ini": {
+    "c": 4,
+    "v": 23
+   },
+   "fim": {
+    "c": 4,
+    "v": 36
+   }
+  },
+  {
+   "id": "SIR.5.1",
+   "titulo": "Não tardes em te converter ao Senhor",
+   "secao": "Os pais, os pobres e a sabedoria",
+   "referencia": "Eclo 5,1-10",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 10
+   }
+  },
+  {
+   "id": "SIR.5.11",
+   "titulo": "Firmeza de palavra; a língua dobre",
+   "secao": "Os pais, os pobres e a sabedoria",
+   "referencia": "Eclo 5,11–6,4",
+   "ini": {
+    "c": 5,
+    "v": 11
+   },
+   "fim": {
+    "c": 6,
+    "v": 4
+   }
+  },
+  {
+   "id": "SIR.6.5",
+   "titulo": "O amigo fiel é um tesouro",
+   "secao": "Os pais, os pobres e a sabedoria",
+   "referencia": "Eclo 6,5-17",
+   "ini": {
+    "c": 6,
+    "v": 5
+   },
+   "fim": {
+    "c": 6,
+    "v": 17
+   }
+  },
+  {
+   "id": "SIR.6.18",
+   "titulo": "O jugo suave da sabedoria",
+   "secao": "Os pais, os pobres e a sabedoria",
+   "referencia": "Eclo 6,18-37",
+   "ini": {
+    "c": 6,
+    "v": 18
+   },
+   "fim": {
+    "c": 6,
+    "v": 37
+   }
+  },
+  {
+   "id": "SIR.7.1",
+   "titulo": "Não faças o mal; humildade e oração",
+   "secao": "Conselhos para a vida",
+   "referencia": "Eclo 7,1-19",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 19
+   }
+  },
+  {
+   "id": "SIR.7.20",
+   "titulo": "A mulher, os servos, os filhos e os pais",
+   "secao": "Conselhos para a vida",
+   "referencia": "Eclo 7,20-30",
+   "ini": {
+    "c": 7,
+    "v": 20
+   },
+   "fim": {
+    "c": 7,
+    "v": 30
+   }
+  },
+  {
+   "id": "SIR.7.31",
+   "titulo": "Honra os sacerdotes, socorre o pobre; lembra-te do teu fim",
+   "secao": "Conselhos para a vida",
+   "referencia": "Eclo 7,31-40",
+   "ini": {
+    "c": 7,
+    "v": 31
+   },
+   "fim": {
+    "c": 7,
+    "v": 40
+   }
+  },
+  {
+   "id": "SIR.8.1",
+   "titulo": "Prudência nas relações",
+   "secao": "Conselhos para a vida",
+   "referencia": "Eclo 8,1-22",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 22
+   }
+  },
+  {
+   "id": "SIR.9.1",
+   "titulo": "Guarda os teus olhos",
+   "secao": "Conselhos para a vida",
+   "referencia": "Eclo 9,1-13",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 13
+   }
+  },
+  {
+   "id": "SIR.9.14",
+   "titulo": "O amigo antigo e o convívio com os justos",
+   "secao": "Conselhos para a vida",
+   "referencia": "Eclo 9,14-25",
+   "ini": {
+    "c": 9,
+    "v": 14
+   },
+   "fim": {
+    "c": 9,
+    "v": 25
+   }
+  },
+  {
+   "id": "SIR.10.1",
+   "titulo": "O governante sábio; a soberba é o princípio do pecado",
+   "secao": "Conselhos para a vida",
+   "referencia": "Eclo 10,1-21",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 21
+   }
+  },
+  {
+   "id": "SIR.10.22",
+   "titulo": "A verdadeira honra é o temor de Deus",
+   "secao": "Conselhos para a vida",
+   "referencia": "Eclo 10,22-34",
+   "ini": {
+    "c": 10,
+    "v": 22
+   },
+   "fim": {
+    "c": 10,
+    "v": 34
+   }
+  },
+  {
+   "id": "SIR.11.1",
+   "titulo": "A sabedoria do humilde; não julgues pelas aparências",
+   "secao": "Conselhos para a vida",
+   "referencia": "Eclo 11,1-9",
+   "ini": {
+    "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 9
+   }
+  },
+  {
+   "id": "SIR.11.10",
+   "titulo": "Tudo vem de Deus; não louves ninguém antes da morte",
+   "secao": "Conselhos para a vida",
+   "referencia": "Eclo 11,10-30",
+   "ini": {
+    "c": 11,
+    "v": 10
+   },
+   "fim": {
+    "c": 11,
+    "v": 30
+   }
+  },
+  {
+   "id": "SIR.11.31",
+   "titulo": "Cautela com quem acolhes e a quem fazes o bem",
+   "secao": "Conselhos para a vida",
+   "referencia": "Eclo 11,31–12,7",
+   "ini": {
+    "c": 11,
+    "v": 31
+   },
+   "fim": {
+    "c": 12,
+    "v": 7
+   }
+  },
+  {
+   "id": "SIR.12.8",
+   "titulo": "O inimigo de lágrimas nos olhos",
+   "secao": "Conselhos para a vida",
+   "referencia": "Eclo 12,8-19",
+   "ini": {
+    "c": 12,
+    "v": 8
+   },
+   "fim": {
+    "c": 12,
+    "v": 19
+   }
+  },
+  {
+   "id": "SIR.13.1",
+   "titulo": "Quem toca o pez fica manchado: o rico e o poderoso",
+   "secao": "Conselhos para a vida",
+   "referencia": "Eclo 13,1-17",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 17
+   }
+  },
+  {
+   "id": "SIR.13.18",
+   "titulo": "O rico e o pobre; o coração muda o rosto",
+   "secao": "Conselhos para a vida",
+   "referencia": "Eclo 13,18-32",
+   "ini": {
+    "c": 13,
+    "v": 18
+   },
+   "fim": {
+    "c": 13,
+    "v": 32
+   }
+  },
+  {
+   "id": "SIR.14.1",
+   "titulo": "A avareza; faze o bem antes da morte",
+   "secao": "Conselhos para a vida",
+   "referencia": "Eclo 14,1-21",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 21
+   }
+  },
+  {
+   "id": "SIR.14.22",
+   "titulo": "Bem-aventurado o que medita na sabedoria",
+   "secao": "Conselhos para a vida",
+   "referencia": "Eclo 14,22–15,10",
+   "ini": {
+    "c": 14,
+    "v": 22
+   },
+   "fim": {
+    "c": 15,
+    "v": 10
+   }
+  },
+  {
+   "id": "SIR.15.11",
+   "titulo": "Diante do homem estão a vida e a morte",
+   "secao": "Conselhos para a vida",
+   "referencia": "Eclo 15,11-22",
+   "ini": {
+    "c": 15,
+    "v": 11
+   },
+   "fim": {
+    "c": 15,
+    "v": 22
+   }
+  },
+  {
+   "id": "SIR.16.1",
+   "titulo": "Mais vale um filho temente a Deus; a misericórdia e a ira",
+   "secao": "Deus, o homem e a misericórdia",
+   "referencia": "Eclo 16,1-15",
+   "ini": {
+    "c": 16,
+    "v": 1
+   },
+   "fim": {
+    "c": 16,
+    "v": 15
+   }
+  },
+  {
+   "id": "SIR.16.16",
+   "titulo": "Não digas: esconder-me-ei de Deus",
+   "secao": "Deus, o homem e a misericórdia",
+   "referencia": "Eclo 16,16-23",
+   "ini": {
+    "c": 16,
+    "v": 16
+   },
+   "fim": {
+    "c": 16,
+    "v": 23
+   }
+  },
+  {
+   "id": "SIR.16.24",
+   "titulo": "Deus criou o homem à sua imagem",
+   "secao": "Deus, o homem e a misericórdia",
+   "referencia": "Eclo 16,24–17,13",
+   "ini": {
+    "c": 16,
+    "v": 24
+   },
+   "fim": {
+    "c": 17,
+    "v": 13
+   }
+  },
+  {
+   "id": "SIR.17.14",
+   "titulo": "Converte-te ao Senhor; louva-o enquanto vives",
+   "secao": "Deus, o homem e a misericórdia",
+   "referencia": "Eclo 17,14-31",
+   "ini": {
+    "c": 17,
+    "v": 14
+   },
+   "fim": {
+    "c": 17,
+    "v": 31
+   }
+  },
+  {
+   "id": "SIR.18.1",
+   "titulo": "A misericórdia de Deus abraça toda a carne",
+   "secao": "Deus, o homem e a misericórdia",
+   "referencia": "Eclo 18,1-14",
+   "ini": {
+    "c": 18,
+    "v": 1
+   },
+   "fim": {
+    "c": 18,
+    "v": 14
+   }
+  },
+  {
+   "id": "SIR.18.15",
+   "titulo": "O modo de dar; prepara a tua alma antes da oração",
+   "secao": "Deus, o homem e a misericórdia",
+   "referencia": "Eclo 18,15-29",
+   "ini": {
+    "c": 18,
+    "v": 15
+   },
+   "fim": {
+    "c": 18,
+    "v": 29
+   }
+  },
+  {
+   "id": "SIR.18.30",
+   "titulo": "Não sigas as tuas paixões",
+   "secao": "O domínio de si e a palavra",
+   "referencia": "Eclo 18,30–19,3",
+   "ini": {
+    "c": 18,
+    "v": 30
+   },
+   "fim": {
+    "c": 19,
+    "v": 3
+   }
+  },
+  {
+   "id": "SIR.19.4",
+   "titulo": "Guarda o que ouviste; corrige o teu amigo",
+   "secao": "O domínio de si e a palavra",
+   "referencia": "Eclo 19,4-17",
+   "ini": {
+    "c": 19,
+    "v": 4
+   },
+   "fim": {
+    "c": 19,
+    "v": 17
+   }
+  },
+  {
+   "id": "SIR.19.18",
+   "titulo": "A verdadeira e a falsa sabedoria",
+   "secao": "O domínio de si e a palavra",
+   "referencia": "Eclo 19,18-28",
+   "ini": {
+    "c": 19,
+    "v": 18
+   },
+   "fim": {
+    "c": 19,
+    "v": 28
+   }
+  },
+  {
+   "id": "SIR.20.1",
+   "titulo": "O silêncio do sábio; a mentira",
+   "secao": "O domínio de si e a palavra",
+   "referencia": "Eclo 20,1-33",
+   "ini": {
+    "c": 20,
+    "v": 1
+   },
+   "fim": {
+    "c": 20,
+    "v": 33
+   }
+  },
+  {
+   "id": "SIR.21.1",
+   "titulo": "Foge do pecado como de uma serpente",
+   "secao": "O domínio de si e a palavra",
+   "referencia": "Eclo 21,1-11",
+   "ini": {
+    "c": 21,
+    "v": 1
+   },
+   "fim": {
+    "c": 21,
+    "v": 11
+   }
+  },
+  {
+   "id": "SIR.21.12",
+   "titulo": "O sábio e o insensato",
+   "secao": "O domínio de si e a palavra",
+   "referencia": "Eclo 21,12-31",
+   "ini": {
+    "c": 21,
+    "v": 12
+   },
+   "fim": {
+    "c": 21,
+    "v": 31
+   }
+  },
+  {
+   "id": "SIR.22.1",
+   "titulo": "O preguiçoso e o insensato",
+   "secao": "O domínio de si e a palavra",
+   "referencia": "Eclo 22,1-18",
+   "ini": {
+    "c": 22,
+    "v": 1
+   },
+   "fim": {
+    "c": 22,
+    "v": 18
+   }
+  },
+  {
+   "id": "SIR.22.19",
+   "titulo": "Firmeza de coração; fidelidade ao amigo",
+   "secao": "O domínio de si e a palavra",
+   "referencia": "Eclo 22,19-32",
+   "ini": {
+    "c": 22,
+    "v": 19
+   },
+   "fim": {
+    "c": 22,
+    "v": 32
+   }
+  },
+  {
+   "id": "SIR.22.33",
+   "titulo": "Quem porá uma guarda à minha boca?",
+   "secao": "O domínio de si e a palavra",
+   "referencia": "Eclo 22,33–23,6",
+   "ini": {
+    "c": 22,
+    "v": 33
+   },
+   "fim": {
+    "c": 23,
+    "v": 6
+   }
+  },
+  {
+   "id": "SIR.23.7",
+   "titulo": "A disciplina da língua; os juramentos",
+   "secao": "O domínio de si e a palavra",
+   "referencia": "Eclo 23,7-20",
+   "ini": {
+    "c": 23,
+    "v": 7
+   },
+   "fim": {
+    "c": 23,
+    "v": 20
+   }
+  },
+  {
+   "id": "SIR.23.21",
+   "titulo": "A impureza e o adultério; os olhos do Senhor veem tudo",
+   "secao": "O domínio de si e a palavra",
+   "referencia": "Eclo 23,21-38",
+   "ini": {
+    "c": 23,
+    "v": 21
+   },
+   "fim": {
+    "c": 23,
+    "v": 38
+   }
+  },
+  {
+   "id": "SIR.24.1",
+   "titulo": "A sabedoria faz o seu próprio elogio",
+   "secao": "O elogio da sabedoria",
+   "referencia": "Eclo 24,1-31",
+   "ini": {
+    "c": 24,
+    "v": 1
+   },
+   "fim": {
+    "c": 24,
+    "v": 31
+   }
+  },
+  {
+   "id": "SIR.24.32",
+   "titulo": "A sabedoria é o livro da aliança",
+   "secao": "O elogio da sabedoria",
+   "referencia": "Eclo 24,32-47",
+   "ini": {
+    "c": 24,
+    "v": 32
+   },
+   "fim": {
+    "c": 24,
+    "v": 47
+   }
+  },
+  {
+   "id": "SIR.25.1",
+   "titulo": "O que agrada a Deus; o temor de Deus sobre tudo",
+   "secao": "A família, a amizade e a vida social",
+   "referencia": "Eclo 25,1-16",
+   "ini": {
+    "c": 25,
+    "v": 1
+   },
+   "fim": {
+    "c": 25,
+    "v": 16
+   }
+  },
+  {
+   "id": "SIR.25.17",
+   "titulo": "A mulher má e a tristeza do coração",
+   "secao": "A família, a amizade e a vida social",
+   "referencia": "Eclo 25,17-36",
+   "ini": {
+    "c": 25,
+    "v": 17
+   },
+   "fim": {
+    "c": 25,
+    "v": 36
+   }
+  },
+  {
+   "id": "SIR.26.1",
+   "titulo": "A mulher virtuosa, luz da casa",
+   "secao": "A família, a amizade e a vida social",
+   "referencia": "Eclo 26,1-24",
+   "ini": {
+    "c": 26,
+    "v": 1
+   },
+   "fim": {
+    "c": 26,
+    "v": 24
+   }
+  },
+  {
+   "id": "SIR.26.25",
+   "titulo": "O perigo do comércio e da cobiça",
+   "secao": "A família, a amizade e a vida social",
+   "referencia": "Eclo 26,25–27,3",
+   "ini": {
+    "c": 26,
+    "v": 25
+   },
+   "fim": {
+    "c": 27,
+    "v": 3
+   }
+  },
+  {
+   "id": "SIR.27.4",
+   "titulo": "A palavra revela o homem",
+   "secao": "A família, a amizade e a vida social",
+   "referencia": "Eclo 27,4-16",
+   "ini": {
+    "c": 27,
+    "v": 4
+   },
+   "fim": {
+    "c": 27,
+    "v": 16
+   }
+  },
+  {
+   "id": "SIR.27.17",
+   "titulo": "Não reveles os segredos do amigo",
+   "secao": "A família, a amizade e a vida social",
+   "referencia": "Eclo 27,17-24",
+   "ini": {
+    "c": 27,
+    "v": 17
+   },
+   "fim": {
+    "c": 27,
+    "v": 24
+   }
+  },
+  {
+   "id": "SIR.27.25",
+   "titulo": "Quem abre a cova cairá nela",
+   "secao": "A família, a amizade e a vida social",
+   "referencia": "Eclo 27,25-33",
+   "ini": {
+    "c": 27,
+    "v": 25
+   },
+   "fim": {
+    "c": 27,
+    "v": 33
+   }
+  },
+  {
+   "id": "SIR.28.1",
+   "titulo": "Perdoa ao teu próximo e serás perdoado",
+   "secao": "A família, a amizade e a vida social",
+   "referencia": "Eclo 28,1-11",
+   "ini": {
+    "c": 28,
+    "v": 1
+   },
+   "fim": {
+    "c": 28,
+    "v": 11
+   }
+  },
+  {
+   "id": "SIR.28.12",
+   "titulo": "O mal da língua",
+   "secao": "A família, a amizade e a vida social",
+   "referencia": "Eclo 28,12-30",
+   "ini": {
+    "c": 28,
+    "v": 12
+   },
+   "fim": {
+    "c": 28,
+    "v": 30
+   }
+  },
+  {
+   "id": "SIR.29.1",
+   "titulo": "Empresta ao próximo; encerra a esmola no coração do pobre",
+   "secao": "A família, a amizade e a vida social",
+   "referencia": "Eclo 29,1-18",
+   "ini": {
+    "c": 29,
+    "v": 1
+   },
+   "fim": {
+    "c": 29,
+    "v": 18
+   }
+  },
+  {
+   "id": "SIR.29.19",
+   "titulo": "A fiança; contenta-te com o necessário",
+   "secao": "A família, a amizade e a vida social",
+   "referencia": "Eclo 29,19-35",
+   "ini": {
+    "c": 29,
+    "v": 19
+   },
+   "fim": {
+    "c": 29,
+    "v": 35
+   }
+  },
+  {
+   "id": "SIR.30.1",
+   "titulo": "A educação dos filhos",
+   "secao": "A família, a amizade e a vida social",
+   "referencia": "Eclo 30,1-13",
+   "ini": {
+    "c": 30,
+    "v": 1
+   },
+   "fim": {
+    "c": 30,
+    "v": 13
+   }
+  },
+  {
+   "id": "SIR.30.14",
+   "titulo": "A saúde e a alegria do coração",
+   "secao": "A família, a amizade e a vida social",
+   "referencia": "Eclo 30,14-27",
+   "ini": {
+    "c": 30,
+    "v": 14
+   },
+   "fim": {
+    "c": 30,
+    "v": 27
+   }
+  },
+  {
+   "id": "SIR.31.1",
+   "titulo": "Bem-aventurado o rico que foi achado sem mancha",
+   "secao": "A família, a amizade e a vida social",
+   "referencia": "Eclo 31,1-11",
+   "ini": {
+    "c": 31,
+    "v": 1
+   },
+   "fim": {
+    "c": 31,
+    "v": 11
+   }
+  },
+  {
+   "id": "SIR.31.12",
+   "titulo": "Moderação à mesa e no vinho",
+   "secao": "A família, a amizade e a vida social",
+   "referencia": "Eclo 31,12-42",
+   "ini": {
+    "c": 31,
+    "v": 12
+   },
+   "fim": {
+    "c": 31,
+    "v": 42
+   }
+  },
+  {
+   "id": "SIR.32.1",
+   "titulo": "O banquete: presidir, falar e ouvir",
+   "secao": "A família, a amizade e a vida social",
+   "referencia": "Eclo 32,1-17",
+   "ini": {
+    "c": 32,
+    "v": 1
+   },
+   "fim": {
+    "c": 32,
+    "v": 17
+   }
+  },
+  {
+   "id": "SIR.32.18",
+   "titulo": "Quem teme o Senhor ama a lei; nada sem conselho",
+   "secao": "A família, a amizade e a vida social",
+   "referencia": "Eclo 32,18–33,3",
+   "ini": {
+    "c": 32,
+    "v": 18
+   },
+   "fim": {
+    "c": 33,
+    "v": 3
+   }
+  },
+  {
+   "id": "SIR.33.4",
+   "titulo": "Como o barro nas mãos do oleiro",
+   "secao": "A família, a amizade e a vida social",
+   "referencia": "Eclo 33,4-19",
+   "ini": {
+    "c": 33,
+    "v": 4
+   },
+   "fim": {
+    "c": 33,
+    "v": 19
+   }
+  },
+  {
+   "id": "SIR.33.20",
+   "titulo": "Os bens, a casa e os servos",
+   "secao": "A família, a amizade e a vida social",
+   "referencia": "Eclo 33,20-33",
+   "ini": {
+    "c": 33,
+    "v": 20
+   },
+   "fim": {
+    "c": 33,
+    "v": 33
+   }
+  },
+  {
+   "id": "SIR.34.1",
+   "titulo": "Os sonhos e as vãs esperanças",
+   "secao": "O culto, a oração e o conselho",
+   "referencia": "Eclo 34,1-8",
+   "ini": {
+    "c": 34,
+    "v": 1
+   },
+   "fim": {
+    "c": 34,
+    "v": 8
+   }
+  },
+  {
+   "id": "SIR.34.9",
+   "titulo": "A experiência; feliz a alma que teme o Senhor",
+   "secao": "O culto, a oração e o conselho",
+   "referencia": "Eclo 34,9-20",
+   "ini": {
+    "c": 34,
+    "v": 9
+   },
+   "fim": {
+    "c": 34,
+    "v": 20
+   }
+  },
+  {
+   "id": "SIR.34.21",
+   "titulo": "O sacrifício com o pão dos pobres",
+   "secao": "O culto, a oração e o conselho",
+   "referencia": "Eclo 34,21-31",
+   "ini": {
+    "c": 34,
+    "v": 21
+   },
+   "fim": {
+    "c": 34,
+    "v": 31
+   }
+  },
+  {
+   "id": "SIR.35.1",
+   "titulo": "Guardar a lei é oferecer sacrifício",
+   "secao": "O culto, a oração e o conselho",
+   "referencia": "Eclo 35,1-13",
+   "ini": {
+    "c": 35,
+    "v": 1
+   },
+   "fim": {
+    "c": 35,
+    "v": 13
+   }
+  },
+  {
+   "id": "SIR.35.14",
+   "titulo": "A oração do humilde atravessa as nuvens",
+   "secao": "O culto, a oração e o conselho",
+   "referencia": "Eclo 35,14-26",
+   "ini": {
+    "c": 35,
+    "v": 14
+   },
+   "fim": {
+    "c": 35,
+    "v": 26
+   }
+  },
+  {
+   "id": "SIR.36.1",
+   "titulo": "Oração pelo povo de Deus",
+   "secao": "O culto, a oração e o conselho",
+   "referencia": "Eclo 36,1-19",
+   "ini": {
+    "c": 36,
+    "v": 1
+   },
+   "fim": {
+    "c": 36,
+    "v": 19
+   }
+  },
+  {
+   "id": "SIR.36.20",
+   "titulo": "O discernimento; a boa esposa",
+   "secao": "O culto, a oração e o conselho",
+   "referencia": "Eclo 36,20-28",
+   "ini": {
+    "c": 36,
+    "v": 20
+   },
+   "fim": {
+    "c": 36,
+    "v": 28
+   }
+  },
+  {
+   "id": "SIR.37.1",
+   "titulo": "O falso amigo e o bom conselheiro",
+   "secao": "O culto, a oração e o conselho",
+   "referencia": "Eclo 37,1-19",
+   "ini": {
+    "c": 37,
+    "v": 1
+   },
+   "fim": {
+    "c": 37,
+    "v": 19
+   }
+  },
+  {
+   "id": "SIR.37.20",
+   "titulo": "O verdadeiro sábio; a temperança",
+   "secao": "O culto, a oração e o conselho",
+   "referencia": "Eclo 37,20-34",
+   "ini": {
+    "c": 37,
+    "v": 20
+   },
+   "fim": {
+    "c": 37,
+    "v": 34
+   }
+  },
+  {
+   "id": "SIR.38.1",
+   "titulo": "Honra o médico",
+   "secao": "O culto, a oração e o conselho",
+   "referencia": "Eclo 38,1-15",
+   "ini": {
+    "c": 38,
+    "v": 1
+   },
+   "fim": {
+    "c": 38,
+    "v": 15
+   }
+  },
+  {
+   "id": "SIR.38.16",
+   "titulo": "O luto pelos mortos",
+   "secao": "O culto, a oração e o conselho",
+   "referencia": "Eclo 38,16-24",
+   "ini": {
+    "c": 38,
+    "v": 16
+   },
+   "fim": {
+    "c": 38,
+    "v": 24
+   }
+  },
+  {
+   "id": "SIR.38.25",
+   "titulo": "Os ofícios das mãos",
+   "secao": "O culto, a oração e o conselho",
+   "referencia": "Eclo 38,25-39",
+   "ini": {
+    "c": 38,
+    "v": 25
+   },
+   "fim": {
+    "c": 38,
+    "v": 39
+   }
+  },
+  {
+   "id": "SIR.39.1",
+   "titulo": "O escriba que medita a lei do Altíssimo",
+   "secao": "O culto, a oração e o conselho",
+   "referencia": "Eclo 39,1-15",
+   "ini": {
+    "c": 39,
+    "v": 1
+   },
+   "fim": {
+    "c": 39,
+    "v": 15
+   }
+  },
+  {
+   "id": "SIR.39.16",
+   "titulo": "Todas as obras do Senhor são boas",
+   "secao": "A glória de Deus nas suas obras",
+   "referencia": "Eclo 39,16-41",
+   "ini": {
+    "c": 39,
+    "v": 16
+   },
+   "fim": {
+    "c": 39,
+    "v": 41
+   }
+  },
+  {
+   "id": "SIR.40.1",
+   "titulo": "Pesado jugo sobre os filhos de Adão",
+   "secao": "A condição humana",
+   "referencia": "Eclo 40,1-11",
+   "ini": {
+    "c": 40,
+    "v": 1
+   },
+   "fim": {
+    "c": 40,
+    "v": 11
+   }
+  },
+  {
+   "id": "SIR.40.12",
+   "titulo": "Acima de tudo, o temor do Senhor",
+   "secao": "A condição humana",
+   "referencia": "Eclo 40,12-32",
+   "ini": {
+    "c": 40,
+    "v": 12
+   },
+   "fim": {
+    "c": 40,
+    "v": 32
+   }
+  },
+  {
+   "id": "SIR.41.1",
+   "titulo": "Ó morte! O bom nome permanece",
+   "secao": "A condição humana",
+   "referencia": "Eclo 41,1-16",
+   "ini": {
+    "c": 41,
+    "v": 1
+   },
+   "fim": {
+    "c": 41,
+    "v": 16
+   }
+  },
+  {
+   "id": "SIR.41.17",
+   "titulo": "De que se envergonhar e de que não se envergonhar",
+   "secao": "A condição humana",
+   "referencia": "Eclo 41,17–42,14",
+   "ini": {
+    "c": 41,
+    "v": 17
+   },
+   "fim": {
+    "c": 42,
+    "v": 14
+   }
+  },
+  {
+   "id": "SIR.42.15",
+   "titulo": "Lembrar-me-ei das obras do Senhor",
+   "secao": "A glória de Deus na criação",
+   "referencia": "Eclo 42,15-26",
+   "ini": {
+    "c": 42,
+    "v": 15
+   },
+   "fim": {
+    "c": 42,
+    "v": 26
+   }
+  },
+  {
+   "id": "SIR.43.1",
+   "titulo": "O sol, a lua, as estrelas e as maravilhas do céu",
+   "secao": "A glória de Deus na criação",
+   "referencia": "Eclo 43,1-37",
+   "ini": {
+    "c": 43,
+    "v": 1
+   },
+   "fim": {
+    "c": 43,
+    "v": 37
+   }
+  },
+  {
+   "id": "SIR.44.1",
+   "titulo": "Louvemos os varões ilustres",
+   "secao": "O elogio dos antepassados",
+   "referencia": "Eclo 44,1-15",
+   "ini": {
+    "c": 44,
+    "v": 1
+   },
+   "fim": {
+    "c": 44,
+    "v": 15
+   }
+  },
+  {
+   "id": "SIR.44.16",
+   "titulo": "Henoc, Noé, Abraão, Isaac e Jacó",
+   "secao": "O elogio dos antepassados",
+   "referencia": "Eclo 44,16-27",
+   "ini": {
+    "c": 44,
+    "v": 16
+   },
+   "fim": {
+    "c": 44,
+    "v": 27
+   }
+  },
+  {
+   "id": "SIR.45.1",
+   "titulo": "Moisés, amado de Deus e dos homens",
+   "secao": "O elogio dos antepassados",
+   "referencia": "Eclo 45,1-6",
+   "ini": {
+    "c": 45,
+    "v": 1
+   },
+   "fim": {
+    "c": 45,
+    "v": 6
+   }
+  },
+  {
+   "id": "SIR.45.7",
+   "titulo": "Aarão e Fineias",
+   "secao": "O elogio dos antepassados",
+   "referencia": "Eclo 45,7-31",
+   "ini": {
+    "c": 45,
+    "v": 7
+   },
+   "fim": {
+    "c": 45,
+    "v": 31
+   }
+  },
+  {
+   "id": "SIR.46.1",
+   "titulo": "Josué, Caleb e os juízes",
+   "secao": "O elogio dos antepassados",
+   "referencia": "Eclo 46,1-15",
+   "ini": {
+    "c": 46,
+    "v": 1
+   },
+   "fim": {
+    "c": 46,
+    "v": 15
+   }
+  },
+  {
+   "id": "SIR.46.16",
+   "titulo": "Samuel, profeta do Senhor",
+   "secao": "O elogio dos antepassados",
+   "referencia": "Eclo 46,16-23",
+   "ini": {
+    "c": 46,
+    "v": 16
+   },
+   "fim": {
+    "c": 46,
+    "v": 23
+   }
+  },
+  {
+   "id": "SIR.47.1",
+   "titulo": "Davi",
+   "secao": "O elogio dos antepassados",
+   "referencia": "Eclo 47,1-13",
+   "ini": {
+    "c": 47,
+    "v": 1
+   },
+   "fim": {
+    "c": 47,
+    "v": 13
+   }
+  },
+  {
+   "id": "SIR.47.14",
+   "titulo": "Salomão e a divisão do reino",
+   "secao": "O elogio dos antepassados",
+   "referencia": "Eclo 47,14-31",
+   "ini": {
+    "c": 47,
+    "v": 14
+   },
+   "fim": {
+    "c": 47,
+    "v": 31
+   }
+  },
+  {
+   "id": "SIR.48.1",
+   "titulo": "Elias e Eliseu",
+   "secao": "O elogio dos antepassados",
+   "referencia": "Eclo 48,1-16",
+   "ini": {
+    "c": 48,
+    "v": 1
+   },
+   "fim": {
+    "c": 48,
+    "v": 16
+   }
+  },
+  {
+   "id": "SIR.48.17",
+   "titulo": "Ezequias e Isaías",
+   "secao": "O elogio dos antepassados",
+   "referencia": "Eclo 48,17-28",
+   "ini": {
+    "c": 48,
+    "v": 17
+   },
+   "fim": {
+    "c": 48,
+    "v": 28
+   }
+  },
+  {
+   "id": "SIR.49.1",
+   "titulo": "Josias, os profetas e os restauradores",
+   "secao": "O elogio dos antepassados",
+   "referencia": "Eclo 49,1-19",
+   "ini": {
+    "c": 49,
+    "v": 1
+   },
+   "fim": {
+    "c": 49,
+    "v": 19
+   }
+  },
+  {
+   "id": "SIR.50.1",
+   "titulo": "Simão, o sumo sacerdote, na liturgia do Templo",
+   "secao": "O elogio dos antepassados",
+   "referencia": "Eclo 50,1-26",
+   "ini": {
+    "c": 50,
+    "v": 1
+   },
+   "fim": {
+    "c": 50,
+    "v": 26
+   }
+  },
+  {
+   "id": "SIR.50.27",
+   "titulo": "Bem-aventurado o que se dá a estes ensinamentos",
+   "secao": "Epílogo",
+   "referencia": "Eclo 50,27-31",
+   "ini": {
+    "c": 50,
+    "v": 27
+   },
+   "fim": {
+    "c": 50,
+    "v": 31
+   }
+  },
+  {
+   "id": "SIR.51.1",
+   "titulo": "Oração de ação de graças de Jesus, filho de Sirac",
+   "secao": "Epílogo",
+   "referencia": "Eclo 51,1-17",
+   "ini": {
+    "c": 51,
+    "v": 1
+   },
+   "fim": {
+    "c": 51,
+    "v": 17
+   }
+  },
+  {
+   "id": "SIR.51.18",
+   "titulo": "A busca da sabedoria desde a juventude",
+   "secao": "Epílogo",
+   "referencia": "Eclo 51,18-38",
+   "ini": {
+    "c": 51,
+    "v": 18
+   },
+   "fim": {
+    "c": 51,
+    "v": 38
+   }
+  }
+ ]
+}

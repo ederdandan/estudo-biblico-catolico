@@ -1,0 +1,57 @@
+{
+  "id": "SIR.48.1",
+  "livro": "SIR",
+  "titulo": "Elias e Eliseu",
+  "secao": "O elogio dos antepassados",
+  "referencia": "Eclo 48,1-16",
+  "ini": {
+    "c": 48,
+    "v": 1
+  },
+  "fim": {
+    "c": 48,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "Elias, profeta como fogo, e Eliseu",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Surgiu depois o profeta Elias, como um fogo. As suas palavras ardiam como um facho.” Trouxe a fome sobre o povo e reduziu-o pelo seu zelo. “Com a palavra do Senhor fechou o céu, e fez cair fogo do mesmo céu por três vezes.” O sábio se dirige a ele: “Quão glorioso te tornaste, Elias, pelos teus prodígios! Quem pode gloriar-se de ser como tu? Tu que fizeste sair um morto do sepulcro”; que precipitaste reis na ruína; que ouviste no Sinai o juízo e no Horeb as sentenças de castigo; que ungiste reis para a vingança e profetas para te sucederem; “que foste arrebatado ao céu num redemoinho de fogo, num carro tirado por cavalos ardentes; tu, que foste designado nos decretos dos tempos para abrandar a ira do Senhor, para reconciliar o coração dos pais com os filhos, e para restabelecer as tribos de Jacó. Bem-aventurados os que te viram, e que foram honrados com a tua amizade!” Depois, “o seu espírito ficou em Eliseu, o qual não temeu príncipe algum em seus dias”; nada foi difícil para ele, e até no túmulo o seu corpo profetizou, ressuscitando um morto. Apesar de tudo, o povo não se converteu, e foi levado para o exílio.",
+    "alegorico": "Elias, que deve voltar “para reconciliar os pais com os filhos” (Ml 4,5-6), é identificado por Jesus com João Batista (Mt 17,10-13; Lc 1,17). Elias aparece com Moisés na Transfiguração (Mt 17,3). O seu arrebatamento ao céu prefigura a Ascensão de Cristo.",
+    "moral": "Elias é o profeta do zelo ardente por Deus, que não teme reis nem multidões. Eliseu herda o seu espírito e não teme nenhum príncipe. O zelo pela verdade e a coragem diante dos poderosos são marcas do profeta; mas também a missão de reconciliar corações divididos.",
+    "anagogico": "O carro de fogo que leva Elias ao céu anuncia a ressurreição e a ascensão; os que viram Elias são “bem-aventurados”, como os que verão a Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Surgiu depois o profeta Elias, como um fogo.” “As suas palavras ardiam como um facho.” “Foste arrebatado num redemoinho de fogo.” “Para reconciliar o coração dos pais com os filhos.” “O seu espírito ficou em Eliseu.”",
+    "meditatio_perguntas": [
+      "Tenho zelo ardente pelas coisas de Deus?",
+      "Sou instrumento de reconciliação nas famílias?",
+      "Tenho coragem de falar a verdade diante dos poderosos?"
+    ],
+    "oratio_guia": "Senhor, acende em mim o fogo de Elias. Dá-me zelo pela tua glória, coragem diante dos poderosos e a missão de reconciliar os corações dos pais e dos filhos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Surgiu depois o profeta Elias, como um fogo. As suas palavras ardiam como um facho",
+      "ref": "Eclo 48,1"
+    }
+  },
+  "ancoras": {
+    "48:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação de Ml 4,5-6 (3,23-24); cf. Lc 1,17.",
+        "origem": "ia"
+      }
+    },
+    "48:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 2Rs 13,20-21: o morto que revive ao tocar os ossos de Eliseu.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

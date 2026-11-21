@@ -1,0 +1,57 @@
+{
+  "id": "SIR.25.17",
+  "livro": "SIR",
+  "titulo": "A mulher má e a tristeza do coração",
+  "secao": "A família, a amizade e a vida social",
+  "referencia": "Eclo 25,17-36",
+  "ini": {
+    "c": 25,
+    "v": 17
+  },
+  "fim": {
+    "c": 25,
+    "v": 36
+  },
+  "liturgia": {
+    "tema_central": "A mulher má e a tristeza do coração",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio escreve uma série de sentenças duras sobre a mulher má, que refletem a perspectiva de um homem da sua época, mas falam de um sofrimento real: a convivência com quem envenena a casa. “A tristeza do coração é a maior chaga.” Toda ferida é suportável, menos a do coração; toda malícia, menos a da mulher má; não há ira pior. “Será melhor viver com um leão e com um dragão, do que habitar com uma mulher má.” A maldade muda-lhe o rosto e o torna sombrio; o marido se senta entre os vizinhos e suspira. Toda malícia é pequena perto da sua. Como subida arenosa para os pés de um velho, assim é a mulher tagarela para um homem pacato. Não te deixes seduzir pela beleza, não a desejes pela beleza. A mulher que sustenta o marido e o domina é ira e vergonha. O autor lembra também a história de Eva: “Da mulher nasceu o princípio do pecado, e é por causa dela que todos morremos.” E aconselha não dar à água uma saída, nem à mulher má liberdade de sair.",
+    "alegorico": "Paulo lê a origem do pecado de modo diferente: “por um só homem entrou o pecado no mundo” (Rm 5,12), atribuindo-o a Adão. E a Igreja vê em Maria a nova Eva, por quem veio a vida. A casa ferida pela discórdia conjugal pede a cura que Cristo traz ao matrimônio, sacramento do seu amor pela Igreja (Ef 5,25-32).",
+    "moral": "Lido hoje, este texto deve ser tomado na sua lição perene, aplicável a homens e mulheres: a maldade de um cônjuge torna a casa insuportável, e a beleza não basta para escolher com quem casar. É também um alerta para cada um examinar se é, em casa, fonte de paz ou de tristeza. A cultura do autor não deve servir de pretexto para desprezar a mulher.",
+    "anagogico": "A tristeza do coração, “a maior chaga”, será curada na Jerusalém nova, onde Deus enxugará toda lágrima (Ap 21,4)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A tristeza do coração é a maior chaga.” “Será melhor viver com um leão e com um dragão.” “Não te deixes seduzir pela beleza.” “Da mulher nasceu o princípio do pecado.”",
+    "meditatio_perguntas": [
+      "Sou, em casa, fonte de paz ou de tristeza?",
+      "Escolho (ou aconselho escolher) o cônjuge só pela beleza?",
+      "Como leio textos difíceis da Bíblia à luz de Cristo?"
+    ],
+    "oratio_guia": "Senhor, cura as tristezas do coração e as feridas das famílias. Faz-me ser fonte de paz na minha casa, e ensina-me a ler a tua Palavra à luz do teu Filho. Amém.",
+    "contemplatio_foco": {
+      "texto": "A tristeza do coração é a maior chaga",
+      "ref": "Eclo 25,17"
+    }
+  },
+  "ancoras": {
+    "25:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O texto reflete a cultura patriarcal do século II a.C.; a revelação plena em Cristo afirma a igual dignidade do homem e da mulher (Gn 1,27; Gl 3,28).",
+        "origem": "ia"
+      }
+    },
+    "25:33": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Alusão a Gn 3. Paulo atribui a entrada do pecado a Adão (Rm 5,12).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

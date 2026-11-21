@@ -1,0 +1,49 @@
+{
+  "id": "SIR.26.1",
+  "livro": "SIR",
+  "titulo": "A mulher virtuosa, luz da casa",
+  "secao": "A família, a amizade e a vida social",
+  "referencia": "Eclo 26,1-24",
+  "ini": {
+    "c": 26,
+    "v": 1
+  },
+  "fim": {
+    "c": 26,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "A mulher virtuosa, alegria do marido",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Em contraste com o quadro anterior, o sábio canta a mulher boa. “Ditoso o homem que tem uma virtuosa mulher, porque será dobrado o número dos seus anos. A mulher forte é a alegria de seu marido, derramará paz sobre os anos da sua vida. A mulher virtuosa é uma sorte excelente, é o prémio dos que temem a Deus.” Rico ou pobre, o marido terá o coração satisfeito e o rosto alegre. Seguem advertências sobre o ciúme e a infidelidade, que causam dor no coração. Depois volta o elogio: “A graça duma mulher cuidadosa deleita o seu marido, e o seu bom proceder infunde-lhe vigor até aos ossos. É um dom de Deus uma mulher sensata, amiga do silêncio.” “Graça sobre graça é a mulher santa e cheia de pudor.” “Como o sol que se levanta para o mundo, nas alturas de Deus, assim é a beleza duma mulher virtuosa, ornamento da sua casa.” Como a lâmpada no candelabro santo é a beleza do rosto numa idade madura; como colunas de ouro sobre bases de prata, os pés firmes. “Como fundamentos eternos sobre a pedra sólida, assim são os mandamentos de Deus no coração da mulher santa.”",
+    "alegorico": "A mulher forte, alegria do esposo, é imagem da Igreja, Esposa de Cristo, “sem mancha nem ruga” (Ef 5,27), e de Maria, “cheia de graça”. O texto é próximo do elogio da mulher forte em Pr 31,10-31.",
+    "moral": "O casamento feliz é um dom de Deus a ser pedido e cuidado. A beleza que mais conta é a do coração, enraizado nos mandamentos. O texto vale também ao inverso: o bom marido é dom para a esposa. Ambos são chamados a ser, um para o outro, paz e alegria.",
+    "anagogico": "A união dos esposos santos é sinal das núpcias eternas do Cordeiro com a sua Esposa (Ap 19,7-9)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A mulher forte é a alegria de seu marido.” “A mulher virtuosa é uma sorte excelente.” “Graça sobre graça é a mulher santa e cheia de pudor.” “Como o Sol que se levanta para o mundo… assim é a beleza duma mulher virtuosa.” “Os mandamentos de Deus no coração da mulher santa.”",
+    "meditatio_perguntas": [
+      "Sou paz e alegria para o meu cônjuge (ou para a minha família)?",
+      "Agradeço a Deus as mulheres virtuosas da minha vida?",
+      "Os mandamentos de Deus são fundamento firme no meu coração?"
+    ],
+    "oratio_guia": "Senhor, obrigado pelas mulheres santas que puseste no meu caminho. Abençoa os esposos, para que sejam alegria e paz um para o outro, firmes nos teus mandamentos. Amém.",
+    "contemplatio_foco": {
+      "texto": "A mulher forte é a alegria de seu marido, derramará paz sobre os anos da sua vida",
+      "ref": "Eclo 26,2"
+    }
+  },
+  "ancoras": {
+    "26:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Pr 31,10-31, o poema da mulher forte; e Pr 18,22.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

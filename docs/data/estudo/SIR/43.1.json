@@ -1,0 +1,57 @@
+{
+  "id": "SIR.43.1",
+  "livro": "SIR",
+  "titulo": "O sol, a lua, as estrelas e as maravilhas do céu",
+  "secao": "A glória de Deus na criação",
+  "referencia": "Eclo 43,1-37",
+  "ini": {
+    "c": 43,
+    "v": 1
+  },
+  "fim": {
+    "c": 43,
+    "v": 37
+  },
+  "liturgia": {
+    "tema_central": "O sol, a lua, as estrelas e o arco-íris louvam o Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio percorre o céu e a natureza como um salmista. “O firmamento é a formosura do céu, e a abóbada celeste é um espetáculo de majestade. O sol, ao sair, glorifica o Senhor; é um vaso admirável, uma obra do Excelso.” Ao meio-dia queima a terra como fornalha; “grande é o Senhor que o criou; ele apressa a sua carreira para lhe obedecer”. A lua marca os tempos e as festas, cresce e diminui maravilhosamente; as estrelas são a beleza do céu e, à palavra do Santo, ficam de sentinela sem se cansar. “Contempla o arco-íris e bendize aquele que o fez; é muito formoso no seu resplendor.” Depois a neve, os relâmpagos, as nuvens, o granizo, o trovão, os ventos; a neve que cai como pássaros, a geada como sal, o gelo sobre as águas; o mar com as suas ilhas e monstros, que os navegantes descrevem. E o sábio confessa o limite do discurso: “Por muito que digamos, muito nos ficará por dizer, mas o resumo de todo o nosso discurso é este: Ele está em todas as coisas.” “Glorificai o Senhor quanto puderdes, que ele ficará sempre acima dos vossos louvores… Bendizei o Senhor, exaltai-o quanto puderdes, porque ele está acima de todo o louvor.” “O Senhor fez todas as coisas, e deu sabedoria aos que vivem piamente.”",
+    "alegorico": "Este hino lembra o Salmo 18 (“os céus proclamam a glória de Deus”) e o Cântico das criaturas de São Francisco. O arco-íris é sinal da aliança (Gn 9,13) e rodeia o trono de Deus no Apocalipse (Ap 4,3). Cristo, “sol de justiça”, é a luz que nenhum astro iguala.",
+    "moral": "A natureza é um livro que fala de Deus: cada astro, cada fenômeno é convite ao louvor. Mas o sábio é humilde: nenhuma palavra esgota a grandeza de Deus. O cuidado com a criação, “casa comum”, nasce dessa contemplação agradecida.",
+    "anagogico": "“Ele está acima de todo o louvor”: na eternidade louvaremos sem fim e nunca esgotaremos a sua glória; e a sabedoria dada aos que vivem piamente se tornará visão."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O firmamento é a formosura do céu.” “O Sol, ao sair, glorifica o Senhor.” “Contempla o arco-íris e bem-dize aquele que o fez.” “O resumo de todo o nosso discurso é este: Ele está em todas as coisas.” “Ele está acima de todo o louvor.”",
+    "meditatio_perguntas": [
+      "A natureza me leva a louvar a Deus?",
+      "Cuido da criação como dom de Deus?",
+      "Reconheço que Deus está acima de todo o meu louvor?"
+    ],
+    "oratio_guia": "Senhor, o sol, a lua, as estrelas e o arco-íris proclamam a tua glória. Uno a minha voz à da criação e te louvo quanto posso, sabendo que estás acima de todo louvor. Amém.",
+    "contemplatio_foco": {
+      "texto": "Contempla o arco-íris e bem-dize aquele que o fez; é muito formoso no seu resplendor",
+      "ref": "Eclo 43,12"
+    }
+  },
+  "ancoras": {
+    "43:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração grega, 43,27: “Ele é o todo” (to pan estin autos).",
+        "origem": "ia"
+      }
+    },
+    "43:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Gn 9,12-17: o arco como sinal da aliança com Noé.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

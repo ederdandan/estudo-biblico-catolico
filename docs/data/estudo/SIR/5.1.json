@@ -1,0 +1,49 @@
+{
+  "id": "SIR.5.1",
+  "livro": "SIR",
+  "titulo": "Não tardes em te converter ao Senhor",
+  "secao": "Os pais, os pobres e a sabedoria",
+  "referencia": "Eclo 5,1-10",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "Não tardes em te converter ao Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio denuncia as falsas seguranças que adiam a conversão. A primeira é a riqueza: “Não te fies nas riquezas iníquas e não digas: eu tenho bastante com que viver”, porque de nada servirão no dia do castigo. A segunda é a força: não sigas os desejos do coração por te sentires forte, nem digas: “Como sou poderoso! Quem me pedirá contas?” A terceira é a impunidade: “Não digas: Eu pequei; e que mal me veio daí?”, porque o Altíssimo é paciente, mas não esquece. A quarta é a presunção da misericórdia: não estejas sem temor do pecado perdoado nem acrescentes pecado a pecado; “não digas: A misericórdia do Senhor é grande, ele se compadecerá da multidão dos meus pecados”, porque misericórdia e ira estão nele, e a sua ira repousa sobre os pecadores. Daí o apelo urgente: “Não tardes em te converter ao Senhor, não o difiras de dia para dia, porque virá de improviso a sua ira.” Não te inquietes por riquezas injustas: não te servirão no dia da desgraça.",
+    "alegorico": "A advertência contra o adiamento da conversão ressoa no Evangelho: “Vigiai, porque não sabeis o dia nem a hora” (Mt 25,13), e na parábola do rico insensato que diz “tenho muitos bens” e morre naquela noite (Lc 12,16-21). A misericórdia de Deus, plenamente revelada em Cristo, é oferecida hoje: “agora é o tempo favorável” (2Cor 6,2).",
+    "moral": "Este texto desmonta a lógica de quem adia a conversão: “ainda tenho tempo”, “nada aconteceu”, “Deus é misericordioso”. A misericórdia de Deus é real e imensa, mas não é licença para pecar; quem a usa como desculpa já não a busca de verdade. A conversão é para hoje.",
+    "anagogico": "A ira “vem de improviso”: a morte e o juízo não avisam. A esperança cristã vive em vigilância alegre, pronta para o encontro com o Senhor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não te fies nas riquezas iníquas.” “Não digas: Eu pequei; e que mal me veio daí?” “Não digas: A misericórdia do Senhor é grande.” “Não tardes em te converter ao Senhor, não o difiras de dia para dia.”",
+    "meditatio_perguntas": [
+      "Que conversão estou adiando de dia para dia?",
+      "Uso a misericórdia de Deus como desculpa para continuar no pecado?",
+      "Em que falsas seguranças me apoio?"
+    ],
+    "oratio_guia": "Senhor, não permitas que eu adie a minha conversão. Livra-me da presunção que abusa da tua misericórdia e dá-me voltar a ti hoje, enquanto é tempo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não tardes em te converter ao Senhor, não o difiras de dia para dia",
+      "ref": "Eclo 5,8"
+    }
+  },
+  "ancoras": {
+    "5:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A paciência de Deus é para dar tempo à conversão (Rm 2,4; 2Pd 3,9).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

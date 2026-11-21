@@ -1,0 +1,49 @@
+{
+  "id": "SIR.31.1",
+  "livro": "SIR",
+  "titulo": "Bem-aventurado o rico que foi achado sem mancha",
+  "secao": "A família, a amizade e a vida social",
+  "referencia": "Eclo 31,1-11",
+  "ini": {
+    "c": 31,
+    "v": 1
+  },
+  "fim": {
+    "c": 31,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "Bem-aventurado o rico que foi achado sem mancha",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio fala da riqueza e das suas inquietações. “As vigílias para enriquecer consomem as carnes, e a preocupação com isso tira o sono.” A ansiedade pelo futuro perturba o sossego. O rico trabalha para juntar e, quando descansa, se farta de prazeres; o pobre trabalha para viver e, quando para, fica na miséria. Quem ama o ouro não será justificado; quem persegue o lucro nele se perderá. Muitos caíram por causa do ouro: o ouro é armadilha para os que lhe oferecem sacrifícios. E então o sábio faz um elogio raro: “Bem-aventurado o rico que foi achado sem mancha, que não correu atraído pelo ouro, que não pôs a sua esperança no dinheiro nem nos tesouros. Quem é este, para nós o louvarmos? Realmente fez coisas maravilhosas em sua vida. Ao que foi provado pelo ouro e encontrado perfeito, está reservada uma glória eterna: pôde transgredir a lei de Deus e não a transgrediu, pôde fazer o mal e não o fez. Por isso os seus bens foram assegurados no Senhor, e toda a assembleia dos santos celebrará as suas esmolas.”",
+    "alegorico": "Jesus diz que é difícil um rico entrar no Reino, mas “para Deus tudo é possível” (Mc 10,23-27). Zaqueu, José de Arimateia e as mulheres que sustentavam Jesus com os seus bens (Lc 8,3) são ricos “achados sem mancha”. A Igreja aplica este texto aos santos confessores.",
+    "moral": "A riqueza é uma prova: quem a possui pode fazer muito mal e muito bem. O sábio louva o rico que não se deixou escravizar pelo ouro, que podia pecar e não pecou. A ansiedade de enriquecer rouba o sono e a paz; a liberdade diante do dinheiro é uma forma de santidade.",
+    "anagogico": "“Está reservada uma glória eterna”: o rico que usou os bens segundo Deus terá as suas esmolas celebradas pela assembleia dos santos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“As vigílias para enriquecer consomem as carnes.” “Bem-aventurado o rico que foi achado sem mancha.” “Pôde transgredir a lei de Deus, e não a transgrediu.” “Toda a assembleia dos santos celebrará as suas esmolas.”",
+    "meditatio_perguntas": [
+      "A preocupação com dinheiro me tira o sono?",
+      "Ponho a minha esperança no dinheiro?",
+      "Uso os meus bens de modo que a “assembleia dos santos” possa celebrá-los?"
+    ],
+    "oratio_guia": "Senhor, livra-me da ansiedade de enriquecer. Que eu seja achado sem mancha, livre diante do dinheiro, e que os meus bens sirvam aos pobres e à tua glória. Amém.",
+    "contemplatio_foco": {
+      "texto": "Bem-aventurado o rico que foi achado sem mancha, que não correu atraído pelo ouro",
+      "ref": "Eclo 31,8"
+    }
+  },
+  "ancoras": {
+    "31:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Este trecho é usado na liturgia do Comum dos Santos (não mártires).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

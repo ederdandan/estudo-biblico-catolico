@@ -1,0 +1,49 @@
+{
+  "id": "SIR.11.10",
+  "livro": "SIR",
+  "titulo": "Tudo vem de Deus; não louves ninguém antes da morte",
+  "secao": "Conselhos para a vida",
+  "referencia": "Eclo 11,10-30",
+  "ini": {
+    "c": 11,
+    "v": 10
+  },
+  "fim": {
+    "c": 11,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "Tudo vem de Deus; não louves ninguém antes da morte",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio adverte contra o ativismo: “Filho, não empreendas muitos negócios”; quem corre atrás de muitas coisas não alcança nenhuma e não escapa da culpa. Há quem trabalhe e se apresse, e fique cada vez mais pobre; há quem seja fraco e necessitado, mas Deus o olha com bondade, o levanta e exalta a sua cabeça. “Os bens e os males, a vida e a morte, a pobreza e as riquezas, tudo isto vem de Deus.” O dom de Deus permanece nos justos. Há quem enriqueça à força de economia e diga: “Encontrei repouso, agora comerei sozinho dos meus bens”, sem saber que o tempo passa e a morte se aproxima, e que deixará tudo a outros. Por isso: “Mantém-te firme na tua aliança, ocupa-te sempre dela, e envelhece na prática do que te foi mandado.” Não admires as obras dos pecadores; confia em Deus e persevera no teu trabalho, porque é fácil a Deus enriquecer de repente o pobre. Não digas: de que mais preciso? nem: basta-me o que tenho. “No dia da felicidade não esqueças a desgraça, e no dia da desgraça não esqueças a felicidade.” E conclui: “Não louves nenhum homem antes da morte.”",
+    "alegorico": "O homem que diz “encontrei repouso, comerei dos meus bens” é o rico insensato da parábola de Jesus (Lc 12,16-21). “Tudo vem de Deus” prepara a confiança filial ensinada no Sermão da Montanha: “não vos inquieteis pelo dia de amanhã” (Mt 6,34).",
+    "moral": "Muitos negócios agitam a vida e afastam de Deus. O sábio ensina a fidelidade tranquila: perseverar no próprio trabalho e na aliança, sem invejar os outros. Ensina também o equilíbrio do coração: na alegria, não esquecer a fragilidade; na dor, não esquecer o bem recebido. E só o fim revela o valor de uma vida.",
+    "anagogico": "“Não louves nenhum homem antes da morte”: a santidade se confirma na perseverança final. A Igreja só canoniza os santos depois da morte."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não empreendas muitos negócios.” “Os bens e os males, a vida e a morte… tudo isto vem de Deus.” “Encontrei repouso, e agora comerei sozinho dos meus bens.” “Envelhece na prática do que te foi mandado.” “No dia da felicidade não esqueças a desgraça.” “Não louves nenhum homem antes da morte.”",
+    "meditatio_perguntas": [
+      "Estou disperso em muitos negócios e esqueço o essencial?",
+      "Recebo bens e males como vindos das mãos de Deus?",
+      "Persevero fielmente no meu trabalho e na aliança com Deus?"
+    ],
+    "oratio_guia": "Senhor, de quem vêm os bens e os males, a vida e a morte, guarda-me da agitação e da avareza. Faz-me envelhecer fiel à tua aliança e perseverar até o fim. Amém.",
+    "contemplatio_foco": {
+      "texto": "Os bens e os males, a vida e a morte, a pobreza e as riquezas, tudo isto vem de Deus",
+      "ref": "Eclo 11,14"
+    }
+  },
+  "ancoras": {
+    "11:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Lc 12,19: “descansa, come, bebe, regala-te”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

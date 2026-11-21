@@ -1,0 +1,57 @@
+{
+  "id": "SIR.23.21",
+  "livro": "SIR",
+  "titulo": "A impureza e o adultério; os olhos do Senhor veem tudo",
+  "secao": "O domínio de si e a palavra",
+  "referencia": "Eclo 23,21-38",
+  "ini": {
+    "c": 23,
+    "v": 21
+  },
+  "fim": {
+    "c": 23,
+    "v": 38
+  },
+  "liturgia": {
+    "tema_central": "O adúltero que julga não ser visto",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio trata do pecado da carne e do adultério. Duas espécies de homens multiplicam o pecado, e a terceira atrai a ira: a paixão ardente como fogo, que não se apaga até consumir; o homem impudico no seu próprio corpo; e o adúltero, para quem todo pão é doce. O adúltero diz no seu coração: “Quem me vê? As trevas me cercam, as paredes me escondem, ninguém me observa; de quem terei medo? O Altíssimo não se lembrará dos meus pecados.” Ele só teme os olhos dos homens, e “não considera que os olhos do Senhor vêem todas as coisas”, e “que os olhos do Senhor são muito mais luminosos do que o sol”, vendo todos os caminhos e penetrando até o fundo dos corações. Antes de criar, Deus já conhecia tudo, e conhece tudo depois. Esse homem será castigado em público. O mesmo vale para a mulher que deixa o marido e dá herança de outro: desobedeceu à lei, ofendeu o marido e cometeu adultério. O seu nome será maldito. E conclui: os que ficam reconhecerão “que nada há melhor do que o temor de Deus, e nada mais doce do que observar os mandamentos do Senhor”.",
+    "alegorico": "O adultério é, nos profetas, imagem da infidelidade a Deus (Os 2; Ez 16). Cristo, Esposo fiel da Igreja, perdoa a adúltera e a chama a não pecar mais (Jo 8,11). Os olhos do Senhor “mais luminosos que o sol” anunciam aquele cujos olhos são “como chama de fogo” (Ap 1,14).",
+    "moral": "O pecador secreto acredita que, se ninguém vê, não há pecado. O sábio lembra que Deus vê até o fundo do coração. A fidelidade conjugal é guardada não pelo medo dos homens, mas pelo temor de Deus. E a conclusão é positiva: nada é mais doce do que viver segundo os mandamentos.",
+    "anagogico": "No juízo, o que foi feito nas trevas será posto à luz (Lc 12,2-3). Mas também a fidelidade escondida será recompensada pelo Pai que vê em segredo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quem me vê? As trevas me cercam.” “O Altíssimo não se lembrará dos meus pecados.” “Os olhos do Senhor vêem todas as coisas.” “Os olhos do Senhor são muito mais luminosos do que o sol.” “Nada mais doce do que observar os mandamentos do Senhor.”",
+    "meditatio_perguntas": [
+      "Há pecados que cometo pensando que ninguém vê?",
+      "Temo mais o olhar dos homens ou o de Deus?",
+      "Experimento a doçura de cumprir os mandamentos?"
+    ],
+    "oratio_guia": "Senhor, cujos olhos são mais luminosos que o sol, purifica o meu coração e guarda a minha fidelidade. Que eu viva diante de ti, também no escondido, e prove a doçura dos teus mandamentos. Amém.",
+    "contemplatio_foco": {
+      "texto": "que os olhos do Senhor vêem todas as coisas",
+      "ref": "Eclo 23,27"
+    }
+  },
+  "ancoras": {
+    "23:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Sl 138,11-12: “as trevas não são escuras para ti”.",
+        "origem": "ia"
+      }
+    },
+    "23:37": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Conclusão positiva do capítulo: o temor de Deus é doce, não opressor.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

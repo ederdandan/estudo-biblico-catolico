@@ -1,0 +1,49 @@
+{
+  "id": "SIR.8.1",
+  "livro": "SIR",
+  "titulo": "Prudência nas relações",
+  "secao": "Conselhos para a vida",
+  "referencia": "Eclo 8,1-22",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Prudência nas relações; não desprezes quem se converte",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio aconselha prudência no trato com os outros. Não litigues com o poderoso, para não caíres nas suas mãos; não contendas com o rico, porque o ouro corrompeu muitos; não discutas com o falador, para não pôr lenha no seu fogo; não brinques com o mal-educado. Mas há também conselhos de caridade: “Não desprezes o homem que se retira do pecado, não o censures pelo mal que fez antes: lembra-te que todos nós somos dignos de castigo.” “Não desprezes nenhum homem na sua velhice, porque alguns de entre nós envelhecerão também.” “Não te regozijes com a morte do teu inimigo; considera que todos nós havemos de morrer.” Escuta as histórias dos anciãos sábios: deles aprenderás a inteligência e a arte de responder. Não acendas as brasas do pecador, não enfrentes o insolente. Não emprestes a quem é mais forte que tu; não sejas fiador além das tuas forças; não processes um juiz; não viajes com um temerário; não briges com o colérico; não te aconselhes com loucos; não reveles o teu coração a qualquer um.",
+    "alegorico": "A atitude para com o pecador que se converte é a do pai do filho pródigo, que não lhe lança em rosto o passado (Lc 15,20-24), e não a do irmão mais velho. Cristo acolhe Zaqueu e a pecadora sem censurar o passado. “Todos nós somos dignos de castigo”: só Cristo nos salva.",
+    "moral": "A prudência evita conflitos inúteis com poderosos, coléricos e falastrões. Mas a sabedoria não é só cálculo: o texto pede não lembrar o passado de quem se converteu, respeitar os idosos e não se alegrar com a morte do inimigo, lembrando que todos somos pecadores e mortais. A consciência da própria miséria é a base da misericórdia.",
+    "anagogico": "“Todos nós havemos de morrer”: diante da morte, desaparecem as rivalidades. A única alegria verdadeira é a de ver o pecador convertido, alegria do céu (Lc 15,7)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não desprezes o homem que se retira do pecado.” “Lembra-te que todos nós somos dignos de castigo.” “Não desprezes nenhum homem na sua velhice.” “Não te regozijes com a morte do teu inimigo.” “Não desprezes o que contarem os velhos sábios.”",
+    "meditatio_perguntas": [
+      "Lanço em rosto o passado de quem se converteu?",
+      "Como trato os idosos?",
+      "Escuto a sabedoria dos mais velhos?"
+    ],
+    "oratio_guia": "Senhor, dá-me a prudência que evita contendas e a misericórdia que não despreza o pecador arrependido. Lembra-me que também eu sou digno de castigo e salvo pela tua graça. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não desprezes o homem que se retira do pecado, não o censures (pelo mal que fez antes): lembra-te que todos nós somos dignos de castigo",
+      "ref": "Eclo 8,6"
+    }
+  },
+  "ancoras": {
+    "8:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Não acendas os carvões do pecador”: não provoques a sua ira com repreensões fora de hora.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

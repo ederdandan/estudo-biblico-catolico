@@ -1,0 +1,49 @@
+{
+  "id": "SIR.5.11",
+  "livro": "SIR",
+  "titulo": "Firmeza de palavra; a língua dobre",
+  "secao": "Os pais, os pobres e a sabedoria",
+  "referencia": "Eclo 5,11–6,4",
+  "ini": {
+    "c": 5,
+    "v": 11
+  },
+  "fim": {
+    "c": 6,
+    "v": 4
+  },
+  "liturgia": {
+    "tema_central": "Sê firme na palavra; foge da língua dobre",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio passa à disciplina da palavra. “Não te voltes a todo o vento, e não andes por todos os caminhos”: é assim que se reconhece o homem de língua dobre. Sê firme no caminho do Senhor e na verdade das tuas convicções, e que a tua palavra seja uma só. “Sê manso para ouvir a palavra, a fim de que a entendas; então darás com sabedoria uma resposta justa.” Se tens entendimento, responde ao teu próximo; “se não, põe a tua mão sobre a tua boca”, para não seres surpreendido numa palavra imprudente. A honra e a glória acompanham a palavra do sensato; a língua do imprudente é a sua ruína. Que ninguém te chame intrigante; que a tua língua não seja laço. Sobre o ladrão vem a vergonha, e sobre a língua dobre a infâmia; ao difamador, o ódio e a inimizade. Faze justiça igualmente ao pequeno e ao grande. E não te tornes, de amigo, inimigo do teu próximo; não te eleves no orgulho como um touro, para que não devores as tuas folhas, percas os teus frutos e fiques como árvore seca no deserto. A alma má perde quem a possui e o torna alegria dos inimigos.",
+    "alegorico": "Jesus pede: “Seja o vosso falar sim, sim; não, não” (Mt 5,37). São Tiago desenvolve a disciplina da língua (Tg 1,19: “pronto para ouvir, lento para falar”; Tg 3). Cristo, Palavra do Pai, é o “Amém”, a testemunha fiel e verdadeira (Ap 3,14).",
+    "moral": "A palavra revela a firmeza da pessoa: quem muda de opinião com o vento, quem diz uma coisa a um e outra a outro, perde a confiança de todos. O sábio ensina a ouvir com mansidão antes de responder, e a calar quando não se sabe. A língua dobre e a intriga destroem as amizades e a própria alma.",
+    "anagogico": "A palavra fiel nos assemelha a Deus, cuja palavra permanece para sempre. No Reino, não haverá mais engano na boca dos redimidos (Ap 14,5)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não te voltes a todo o vento.” “Sê manso para ouvir a palavra, a fim de que a entendas.” “Se não, põe a tua mão sobre a tua boca.” “A língua do imprudente é a sua ruína.” “Faze igualmente justiça aos pequenos e aos grandes.”",
+    "meditatio_perguntas": [
+      "A minha palavra é uma só, ou mudo conforme o interlocutor?",
+      "Escuto com mansidão antes de responder?",
+      "Já fui intrigante ou difamador?"
+    ],
+    "oratio_guia": "Senhor, dá-me uma palavra firme e verdadeira, ouvidos mansos para escutar e a prudência de calar quando não sei. Livra-me da língua dobre. Amém.",
+    "contemplatio_foco": {
+      "texto": "Sê manso para ouvir a palavra, a fim de que a entendas; então darás com sabedoria uma resposta justa",
+      "ref": "Eclo 5,13"
+    }
+  },
+  "ancoras": {
+    "6:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A imagem do touro orgulhoso que devora as próprias folhas é obscura no texto; a ideia é a autodestruição do soberbo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "SIR.14.22",
+  "livro": "SIR",
+  "titulo": "Bem-aventurado o que medita na sabedoria",
+  "secao": "Conselhos para a vida",
+  "referencia": "Eclo 14,22–15,10",
+  "ini": {
+    "c": 14,
+    "v": 22
+  },
+  "fim": {
+    "c": 15,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "Bem-aventurado o que medita na sabedoria",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Um pequeno poema descreve o discípulo da sabedoria. “Bem-aventurado o homem que permanece constante na sabedoria, que medita na sua justiça, e que pensa, em seu coração, no olhar de Deus que vê tudo.” Ele reflete nos caminhos dela, penetra nos seus segredos; vai atrás dela como um caçador, espreita pelas suas janelas, escuta à sua porta; acampa junto da sua casa, crava a estaca nas suas paredes e arma a tenda ao seu lado; põe os filhos sob a sua proteção e habita debaixo dos seus ramos; à sua sombra é protegido do calor e repousa na sua glória. Depois a imagem se inverte: a Sabedoria vem ao encontro de quem a busca. “O que teme a Deus fará boas obras, e o que pratica a justiça possuirá a sabedoria; ela lhe sairá ao encontro, qual mãe honrada, e o acolherá como uma esposa virgem. Ela o sustentará do pão de vida e de inteligência, e lhe dará a beber da água da sabedoria salutar.” Será o seu apoio, o exaltará entre os companheiros, abrirá a sua boca na assembleia. Os insensatos e os mentirosos não a alcançam; o louvor não convém na boca do pecador.",
+    "alegorico": "A Sabedoria que alimenta com “pão de vida” e dá “água da sabedoria salutar” anuncia Cristo: “Eu sou o pão da vida” (Jo 6,35) e “quem beber da água que eu lhe der nunca mais terá sede” (Jo 4,14). A Sabedoria que vem como mãe e esposa foi aplicada pela liturgia a Maria, Sede da Sabedoria.",
+    "moral": "A busca da sabedoria é descrita com verbos de amor: espreitar, escutar à porta, acampar junto à casa. É a atitude de quem medita a Palavra de Deus com perseverança. E o movimento é recíproco: quem busca é encontrado. A sabedoria não é só estudo, mas temor de Deus e prática da justiça.",
+    "anagogico": "“Repousará na sua glória”: a busca perseverante da sabedoria termina no repouso eterno, à sombra de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Bem-aventurado o homem que permanece constante na sabedoria.” “Que olha pelas suas janelas, que escuta à sua porta.” “À sua sombra será defendido do calor.” “Ela lhe sairá ao encontro, qual mãe honorificada.” “Ela o sustentará do pão de vida e de inteligência.”",
+    "meditatio_perguntas": [
+      "Medito a Palavra de Deus com perseverança, como quem “escuta à porta”?",
+      "Deixo-me encontrar pela sabedoria que vem ao meu encontro?",
+      "Alimento-me do pão da vida e da água da sabedoria?"
+    ],
+    "oratio_guia": "Senhor Jesus, Sabedoria do Pai, faz-me buscar-te com perseverança e acampar junto da tua casa. Sustenta-me com o pão da vida e dá-me de beber a água da tua sabedoria. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ela o sustentará do pão de vida e de inteligência, e lhe dará a beber da água da sabedoria salutar",
+      "ref": "Eclo 15,3"
+    }
+  },
+  "ancoras": {
+    "14:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Sl 1,1-2: “feliz o homem que medita a lei do Senhor dia e noite”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

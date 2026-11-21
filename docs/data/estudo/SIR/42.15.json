@@ -1,0 +1,49 @@
+{
+  "id": "SIR.42.15",
+  "livro": "SIR",
+  "titulo": "Lembrar-me-ei das obras do Senhor",
+  "secao": "A glória de Deus na criação",
+  "referencia": "Eclo 42,15-26",
+  "ini": {
+    "c": 42,
+    "v": 15
+  },
+  "fim": {
+    "c": 42,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "Lembrar-me-ei das obras do Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Começa um grande hino à glória de Deus na criação, que prepara o elogio dos antepassados. “Lembrar-me-ei das obras do Senhor, e anunciarei o que tenho visto. Pelas palavras do Senhor existem as suas obras.” “O sol contempla todas as coisas que ilumina; a glória do Senhor enche a sua obra.” Nem os santos conseguem narrar todas as suas maravilhas, que o Senhor estabeleceu firmemente. “Ele sonda o abismo e o coração dos homens, e penetra os seus pensamentos mais subtis.” O Altíssimo conhece toda ciência e vê os sinais dos tempos; anuncia o passado e o futuro, revela os vestígios das coisas ocultas. Nenhum pensamento lhe escapa, nenhuma palavra se esconde. Adornou as maravilhas da sua sabedoria; existe antes dos séculos e para sempre; nada se lhe pode acrescentar nem diminuir, e não precisa do conselho de ninguém. Como são desejáveis todas as suas obras, e são como uma faísca que se contempla! “Todas as coisas se acham aos pares, uma oposta à outra; Deus nada fez que ficasse incompleto.” Uma confirma o bem da outra. “Quem se saciará de contemplar a sua glória?”",
+    "alegorico": "A criação “pelas palavras do Senhor” anuncia o Verbo, por quem “tudo foi feito” (Jo 1,3). O Deus que sonda os corações é o mesmo que em Cristo “sabia o que havia no homem” (Jo 2,25). A pergunta “quem se saciará de contemplar a sua glória?” encontra resposta na visão beatífica.",
+    "moral": "Contemplar a criação é caminho para Deus: o sol, os pares de opostos, a ordem do mundo revelam a sua sabedoria. A contemplação nos educa ao espanto e à humildade: nada pode ser acrescentado à obra de Deus. E lembra que ele conhece até os nossos pensamentos mais secretos.",
+    "anagogico": "A contemplação da glória de Deus, iniciada na criação, nunca sacia: na eternidade, será sempre nova, um desejo sempre saciado e sempre renovado."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Lembrar-me-ei das obras do Senhor.” “Pelas palavras do Senhor existem as suas obras.” “A glória do Senhor enche a sua obra.” “Ele sonda o abismo e o coração dos homens.” “Quem se saciará de contemplar a sua glória?”",
+    "meditatio_perguntas": [
+      "Paro para contemplar as obras de Deus na criação?",
+      "A ordem do mundo me leva ao louvor?",
+      "Lembro que Deus conhece os meus pensamentos?"
+    ],
+    "oratio_guia": "Senhor, cuja glória enche a tua obra, abre os meus olhos para contemplar-te na criação. Que eu me lembre das tuas obras e nunca me sacie de contemplar a tua glória. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Sol contempla todas as coisas, que Ilumina; a glória do Senhor enche a sua obra",
+      "ref": "Eclo 42,16"
+    }
+  },
+  "ancoras": {
+    "42:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Início do grande hino à criação (42,15–43,37), que precede o elogio dos pais (44–50).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

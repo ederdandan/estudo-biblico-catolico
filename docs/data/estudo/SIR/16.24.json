@@ -1,0 +1,49 @@
+{
+  "id": "SIR.16.24",
+  "livro": "SIR",
+  "titulo": "Deus criou o homem à sua imagem",
+  "secao": "Deus, o homem e a misericórdia",
+  "referencia": "Eclo 16,24–17,13",
+  "ini": {
+    "c": 16,
+    "v": 24
+  },
+  "fim": {
+    "c": 17,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Deus criou o homem à sua imagem",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio convida: “Ouve-me, filho, aprende o meu ensinamento.” E contempla a ordem da criação: as obras de Deus existem desde o princípio, por sua decisão; ele as ordenou para sempre; não sentem fome nem cansaço, nenhuma atrapalha a outra. Depois Deus olhou para a terra e a encheu dos seus bens, cobriu-a de seres vivos. Vem então o homem: “Deus criou o homem da terra, e formou-o à sua imagem”, e o fará voltar à terra. Deu-lhe um número de dias e poder sobre tudo o que existe; fez que fosse temido pelos animais. “Deu-lhe uma auxiliar semelhante a ele”; dotou-os de discernimento, língua, olhos, ouvidos e coração para pensar; encheu-os de saber e inteligência; mostrou-lhes o bem e o mal. Pôs o seu olhar nos seus corações para lhes mostrar a grandeza das suas obras, a fim de que louvassem o seu nome santo. Deu-lhes a lei da vida como herança, fez com eles uma aliança eterna e lhes mostrou os seus juízos. Viram a sua glória e ouviram a sua voz. Disse-lhes: guardai-vos de toda injustiça; e a cada um deu mandamentos a respeito do próximo. Os seus caminhos estão sempre diante dele.",
+    "alegorico": "O homem criado à imagem de Deus encontra a sua plenitude em Cristo, “imagem do Deus invisível” (Cl 1,15), que restaura em nós a imagem deformada pelo pecado. A aliança eterna feita com os pais se consuma na nova aliança no sangue de Cristo.",
+    "moral": "O homem é ao mesmo tempo pó e imagem de Deus: frágil e mortal, mas dotado de inteligência, liberdade e capacidade de louvar. A razão e os sentidos são dados para reconhecer a grandeza de Deus e louvá-lo. E os mandamentos “a respeito do próximo” lembram que a imagem de Deus se vive na relação com os outros.",
+    "anagogico": "A imagem de Deus em nós está destinada à glória: “seremos semelhantes a ele, porque o veremos como ele é” (1Jo 3,2)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Deus criou o homem da terra, e formou-o à sua imagem.” “Deu-lhe uma auxiliar semelhante a ele.” “Encheu-os de saber e inteligência.” “A fim de que louvassem a santidade do seu nome.” “Fez com eles uma aliança eterna.” “Impôs a cada um deveres para com o próximo.”",
+    "meditatio_perguntas": [
+      "Reconheço em mim e nos outros a imagem de Deus?",
+      "Uso a inteligência e os sentidos para louvar a Deus?",
+      "Como vivo os deveres para com o próximo?"
+    ],
+    "oratio_guia": "Senhor, que me formaste do pó à tua imagem, obrigado pelo dom da vida, da inteligência e da tua aliança. Restaura em mim a tua imagem e faz-me louvar o teu nome santo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus criou o homem da terra, e formou-o à sua imagem",
+      "ref": "Eclo 17,1"
+    }
+  },
+  "ancoras": {
+    "17:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Releitura de Gn 1–2: criação, domínio sobre os animais, a mulher, o conhecimento do bem e do mal.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "SIR.6.18",
+  "livro": "SIR",
+  "titulo": "O jugo suave da sabedoria",
+  "secao": "Os pais, os pobres e a sabedoria",
+  "referencia": "Eclo 6,18-37",
+  "ini": {
+    "c": 6,
+    "v": 18
+  },
+  "fim": {
+    "c": 6,
+    "v": 37
+  },
+  "liturgia": {
+    "tema_central": "O jugo da sabedoria",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio convida o jovem a abraçar a disciplina desde cedo: “Filho, desde a tua mocidade recebe a instrução, e adquirirás uma sabedoria que te dure até à velhice.” Aproxima-te dela como o lavrador que ara e semeia, e espera os bons frutos: trabalharás um pouco e logo comerás. Para os néscios ela é áspera, como uma pedra pesada que logo atiram fora. Segue uma imagem surpreendente: “Mete os teus pés nos seus grilhões, e o teu pescoço nas suas cadeias. Baixa o teu ombro, leva-a às costas.” Aproxima-te dela de todo o coração; segue as suas pegadas e ela se revelará; quando a possuíres, não a deixes, “porque nela encontrarás, no fim, o teu descanso, e ela se converterá para ti em gosto”. Então “os seus grilhões serão para ti uma forte proteção, as suas cadeias um vestido de glória”; os seus laços são faixas que curam; tu a vestirás como manto de glória e coroa de alegria. Se quiseres, aprenderás. Frequenta a reunião dos anciãos prudentes; “se vires um homem sensato, madruga para ir ter com ele, e gastem os teus pés os degraus da sua porta”. Medita continuamente os mandamentos de Deus, e ele te dará sabedoria.",
+    "alegorico": "O jugo da sabedoria que se torna descanso é retomado por Jesus, Sabedoria encarnada: “Tomai sobre vós o meu jugo e aprendei de mim… e encontrareis descanso para as vossas almas; porque o meu jugo é suave e o meu fardo é leve” (Mt 11,29-30), com palavras quase idênticas a este texto.",
+    "moral": "A sabedoria exige disciplina no início: parece prisão, jugo, peso. Mas quem persevera descobre que os grilhões se tornam proteção e glória. É a experiência de toda vida espiritual e de todo aprendizado sério. O conselho de “gastar os degraus da porta” do sábio é um convite a buscar mestres e direção espiritual.",
+    "anagogico": "“Nela encontrarás, no fim, o teu descanso”: o repouso final da alma é Deus, Sabedoria eterna, que se torna a nossa alegria para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Desde a tua mocidade recebe a instrução.” “Aproxima-te da sabedoria, como o que lavra e semeia.” “Baixa o teu ombro, leva-a às costas.” “Nela encontrarás, no fim, o teu descanso.” “As suas cadeias um vestido de glória.” “Gastem os teus pés os degraus da sua porta.”",
+    "meditatio_perguntas": [
+      "Aceito o “jugo” da disciplina espiritual?",
+      "Busco mestres e conselheiros sábios?",
+      "Medito os mandamentos de Deus continuamente?"
+    ],
+    "oratio_guia": "Senhor Jesus, cujo jugo é suave, ensina-me a carregar o fardo da sabedoria com perseverança, até que ele se torne descanso e alegria. Dá-me mestres sábios e um coração dócil. Amém.",
+    "contemplatio_foco": {
+      "texto": "porque nela encontrarás, no fim, o teu descanso, e ela se converterá para ti em gosto",
+      "ref": "Eclo 6,29"
+    }
+  },
+  "ancoras": {
+    "6:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Mt 11,29: Jesus retoma o vocabulário do jugo da sabedoria (também Eclo 51,34).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

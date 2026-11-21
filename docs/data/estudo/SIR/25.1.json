@@ -1,0 +1,49 @@
+{
+  "id": "SIR.25.1",
+  "livro": "SIR",
+  "titulo": "O que agrada a Deus; o temor de Deus sobre tudo",
+  "secao": "A família, a amizade e a vida social",
+  "referencia": "Eclo 25,1-16",
+  "ini": {
+    "c": 25,
+    "v": 1
+  },
+  "fim": {
+    "c": 25,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "Três coisas que agradam a Deus e aos homens",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio usa provérbios numéricos. “Em três coisas se compraz o meu espírito, as quais têm a aprovação de Deus e dos homens: a concórdia entre os irmãos, o amor dos próximos, a boa harmonia entre marido e mulher.” E três que detesta: o pobre soberbo, o rico mentiroso e o velho insensato e adúltero. O que não ajuntaste na juventude, como o encontrarás na velhice? Que belo é o juízo nos cabelos brancos e o conselho nos anciãos! A experiência é a coroa dos velhos, e a sua glória é o temor de Deus. Segue uma lista de nove felicidades e uma décima: o homem que se alegra nos filhos; o que vive com mulher sensata; o que não caiu pela língua; o que não serviu a indignos; “o que encontrou um amigo verdadeiro; o que fala da justiça a um ouvido que lhe dá atenção”. Grande é quem encontra a sabedoria e a ciência, mas ninguém é maior do que quem teme o Senhor. “O temor de Deus é o princípio do seu amor”, e a ele se deve juntar a fé.",
+    "alegorico": "A concórdia entre irmãos é o tema do Salmo 132 (“como é bom e agradável os irmãos viverem unidos”) e a marca da primeira comunidade cristã, que tinha “um só coração e uma só alma” (At 4,32). O temor que conduz ao amor e se une à fé é o caminho da vida teologal.",
+    "moral": "As três coisas que alegram Deus são relações bem vividas: irmãos unidos, vizinhos que se amam, esposos em harmonia. A velhice deve colher o que a juventude semeou. E o sábio lista as verdadeiras felicidades, todas simples: família, fidelidade da língua, amizade, ser escutado quando se fala de justiça.",
+    "anagogico": "O temor de Deus, princípio do amor, conduz à caridade perfeita, que “lança fora o temor” (1Jo 4,18) na visão de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A concórdia entre os irmãos, o amor dos próximos, a boa harmonia entre marido e mulher.” “A experiência é a coroa dos velhos.” “Aquele — feliz! — que encontrou um amigo verdadeiro.” “O temor de Deus é o princípio do seu amor.”",
+    "meditatio_perguntas": [
+      "Sou instrumento de concórdia na minha família e vizinhança?",
+      "O que estou ajuntando hoje para a velhice?",
+      "Que “felicidades” simples Deus me deu e esqueço de agradecer?"
+    ],
+    "oratio_guia": "Senhor, dá-nos a concórdia entre irmãos, o amor entre vizinhos e a harmonia entre esposos. Que o teu temor me conduza ao teu amor e à fé. Amém.",
+    "contemplatio_foco": {
+      "texto": "A concórdia entre os irmãos, o amor dos próximos, a boa harmonia entre marido e mulher",
+      "ref": "Eclo 25,2"
+    }
+  },
+  "ancoras": {
+    "25:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Provérbio numérico, como em Pr 30,15-31.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

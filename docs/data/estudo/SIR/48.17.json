@@ -1,0 +1,57 @@
+{
+  "id": "SIR.48.17",
+  "livro": "SIR",
+  "titulo": "Ezequias e Isaías",
+  "secao": "O elogio dos antepassados",
+  "referencia": "Eclo 48,17-28",
+  "ini": {
+    "c": 48,
+    "v": 17
+  },
+  "fim": {
+    "c": 48,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "Ezequias e Isaías",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Depois do exílio do norte, “ficou muito pouca gente, e somente um príncipe da casa de Davi. Alguns deles fizeram o que era do agrado de Deus, outros cometeram muitos pecados.” Ezequias fortificou a cidade e trouxe a água para o seu centro, cavando a rocha com ferro e construindo reservatórios. Nos seus dias, Senaquerib subiu contra Jerusalém e levantou a mão contra Sião com orgulho; os corações tremeram como de mulher em dores. “Invocaram o Senhor misericordioso, levantando ao céu as suas mãos estendidas, e o Santo, o Senhor Deus, ouviu logo a sua voz”; não se lembrou dos seus pecados nem os entregou aos inimigos, mas os salvou pela mão de Isaías: feriu o acampamento dos assírios. “Porque Ezequias fez o que era do agrado de Deus, andou com fortaleza pelo caminho de Davi seu pai, como lhe tinha recomendado Isaías, profeta grande e fiel diante de Deus.” Nos seus dias o sol voltou atrás e a vida do rei foi prolongada. Isaías, “com o seu grande espírito, viu os últimos tempos, e consolou os que choravam em Sião”; revelou o futuro e as coisas ocultas até o fim dos séculos.",
+    "alegorico": "Isaías, que “viu os últimos tempos e consolou os que choravam em Sião”, é o profeta do Emanuel e do Servo sofredor, cujas profecias se cumprem em Cristo (Lc 4,17-21). O consolo de Sião (Is 40,1) é anunciado por João Batista e realizado no Evangelho.",
+    "moral": "Na hora do perigo, rei e povo levantaram as mãos ao céu, e Deus ouviu. Ezequias mostra que a fidelidade de um governante, unida à oração e à escuta do profeta, salva o povo. A oração confiante muda a história.",
+    "anagogico": "A visão de Isaías “até o fim dos séculos” abre o horizonte dos novos céus e da nova terra (Is 65,17), onde os que choram em Sião serão consolados para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Invocaram o Senhor misericordioso, levantando ao céu as suas mãos estendidas.” “O Senhor Deus ouviu logo a sua voz.” “Andou com fortaleza pelo caminho de Davide.” “Viu os últimos tempos, e consolou os que choravam em Sião.”",
+    "meditatio_perguntas": [
+      "No perigo, levanto as mãos a Deus em oração?",
+      "Escuto a voz dos profetas que Deus envia?",
+      "Sou consolo para os que choram?"
+    ],
+    "oratio_guia": "Senhor misericordioso, que ouviste Ezequias e consolaste Sião por Isaías, ouve a nossa súplica nas angústias e faz de nós consoladores dos que choram. Amém.",
+    "contemplatio_foco": {
+      "texto": "Invocaram o Senhor misericordioso, levantando ao céu as suas mãos estendidas, e o Santo, o Senhor Deus, ouviu logo a sua voz",
+      "ref": "Eclo 48,22"
+    }
+  },
+  "ancoras": {
+    "48:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O túnel de Ezequias (2Rs 20,20), ainda hoje visitável em Jerusalém.",
+        "origem": "ia"
+      }
+    },
+    "48:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Is 38,7-8: o sinal do sol que recua.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

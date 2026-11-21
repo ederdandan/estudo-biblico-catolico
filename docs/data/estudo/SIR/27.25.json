@@ -1,0 +1,49 @@
+{
+  "id": "SIR.27.25",
+  "livro": "SIR",
+  "titulo": "Quem abre a cova cairá nela",
+  "secao": "A família, a amizade e a vida social",
+  "referencia": "Eclo 27,25-33",
+  "ini": {
+    "c": 27,
+    "v": 25
+  },
+  "fim": {
+    "c": 27,
+    "v": 33
+  },
+  "liturgia": {
+    "tema_central": "Quem abre a cova cairá nela",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio descreve o dissimulado: “O que pisca os olhos forja maus desígnios.” Na tua presença fala com doçura e admira as tuas palavras, mas depois muda a linguagem e arma laços com o que disseste. Muitas coisas o sábio odeia, mas nenhuma como esse homem; e Deus também o odeia. Então formula a lei do retorno do mal: “Quando alguém lança uma pedra ao alto, ela cairá sobre a sua cabeça; assim a ferida traiçoeira abrirá feridas no traidor. O que abre a cova cairá nela; o que põe uma pedra no caminho para tropeço do próximo tropeçará nela; o que arma um laço a outrem nele perecerá.” O desígnio perverso recai sobre quem o forja, sem que saiba de onde vem o mal. Zombaria e ultraje são próprios dos soberbos, e a vingança os espreita como leão. Os que se alegram com a queda dos justos cairão no laço. “A ira e o furor são duas coisas execráveis; o pecador as terá em si mesmo.”",
+    "alegorico": "Amã, enforcado na forca que preparou para Mardoqueu (Est 7,10), é o exemplo bíblico desta lei. Cristo, contra quem se armaram laços, transformou a armadilha da cruz em salvação: o inimigo caiu na cova que abriu.",
+    "moral": "O mal que planejamos contra os outros acaba voltando contra nós. A duplicidade, falar doce na frente e armar laços por trás, é especialmente odiosa. E a ira e o furor envenenam primeiro quem os carrega. A sabedoria é desarmar o coração.",
+    "anagogico": "A justiça de Deus fará recair o mal sobre os que o tramaram, e os justos serão libertados das armadilhas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O que pisca os olhos forja maus desígnios.” “Na tua presença falará com doçura.” “O que abre a cova, cairá nela.” “A ira e o furor são duas coisas execráveis.”",
+    "meditatio_perguntas": [
+      "Falo de um jeito na frente e de outro por trás?",
+      "Guardo ira ou desejo de vingança?",
+      "Confio a Deus a justiça contra os que me armam laços?"
+    ],
+    "oratio_guia": "Senhor, livra-me da duplicidade e da ira. Que eu não arme laços contra ninguém, e confie a ti a defesa contra os que os armam contra mim. Amém.",
+    "contemplatio_foco": {
+      "texto": "O que abre a cova, cairá nela",
+      "ref": "Eclo 27,29"
+    }
+  },
+  "ancoras": {
+    "27:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Sl 7,16; Pr 26,27; Ecl 10,8.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

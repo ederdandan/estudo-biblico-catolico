@@ -1,0 +1,65 @@
+{
+  "id": "SIR.49.1",
+  "livro": "SIR",
+  "titulo": "Josias, os profetas e os restauradores",
+  "secao": "O elogio dos antepassados",
+  "referencia": "Eclo 49,1-19",
+  "ini": {
+    "c": 49,
+    "v": 1
+  },
+  "fim": {
+    "c": 49,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "Josias, Jeremias, os profetas e os restauradores",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“A memória de Josias é como uma composição de aromas feita por arte do perfumista. Em toda a boca será doce a sua lembrança como o mel, e como a música em banquete de vinho.” Foi enviado para converter o povo e eliminar as abominações da impiedade. “Dirigiu o seu coração para o Senhor, e nos dias dos pecadores fortificou a piedade.” Exceto Davi, Ezequias e Josias, todos os reis pecaram e abandonaram a lei; por isso perderam o reino. Os inimigos “incendiaram a cidade escolhida, a cidade santa, e reduziram a um deserto as suas ruas, conforme a predição de Jeremias, porque maltrataram aquele que foi consagrado profeta desde o ventre de sua mãe, para derrubar, arrancar e destruir, mas para depois reedificar e renovar”. Ezequiel viu a visão de glória sobre o carro dos querubins. “Reverdeçam também os ossos dos doze profetas nos seus túmulos, porque eles fortificaram Jacó.” Depois do exílio: “Como engrandeceremos nós a Zorobabel? Ele foi como um anel na mão direita.” Do mesmo modo Jesus, filho de Josedec: “eles em seus dias edificaram a casa de Deus”. E Neemias, que reconstruiu os muros. Por fim, o sábio volta às origens: Henoc, José, Sem, Set e, acima de todos, Adão.",
+    "alegorico": "Jeremias, “consagrado desde o ventre”, prefigura Cristo e João Batista. Zorobabel, “anel na mão direita” (Ag 2,23), é antepassado de Jesus (Mt 1,12). O sumo sacerdote Jesus, filho de Josedec, que reconstrói o templo, tem o mesmo nome do Salvador, que reconstrói o templo do seu corpo em três dias (Jo 2,19-21).",
+    "moral": "A memória dos santos é perfume e mel: Josias reformou o culto num tempo de pecado. Jeremias foi maltratado, mas a sua palavra se cumpriu, para destruir e para reconstruir. Depois de toda ruína, Deus suscita restauradores. Cada um de nós é chamado a reconstruir, não só a lamentar.",
+    "anagogico": "“Reverdeçam os ossos dos profetas”: a esperança da ressurreição, anunciada em Ez 37, cresce no elogio dos pais e se cumpre em Cristo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A memória de Josias é como uma composição de aromas.” “Nos dias dos pecadores fortificou a piedade.” “Para derrubar, arrancar e destruir, mas para depois reedificar e renovar.” “Ele foi como um anel na mão direita.” “Eles em seus dias edificaram a casa de Deus.”",
+    "meditatio_perguntas": [
+      "Fortaleço a piedade num tempo de indiferença?",
+      "Que ruínas Deus me chama a reconstruir?",
+      "Que “perfume” a minha memória deixará?"
+    ],
+    "oratio_guia": "Senhor, que suscitaste Josias, Jeremias e os restauradores do teu templo, faz-me fortalecer a piedade no meu tempo e reconstruir o que está em ruínas. Amém.",
+    "contemplatio_foco": {
+      "texto": "A memória de Josias é como uma composição de aromas feita por arte do perfumista",
+      "ref": "Eclo 49,1"
+    }
+  },
+  "ancoras": {
+    "49:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Jr 1,5.10.",
+        "origem": "ia"
+      }
+    },
+    "49:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os “doze profetas” são os profetas menores, já reunidos num só livro no tempo do autor.",
+        "origem": "ia"
+      }
+    },
+    "49:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Neemias reconstruiu os muros (Ne 2–6); o autor omite Esdras.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

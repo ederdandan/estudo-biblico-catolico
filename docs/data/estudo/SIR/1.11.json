@@ -1,0 +1,49 @@
+{
+  "id": "SIR.1.11",
+  "livro": "SIR",
+  "titulo": "O temor do Senhor é o princípio da sabedoria",
+  "secao": "A sabedoria e o temor do Senhor",
+  "referencia": "Eclo 1,11-40",
+  "ini": {
+    "c": 1,
+    "v": 11
+  },
+  "fim": {
+    "c": 1,
+    "v": 40
+  },
+  "liturgia": {
+    "tema_central": "O temor do Senhor é o princípio da sabedoria",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Segue um hino ao temor do Senhor, que não é medo servil, mas reverência amorosa. “O temor do Senhor é glória e honra, alegria e coroa de regozijo”; deleita o coração, dá alegria e vida longa; quem teme o Senhor estará bem no fim e será abençoado no dia da sua morte. “O princípio da sabedoria é o temor do Senhor”: nasce com os fiéis desde o seio materno. É a plenitude da sabedoria, que enche a casa de bens; é a coroa da sabedoria, que dá paz e salvação; é a raiz, cujos ramos são longevos. “O temor do Senhor expulsa o pecado.” O autor acrescenta conselhos práticos: o paciente espera e depois recebe a alegria; o sensato guarda as palavras até o momento oportuno. “Filho, tu que desejas ardentemente a sabedoria, observa os mandamentos, e Deus ta dará.” O que agrada a Deus é a fé e a mansidão. E adverte contra a duplicidade: não te aproximes do Senhor “com um coração dobre”, não sejas hipócrita diante dos homens, guarda os teus lábios; senão Deus descobrirá os teus segredos e te humilhará no meio da assembleia.",
+    "alegorico": "O temor do Senhor é um dos sete dons do Espírito Santo (Is 11,2-3), que Cristo possui em plenitude e comunica aos fiéis. A Igreja vê na Virgem Maria a figura perfeita de quem teme a Deus desde o seio materno: “a sua misericórdia se estende de geração em geração sobre os que o temem” (Lc 1,50).",
+    "moral": "O temor de Deus é o respeito filial de quem não quer ofender a quem ama. Ele “expulsa o pecado” porque torna a alma vigilante. Este capítulo une sabedoria e obediência: quem quer ser sábio, comece por cumprir os mandamentos. E denuncia o “coração dobre”: a hipocrisia é incompatível com o temor verdadeiro.",
+    "anagogico": "“Será abençoado no dia da sua morte”: o temor de Deus prepara uma boa morte e a entrada na alegria eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O temor do Senhor é glória e honra, alegria e coroa de regozijo.” “O princípio da sabedoria é o temor do Senhor.” “O temor do Senhor expulsa o pecado.” “Observa os mandamentos, e Deus ta dará.” “Não te aproximes dele com um coração dobre.”",
+    "meditatio_perguntas": [
+      "O meu temor de Deus é medo ou respeito filial?",
+      "Busco a sabedoria pelo caminho dos mandamentos?",
+      "Há duplicidade no meu coração diante de Deus?"
+    ],
+    "oratio_guia": "Senhor, dá-me o santo temor que expulsa o pecado e é princípio da sabedoria. Livra-me do coração dobre e faz-me caminhar nos teus mandamentos, na fé e na mansidão. Amém.",
+    "contemplatio_foco": {
+      "texto": "O princípio da sabedoria é o temor do Senhor",
+      "ref": "Eclo 1,16"
+    }
+  },
+  "ancoras": {
+    "1:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Sl 110,10; Pr 1,7; 9,10; Jó 28,28: tema central da literatura sapiencial.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

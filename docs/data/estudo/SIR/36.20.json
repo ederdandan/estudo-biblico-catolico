@@ -1,0 +1,49 @@
+{
+  "id": "SIR.36.20",
+  "livro": "SIR",
+  "titulo": "O discernimento; a boa esposa",
+  "secao": "O culto, a oração e o conselho",
+  "referencia": "Eclo 36,20-28",
+  "ini": {
+    "c": 36,
+    "v": 20
+  },
+  "fim": {
+    "c": 36,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "O discernimento e a esposa boa",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Depois da súplica, o sábio volta ao discernimento. “O estômago recebe toda a casta de alimentos, mas entre os alimentos um é melhor que outro.” Como o paladar distingue o sabor da caça, o coração sensato distingue as palavras mentirosas. O coração perverso causa tristeza, mas o homem experiente lhe retribui. Aplica o discernimento ao casamento: “A mulher pode tomar por esposo a qualquer homem, mas entre as filhas uma é melhor que outra. A formosura da mulher alegra o rosto do seu marido, e ultrapassa todos os desejos do homem.” Se há na sua língua bondade, mansidão e cura, o seu marido não é como os outros homens. Quem adquire uma boa esposa começa a ter riqueza: “ela é uma ajuda semelhante a ele, e uma coluna de apoio”. “Onde não há sebe, será roubada a fazenda; onde não há mulher, o homem suspira na indigência.” Quem confia num homem sem ninho, que se aloja onde a noite o surpreende, como num bandido que salta de cidade em cidade?",
+    "alegorico": "A esposa como “ajuda semelhante” retoma Gn 2,18; a Igreja, ajuda e esposa de Cristo, é o seu cumprimento. O homem “sem ninho” contrasta com o Filho do homem, que “não tem onde reclinar a cabeça” (Mt 8,20) por amor e não por instabilidade.",
+    "moral": "A vida exige discernimento: distinguir alimentos, palavras e pessoas. O casamento é decisão que pede sabedoria: a bondade da língua e a mansidão valem mais que a beleza. E a família estável, o “ninho”, é proteção e riqueza para ambos os esposos.",
+    "anagogico": "A esposa que é “coluna de apoio” anuncia a Igreja, “coluna e sustentáculo da verdade” (1Tm 3,15), unida ao Esposo para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Entre os alimentos um é melhor que outro.” “O coração sensato distingue as palavras mentirosas.” “Se há na sua língua bondade e mansidão.” “Ela é uma ajuda semelhante a ele, e uma coluna de apoio.” “Onde não há sebe, será roubada a fazenda.”",
+    "meditatio_perguntas": [
+      "Sei discernir as palavras mentirosas?",
+      "Que lugar tem a bondade e a mansidão na escolha do cônjuge?",
+      "Cuido do “ninho” da minha família?"
+    ],
+    "oratio_guia": "Senhor, dá-me um coração que discerne. Abençoa os casais, para que sejam um para o outro ajuda e coluna de apoio, e guarda as famílias na estabilidade do amor. Amém.",
+    "contemplatio_foco": {
+      "texto": "O estômago recebe toda a casta de alimentos, mas entre os alimentos um é melhor que outro",
+      "ref": "Eclo 36,20"
+    }
+  },
+  "ancoras": {
+    "36:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Gn 2,18: “uma ajuda que lhe seja semelhante”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

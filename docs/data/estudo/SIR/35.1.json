@@ -1,0 +1,57 @@
+{
+  "id": "SIR.35.1",
+  "livro": "SIR",
+  "titulo": "Guardar a lei é oferecer sacrifício",
+  "secao": "O culto, a oração e o conselho",
+  "referencia": "Eclo 35,1-13",
+  "ini": {
+    "c": 35,
+    "v": 1
+  },
+  "fim": {
+    "c": 35,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Observar a lei é oferecer sacrifício",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio mostra que a vida justa é o verdadeiro culto. “Aquele que observa a lei multiplica as oferendas. É um sacrifício salutar estar atento aos mandamentos e apartar-se de toda a iniquidade.” Retribuir um favor é oferecer flor de farinha; “o que exerce a misericórdia oferece um sacrifício”. “É agradável ao Senhor o fugir da iniquidade; é uma deprecação pelos pecados o retirar-se da injustiça.” Mas o sábio não despreza o culto: não te apresentes diante do Senhor de mãos vazias, porque tudo isso se faz por causa do mandamento. A oferta do justo enriquece o altar, e o seu perfume sobe ao Altíssimo; o sacrifício do justo é aceito, e a sua memória não será esquecida. Dá glória a Deus com coração generoso, e não diminuas as primícias. “Tudo o que dás, dá-o com semblante alegre, santifica os teus dízimos com regozijo.” Dá ao Altíssimo conforme ele te deu, com bons olhos e segundo as tuas posses, porque o Senhor retribui e te dará sete vezes mais.",
+    "alegorico": "O culto espiritual anunciado aqui se cumpre em Cristo, cuja obediência é o sacrifício perfeito (Hb 10,5-10), e nos cristãos, chamados a oferecer os corpos “como sacrifício vivo” (Rm 12,1). “Deus ama quem dá com alegria” (2Cor 9,7) retoma Eclo 35,11.",
+    "moral": "A obediência, a misericórdia e a justiça são sacrifícios agradáveis a Deus. Isso não dispensa o culto e as ofertas, mas lhes dá alma. E o modo de dar importa: com alegria, generosidade e proporção aos bens recebidos.",
+    "anagogico": "“A sua memória não será esquecida”: o sacrifício do justo sobe a Deus e permanece diante dele para sempre, como o incenso das orações dos santos (Ap 8,4)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“É um sacrifício salutar estar atento aos mandamentos.” “O que exerce a misericórdia oferece um sacrifício.” “Não te apresentes diante do Senhor de mãos vazias.” “Tudo o que dás, dá-o com semblante alegre.”",
+    "meditatio_perguntas": [
+      "A minha vida é um sacrifício agradável a Deus?",
+      "Dou a Deus e aos pobres com alegria?",
+      "Contribuo para a Igreja conforme o que recebi?"
+    ],
+    "oratio_guia": "Senhor, que a minha obediência, a minha misericórdia e a minha justiça sejam sacrifício agradável a ti. Ensina-me a dar com alegria e generosidade. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tudo o que dás, dá-o com semblante alegre, santifica os teus dízimos com regozijo",
+      "ref": "Eclo 35,11"
+    }
+  },
+  "ancoras": {
+    "35:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 2Cor 9,7: “Deus ama quem dá com alegria”.",
+        "origem": "ia"
+      }
+    },
+    "35:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 1Sm 15,22 e Os 6,6: obediência e misericórdia valem mais que sacrifícios.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

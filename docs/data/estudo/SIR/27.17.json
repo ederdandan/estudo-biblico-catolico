@@ -1,0 +1,49 @@
+{
+  "id": "SIR.27.17",
+  "livro": "SIR",
+  "titulo": "Não reveles os segredos do amigo",
+  "secao": "A família, a amizade e a vida social",
+  "referencia": "Eclo 27,17-24",
+  "ini": {
+    "c": 27,
+    "v": 17
+  },
+  "fim": {
+    "c": 27,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "Quem revela os segredos do amigo o perde",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio volta ao tema do segredo. “Aquele que descobre os segredos do amigo perde o crédito e não encontrará mais um amigo a seu gosto. Ama o teu próximo e sê leal na amizade com ele. Se descobrires os seus segredos, não o voltarás a ganhar.” Como quem mata o seu inimigo, assim perdeste a amizade do próximo. “Como aquele que deixa ir da sua mão o pássaro, assim tu deixaste ir o teu próximo, e não o conciliarás mais.” Não corras atrás dele, porque está longe, fugiu como a gazela do laço, porque a sua alma foi ferida. Uma ferida pode ser tratada, uma injúria pode ser perdoada; mas quem revela os segredos de um amigo perde toda esperança.",
+    "alegorico": "Cristo confiou aos amigos os segredos do Pai: “tudo o que ouvi de meu Pai vos dei a conhecer” (Jo 15,15). A fidelidade ao segredo tem expressão sublime no sigilo sacramental da confissão, que a Igreja guarda de modo absoluto.",
+    "moral": "Revelar o segredo de alguém é uma das traições que mais destroem a confiança. O sábio diz que é pior que uma ferida ou uma injúria. Guardar a confidência é parte essencial da lealdade e do amor ao próximo. Vale também para as redes sociais, onde segredos se espalham num clique.",
+    "anagogico": "Deus guarda os nossos segredos com fidelidade de amigo; no fim, só ele revelará os corações, com justiça e misericórdia."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Aquele que descobre os segredos do amigo perde o crédito.” “Ama o teu próximo e sê leal na amizade com ele.” “Como aquele que deixa ir da sua mão o pássaro.” “Fugiu como a gazela do laço.”",
+    "meditatio_perguntas": [
+      "Guardo os segredos que me confiam?",
+      "Já feri alguém revelando uma confidência?",
+      "Sou leal nas amizades, mesmo quando o amigo não está presente?"
+    ],
+    "oratio_guia": "Senhor, amigo fiel, faz-me guardar as confidências que me fazem e ser leal com os meus amigos. Perdoa as vezes em que revelei o que devia calar. Amém.",
+    "contemplatio_foco": {
+      "texto": "Aquele que descobre os segredos do amigo, perde o crédito e não encontrará mais um amigo a seu gosto",
+      "ref": "Eclo 27,17"
+    }
+  },
+  "ancoras": {
+    "27:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Eclo 22,27: o segredo revelado é das ofensas mais graves à amizade.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

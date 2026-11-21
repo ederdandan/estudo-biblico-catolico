@@ -1,0 +1,57 @@
+{
+  "id": "SIR.39.1",
+  "livro": "SIR",
+  "titulo": "O escriba que medita a lei do Altíssimo",
+  "secao": "O culto, a oração e o conselho",
+  "referencia": "Eclo 39,1-15",
+  "ini": {
+    "c": 39,
+    "v": 1
+  },
+  "fim": {
+    "c": 39,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "O escriba que medita a lei do Altíssimo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Em contraste com os ofícios manuais, o sábio descreve o escriba, isto é, o próprio ideal de vida. “Outrotanto não sucede com o que aplica o seu espírito à lei do Altíssimo e nela medita. Investiga a sabedoria de todos os antigos, e dedica-se ao estudo dos profetas.” Guarda as narrativas dos homens célebres, penetra as parábolas e os provérbios obscuros. Serve no meio dos grandes, aparece diante dos príncipes; “percorre a terra de nações estranhas, para reconhecer o que há de bom e mau entre os homens”. Mas o essencial é a oração: “Aplica o seu coração a velar de madrugada, ante o Senhor que o criou, e na presença do Altíssimo faz a sua oração. Abre a sua boca para orar, e pede perdão de seus pecados. Se o soberano Senhor assim o quiser, enchê-lo-á do espírito de inteligência, e então ele derramará as palavras da sua sabedoria como chuva, e na oração louvará o Senhor.” Dirigirá os seus conselhos e a sua ciência e meditará os mistérios de Deus. “Muitos louvarão a sua sabedoria, que jamais ficará no esquecimento. Não perecerá a sua memória, e o seu nome será repetido de geração em geração.”",
+    "alegorico": "O escriba sábio prefigura o “escriba instruído no Reino dos céus, que tira do seu tesouro coisas novas e velhas” (Mt 13,52). A Igreja aplica este texto aos Doutores, como Santo Agostinho e São Tomás, que uniram estudo e oração. Cristo é o Mestre por excelência, cheio do Espírito de inteligência.",
+    "moral": "O estudo da Palavra de Deus é nobre, mas só dá fruto quando nasce da oração: velar de madrugada, pedir perdão, deixar-se encher pelo Espírito. A sabedoria não é conquista, é dom recebido “se o Senhor quiser”. E deve ser derramada sobre os outros como chuva.",
+    "anagogico": "“O seu nome será repetido de geração em geração”: os mestres da fé que uniram estudo e santidade brilharão como estrelas por toda a eternidade (Dn 12,3)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Aplica o seu espírito à lei do Altíssimo e nela medita.” “Aplica o seu coração a velar de madrugada.” “Abre a sua boca para orar, e pede perdão de seus pecados.” “Enchê-lo-á do espírito de inteligência.” “Derramará as palavras da sua sabedoria como chuva.”",
+    "meditatio_perguntas": [
+      "O meu estudo da fé nasce da oração?",
+      "Dedico tempo de madrugada ou de silêncio para estar com Deus?",
+      "Partilho com os outros a sabedoria recebida?"
+    ],
+    "oratio_guia": "Senhor, enche-me do espírito de inteligência. Que eu medite a tua lei na oração, peça perdão dos meus pecados e derrame sobre os outros a sabedoria que recebo de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Aplica o seu coração a velar de madrugada, ante o Senhor que o criou, e na presença do Altíssimo faz a sua oração",
+      "ref": "Eclo 39,6"
+    }
+  },
+  "ancoras": {
+    "39:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Retrato do escriba (sofer), ideal de Ben Sirac; usado na liturgia do Comum dos Doutores.",
+        "origem": "ia"
+      }
+    },
+    "39:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Lido na Missa de Doutores da Igreja.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

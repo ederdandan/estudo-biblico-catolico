@@ -1,0 +1,57 @@
+{
+  "id": "SIR.24.32",
+  "livro": "SIR",
+  "titulo": "A sabedoria é o livro da aliança",
+  "secao": "O elogio da sabedoria",
+  "referencia": "Eclo 24,32-47",
+  "ini": {
+    "c": 24,
+    "v": 32
+  },
+  "fim": {
+    "c": 24,
+    "v": 47
+  },
+  "liturgia": {
+    "tema_central": "A Sabedoria é o livro da aliança, rio que transborda",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio identifica a Sabedoria com a Lei: “Tudo isto é o livro da vida, a aliança do Altíssimo e o conhecimento da verdade. Moisés deu-nos a lei com os preceitos da justiça, a herança da casa de Jacó e as promessas feitas a Israel.” A Lei espalha a sabedoria como os rios do paraíso: como o Fison e o Tigre no tempo dos frutos novos, como o Eufrates e o Jordão na colheita, como o Nilo no tempo da vindima. O primeiro homem não a conheceu inteiramente, e o último não a esgotará: o seu pensamento é mais vasto que o mar, e o seu conselho mais profundo que o abismo. Então o próprio autor fala de si: “Eu, a Sabedoria, fiz correr os rios”; e ele, como um canal derivado de um rio, como um aqueduto para o jardim, disse: regarei o meu jardim. E eis que o canal se tornou rio, e o rio se tornou mar. “A luz da doutrina, com que a todos ilustro, é como a luz da aurora; eu a manifestarei ao longe.” “Continuarei a espalhar a minha doutrina como uma profecia… Vede que eu não trabalhei só para mim, mas para todos os que buscam a verdade.”",
+    "alegorico": "Os rios que saem da Sabedoria evocam os rios do Éden (Gn 2,10-14) e o rio de água viva que sai do templo e de Cristo (Ez 47; Jo 7,38). A palavra que se espalha “como profecia, de geração em geração” prefigura a pregação apostólica que chega “até os confins da terra” (At 1,8).",
+    "moral": "A sabedoria de Deus não se esgota: nenhuma geração a compreende inteiramente. O mestre humilde é apenas um canal; mas, se é fiel, Deus faz do canal um rio e do rio um mar. E quem recebe a sabedoria não trabalha “só para si”: deve partilhá-la com todos os que buscam a verdade.",
+    "anagogico": "A luz da doutrina “como a luz da aurora” anuncia o dia sem ocaso; e a Sabedoria que ilumina “os que dormem” e “os que esperam no Senhor” aponta para a ressurreição."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Tudo isto é o livro da vida, a aliança do Altíssimo.” “O primeiro homem não a conheceu inteiramente.” “Eu, como um canal… disse: Regarei o meu jardim.” “A luz da doutrina… é como a luz da aurora.” “Eu não trabalhei só para mim, mas para todos os que buscam a verdade.”",
+    "meditatio_perguntas": [
+      "Sou canal da sabedoria de Deus para os outros?",
+      "Leio a Palavra como “livro da vida”?",
+      "Partilho o que aprendi ou guardo só para mim?"
+    ],
+    "oratio_guia": "Senhor, cuja sabedoria transborda como os rios, faz de mim um canal humilde da tua Palavra. Que ela regue o meu jardim e chegue a todos os que buscam a verdade. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tudo isto é o livro da vida, a aliança do altíssimo e o conhecimento da verdade",
+      "ref": "Eclo 24,32"
+    }
+  },
+  "ancoras": {
+    "24:32": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Identificação da Sabedoria com a Torá, típica do judaísmo do período (cf. Br 4,1).",
+        "origem": "ia"
+      }
+    },
+    "24:47": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Eclo 33,18: o autor se apresenta como o último a vigiar, que respiga atrás dos vindimadores.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

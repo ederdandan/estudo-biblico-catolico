@@ -1,0 +1,49 @@
+{
+  "id": "SIR.18.15",
+  "livro": "SIR",
+  "titulo": "O modo de dar; prepara a tua alma antes da oração",
+  "secao": "Deus, o homem e a misericórdia",
+  "referencia": "Eclo 18,15-29",
+  "ini": {
+    "c": 18,
+    "v": 15
+  },
+  "fim": {
+    "c": 18,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "O modo de dar; prepara a tua alma antes da oração",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio ensina a delicadeza na caridade: “Filho, não mistures a repreensão com o benefício, nem juntes às tuas dádivas a tristeza duma palavra má.” O orvalho alivia o calor: assim “vale mais a palavra doce do que a dádiva”, e o justo une as duas. O insensato critica com aspereza, e o presente do invejoso faz arder os olhos. Seguem conselhos de prudência: “Antes de julgar, procura ser justo, e aprende antes de falar.” Cuida-te antes da doença; examina-te antes do juízo, e encontrarás perdão. Humilha-te antes de adoecer, e mostra a tua conversão quando pecares. “Nada te embarace de orar sempre, e não te envergonhes de praticar boas obras até à morte, porque a recompensa de Deus dura para sempre. Prepara a tua alma antes da oração, e não sejas como um homem que tenta a Deus.” Lembra-te da ira do último dia; na abundância, lembra-te da pobreza. Do manhã à tarde o tempo muda; o sábio é vigilante em tudo.",
+    "alegorico": "“Orar sempre” é o ensinamento de Jesus (Lc 18,1) e de Paulo (1Ts 5,17). A preparação da alma antes da oração inspirou toda a tradição de recolhimento. A palavra doce que acompanha o dom lembra que “Deus ama quem dá com alegria” (2Cor 9,7).",
+    "moral": "O modo de dar importa tanto quanto o dom: uma ajuda acompanhada de humilhação fere. A palavra boa é às vezes mais preciosa que o presente. O sábio também ensina a prevenção espiritual: examinar-se antes do juízo, humilhar-se antes da queda, preparar-se antes de rezar. A oração não é improviso descuidado, mas encontro que pede recolhimento.",
+    "anagogico": "“A recompensa de Deus dura para sempre”: as boas obras feitas até a morte são investimento eterno."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não mistures a repreensão com o benefício.” “Vale mais a palavra doce do que a dádiva.” “Antes de julgar os outros procura ser justo.” “Nada te embarace de orar sempre.” “Prepara a tua alma antes da oração.”",
+    "meditatio_perguntas": [
+      "Quando ajudo alguém, humilho ou consolo?",
+      "Preparo-me antes de rezar?",
+      "Examino-me antes de julgar os outros?"
+    ],
+    "oratio_guia": "Senhor, ensina-me a dar com doçura, a examinar-me antes de julgar e a preparar a minha alma antes de te falar. Que eu ore sempre e faça o bem até o fim. Amém.",
+    "contemplatio_foco": {
+      "texto": "Prepara a tua alma antes da oração, e não sejas como um homem que tenta a Deus",
+      "ref": "Eclo 18,23"
+    }
+  },
+  "ancoras": {
+    "18:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O orvalho que mitiga o calor: imagem do consolo que a boa palavra traz.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

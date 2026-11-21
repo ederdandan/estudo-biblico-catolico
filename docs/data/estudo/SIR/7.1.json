@@ -1,0 +1,49 @@
+{
+  "id": "SIR.7.1",
+  "livro": "SIR",
+  "titulo": "Não faças o mal; humildade e oração",
+  "secao": "Conselhos para a vida",
+  "referencia": "Eclo 7,1-19",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "Não faças o mal, e o mal não cairá sobre ti",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Uma série de conselhos breves, em forma de proibições. “Não faças o mal, e o mal não cairá sobre ti. Retira-te da injustiça, e a injustiça se afastará de ti.” Não semeies nos sulcos da injustiça, para não colheres sete vezes mais. Não procures o poder nem os primeiros lugares; “não te tenhas por justo diante de Deus, porque ele conhece o fundo do coração”. Não procures ser juiz se não tens força para enfrentar a injustiça. Não acrescentes pecado a pecado. “Não te deixes cair no desânimo, nem te descuides de fazer oração e dar esmola.” Não penses que Deus aceitará os teus dons como compensação dos pecados. Não zombes de quem está em amargura, porque Deus humilha e exalta. “Não inventes mentiras contra teu irmão”; não te acostumes a mentir. “Não sejas verboso na assembleia dos anciãos, nem multipliques as palavras nas tuas orações.” Não desprezes o trabalho penoso nem a agricultura, criada pelo Altíssimo. Humilha profundamente o teu espírito.",
+    "alegorico": "O conselho de não multiplicar palavras na oração é retomado por Jesus: “Nas vossas orações não multipliqueis palavras como os pagãos” (Mt 6,7). A recusa dos primeiros lugares e a humildade de não se ter por justo lembram a parábola do fariseu e do publicano (Lc 18,9-14).",
+    "moral": "São conselhos simples e profundos: não ambicionar o poder, não se considerar justo, não desanimar, rezar e dar esmola, não mentir, valorizar o trabalho manual. A oração verdadeira não é questão de muitas palavras, mas de coração. E o desânimo é uma tentação a vencer com a oração e a caridade.",
+    "anagogico": "Quem semeia o bem colherá o bem; quem semeia injustiça colherá sete vezes mais. A colheita definitiva é a do juízo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não faças o mal, e o mal não cairá sobre ti.” “Não te tenhas por justo diante de Deus.” “Não te deixes cair no desânimo, nem te descuides de fazer oração e dar esmola.” “Não multipliques as palavras nas tuas orações.” “Não aborreças as obras penosas.”",
+    "meditatio_perguntas": [
+      "Busco poder e primeiros lugares?",
+      "Venço o desânimo com a oração e a esmola?",
+      "A minha oração é feita de muitas palavras ou de coração?"
+    ],
+    "oratio_guia": "Senhor, livra-me do mal e do desânimo. Ensina-me a orar com poucas palavras e muito amor, a não me ter por justo e a amar o trabalho humilde. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não te deixes cair no desânimo. nem te descuides de fazer oração e dar esmola",
+      "ref": "Eclo 7,9-10"
+    }
+  },
+  "ancoras": {
+    "7:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Ecl 5,1: “sejam poucas as tuas palavras”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

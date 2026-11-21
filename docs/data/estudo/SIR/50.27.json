@@ -1,0 +1,57 @@
+{
+  "id": "SIR.50.27",
+  "livro": "SIR",
+  "titulo": "Bem-aventurado o que se dá a estes ensinamentos",
+  "secao": "Epílogo",
+  "referencia": "Eclo 50,27-31",
+  "ini": {
+    "c": 50,
+    "v": 27
+  },
+  "fim": {
+    "c": 50,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Assinatura do autor: a luz de Deus guiará os seus passos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Antes da conclusão, o sábio deixa um provérbio numérico sobre os povos que detesta: “Dois povos aborrece a minha alma, e o terceiro que eu aborreço nem sequer é um povo: os que habitam no monte de Seir, os filisteus e o povo insensato que habita em Siquém”, isto é, os samaritanos. Depois vem a assinatura: “Estas são as instruções de sabedoria e de disciplina que deixou escritas neste livro Jesus, filho de Sirac, natural de Jerusalém, o qual derramou a sabedoria do seu coração.” E uma bem-aventurança final: “Bem-aventurado o que se ocupa destas coisas boas; quem as guardar no seu coração será sempre sábio. Com efeito, se praticar estas coisas, será capaz de tudo, porque a luz de Deus guiará os seus passos.”",
+    "alegorico": "A hostilidade contra os samaritanos, comum no judaísmo da época, é superada por Jesus, que conversa com a samaritana (Jo 4), conta a parábola do bom samaritano (Lc 10,30-37) e envia os apóstolos à Samaria (At 1,8; 8,5-25). A “luz de Deus” que guia os passos é Cristo, “luz do mundo” (Jo 8,12).",
+    "moral": "O sábio, homem do seu tempo, partilhava preconceitos contra povos vizinhos; o Evangelho nos chama a superá-los. Mas a sua bem-aventurança final permanece: não basta ler a sabedoria, é preciso guardá-la no coração e praticá-la. A prática dá força e luz.",
+    "anagogico": "“A luz de Deus guiará os seus passos”: quem pratica a sabedoria caminha para a luz plena, onde “o Senhor Deus os iluminará” (Ap 22,5)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Jesus, filho de Sirach… derramou a sabedoria do seu coração.” “Quem as guardar no seu coração será sempre sábio.” “Se praticar estas coisas, será capaz de tudo.” “A luz de Deus guiará os seus passos.”",
+    "meditatio_perguntas": [
+      "Há preconceitos contra povos ou grupos que o Evangelho me pede para superar?",
+      "Guardo a Palavra no coração e a pratico?",
+      "Deixo a luz de Deus guiar os meus passos?"
+    ],
+    "oratio_guia": "Senhor, livra-me dos preconceitos e faz-me guardar e praticar a tua sabedoria. Que a tua luz guie os meus passos em todos os dias da minha vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "Com efeito, se praticar estas coisas, será capaz de tudo, porque a luz de Deus guiará os seus passos",
+      "ref": "Eclo 50,31"
+    }
+  },
+  "ancoras": {
+    "50:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “povo insensato de Siquém” são os samaritanos; Seir designa os idumeus.",
+        "origem": "ia"
+      }
+    },
+    "50:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A assinatura do autor: Jesus Ben Sirac de Jerusalém.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

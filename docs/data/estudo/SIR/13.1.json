@@ -1,0 +1,49 @@
+{
+  "id": "SIR.13.1",
+  "livro": "SIR",
+  "titulo": "Quem toca o pez fica manchado: o rico e o poderoso",
+  "secao": "Conselhos para a vida",
+  "referencia": "Eclo 13,1-17",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "Quem toca o pez fica manchado: cautela com o rico e o poderoso",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O capítulo abre com um provérbio célebre: “O que tocar o pez ficará manchado dele; o que trata com o soberbo revestir-se-á de soberba.” Quem se associa a alguém mais poderoso carrega um peso que não pode suportar. “Como se associará uma panela de barro com um caldeirão?” Se se chocam, a panela se quebra. O sábio descreve com realismo a relação desigual entre rico e pobre: o rico comete injustiça e ainda se queixa; o pobre é injustiçado e ainda precisa pedir desculpas. Enquanto lhe fores útil, ele se servirá de ti; quando nada tiveres, te abandonará. Se tens alguma coisa, viverá contigo e te esgotará sem pena; se precisa de ti, te enganará e, sorrindo, te dará esperanças; com banquetes te confundirá, até te esvaziar, e depois zombará de ti. Por isso: “Humilha-te diante de Deus e espera a sua mão.” Não te deixes seduzir pela loucura; se um grande te chamar, não te apresses; não sejas importuno nem te afastes demais; não fales com ele como se fosses igual, nem confies nas suas muitas palavras, porque te sonda e guarda tudo o que dizes. Cuida-te, porque caminhas à beira do abismo. “Ama a Deus durante toda a tua vida, e invoca-o para tua salvação.”",
+    "alegorico": "A panela de barro que se quebra contra o caldeirão é imagem do pobre esmagado pelo poderoso; mas em Cristo, Deus escolheu “os vasos de barro” para levar o seu tesouro (2Cor 4,7), e derrubou os poderosos. A advertência contra a amizade interesseira prepara a de Tiago contra a acepção de pessoas em favor dos ricos (Tg 2,1-9).",
+    "moral": "O ambiente molda o coração: quem convive com a soberba torna-se soberbo. O sábio é lúcido sobre as relações de poder: muitas vezes o poderoso usa o fraco e o descarta. O remédio não é a inveja nem a bajulação, mas a liberdade interior de quem se humilha diante de Deus e o ama acima de tudo.",
+    "anagogico": "“Ama a Deus durante toda a tua vida, e invoca-o para tua salvação”: diante das amizades interesseiras deste mundo, só a amizade com Deus garante a salvação eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O que tocar o pez, ficará manchado dele.” “Como se associará uma panela de barro com um caldeirão?” “O rico faz uma injustiça, e ainda por cima solta clamores.” “Humilha-te diante de Deus, e espera que a sua mão obre.” “Ama a Deus durante toda a tua vida.”",
+    "meditatio_perguntas": [
+      "Que ambientes e companhias estão “manchando” o meu coração?",
+      "Busco a amizade dos poderosos por interesse?",
+      "Amo a Deus acima de toda relação humana?"
+    ],
+    "oratio_guia": "Senhor, guarda-me das companhias que mancham o coração e da bajulação aos poderosos. Que eu me humilhe diante de ti e te ame todos os dias da minha vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "O que tocar o pez, ficará manchado dele; o que trata com o soberbo, revestir-se-á de soberba",
+      "ref": "Eclo 13,1"
+    }
+  },
+  "ancoras": {
+    "13:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Provérbio citado com frequência pelos autores espirituais sobre as más companhias (cf. 1Cor 15,33).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

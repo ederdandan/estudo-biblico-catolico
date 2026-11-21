@@ -1,0 +1,49 @@
+{
+  "id": "SIR.40.1",
+  "livro": "SIR",
+  "titulo": "Pesado jugo sobre os filhos de Adão",
+  "secao": "A condição humana",
+  "referencia": "Eclo 40,1-11",
+  "ini": {
+    "c": 40,
+    "v": 1
+  },
+  "fim": {
+    "c": 40,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "Pesado jugo sobre os filhos de Adão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio contempla a condição humana marcada pela angústia. “Grande preocupação foi imposta a todos os homens, pesado jugo carrega sobre os filhos de Adão, desde o dia em que saem do ventre de sua mãe até ao da sua sepultura, que é a mãe de todos.” Os seus pensamentos, os temores do coração, a apreensão do que esperam e o dia da morte perturbam a todos: desde o que se senta num trono glorioso até o que se deita na terra e na cinza; desde o que veste púrpura e coroa até o que se cobre de linho grosseiro. Furor, inveja, inquietação, medo da morte, ira e contendas. Até no repouso da noite o sono muda os pensamentos: descansa um pouco e logo, em sonhos, é perturbado como sentinela no dia do combate, e se assusta como quem foge da batalha. Assim é com toda carne, do homem ao animal, e sete vezes mais com os pecadores: morte, sangue, discórdia, espada, opressão, fome, ruína e flagelos. Tudo isso foi criado para os maus, e por eles veio o dilúvio. “Tudo o que é da terra tornar-se-á em terra, como todas as águas voltam ao mar.”",
+    "alegorico": "O “pesado jugo” sobre os filhos de Adão é consequência do pecado original (Gn 3,17-19). Cristo, novo Adão, carrega esse jugo e oferece o seu, “suave e leve” (Mt 11,28-30). A “mãe de todos”, a terra, prefigura o túmulo de onde Cristo ressuscitou como primícias.",
+    "moral": "Ninguém escapa da inquietação, do rei ao mendigo: a angústia é comum a todos os filhos de Adão. Reconhecê-lo gera humildade e compaixão. O pecado agrava esse peso “sete vezes”. Só o abandono em Deus alivia este jugo.",
+    "anagogico": "“Tudo o que é da terra tornar-se-á em terra”: mas o que é de Deus voltará a Deus. A esperança cristã espera o fim da angústia, quando Deus enxugará toda lágrima."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Pesado jugo carrega sobre os filhos de Adão.” “Desde o que se senta num trono glorioso até o que se deita na terra.” “Até no repouso da noite o sono muda os pensamentos.” “Tudo o que é da terra, tornar-se-á em terra.”",
+    "meditatio_perguntas": [
+      "Que angústias carrego comigo, até no sono?",
+      "Reconheço que todos, ricos e pobres, partilham esse jugo?",
+      "Entrego a Cristo o meu fardo?"
+    ],
+    "oratio_guia": "Senhor Jesus, que carregaste o jugo dos filhos de Adão, alivia as minhas angústias. Recebe o meu fardo e dá-me o teu jugo suave. Amém.",
+    "contemplatio_foco": {
+      "texto": "Grande preocupação foi imposta a todos os homens, pesado jugo carrega sobre os filhos de Adão",
+      "ref": "Eclo 40,1"
+    }
+  },
+  "ancoras": {
+    "40:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A terra como “mãe de todos”: cf. Jó 1,21.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

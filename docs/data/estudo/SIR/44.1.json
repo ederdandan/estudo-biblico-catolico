@@ -1,0 +1,57 @@
+{
+  "id": "SIR.44.1",
+  "livro": "SIR",
+  "titulo": "Louvemos os varões ilustres",
+  "secao": "O elogio dos antepassados",
+  "referencia": "Eclo 44,1-15",
+  "ini": {
+    "c": 44,
+    "v": 1
+  },
+  "fim": {
+    "c": 44,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "Louvemos os varões ilustres, nossos pais",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Começa o grande “elogio dos pais”, uma releitura da história de Israel através dos seus heróis. “Louvemos os varões ilustres, nossos maiores, a cuja geração pertencemos. O Senhor operou neles muita glória, manifestou a sua magnificência desde o princípio.” O sábio enumera os tipos de grandeza: os que dominaram nos seus reinos, homens célebres pelo poder; os conselheiros prudentes e os profetas; os chefes do povo e os mestres da instrução; os que compuseram melodias e escreveram cânticos; os ricos dotados de força, que viviam em paz nas suas casas. Todos foram honrados no seu tempo. Alguns deixaram um nome que ainda se recorda; outros não deixaram memória, como se não tivessem existido. “Porém aqueles foram varões de misericórdia, cujas obras de piedade não foram esquecidas.” Os seus bens permanecem com a sua descendência, e os seus netos são uma santa herança; a sua posteridade permanece fiel às alianças. “Os seus corpos foram sepultados em paz, e o seu nome vive de geração em geração. Celebrem os povos a sua sabedoria, publiquem-se os seus louvores nas assembleias.”",
+    "alegorico": "A carta aos Hebreus faz um elogio semelhante dos antepassados na fé (Hb 11), concluindo que, rodeados por “tão grande nuvem de testemunhas”, corramos com os olhos fixos em Jesus (Hb 12,1-2). A Igreja celebra os seus santos no mesmo espírito; este texto é lido na festa de São Joaquim e Santa Ana.",
+    "moral": "A memória dos antepassados na fé é fonte de identidade e de coragem. Muitos grandes do mundo foram esquecidos; mas os “homens de misericórdia” permanecem, porque as suas obras de piedade frutificam nas gerações. Também nós somos chamados a deixar uma herança santa.",
+    "anagogico": "“O seu nome vive de geração em geração”: os justos vivem em Deus, e a assembleia dos santos os celebra para sempre na comunhão do céu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Louvemos os varões ilustres, nossos maiores.” “O Senhor operou neles muita glória.” “Aqueles foram varões de misericórdia.” “Os seus corpos foram sepultados em paz, e o seu nome vive de geração em geração.”",
+    "meditatio_perguntas": [
+      "Conheço e agradeço os meus antepassados na fé?",
+      "Que herança de misericórdia estou deixando?",
+      "Os santos me inspiram e acompanham?"
+    ],
+    "oratio_guia": "Senhor, eu te louvo pelos homens e mulheres de misericórdia que nos precederam na fé. Que a sua memória me inspire e que eu deixe também uma herança santa. Amém.",
+    "contemplatio_foco": {
+      "texto": "Louvemos os varões ilustres, nossos maiores, a cuja geração pertencemos",
+      "ref": "Eclo 44,1"
+    }
+  },
+  "ancoras": {
+    "44:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Começo do “elogio dos pais” (44–50). Lido na festa de São Joaquim e Santa Ana (26 de julho).",
+        "origem": "ia"
+      }
+    },
+    "44:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Hb 11: a “nuvem de testemunhas”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

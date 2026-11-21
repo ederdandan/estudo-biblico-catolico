@@ -1,0 +1,57 @@
+{
+  "id": "SIR.47.14",
+  "livro": "SIR",
+  "titulo": "Salomão e a divisão do reino",
+  "secao": "O elogio dos antepassados",
+  "referencia": "Eclo 47,14-31",
+  "ini": {
+    "c": 47,
+    "v": 14
+  },
+  "fim": {
+    "c": 47,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Salomão, cheio de sabedoria como um rio, e a divisão do reino",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Sucedeu-lhe seu filho sábio.” “Salomão reinou em dias de paz; Deus submeteu-lhe todos os seus inimigos, para que fundasse uma casa ao seu nome.” O sábio se dirige a ele: “Quão bem instruído foste na tua mocidade! Foste cheio de sabedoria, como um rio. A tua alma cobriu a terra, e encheste-la de sentenças misteriosas. O teu nome tornou-se célebre até às ilhas remotas, e foste amado na tua paz.” Os povos admiraram os teus cânticos, provérbios, parábolas e interpretações. Mas veio a queda: “ajuntaste ouro como se fosse estanho, e amontoaste prata como chumbo”; inclinaste o teu corpo às mulheres e manchaste a tua glória, atraindo a ira sobre os teus filhos. Daí a divisão do reino e um reino rebelde em Efraim. Mas Deus não abandona a sua misericórdia: “deixou um resto a Jacó, e a Davi um rebento da sua linhagem”. Seguiram Roboão, insensato, e “Jeroboão, filho de Nabat, que fez pecar Israel, e abriu a Efraim o caminho do pecado”; os pecados se multiplicaram até o exílio.",
+    "alegorico": "Jesus diz: “Aqui está quem é maior do que Salomão” (Mt 12,42). Cristo é a Sabedoria plena, que não se corrompe. O “rebento” deixado à casa de Davi é o Messias, “rebento do tronco de Jessé” (Is 11,1).",
+    "moral": "Salomão é a advertência de que a sabedoria recebida não garante a perseverança: as riquezas e as paixões desordenadas corromperam o rei mais sábio. Os dons de Deus precisam ser guardados com humildade. E o pecado de um líder arrasta todo o povo.",
+    "anagogico": "Apesar da infidelidade, Deus guarda “um resto” e “um rebento”: a esperança messiânica atravessa as quedas humanas até o Reino eterno."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Foste cheio de sabedoria, como um rio.” “Foste amado na tua paz.” “Ajuntaste ouro, como se fosse estanho.” “Deixou um resto a Jacob, e a Davide um rebento da sua linhagem.”",
+    "meditatio_perguntas": [
+      "Guardo com humildade os dons que recebi?",
+      "Que riquezas ou paixões podem corromper a minha sabedoria?",
+      "Confio que Deus deixa sempre um “resto” de esperança?"
+    ],
+    "oratio_guia": "Senhor, que deste a Salomão a sabedoria, guarda-me da queda que vem do apego às riquezas e às paixões. Faz-me perseverar até o fim, confiando na tua misericórdia. Amém.",
+    "contemplatio_foco": {
+      "texto": "Foste cheio de sabedoria, como um rio",
+      "ref": "Eclo 47,16"
+    }
+  },
+  "ancoras": {
+    "47:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 1Rs 11: a idolatria de Salomão por causa das suas mulheres.",
+        "origem": "ia"
+      }
+    },
+    "47:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 1Rs 12,25-33: os bezerros de ouro de Jeroboão.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

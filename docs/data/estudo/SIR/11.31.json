@@ -1,0 +1,57 @@
+{
+  "id": "SIR.11.31",
+  "livro": "SIR",
+  "titulo": "Cautela com quem acolhes e a quem fazes o bem",
+  "secao": "Conselhos para a vida",
+  "referencia": "Eclo 11,31–12,7",
+  "ini": {
+    "c": 11,
+    "v": 31
+  },
+  "fim": {
+    "c": 12,
+    "v": 7
+  },
+  "liturgia": {
+    "tema_central": "Cautela com quem acolhes e a quem fazes o bem",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio aconselha prudência na hospitalidade e na beneficência. “Não introduzas em tua casa toda a sorte de pessoas, porque são muitos os embustes do doloso.” O enganador é como a perdiz usada como isca, que espia a tua ruína; transforma o bem em mal e mancha o que é puro. “Uma só faísca produz um incêndio.” Afasta-te do malvado, que trama o mal. Sobre a beneficência: “Se fizeres bem, sabe a quem o fazes, e receberás gratidão pelos teus benefícios. Faze bem ao justo, e receberás uma grande recompensa, se não dele, pelo menos do Senhor.” Não há bem para quem persiste no mal e não dá esmolas. Dá ao bom e não ajudes o pecador na sua maldade, para que não se fortaleça com o teu pão contra ti; porque o Altíssimo odeia os pecadores e fará justiça.",
+    "alegorico": "O conselho de não favorecer o mal encontra no Evangelho um horizonte mais amplo: Jesus manda amar os inimigos e fazer o bem sem esperar retribuição, porque o Pai “faz nascer o sol sobre maus e bons” (Mt 5,44-45; Lc 6,35). A prudência do sábio não desaparece, mas é superada pela caridade de Cristo, que come com os pecadores para os converter.",
+    "moral": "A caridade precisa de discernimento: ajudar alguém a fazer o mal não é caridade. Há também prudência legítima em quem acolhemos em casa. Mas o cristão lê este texto à luz do Evangelho: a prudência não pode se tornar desculpa para fechar o coração, e o bem feito ao justo ou ao pecador é visto por Deus.",
+    "anagogico": "“Se não dele, pelo menos do Senhor”: todo bem feito tem a sua recompensa em Deus, mesmo quando os homens não agradecem."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não introduzas em tua casa toda a sorte de pessoas.” “Uma só faísca produz um incêndio.” “Se fizeres bem, sabe a quem o fazes.” “Faze bem ao justo, e receberás uma grande recompensa, se não dele, pelo menos do Senhor.”",
+    "meditatio_perguntas": [
+      "A minha caridade é prudente e não favorece o mal?",
+      "Espero gratidão quando faço o bem?",
+      "Como uno a prudência do sábio com a caridade de Cristo?"
+    ],
+    "oratio_guia": "Senhor, dá-me uma caridade prudente, que não alimente o mal, e generosa como a tua, que faz o bem a todos. Que eu espere a recompensa só de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Faze bem ao justo, e receberás uma grande recompensa, se não dele, pelo menos do Senhor",
+      "ref": "Eclo 12,2"
+    }
+  },
+  "ancoras": {
+    "11:32": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na Vulgata, a imagem é a da perdiz usada como chamariz pelos caçadores.",
+        "origem": "ia"
+      }
+    },
+    "12:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Estes conselhos devem ser lidos à luz do mandamento novo de Jesus (Lc 6,27-36).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

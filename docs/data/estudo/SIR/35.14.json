@@ -1,0 +1,49 @@
+{
+  "id": "SIR.35.14",
+  "livro": "SIR",
+  "titulo": "A oração do humilde atravessa as nuvens",
+  "secao": "O culto, a oração e o conselho",
+  "referencia": "Eclo 35,14-26",
+  "ini": {
+    "c": 35,
+    "v": 14
+  },
+  "fim": {
+    "c": 35,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "A oração do humilde penetra as nuvens",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio lembra que Deus é juiz imparcial. “Não lhe ofereças donativos perversos, porque os não receberá.” Não confies num sacrifício injusto, porque o Senhor é juiz e não faz acepção de pessoas. “O Senhor não fará acepção de pessoas contra o pobre, e ouvirá a oração do oprimido. Não desprezará os rogos do órfão, nem a viúva que lhe fala com os seus gemidos.” As lágrimas da viúva descem pelo rosto e clamam contra quem as faz correr. Quem adora a Deus com alegria é aceito, e a sua oração chega às nuvens. E vem a frase mais célebre: “A oração do que se humilha penetrará as nuvens; ele não se consolará enquanto ela não chegar até Deus, e não se retirará enquanto o Altíssimo não puser nela os olhos.” O Senhor não tardará: fará justiça aos justos, julgará e se vingará das nações, até destruir a multidão dos soberbos e quebrar os cetros dos iníquos; retribuirá a cada um segundo as suas obras, e alegrará o seu povo com a sua misericórdia. A misericórdia de Deus no tempo da aflição é bela como as nuvens de chuva no tempo da seca.",
+    "alegorico": "Jesus conta a parábola da viúva insistente e do juiz iníquo (Lc 18,1-8) e a do fariseu e do publicano, cuja oração humilde é ouvida (Lc 18,9-14). Este texto é lido com ela no 30º Domingo do Tempo Comum, Ano C. A Igreja aplica a oração que “penetra as nuvens” à perseverança na súplica.",
+    "moral": "Deus não se deixa comprar: não aceita ofertas injustas e não favorece os ricos contra os pobres. Ao contrário, escuta com predileção o órfão, a viúva, o oprimido. A oração humilde e perseverante, que não desiste, chega até ele. Isso consola os pequenos e adverte os que oprimem.",
+    "anagogico": "O Senhor “não tardará”: virá fazer justiça aos pobres e alegrar o seu povo com a sua misericórdia, como chuva na seca."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor não fará acepção de pessoas contra o pobre.” “Não desprezará os rogos do órfão, nem a viúva.” “A oração do que se humilha penetrará as nuvens.” “Não se retirará, enquanto o Altíssimo não puser nela os olhos.”",
+    "meditatio_perguntas": [
+      "A minha oração é humilde e perseverante?",
+      "Desisto de rezar quando a resposta demora?",
+      "Faço correr lágrimas de algum pobre ou viúva?"
+    ],
+    "oratio_guia": "Senhor, que ouves a oração do humilde, dá-me perseverar na súplica até que ponhas em mim os teus olhos. Ouve o clamor dos órfãos, das viúvas e dos oprimidos. Amém.",
+    "contemplatio_foco": {
+      "texto": "A oração do que se humilha penetrará as nuvens",
+      "ref": "Eclo 35,21"
+    }
+  },
+  "ancoras": {
+    "35:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração grega, 35,17. Lido no 30º Domingo do Tempo Comum, Ano C.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

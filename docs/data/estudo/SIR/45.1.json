@@ -1,0 +1,57 @@
+{
+  "id": "SIR.45.1",
+  "livro": "SIR",
+  "titulo": "Moisés, amado de Deus e dos homens",
+  "secao": "O elogio dos antepassados",
+  "referencia": "Eclo 45,1-6",
+  "ini": {
+    "c": 45,
+    "v": 1
+  },
+  "fim": {
+    "c": 45,
+    "v": 6
+  },
+  "liturgia": {
+    "tema_central": "Moisés, amado de Deus e dos homens",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio passa a Moisés. “Moisés foi amado de Deus e dos homens; a sua memória está em bênção.” Deus o fez semelhante aos santos na glória e o engrandeceu, tornando-o temível aos inimigos; pelas suas palavras fez cessar os prodígios. Glorificou-o diante dos reis, deu-lhe mandamentos para o seu povo e mostrou-lhe a sua glória. “Pela sua fé e mansidão o santificou, e o escolheu dentre todos os homens. Deus ouviu-o, escutou a sua voz, e fê-lo entrar na nuvem. Deu-lhe os seus preceitos, frente a frente, e a lei da vida e da ciência, para ensinar a sua aliança a Jacó, e as suas ordens a Israel.”",
+    "alegorico": "Moisés, que fala com Deus “face a face” e entra na nuvem, prefigura Cristo, novo Moisés, que dá a nova Lei no monte (Mt 5) e é transfigurado na nuvem (Mt 17,5). Mas “a Lei foi dada por Moisés; a graça e a verdade vieram por Jesus Cristo” (Jo 1,17).",
+    "moral": "O que tornou Moisés grande foi a fé e a mansidão (Nm 12,3: “o homem mais manso da terra”). O líder segundo Deus é amado por Deus e pelos homens, escuta e transmite a Palavra. A mansidão não é fraqueza, é força posta a serviço de Deus.",
+    "anagogico": "Moisés viu a glória de Deus de modo velado; nós a veremos face a face, sem nuvem, na luz eterna (2Cor 3,18)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Moisés foi amado de Deus e dos homens.” “A sua memória está em bênção.” “Pela sua fé e mansidão o santificou.” “Fê-lo entrar na nuvem.” “A lei da vida e da ciência.”",
+    "meditatio_perguntas": [
+      "A minha fé é acompanhada de mansidão?",
+      "Entro na “nuvem” da oração para escutar Deus?",
+      "Transmito aos outros a Palavra que recebo?"
+    ],
+    "oratio_guia": "Senhor, que santificaste Moisés pela fé e mansidão, dá-me um coração manso e fiel. Faz-me entrar na tua presença e transmitir aos outros a tua lei de vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "Moisés foi amado de Deus e dos homens; a sua memória está em bênção",
+      "ref": "Eclo 45,1"
+    }
+  },
+  "ancoras": {
+    "45:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Nm 12,3: Moisés, “o mais manso dos homens”.",
+        "origem": "ia"
+      }
+    },
+    "45:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Ex 33,11: Deus falava com Moisés “face a face”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

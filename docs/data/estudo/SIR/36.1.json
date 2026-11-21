@@ -1,0 +1,49 @@
+{
+  "id": "SIR.36.1",
+  "livro": "SIR",
+  "titulo": "Oração pelo povo de Deus",
+  "secao": "O culto, a oração e o conselho",
+  "referencia": "Eclo 36,1-19",
+  "ini": {
+    "c": 36,
+    "v": 1
+  },
+  "fim": {
+    "c": 36,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "Oração pela libertação de Israel",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O livro de sabedoria se torna súplica nacional. “Tem piedade de nós, ó Deus de todas as coisas, volta para nós os teus olhos e mostra-nos a luz das tuas misericórdias; espalha o teu temor sobre as nações que te não buscaram, para que elas reconheçam que não há outro Deus senão tu.” Levanta a mão contra as nações estrangeiras, para que vejam o teu poder. “Assim como diante dos seus olhos mostraste em nós a tua santidade, assim também, à nossa vista, mostra nelas a tua grandeza, para que reconheçam, como também nós reconhecemos, que fora de ti, Senhor, não há outro Deus. Renova os teus prodígios, faze novas maravilhas.” Glorifica a tua mão e o teu braço; apressa o tempo, lembra-te do fim. “Ajunta todas as tribos de Jacó… e sejam herança tua como o foram desde o princípio.” Tem misericórdia do teu povo chamado pelo teu nome, de Israel, teu primogênito; de Jerusalém, cidade santa e lugar do teu repouso. Enche Sião com os teus oráculos e o teu povo com a tua glória. Dá testemunho às tuas primeiras criaturas e cumpre as profecias dos antigos profetas; recompensa os que esperam em ti, para que todos os que habitam a terra saibam que tu és o Deus que contempla os séculos.",
+    "alegorico": "O desejo de que todas as nações reconheçam o único Deus e de que as tribos dispersas sejam reunidas se cumpre em Cristo, que morre “para reunir os filhos de Deus dispersos” (Jo 11,52) e envia os apóstolos a todas as nações (Mt 28,19). “Renova os teus prodígios” é a oração de toda a Igreja que espera um novo Pentecostes.",
+    "moral": "A oração do sábio não é só pessoal: abraça o povo, a cidade santa e as nações. Ensina a rezar pela Igreja, pela unidade dos dispersos e pela conversão dos que não conhecem a Deus. E a pedir com ousadia: “renova os teus prodígios, faze novas maravilhas”.",
+    "anagogico": "“Apressa o tempo, lembra-te do fim”: é a súplica escatológica que a Igreja continua: “Vem, Senhor Jesus” (Ap 22,20), quando todas as nações reconhecerão o único Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Tem piedade de nós, ó Deus de todas as coisas.” “Mostra-nos a luz das tuas misericórdias.” “Fora de ti, Senhor, não há outro Deus.” “Renova os teus prodígios, faze novas maravilhas.” “Ajunta todas as tribos de Jacob.”",
+    "meditatio_perguntas": [
+      "Rezo pela Igreja e pela unidade dos cristãos?",
+      "Peço a Deus que renove os seus prodígios no nosso tempo?",
+      "Desejo que todos conheçam o único Deus?"
+    ],
+    "oratio_guia": "Tem piedade de nós, ó Deus de todas as coisas. Renova os teus prodígios, reúne o teu povo disperso e faz que todas as nações reconheçam que não há outro Deus senão tu. Amém.",
+    "contemplatio_foco": {
+      "texto": "Renova os teus prodígios, faze novas maravilhas",
+      "ref": "Eclo 36,6"
+    }
+  },
+  "ancoras": {
+    "36:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Oração escrita talvez sob a pressão dos selêucidas, antes da crise macabaica.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

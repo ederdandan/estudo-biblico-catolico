@@ -1,0 +1,49 @@
+{
+  "id": "SIR.33.20",
+  "livro": "SIR",
+  "titulo": "Os bens, a casa e os servos",
+  "secao": "A família, a amizade e a vida social",
+  "referencia": "Eclo 33,20-33",
+  "ini": {
+    "c": 33,
+    "v": 20
+  },
+  "fim": {
+    "c": 33,
+    "v": 33
+  },
+  "liturgia": {
+    "tema_central": "Não entregues o teu poder em vida; o servo como irmão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio dá conselhos sobre a herança e os servos. “Ao teu filho, à tua mulher, ao teu irmão, ao teu amigo não dês em tua vida poder sobre ti; não dês a outro os bens que possuis, para que não suceda arrependeres-te disso.” Enquanto viveres e respirares, não te entregues a ninguém, “porque melhor é que teus filhos te peçam, do que estares tu olhando para as mãos de teus filhos”. Conserva a tua autoridade; não manches a tua glória. No dia em que acabares a vida, então distribui a herança. Sobre os servos, o texto reflete a dureza da escravidão antiga: “Ao asno, penso, vara e carga; ao escravo, pão, correção e trabalho.” Faze-o trabalhar, para que não ande ocioso, porque a ociosidade ensina muitos males. Mas sem exagero: não sejas excessivo com ninguém, nada faças sem juízo. E surge uma nota de humanidade: “Se tens um escravo fiel, estima-o como a ti próprio, trata-o como um irmão, porque o adquiriste à custa do teu sangue.” Se o maltratares e ele fugir, por que caminho o irás procurar?",
+    "alegorico": "A visão do servo “como irmão” é levada ao seu cumprimento por Paulo: em Cristo “não há escravo nem livre” (Gl 3,28), e Onésimo deve ser recebido “como irmão amado” (Fm 16). Cristo mesmo “tomou a forma de servo” (Fl 2,7).",
+    "moral": "O conselho de não entregar tudo em vida é prudência para a velhice: manter a dignidade e não depender totalmente dos filhos. Quanto aos servos, a cultura do autor aceitava a escravidão, que o Evangelho superou; mas já aqui aparece a intuição de que o trabalhador fiel deve ser tratado como irmão e que todo excesso é injusto.",
+    "anagogico": "Na família de Deus, senhores e servos serão irmãos diante do único Senhor (Ef 6,9), e a herança verdadeira é a vida eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não dês em tua vida poder sobre ti.” “Melhor é que teus filhos te peçam.” “Não sejas excessivo com ninguém.” “Se tens um escravo fiel, estima-o como a ti próprio, trata-o como um irmão.”",
+    "meditatio_perguntas": [
+      "Planejo com prudência a minha velhice e a herança?",
+      "Como trato os que trabalham para mim?",
+      "Vejo cada trabalhador como irmão?"
+    ],
+    "oratio_guia": "Senhor, que te fizeste servo, dá-me prudência na administração dos meus bens e justiça e fraternidade com os que trabalham comigo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Se tens um escravo fiel, estima-o como a ti próprio, trata-o como um irmão",
+      "ref": "Eclo 33,31"
+    }
+  },
+  "ancoras": {
+    "33:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A escravidão antiga foi gradualmente superada pela fraternidade cristã; cf. Fm 16.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "SIR.20.1",
+  "livro": "SIR",
+  "titulo": "O silêncio do sábio; a mentira",
+  "secao": "O domínio de si e a palavra",
+  "referencia": "Eclo 20,1-33",
+  "ini": {
+    "c": 20,
+    "v": 1
+  },
+  "fim": {
+    "c": 20,
+    "v": 33
+  },
+  "liturgia": {
+    "tema_central": "O silêncio e a palavra a seu tempo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio continua a falar do uso da palavra. “Quanto melhor é repreender do que irritar-se, e não impedir de falar aquele que confessa a sua falta!” A violência na justiça é como o eunuco que quer violar uma donzela. Segue um elogio do silêncio oportuno: “Há quem, estando calado, seja tido por sábio, e quem se torne odioso por ser descomedido no falar. Há tal que se cala por não saber falar; e há tal que se cala, porque sabe qual é a ocasião oportuna. O homem sábio está em silêncio até um certo tempo, mas o leviano e o imprudente não esperam a ocasião.” Quem fala demais fere a sua alma. Há paradoxos: há sucessos que trazem desgraça e perdas que são ganho; presentes que nada valem e presentes que rendem o dobro. O presente do insensato não serve, pois ele dá pouco e cobra muito. Um provérbio na boca do tolo é desprezado, porque ele não o diz a seu tempo. “A mentira é no homem uma vergonhosa mancha”; mais vale o ladrão do que o mentiroso habitual. O sábio se faz estimar pelas palavras. E conclui: “Sabedoria escondida é tesouro invisível; que utilidade haverá em ambas estas coisas?”",
+    "alegorico": "Jesus soube calar diante de Herodes e de Pilatos (Lc 23,9; Jo 19,9) e falar com autoridade no momento oportuno. O Verbo esteve escondido trinta anos em Nazaré antes de falar. A sabedoria não deve ser escondida: “não se acende uma lâmpada para pô-la debaixo do alqueire” (Mt 5,15).",
+    "moral": "Há um tempo para calar e um tempo para falar (Ecl 3,7). O sábio sabe esperar a ocasião; o imprudente fala sem medida e fere a si e aos outros. A mentira habitual mancha a pessoa. E a sabedoria que temos não é para guardar só para nós: deve ser partilhada a tempo.",
+    "anagogico": "O silêncio sábio desta vida prepara o silêncio da contemplação, onde a alma, diante de Deus, só tem palavras de louvor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quanto melhor é repreender do que irritar-se.” “Há tal que se cala, porque sabe qual é a ocasião oportuna.” “O homem sábio está em silêncio até um certo tempo.” “A mentira é no homem uma vergonhosa mancha.” “Sabedoria escondida é tesouro invisível.”",
+    "meditatio_perguntas": [
+      "Sei esperar o momento oportuno para falar?",
+      "Escuto quem confessa a sua falta sem o interromper?",
+      "Partilho a sabedoria que recebi?"
+    ],
+    "oratio_guia": "Senhor, ensina-me o silêncio sábio e a palavra oportuna. Livra-me da mentira e faz-me partilhar, a seu tempo, o que de ti recebi. Amém.",
+    "contemplatio_foco": {
+      "texto": "O homem sábio está em silêncio até um certo tempo, mas o leviano e o imprudente não esperam a ocasião",
+      "ref": "Eclo 20,7"
+    }
+  },
+  "ancoras": {
+    "20:32": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Eclo 41,17 e Mt 25,25: a parábola do talento escondido.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "SIR.19.18",
+  "livro": "SIR",
+  "titulo": "A verdadeira e a falsa sabedoria",
+  "secao": "O domínio de si e a palavra",
+  "referencia": "Eclo 19,18-28",
+  "ini": {
+    "c": 19,
+    "v": 18
+  },
+  "fim": {
+    "c": 19,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "Toda a sabedoria é temor de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio distingue a sabedoria verdadeira da astúcia. “Toda a sabedoria é temor de Deus; nela está o temer a Deus, e em toda a sabedoria há o cumprimento da lei.” Mas “não é sabedoria a habilidade de fazer o mal, nem o pensar dos pecadores é prudência”. Há uma esperteza abominável, e há o insensato a quem falta juízo. Mais vale o homem de pouca inteligência que teme a Deus do que o muito inteligente que transgride a lei. Há uma habilidade fina, mas injusta; há quem torça as palavras para chegar ao que quer. Há quem se humilhe com malícia, vestido de luto por fora, mas cheio de engano por dentro: inclina a cabeça, finge não ouvir e, se tiver ocasião, fará o mal. Mas o homem se dá a conhecer: “Pelo semblante se conhece o homem; pelo seu aspecto se conhece o homem sensato.” O vestido, o riso e o andar revelam quem ele é.",
+    "alegorico": "Paulo opõe a “sabedoria deste mundo”, que é loucura diante de Deus, à sabedoria da cruz (1Cor 1,18-25; 3,19). Jesus louva o Pai por ter escondido estas coisas aos sábios e revelado aos pequenos (Mt 11,25): o pequeno que teme a Deus é mais sábio que o hábil sem fé.",
+    "moral": "Inteligência sem retidão não é sabedoria, é astúcia. O texto desmascara também a falsa humildade, que finge submissão para enganar. A verdadeira sabedoria é inseparável do temor de Deus e da obediência à lei: vale mais um simples temente a Deus do que um génio sem consciência.",
+    "anagogico": "No fim, a sabedoria dos astutos será confundida, e os simples que temeram a Deus brilharão como estrelas (Dn 12,3)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Toda a sabedoria é temor de Deus.” “Não é sabedoria a habilidade de fazer mal.” “Mais vale o homem de pouca inteligência que teme a Deus.” “Há quem se humilhe com malícia.” “Pelo semblante se conhece o homem.”",
+    "meditatio_perguntas": [
+      "Uso a minha inteligência para o bem ou para conseguir o que quero?",
+      "Há falsa humildade em mim?",
+      "Valorizo mais a esperteza ou o temor de Deus?"
+    ],
+    "oratio_guia": "Senhor, dá-me a sabedoria que nasce do teu temor e livra-me da astúcia que serve ao mal. Que eu seja simples e reto diante de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "toda a sabedoria é temor de Deus",
+      "ref": "Eclo 19,18"
+    }
+  },
+  "ancoras": {
+    "19:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Pr 1,7 e Eclo 1,16: o temor de Deus é princípio e plenitude da sabedoria.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

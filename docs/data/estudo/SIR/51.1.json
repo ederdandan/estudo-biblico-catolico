@@ -1,0 +1,57 @@
+{
+  "id": "SIR.51.1",
+  "livro": "SIR",
+  "titulo": "Oração de ação de graças de Jesus, filho de Sirac",
+  "secao": "Epílogo",
+  "referencia": "Eclo 51,1-17",
+  "ini": {
+    "c": 51,
+    "v": 1
+  },
+  "fim": {
+    "c": 51,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "Glorificar-te-ei, ó Senhor, meu salvador",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O livro termina com duas orações. A primeira é um cântico de ação de graças: “Oração de Jesus, filho de Sirac. Glorificar-te-ei, ó Senhor rei, louvar-te-ei, Deus, salvador meu. Glorificarei o teu nome, porque te fizeste o meu auxílio e protetor.” O autor recorda como Deus o livrou: da perdição, do laço da língua caluniadora e dos lábios mentirosos; dos que rugiam prontos a devorá-lo; das mãos dos que buscavam a sua vida; das muitas tribulações; do ardor da chama que o cercava; das profundezas do abismo. “A minha alma louvará o Senhor até à morte.” “Cercaram-me de todas as partes, e não havia quem me ajudasse. Volvia os olhos em busca do socorro dos homens, e não apareciam.” Então lembrou-se da misericórdia do Senhor e das suas obras desde sempre, que salva os que esperam nele. Rezou: “Senhor, Pai do meu Senhor, não me abandones no dia da tribulação.” “Tu exaltaste a minha habitação sobre a terra, e eu roguei-te quando vinha sobre mim a torrente de morte.” “Por isso eu te glorificarei, cantarei os teus louvores, e bendirei o nome do Senhor.”",
+    "alegorico": "A súplica de quem é cercado e não encontra socorro humano evoca a Paixão de Cristo, abandonado pelos discípulos (Mc 14,50) e salvo pelo Pai da morte. A expressão da Vulgata “Pai do meu Senhor” foi lida pelos Padres como alusão ao Pai e ao Filho.",
+    "moral": "A ação de graças nasce da memória: lembrar as vezes em que Deus nos livrou quando ninguém mais ajudava. Quem experimentou a salvação torna-se testemunha e cantor da misericórdia. O cristão é chamado a guardar essa memória e a louvar “até à morte”.",
+    "anagogico": "“A minha alma louvará o Senhor até à morte”: e para além dela, no louvor eterno dos redimidos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Glorificar-te-ei, ó Senhor rei, louvar-te-ei, Deus, salvador meu.” “Te fizeste o meu auxílio e protector.” “Volvia os olhos em busca do socorro dos homens, e não apareciam.” “A minha alma louvará o Senhor até à morte.”",
+    "meditatio_perguntas": [
+      "De que perigos Deus já me livrou?",
+      "Agradeço a Deus pelas libertações recebidas?",
+      "Quando não encontro socorro humano, volto-me para Deus?"
+    ],
+    "oratio_guia": "Glorificar-te-ei, Senhor, meu salvador, porque foste o meu auxílio quando ninguém me ajudava. A minha alma te louvará até a morte e para sempre. Amém.",
+    "contemplatio_foco": {
+      "texto": "Glorificar-te-ei, ó Senhor rei, louvar-te-ei, Deus, salvador meu",
+      "ref": "Eclo 51,1"
+    }
+  },
+  "ancoras": {
+    "51:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na Vulgata, “Pai do meu Senhor”; cf. Sl 109,1.",
+        "origem": "ia"
+      }
+    },
+    "51:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cântico de ação de graças semelhante aos salmos de libertação (Sl 17; 29).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

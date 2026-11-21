@@ -1,0 +1,49 @@
+{
+  "id": "SIR.40.12",
+  "livro": "SIR",
+  "titulo": "Acima de tudo, o temor do Senhor",
+  "secao": "A condição humana",
+  "referencia": "Eclo 40,12-32",
+  "ini": {
+    "c": 40,
+    "v": 12
+  },
+  "fim": {
+    "c": 40,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "O temor do Senhor é como um paraíso bendito",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio contrapõe o que passa ao que permanece. “Toda a dádiva oferecida para corromper e toda a riqueza adquirida com iniquidade perecerão, porém a retidão subsistirá eternamente.” As riquezas injustas secarão como torrente e ressoarão como trovão na chuva. Mas “a bondade é como um paraíso de bênçãos, e a misericórdia permanece para sempre”. Segue uma série de comparações em que algo é melhor que duas coisas boas: a vida do trabalhador que se basta é doce; filhos e cidades dão fama, mas a mulher irrepreensível é preferível; “o vinho e a música alegram o coração, mas o amor da sabedoria excede ambas estas coisas”; a flauta e a harpa encantam, mas a língua suave as supera; o amigo e o companheiro ajudam na hora certa, mas mais a mulher com o marido. E no topo: “As riquezas e a força exaltam o coração, mas o temor do Senhor avantaja-se a estas duas coisas. Nada falta ao que tem o temor do Senhor… O temor do Senhor é como um paraíso bendito.” Por fim: “Filho, não leves vida de mendicante, porque é melhor morrer do que mendigar”; a mesa alheia é humilhação.",
+    "alegorico": "O temor do Senhor como “paraíso bendito” evoca o Éden restaurado em Cristo, que promete ao bom ladrão: “hoje estarás comigo no paraíso” (Lc 23,43). A bondade e a misericórdia que permanecem para sempre são o refrão do Salmo 135, cumprido na misericórdia de Cristo.",
+    "moral": "Há uma escala de valores: muitas coisas são boas, como vinho, música, riquezas, força, amigos; mas acima delas estão a sabedoria, a palavra boa, a fidelidade conjugal e, sobretudo, o temor do Senhor. O que se ganha com injustiça perece; a bondade e a misericórdia permanecem. O sábio também valoriza a dignidade do trabalho, que evita a humilhação da mendicância.",
+    "anagogico": "“A misericórdia permanece para sempre”: só a caridade não passa (1Cor 13,8). As obras de bondade são a única riqueza que entra no paraíso."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A rectidão subsistirá eternamente.” “A bondade é como um paraíso de bênçãos.” “O amor da sabedoria excede ambas estas coisas.” “Nada falta ao que tem o temor do Senhor.” “O temor do Senhor é como um paraíso bem-dito.”",
+    "meditatio_perguntas": [
+      "Que valores ponho no topo da minha escala?",
+      "Busco o que passa ou o que permanece?",
+      "Experimento o temor de Deus como paraíso?"
+    ],
+    "oratio_guia": "Senhor, que a bondade e a misericórdia permaneçam em mim. Ensina-me a pôr o teu temor acima das riquezas e da força, pois com ele nada me falta. Amém.",
+    "contemplatio_foco": {
+      "texto": "O temor do Senhor é como um paraíso bem-dito; acha-se revestido duma glória superior a toda a glória",
+      "ref": "Eclo 40,28"
+    }
+  },
+  "ancoras": {
+    "40:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Série de “melhor que” (provérbios comparativos), típica da sabedoria.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

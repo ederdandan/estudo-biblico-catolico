@@ -1,0 +1,49 @@
+{
+  "id": "SIR.14.1",
+  "livro": "SIR",
+  "titulo": "A avareza; faze o bem antes da morte",
+  "secao": "Conselhos para a vida",
+  "referencia": "Eclo 14,1-21",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "A avareza; faze o bem antes da morte",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Bem-aventurado o homem que não cometeu faltas com as palavras da sua boca, e que não foi torturado pelos remorsos do pecado.” Feliz quem não tem a alma triste e não perdeu a esperança. Segue uma reflexão sobre a avareza: “A riqueza é inútil ao homem cobiçoso e avaro.” Quem acumula privando-se do necessário junta para os outros, que gastarão os seus bens. Quem é mau consigo mesmo, para quem será bom? Nada é pior do que ser avaro consigo; o olho do invejoso é mau, nunca se sacia. Então o sábio aconselha usar bem os bens: “Filho, se tens posses, faze com elas bem a ti mesmo, e oferece a Deus dignas oblações. Lembra-te que a morte não tarda.” “Faze bem ao teu amigo antes da morte, e, estendendo a mão, dá esmola ao pobre segundo as tuas posses. Não te prives dum bom dia.” Não vês que deixarás a outros o fruto do teu trabalho? “Dá, e recebe, e justifica a tua alma. Pratica a justiça antes da tua morte, porque na sepultura não se vai procurar alimento.” Toda carne envelhece como uma veste, como as folhas de uma árvore: umas caem, outras brotam; assim as gerações.",
+    "alegorico": "A advertência contra acumular para os outros lembra o rico insensato (Lc 12,20: “o que preparaste, para quem será?”). Jesus ensina a fazer amigos com os bens deste mundo, para que nos recebam nas moradas eternas (Lc 16,9), e a ajuntar tesouros no céu (Mt 6,19-21).",
+    "moral": "O avaro não aproveita os bens nem os partilha: é mau para si e para os outros. O sábio propõe uma alegria sadia: usar os bens para viver com dignidade, honrar a Deus, ajudar os amigos e os pobres, sem desperdiçar os dias bons que Deus dá. A morte relativiza tudo e convida à generosidade agora.",
+    "anagogico": "“Na sepultura não se vai procurar alimento”: a eternidade se prepara nesta vida. O bem feito agora é o único bem que nos acompanha."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A riqueza é inútil ao homem cobiçoso e avaro.” “Para quem será bom aquele que é mau para si?” “Faze bem ao teu amigo antes da morte.” “Não te prives dum bom dia.” “Dá, e recebe, e justifica a tua alma.” “Toda a carne envelhece como o feno.”",
+    "meditatio_perguntas": [
+      "Sou avaro comigo e com os outros?",
+      "Faço o bem que posso agora, sem adiar?",
+      "Sei desfrutar com gratidão os dias bons que Deus me dá?"
+    ],
+    "oratio_guia": "Senhor, livra-me da avareza e do olho invejoso. Ensina-me a usar os teus dons com alegria e generosidade, fazendo o bem enquanto é tempo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Faze bem ao teu amigo antes da morte, e, estendendo a mão, dá esmola ao pobre, segundo as tuas posses",
+      "ref": "Eclo 14,13"
+    }
+  },
+  "ancoras": {
+    "14:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Is 40,6-8 e 1Pd 1,24: “toda carne é como a erva”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

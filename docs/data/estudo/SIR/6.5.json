@@ -1,0 +1,49 @@
+{
+  "id": "SIR.6.5",
+  "livro": "SIR",
+  "titulo": "O amigo fiel é um tesouro",
+  "secao": "Os pais, os pobres e a sabedoria",
+  "referencia": "Eclo 6,5-17",
+  "ini": {
+    "c": 6,
+    "v": 5
+  },
+  "fim": {
+    "c": 6,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "O amigo fiel é um tesouro",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Começa uma das mais belas páginas sobre a amizade. “A palavra doce multiplica os amigos e amansa os inimigos.” Sê cordial com muitos, “mas seja teu conselheiro um entre mil”. “Se queres ter um amigo, toma-o depois de o teres provado, e não te fies facilmente nele.” Há amigos de ocasião, que não permanecem no dia da aflição; há amigos que se tornam inimigos e revelam as tuas brigas para te envergonhar; “há amigo que só o é para a mesa, e que o não será no dia da necessidade”. Na prosperidade será como tu mesmo e mandará nos teus servos; na desgraça se voltará contra ti e se esconderá. Afasta-te dos inimigos e cuida-te dos amigos. Mas, quando é verdadeiro: “O amigo fiel é uma forte proteção; quem o encontrou, encontrou um tesouro. Nada se pode comparar com um amigo fiel, e o ouro e a prata não merecem ser postos em balança com a sinceridade da sua fé. O amigo fiel é uma medicina de vida e de imortalidade; os que temem o Senhor acharão um tal amigo.” Quem teme a Deus será feliz na amizade, porque o seu amigo será como ele.",
+    "alegorico": "Cristo é o amigo fiel por excelência: “Já não vos chamo servos, mas amigos” (Jo 15,15); “ninguém tem maior amor do que aquele que dá a vida pelos amigos” (Jo 15,13). Ele não abandona no dia da necessidade. A Eucaristia, “remédio de imortalidade” (Santo Inácio de Antioquia), é o dom deste Amigo.",
+    "moral": "A amizade verdadeira é rara e preciosa; deve ser provada no tempo e na adversidade. O sábio não é cínico, mas realista: há amigos de interesse e de mesa. O critério decisivo é o temor de Deus: amizades fundadas em Deus são sólidas, porque os amigos se tornam semelhantes no bem.",
+    "anagogico": "A amizade fiel é “medicina de imortalidade”: as amizades santas não terminam com a morte, mas se consumam na comunhão dos santos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A palavra doce multiplica os amigos.” “Seja teu conselheiro um entre mil.” “Toma-o depois de o teres provado.” “Há amigo que só o é para a mesa.” “Quem o encontrou, encontrou um tesouro.” “O amigo fiel é uma medicina de vida e de imortalidade.”",
+    "meditatio_perguntas": [
+      "Sou amigo fiel no dia da necessidade?",
+      "As minhas amizades são fundadas em Deus?",
+      "Agradeço a Deus pelos amigos fiéis que me deu?"
+    ],
+    "oratio_guia": "Senhor Jesus, amigo fiel que deste a vida por mim, obrigado pelos amigos que me deste. Faz-me ser para eles um tesouro e uma medicina de vida, unidos no teu temor. Amém.",
+    "contemplatio_foco": {
+      "texto": "O amigo fiel é uma forte protecção; quem o encontrou, encontrou um tesouro",
+      "ref": "Eclo 6,14"
+    }
+  },
+  "ancoras": {
+    "6:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A expressão “medicina de vida e de imortalidade” é da Vulgata; o grego diz “remédio de vida”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

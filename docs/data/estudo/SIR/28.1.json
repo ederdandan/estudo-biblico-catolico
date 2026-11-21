@@ -1,0 +1,57 @@
+{
+  "id": "SIR.28.1",
+  "livro": "SIR",
+  "titulo": "Perdoa ao teu próximo e serás perdoado",
+  "secao": "A família, a amizade e a vida social",
+  "referencia": "Eclo 28,1-11",
+  "ini": {
+    "c": 28,
+    "v": 1
+  },
+  "fim": {
+    "c": 28,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "Perdoa ao teu próximo, e os teus pecados serão perdoados",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Esta é uma das páginas mais próximas do Evangelho em todo o Antigo Testamento. “Aquele que quer vingar-se encontrará a vingança do Senhor, o qual tirará exata conta dos seus pecados. Perdoa ao teu próximo que te ofendeu, e então, quando pedires, serão perdoados os teus pecados.” O sábio mostra a contradição de quem guarda rancor: “Um homem conserva a sua ira contra outro homem, e pede a Deus remédio? Não tem compaixão dum homem seu semelhante, e pede perdão dos seus pecados? Ele, que é carne, conserva rancor, e pede propiciação a Deus?” E propõe três lembranças que curam o rancor: “Lembra-te do teu fim e deixa de nutrir inimizades”, porque a corrupção e a morte se aproximam; lembra-te dos mandamentos e não te irrites com o próximo; lembra-te da aliança do Altíssimo e passa por alto a ofensa.",
+    "alegorico": "Jesus ensina exatamente isto: “Perdoai-nos as nossas ofensas, assim como nós perdoamos” (Mt 6,12.14-15), e conta a parábola do servo implacável, perdoado de uma dívida imensa e incapaz de perdoar uma pequena (Mt 18,21-35). O texto é lido com essa parábola no 24º Domingo do Tempo Comum, Ano A.",
+    "moral": "Não se pode pedir a Deus o perdão negando-o ao irmão. O rancor é incoerente e autodestrutivo. O remédio é lembrar: a morte, que relativiza as ofensas; os mandamentos, que pedem o amor; a aliança, pela qual nós mesmos fomos perdoados. Perdoar não é negar a ofensa, mas renunciar à vingança.",
+    "anagogico": "“Lembra-te do teu fim”: no juízo seremos medidos com a medida com que medimos (Mt 7,2). Quem perdoou será perdoado."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Perdoa ao teu próximo que te ofendeu.” “Um homem conserva a sua ira contra outro homem, e pede a Deus remédio?” “Lembra-te do teu fim e deixa de nutrir inimizades.” “Lembra-te da aliança do Altíssimo.”",
+    "meditatio_perguntas": [
+      "Há alguém que ainda não perdoei?",
+      "Rezo o Pai-Nosso sabendo o que peço ao dizer “assim como nós perdoamos”?",
+      "Que lembrança me ajuda a deixar o rancor?"
+    ],
+    "oratio_guia": "Senhor, que me perdoaste tanto, dá-me um coração que perdoa. Tira de mim o rancor e faz-me lembrar do meu fim e da tua aliança, para que eu perdoe como sou perdoado. Amém.",
+    "contemplatio_foco": {
+      "texto": "Perdoa ao teu próximo que te ofendeu, e então, quando pedires, serão perdoados os teus pecados",
+      "ref": "Eclo 28,2"
+    }
+  },
+  "ancoras": {
+    "28:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Lido no 24º Domingo do Tempo Comum, Ano A, com Mt 18,21-35.",
+        "origem": "ia"
+      }
+    },
+    "28:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A lembrança da morte como remédio contra o rancor; cf. Eclo 7,40.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

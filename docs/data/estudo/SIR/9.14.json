@@ -1,0 +1,49 @@
+{
+  "id": "SIR.9.14",
+  "livro": "SIR",
+  "titulo": "O amigo antigo e o convívio com os justos",
+  "secao": "Conselhos para a vida",
+  "referencia": "Eclo 9,14-25",
+  "ini": {
+    "c": 9,
+    "v": 14
+  },
+  "fim": {
+    "c": 9,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "O amigo antigo é como vinho velho",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Novos conselhos sobre as relações. “Não deixes o amigo antigo, porque o novo não será semelhante a ele. O amigo novo é um vinho novo; quando se fizer velho, então o beberás com gosto.” A amizade precisa de tempo para amadurecer. “Não invejes a glória nem as riquezas do pecador, porque não sabes qual será a sua ruína”; não te agrade o sucesso dos violentos. Fica longe de quem tem poder para matar: perto dele caminhas entre laços e armas. Conhece o teu próximo tanto quanto puderes e aconselha-te com os sábios. E sobre a companhia: “Os teus convivas sejam homens justos; no temor de Deus esteja posta a tua glória; ocupe o teu espírito o pensamento de Deus, e toda a tua conversação verse sobre os preceitos do Altíssimo.” O artista é louvado pela obra das mãos, o chefe pela sabedoria das palavras; mas o falador é temido na cidade, e o precipitado no falar é odiado.",
+    "alegorico": "O vinho novo e o vinho velho aparecem também nas palavras de Jesus (Lc 5,39), e o vinho melhor guardado para o fim, nas bodas de Caná (Jo 2,10), é imagem da amizade de Cristo, que cresce com o tempo. A mesa partilhada com os justos prefigura a mesa eucarística.",
+    "moral": "A fidelidade às velhas amizades é sinal de maturidade; o novo sempre seduz, mas o antigo tem a profundidade do tempo. A inveja dos que prosperam no mal é inútil, porque o fim deles é incerto. E a escolha da companhia é decisiva: conversar sobre Deus com amigos justos alimenta a alma.",
+    "anagogico": "As amizades fundadas em Deus amadurecem como o vinho e serão bebidas “novas” no Reino do Pai (Mt 26,29)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não deixes o amigo antigo.” “O amigo novo é um vinho novo; quando se fizer velho, então o beberás com gosto.” “Não invejes a glória nem as riquezas do pecador.” “Os teus convivas sejam homens justos.” “Ocupe o teu espírito o pensamento de Deus.”",
+    "meditatio_perguntas": [
+      "Cuido das minhas amizades antigas?",
+      "Invejo os que prosperam no mal?",
+      "Sobre o que falo com os meus amigos?"
+    ],
+    "oratio_guia": "Senhor, obrigado pelos amigos antigos e fiéis. Que as minhas amizades amadureçam em ti como o bom vinho, e que a minha conversa se volte para o teu amor. Amém.",
+    "contemplatio_foco": {
+      "texto": "O amigo novo é um vinho novo; quando se fizer velho, (então) o beberás com gosto",
+      "ref": "Eclo 9,15"
+    }
+  },
+  "ancoras": {
+    "9:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Provérbio conhecido no mundo antigo; cf. Lc 5,39: “ninguém que bebeu o vinho velho quer o novo”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "SIR.19.4",
+  "livro": "SIR",
+  "titulo": "Guarda o que ouviste; corrige o teu amigo",
+  "secao": "O domínio de si e a palavra",
+  "referencia": "Eclo 19,4-17",
+  "ini": {
+    "c": 19,
+    "v": 4
+  },
+  "fim": {
+    "c": 19,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "Ouviste uma palavra? Morra dentro de ti",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio trata da língua e dos boatos. Quem acredita depressa é leviano de coração; quem peca contra a sua alma será desprezado. Quem se alegra com a maldade será condenado; quem odeia a tagarelice diminui o mal. Não repitas a palavra maldosa e dura, e não perderás. Não contes os teus pensamentos nem ao amigo nem ao inimigo. E vem o conselho célebre: “Ouviste alguma palavra contra o teu próximo? Morra dentro de ti, ficando seguro de que ela te não fará rebentar.” O insensato sofre com uma palavra guardada “como a mulher que geme para dar à luz”; ela é nele “como seta cravada na carne da coxa”. Segue o ensinamento sobre a correção fraterna: “Admoesta o teu amigo, porque talvez não tenha compreendido”, e, se o fez, para que não volte a fazê-lo. Interroga o teu próximo, talvez não tenha dito aquilo; e, se o disse, para que não o repita. “Repreende o teu amigo, porque muitas vezes se diz o que não é verdade; não acredites em tudo o que se diz.” Há quem escorregue com a língua, mas não de coração. “E quem há que não tenha pecado com a língua?”",
+    "alegorico": "A correção fraterna que primeiro pergunta e escuta é o caminho ensinado por Jesus: “Se o teu irmão pecar, vai e repreende-o a sós” (Mt 18,15). São Tiago, retomando o sábio, diz: “Se alguém não peca no falar, é homem perfeito” (Tg 3,2).",
+    "moral": "A fofoca vive de quem acredita depressa e repete com gosto. O sábio propõe deixar morrer em nós a palavra maldosa: ela não nos fará explodir. Diante do que ouvimos sobre alguém, o caminho é ir à pessoa, perguntar, ouvir a sua versão e, se for o caso, corrigir com caridade. E lembrar que todos pecamos com a língua.",
+    "anagogico": "Daremos contas de toda palavra ociosa no dia do juízo (Mt 12,36); a língua que aprendeu o silêncio caridoso poderá então louvar a Deus para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ouviste alguma palavra contra o teu próximo? Morra dentro de ti.” “Como seta cravada na carne da coxa.” “Admoesta o teu amigo, porque talvez não tenha compreendido.” “Não acredites em tudo o que se diz.” “Quem há que não tenha pecado com a língua?”",
+    "meditatio_perguntas": [
+      "Deixo morrer em mim as palavras maldosas que ouço, ou as repito?",
+      "Acredito facilmente no que se diz dos outros?",
+      "Pratico a correção fraterna com caridade, ouvindo antes?"
+    ],
+    "oratio_guia": "Senhor, guarda a minha língua. Que as palavras maldosas morram em mim, que eu não acredite em tudo o que se diz e que corrija os irmãos com caridade. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ouviste alguma palavra contra o teu próximo? Morra dentro de ti, ficando seguro de que ela te não fará rebentar",
+      "ref": "Eclo 19,10"
+    }
+  },
+  "ancoras": {
+    "19:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os vv. 13-17 descrevem os passos da correção fraterna: admoestar, interrogar, verificar.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "SIR.38.25",
+  "livro": "SIR",
+  "titulo": "Os ofícios das mãos",
+  "secao": "O culto, a oração e o conselho",
+  "referencia": "Eclo 38,25-39",
+  "ini": {
+    "c": 38,
+    "v": 25
+  },
+  "fim": {
+    "c": 38,
+    "v": 39
+  },
+  "liturgia": {
+    "tema_central": "Os ofícios manuais sustentam o mundo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sábio compara o estudioso e o trabalhador manual. “O letrado adquire sabedoria no tempo do ócio.” Como poderá ser sábio quem conduz o arado e só fala de bois? O sábio descreve com respeito os trabalhos: o lavrador que passa as noites a engordar as vacas; o artesão e o arquiteto que gravam selos e trabalham noite e dia; o ferreiro junto à bigorna, com o rosto queimado pelo fogo e os ouvidos atordoados pelo martelo, “aplica o coração a completar os seus trabalhos”; o oleiro que gira a roda com os pés, molda o barro com o braço e “aplica o seu coração a vidrar a obra perfeitamente”. Todos confiam nas suas mãos, e cada um é sábio no seu ofício. Sem eles nenhuma cidade seria construída, habitada ou percorrida. Não se sentam no conselho nem nos tribunais, não brilham na sabedoria. “Entretanto sustentam as coisas temporais, e os seus votos são para fazerem bem as obras da sua arte.”",
+    "alegorico": "Jesus, “o filho do carpinteiro” (Mt 13,55), santificou o trabalho manual durante trinta anos em Nazaré. São José, artesão, é patrono dos trabalhadores. Paulo trabalhava com as próprias mãos para não ser pesado a ninguém (At 18,3; 2Ts 3,8).",
+    "moral": "O sábio, embora prefira o estudo, reconhece a dignidade e a necessidade do trabalho manual: sem o agricultor, o ferreiro e o oleiro, não há cidade. Cada ofício tem a sua sabedoria, a do trabalho bem feito. A Igreja ensina que todo trabalho honesto santifica e coopera com a obra do Criador.",
+    "anagogico": "“A sua oração é o seu trabalho”: o trabalho bem feito, oferecido a Deus, é oração que prepara a cidade eterna, onde as obras dos justos os acompanham (Ap 14,13)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O letrado adquire sabedoria no tempo do ócio.” “Aplica o coração a completar os seus trabalhos.” “Aplica o seu coração a vidrar a obra perfeitamente.” “Sustentam as coisas temporais.”",
+    "meditatio_perguntas": [
+      "Valorizo o trabalho manual e quem o faz?",
+      "Faço o meu trabalho com perfeição e coração?",
+      "Ofereço o meu trabalho a Deus como oração?"
+    ],
+    "oratio_guia": "Senhor, que trabalhaste com as tuas mãos em Nazaré, abençoa os trabalhadores. Que eu faça o meu trabalho com cuidado e o ofereça a ti como oração. Amém.",
+    "contemplatio_foco": {
+      "texto": "Entretanto sustentam as coisas temporais, e os seus votos são para fazerem bem as obras da sua arte",
+      "ref": "Eclo 38,39"
+    }
+  },
+  "ancoras": {
+    "38:39": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "No grego (38,34): “a sua oração está no exercício do seu ofício”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

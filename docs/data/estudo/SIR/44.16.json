@@ -1,0 +1,57 @@
+{
+  "id": "SIR.44.16",
+  "livro": "SIR",
+  "titulo": "Henoc, Noé, Abraão, Isaac e Jacó",
+  "secao": "O elogio dos antepassados",
+  "referencia": "Eclo 44,16-27",
+  "ini": {
+    "c": 44,
+    "v": 16
+  },
+  "fim": {
+    "c": 44,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "Henoc, Noé, Abraão, Isaac e Jacó",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O elogio começa com os patriarcas antes e depois do dilúvio. “Henoc agradou a Deus; foi transportado ao paraíso, para excitar as nações à penitência.” “Noé foi encontrado perfeito e justo, e no tempo da ira tornou-se a reconciliação dos homens.” Por isso ficou um resto na terra quando veio o dilúvio; “com ele foi feita uma aliança eterna, para que não pudesse ser destruída por outro dilúvio toda a carne”. “Abraão foi o glorioso pai duma multidão de nações, e não foi encontrado outro semelhante a ele em glória. Guardou a lei do Excelso, e com ele entrou em aliança.” Firmou a aliança na sua carne pela circuncisão e na prova foi achado fiel. “Por isso jurou o Senhor que o havia de glorificar na sua descendência, que ele se multiplicaria como o pó da terra”, exaltaria a sua posteridade como as estrelas e lhe daria herança de mar a mar. O mesmo juramento foi dado a Isaac por causa de Abraão, seu pai. “O Senhor deu-lhe a bênção de todas as nações, e confirmou a sua aliança sobre a cabeça de Jacó”, reconheceu-o nas suas bênçãos, deu-lhe a herança e a dividiu entre as doze tribos.",
+    "alegorico": "Henoc e Noé são modelos da fé (Hb 11,5-7); Noé “reconciliação no tempo da ira” prefigura Cristo, e a arca, a Igreja (1Pd 3,20-21). A bênção de Abraão para todas as nações se cumpre em Cristo, “descendência de Abraão” (Gl 3,8.16).",
+    "moral": "Os patriarcas foram grandes não pelo poder, mas pela fidelidade: Henoc agradou a Deus, Noé foi justo numa geração corrupta, Abraão foi fiel na prova. A fé de um só pode tornar-se bênção para multidões e gerações.",
+    "anagogico": "Henoc “transportado ao paraíso” é sinal de que a amizade com Deus vence a morte; a descendência inumerável de Abraão é a multidão dos salvos que ninguém pode contar (Ap 7,9)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Henoch agradou a Deus; foi transportado ao paraíso.” “Noé foi encontrado perfeito e justo.” “Com ele foi feita uma aliança eterna.” “Abraão foi o glorioso pai duma multidão de nações.” “Na prova foi achado fiel.”",
+    "meditatio_perguntas": [
+      "Agrado a Deus como Henoc?",
+      "Sou justo numa geração corrompida, como Noé?",
+      "A minha fé é fiel na prova, como a de Abraão?"
+    ],
+    "oratio_guia": "Senhor, Deus de Abraão, Isaac e Jacó, dá-me uma fé fiel na prova e uma vida que te agrade. Que eu seja, como os patriarcas, bênção para os outros. Amém.",
+    "contemplatio_foco": {
+      "texto": "Abraão foi o glorioso pai duma multidão de nações, e não foi encontrado outro semelhante a ele em glória",
+      "ref": "Eclo 44,20"
+    }
+  },
+  "ancoras": {
+    "44:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Gn 5,24; Hb 11,5. A Vulgata acrescenta “para excitar as nações à penitência”.",
+        "origem": "ia"
+      }
+    },
+    "44:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Alusão ao sacrifício de Isaac (Gn 22).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

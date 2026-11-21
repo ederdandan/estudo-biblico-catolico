@@ -3,7 +3,7 @@
 > Documento de continuidade. Se a conversa com o Claude for limpa (`/clear`), comece por:
 > **"Leia PLANO-ESTUDO.md e continue da próxima fase pendente."**
 
-Última atualização: 2026-11-21 (Lote 11 concluído por episódio: Jeremias 64, Ezequiel 51; total 1197)
+Última atualização: 2026-11-21 (Lote 12 concluído por episódio: Jó 37, Eclesiástico 102; total 1336)
 
 ---
 
@@ -119,7 +119,7 @@ Lote 4: Romanos ✅ 30 · 1 Coríntios ✅ 26 · Hebreus ✅ 17 · 2 Coríntios 
 - **Lote 9** Profetas maiores I — ✅ Isaías ISA 46 · Lamentações LAM 5 · Baruc BAR 5 (cap. 6 = Carta de Jeremias) · Daniel DAN 15 (Dn 3,24-90, 13 e 14 da Vulgata incluídos). **71 perícopes**
 - **Lote 10** Origens: Gênesis GEN · Êxodo EXO — ✅ refeito por episódio (a primeira versão, de 61 perícopes em blocos grossos, foi substituída): GEN 74 · EXO 56 = **130 perícopes**
 - **Lote 11** Profetas maiores II: Jeremias JER · Ezequiel EZE — ✅ por episódio: JER 64 · EZE 51 = **115 perícopes**
-- **Lote 12** Sapienciais longos: Jó JOB · Eclesiástico SIR — 🔄 Jó ✅ 37 (por episódio) · Eclesiástico ⏳
+- **Lote 12** Sapienciais longos: Jó JOB · Eclesiástico SIR — ✅ por episódio: JOB 37 · SIR 102 = **139 perícopes**
 - **Lote 13** História I: Josué JOS · Juízes JDG · 1 Samuel 1SA · 2 Samuel 2SA (~196) — ⏳
 - **Lote 14** História II: 1 Reis 1KI · 2 Reis 2KI · 1 Macabeus 1MA · 2 Macabeus 2MA (~214) — ⏳
 - **Lote 15** Lei: Levítico LEV · Números NUM · Deuteronômio DEU (genealogias, listas e leis em perícopes maiores) (~170) — ⏳
@@ -228,7 +228,7 @@ Aviso esperado do script: `JHN 6:47–51 sobrepõe 6:51`. A sobreposição já e
 1. **Mateus** (107/107, concluído). Fluxo usado: `PER=6 MAX=170 node scripts/estudo.mjs contexto MAT c.v` → JSON → `check MAT`. O check valida secao e exige que `contemplatio_foco` seja citação literal de Matos Soares.
    **Lucas** ✅ (concluído): `scripts/pericopes/LUK.txt` com 78 perícopes, índice gerado; a Catena de LUK já usa a numeração de Matos Soares. Fluxo: `PER=6 MAX=170 node scripts/estudo.mjs contexto LUK c.v` → JSON → `check LUK`. Feitas: 78/78.
    **João** ✅ (concluído): `scripts/pericopes/JHN.txt` com 48 perícopes em 6 seções; a Catena de JHN já usa a numeração de Matos Soares (Jo 6 tem 72 versículos: MS 6,52 = 6,51b moderno, e daí em diante MS = moderno + 1). Feitas: 48/48.
-   **NT em lotes (ver Fase 4): Lotes 1, 2, 3 e 4 ✅: NT completo (561 perícopes).** **AT: Lote 5 (Salmos) ✅ 171 · Lote 6 (Rute, Tobias, Judite, Ester) ✅ 40 · Lote 7 (profetas menores) ✅ 59 · Lote 8 (sapienciais curtos) ✅ 50 · Lote 9 (Isaías, Lamentações, Baruc, Daniel) ✅ 71 · Lote 10 (Gênesis, Êxodo) ✅ 130 · Lote 11 (Jeremias, Ezequiel) ✅ 115, por episódio. Próximo: Lote 12 (Jó, Eclesiástico); depois rever a granularidade dos Lotes 7 a 9.** Fora dos Evangelhos não há Catena: `padres` fica `[]` (decidido). Para cada livro: criar `scripts/pericopes/{ID}.txt`, rodar `index {ID}`, escrever os JSON e `check {ID}`.
+   **NT em lotes (ver Fase 4): Lotes 1, 2, 3 e 4 ✅: NT completo (561 perícopes).** **AT: Lote 5 (Salmos) ✅ 171 · Lote 6 (Rute, Tobias, Judite, Ester) ✅ 40 · Lote 7 (profetas menores) ✅ 59 · Lote 8 (sapienciais curtos) ✅ 50 · Lote 9 (Isaías, Lamentações, Baruc, Daniel) ✅ 71 · Lote 10 (Gênesis, Êxodo) ✅ 130 · Lote 11 (Jeremias, Ezequiel) ✅ 115 · Lote 12 (Jó, Eclesiástico) ✅ 139, por episódio. Próximo: Lote 13 (Josué, Juízes, 1–2 Samuel); depois rever a granularidade dos Lotes 7 a 9.** Fora dos Evangelhos não há Catena: `padres` fica `[]` (decidido). Para cada livro: criar `scripts/pericopes/{ID}.txt`, rodar `index {ID}`, escrever os JSON e `check {ID}`.
 2. Dica de fidelidade: os excertos de `contexto` com MAX vêm truncados; para sintetizar um excerto além do trecho visível, conferir o texto integral em `docs/data/catena/{ID}.json` (blocos[].trechos[i].texto).
    - **Atenção (Mateus)**: a Catena de MAT usa a numeração moderna, sem mapa. Divergências com Matos Soares: 5,4↔5,5 (mansos/choram invertidos) e o capítulo 17 a partir de ~17,15 (Vulgata une versículos). Ancorar cada Padre pelo conteúdo, não pelo número do bloco.
 3. No fim (depois do conteúdo): fase 1.2 (CIC) e 1.3 (Lecionário, campo `usos`).
