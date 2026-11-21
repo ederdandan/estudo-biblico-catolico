@@ -1,0 +1,57 @@
+{
+  "id": "JER.30.1",
+  "livro": "JER",
+  "titulo": "Restaurarei Jacó",
+  "secao": "O Livro da Consolação",
+  "referencia": "Jr 30,1-24",
+  "ini": {
+    "c": 30,
+    "v": 1
+  },
+  "fim": {
+    "c": 30,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "Vou cicatrizar a tua chaga: o tempo de angústia de Jacó",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Começa o Livro da Consolação. Deus manda Jeremias escrever num livro todas as palavras, porque virão dias em que mudará a sorte de Israel e de Judá e os fará voltar à terra. Primeiro, uma visão de terror: ouve-se pânico, e os homens seguram os rins como mulheres em parto. “Ai! Que grande dia, sem igual! É um tempo de tribulação para Jacó, mas do qual será livre.” Deus quebrará o jugo, e o povo servirá ao Senhor e a Davi, seu rei, que ele suscitará. “Tu, pois, servo meu Jacó, não temas… eu sou contigo para te salvar.” Deus castigará com equidade, mas não destruirá. Depois, a ferida: incurável é a tua chaga, não há remédio, os amantes te esqueceram; foi pelos teus muitos pecados que te feri. Mas, de repente, a virada: os que te devoram serão devorados; “Vou cicatrizar a tua chaga, curar-te das tuas feridas”, porque te chamaram “a repudiada, por quem ninguém se interessa”. Deus reconstruirá as tendas de Jacó, a cidade sobre a sua colina, o palácio; sairão cânticos e gritos de alegria. O chefe sairá do meio deles e se aproximará de Deus, porque Deus o fará vir. “Vós sereis o meu povo, e eu serei o vosso Deus.”",
+    "alegorico": "O chefe que “se aproximará de mim”, arriscando a vida, é figura de Cristo, Rei e Sacerdote, que entra no santuário com o próprio sangue (Hb 9,11-12). As dores de parto que precedem a libertação lembram as palavras de Jesus sobre o “princípio das dores” (Mt 24,8) e a mulher que esquece a dor quando nasce o filho (Jo 16,21).",
+    "moral": "Deus não nega a gravidade da ferida; ele a nomeia como incurável para os homens, e só então se apresenta como médico. A cura começa quando se reconhece que não há remédio humano. Ninguém é “a repudiada, por quem ninguém se interessa” aos olhos de Deus.",
+    "anagogico": "O “grande dia, sem igual” anuncia o dia do Senhor no fim dos tempos, de tribulação e de libertação. “No fim dos tempos entendereis estas coisas”: a consolação plena é escatológica."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Escreve num livro todas as palavras que te tenho dito.” “É um tempo de tribulação para Jacó, mas do qual será livre.” “Não temas… eu sou contigo para te salvar.” “Vou cicatrizar a tua chaga, curar-te das tuas feridas.” “Vós sereis o meu povo, e eu serei o vosso Deus.”",
+    "meditatio_perguntas": [
+      "Que ferida em mim parece incurável e preciso entregar ao médico divino?",
+      "Sinto-me às vezes “a repudiada, por quem ninguém se interessa”?",
+      "Creio que a tribulação presente pode ser dor de parto?"
+    ],
+    "oratio_guia": "Senhor, que conheces as minhas feridas incuráveis, cicatriza a minha chaga. No tempo da angústia, diz-me: “não temas, eu sou contigo”, e faz-me ouvir de novo os cânticos de louvor. Amém.",
+    "contemplatio_foco": {
+      "texto": "Vou cicatrizar a tua chaga, curar-te das tuas feridas, diz o Senhor",
+      "ref": "Jr 30,17"
+    }
+  },
+  "ancoras": {
+    "30:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os capítulos 30–33 são chamados “Livro da Consolação”, por reunirem os oráculos de esperança de Jeremias.",
+        "origem": "ia"
+      }
+    },
+    "30:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Davi, seu rei” designa o Messias da casa de Davi (cf. Ez 34,23-24; Os 3,5).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "JER.20.7",
+  "livro": "JER",
+  "titulo": "Seduziste-me, Senhor",
+  "secao": "Sinais e confissões",
+  "referencia": "Jr 20,7-18",
+  "ini": {
+    "c": 20,
+    "v": 7
+  },
+  "fim": {
+    "c": 20,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Seduziste-me, Senhor, e eu me deixei seduzir",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Depois da humilhação do tronco, Jeremias faz a sua confissão mais pessoal: “Tu me seduziste, Senhor, e eu fui seduzido; foste mais forte do que eu e pudeste mais.” Tornou-se objeto de escárnio todo o dia; cada vez que fala, deve gritar “violência e ruína”, e a palavra do Senhor lhe vale opróbrio. Decidiu não pensar mais em Deus nem falar em seu nome, “porém ardia no meu coração como que um fogo abrasador, encerrado nos meus ossos; esforçava-me por o conter, mas não podia”. Ouve os sussurros dos que o espreitam, até os amigos: “Terror de todos os lados! Denunciai, vamos denunciá-lo!” Mas a confiança renasce: “o Senhor está comigo como um poderoso herói”; os perseguidores cairão. Confia a sua causa àquele que prova o justo e sonda os rins e o coração, e irrompe em louvor: “Cantai ao Senhor… porque livrou a alma do pobre da mão dos malvados.” Logo em seguida, porém, cai no abismo: “Maldito seja o dia em que nasci”; maldito quem anunciou a meu pai o nascimento de um filho; por que não morri no ventre, para que minha mãe fosse o meu sepulcro? “Por que saí eu do seio materno, para ver o trabalho e a dor?” A confissão termina sem resolução, entre o louvor e o desespero.",
+    "alegorico": "O fogo nos ossos é o Espírito que impele o profeta e, mais tarde, os apóstolos: “não podemos deixar de falar” (At 4,20). A angústia de Jeremias antecipa a de Cristo no Getsêmani: “A minha alma está triste até à morte” (Mt 26,38), e o abandono da cruz, onde o louvor e o grito coexistem.",
+    "moral": "A vocação pode ser vivida como sedução: Deus atrai, a pessoa se entrega, e depois vem o custo. A fé madura não esconde os altos e baixos; reza-os. O fogo da palavra não se apaga mesmo quando se quer desistir: é sinal de que a vocação é de Deus. Mesmo na noite escura, convém confiar a causa a Deus e louvá-lo.",
+    "anagogico": "Jeremias não encontra resposta nesta vida para a sua dor; ela será dada na ressurreição de Cristo, que dá sentido ao sofrimento do justo. O Senhor, “poderoso herói”, dará a vitória final."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Tu me seduziste, Senhor, e eu fui seduzido; foste mais forte do que eu e pudeste mais.” “Ardia no meu coração como que um fogo abrasador, encerrado nos meus ossos.” “O Senhor está comigo como um poderoso herói.” “Livrou a alma do pobre da mão dos malvados.” “Maldito seja o dia em que nasci.”",
+    "meditatio_perguntas": [
+      "Deixei-me “seduzir” por Deus? Como vivo hoje o custo dessa entrega?",
+      "Que fogo de Deus arde em mim e não consigo conter?",
+      "Rezo também as minhas noites escuras, ou só os momentos de consolo?"
+    ],
+    "oratio_guia": "Senhor, tu me seduziste e eu me deixei seduzir. Quando a tua palavra me custar escárnio, mantém aceso o fogo nos meus ossos e sê comigo como poderoso herói. Recebe os meus louvores e também as minhas noites. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tu me seduziste, Senhor, e eu fui seduzido; foste mais forte do que eu",
+      "ref": "Jr 20,7"
+    }
+  },
+  "ancoras": {
+    "20:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O verbo hebraico (patah) significa seduzir, persuadir, até enganar: a vocação é descrita como uma sedução amorosa à qual o profeta cedeu.",
+        "origem": "ia"
+      }
+    },
+    "20:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jó retoma as mesmas maldições contra o dia do nascimento (Jó 3,1-12).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

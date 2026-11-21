@@ -1,0 +1,57 @@
+{
+  "id": "JER.9.1",
+  "livro": "JER",
+  "titulo": "Quem dará água à minha cabeça?",
+  "secao": "O Templo e a aliança",
+  "referencia": "Jr 9,1-22",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "O pranto do profeta sobre a filha do seu povo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jeremias deseja ter uma fonte de lágrimas para chorar dia e noite os mortos do seu povo; e ao mesmo tempo deseja fugir para uma pousada no deserto, longe de uma gente adúltera. A língua é um arco que dispara mentiras; ninguém pode confiar no amigo nem no irmão, porque o irmão quer suplantar o irmão. Enganam-se uns aos outros, cansam-se de fazer o mal e recusam conhecer o Senhor. Por isso Deus os provará no crisol: a língua deles é seta que fere, falam de paz e armam ciladas. O profeta lamenta sobre os montes e as pastagens incendiadas, onde já não se ouve o rebanho; Jerusalém será montão de pedras e covil de chacais. Quem é sábio para entender a causa? O Senhor responde: abandonaram a minha lei, seguiram a obstinação do coração e os ídolos dos pais; por isso comerão absinto, beberão água envenenada e serão dispersos entre as nações. Então Deus manda chamar as carpideiras mais hábeis para entoarem lamentações; as mulheres devem ensinar às filhas cantos fúnebres. “A morte subiu pelas nossas janelas”, entrou nas casas e levou crianças e jovens; os cadáveres caem como feixes atrás do segador, sem ninguém que os recolha.",
+    "alegorico": "As lágrimas de Jeremias anunciam as de Cristo sobre Jerusalém: “Se também tu conhecesses…” (Lc 19,41-44). A tradição viu em Jeremias, o profeta das lágrimas, uma figura do Servo sofredor. As mulheres que choram lembram as filhas de Jerusalém às quais Jesus diz: “Chorai por vós e por vossos filhos” (Lc 23,28).",
+    "moral": "O profeta oscila entre a compaixão e o desejo de fugir: é a tensão de quem ama uma comunidade ferida. A mentira destrói a confiança social até que ninguém confia no irmão. A língua pode ser arco e seta (Tg 3,5-8). Há também uma sabedoria das lágrimas: aprender a chorar o mal, em vez de se acostumar a ele.",
+    "anagogico": "A morte que sobe pelas janelas é o último inimigo, que será vencido (1Cor 15,26). Deus enxugará toda lágrima dos olhos (Ap 21,4): o pranto do profeta não é a palavra final, mas a dor de quem espera."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quem mudará em nascente a minha cabeça, em fonte de lágrimas os meus olhos?” “Servem-se da sua língua como dum arco para atirar mentiras.” “Vou prová-los no crisol.” “Quem é o homem sábio que entenda isto?” “A morte subiu pelas nossas janelas.”",
+    "meditatio_perguntas": [
+      "Sou capaz de chorar diante de Deus pelos males do meu povo?",
+      "Minha língua constrói confiança ou fere como seta?",
+      "Diante de uma comunidade ferida, fico ou desejo fugir?"
+    ],
+    "oratio_guia": "Senhor, dá-me o dom das lágrimas, que não se acostuma ao mal. Guarda a minha língua da mentira e faz de mim alguém em quem os irmãos possam confiar. Amém.",
+    "contemplatio_foco": {
+      "texto": "Quem mudará em nascente a minha cabeça, em fonte de lágrimas os meus olhos, para eu chorar de dia e de noite os mortos da filha do meu povo?",
+      "ref": "Jr 9,1"
+    }
+  },
+  "ancoras": {
+    "9:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na Bíblia hebraica este versículo é 8,23; a Vulgata, seguida por Matos Soares, o põe no começo do cap. 9.",
+        "origem": "ia"
+      }
+    },
+    "9:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As carpideiras eram mulheres que se pagava para lamentar nos funerais; o profeta convoca-as para o funeral da nação.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "JER.15.10",
+  "livro": "JER",
+  "titulo": "Achei as tuas palavras e comi-as",
+  "secao": "Sinais e confissões",
+  "referencia": "Jr 15,10-21",
+  "ini": {
+    "c": 15,
+    "v": 10
+  },
+  "fim": {
+    "c": 15,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "As tuas palavras eram a alegria do meu coração",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jeremias abre o coração numa das suas confissões: “Ai de mim, minha mãe! Por que me geraste para ser um homem de disputa, um homem de discórdia em toda a terra?” Não emprestou nem tomou emprestado, causas comuns de inimizade, e todos o amaldiçoam. O Senhor promete ampará-lo e fazer o inimigo vir suplicar-lhe no tempo da aflição; Judá não resistirá ao ferro do norte e será saqueado. O profeta prossegue: “Tu o sabes, Senhor! Lembra-te de mim… sabe que por amor de ti tenho sofrido afrontas.” E recorda o início da vocação: “Quando se me apresentavam as tuas palavras, eu devorava-as; eram para mim o prazer e a alegria do meu coração, porque o teu nome foi invocado sobre mim.” Por causa dessa palavra não se sentou com os que zombam; vivia solitário sob a mão de Deus. Então vem a queixa mais ousada: por que a minha dor é perpétua? “Serás para mim como um riacho enganador, de águas em que se não pode contar?” Deus responde chamando-o à conversão: “Se te converteres, receber-te-ei de novo… se apartares o precioso do vil, serás como a minha boca.” São eles que devem voltar-se para ti, não tu para eles. E renova a promessa da vocação: muro de bronze, “porque sou contigo, para te salvar e te livrar”.",
+    "alegorico": "Comer a palavra de Deus é imagem que reaparece em Ezequiel (Ez 3,1-3) e no Apocalipse (Ap 10,9-10), e que se cumpre plenamente na Eucaristia, onde o Verbo se faz alimento. O profeta homem de contradição prefigura Cristo, “sinal de contradição” (Lc 2,34).",
+    "moral": "A vida com Deus tem momentos de alegria e de escuridão, e o profeta diz ambos com franqueza. Deus não lhe dá apenas consolo; pede-lhe também conversão: separar o precioso do vil, purificar as próprias palavras. O servo não deve adaptar-se ao povo; é o povo que deve voltar-se para Deus. A solidão por fidelidade é dolorosa, mas não é abandono.",
+    "anagogico": "A alegria de devorar a palavra é antecipação do banquete eterno, onde a Palavra será contemplada sem véu. O “sou contigo” acompanha o servo até à vitória final sobre os violentos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ai de mim, minha mãe! Por que me geraste para ser um homem de disputa?” “Sabe que por amor de ti tenho sofrido afrontas.” “Quando se me apresentavam as tuas palavras, eu devorava-as; eram para mim o prazer e a alegria do meu coração.” “Se apartares o precioso do vil, serás como a minha boca.” “Sou contigo, para te salvar e te livrar.”",
+    "meditatio_perguntas": [
+      "A Palavra de Deus é para mim alimento e alegria, ou obrigação?",
+      "Que “vil” preciso separar do “precioso” nas minhas palavras?",
+      "Tenho coragem de dizer a Deus as minhas queixas, e de ouvir a sua resposta?"
+    ],
+    "oratio_guia": "Senhor, quando a tua palavra chegou até mim eu a devorei, e foi a alegria do meu coração. Nos dias escuros, não sejas para mim um riacho que engana: converte-me, purifica as minhas palavras e faz de mim a tua boca. Amém.",
+    "contemplatio_foco": {
+      "texto": "Quando se me apresentavam as tuas palavras, eu devorava-as; eram para mim o prazer e a alegria do meu coração",
+      "ref": "Jr 15,16"
+    }
+  },
+  "ancoras": {
+    "15:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “riacho enganador” é o uádi que seca no verão, decepcionando o viajante que contava com a sua água (cf. Jó 6,15-20).",
+        "origem": "ia"
+      }
+    },
+    "15:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Converter-se” (shub) é a mesma palavra que Jeremias dirige ao povo: o profeta também precisa voltar.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

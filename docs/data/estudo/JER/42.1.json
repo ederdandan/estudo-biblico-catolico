@@ -1,0 +1,49 @@
+{
+  "id": "JER.42.1",
+  "livro": "JER",
+  "titulo": "A descida ao Egito",
+  "secao": "Depois da queda",
+  "referencia": "Jr 42,1–43,7",
+  "ini": {
+    "c": 42,
+    "v": 1
+  },
+  "fim": {
+    "c": 43,
+    "v": 7
+  },
+  "liturgia": {
+    "tema_central": "Pedir a palavra de Deus e recusá-la",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os chefes e todo o povo, do menor ao maior, vêm a Jeremias: roga por nós ao Senhor teu Deus, por este resto, porque de muitos ficamos poucos; que ele nos mostre o caminho. Jeremias promete rezar e lhes transmitir tudo, sem esconder nada. Eles se comprometem com juramento: seja o Senhor testemunha contra nós se não fizermos tudo o que ele mandar, “seja coisa favorável ou adversa, obedeceremos”. Depois de dez dias, vem a palavra: se permanecerdes nesta terra, “eu vos edificarei e não vos destruirei: plantar-vos-ei e não vos arrancarei”; não temais o rei de Babilônia, “porque eu sou convosco”. Mas, se disserdes: iremos para o Egito, onde não veremos guerra nem passaremos fome, então a espada e a fome que temeis vos alcançarão lá. Jeremias percebe que já estão decididos e lhes diz: enganastes as vossas almas, pedindo-me que consultasse a Deus. Então Azarias, Joanã e “todos os homens soberbos” respondem: “Estás a mentir”; é Baruc que te incita contra nós. Recusam ouvir, tomam todo o resto, inclusive Jeremias e Baruc, e descem ao Egito, até Táfnis.",
+    "alegorico": "O caminho de volta ao Egito é o anti-êxodo: o povo desfaz a obra da libertação. É a tentação de voltar às “panelas de carne” (Ex 16,3). Cristo, ao contrário, desce ao Egito para refazer o êxodo e voltar: “do Egito chamei o meu Filho” (Mt 2,15).",
+    "moral": "É possível pedir conselho a Deus já com a decisão tomada, esperando só uma confirmação. Quando a resposta não agrada, acusa-se o mensageiro. O juramento de obedecer “seja favorável ou adverso” é fácil de pronunciar e difícil de cumprir. A obediência verdadeira aceita a resposta de Deus mesmo quando contraria o nosso medo.",
+    "anagogico": "A promessa “plantar-vos-ei e não vos arrancarei” continua oferecida a quem permanece onde Deus o põe. Fugir para o “Egito” da segurança é perder a terra da promessa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Que o Senhor teu Deus nos mostre o caminho que devemos seguir.” “Seja coisa favorável ou adversa, obedeceremos.” “Eu vos edificarei e não vos destruirei.” “Eu sou convosco, para vos pôr a salvo.” “Enganastes as vossas almas.” “Estás a mentir.”",
+    "meditatio_perguntas": [
+      "Peço a vontade de Deus já tendo decidido o que vou fazer?",
+      "Que “Egito” de segurança me atrai contra a palavra de Deus?",
+      "Como reajo quando a resposta de Deus contraria o meu medo?"
+    ],
+    "oratio_guia": "Senhor, mostra-me o caminho que devo seguir, e dá-me um coração disposto a obedecer, seja a tua palavra favorável ou adversa. Livra-me de enganar a minha alma e planta-me onde tu queres. Amém.",
+    "contemplatio_foco": {
+      "texto": "Seja coisa favorável ou adversa, obedeceremos à voz do Senhor nosso Deus",
+      "ref": "Jr 42,6"
+    }
+  },
+  "ancoras": {
+    "43:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Táfnis (Dafne), no delta oriental do Nilo, era cidade fronteiriça com guarnição e palácio do faraó.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "JER.31.1",
+  "livro": "JER",
+  "titulo": "Com amor eterno te amei; Raquel chora",
+  "secao": "O Livro da Consolação",
+  "referencia": "Jr 31,1-22",
+  "ini": {
+    "c": 31,
+    "v": 1
+  },
+  "fim": {
+    "c": 31,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Com amor eterno te amei; Raquel chora os seus filhos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor anuncia que será o Deus de todas as famílias de Israel. O povo que escapou da espada achou graça no deserto. “Eu amei-te com amor eterno; por isso, mantive o meu favor para contigo.” A virgem de Israel será reedificada, sairá de novo com tamborins e danças, plantará vinhas nos montes de Samaria; as sentinelas de Efraim gritarão: subamos a Sião. Deus manda alegrar-se: “O Senhor salvou o seu povo, as relíquias de Israel.” Ele os trará do norte e dos confins da terra: cegos e coxos, grávidas e parturientes, uma grande multidão. “Virão chorando… conduzi-los-ei às águas correntes, por caminho direito… porque me tornei pai de Israel, e Efraim é o meu primogênito.” Quem os dispersou os reunirá e guardará como pastor. Correrão aos bens do Senhor, “a sua alma será como um jardim de regadio”; Deus converterá o pranto em alegria. Então se ouve em Ramá o choro de Raquel, a mãe das tribos do norte, que chora os filhos e não quer ser consolada. Deus lhe diz: cessa o pranto; eles voltarão da terra do inimigo; há esperança para o teu futuro. Deus ouve o gemido de Efraim: “Converte-me, e converter-me-ei, porque tu és o Senhor meu Deus.” E responde com ternura: “Efraim não é para mim… um filho da minha ternura?… se comoveram as minhas entranhas por ele.” Volta, virgem de Israel, “porque o Senhor criou uma coisa nova sobre a terra: uma mulher cercará um homem.”",
+    "alegorico": "Mateus aplica o pranto de Raquel ao massacre dos inocentes em Belém (Mt 2,17-18): as mães choram, mas o Menino salvo é a esperança do futuro. A “coisa nova” em que a mulher cerca o homem foi lida pelos Padres (São Jerônimo) como a Virgem que traz no seio o Homem perfeito, Cristo. O Pai que se comove pelo filho Efraim antecipa o pai do filho pródigo (Lc 15,20).",
+    "moral": "O amor de Deus é eterno e precede todo mérito. A conversão é dom: “converte-me, e converter-me-ei”; e Deus responde com entranhas de mãe. O texto também acolhe o luto: Deus não proíbe Raquel de chorar, mas lhe dá uma esperança. Os fracos — cegos, coxos, grávidas — estão no centro do povo que volta.",
+    "anagogico": "A volta a Sião com cânticos, a alma como jardim regado e o pranto convertido em alegria descrevem a pátria celeste, onde Deus enxugará as lágrimas e os filhos perdidos serão reencontrados."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu amei-te com amor eterno; por isso mantive o meu favor para contigo.” “Virão chorando; no meio de consolações os tornarei a trazer.” “É Raquel, que chora os seus filhos, e não quer ser consolada.” “Converte-me, e converter-me-ei, porque tu és o Senhor meu Deus.” “Se comoveram as minhas entranhas por ele.”",
+    "meditatio_perguntas": [
+      "Creio que sou amado por Deus com amor eterno?",
+      "Que pranto meu Deus quer acolher e transformar em esperança?",
+      "Peço a Deus: “converte-me, e converter-me-ei”?"
+    ],
+    "oratio_guia": "Senhor, que me amaste com amor eterno, converte-me, e eu me converterei. Consola os que choram os seus filhos como Raquel e reconduz o teu povo às águas correntes, por caminho direito. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu amei-te (continua o Senhor) com amor eterno; por isso, mantive o meu favor para contigo",
+      "ref": "Jr 31,3"
+    }
+  },
+  "ancoras": {
+    "31:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ramá, ao norte de Jerusalém, ficava perto do túmulo de Raquel (1Sm 10,2) e foi ponto de reunião dos deportados em 587 a.C. (Jr 40,1).",
+        "origem": "ia"
+      }
+    },
+    "31:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Frase obscura no hebraico. São Jerônimo, seguido por muitos Padres, viu nela a concepção virginal: a mulher que “cerca” (traz em si) o varão perfeito.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

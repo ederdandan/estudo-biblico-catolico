@@ -1,0 +1,57 @@
+{
+  "id": "JER.32.1",
+  "livro": "JER",
+  "titulo": "O campo de Anatot",
+  "secao": "O Livro da Consolação",
+  "referencia": "Jr 32,1-44",
+  "ini": {
+    "c": 32,
+    "v": 1
+  },
+  "fim": {
+    "c": 32,
+    "v": 44
+  },
+  "liturgia": {
+    "tema_central": "Compra o campo: nada é impossível a Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No décimo ano de Sedecias (587 a.C.), Jerusalém está cercada pelos babilônios e Jeremias está preso no átrio da guarda, por ter anunciado a queda da cidade e o exílio do rei. Deus lhe avisa que o primo Hanamel virá pedir-lhe que compre o seu campo em Anatot, pelo direito de resgate do parente mais próximo. Hanamel vem, e Jeremias reconhece que é palavra do Senhor. Compra o campo por dezessete siclos de prata, com todas as formalidades: escritura selada, cópia aberta, testemunhas, pesagem da prata. Entrega os documentos a Baruc, diante de todos, e manda guardá-los num vaso de barro, para durarem muito tempo, porque “ainda se hão-de comprar casas, campos e vinhas, nesta terra”. Depois reza, perplexo: “Ah! Senhor Deus: Foste tu que fizeste o céu e a terra… Nada te é impossível”; recorda o Êxodo, a terra dada e a desobediência; agora as rampas estão levantadas contra a cidade, e tu me mandas comprar um campo? Deus responde: “Eu sou o Senhor, o Deus de toda a carne; haverá pois coisa alguma que me seja impossível?” A cidade será tomada e incendiada por causa da idolatria; mas Deus reunirá o seu povo, lhe dará “um mesmo coração e um só caminho”, fará com ele “uma aliança eterna” e terá a alegria de lhe fazer bem “com todo o meu coração e com toda a minha alma”. De novo se comprarão campos na terra.",
+    "alegorico": "O direito de resgate do parente (goel) é figura de Cristo, nosso Redentor, que se fez nosso parente pela Encarnação para resgatar a herança perdida. A pergunta “haverá coisa impossível?” ecoa na Anunciação: “a Deus nada é impossível” (Lc 1,37), quando o Senhor começa a nova criação.",
+    "moral": "Comprar um campo numa terra prestes a ser conquistada é um ato de esperança contra toda evidência. A fé se traduz em gestos concretos e “com escritura”: investir no futuro de Deus quando tudo parece perdido. A oração honesta pode conter perplexidade; a resposta de Deus é a sua onipotência e a sua alegria em fazer o bem.",
+    "anagogico": "A “aliança eterna” e a alegria de Deus em fazer bem ao seu povo, “com todo o meu coração e com toda a minha alma”, mostram o destino final: habitar em segurança na terra que Deus mesmo restaura."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Compra o meu campo, que está em Anatoth.” “Reconheci que era palavra do Senhor.” “Ainda se hão-de comprar casas, campos e vinhas, nesta terra.” “Nada te é impossível.” “Eu sou o Senhor, o Deus de toda a carne; haverá pois coisa alguma que me seja impossível?” “A minha alegria será fazer-lhes bem.”",
+    "meditatio_perguntas": [
+      "Que “campo” Deus me pede para comprar, como ato de esperança, quando tudo parece perdido?",
+      "Reconheço a palavra de Deus nos pedidos concretos que me chegam por outros?",
+      "Creio que Deus se alegra em me fazer bem?"
+    ],
+    "oratio_guia": "Senhor, Deus de toda a carne, nada te é impossível. Quando a cidade da minha vida parecer cercada, dá-me fé para comprar o campo da esperança. Alegra-te em me fazer bem e dá-me um só coração para te temer sempre. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu sou o Senhor, o Deus de toda a carne; haverá pois coisa alguma que me seja impossível?",
+      "ref": "Jr 32,27"
+    }
+  },
+  "ancoras": {
+    "32:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Lei do resgate (Lv 25,25): o parente próximo devia comprar a terra do familiar empobrecido, para que não saísse da família (cf. Rt 4).",
+        "origem": "ia"
+      }
+    },
+    "32:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os contratos eram feitos em duas cópias: uma enrolada e selada, outra aberta para consulta. Guardá-los em jarros de barro os preservava, como os manuscritos de Qumran.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

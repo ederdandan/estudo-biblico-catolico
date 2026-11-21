@@ -1,0 +1,49 @@
+{
+  "id": "JER.40.1",
+  "livro": "JER",
+  "titulo": "Godolias em Masfa",
+  "secao": "Depois da queda",
+  "referencia": "Jr 40,1-16",
+  "ini": {
+    "c": 40,
+    "v": 1
+  },
+  "fim": {
+    "c": 40,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "Godolias em Masfa: o resto recomeça",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jeremias, acorrentado entre os cativos em Ramá, é libertado por Nabuzardã. O general pagão lhe diz palavras surpreendentes: o Senhor teu Deus anunciou esta calamidade e a cumpriu, porque pecastes e não ouvistes a sua voz. Eis que te tiro as correntes: se quiseres vir a Babilônia, cuidarei de ti; se preferires, fica; toda a terra está diante de ti. Pode morar com Godolias, a quem o rei constituiu governador. Dá-lhe provisões e um presente. Jeremias escolhe ficar com o povo pobre em Masfa. Os chefes militares dispersos pelo campo vêm a Godolias: Ismael, Joanã, Jônatas e outros. Godolias jura-lhes: não temais servir os caldeus; habitai na terra e passareis bem; fazei a colheita de vinho, frutos e azeite. Os judeus refugiados em Moab, Amon e Edom voltam e fazem uma colheita abundantíssima. Mas Joanã avisa Godolias: Baalis, rei de Amon, mandou Ismael para te matar; e oferece-se para matar Ismael em segredo. Godolias, de boa-fé, não acredita: não faças isso, o que dizes é falso.",
+    "alegorico": "O pagão que reconhece a mão de Deus no castigo lembra os gentios que confessam o Deus de Israel. Godolias, que governa o resto pobre e lhe devolve a colheita, é imagem breve de um tempo de paz depois do juízo, uma primeira semente do que Deus prometera: “plantar-vos-ei”.",
+    "moral": "Jeremias, podendo ter conforto em Babilônia, escolhe ficar com os pobres na terra devastada: é a solidariedade do pastor com o rebanho ferido. Godolias é homem de paz e confiança, mas a sua ingenuidade será fatal; a bondade precisa também da prudência (Mt 10,16).",
+    "anagogico": "A colheita abundante depois da catástrofe é sinal de que Deus pode fazer florescer a vida das ruínas. O resto fiel é a semente do futuro."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor teu Deus anunciou esta calamidade contra este lugar.” “Eis que te tirei as cadeias que tinhas nas tuas mãos.” “Habitou com ele no meio do povo que tinha ficado no país.” “Fazei a colheita do vinho, dos frutos e do azeite.” “Colheram vinho e trigo em grandíssima quantidade.”",
+    "meditatio_perguntas": [
+      "Escolho ficar com os pobres ou buscar o meu conforto?",
+      "Minha bondade é acompanhada de prudência?",
+      "Creio que Deus pode dar colheita abundante depois de uma ruína?"
+    ],
+    "oratio_guia": "Senhor, que tiraste as cadeias das mãos do teu profeta, dá-me escolher o lugar ao lado dos pobres. Faz florescer a minha vida depois das ruínas e une em mim a bondade e a prudência. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eis aí está toda a terra à tua vista; para o lugar que escolheres, para onde quiseres ir, vai",
+      "ref": "Jr 40,4"
+    }
+  },
+  "ancoras": {
+    "40:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Masfa (Mispá), a cerca de 13 km ao norte de Jerusalém, tornou-se a sede administrativa de Judá depois da destruição da capital.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

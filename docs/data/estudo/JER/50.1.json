@@ -1,0 +1,65 @@
+{
+  "id": "JER.50.1",
+  "livro": "JER",
+  "titulo": "Contra Babilônia: saí do meio dela",
+  "secao": "Oráculos contra as nações",
+  "referencia": "Jr 50,1-46",
+  "ini": {
+    "c": 50,
+    "v": 1
+  },
+  "fim": {
+    "c": 50,
+    "v": 46
+  },
+  "liturgia": {
+    "tema_central": "Babilônia caiu; vinde, unamo-nos ao Senhor com aliança eterna",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O último grande oráculo é contra Babilônia, o instrumento de Deus que se tornou soberbo. Anunciai entre as nações: Babilônia foi tomada, Bel está confundido, Marduc despedaçado, os ídolos derrubados; um povo do norte a reduzirá a deserto. Naqueles dias, os filhos de Israel e de Judá virão juntos, “caminharão chorando, à procura do Senhor seu Deus”, perguntarão pelo caminho de Sião e dirão: “Vinde, liguemo-nos ao Senhor com uma eterna aliança.” O povo era um rebanho de ovelhas perdidas, extraviadas pelos pastores; quem as encontrava as devorava, dizendo: não somos culpados, elas pecaram contra o Senhor. Agora a ordem é: fugi do meio de Babilônia, sede como os bodes que vão à frente do rebanho. Uma coalizão de nações do norte atacará; a mãe Babilônia será a última das nações, um deserto. Israel é ovelha perseguida por leões: a Assíria a devorou, Nabucodonosor lhe quebrou os ossos; Deus castigará Babilônia e reconduzirá Israel às pastagens do Carmelo e de Basã. “Buscar-se-á a iniquidade de Israel, e não se achará… porque eu perdoarei aos que tiver reservado.” O “martelo de toda a terra” foi quebrado; Deus abriu o seu arsenal. Ressoa a vingança do Templo. “Aqui estou contra ti, ó soberba.” O redentor de Israel é forte: defenderá a sua causa. Espada contra os caldeus, os sábios, os adivinhos, os valentes, os tesouros, as águas: é terra de ídolos. Será como Sodoma.",
+    "alegorico": "No Apocalipse, Babilônia é o nome da cidade do mundo que se opõe a Deus, e o grito “Caiu, caiu Babilônia” (Ap 18,2) retoma esta profecia; também o chamado “Sai dela, povo meu” (Ap 18,4). O “vingador forte” (goel) é Cristo Redentor, e a aliança eterna é a nova aliança no seu sangue.",
+    "moral": "A soberba é o pecado de Babilônia: usada por Deus como martelo, julgou-se dona da história. O povo que volta “chorando, à procura do Senhor” mostra o caminho da conversão: lágrimas, busca, e o desejo de uma aliança que não se esqueça. E Deus promete um perdão tão completo que o pecado, buscado, não se encontra.",
+    "anagogico": "A queda de Babilônia anuncia a vitória final de Deus sobre todo poder do mal. Sair de Babilônia e caminhar para Sião é o percurso de toda a vida cristã, até a Jerusalém celeste."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Caminharão chorando, à procura do Senhor seu Deus.” “Perguntarão qual é o caminho que leva a Sião.” “Vinde, liguemo-nos ao Senhor com uma eterna aliança.” “O meu povo tornou-se um rebanho de ovelhas perdidas.” “Buscar-se-á a iniquidade de Israel, e não se achará.” “O vingador deles é forte.”",
+    "meditatio_perguntas": [
+      "De que “Babilônia” preciso sair hoje?",
+      "Procuro o Senhor “chorando”, com sinceridade?",
+      "Creio num perdão tão grande que o meu pecado, procurado, não se encontra mais?"
+    ],
+    "oratio_guia": "Senhor, meu Redentor forte, faz-me sair de Babilônia e procurar-te com lágrimas no caminho de Sião. Une-me a ti com aliança eterna e perdoa o meu pecado de tal modo que não se encontre mais. Amém.",
+    "contemplatio_foco": {
+      "texto": "Vinde, liguemo-nos ao Senhor com uma eterna aliança, a qual jamais se apagará da memória",
+      "ref": "Jr 50,5"
+    }
+  },
+  "ancoras": {
+    "50:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Bel (“Senhor”) é título de Marduc, deus principal de Babilônia.",
+        "origem": "ia"
+      }
+    },
+    "50:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Merataim (“dupla rebelião”) e Pecod (“castigo”) são jogos de palavras com nomes de regiões da Babilônia.",
+        "origem": "ia"
+      }
+    },
+    "50:34": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Vingador” traduz goel, o parente resgatador; título de Deus também em Is 41,14; 43,14.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

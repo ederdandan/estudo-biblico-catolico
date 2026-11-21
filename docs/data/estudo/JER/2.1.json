@@ -1,0 +1,57 @@
+{
+  "id": "JER.2.1",
+  "livro": "JER",
+  "titulo": "A fonte de água viva e as cisternas rotas",
+  "secao": "Vocação e primeiros oráculos",
+  "referencia": "Jr 2,1-13",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "O meu povo abandonou a fonte de água viva",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor manda Jeremias gritar aos ouvidos de Jerusalém. Recorda o tempo do deserto como o noivado de Israel: “Recordo-me da fidelidade da tua mocidade, do amor dos teus desposórios, quando me seguias no deserto.” Israel era consagrado, primícias do Senhor, e quem o tocava era punido. Depois vem o processo: que injustiça acharam em mim vossos pais para irem atrás da vaidade e se tornarem vãos? Ninguém perguntou “Onde está o Senhor?”, que os tirou do Egito e os conduziu por uma terra de sede e de morte. Entraram numa terra de vergéis e a profanaram. Os sacerdotes não buscaram o Senhor, os mestres da lei não o conheceram, os pastores prevaricaram, os profetas falaram em nome de Baal. O Senhor convida a olhar o mundo, das ilhas de Cetim até Cedar: algum povo trocou os seus deuses, que nem são deuses? Mas Israel trocou a sua glória pelo que nada vale. Os céus são chamados a pasmar, porque o povo cometeu dois males: “abandonaram-me a mim, que sou fonte de água viva, e cavaram para si cisternas, cisternas rotas, que não podem reter as águas.”",
+    "alegorico": "Cristo se apresenta como a fonte que Jeremias anuncia: “Se alguém tem sede, venha a mim e beba” (Jo 7,37); à samaritana oferece a água viva que se torna nele fonte para a vida eterna. As cisternas rotas são todas as tentativas humanas de salvação sem Deus. O noivado do deserto prefigura a aliança nupcial entre Cristo e a Igreja.",
+    "moral": "O pecado tem dois movimentos: afastar-se de Deus e substituí-lo por algo que não sacia. Cava-se com esforço uma cisterna que não retém nada, enquanto a fonte corre de graça. Vale examinar onde busco a minha “glória” e quais são as cisternas rotas em que gasto a vida. A recordação do primeiro amor é caminho de conversão.",
+    "anagogico": "No fim, o Cordeiro conduzirá os seus às fontes das águas da vida (Ap 7,17), e quem tiver sede beberá de graça da fonte da água viva (Ap 21,6). A sede que as cisternas não matam é sinal de que fomos feitos para Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Recordo-me da fidelidade da tua mocidade, do amor dos teus desposórios.” “Onde está o Senhor?” “O meu povo trocou a sua glória pelo que de nada vale.” “Pasmai, céus, sobre isto.” “Abandonaram-me a mim, que sou fonte de água viva, e cavaram para si cisternas, cisternas rotas.”",
+    "meditatio_perguntas": [
+      "Lembro-me do “amor dos meus desposórios”, do primeiro fervor com Deus?",
+      "Quais são as cisternas rotas em que busco o que só Deus dá?",
+      "Em que momentos deixei de perguntar: “Onde está o Senhor?”"
+    ],
+    "oratio_guia": "Senhor, fonte de água viva, perdoa-me as cisternas rotas que cavei longe de ti. Faz-me recordar o amor do primeiro chamado e dá-me sede só de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "abandonaram-me a mim, que sou fonte de água viva",
+      "ref": "Jr 2,13"
+    }
+  },
+  "ancoras": {
+    "2:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cetim (Chipre e as ilhas do ocidente) e Cedar (tribos árabes do oriente): o profeta convida a percorrer o mundo de ponta a ponta.",
+        "origem": "ia"
+      }
+    },
+    "2:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Água viva” é água corrente de fonte, contraposta à água parada e escassa das cisternas cavadas na rocha.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

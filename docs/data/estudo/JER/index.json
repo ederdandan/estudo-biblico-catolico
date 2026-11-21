@@ -1,0 +1,913 @@
+{
+ "livro": "JER",
+ "secoes": [
+  "Vocação e primeiros oráculos",
+  "O Templo e a aliança",
+  "Sinais e confissões",
+  "Reis e profetas",
+  "Jeremias diante do povo",
+  "O Livro da Consolação",
+  "O cerco e a queda",
+  "Depois da queda",
+  "Oráculos contra as nações",
+  "Apêndice histórico"
+ ],
+ "pericopes": [
+  {
+   "id": "JER.1.1",
+   "titulo": "A vocação de Jeremias",
+   "secao": "Vocação e primeiros oráculos",
+   "referencia": "Jr 1,1-19",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 19
+   }
+  },
+  {
+   "id": "JER.2.1",
+   "titulo": "A fonte de água viva e as cisternas rotas",
+   "secao": "Vocação e primeiros oráculos",
+   "referencia": "Jr 2,1-13",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 13
+   }
+  },
+  {
+   "id": "JER.2.14",
+   "titulo": "A esposa infiel",
+   "secao": "Vocação e primeiros oráculos",
+   "referencia": "Jr 2,14-37",
+   "ini": {
+    "c": 2,
+    "v": 14
+   },
+   "fim": {
+    "c": 2,
+    "v": 37
+   }
+  },
+  {
+   "id": "JER.3.1",
+   "titulo": "Convertei-vos, filhos rebeldes",
+   "secao": "Vocação e primeiros oráculos",
+   "referencia": "Jr 3,1–4,4",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 4
+   }
+  },
+  {
+   "id": "JER.4.5",
+   "titulo": "O inimigo do aquilão: minhas entranhas!",
+   "secao": "Vocação e primeiros oráculos",
+   "referencia": "Jr 4,5-31",
+   "ini": {
+    "c": 4,
+    "v": 5
+   },
+   "fim": {
+    "c": 4,
+    "v": 31
+   }
+  },
+  {
+   "id": "JER.5.1",
+   "titulo": "Procurai um homem que faça justiça",
+   "secao": "Vocação e primeiros oráculos",
+   "referencia": "Jr 5,1-31",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 31
+   }
+  },
+  {
+   "id": "JER.6.1",
+   "titulo": "Paz, paz, quando não há paz",
+   "secao": "Vocação e primeiros oráculos",
+   "referencia": "Jr 6,1-30",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 30
+   }
+  },
+  {
+   "id": "JER.7.1",
+   "titulo": "O sermão do Templo: covil de ladrões",
+   "secao": "O Templo e a aliança",
+   "referencia": "Jr 7,1-15",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 15
+   }
+  },
+  {
+   "id": "JER.7.16",
+   "titulo": "A rainha do céu e o vale de Tofet",
+   "secao": "O Templo e a aliança",
+   "referencia": "Jr 7,16–8,3",
+   "ini": {
+    "c": 7,
+    "v": 16
+   },
+   "fim": {
+    "c": 8,
+    "v": 3
+   }
+  },
+  {
+   "id": "JER.8.4",
+   "titulo": "Não há bálsamo em Galaad?",
+   "secao": "O Templo e a aliança",
+   "referencia": "Jr 8,4-22",
+   "ini": {
+    "c": 8,
+    "v": 4
+   },
+   "fim": {
+    "c": 8,
+    "v": 22
+   }
+  },
+  {
+   "id": "JER.9.1",
+   "titulo": "Quem dará água à minha cabeça?",
+   "secao": "O Templo e a aliança",
+   "referencia": "Jr 9,1-22",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 22
+   }
+  },
+  {
+   "id": "JER.9.23",
+   "titulo": "Glorie-se em conhecer-me",
+   "secao": "O Templo e a aliança",
+   "referencia": "Jr 9,23-26",
+   "ini": {
+    "c": 9,
+    "v": 23
+   },
+   "fim": {
+    "c": 9,
+    "v": 26
+   }
+  },
+  {
+   "id": "JER.10.1",
+   "titulo": "Os ídolos e o Deus verdadeiro",
+   "secao": "O Templo e a aliança",
+   "referencia": "Jr 10,1-16",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 16
+   }
+  },
+  {
+   "id": "JER.10.17",
+   "titulo": "Corrige-me, Senhor, mas com juízo",
+   "secao": "O Templo e a aliança",
+   "referencia": "Jr 10,17-25",
+   "ini": {
+    "c": 10,
+    "v": 17
+   },
+   "fim": {
+    "c": 10,
+    "v": 25
+   }
+  },
+  {
+   "id": "JER.11.1",
+   "titulo": "A aliança quebrada",
+   "secao": "O Templo e a aliança",
+   "referencia": "Jr 11,1-17",
+   "ini": {
+    "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 17
+   }
+  },
+  {
+   "id": "JER.11.18",
+   "titulo": "O cordeiro levado ao matadouro; por que prospera o ímpio?",
+   "secao": "O Templo e a aliança",
+   "referencia": "Jr 11,18–12,6",
+   "ini": {
+    "c": 11,
+    "v": 18
+   },
+   "fim": {
+    "c": 12,
+    "v": 6
+   }
+  },
+  {
+   "id": "JER.12.7",
+   "titulo": "Abandonei a minha casa",
+   "secao": "O Templo e a aliança",
+   "referencia": "Jr 12,7-17",
+   "ini": {
+    "c": 12,
+    "v": 7
+   },
+   "fim": {
+    "c": 12,
+    "v": 17
+   }
+  },
+  {
+   "id": "JER.13.1",
+   "titulo": "O cinto de linho e os odres",
+   "secao": "Sinais e confissões",
+   "referencia": "Jr 13,1-14",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 14
+   }
+  },
+  {
+   "id": "JER.13.15",
+   "titulo": "Pode o etíope mudar a sua pele?",
+   "secao": "Sinais e confissões",
+   "referencia": "Jr 13,15-27",
+   "ini": {
+    "c": 13,
+    "v": 15
+   },
+   "fim": {
+    "c": 13,
+    "v": 27
+   }
+  },
+  {
+   "id": "JER.14.1",
+   "titulo": "A seca e a súplica do povo",
+   "secao": "Sinais e confissões",
+   "referencia": "Jr 14,1-22",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 22
+   }
+  },
+  {
+   "id": "JER.15.1",
+   "titulo": "Ainda que Moisés e Samuel se apresentassem",
+   "secao": "Sinais e confissões",
+   "referencia": "Jr 15,1-9",
+   "ini": {
+    "c": 15,
+    "v": 1
+   },
+   "fim": {
+    "c": 15,
+    "v": 9
+   }
+  },
+  {
+   "id": "JER.15.10",
+   "titulo": "Achei as tuas palavras e comi-as",
+   "secao": "Sinais e confissões",
+   "referencia": "Jr 15,10-21",
+   "ini": {
+    "c": 15,
+    "v": 10
+   },
+   "fim": {
+    "c": 15,
+    "v": 21
+   }
+  },
+  {
+   "id": "JER.16.1",
+   "titulo": "A vida de Jeremias como sinal",
+   "secao": "Sinais e confissões",
+   "referencia": "Jr 16,1-21",
+   "ini": {
+    "c": 16,
+    "v": 1
+   },
+   "fim": {
+    "c": 16,
+    "v": 21
+   }
+  },
+  {
+   "id": "JER.17.1",
+   "titulo": "Maldito o homem que confia no homem",
+   "secao": "Sinais e confissões",
+   "referencia": "Jr 17,1-13",
+   "ini": {
+    "c": 17,
+    "v": 1
+   },
+   "fim": {
+    "c": 17,
+    "v": 13
+   }
+  },
+  {
+   "id": "JER.17.14",
+   "titulo": "Cura-me, Senhor; a santificação do sábado",
+   "secao": "Sinais e confissões",
+   "referencia": "Jr 17,14-27",
+   "ini": {
+    "c": 17,
+    "v": 14
+   },
+   "fim": {
+    "c": 17,
+    "v": 27
+   }
+  },
+  {
+   "id": "JER.18.1",
+   "titulo": "Na casa do oleiro",
+   "secao": "Sinais e confissões",
+   "referencia": "Jr 18,1-17",
+   "ini": {
+    "c": 18,
+    "v": 1
+   },
+   "fim": {
+    "c": 18,
+    "v": 17
+   }
+  },
+  {
+   "id": "JER.18.18",
+   "titulo": "Vinde, maquinemos contra Jeremias",
+   "secao": "Sinais e confissões",
+   "referencia": "Jr 18,18-23",
+   "ini": {
+    "c": 18,
+    "v": 18
+   },
+   "fim": {
+    "c": 18,
+    "v": 23
+   }
+  },
+  {
+   "id": "JER.19.1",
+   "titulo": "A bilha quebrada e o tronco de Fassur",
+   "secao": "Sinais e confissões",
+   "referencia": "Jr 19,1–20,6",
+   "ini": {
+    "c": 19,
+    "v": 1
+   },
+   "fim": {
+    "c": 20,
+    "v": 6
+   }
+  },
+  {
+   "id": "JER.20.7",
+   "titulo": "Seduziste-me, Senhor",
+   "secao": "Sinais e confissões",
+   "referencia": "Jr 20,7-18",
+   "ini": {
+    "c": 20,
+    "v": 7
+   },
+   "fim": {
+    "c": 20,
+    "v": 18
+   }
+  },
+  {
+   "id": "JER.21.1",
+   "titulo": "A resposta a Sedecias",
+   "secao": "Reis e profetas",
+   "referencia": "Jr 21,1-14",
+   "ini": {
+    "c": 21,
+    "v": 1
+   },
+   "fim": {
+    "c": 21,
+    "v": 14
+   }
+  },
+  {
+   "id": "JER.22.1",
+   "titulo": "Contra os reis de Judá",
+   "secao": "Reis e profetas",
+   "referencia": "Jr 22,1-30",
+   "ini": {
+    "c": 22,
+    "v": 1
+   },
+   "fim": {
+    "c": 22,
+    "v": 30
+   }
+  },
+  {
+   "id": "JER.23.1",
+   "titulo": "Os maus pastores e o Germe justo",
+   "secao": "Reis e profetas",
+   "referencia": "Jr 23,1-8",
+   "ini": {
+    "c": 23,
+    "v": 1
+   },
+   "fim": {
+    "c": 23,
+    "v": 8
+   }
+  },
+  {
+   "id": "JER.23.9",
+   "titulo": "Contra os falsos profetas",
+   "secao": "Reis e profetas",
+   "referencia": "Jr 23,9-40",
+   "ini": {
+    "c": 23,
+    "v": 9
+   },
+   "fim": {
+    "c": 23,
+    "v": 40
+   }
+  },
+  {
+   "id": "JER.24.1",
+   "titulo": "Os dois cestos de figos",
+   "secao": "Reis e profetas",
+   "referencia": "Jr 24,1-10",
+   "ini": {
+    "c": 24,
+    "v": 1
+   },
+   "fim": {
+    "c": 24,
+    "v": 10
+   }
+  },
+  {
+   "id": "JER.25.1",
+   "titulo": "Os setenta anos",
+   "secao": "Reis e profetas",
+   "referencia": "Jr 25,1-14",
+   "ini": {
+    "c": 25,
+    "v": 1
+   },
+   "fim": {
+    "c": 25,
+    "v": 14
+   }
+  },
+  {
+   "id": "JER.25.15",
+   "titulo": "O cálice do vinho da ira",
+   "secao": "Reis e profetas",
+   "referencia": "Jr 25,15-38",
+   "ini": {
+    "c": 25,
+    "v": 15
+   },
+   "fim": {
+    "c": 25,
+    "v": 38
+   }
+  },
+  {
+   "id": "JER.26.1",
+   "titulo": "O processo de Jeremias",
+   "secao": "Jeremias diante do povo",
+   "referencia": "Jr 26,1-24",
+   "ini": {
+    "c": 26,
+    "v": 1
+   },
+   "fim": {
+    "c": 26,
+    "v": 24
+   }
+  },
+  {
+   "id": "JER.27.1",
+   "titulo": "O jugo do rei de Babilônia",
+   "secao": "Jeremias diante do povo",
+   "referencia": "Jr 27,1-22",
+   "ini": {
+    "c": 27,
+    "v": 1
+   },
+   "fim": {
+    "c": 27,
+    "v": 22
+   }
+  },
+  {
+   "id": "JER.28.1",
+   "titulo": "Hananias e o jugo de ferro",
+   "secao": "Jeremias diante do povo",
+   "referencia": "Jr 28,1-17",
+   "ini": {
+    "c": 28,
+    "v": 1
+   },
+   "fim": {
+    "c": 28,
+    "v": 17
+   }
+  },
+  {
+   "id": "JER.29.1",
+   "titulo": "A carta aos exilados",
+   "secao": "Jeremias diante do povo",
+   "referencia": "Jr 29,1-32",
+   "ini": {
+    "c": 29,
+    "v": 1
+   },
+   "fim": {
+    "c": 29,
+    "v": 32
+   }
+  },
+  {
+   "id": "JER.30.1",
+   "titulo": "Restaurarei Jacó",
+   "secao": "O Livro da Consolação",
+   "referencia": "Jr 30,1-24",
+   "ini": {
+    "c": 30,
+    "v": 1
+   },
+   "fim": {
+    "c": 30,
+    "v": 24
+   }
+  },
+  {
+   "id": "JER.31.1",
+   "titulo": "Com amor eterno te amei; Raquel chora",
+   "secao": "O Livro da Consolação",
+   "referencia": "Jr 31,1-22",
+   "ini": {
+    "c": 31,
+    "v": 1
+   },
+   "fim": {
+    "c": 31,
+    "v": 22
+   }
+  },
+  {
+   "id": "JER.31.23",
+   "titulo": "A nova aliança",
+   "secao": "O Livro da Consolação",
+   "referencia": "Jr 31,23-40",
+   "ini": {
+    "c": 31,
+    "v": 23
+   },
+   "fim": {
+    "c": 31,
+    "v": 40
+   }
+  },
+  {
+   "id": "JER.32.1",
+   "titulo": "O campo de Anatot",
+   "secao": "O Livro da Consolação",
+   "referencia": "Jr 32,1-44",
+   "ini": {
+    "c": 32,
+    "v": 1
+   },
+   "fim": {
+    "c": 32,
+    "v": 44
+   }
+  },
+  {
+   "id": "JER.33.1",
+   "titulo": "O Germe de justiça e a aliança com o dia",
+   "secao": "O Livro da Consolação",
+   "referencia": "Jr 33,1-26",
+   "ini": {
+    "c": 33,
+    "v": 1
+   },
+   "fim": {
+    "c": 33,
+    "v": 26
+   }
+  },
+  {
+   "id": "JER.34.1",
+   "titulo": "Os escravos libertados e retomados",
+   "secao": "O cerco e a queda",
+   "referencia": "Jr 34,1-22",
+   "ini": {
+    "c": 34,
+    "v": 1
+   },
+   "fim": {
+    "c": 34,
+    "v": 22
+   }
+  },
+  {
+   "id": "JER.35.1",
+   "titulo": "A fidelidade dos recabitas",
+   "secao": "O cerco e a queda",
+   "referencia": "Jr 35,1-19",
+   "ini": {
+    "c": 35,
+    "v": 1
+   },
+   "fim": {
+    "c": 35,
+    "v": 19
+   }
+  },
+  {
+   "id": "JER.36.1",
+   "titulo": "O rolo queimado",
+   "secao": "O cerco e a queda",
+   "referencia": "Jr 36,1-32",
+   "ini": {
+    "c": 36,
+    "v": 1
+   },
+   "fim": {
+    "c": 36,
+    "v": 32
+   }
+  },
+  {
+   "id": "JER.37.1",
+   "titulo": "Jeremias preso",
+   "secao": "O cerco e a queda",
+   "referencia": "Jr 37,1-20",
+   "ini": {
+    "c": 37,
+    "v": 1
+   },
+   "fim": {
+    "c": 37,
+    "v": 20
+   }
+  },
+  {
+   "id": "JER.38.1",
+   "titulo": "Na cisterna; Abdemelec",
+   "secao": "O cerco e a queda",
+   "referencia": "Jr 38,1-28",
+   "ini": {
+    "c": 38,
+    "v": 1
+   },
+   "fim": {
+    "c": 38,
+    "v": 28
+   }
+  },
+  {
+   "id": "JER.39.1",
+   "titulo": "A queda de Jerusalém",
+   "secao": "O cerco e a queda",
+   "referencia": "Jr 39,1-18",
+   "ini": {
+    "c": 39,
+    "v": 1
+   },
+   "fim": {
+    "c": 39,
+    "v": 18
+   }
+  },
+  {
+   "id": "JER.40.1",
+   "titulo": "Godolias em Masfa",
+   "secao": "Depois da queda",
+   "referencia": "Jr 40,1-16",
+   "ini": {
+    "c": 40,
+    "v": 1
+   },
+   "fim": {
+    "c": 40,
+    "v": 16
+   }
+  },
+  {
+   "id": "JER.41.1",
+   "titulo": "O assassinato de Godolias",
+   "secao": "Depois da queda",
+   "referencia": "Jr 41,1-18",
+   "ini": {
+    "c": 41,
+    "v": 1
+   },
+   "fim": {
+    "c": 41,
+    "v": 18
+   }
+  },
+  {
+   "id": "JER.42.1",
+   "titulo": "A descida ao Egito",
+   "secao": "Depois da queda",
+   "referencia": "Jr 42,1–43,7",
+   "ini": {
+    "c": 42,
+    "v": 1
+   },
+   "fim": {
+    "c": 43,
+    "v": 7
+   }
+  },
+  {
+   "id": "JER.43.8",
+   "titulo": "Em Táfnis; a rainha do céu",
+   "secao": "Depois da queda",
+   "referencia": "Jr 43,8–44,30",
+   "ini": {
+    "c": 43,
+    "v": 8
+   },
+   "fim": {
+    "c": 44,
+    "v": 30
+   }
+  },
+  {
+   "id": "JER.45.1",
+   "titulo": "A palavra a Baruc",
+   "secao": "Depois da queda",
+   "referencia": "Jr 45,1-5",
+   "ini": {
+    "c": 45,
+    "v": 1
+   },
+   "fim": {
+    "c": 45,
+    "v": 5
+   }
+  },
+  {
+   "id": "JER.46.1",
+   "titulo": "Contra o Egito",
+   "secao": "Oráculos contra as nações",
+   "referencia": "Jr 46,1-28",
+   "ini": {
+    "c": 46,
+    "v": 1
+   },
+   "fim": {
+    "c": 46,
+    "v": 28
+   }
+  },
+  {
+   "id": "JER.47.1",
+   "titulo": "Contra os filisteus",
+   "secao": "Oráculos contra as nações",
+   "referencia": "Jr 47,1-7",
+   "ini": {
+    "c": 47,
+    "v": 1
+   },
+   "fim": {
+    "c": 47,
+    "v": 7
+   }
+  },
+  {
+   "id": "JER.48.1",
+   "titulo": "Contra Moab",
+   "secao": "Oráculos contra as nações",
+   "referencia": "Jr 48,1-47",
+   "ini": {
+    "c": 48,
+    "v": 1
+   },
+   "fim": {
+    "c": 48,
+    "v": 47
+   }
+  },
+  {
+   "id": "JER.49.1",
+   "titulo": "Contra Amon e Edom",
+   "secao": "Oráculos contra as nações",
+   "referencia": "Jr 49,1-22",
+   "ini": {
+    "c": 49,
+    "v": 1
+   },
+   "fim": {
+    "c": 49,
+    "v": 22
+   }
+  },
+  {
+   "id": "JER.49.23",
+   "titulo": "Contra Damasco, Cedar e Elam",
+   "secao": "Oráculos contra as nações",
+   "referencia": "Jr 49,23-39",
+   "ini": {
+    "c": 49,
+    "v": 23
+   },
+   "fim": {
+    "c": 49,
+    "v": 39
+   }
+  },
+  {
+   "id": "JER.50.1",
+   "titulo": "Contra Babilônia: saí do meio dela",
+   "secao": "Oráculos contra as nações",
+   "referencia": "Jr 50,1-46",
+   "ini": {
+    "c": 50,
+    "v": 1
+   },
+   "fim": {
+    "c": 50,
+    "v": 46
+   }
+  },
+  {
+   "id": "JER.51.1",
+   "titulo": "Contra Babilônia: o livro lançado no Eufrates",
+   "secao": "Oráculos contra as nações",
+   "referencia": "Jr 51,1-64",
+   "ini": {
+    "c": 51,
+    "v": 1
+   },
+   "fim": {
+    "c": 51,
+    "v": 64
+   }
+  },
+  {
+   "id": "JER.52.1",
+   "titulo": "A ruína de Jerusalém e a graça a Joaquin",
+   "secao": "Apêndice histórico",
+   "referencia": "Jr 52,1-34",
+   "ini": {
+    "c": 52,
+    "v": 1
+   },
+   "fim": {
+    "c": 52,
+    "v": 34
+   }
+  }
+ ]
+}

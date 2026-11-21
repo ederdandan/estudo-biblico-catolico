@@ -1,0 +1,57 @@
+{
+  "id": "JER.2.14",
+  "livro": "JER",
+  "titulo": "A esposa infiel",
+  "secao": "Vocação e primeiros oráculos",
+  "referencia": "Jr 2,14-37",
+  "ini": {
+    "c": 2,
+    "v": 14
+  },
+  "fim": {
+    "c": 2,
+    "v": 37
+  },
+  "liturgia": {
+    "tema_central": "A esposa infiel que diz: não pequei",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor pergunta: Israel é escravo? Por que se tornou presa dos leões, com a terra deserta e as cidades queimadas, e até os egípcios de Mênfis e Táfnis lhe rasparam a cabeça? Tudo isso porque abandonou o Senhor que o guiava. De que serve correr ao Egito para beber a água do Nilo, ou à Assíria para beber a do Eufrates? “A tua malícia te pune.” Israel quebrou o jugo e disse: não servirei; prostituiu-se em cada outeiro e debaixo de cada árvore frondosa. Era vinha escolhida e degenerou em sarmentos de cepa estrangeira; nem potassa nem sabão lavam a sua mancha. As imagens são cruas: dromedária desatinada, asna selvagem no cio, que ninguém detém. O povo diz a um pau: tu és o meu pai, e a uma pedra: tu me geraste; volta as costas a Deus, mas na aflição grita: levanta-te e livra-nos. Onde estão os teus deuses? Que te salvem, porque são tantos como as tuas cidades. O Senhor castigou e não houve correção; a espada devorou os profetas. Esquece a donzela o seu ornato? “Mas o meu povo esqueceu-se de mim durante dias sem número.” Nas orlas das vestes há sangue de inocentes, e ainda dizem: estou inocente. O Senhor entrará em juízo justamente porque dizem: não pequei.",
+    "alegorico": "A vinha escolhida que degenera aponta para a parábola dos vinhateiros (Mt 21,33-43) e para Cristo, a videira verdadeira, em quem os ramos dão fruto. A mancha que nenhum sabão lava só é tirada pelo sangue do Cordeiro, que alveja as vestes (Ap 7,14).",
+    "moral": "O pior pecado é negar que se pecou: “Eu não estou manchada.” Quem não reconhece a culpa não pode ser curado (1Jo 1,8-9). O texto também desmascara a religião de emergência: virar as costas a Deus na prosperidade e chamá-lo só na aflição. E mostra que alianças e seguranças humanas buscadas sem Deus terminam em vergonha.",
+    "anagogico": "Deus “entra em juízo” para curar, não para destruir: o juízo final revelará o que cada um quis ocultar. Quem hoje reconhece o pecado encontra misericórdia; quem diz “não pequei” se fecha a ela."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A tua malícia te pune.” “Sabe e vê que má e amarga coisa é o haveres abandonado o Senhor.” “Eu tinha-te plantado como uma vinha escolhida.” “Voltaram-me as costas em lugar de voltarem para mim a face.” “O meu povo esqueceu-se de mim durante dias sem número.” “Vou entrar em juízo contigo, por teres dito: Não pequei.”",
+    "meditatio_perguntas": [
+      "Em que área da vida digo “não pequei” para não ter de mudar?",
+      "Volto o rosto a Deus só na aflição?",
+      "Que “Egito” ou “Assíria” busco como segurança em lugar de Deus?"
+    ],
+    "oratio_guia": "Senhor, que me plantaste como vinha escolhida, não permitas que eu me esqueça de ti dias sem número. Dá-me a humildade de reconhecer o meu pecado e de voltar para ti a face, não as costas. Amém.",
+    "contemplatio_foco": {
+      "texto": "Sabe e vê que má e amarga coisa é o haveres abandonado o Senhor Deus dos exércitos",
+      "ref": "Jr 2,19"
+    }
+  },
+  "ancoras": {
+    "2:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Mênfis e Táfnis: cidades egípcias. Raspar a cabeça era sinal de humilhação.",
+        "origem": "ia"
+      }
+    },
+    "2:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Prostituir-se” é a linguagem profética para a idolatria, entendida como infidelidade à aliança esponsal.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

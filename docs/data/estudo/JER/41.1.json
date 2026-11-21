@@ -1,0 +1,57 @@
+{
+  "id": "JER.41.1",
+  "livro": "JER",
+  "titulo": "O assassinato de Godolias",
+  "secao": "Depois da queda",
+  "referencia": "Jr 41,1-18",
+  "ini": {
+    "c": 41,
+    "v": 1
+  },
+  "fim": {
+    "c": 41,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "O assassinato de Godolias e a fuga do resto",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No sétimo mês, Ismael, filho de Natanias, de linhagem real, vem a Masfa com dez homens e come à mesa de Godolias. Durante a refeição, levanta-se e mata Godolias à espada, junto com os judeus e os soldados caldeus que estavam com ele. No dia seguinte, ninguém ainda sabe. Chegam oitenta homens de Siquém, Silo e Samaria, com a barba rapada, as vestes rasgadas e o corpo ferido em sinal de luto, levando ofertas e incenso para a casa do Senhor arruinada. Ismael sai ao encontro deles chorando, convida-os a ver Godolias e, no meio da cidade, mata-os e lança-os numa cisterna; poupa dez que lhe prometem provisões escondidas. A cisterna é a que o rei Asa fizera, e Ismael a enche de cadáveres. Depois leva cativo o resto do povo de Masfa, incluindo as filhas do rei, para passar aos amonitas. Joanã e os chefes militares o perseguem e o alcançam junto ao grande tanque de Gabaon; os cativos se alegram e passam para Joanã; Ismael foge com oito homens para Amon. Joanã reúne o povo e para em Gerut-Camaã, perto de Belém, decidido a fugir para o Egito por medo dos caldeus.",
+    "alegorico": "A traição à mesa, depois de comer junto, evoca a traição de Judas: “aquele que come o pão comigo levantou contra mim o calcanhar” (Jo 13,18; Sl 40,10). Os peregrinos que vão chorando ao Templo destruído mostram que a devoção sobrevive mesmo às ruínas, e anunciam os que buscam o verdadeiro Templo, Cristo.",
+    "moral": "O ódio e a ambição política podem destruir em um dia o pouco que se reconstruiu. As lágrimas fingidas de Ismael são a hipocrisia mais cruel. Também se vê como o medo leva a decisões precipitadas: o resto, em vez de consultar a Deus primeiro, já decidiu fugir para o Egito.",
+    "anagogico": "A história de violência entre irmãos só terminará quando o Príncipe da paz reunir o seu povo. Os peregrinos fiéis, mortos a caminho do santuário, lembram os mártires que buscam a Deus até o fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Comeram juntos.” “Feriram Godolias… à espada.” “Com a barba rapada, as vestes rasgadas… traziam nas mãos incenso e ofertas para os apresentar na casa do Senhor.” “Ismael… ia andando e chorando.” “Com medo dos Caldeus.”",
+    "meditatio_perguntas": [
+      "Há em mim alguma forma de hipocrisia, como as lágrimas de Ismael?",
+      "Continuo buscando a Deus mesmo quando o “templo” da minha vida parece destruído?",
+      "Tomo decisões por medo antes de consultar a Deus?"
+    ],
+    "oratio_guia": "Senhor, guarda-me da traição e da hipocrisia. Recebe as ofertas dos que te buscam no meio das ruínas, e não me deixes decidir pelo medo, mas pela tua palavra. Amém.",
+    "contemplatio_foco": {
+      "texto": "traziam nas mãos incenso e ofertas para os apresentar na casa do Senhor",
+      "ref": "Jr 41,5"
+    }
+  },
+  "ancoras": {
+    "41:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A morte de Godolias, no sétimo mês (setembro–outubro), passou a ser lembrada pelos judeus com um jejum (cf. Zc 7,5; 8,19).",
+        "origem": "ia"
+      }
+    },
+    "41:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Asa, rei de Judá, fortificou Masfa contra Baasa, rei de Israel (1Rs 15,22).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

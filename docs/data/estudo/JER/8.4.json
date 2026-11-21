@@ -1,0 +1,57 @@
+{
+  "id": "JER.8.4",
+  "livro": "JER",
+  "titulo": "Não há bálsamo em Galaad?",
+  "secao": "O Templo e a aliança",
+  "referencia": "Jr 8,4-22",
+  "ini": {
+    "c": 8,
+    "v": 4
+  },
+  "fim": {
+    "c": 8,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Não há bálsamo em Galaad?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor estranha a obstinação do povo: quem cai não se levanta? Quem se desvia não volta? Mas Jerusalém se apega à mentira e ninguém faz penitência dizendo: “Que fiz eu?”; cada um se lança na sua carreira como cavalo na batalha. “A cegonha conhece no céu a sua estação; a rola, a andorinha e a grua observam o tempo da sua arribação; mas o meu povo não conhece a lei do Senhor.” Dizem-se sábios, possuidores da lei, mas o cálamo mentiroso dos escribas a transformou em mentira; rejeitaram a palavra, que sabedoria lhes resta? Repete-se a denúncia: do menor ao maior, todos buscam o lucro; curam à toa a ferida dizendo “paz, paz”. Deus procura frutos: não há uvas na videira nem figos na figueira, e as folhas murcharam. O povo, encurralado, reconhece tarde: esperávamos a paz e veio o terror; ouve-se desde Dã o relincho dos cavalos; vêm serpentes contra as quais não vale encantamento. Então o profeta chora: a minha dor é sem remédio. A filha do meu povo clama: não está o Senhor em Sião? “O tempo da ceifa passou, o estio findou, e nós não fomos salvos.” “Estou ferido com a ferida da filha do meu povo.” “Porventura não há mais bálsamo em Galaad? Não se acha lá nenhum médico?”",
+    "alegorico": "A figueira sem frutos e com folhas murchas prefigura a figueira amaldiçoada por Jesus (Mt 21,19). O bálsamo de Galaad e o médico que faltam são Cristo, médico das almas, que veio para os doentes (Mc 2,17) e cujas chagas nos curaram (1Pd 2,24).",
+    "moral": "Os animais obedecem ao seu instinto e conhecem o tempo; o homem, que deveria conhecer a lei de Deus, a ignora. O primeiro passo da conversão é a pergunta “Que fiz eu?”, que ninguém faz. Saber a lei não basta, se ela é deturpada para justificar o que se quer. E há um tempo de graça que pode passar: “O tempo da ceifa passou… e nós não fomos salvos.”",
+    "anagogico": "A ceifa é imagem do juízo final (Mt 13,39). O texto lembra que o tempo de conversão tem fim e convida a não deixar para depois a resposta a Deus. Para quem se volta, há bálsamo e há médico."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Porventura o que cai não se levantará?” “Não há quem faça penitência do seu pecado, dizendo: Que fiz eu?” “A cegonha conhece no céu a sua estação.” “O tempo da ceifa passou, o estio findou, e nós não fomos salvos.” “Porventura não há mais bálsamo em Galaad? Não se acha lá nenhum médico?”",
+    "meditatio_perguntas": [
+      "Pergunto-me com sinceridade, no exame de consciência: “Que fiz eu?”",
+      "Conheço os tempos de Deus na minha vida como a cegonha conhece a sua estação?",
+      "Procuro Cristo como médico, ou tento curar-me sozinho?"
+    ],
+    "oratio_guia": "Senhor, médico das almas, não deixes passar em vão o tempo da minha ceifa. Dá-me a humildade de perguntar “que fiz eu?” e derrama sobre as minhas feridas o bálsamo da tua misericórdia. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porventura não há mais bálsamo em Galaad? Não se acha lá nenhum médico?",
+      "ref": "Jr 8,22"
+    }
+  },
+  "ancoras": {
+    "8:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Galaad, a leste do Jordão, era célebre por uma resina medicinal (Gn 37,25).",
+        "origem": "ia"
+      }
+    },
+    "8:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Primeira menção profética a escribas que interpretam a lei por escrito; o profeta acusa uma leitura que a esvazia.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

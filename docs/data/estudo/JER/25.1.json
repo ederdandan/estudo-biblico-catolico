@@ -1,0 +1,57 @@
+{
+  "id": "JER.25.1",
+  "livro": "JER",
+  "titulo": "Os setenta anos",
+  "secao": "Reis e profetas",
+  "referencia": "Jr 25,1-14",
+  "ini": {
+    "c": 25,
+    "v": 1
+  },
+  "fim": {
+    "c": 25,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "Vinte e três anos falando, e não ouvistes: os setenta anos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No quarto ano de Joaquim, primeiro de Nabucodonosor (605 a.C.), ano decisivo da batalha de Carquemis, Jeremias faz um balanço do seu ministério: desde o décimo terceiro ano de Josias, durante vinte e três anos, falou “desde manhã”, sem cessar, e o povo não ouviu. O Senhor enviou sem descanso todos os seus servos, os profetas, com uma única mensagem: retirai-vos do mau caminho e habitareis para sempre na terra; não sigais outros deuses e não vos farei mal. Mas não ouviram. Por isso o Senhor tomará os povos do norte e “a meu servo Nabucodonosor”, e os trará contra Judá e as nações vizinhas. Cessarão os gritos de júbilo, o canto do esposo e da esposa, o ruído da mó e a luz da lâmpada, os sinais da vida cotidiana. As nações servirão o rei de Babilônia durante setenta anos. Completados os setenta anos, Deus visitará também Babilônia e castigará a sua iniquidade: tudo o que está escrito neste livro se cumprirá, e cada nação receberá segundo as suas obras.",
+    "alegorico": "Os setenta anos de Jeremias são meditados por Daniel, que recebe a revelação das setenta semanas, ligadas à vinda do Ungido (Dn 9,2.24-27). O Deus que usa até Nabucodonosor como “servo” é o Senhor da história, que conduz tudo para a plenitude dos tempos em Cristo (Gl 4,4).",
+    "moral": "A perseverança do profeta, que fala vinte e três anos sem ser ouvido, é lição para quem evangeliza sem ver frutos. A insistência de Deus, “desde manhã”, revela o seu amor paciente. Mas a recusa repetida tem consequências: a vida cotidiana — a mó, a lâmpada, a festa — se apaga quando se rejeita Deus.",
+    "anagogico": "Os setenta anos têm um fim: o exílio não é eterno para quem espera em Deus. Também a nossa peregrinação tem um termo, depois do qual vem a volta à pátria e o juízo de cada um segundo as suas obras."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Há vinte e três anos, foi-me dirigida a palavra do Senhor, e eu vo-la anunciei, falando-vos desde manhã, mas vós não ouvistes.” “Retirai-vos do vosso mau caminho.” “O ruído da mó e a luz da lâmpada.” “Completos que forem os setenta anos.”",
+    "meditatio_perguntas": [
+      "Persevero em anunciar o bem mesmo sem ver resultados?",
+      "Quantas vezes Deus me falou “desde manhã” e eu não ouvi?",
+      "Creio que Deus conduz a história mesmo através dos poderosos que não o conhecem?"
+    ],
+    "oratio_guia": "Senhor da história, que nos falas sem cessar desde a manhã, dá-me ouvidos para ouvir e perseverança para anunciar a tua palavra mesmo sem ver frutos. Abrevia os anos do exílio e reconduz-nos a ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "foi-me dirigida a palavra do Senhor, e eu vo-la anunciei, falando-vos desde manhã, mas vós não ouvistes",
+      "ref": "Jr 25,3"
+    }
+  },
+  "ancoras": {
+    "25:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O 4º ano de Joaquim é 605 a.C., ano em que Nabucodonosor venceu o Egito em Carquemis e se tornou senhor da região.",
+        "origem": "ia"
+      }
+    },
+    "25:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os setenta anos (cf. 29,10; 2Cr 36,21; Dn 9,2) são número redondo para uma vida humana; de 605 a 538 a.C. passaram cerca de 67 anos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

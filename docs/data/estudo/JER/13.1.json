@@ -1,0 +1,49 @@
+{
+  "id": "JER.13.1",
+  "livro": "JER",
+  "titulo": "O cinto de linho e os odres",
+  "secao": "Sinais e confissões",
+  "referencia": "Jr 13,1-14",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "O cinto apodrecido: o povo que Deus uniu a si",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor manda Jeremias comprar um cinto de linho, cingir-se com ele e não o molhar. Depois ordena-lhe que vá ao Eufrates e o esconda na fenda de uma pedra. Passados muitos dias, manda buscá-lo: o cinto apodreceu e já não serve para nada. A explicação vem em seguida: assim Deus fará apodrecer a soberba de Judá e o grande orgulho de Jerusalém. O sentido do sinal está no versículo central: “Assim como um cinto se liga aos rins dum homem, assim eu uni estreitamente comigo toda a casa de Israel e toda a casa de Judá… para que fossem o meu povo, o meu renome, a minha honra e a minha glória. Mas não me ouviram.” Longe de Deus, junto ao rio de Babilônia, o povo apodrece. Segue-se um segundo sinal, em forma de provérbio: “Todas as vasilhas se encherão de vinho.” O povo responde com ironia: isso todos sabem. Mas o profeta explica: Deus encherá de embriaguez reis, sacerdotes, profetas e habitantes, e os fará chocar-se uns contra os outros como jarros, pais contra filhos, sem clemência.",
+    "alegorico": "O cinto que se cinge aos rins é imagem da intimidade a que Deus chama o seu povo. Em Cristo esta união se torna plena: ele se cinge com a toalha para servir (Jo 13,4), e a Igreja é unida a ele como corpo à cabeça. A embriaguez do juízo contrasta com o cálice da salvação e com a sóbria embriaguez do Espírito (At 2,13; Ef 5,18).",
+    "moral": "O que dá valor ao cinto é estar cingido ao corpo; separado do dono, apodrece. Assim a alma separada de Deus perde a sua glória. A soberba é a causa da corrupção: o povo quis ser glória de si mesmo, não “a glória” de Deus. Escondida longe, a vida espiritual estraga sem que se perceba.",
+    "anagogico": "Deus quer que o seu povo seja para sempre o seu “renome, honra e glória”. No céu, a Igreja será o cinto perfeitamente ajustado a Cristo, sem mancha nem ruga (Ef 5,27)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vai comprar para ti um cinto de linho e cinge-te com ele.” “O cinto já tinha apodrecido, de tal sorte que não servia para uso algum.” “Farei apodrecer a soberba de Judá.” “Assim eu uni estreitamente comigo toda a casa de Israel… para que fossem o meu povo, o meu renome, a minha honra e a minha glória.”",
+    "meditatio_perguntas": [
+      "Vivo cingido a Deus, junto dele, ou “escondido” longe?",
+      "Que soberba está apodrecendo em mim sem que eu note?",
+      "Minha vida é para a glória de Deus ou para a minha?"
+    ],
+    "oratio_guia": "Senhor, que me quiseste unido a ti como o cinto aos rins, não permitas que eu me afaste e apodreça longe de ti. Tira de mim a soberba e faz da minha vida a tua honra e a tua glória. Amém.",
+    "contemplatio_foco": {
+      "texto": "assim eu uni estreitamente comigo toda a casa de Israel e toda a casa de Judá",
+      "ref": "Jr 13,11"
+    }
+  },
+  "ancoras": {
+    "13:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O hebraico Perat pode designar o Eufrates ou Fará (Ain Fara), lugar a poucos quilômetros de Anatot; em qualquer caso, o nome evoca Babilônia.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

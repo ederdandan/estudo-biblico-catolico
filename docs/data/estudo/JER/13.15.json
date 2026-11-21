@@ -1,0 +1,49 @@
+{
+  "id": "JER.13.15",
+  "livro": "JER",
+  "titulo": "Pode o etíope mudar a sua pele?",
+  "secao": "Sinais e confissões",
+  "referencia": "Jr 13,15-27",
+  "ini": {
+    "c": 13,
+    "v": 15
+  },
+  "fim": {
+    "c": 13,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "Pode o etíope mudar a sua pele?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O profeta suplica: ouvi, não vos ensoberbeçais, dai glória ao Senhor antes que venham as trevas e os pés tropecem nas montanhas da noite; esperareis luz e ela se fará sombra de morte. Se não ouvirem, ele chorará em segredo por causa da soberba do povo, porque o rebanho do Senhor será levado cativo. Dirige-se ao rei e à rainha-mãe (Jeconias e Noesta): humilhai-vos, sentai-vos no chão, porque caiu a coroa da vossa glória. As cidades do sul estão fechadas; Judá inteiro é deportado. Jerusalém deve olhar os que chegam do norte: onde está o rebanho que te foi confiado, as ovelhas da tua glória? Os que ela quis como amantes serão os seus senhores. Se perguntar por que estes males, a resposta é: pela multidão das tuas iniquidades. Então vem a pergunta célebre: “Pode um Etíope mudar a sua pele, ou um leopardo as suas malhas? Podereis vós fazer o bem, vós que aprendestes a fazer o mal?” Deus os dispersará como palha ao vento, porque Jerusalém o esqueceu e confiou na mentira. A vergonha será exposta. O oráculo termina com um lamento: “Ai de ti, Jerusalém! És impura! E até quando, ainda?”",
+    "alegorico": "O que o homem não pode — mudar a própria pele — a graça de Cristo pode: “Se alguém está em Cristo, é nova criatura” (2Cor 5,17). O rebanho confiado e perdido é recolhido pelo Bom Pastor. A pergunta “até quando?” só tem resposta na cruz, onde a impureza é lavada.",
+    "moral": "O hábito do mal cria uma segunda natureza: quem se acostuma a pecar perde a capacidade de fazer o bem, como a pele que não muda de cor. Por isso a conversão não pode ser adiada. Os responsáveis, como o rei e a rainha, prestarão contas do rebanho confiado. E vale o aviso: dai glória a Deus antes que venham as trevas.",
+    "anagogico": "As “montanhas da noite” lembram o fim que chega para todos; quem dá glória a Deus agora caminha para a luz que não se apaga. A pergunta “até quando?” espera a purificação definitiva da cidade santa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Dai glória ao Senhor vosso Deus antes que sobrevenham as trevas.” “Chorará a minha alma em segredo, por causa da vossa soberba.” “Onde está o rebanho que te foi confiado, as ovelhas da tua glória?” “Pode um Etíope mudar a sua pele, ou um leopardo as suas malhas?” “Ai de ti, Jerusalém!… E até quando, ainda?”",
+    "meditatio_perguntas": [
+      "Que hábito do mal se tornou em mim “segunda pele”?",
+      "Peço a graça que muda o que eu sozinho não consigo mudar?",
+      "Como cuido do “rebanho” que me foi confiado: família, alunos, comunidade?"
+    ],
+    "oratio_guia": "Senhor, eu não posso mudar a minha pele, mas tu podes fazer de mim uma nova criatura. Dá-me a graça de te dar glória antes que venham as trevas, e cura os hábitos que aprendi no mal. Amém.",
+    "contemplatio_foco": {
+      "texto": "Pode um (negro) Etíope mudar a sua pele, ou um leopardo as suas malhas?",
+      "ref": "Jr 13,23"
+    }
+  },
+  "ancoras": {
+    "13:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O rei Joaquin (Jeconias) e sua mãe Noesta foram deportados em 597 a.C. (2Rs 24,8-15). A rainha-mãe (gebirah) tinha posição oficial na corte de Judá.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

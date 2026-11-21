@@ -1,0 +1,57 @@
+{
+  "id": "JER.16.1",
+  "livro": "JER",
+  "titulo": "A vida de Jeremias como sinal",
+  "secao": "Sinais e confissões",
+  "referencia": "Jr 16,1-21",
+  "ini": {
+    "c": 16,
+    "v": 1
+  },
+  "fim": {
+    "c": 16,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "O profeta sem esposa nem festa: a vida como sinal",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus pede a Jeremias que a sua própria vida seja anúncio: “Não tomarás mulher, nem terás filhos nem filhas neste lugar”, porque os filhos que nascerem ali morrerão de morte ruim, sem pranto nem sepultura. Também não deve entrar na casa de luto para chorar e consolar, porque Deus retirou deste povo a sua paz, o seu favor e a sua misericórdia; grandes e pequenos morrerão sem que se reparta o pão do luto ou o copo da consolação. Nem deve entrar na casa de banquete, porque cessarão a voz do júbilo e o canto do esposo e da esposa. Se o povo perguntar por quê, a resposta é: vossos pais me abandonaram, e vós fizestes pior, cada um seguindo a dureza do seu coração; por isso ireis servir deuses estranhos em terra desconhecida. Mas o oráculo se abre à esperança: virão dias em que já não se jurará pelo Senhor que tirou Israel do Egito, mas pelo Senhor que o reconduziu da terra do norte. Deus enviará pescadores e caçadores para buscar o povo em toda parte, porque nada escapa aos seus olhos. O profeta conclui com uma oração: “Senhor, minha força, minha cidadela, meu refúgio no dia da tribulação”; as nações virão dos confins da terra confessando que os pais só herdaram mentira. Pode o homem fazer deuses? Deus mostrará a sua mão, e saberão que o seu nome é Senhor.",
+    "alegorico": "O celibato de Jeremias, raro em Israel, prefigura a virgindade consagrada pelo Reino (Mt 19,12), sinal de que a figura deste mundo passa. Os “pescadores” que Deus envia evocam o chamado de Jesus: “Farei de vós pescadores de homens” (Mc 1,17). O novo êxodo, maior que o do Egito, é a Páscoa de Cristo.",
+    "moral": "Às vezes Deus pede que a própria vida fale, e não só as palavras. O celibato, o jejum e a renúncia podem ser profecia num mundo distraído. Também ensina que nada escapa aos olhos de Deus, mas que esse olhar busca o perdido, como o pescador e o caçador. O verdadeiro refúgio na tribulação é Deus.",
+    "anagogico": "O êxodo final reunirá os filhos dispersos de todas as terras; as nações reconhecerão o nome do Senhor. A renúncia ao matrimônio por Deus anuncia a vida futura, em que não se casarão (Mt 22,30), porque Deus será tudo em todos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não tomarás mulher, nem terás filhos nem filhas neste lugar.” “Retirei deste povo a minha paz.” “Vive o Senhor, que tirou os filhos de Israel da terra do aquilão.” “Mandarei muitos pescadores.” “Senhor, minha força, minha cidadela, meu refúgio no dia da tribulação.”",
+    "meditatio_perguntas": [
+      "A minha vida, e não só as palavras, anuncia algo de Deus?",
+      "Que renúncia Deus me pede para ser sinal para os outros?",
+      "Deus é a minha cidadela no dia da tribulação?"
+    ],
+    "oratio_guia": "Senhor, minha força, minha cidadela, meu refúgio no dia da tribulação, faz da minha vida um sinal do teu Reino. Envia pescadores ao teu povo disperso e reconduz-nos a ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Senhor, minha força, minha cidadela, meu refúgio no dia da tribulação",
+      "ref": "Jr 16,19"
+    }
+  },
+  "ancoras": {
+    "16:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Em Israel o casamento e a descendência eram vistos como bênção quase obrigatória; o celibato de Jeremias é um sinal profético extremo.",
+        "origem": "ia"
+      }
+    },
+    "16:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “pão” e o “copo da consolação” eram ritos de luto em que os vizinhos alimentavam a família enlutada.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

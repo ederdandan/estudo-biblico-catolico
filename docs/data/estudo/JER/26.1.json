@@ -1,0 +1,57 @@
+{
+  "id": "JER.26.1",
+  "livro": "JER",
+  "titulo": "O processo de Jeremias",
+  "secao": "Jeremias diante do povo",
+  "referencia": "Jr 26,1-24",
+  "ini": {
+    "c": 26,
+    "v": 1
+  },
+  "fim": {
+    "c": 26,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "Eis que estou nas vossas mãos: o processo de Jeremias",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No início do reinado de Joaquim, Deus manda Jeremias ficar no átrio do Templo e dizer tudo, sem omitir nada, “para ver se acaso eles te ouvem e se convertem”: se não ouvirem, Deus fará a este Templo o que fez a Silo. É o mesmo sermão do capítulo 7, agora com as suas consequências. Sacerdotes, profetas e povo agarram Jeremias: “À morte!” Como ousas dizer que esta casa será como Silo? Os príncipes de Judá sobem do palácio e se sentam à porta nova do Templo, como tribunal. Os sacerdotes e profetas acusam: é réu de morte. Jeremias responde com serenidade: foi o Senhor que me enviou; emendai os vossos caminhos, e o Senhor desistirá do mal. “Quanto a mim, eis que estou nas vossas mãos; fazei de mim o que tiverdes por bom e recto”; mas sabei que, se me matardes, derramareis sangue inocente. Os príncipes e o povo mudam de lado: este homem não merece a morte. Alguns anciãos lembram o precedente de Miqueias de Morasti, que anunciou a ruína de Sião no tempo de Ezequias: o rei não o matou, mas temeu o Senhor, e Deus desistiu do mal. Um contraexemplo mostra o perigo: o profeta Urias, que pregava o mesmo, fugiu ao Egito, foi trazido de volta e morto por Joaquim. Jeremias se salva graças à proteção de Aicam, filho de Safã.",
+    "alegorico": "O processo de Jeremias antecipa o de Jesus: acusação dos sacerdotes por ter falado contra o Templo (Mc 14,58), entrega nas mãos dos homens, a advertência do sangue inocente que recairia sobre a cidade (Mt 27,24-25). Mas Jesus não é salvo como Jeremias: dá a vida livremente.",
+    "moral": "O mensageiro deve dizer tudo, “sem nada omitir”, mesmo quando custa. Diante do tribunal, Jeremias não se defende atacando, mas renova o chamado à conversão e se entrega. A memória da Escritura (o caso de Miqueias) ajuda os anciãos a julgar bem. E uma única pessoa de coragem, como Aicam, pode salvar a vida de um justo.",
+    "anagogico": "A palavra de Deus pode ser rejeitada, mas não é vencida. O sangue inocente derramado clama, e o juízo final revelará quem estava do lado da verdade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Anunciar-lhes-ás todas as palavras… sem nada omitir.” “Para ver se acaso eles te ouvem e se convertem.” “À morte!” “Emendai os vossos caminhos.” “Quanto a mim, eis que estou nas vossas mãos.” “A mão de Aicam… foi com Jeremias.”",
+    "meditatio_perguntas": [
+      "Omito partes da verdade para evitar conflitos?",
+      "Sei me entregar a Deus quando sou julgado injustamente?",
+      "Sou como Aicam, alguém que protege o justo perseguido?"
+    ],
+    "oratio_guia": "Senhor, dá-me coragem para dizer a tua palavra sem nada omitir e serenidade para me entregar às tuas mãos quando for julgado. Suscita no teu povo protetores dos justos, como Aicam. Amém.",
+    "contemplatio_foco": {
+      "texto": "Quanto a mim, eis que estou nas vossas mãos",
+      "ref": "Jr 26,14"
+    }
+  },
+  "ancoras": {
+    "26:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação de Mq 3,12: é o único caso no AT em que um profeta é citado nominalmente por outro.",
+        "origem": "ia"
+      }
+    },
+    "26:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Aicam, filho de Safã, pertencia à família do escriba de Josias (2Rs 22,12); seu filho Godolias será governador depois de 587 a.C.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

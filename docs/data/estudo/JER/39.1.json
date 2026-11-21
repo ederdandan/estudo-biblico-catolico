@@ -1,0 +1,57 @@
+{
+  "id": "JER.39.1",
+  "livro": "JER",
+  "titulo": "A queda de Jerusalém",
+  "secao": "O cerco e a queda",
+  "referencia": "Jr 39,1-18",
+  "ini": {
+    "c": 39,
+    "v": 1
+  },
+  "fim": {
+    "c": 39,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "A cidade cai; quem confiou no Senhor é salvo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No nono ano de Sedecias, no décimo mês, Nabucodonosor cerca Jerusalém; no undécimo ano, no nono dia do quarto mês (julho de 587 a.C.), abre-se uma brecha na muralha. Os generais babilônios entram e se sentam na porta do meio. Sedecias e os soldados fogem de noite pelo jardim do rei, entre os dois muros, em direção à Arabá; mas são alcançados nas planícies de Jericó e levados a Nabucodonosor em Rebla. Ali o rei vê os seus filhos serem mortos diante dos seus olhos, junto com os nobres de Judá; depois lhe arrancam os olhos e o levam acorrentado para Babilônia. O palácio e as casas são queimados, as muralhas derrubadas. Nabuzardã, chefe da guarda, deporta o resto do povo e os desertores, mas deixa na terra os mais pobres, dando-lhes vinhas e campos. Nabucodonosor ordena que cuidem de Jeremias e lhe façam o que ele quiser; tiram-no do átrio da guarda e o confiam a Godolias, filho de Aicam. O capítulo termina com uma palavra dada antes da queda ao etíope Abdemelec: a cidade cairá diante dos teus olhos, mas eu te livrarei; não cairás pela espada, “porque tiveste confiança em mim”.",
+    "alegorico": "A queda de Jerusalém é imagem da ruína do pecado, mas também do fim do Templo antigo que dará lugar ao novo. Abdemelec, o estrangeiro salvo pela sua fé, prefigura o centurião e os pagãos que creem: “nem em Israel encontrei tanta fé” (Mt 8,10). Os pobres que recebem a terra lembram as bem-aventuranças: os mansos possuirão a terra.",
+    "moral": "Tudo o que Jeremias anunciou se cumpre: a palavra de Deus não falha. Sedecias, que nunca teve coragem de obedecer, perde tudo, inclusive a vista: a cegueira física sela a cegueira espiritual. Abdemelec, ao contrário, é salvo “porque tiveste confiança em mim”: o pequeno gesto de misericórdia nasceu de uma fé que Deus reconhece.",
+    "anagogico": "No meio da ruína geral, Deus distingue os que nele confiam e lhes dá a vida “como despojo”. No dia final, a fé e a misericórdia serão o critério de salvação."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Abriu-se uma brecha na cidade.” “Mandou arrancar os olhos a Sedecias.” “Aos mais pobres da plebe… deu-lhes vinhas e campos.” “Põe sobre ele os teus olhos, não lhe faças mal nenhum.” “Salvarás a tua vida, porque tiveste confiança em mim, diz o Senhor.”",
+    "meditatio_perguntas": [
+      "Que palavra de Deus adio obedecer, como Sedecias, até ser tarde?",
+      "Minha fé se mostra em gestos concretos, como a de Abdemelec?",
+      "Vejo a mão de Deus que cuida dos seus mesmo no meio da ruína?"
+    ],
+    "oratio_guia": "Senhor, que salvaste Abdemelec porque confiou em ti, dá-me uma confiança que se torne misericórdia. Livra-me da cegueira de quem ouve e não obedece, e guarda a minha vida no dia da provação. Amém.",
+    "contemplatio_foco": {
+      "texto": "salvarás a tua vida, porque tiveste confiança em mim, diz o Senhor",
+      "ref": "Jr 39,18"
+    }
+  },
+  "ancoras": {
+    "39:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O 9º dia do 4º mês do 11º ano de Sedecias corresponde a julho de 587 (ou 586) a.C. A destruição do Templo é recordada pelo judaísmo no jejum de 9 de Av.",
+        "origem": "ia"
+      }
+    },
+    "39:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Rebla, na Síria, às margens do Orontes, era o quartel-general de Nabucodonosor.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

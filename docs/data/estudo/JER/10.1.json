@@ -1,0 +1,57 @@
+{
+  "id": "JER.10.1",
+  "livro": "JER",
+  "titulo": "Os ídolos e o Deus verdadeiro",
+  "secao": "O Templo e a aliança",
+  "referencia": "Jr 10,1-16",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "Os ídolos não falam; o Senhor é o Deus vivo e o rei eterno",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jeremias adverte Israel a não aprender os costumes das nações nem temer os sinais do céu, como os pagãos. O ídolo é um tronco cortado no bosque e trabalhado com o machado, adornado de prata e ouro, preso com pregos para não cair. Não fala, tem de ser carregado porque não anda, não pode fazer mal nem bem. Em contraste, rompe o hino: “Ninguém há semelhante a ti, Senhor! És grande, e é grande o teu nome em fortaleza! Quem te não temerá, ó Rei das nações?” Os ídolos, de prata de Társis e ouro de Ofaz, vestidos de jacinto e púrpura, são obra de artífices; “mas o Senhor é o Deus verdadeiro, o Deus vivo e o rei eterno”. Um versículo em aramaico, a língua das nações, resume a mensagem para os exilados: os deuses que não fizeram o céu e a terra perecerão. O Senhor fez a terra com o seu poder, firmou o mundo com a sabedoria, estendeu os céus com a inteligência; com a sua voz junta as águas, levanta as nuvens, solta os ventos. Diante disso o fabricante de ídolos se envergonha da sua falsidade sem sopro de vida. A porção de Jacó não é como eles: é o criador de tudo, e Israel é a sua herança.",
+    "alegorico": "O Deus vivo que cria pela sabedoria se revela no Verbo, por quem tudo foi feito (Jo 1,3), sabedoria de Deus (1Cor 1,24). Paulo, em Atenas e em Listra, repete o argumento: não pensemos que a divindade é semelhante ao ouro ou à prata lavrados (At 17,29), mas convertei-vos ao Deus vivo, que fez o céu e a terra (At 14,15).",
+    "moral": "O ídolo é sempre obra das nossas mãos: algo que fazemos, enfeitamos, carregamos e que, no fim, nos domina sem poder salvar. Temer os “sinais do céu” (horóscopos, superstições) é dar poder a criaturas. O antídoto é a adoração do Deus vivo e a confiança de ser a sua porção.",
+    "anagogico": "O “rei eterno” sobrevive a todos os ídolos e impérios: quando chegar o dia, as coisas vãs perecerão e só permanecerá aquele que fez tudo. Israel é a herança de Deus, e Deus é a herança de Israel para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não aprendais os caminhos das nações.” “Não podem fazer mal nem bem.” “Ninguém há semelhante a ti, Senhor!” “Mas o Senhor é o Deus verdadeiro, o Deus vivo e o rei eterno.” “Firmou o mundo com a sua sabedoria.” “Israel é a porção da sua herança.”",
+    "meditatio_perguntas": [
+      "Que “ídolos” fabrico e depois tenho de carregar?",
+      "Dou crédito a superstições ou “sinais do céu”?",
+      "Deus é de fato a minha porção, o meu bem principal?"
+    ],
+    "oratio_guia": "Senhor, Deus verdadeiro, Deus vivo e rei eterno, ninguém é semelhante a ti. Livra-me dos ídolos que fabrico e carrego, e sê tu a minha porção para sempre. Amém.",
+    "contemplatio_foco": {
+      "texto": "Mas o Senhor é o Deus verdadeiro, o Deus vivo e o rei eterno",
+      "ref": "Jr 10,10"
+    }
+  },
+  "ancoras": {
+    "10:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Este versículo está em aramaico no texto original, o único em Jeremias: uma fórmula para os exilados responderem aos pagãos na língua deles.",
+        "origem": "ia"
+      }
+    },
+    "10:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Társis, no extremo ocidente (talvez a Espanha); Ofaz, região de ouro, talvez a mesma Ofir.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

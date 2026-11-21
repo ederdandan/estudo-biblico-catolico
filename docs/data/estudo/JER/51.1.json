@@ -1,0 +1,65 @@
+{
+  "id": "JER.51.1",
+  "livro": "JER",
+  "titulo": "Contra Babilônia: o livro lançado no Eufrates",
+  "secao": "Oráculos contra as nações",
+  "referencia": "Jr 51,1-64",
+  "ini": {
+    "c": 51,
+    "v": 1
+  },
+  "fim": {
+    "c": 51,
+    "v": 64
+  },
+  "liturgia": {
+    "tema_central": "Sai do meio dela, povo meu: o livro lançado no Eufrates",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O oráculo continua. Deus levanta um espírito destruidor contra Babilônia; envia joeiradores que a esvaziarão, porque Israel e Judá “não são viúvas do seu Deus”. Fugi do meio de Babilônia, salve cada um a sua vida. Babilônia era na mão do Senhor “um copo de ouro que embriagava toda a terra”; agora caiu num instante: tratamos de curá-la, e não sarou; deixemo-la. O Senhor despertou o espírito dos reis dos medos. Retoma-se o hino do capítulo 10: o Senhor fez a terra com o seu poder; os ídolos são vaidade; a porção de Jacó é o Criador. Babilônia foi o martelo de Deus, com o qual esmagou cavalos, carros, homens, pastores e chefes; mas Deus lhe pagará o mal feito a Sião. A montanha devastadora será montanha queimada, de onde não se tirará pedra angular. Os reinos de Ararat, Mini e Asquenaz são convocados; os mensageiros correm ao rei: a cidade foi tomada. Jerusalém fala: Nabucodonosor me devorou como um dragão; Deus responde: tomarei a tua causa. Bel vomitará o que engoliu. “Sai do meio dela, povo meu”; não temais os boatos. “De longe lembrai-vos do Senhor, suba Jerusalém ao vosso coração.” Ainda que Babilônia suba até o céu, cairá; “os povos trabalham para o nada”. Por fim, um sinal: no quarto ano de Sedecias, Jeremias entrega a Saraías, irmão de Baruc, um livro com estes oráculos; em Babilônia ele deve lê-lo, atar-lhe uma pedra e lançá-lo no Eufrates, dizendo: assim afundará Babilônia e não se levantará. “Até aqui as palavras de Jeremias.”",
+    "alegorico": "O cálice de ouro que embriaga as nações reaparece na mão da grande prostituta, Babilônia, no Apocalipse (Ap 17,4); e a pedra lançada no mar é retomada literalmente: “Um anjo levantou uma pedra… e a lançou ao mar, dizendo: assim será precipitada Babilônia” (Ap 18,21). A pedra angular que não sairá de Babilônia contrasta com Cristo, pedra angular de Sião (1Pd 2,6).",
+    "moral": "O povo de Deus é chamado a não se deixar seduzir pela cidade poderosa nem pelos boatos e medos da história. No exílio, a memória de Jerusalém deve “subir ao coração”: a lembrança de Deus mantém viva a identidade. Tudo o que se constrói sem Deus é “trabalhar para o nada”.",
+    "anagogico": "A queda definitiva de toda Babilônia dará lugar ao canto do céu e da terra (51,48; Ap 18,20). O exilado que se lembra de Jerusalém de longe caminha para ela."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Israel e Judá não são viúvas do seu Deus.” “Babilônia era na mão do Senhor um copo de ouro.” “Medicámos Babilônia, e ela não sarou.” “Sai do meio dela, povo meu.” “De longe lembrai-vos do Senhor, suba Jerusalém ao vosso coração.” “Assim será submersa Babilônia.”",
+    "meditatio_perguntas": [
+      "Sinto-me “viúva”, abandonada, ou creio que Deus é o meu esposo fiel?",
+      "O que em mim ainda bebe do cálice de ouro de Babilônia?",
+      "Deixo “subir ao meu coração” a lembrança de Deus no meio das ocupações?"
+    ],
+    "oratio_guia": "Senhor, que não deixas viúvo o teu povo, faz-me sair do meio de Babilônia. Que de longe eu me lembre de ti e que Jerusalém suba sempre ao meu coração, até que eu entre nela para sempre. Amém.",
+    "contemplatio_foco": {
+      "texto": "de longe lembrai-vos do Senhor, suba (a lembrança, de) Jerusalém ao vosso coração",
+      "ref": "Jr 51,50"
+    }
+  },
+  "ancoras": {
+    "51:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Leb-qamai” no hebraico, traduzido como “Caldeia”: outro atbash, cifra para Kasdim (caldeus), como Sesac em 25,26 e 51,41.",
+        "origem": "ia"
+      }
+    },
+    "51:27": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ararat (Urartu), Mini e Asquenaz eram povos das montanhas ao norte, submetidos aos medos.",
+        "origem": "ia"
+      }
+    },
+    "51:59": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O 4º ano de Sedecias é 594/593 a.C. Saraías era irmão de Baruc (cf. 32,12).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

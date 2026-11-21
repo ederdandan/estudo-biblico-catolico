@@ -1,0 +1,57 @@
+{
+  "id": "JER.52.1",
+  "livro": "JER",
+  "titulo": "A ruína de Jerusalém e a graça a Joaquin",
+  "secao": "Apêndice histórico",
+  "referencia": "Jr 52,1-34",
+  "ini": {
+    "c": 52,
+    "v": 1
+  },
+  "fim": {
+    "c": 52,
+    "v": 34
+  },
+  "liturgia": {
+    "tema_central": "A ruína de Jerusalém e a mesa do rei para Joaquin",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O livro termina com um apêndice histórico, quase igual a 2 Reis 24,18–25,30. Sedecias reinou onze anos e fez o mal; revoltou-se contra Babilônia. No nono ano, Nabucodonosor cercou Jerusalém; no undécimo, a fome se apoderou da cidade, a muralha foi rompida, o rei fugiu e foi preso nas planícies de Jericó; em Rebla viu os filhos serem mortos, teve os olhos arrancados e foi levado acorrentado a Babilônia, onde morreu na prisão. No quinto mês, Nabuzardã queimou o Templo, o palácio e todas as casas grandes, e derrubou as muralhas. Deportou o povo, deixando alguns pobres como vinhateiros e lavradores. Os caldeus quebraram as colunas de bronze, as bases, o mar de bronze, e levaram todos os utensílios do culto; o texto descreve as colunas com os seus capitéis e as cem romãs. O sumo sacerdote Saraías, o segundo sacerdote Sofonias e outros dirigentes foram executados em Rebla. Segue a contagem dos deportados nas três levas: 3.023, 832 e 745, ao todo 4.600 pessoas. Mas o livro não acaba na ruína: no trigésimo sétimo ano do exílio de Joaquin, o novo rei Evil-Merodac o tira da prisão, fala-lhe com bondade, põe o seu trono acima dos outros reis cativos, troca-lhe as vestes de prisioneiro e o admite à sua mesa todos os dias da sua vida.",
+    "alegorico": "A libertação de Joaquin, último herdeiro de Davi, é a pequena luz que mantém viva a promessa: a linhagem de Davi não se extinguiu, e dela nascerá o Messias. O rei tirado do cárcere, com as vestes trocadas e admitido à mesa, é imagem do pecador reconciliado, revestido da veste nova e chamado ao banquete (Lc 15,22-23; Mt 22,1-14).",
+    "moral": "O apêndice mostra que todas as palavras de Jeremias se cumpriram: a fé na palavra de Deus é confirmada pela história. A perda do Templo e dos seus tesouros ensina que nenhuma instituição religiosa é indestrutível sem fidelidade. Mas Deus nunca fecha a história em desgraça: depois de trinta e sete anos, um sinal de graça.",
+    "anagogico": "O cativo que come à mesa do rei “durante todos os dias da sua vida” é imagem do banquete eterno, onde os resgatados se sentarão à mesa do Rei, revestidos de vestes novas, para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Provocaram o furor do Senhor, em Jerusalém e em Judá, até que os rejeitou da sua face.” “Pôs fogo à casa do Senhor.” “Deixou ficar alguns como vinhateiros e lavradores.” “Falou-lhe com afabilidade.” “Fez-lhe também mudar as vestes, que tinha no cárcere, e admitiu-o a comer à sua mesa durante todos os dias da sua vida.”",
+    "meditatio_perguntas": [
+      "Que “templos” na minha vida podem ruir se não forem sustentados pela fidelidade?",
+      "Consigo esperar, como Joaquin, trinta e sete anos pela graça?",
+      "Vejo na Eucaristia a mesa do Rei a que fui admitido, com veste nova?"
+    ],
+    "oratio_guia": "Senhor, que não deixaste apagar a lâmpada de Davi, tira-me do cárcere, troca as minhas vestes e admite-me à tua mesa todos os dias da minha vida. Que eu espere a tua graça mesmo depois de longos anos de exílio. Amém.",
+    "contemplatio_foco": {
+      "texto": "Fez-lhe também mudar as vestes, que tinha no cárcere, e admitiu-o a comer à sua mesa durante todos os dias da sua vida",
+      "ref": "Jr 52,33"
+    }
+  },
+  "ancoras": {
+    "52:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os números (4.600) referem-se provavelmente só aos homens adultos ou aos chefes de família; não coincidem com 2Rs 24,14-16.",
+        "origem": "ia"
+      }
+    },
+    "52:31": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Evil-Merodac (Amel-Marduc), filho de Nabucodonosor, reinou em 562–560 a.C. Tabletes babilônicos registram rações de azeite para “Yaukin, rei de Judá”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

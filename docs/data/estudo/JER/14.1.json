@@ -1,0 +1,49 @@
+{
+  "id": "JER.14.1",
+  "livro": "JER",
+  "titulo": "A seca e a súplica do povo",
+  "secao": "Sinais e confissões",
+  "referencia": "Jr 14,1-22",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Ó esperança de Israel, não nos desampares",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Uma grande seca atinge Judá. As portas da cidade estão de luto; os servos vão às cisternas e voltam com os vasos vazios; os lavradores cobrem a cabeça; a corça abandona a cria recém-nascida por falta de erva, e os asnos selvagens, nos montes, farejam o ar como chacais. O povo reza: se as nossas iniquidades testemunham contra nós, age por amor do teu nome. “Ó esperança de Israel, seu salvador no tempo da tribulação, por que hás-de ser nesta terra como um estranho, como um viandante que somente pára a fim de passar a noite?” Não sejas como um herói que não pode salvar: “Tu, Senhor, estás entre nós, e o teu nome é invocado sobre nós. Não nos desampares.” Deus responde que o povo gosta de andar errante e não o aceita; proíbe o profeta de interceder: jejuns e holocaustos não serão aceitos. Jeremias desculpa o povo: os profetas lhes prometem paz. Deus replica: esses profetas não foram enviados; profetizam visões mentirosas e perecerão pela espada e pela fome que negam. O profeta chora dia e noite a ruína da virgem, filha do seu povo. Depois o povo volta a rezar: rejeitaste Judá? “Reconhecemos, Senhor, a nossa impiedade… pecamos contra ti.” Não desprezes o trono da tua glória; lembra-te da aliança. Algum ídolo faz chover? “Em ti esperamos, porque és tu que tens feito todas estas coisas.”",
+    "alegorico": "O Deus que parecia “um viandante que só para uma noite” se fez de fato hóspede entre os homens: o Verbo armou a sua tenda entre nós (Jo 1,14), e os discípulos de Emaús lhe pedem: “Fica connosco” (Lc 24,29). Cristo é a “esperança de Israel” (At 28,20) e a água que a seca não esgota.",
+    "moral": "A súplica deste capítulo é modelo de oração penitencial: reconhecer o pecado, apelar ao nome de Deus e à aliança, não a méritos próprios, e professar que só Deus dá a chuva. Mas também adverte contra o culto sem conversão e contra os falsos profetas que garantem paz. Quem ora pelo povo deve ser também quem chora por ele.",
+    "anagogico": "Deus não será para sempre um viandante: no fim, “o tabernáculo de Deus estará com os homens” e habitará com eles (Ap 21,3). Não haverá mais seca, porque o Cordeiro conduzirá às fontes das águas da vida."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Voltam com os seus vasos vazios.” “Ó esperança de Israel, seu salvador no tempo da tribulação.” “Como um viandante que somente pára, a fim de passar a noite?” “Mas tu, Senhor, estás entre nós… Não nos desampares.” “Reconhecemos, Senhor, a nossa impiedade.” “Em ti esperamos.”",
+    "meditatio_perguntas": [
+      "Deus é para mim um hóspede de passagem ou alguém que habita comigo?",
+      "Na minha oração apelo à misericórdia de Deus ou aos meus méritos?",
+      "Que “cisternas” me devolvem os vasos vazios?"
+    ],
+    "oratio_guia": "Ó esperança de Israel, salvador no tempo da tribulação, não sejas para mim um viandante de uma noite. Estás no meio de nós, e o teu nome foi invocado sobre nós: reconheço o meu pecado; não me desampares, porque em ti espero. Amém.",
+    "contemplatio_foco": {
+      "texto": "Mas tu, Senhor, estás entre nós, e o teu nome é invocado sobre nós. Não nos desampares",
+      "ref": "Jr 14,9"
+    }
+  },
+  "ancoras": {
+    "14:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na religião cananeia, Baal era o deus da chuva; a confissão final afirma que só o Senhor a concede.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

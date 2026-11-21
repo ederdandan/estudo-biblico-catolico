@@ -1,0 +1,57 @@
+{
+  "id": "JER.1.1",
+  "livro": "JER",
+  "titulo": "A vocação de Jeremias",
+  "secao": "Vocação e primeiros oráculos",
+  "referencia": "Jr 1,1-19",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "Antes que te formasse no ventre, te conheci: a vocação do profeta",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O livro abre com a identidade de Jeremias: filho de Helcias, de uma família sacerdotal de Anatot, na terra de Benjamim. A palavra do Senhor lhe é dirigida desde o décimo terceiro ano de Josias até a deportação de Jerusalém, no undécimo ano de Sedecias: cerca de quarenta anos de ministério, que atravessam a reforma de Josias, a decadência dos últimos reis e a queda da cidade. Deus fala primeiro: “Antes que eu te formasse no ventre de tua mãe, te conheci… te consagrei e constituí profeta entre as nações.” Jeremias objeta: “Ah! Senhor Deus, não sei falar, porque sou uma criança!” O Senhor recusa a desculpa: a tudo o que eu te enviar irás; não os temas, porque eu sou contigo. Toca-lhe a boca, põe nela as suas palavras e o constitui sobre nações e reinos “para arrancares e destruíres, para arruinares e dissipares, para edificares e plantares”. Seguem duas visões: a vara vigilante (em hebraico, amendoeira, “a que vigia”), sinal de que Deus vela sobre a sua palavra para a cumprir; e a panela a ferver voltada do aquilão, anúncio do mal que virá do norte por causa da idolatria. Por fim, a ordem: cinge os teus rins; e a promessa: faço-te cidade fortificada, coluna de ferro, muro de bronze. Pelejarão contra ti, mas não prevalecerão.",
+    "alegorico": "O profeta conhecido e consagrado antes de nascer prefigura Cristo, o Enviado do Pai desde a eternidade, e também João Batista, santificado no seio materno. A boca tocada por Deus anuncia o Verbo que fala as palavras do Pai. A missão de arrancar e plantar é a da Igreja, que derruba o pecado e edifica o Reino; e o muro de bronze contra o qual não prevalecem os inimigos ecoa a promessa de que as portas do inferno não prevalecerão.",
+    "moral": "Cada pessoa é conhecida e querida por Deus antes de existir; a vocação não nasce da capacidade, mas da escolha divina. A objeção “sou uma criança” é humilde, mas Deus não aceita que se torne fuga: a força vem do “eu sou contigo”. Quem fala em nome de Deus precisa de coragem diante dos poderosos, e o medo dos homens é o primeiro inimigo a vencer.",
+    "anagogico": "A vara que vigia lembra que nenhuma palavra de Deus cai no vazio: tudo o que prometeu se cumprirá. A obra de destruir e de plantar só termina quando Deus edificar a cidade definitiva, onde a sua palavra reina sem oposição."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Antes que eu te formasse no ventre de tua mãe, te conheci.” “Não sei falar, porque sou uma criança!” “Não digas: Sou uma criança.” “Eis que ponho as minhas palavras na tua boca.” “Vejo uma vara vigilante.” “Eu vigiarei sobre a minha palavra para a cumprir.” “Pelejarão contra ti, mas não prevalecerão, porque eu sou contigo.”",
+    "meditatio_perguntas": [
+      "Creio que fui conhecido e querido por Deus antes de existir?",
+      "Que “sou uma criança” uso para fugir do que Deus me pede?",
+      "Em que situação preciso ouvir hoje: “não os temas, porque eu sou contigo”?"
+    ],
+    "oratio_guia": "Senhor, que me conheceste antes de me formares, toca a minha boca e põe nela a tua palavra. Livra-me do medo dos homens, faz de mim um muro firme na fidelidade e vigia sobre a tua palavra em minha vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "Antes que eu te formasse no ventre de tua mãe, te conheci",
+      "ref": "Jr 1,5"
+    }
+  },
+  "ancoras": {
+    "1:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O 13º ano de Josias corresponde a cerca de 627 a.C.; a queda de Jerusalém, a 587 a.C.",
+        "origem": "ia"
+      }
+    },
+    "1:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jogo de palavras hebraico: “amendoeira” (shaqed) e “vigiar” (shoqed). A amendoeira é a primeira árvore a despertar no fim do inverno.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

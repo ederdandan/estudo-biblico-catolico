@@ -1,0 +1,65 @@
+{
+  "id": "JER.3.1",
+  "livro": "JER",
+  "titulo": "Convertei-vos, filhos rebeldes",
+  "secao": "Vocação e primeiros oráculos",
+  "referencia": "Jr 3,1–4,4",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 4
+  },
+  "liturgia": {
+    "tema_central": "Convertei-vos, filhos rebeldes, e eu sararei os vossos extravios",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Pela lei, a mulher repudiada que se casou com outro não pode voltar ao primeiro marido; mas Israel prostituiu-se a muitos amantes, e ainda assim o Senhor a chama de volta. A seca veio por causa dessa infidelidade, e o povo, sem se converter, diz: “Tu és meu pai… porventura há-de estar sempre irritado?” Nos dias de Josias, o Senhor mostra a Jeremias duas irmãs: a rebelde Israel, já repudiada e levada ao exílio, e a pérfida Judá, que viu tudo e não temeu, e cuja volta foi só fingida. Por isso Israel parece justa diante de Judá. Então o profeta grita para o norte, onde estão os exilados: “Volta, rebelde Israel… sou misericordioso; a minha ira não durará eternamente”, desde que reconheça a sua maldade. “Convertei-vos a mim, filhos rebeldes”: o Senhor reunirá um de cada cidade, dois de cada família, e lhes dará “pastores segundo o meu coração”. Já não se falará da arca da aliança: Jerusalém inteira será o trono do Senhor e todas as nações ali se reunirão. Deus sonhava dar-lhes a melhor herança e ser chamado pai. Ouve-se nas colinas o pranto de Israel; Deus convida: convertei-vos, e eu sararei; e o povo responde: aqui estamos, vimos a ti. A conversão verdadeira é circuncidar o coração, arrotear o terreno e não semear entre espinhos.",
+    "alegorico": "Os “pastores segundo o meu coração” se cumprem em Cristo, o Bom Pastor, e nos pastores que ele dá à Igreja. O tempo em que a arca não fará falta é o da Nova Aliança: Deus habita no meio do seu povo em Cristo, verdadeira arca e templo, e todas as nações acorrem a ele. A circuncisão do coração é a que o Espírito opera no Batismo (Rm 2,29).",
+    "moral": "Deus faz o que a lei humana não permitia: chama de volta a esposa infiel. Mas a conversão tem de ser de todo o coração, não fingida como a de Judá. Pede três passos: reconhecer o pecado, voltar e mudar o terreno interior (“não semeeis sobre espinhos”, como na parábola do semeador). A resposta “aqui estamos, vimos a ti” é a oração de todo penitente.",
+    "anagogico": "Jerusalém chamada “trono do Senhor”, onde se reúnem todas as nações, aponta para a cidade celeste, que já não precisa de templo, porque o seu templo é o Senhor e o Cordeiro (Ap 21,22)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Volta, rebelde Israel… não te mostrarei um rosto indignado, porque sou misericordioso.” “Convertei-vos a mim, filhos rebeldes.” “Dar-vos-ei pastores segundo o meu coração.” “Chamar-me-ás pai.” “Convertei-vos… e eu sararei os vossos extravios. Aqui estamos, vimos a ti.” “Circuncidai-vos para o Senhor.”",
+    "meditatio_perguntas": [
+      "A minha volta a Deus é de todo o coração ou, como a de Judá, só aparente?",
+      "Que espinhos no meu terreno sufocam a semente?",
+      "Rezo pelos pastores, para que sejam segundo o coração de Deus?"
+    ],
+    "oratio_guia": "Pai misericordioso, que não guardas a ira para sempre, aqui estou, venho a ti. Sara os meus extravios, circuncida o meu coração e dá à tua Igreja pastores segundo o teu coração. Amém.",
+    "contemplatio_foco": {
+      "texto": "Convertei-vos, filhos rebeldes, e eu sararei",
+      "ref": "Jr 3,22"
+    }
+  },
+  "ancoras": {
+    "3:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Alusão à lei de Dt 24,1-4, que proibia ao marido retomar a mulher repudiada que tivesse casado com outro.",
+        "origem": "ia"
+      }
+    },
+    "3:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A arca desapareceu provavelmente na destruição de 587 a.C.; o profeta anuncia que a presença de Deus já não dependerá dela.",
+        "origem": "ia"
+      }
+    },
+    "4:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “circuncisão do coração” (cf. Dt 10,16; 30,6) é a disposição interior de obediência, retomada por São Paulo (Rm 2,29).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

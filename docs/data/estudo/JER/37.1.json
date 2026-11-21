@@ -1,0 +1,57 @@
+{
+  "id": "JER.37.1",
+  "livro": "JER",
+  "titulo": "Jeremias preso",
+  "secao": "O cerco e a queda",
+  "referencia": "Jr 37,1-20",
+  "ini": {
+    "c": 37,
+    "v": 1
+  },
+  "fim": {
+    "c": 37,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "Tens alguma palavra do Senhor? Sim, tenho",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Sedecias, posto no trono por Nabucodonosor, não ouve as palavras de Jeremias, mas lhe manda pedir que reze pelo povo. O exército do Faraó sai do Egito, e os babilônios suspendem o cerco. Jeremias avisa: não vos enganeis; o Egito voltará para casa e os caldeus voltarão, tomarão e queimarão a cidade; ainda que só restassem feridos nas tendas, eles se levantariam e a incendiariam. Aproveitando a trégua, Jeremias sai para a terra de Benjamim, para tratar de uma herança. Na porta de Benjamim, o chefe da guarda Jerias o prende: “Tu foges para os caldeus.” “Isso é falso!”, responde. Os chefes o açoitam e o lançam numa cisterna abobadada na casa do escriba Jônatas, transformada em prisão, onde fica muitos dias. Depois Sedecias o manda trazer em segredo e pergunta: “Crês porventura que tens alguma palavra da parte do Senhor?” “Sim, tenho… Serás entregue nas mãos do rei de Babilônia.” E acrescenta: em que pequei? Onde estão os vossos profetas que diziam que o rei de Babilônia não viria? Pede para não voltar à cisterna. Sedecias o transfere para o átrio da guarda e manda dar-lhe cada dia um pão da rua dos Padeiros, enquanto houvesse pão na cidade.",
+    "alegorico": "O profeta acusado falsamente de traição, açoitado e encarcerado, prefigura Cristo, acusado diante de Pilatos de subverter a nação. O rei que consulta em segredo e não tem coragem de obedecer lembra Pilatos e Herodes, que queriam ouvir Jesus sem se converter.",
+    "moral": "Sedecias é a imagem do homem dividido: sabe que Jeremias tem a palavra de Deus, consulta-o às escondidas, mas não tem coragem de obedecer por medo dos seus chefes. Jeremias, ao contrário, responde com franqueza mesmo na prisão. É tentação comum buscar a palavra de Deus em segredo sem querer mudar diante dos outros.",
+    "anagogico": "O pão diário dado ao profeta enquanto houver pão lembra a providência de Deus, que sustenta os seus até o fim. A palavra que o rei não quis ouvir permanece e se cumprirá."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Pede por nós ao Senhor nosso Deus.” “Não queirais enganar-vos a vós mesmos.” “Tu foges para os Caldeus.” “Crês porventura que tens alguma palavra da parte do Senhor? Jeremias respondeu: Sim, tenho.” “Que se lhe desse uma fatia de pão cada dia.”",
+    "meditatio_perguntas": [
+      "Busco a palavra de Deus “em segredo” sem querer obedecer diante dos outros?",
+      "Engano-me esperando que os problemas desapareçam sozinhos, como os caldeus?",
+      "Mantenho a verdade mesmo quando sou falsamente acusado?"
+    ],
+    "oratio_guia": "Senhor, livra-me do coração dividido de Sedecias. Que eu não só pergunte se tens uma palavra para mim, mas tenha coragem de obedecer-lhe. Sustenta-me com o pão de cada dia. Amém.",
+    "contemplatio_foco": {
+      "texto": "Crês porventura que tens alguma palavra da parte do Senhor? Jeremias respondeu: Sim, tenho",
+      "ref": "Jr 37,16"
+    }
+  },
+  "ancoras": {
+    "37:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Em 588 a.C. o faraó Hofra (Apries) fez uma expedição para socorrer Judá, obrigando os babilônios a suspender brevemente o cerco.",
+        "origem": "ia"
+      }
+    },
+    "37:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração hebraica este versículo é 37,21; a Vulgata dividiu o capítulo de modo diferente.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

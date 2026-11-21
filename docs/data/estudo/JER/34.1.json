@@ -1,0 +1,65 @@
+{
+  "id": "JER.34.1",
+  "livro": "JER",
+  "titulo": "Os escravos libertados e retomados",
+  "secao": "O cerco e a queda",
+  "referencia": "Jr 34,1-22",
+  "ini": {
+    "c": 34,
+    "v": 1
+  },
+  "fim": {
+    "c": 34,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Proclamastes a liberdade e voltastes atrás",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Durante o cerco, quando só restavam Laquis e Azeca entre as cidades fortificadas, Jeremias anuncia a Sedecias que a cidade será queimada e ele verá face a face o rei de Babilônia; mas não morrerá à espada: morrerá em paz e será chorado como os reis seus pais. Depois se conta um episódio revelador. Sedecias tinha feito um pacto com o povo para libertar os escravos hebreus, homens e mulheres, como mandava a lei; os chefes e o povo cumpriram. Mas, quando o exército babilônio se retirou por um tempo, arrependeram-se e retomaram à força os escravos libertados. Deus recorda a aliança do Êxodo, feita quando tirou o povo “da casa da escravidão”: ao fim de sete anos, o irmão hebreu devia ser libertado. Os pais não obedeceram; agora vós vos convertestes, fizestes o que é reto e selastes o pacto no Templo; mas voltastes atrás e profanastes o meu nome. Por isso, diz o Senhor com ironia, “eis que vos intimo eu a liberdade”: liberdade para a espada, a peste e a fome. Os que passaram entre as metades do bezerro cortado, rito do juramento, sofrerão a sorte do animal. O exército que se retirou voltará e queimará a cidade.",
+    "alegorico": "Cristo vem “proclamar a libertação aos cativos” (Lc 4,18) e nos liberta de verdade (Jo 8,36). O rito de passar entre as metades do animal remete à aliança com Abraão (Gn 15,17), onde só Deus passou, comprometendo-se sozinho: figura da aliança selada no corpo partido de Cristo.",
+    "moral": "Converter-se na hora do perigo e voltar atrás quando a ameaça passa é uma tentação conhecida. Promessas feitas a Deus em momentos de crise devem ser mantidas depois. E a liberdade do próximo não pode ser revogada por interesse: quem escraviza o irmão profana o nome de Deus.",
+    "anagogico": "A verdadeira liberdade é a “liberdade gloriosa dos filhos de Deus” (Rm 8,21). Quem a recusa aos irmãos acaba “livre” apenas para a ruína."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Cada um deixasse livres o seu escravo e a sua escrava.” “Mas depois arrependeram-se.” “Vós tínheis-vos, agora, convertido… mas depois voltastes atrás, profanastes o meu nome.” “Eis que vos intimo eu a liberdade.”",
+    "meditatio_perguntas": [
+      "Que promessas fiz a Deus num momento de aperto e depois esqueci?",
+      "Retenho alguém numa forma de “escravidão” por conveniência minha?",
+      "Minha conversão resiste quando o perigo passa?"
+    ],
+    "oratio_guia": "Senhor, que me tiraste da casa da escravidão, dá-me fidelidade para cumprir as promessas que te fiz e para respeitar a liberdade dos meus irmãos. Não permitas que eu volte atrás quando a prova passar. Amém.",
+    "contemplatio_foco": {
+      "texto": "Vós tínheis-vos, agora, convertido (a mim) e feito o que é recto aos meus olhos",
+      "ref": "Jr 34,15"
+    }
+  },
+  "ancoras": {
+    "34:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Uma das cartas de Laquis (óstraco encontrado em escavações) diz que já não se viam os sinais de fogo de Azeca: testemunho direto deste momento.",
+        "origem": "ia"
+      }
+    },
+    "34:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Lei de Ex 21,2 e Dt 15,12: o escravo hebreu devia ser libertado no sétimo ano.",
+        "origem": "ia"
+      }
+    },
+    "34:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Rito de aliança: as partes passavam entre as metades do animal, invocando sobre si a mesma sorte se quebrassem o pacto (Gn 15,9-17).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

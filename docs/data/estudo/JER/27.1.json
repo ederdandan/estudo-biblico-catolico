@@ -1,0 +1,57 @@
+{
+  "id": "JER.27.1",
+  "livro": "JER",
+  "titulo": "O jugo do rei de Babilônia",
+  "secao": "Jeremias diante do povo",
+  "referencia": "Jr 27,1-22",
+  "ini": {
+    "c": 27,
+    "v": 1
+  },
+  "fim": {
+    "c": 27,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Submetei o pescoço ao jugo e vivereis",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No início do reinado de Sedecias (o versículo 1 traz Joaquim, mas o contexto é o de Sedecias, cf. 27,3.12; 28,1), embaixadores de Edom, Moab, Amon, Tiro e Sidônia estão em Jerusalém para tramar uma revolta contra Babilônia. Deus manda Jeremias fazer cordas e um jugo, pô-lo ao pescoço e mandar um recado aos reis: Eu fiz a terra, os homens e os animais, e dou o domínio a quem me apraz; agora entreguei estas terras a Nabucodonosor, “meu servo”, e todos o servirão, a ele, ao filho e ao neto, até que chegue o tempo também da sua terra. A nação que não se submeter será castigada; a que dobrar a cerviz ficará na sua terra. Não deis ouvidos a profetas, adivinhos, sonhadores e feiticeiros que dizem: não servireis ao rei de Babilônia. A mesma mensagem é dirigida a Sedecias: submetei o pescoço e vivereis; por que morrer? E aos sacerdotes e ao povo: os profetas que prometem a volta breve dos utensílios do Templo mentem. Se fossem verdadeiros profetas, intercederiam para que não fosse levado o que restou: as colunas, o mar de bronze, as bases. Também estes irão para Babilônia, até o dia em que Deus os for buscar e os restituir.",
+    "alegorico": "O jugo que Jeremias carrega ao pescoço prefigura o jugo de Cristo, “suave e leve” (Mt 11,29-30): a submissão humilde que salva. Os objetos do Templo levados e um dia restituídos anunciam a restauração do culto verdadeiro, em espírito e verdade.",
+    "moral": "Às vezes a vontade de Deus passa por aceitar uma situação humilhante em vez de lutar contra ela por orgulho. Os falsos profetas oferecem a libertação imediata; o verdadeiro pede paciência e submissão. Deus dá o poder a quem quer, até a um pagão; nenhum poder humano é absoluto, e todos têm o seu “tempo”.",
+    "anagogico": "“Até ao dia em que eu os for buscar”: Deus guarda o que foi levado e o restituirá. Nada do que foi oferecido a ele se perde; tudo será restaurado no Reino."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Faze-te umas prisões e um jugo, que porás ao pescoço.” “Eu fiz a terra… e dou o seu domínio àquele a quem me apraz dá-lo.” “Submetei o vosso pescoço ao jugo do rei de Babilônia… e vivereis.” “Por que causa vos sujeitais a morrer?” “Até ao dia em que eu os for buscar.”",
+    "meditatio_perguntas": [
+      "Que “jugo” Deus me pede aceitar com humildade em vez de lutar por orgulho?",
+      "Prefiro profetas que prometem libertação fácil?",
+      "Confio que Deus restituirá o que perdi por fidelidade?"
+    ],
+    "oratio_guia": "Senhor, que dás o domínio a quem te apraz, ensina-me a aceitar o jugo que vem de ti e a desconfiar das promessas fáceis. Toma o meu pescoço sob o jugo suave do teu Filho. Amém.",
+    "contemplatio_foco": {
+      "texto": "Submetei o vosso pescoço ao jugo do rei de Babilônia, servi-o a ele e ao seu povo, e vivereis",
+      "ref": "Jr 27,12"
+    }
+  },
+  "ancoras": {
+    "27:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O texto massorético repete aqui o nome de Joaquim (cf. 26,1), mas os vv. 3, 12 e 28,1 mostram que se trata de Sedecias, por volta de 594 a.C.",
+        "origem": "ia"
+      }
+    },
+    "27:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As colunas Jaquin e Boaz, o mar de bronze e as bases foram feitos por Salomão (1Rs 7,15-39) e levados em 587 a.C. (Jr 52,17).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

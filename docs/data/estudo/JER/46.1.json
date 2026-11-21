@@ -1,0 +1,65 @@
+{
+  "id": "JER.46.1",
+  "livro": "JER",
+  "titulo": "Contra o Egito",
+  "secao": "Oráculos contra as nações",
+  "referencia": "Jr 46,1-28",
+  "ini": {
+    "c": 46,
+    "v": 1
+  },
+  "fim": {
+    "c": 46,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "O Egito cai em Carquemis; não temas, servo meu Jacó",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Começa a coleção dos oráculos contra as nações. O primeiro é contra o Egito, cujo exército, sob o faraó Necao, foi derrotado por Nabucodonosor junto ao Eufrates, em Carquemis, no quarto ano de Joaquim (605 a.C.). O poema começa com as ordens de batalha: preparai escudos, aparelhai os cavalos, ponde os elmos, polí as lanças. Mas logo o profeta vê os valentes em fuga, sem olhar para trás: “terror de todos os lados”. O Egito subia como o Nilo na cheia, dizendo: cobrirei a terra; mas é o dia do Senhor, dia de vingança, um sacrifício junto ao Eufrates. Com ironia, o profeta manda a virgem do Egito buscar bálsamo em Galaad: não haverá cura. Um segundo oráculo anuncia a invasão do próprio Egito por Nabucodonosor: Migdol, Mênfis e Táfnis devem preparar-se; o touro sagrado Ápis caiu, porque o Senhor o derrubou; ao faraó dão o apelido “o tempo trouxe o tumulto”. O Egito, bela novilha, é atacado por um moscardo do norte; os mercenários, bezerros cevados, fogem; os caldeus cortam o país como lenhadores numa floresta. Deus castigará Amon de Tebas, o faraó e os deuses do Egito; depois o Egito será habitado de novo. E a palavra final é para Israel: “não temas, servo meu Jacó… eu sou contigo”; castigar-te-ei com medida, mas não te destruirei.",
+    "alegorico": "O Egito, onde Israel buscava apoio, é figura das seguranças do mundo que não salvam. O “dia do Senhor” sobre as nações anuncia o juízo universal. E a palavra “não temas, servo meu Jacó” é retomada para a Igreja, o novo Israel, que atravessa a queda dos impérios guardada por Deus.",
+    "moral": "Os poderosos parecem invencíveis como o Nilo na cheia, mas caem num dia. Confiar nos “Egitos” desta vida é apoiar-se num caniço. Para quem confia em Deus, a correção existe, mas é “com medida”: ele não abandona.",
+    "anagogico": "Todos os impérios passam; só o Reino de Deus permanece. A promessa de que Jacó voltará e viverá tranquilo aponta para a paz definitiva do povo de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Preparai o escudo e o pavês.” “O terror cerca-os de todas as partes.” “Será o dia do Senhor Deus dos exércitos.” “Em vão multiplicas os remédios.” “Não temas, servo meu Jacob… porque eu sou contigo.” “Castigar-te-ei com medida.”",
+    "meditatio_perguntas": [
+      "Em que “Egito” busco apoio em vez de Deus?",
+      "Sou capaz de ver a queda dos poderosos sem medo, confiando em Deus?",
+      "Aceito a correção “com medida” como sinal de que Deus está comigo?"
+    ],
+    "oratio_guia": "Senhor, quando os impérios deste mundo se levantam como o Nilo, diz-me: “não temas, eu sou contigo”. Corrige-me com medida, mas não me abandones. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não temas, servo meu Jacob, diz o Senhor, porque eu sou contigo",
+      "ref": "Jr 46,28"
+    }
+  },
+  "ancoras": {
+    "46:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A batalha de Carquemis (605 a.C.) decidiu o domínio babilônico sobre a Síria e a Palestina.",
+        "origem": "ia"
+      }
+    },
+    "46:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Setenta lê aqui “Por que fugiu Ápis?”, o touro sagrado de Mênfis.",
+        "origem": "ia"
+      }
+    },
+    "46:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Amon de Nó: o deus Amon de Tebas (No-Amon).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

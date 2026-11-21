@@ -1,0 +1,57 @@
+{
+  "id": "JER.38.1",
+  "livro": "JER",
+  "titulo": "Na cisterna; Abdemelec",
+  "secao": "O cerco e a queda",
+  "referencia": "Jr 38,1-28",
+  "ini": {
+    "c": 38,
+    "v": 1
+  },
+  "fim": {
+    "c": 38,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "Tirado da cisterna pelas mãos de um estrangeiro",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quatro chefes ouvem Jeremias repetir ao povo que quem ficar na cidade morrerá e quem se render viverá. Vão ao rei: este homem deve morrer, porque desanima os soldados e o povo; não busca o bem, mas o mal. Sedecias se rende: “Aí o tendes nas vossas mãos, pois nada pode o rei contra vós.” Descem Jeremias com cordas na cisterna de Melquias, no átrio da guarda; não há água, só lama, e ele afunda no lodo. Então Abdemelec, um eunuco etíope do palácio, vai ao rei, sentado à porta de Benjamim: esses homens agiram mal; ele vai morrer de fome. O rei ordena: leva trinta homens e tira-o antes que morra. Abdemelec busca trapos e roupas velhas no depósito do palácio, desce-os com cordas e diz a Jeremias: põe-nos debaixo dos braços, entre os braços e as cordas. Assim o puxam para fora. Depois Sedecias chama Jeremias em segredo, à terceira entrada do Templo: não me escondas nada. Jeremias: se eu falar, me matarás? E se aconselhar, não me ouvirás. O rei jura protegê-lo. A palavra é a mesma: rende-te aos oficiais de Babilônia e viverás, e a cidade não será queimada. O rei tem medo dos judeus que já passaram aos caldeus. Jeremias insiste: ouve a voz do Senhor. Se não, as mulheres do palácio dirão: os teus amigos te enganaram; quando os teus pés se atolaram na lama, te abandonaram. Sedecias pede segredo, e Jeremias fica no átrio da guarda até o dia da queda.",
+    "alegorico": "O profeta lançado na cisterna e tirado de lá é figura da morte e ressurreição: como José (Gn 37,24) e como o salmista que Deus tira “do lago da miséria e do lodo” (Sl 39,3). Abdemelec, estrangeiro que salva o profeta, anuncia os gentios que acolherão a palavra, como o eunuco etíope batizado por Filipe (At 8,27-39).",
+    "moral": "O poder fraco de Sedecias, que “nada pode contra vós”, é cúmplice do mal por omissão. Um só homem, estrangeiro e servo, tem a coragem de falar ao rei e salvar o justo; e o faz com delicadeza: os trapos para que as cordas não firam. A caridade se mostra nos detalhes. E a ironia final: o rei que não quis tirar o profeta da lama terá os pés atolados na lama.",
+    "anagogico": "Deus não abandona os seus no fundo da cisterna: a mão que desce para tirar o justo do lodo é sinal da mão de Deus que tirará os seus da morte."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Aí o tendes nas vossas mãos, pois nada pode o rei contra vós.” “E assim se atolou Jeremias no lodo.” “Estes homens procederam mal em tudo quanto fizeram contra o profeta.” “Mete esses pedaços de pano velho… debaixo dos teus sovacos.” “Rogo-te que ouças a voz do Senhor.”",
+    "meditatio_perguntas": [
+      "Sou como Sedecias, que lava as mãos diante da injustiça?",
+      "Tenho a coragem de Abdemelec para defender quem está “na cisterna”?",
+      "Cuido dos detalhes da caridade, como os trapos sob as cordas?"
+    ],
+    "oratio_guia": "Senhor, que tiras os teus do lodo da cisterna, dá-me a coragem e a delicadeza de Abdemelec para socorrer os que sofrem. Não me deixes ser cúmplice do mal por fraqueza, e ajuda-me a ouvir a tua voz. Amém.",
+    "contemplatio_foco": {
+      "texto": "Rogo-te que ouças a voz do Senhor, que te anuncio; será bem para ti, e terás a vida salva",
+      "ref": "Jr 38,20"
+    }
+  },
+  "ancoras": {
+    "38:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As cisternas eram cavadas na rocha para recolher a água das chuvas; no fim do verão e durante o cerco, ficavam apenas com lama no fundo.",
+        "origem": "ia"
+      }
+    },
+    "38:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Abdemelec significa “servo do rei”. Por sua fé, recebe uma promessa de salvação em 39,15-18.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

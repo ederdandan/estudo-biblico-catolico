@@ -1,0 +1,49 @@
+{
+  "id": "JER.24.1",
+  "livro": "JER",
+  "titulo": "Os dois cestos de figos",
+  "secao": "Reis e profetas",
+  "referencia": "Jr 24,1-10",
+  "ini": {
+    "c": 24,
+    "v": 1
+  },
+  "fim": {
+    "c": 24,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "Dar-lhes-ei um coração para que me conheçam",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Depois da primeira deportação de 597 a.C., quando Nabucodonosor levou Jeconias, os príncipes e os artesãos para Babilônia, o Senhor mostra a Jeremias dois cestos de figos diante do Templo: um com figos excelentes, como os temporãos; outro com figos tão ruins que não se podem comer. “Que vês, Jeremias?” “Figos, uns muito bons, e outros muito maus.” A explicação inverte a opinião corrente. Os que ficaram em Jerusalém se julgavam os abençoados e viam os exilados como rejeitados. Mas Deus diz: os figos bons são os deportados; olharei por eles para o bem, os reconduzirei, os edificarei e plantarei. “Dar-lhes-ei um coração dócil, para que me conheçam, para que saibam que eu sou o Senhor; serão para mim o meu povo, e eu serei para eles o seu Deus, porque se converterão a mim de todo o seu coração.” Os figos maus são Sedecias, os seus príncipes e os que ficaram em Jerusalém ou fugiram para o Egito: serão objeto de opróbrio e consumidos pela espada, pela fome e pela peste.",
+    "alegorico": "O coração novo prometido aos exilados se cumpre no dom do Espírito, que nos faz conhecer a Deus como Pai (Rm 8,15). A figueira e os seus frutos reaparecem nas palavras de Jesus: pela qualidade dos frutos se conhece a árvore (Mt 7,16-20).",
+    "moral": "Deus não olha como os homens: os que pareciam rejeitados, no exílio, são os que ele escolhe, porque ali o coração se converte. A provação pode ser o lugar da graça, e a aparente segurança, o da perdição. O conhecimento de Deus é dom: “dar-lhes-ei um coração”.",
+    "anagogico": "A fórmula “serão o meu povo e eu serei o seu Deus” aponta para a aliança perfeita do fim dos tempos, quando o povo purificado pelo exílio da vida terrena verá a Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Que vês, Jeremias?” “Figos, uns muito bons, e outros muito maus.” “Volverei para eles os meus olhos propícios.” “Plantá-los-ei e não mais os arrancarei.” “Dar-lhes-ei um coração para que me conheçam… porque se converterão a mim de todo o seu coração.”",
+    "meditatio_perguntas": [
+      "Julgo bem-aventurados os que parecem seguros e esquecidos os que sofrem?",
+      "Vejo o “exílio” da minha vida como lugar onde Deus me dá um coração novo?",
+      "Peço a Deus a graça de conhecê-lo?"
+    ],
+    "oratio_guia": "Senhor, dá-me um coração que te conheça e se converta a ti por inteiro. No exílio e na provação, volta para mim os teus olhos propícios, edifica-me e planta-me para sempre. Amém.",
+    "contemplatio_foco": {
+      "texto": "Dar-lhes-ei um coração (dócil), para que me conheçam, para que saibam que eu sou o Senhor",
+      "ref": "Jr 24,7"
+    }
+  },
+  "ancoras": {
+    "24:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A primeira deportação, em 597 a.C., levou a elite de Jerusalém, entre eles o profeta Ezequiel (2Rs 24,14-16).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

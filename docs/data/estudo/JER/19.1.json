@@ -1,0 +1,57 @@
+{
+  "id": "JER.19.1",
+  "livro": "JER",
+  "titulo": "A bilha quebrada e o tronco de Fassur",
+  "secao": "Sinais e confissões",
+  "referencia": "Jr 19,1–20,6",
+  "ini": {
+    "c": 19,
+    "v": 1
+  },
+  "fim": {
+    "c": 20,
+    "v": 6
+  },
+  "liturgia": {
+    "tema_central": "A bilha quebrada que não pode refazer-se",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus manda Jeremias comprar uma bilha de barro e ir com anciãos do povo e dos sacerdotes ao vale de Ben-Hinom, junto à porta dos Cacos. Ali anuncia uma calamidade que fará retinir os ouvidos de quem a ouvir, porque profanaram o lugar, queimaram incenso a deuses estranhos, encheram-no de sangue de inocentes e queimaram os filhos em holocausto a Baal, “coisa que não mandei jamais, nem disse, nem me veio ao pensamento”. O vale se chamará Vale da Matança; no cerco, a fome será tal que comerão a carne dos filhos. Então Jeremias quebra a bilha diante deles: assim Deus quebrará este povo e esta cidade, “como se quebra uma bilha de barro, que não pode mais refazer-se”. Voltando, repete a mensagem no átrio do Templo. O sacerdote Fassur, inspetor do Templo, manda açoitá-lo e prendê-lo no tronco, junto à porta de Benjamim. No dia seguinte, ao soltá-lo, Jeremias lhe dá um nome novo: não mais Fassur, mas Magor-Missabib, “terror de todos os lados”. Ele verá os amigos caírem, e ele mesmo irá para Babilônia, morrerá e será sepultado lá, ele que profetizou mentira.",
+    "alegorico": "O sinal da bilha se completa com o do oleiro: o vaso ainda mole pode ser refeito; o já cozido e endurecido se quebra. O campo do oleiro reaparece na Paixão: com as trinta moedas de Judas se compra o campo do oleiro, e Mateus liga o fato a Jeremias (Mt 27,9-10). O profeta açoitado e posto no tronco prefigura Cristo flagelado.",
+    "moral": "Há um endurecimento que torna o coração como barro cozido: já não se deixa modelar. Enquanto há tempo, é preciso deixar-se refazer. O sinal também mostra a coragem de profetizar diante dos poderosos: Jeremias, açoitado, não muda de palavra. E a mentira de Fassur, que tranquiliza, acaba virando terror.",
+    "anagogico": "O que se quebra sem remédio é a condição de quem recusa até o fim a misericórdia. Mas quem se deixa quebrar pela contrição (Sl 50,19) recebe de Deus um coração novo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vai comprar uma bilha de barro.” “Coisa que não mandei jamais, nem disse, nem me veio ao pensamento.” “Quebrarei este povo e esta cidade, como se quebra uma bilha de barro, que não pode mais refazer-se.” “Mandou vergastar o profeta Jeremias e pô-lo no cepo.” “Magor-Missabib.”",
+    "meditatio_perguntas": [
+      "Meu coração ainda é barro mole nas mãos de Deus, ou já endureceu?",
+      "Que mentira tranquilizadora prefiro à verdade que me corrige?",
+      "Tenho coragem de manter a palavra de Deus quando ela me custa?"
+    ],
+    "oratio_guia": "Senhor, não permitas que o meu coração endureça como barro cozido. Quebra-o pela contrição, enquanto há tempo, e refaz-me nas tuas mãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "como se quebra uma bilha de barro, que não pode mais refazer-se",
+      "ref": "Jr 19,11"
+    }
+  },
+  "ancoras": {
+    "19:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “porta das olarias” (ou dos Cacos) dava para o vale de Hinom, onde os oleiros lançavam os restos dos vasos quebrados.",
+        "origem": "ia"
+      }
+    },
+    "20:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Magor-Missabib, “terror de todos os lados”, expressão que reaparece em Jr 6,25; 20,10; 46,5.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

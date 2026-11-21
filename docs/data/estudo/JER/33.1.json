@@ -1,0 +1,57 @@
+{
+  "id": "JER.33.1",
+  "livro": "JER",
+  "titulo": "O Germe de justiça e a aliança com o dia",
+  "secao": "O Livro da Consolação",
+  "referencia": "Jr 33,1-26",
+  "ini": {
+    "c": 33,
+    "v": 1
+  },
+  "fim": {
+    "c": 33,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "Invoca-me, e eu te anunciarei coisas grandes; a aliança com o dia e a noite",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ainda preso no átrio da guarda, Jeremias recebe nova palavra do Senhor que fez a terra: “Invoca-me, e eu te atenderei e te anunciarei coisas grandes e ocultas, que ignoras.” As casas de Jerusalém, desmanteladas para a defesa, se encherão de cadáveres; mas Deus fechará a chaga da cidade e a curará, mostrará paz e segurança, mudará a sorte de Judá e de Israel, os purificará de todas as iniquidades e perdoará. A cidade será para Deus motivo de alegria e glória diante das nações. No lugar que dizem deserto, ouvir-se-ão de novo os gritos de alegria, os cantos do esposo e da esposa, e a voz dos que levam ofertas ao Templo dizendo: “Louvai o Senhor dos exércitos, porque o Senhor é bom, porque a sua graça é eterna.” Haverá de novo pastores contando as ovelhas nas cidades de Judá. Então se repete a promessa do Germe justo de Davi, e agora o nome “Iavé nossa justiça” é dado à própria Jerusalém. Nunca faltará um descendente de Davi no trono nem um sacerdote levita diante de Deus. Essa aliança é tão firme como a aliança de Deus com o dia e com a noite: se ela pudesse ser quebrada, também a promessa a Davi. Aos que dizem que Deus rejeitou as duas famílias escolhidas, ele responde: assim como fixei as leis do céu e da terra, não rejeitarei a descendência de Jacó e de Davi; terei compaixão deles.",
+    "alegorico": "A promessa de um rei davídico e de um sacerdócio perpétuo se cumpre em Cristo, Rei eterno e Sumo Sacerdote para sempre (Hb 7,24), e na Igreja, povo sacerdotal que oferece o sacrifício de louvor “todos os dias”. As “coisas grandes e ocultas” são o mistério escondido desde os séculos e revelado em Cristo (Cl 1,26).",
+    "moral": "O convite “invoca-me” é a porta da revelação: Deus mostra as suas coisas a quem reza, mesmo preso e sem perspectivas. A fidelidade de Deus é tão regular como o nascer do sol: cada manhã é sinal de que ele não esquece as suas promessas. O louvor “o Senhor é bom, a sua graça é eterna” é a resposta do povo restaurado.",
+    "anagogico": "A cidade curada, onde ressoam os cantos de núpcias e o louvor, é imagem da Jerusalém celeste e das bodas do Cordeiro. A aliança com o dia e a noite dura até que venha o dia sem ocaso."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Invoca-me, e eu te atenderei e te anunciarei coisas grandes e ocultas, que ignoras.” “Eis que fecharei a sua chaga e a curarei.” “Louvai o Senhor dos exércitos, porque o Senhor é bom, porque a sua graça é eterna.” “Farei que saia de Davide um germen justo.” “Se podeis quebrar a minha aliança com o dia…”",
+    "meditatio_perguntas": [
+      "Invoco a Deus mesmo quando me sinto “preso” sem saída?",
+      "Vejo no nascer de cada dia um sinal da fidelidade de Deus?",
+      "Que “coisas grandes e ocultas” Deus quer me mostrar na oração?"
+    ],
+    "oratio_guia": "Senhor, eu te invoco: atende-me e mostra-me as tuas coisas grandes e ocultas. Cura as chagas da tua Igreja e faz ressoar nela o louvor: tu és bom, e a tua graça é eterna. Amém.",
+    "contemplatio_foco": {
+      "texto": "Invoca-me, e eu te atenderei e te anunciarei coisas grandes e ocultas, que ignoras",
+      "ref": "Jr 33,3"
+    }
+  },
+  "ancoras": {
+    "33:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O refrão “o Senhor é bom, a sua graça é eterna” é o dos salmos de louvor do Templo (Sl 105,1; 135).",
+        "origem": "ia"
+      }
+    },
+    "33:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os vv. 14-26 faltam na antiga tradução grega (Setenta); estão no texto hebraico e na Vulgata.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

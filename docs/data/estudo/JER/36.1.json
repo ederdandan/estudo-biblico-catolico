@@ -1,0 +1,57 @@
+{
+  "id": "JER.36.1",
+  "livro": "JER",
+  "titulo": "O rolo queimado",
+  "secao": "O cerco e a queda",
+  "referencia": "Jr 36,1-32",
+  "ini": {
+    "c": 36,
+    "v": 1
+  },
+  "fim": {
+    "c": 36,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "O rolo queimado e reescrito: a palavra não se consome",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No quarto ano de Joaquim (605 a.C.), Deus manda Jeremias escrever num rolo todas as palavras que lhe dissera desde o tempo de Josias, na esperança de que Judá se converta e Deus possa perdoar. Jeremias dita e Baruc, filho de Néria, escreve. Impedido de entrar no Templo, Jeremias manda Baruc ler o rolo ao povo num dia de jejum. No nono mês do quinto ano, Baruc lê na sala de Gamarias, filho de Safã. Miqueias, filho de Gamarias, corre a contar aos príncipes reunidos no palácio. Estes chamam Baruc, ouvem a leitura, olham-se assustados: é preciso informar o rei. Perguntam como foi escrito: ele me ditava, e eu escrevia com tinta. Aconselham: esconde-te com Jeremias. O rei manda Judi buscar o rolo e lê-lo. É inverno; o rei está sentado diante de um braseiro. A cada três ou quatro colunas lidas, ele as corta com o canivete do escriba e lança ao fogo, até queimar tudo. Nem o rei nem os servos temem ou rasgam as vestes, embora Elnatan, Dalaias e Gamarias peçam que não o queime. Manda prender Baruc e Jeremias, “mas o Senhor escondeu-os”. Deus ordena: toma outro rolo e escreve tudo de novo; a Joaquim, que queimou o livro, não sucederá ninguém no trono de Davi. Baruc reescreve o rolo, e acrescentam-se ainda muitas palavras semelhantes.",
+    "alegorico": "O contraste com o rei Josias, que ao ouvir o livro da lei rasgou as vestes (2Rs 22,11), é evidente. A palavra queimada e reescrita mostra que a Palavra de Deus não pode ser destruída: “o céu e a terra passarão, mas as minhas palavras não passarão” (Mt 24,35). O episódio é também um testemunho da formação da Escritura, ditada e escrita sob inspiração.",
+    "moral": "Diante da palavra de Deus há duas atitudes: o temor que leva à conversão, ou o desprezo que corta e queima. Às vezes “queimamos” a palavra deixando de ler, cortando o que incomoda, escolhendo só o que agrada. Mas ninguém silencia Deus: a palavra volta, “e ainda foram acrescentadas muitas mais”. Os príncipes que intercedem e Baruc que escreve fielmente mostram a coragem dos colaboradores da palavra.",
+    "anagogico": "A palavra que o fogo não destrói será o critério do juízo final (Jo 12,48). Os livros serão abertos (Ap 20,12), e o que Deus disse permanecerá."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Toma o rolo dum livro e escreve nele todas as palavras.” “A ver se… volta cada um do seu perverso caminho, de sorte que eu lhes possa perdoar.” “Pela sua boca me ditava todas estas palavras, e eu as escrevia.” “Cortava-as com o canivete… e lançava-as ao fogo.” “Mas o Senhor escondeu-os.” “Toma de novo outro livro.”",
+    "meditatio_perguntas": [
+      "Que partes da Palavra de Deus eu “corto” porque me incomodam?",
+      "Ao ouvir a Escritura, deixo-me tocar como Josias ou fico indiferente como Joaquim?",
+      "Como colaboro, como Baruc, na transmissão da palavra?"
+    ],
+    "oratio_guia": "Senhor, que a tua palavra não seja cortada nem queimada no meu coração. Dá-me temor e conversão ao ouvi-la, e faz de mim um servo fiel como Baruc, que a transmite sem nada omitir. Amém.",
+    "contemplatio_foco": {
+      "texto": "Toma de novo outro livro, e escreve nele todas as palavras que havia no primeiro livro",
+      "ref": "Jr 36,28"
+    }
+  },
+  "ancoras": {
+    "36:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Baruc, filho de Néria, secretário de Jeremias. Foi encontrada uma bula de argila com a inscrição “de Berequiahu, filho de Neriahu, o escriba”, talvez o seu selo.",
+        "origem": "ia"
+      }
+    },
+    "36:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O nono mês (Kislev) corresponde a novembro–dezembro: por isso o braseiro aceso.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "JER.43.8",
+  "livro": "JER",
+  "titulo": "Em Táfnis; a rainha do céu",
+  "secao": "Depois da queda",
+  "referencia": "Jr 43,8–44,30",
+  "ini": {
+    "c": 43,
+    "v": 8
+  },
+  "fim": {
+    "c": 44,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "Em Táfnis: a rainha do céu e a palavra que se cumpre",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Em Táfnis, Deus manda Jeremias enterrar grandes pedras no pavimento de tijolo à entrada do palácio do faraó, diante dos judeus: sobre elas Nabucodonosor, “meu servo”, porá o seu trono; virá ferir o Egito, queimar os templos dos deuses, levar os ídolos e quebrar os obeliscos da Casa do Sol. Depois, a palavra se dirige a todos os judeus do Egito, em Migdol, Táfnis, Mênfis e Patros: vistes o que fiz a Jerusalém por causa da idolatria; enviei os profetas com solicitude dizendo “não cometais esta abominação que detesto”; por que fazeis tão grande mal contra vós mesmos, oferecendo incenso a deuses estranhos aqui? Esquecestes as maldades dos vossos pais e as vossas? Os que vieram ao Egito perecerão; poucos voltarão. Então os homens, cujas mulheres queimavam incenso, e uma grande multidão respondem: não ouviremos a tua palavra; cumpriremos os votos à Rainha do céu, como fazíamos em Judá; então tínhamos pão e éramos felizes; desde que deixamos de lhe oferecer, falta-nos tudo. Jeremias replica: foi justamente esse culto que o Senhor não pôde mais suportar. E, com amarga ironia: cumpri os vossos votos! Mas Deus jura que o seu nome não será mais pronunciado por nenhum judeu no Egito. Como sinal, o faraó Hofra será entregue aos seus inimigos, como Sedecias o foi a Nabucodonosor. Saberão qual palavra se cumpre: “se a minha, se a deles”.",
+    "alegorico": "O povo lê a história ao contrário: atribui a desgraça à reforma de Josias, não à idolatria. É a cegueira de quem não reconhece a visita de Deus (Lc 19,44). Contra a falsa “rainha do céu”, a Igreja venera Maria como Rainha do céu, mas criatura e serva do Senhor, que conduz a Deus e não o substitui.",
+    "moral": "A idolatria muitas vezes se justifica pela prosperidade: “então tínhamos fartura de pão”. Medir a verdade da fé pelo bem-estar material é a raiz de muitas apostasias. Também mostra como os hábitos religiosos errados passam de pais a filhos e de maridos a mulheres. Deus pergunta: “Por que cometeis tão grande mal contra vós mesmos?”",
+    "anagogico": "“Saberão qual é a palavra que será cumprida: se a minha, se a deles.” A história é o lugar onde se verifica a palavra de Deus; no fim, só ela permanecerá."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Toma na tua mão pedras grandes e esconde-as.” “Não cometais esta abominação, que detesto.” “Por que cometeis vós tão grande mal contra vós mesmos?” “Então tínhamos fartura de pão, éramos felizes.” “Saberão qual é a palavra que será cumprida: se a minha, se a deles.”",
+    "meditatio_perguntas": [
+      "Meço a verdade da fé pela prosperidade que ela me dá?",
+      "Que “votos” a ídolos eu me obstino em cumprir?",
+      "Leio a minha história à luz da palavra de Deus ou à luz dos meus interesses?"
+    ],
+    "oratio_guia": "Senhor, livra-me de julgar a verdade pelo pão que tenho na mesa. Que a tua palavra, e não a dos ídolos, se cumpra em minha vida, e que eu reconheça a tua mão na minha história. Amém.",
+    "contemplatio_foco": {
+      "texto": "saberão qual é a palavra que será cumprida: se a minha, se a deles",
+      "ref": "Jr 44,28"
+    }
+  },
+  "ancoras": {
+    "43:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Casa do Sol é Heliópolis (On), centro do culto a Rá, famosa pelos obeliscos.",
+        "origem": "ia"
+      }
+    },
+    "44:30": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O faraó Hofra (Apries) foi deposto em 570 a.C. e morto pouco depois.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

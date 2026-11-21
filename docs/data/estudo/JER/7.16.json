@@ -1,0 +1,65 @@
+{
+  "id": "JER.7.16",
+  "livro": "JER",
+  "titulo": "A rainha do céu e o vale de Tofet",
+  "secao": "O Templo e a aliança",
+  "referencia": "Jr 7,16–8,3",
+  "ini": {
+    "c": 7,
+    "v": 16
+  },
+  "fim": {
+    "c": 8,
+    "v": 3
+  },
+  "liturgia": {
+    "tema_central": "Ouvi a minha voz, e eu serei o vosso Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus proíbe Jeremias de interceder: o povo já não quer ouvir. Nas ruas, a família inteira se mobiliza para a idolatria: os filhos juntam lenha, os pais acendem o fogo, as mulheres amassam tortas para a “rainha do céu”, a deusa astral. “Porventura é a mim que eles ofendem?… Não é antes a si mesmos?” Por isso a ira cairá sobre homens, animais e campos. Depois Deus ironiza sobre os sacrifícios: comei a carne dos holocaustos, porque, quando vos tirei do Egito, o essencial que mandei não foram sacrifícios, mas isto: “Ouvi a minha voz, e eu serei o vosso Deus e vós sereis o meu povo.” Desde o Êxodo até hoje, Deus enviou os profetas dia após dia, mas endureceram a cerviz e voltaram para trás. Jeremias falará e não o ouvirão: “Acabou-se a sua fé, desapareceu da sua boca.” Que corte os cabelos em sinal de luto. Os filhos de Judá puseram ídolos na casa de Deus e levantaram os altos de Tofet, no vale de Ben-Hinom, para queimar filhos e filhas, “coisa que não mandei nem me passou pelo pensamento”. O vale se chamará Vale da Matança; cessarão os cantos do esposo e da esposa. Até os ossos dos reis, sacerdotes e profetas serão expostos ao sol e aos astros que adoraram, e os sobreviventes preferirão a morte à vida.",
+    "alegorico": "O vale de Hinom (Geena) tornou-se no Novo Testamento o nome do lugar de perdição (Mt 5,22): o lugar onde se ofereciam crianças ao fogo é a imagem do inferno. A obediência que Deus prefere aos sacrifícios se cumpre em Cristo, que entra no mundo dizendo: “Eis que venho para fazer a tua vontade” (Hb 10,5-9), e oferece o único sacrifício agradável.",
+    "moral": "O pecado arrasta famílias inteiras, e as crianças aprendem dos pais o culto dos ídolos. Quem ofende a Deus fere a si mesmo. O texto pede uma religião da escuta: o essencial da aliança é ouvir a voz de Deus. E denuncia a forma mais terrível da idolatria, que sacrifica os filhos aos deuses do tempo.",
+    "anagogico": "O silêncio do canto do esposo e da esposa no vale da morte contrasta com as núpcias do Cordeiro, onde o canto não cessará. A alternativa final entre Geena e Jerusalém celeste depende de ouvir ou não a voz de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Porventura é a mim que eles ofendem?… Não é antes a si mesmos?” “Ouvi a minha voz, e eu serei o vosso Deus e vós sereis o meu povo.” “Voltaram para trás, em vez de irem para diante.” “Acabou-se a sua fé, desapareceu da sua boca.” “Coisa que não mandei nem me passou pelo pensamento.”",
+    "meditatio_perguntas": [
+      "Que “ídolos” a minha família serve junta, sem perceber?",
+      "Vivo a fé mais como escuta ou como uma série de ritos?",
+      "Em que estou “voltando para trás” em vez de ir para diante?"
+    ],
+    "oratio_guia": "Senhor, que pedes antes de tudo que ouçamos a tua voz, abre os meus ouvidos e os da minha família. Guarda as crianças dos ídolos do nosso tempo e faz que a fé não desapareça da nossa boca. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ouvi a minha voz, e eu serei o vosso Deus e vós sereis o meu povo",
+      "ref": "Jr 7,23"
+    }
+  },
+  "ancoras": {
+    "7:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “rainha do céu” era provavelmente Ishtar (Astarte), deusa ligada ao planeta Vênus; ver Jr 44,17-19.",
+        "origem": "ia"
+      }
+    },
+    "7:31": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Tofet, no vale de Ben-Hinom, a sudoeste de Jerusalém, era o lugar de sacrifícios de crianças, abolido por Josias (2Rs 23,10).",
+        "origem": "ia"
+      }
+    },
+    "7:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Hipérbole profética: não nega o culto do Sinai, mas afirma que sem obediência ele nada vale (cf. 1Sm 15,22).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

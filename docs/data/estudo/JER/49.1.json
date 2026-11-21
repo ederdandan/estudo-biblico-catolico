@@ -1,0 +1,57 @@
+{
+  "id": "JER.49.1",
+  "livro": "JER",
+  "titulo": "Contra Amon e Edom",
+  "secao": "Oráculos contra as nações",
+  "referencia": "Jr 49,1-22",
+  "ini": {
+    "c": 49,
+    "v": 1
+  },
+  "fim": {
+    "c": 49,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "A tua arrogância te enganou: Amon e Edom",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Oráculo contra os amonitas: Israel não tem filhos, não tem herdeiro? Por que Melcom, o deus de Amon, se apoderou de Gad e habitou as suas cidades? Por isso Rabá, a capital, ouvirá o grito de guerra e virará ruína; Melcom irá ao cativeiro com os seus sacerdotes. Amon se gloriava do seu vale fértil e dos tesouros, dizendo: quem virá contra mim? O terror virá de todos os lados. Mas depois, Deus fará voltar os cativos de Amon. Segue o oráculo contra Edom (Idumeia), o povo de Esaú, irmão de Jacó. Já não há sabedoria em Temã, famosa pelos seus sábios? Os vindimadores deixam ao menos uns cachos, os ladrões levam só o que querem; mas Deus despojará Esaú inteiramente, descobrindo os seus esconderijos. No meio do juízo, uma palavra terna: “Deixa os teus órfãos, que eu lhes salvarei a vida; que as tuas viúvas esperem em mim.” Se até os que não mereciam beberam o cálice, Edom não ficará impune; Bosra será ruína perpétua. “A tua arrogância enganou-te, assim como a soberba do teu coração”, tu que habitas nas fendas da rocha; ainda que fizesses o ninho alto como a águia, de lá te arrancaria. Edom será como Sodoma. Como leão saindo do Jordão, o inimigo virá: “quem há semelhante a mim?”, diz o Senhor.",
+    "alegorico": "O povo de Esaú, que se alegrou com a queda de Jerusalém (Sl 136,7; Ab 10-14), é figura do orgulho que se julga inacessível. Mas a promessa aos órfãos e às viúvas de Edom mostra o Deus de todos, Pai dos órfãos (Sl 67,6), que em Cristo acolhe também os de longe.",
+    "moral": "A soberba engana: faz-nos sentir seguros como a águia no ninho alto, até que Deus nos derruba. A sabedoria humana (Temã) se esvai quando se afasta de Deus. E mesmo no juízo, os fracos — órfãos e viúvas — são confiados à providência divina.",
+    "anagogico": "Deus é o único sem semelhante; nenhum poder lhe pode pedir contas. No fim, os soberbos serão humilhados e os pequenos, que esperam nele, serão guardados."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Porventura não tem filhos Israel, não tem herdeiro?” “Que confias nos teus tesouros e dizes: Quem virá contra mim?” “Deixa os teus órfãos, que eu lhes salvarei a vida; que as tuas viúvas esperem em mim.” “A tua arrogância enganou-te.” “Quem há semelhante a mim?”",
+    "meditatio_perguntas": [
+      "Em que “ninho alto” me sinto seguro longe de Deus?",
+      "A minha sabedoria está enraizada em Deus ou em mim mesmo?",
+      "Confio os mais fracos à providência de Deus e ajo em favor deles?"
+    ],
+    "oratio_guia": "Senhor, ninguém é semelhante a ti. Derruba a arrogância que me engana e guarda os órfãos e as viúvas que esperam em ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deixa (todavia) os teus órfãos, que eu lhes salvarei a vida; que as tuas viúvas esperem em mim",
+      "ref": "Jr 49,11"
+    }
+  },
+  "ancoras": {
+    "49:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Melcom (Milcom) era o deus dos amonitas; Rabá (atual Amã, na Jordânia) era a sua capital.",
+        "origem": "ia"
+      }
+    },
+    "49:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os vv. 9-10 e 14-16 têm paralelo quase literal em Abdias 1-6.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

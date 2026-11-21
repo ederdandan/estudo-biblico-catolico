@@ -1,0 +1,57 @@
+{
+  "id": "JER.28.1",
+  "livro": "JER",
+  "titulo": "Hananias e o jugo de ferro",
+  "secao": "Jeremias diante do povo",
+  "referencia": "Jr 28,1-17",
+  "ini": {
+    "c": 28,
+    "v": 1
+  },
+  "fim": {
+    "c": 28,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "Quebraste um jugo de madeira; farei um jugo de ferro",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No quinto mês do quarto ano de Sedecias, o profeta Hananias (Ananias) de Gabaon diz a Jeremias, no Templo, diante dos sacerdotes e do povo: assim diz o Senhor, eu quebrei o jugo do rei de Babilônia; dentro de dois anos farei voltar os utensílios do Templo, Jeconias e todos os exilados. Jeremias responde com uma sinceridade surpreendente: “Amen, oxalá que assim o faça o Senhor!” Gostaria que fosse verdade. Mas lembra o critério: os profetas antigos anunciaram desgraças a muitos povos; quanto ao que profetiza a paz, só quando a sua palavra se cumprir se saberá que foi enviado pelo Senhor. Então Hananias arranca o jugo do pescoço de Jeremias e o quebra: assim Deus quebrará o jugo de Nabucodonosor em dois anos. “E o profeta Jeremias foi-se pelo seu caminho”: não discute, retira-se. Depois Deus lhe dá a resposta: quebraste um jugo de madeira, mas eu farei um jugo de ferro sobre o pescoço das nações. Jeremias diz a Hananias: o Senhor não te enviou, e fizeste este povo confiar na mentira; morrerás este ano, porque pregaste a revolta contra o Senhor. E Hananias morreu naquele ano, no sétimo mês.",
+    "alegorico": "O confronto entre o profeta verdadeiro e o falso se repete na Igreja: “haverá falsos mestres” (2Pd 2,1). Cristo é o critério definitivo: a palavra que nele se cumpre é verdadeira. A Igreja discerne os carismas pelos frutos (Mt 7,15-20; 1Jo 4,1).",
+    "moral": "Jeremias ensina uma atitude rara: desejar sinceramente que o adversário tenha razão, sem renunciar à verdade. E sabe retirar-se sem polêmica, esperando a palavra de Deus. Recusar a cruz pequena (o jugo de madeira) pode levar a uma cruz maior (o jugo de ferro). As promessas fáceis de libertação imediata são perigosas porque desviam da conversão.",
+    "anagogico": "O tempo é o grande juiz das profecias: só a palavra de Deus se cumpre. Toda promessa humana que não vem dele cai, e a promessa de Deus permanece até a consumação."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu quebrei o jugo do rei de Babilônia.” “Amen, oxalá que assim o faça o Senhor!” “Quando se cumprir a sua palavra, se saberá que é profeta verdadeiramente enviado pelo Senhor.” “Então o profeta Jeremias foi-se pelo seu caminho.” “Quebraste um jugo de madeira, mas, em vez dele, farei um jugo de ferro.”",
+    "meditatio_perguntas": [
+      "Sei desejar sinceramente o bem que o outro anuncia, mesmo discordando dele?",
+      "Sei retirar-me de uma discussão e esperar que Deus fale?",
+      "Que “jugo de madeira” recuso, arriscando um jugo de ferro?"
+    ],
+    "oratio_guia": "Senhor, dá-me o discernimento para distinguir a tua palavra das promessas que agradam. Ensina-me a falar a verdade sem amargura e a esperar em silêncio que tu fales. Amém.",
+    "contemplatio_foco": {
+      "texto": "Quebraste um jugo de madeira, mas, em vez dele, farei um jugo de ferro",
+      "ref": "Jr 28,13"
+    }
+  },
+  "ancoras": {
+    "28:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O quarto ano de Sedecias é 594/593 a.C. Gabaon ficava a cerca de 10 km a noroeste de Jerusalém.",
+        "origem": "ia"
+      }
+    },
+    "28:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Critério de Dt 18,21-22: o profeta verdadeiro é aquele cuja palavra se cumpre.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

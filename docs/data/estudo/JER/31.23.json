@@ -1,0 +1,73 @@
+{
+  "id": "JER.31.23",
+  "livro": "JER",
+  "titulo": "A nova aliança",
+  "secao": "O Livro da Consolação",
+  "referencia": "Jr 31,23-40",
+  "ini": {
+    "c": 31,
+    "v": 23
+  },
+  "fim": {
+    "c": 31,
+    "v": 40
+  },
+  "liturgia": {
+    "tema_central": "Escreverei a minha lei nos seus corações: a nova aliança",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quando Deus mudar a sorte de Judá, dirão de novo: “O Senhor te abençoe, ó mansão da justiça, ó monte santo!” Lavradores e pastores habitarão juntos, porque Deus saciará a alma sedenta e fartará toda alma faminta. O profeta desperta, e o sono foi doce. Vêm dias em que Deus semeará a terra de homens e animais; como vigiou para arrancar e destruir, vigiará para edificar e plantar, as palavras da vocação de Jeremias. Já não se dirá: “Os pais comeram uvas verdes, e os dentes dos filhos é que ficaram botos”; cada um responderá pela sua culpa. Então, o centro do livro: “farei nova aliança com a casa de Israel e com a casa de Judá, diferente da aliança que fiz com seus pais no dia em que os tomei pela mão, para os tirar da terra do Egito, aliança que eles violaram.” Eis a aliança nova: “Imprimirei a minha lei no seu íntimo, escrevê-la-ei nos seus corações; serei o seu Deus, e eles serão o meu povo.” Ninguém precisará ensinar o próximo a conhecer o Senhor, porque todos o conhecerão, do menor ao maior, “pois perdoarei a sua maldade e não me lembrarei mais do seu pecado”. Esta aliança é tão firme como as leis do sol, da lua e do mar: Israel só deixaria de ser nação se os céus pudessem ser medidos. Por fim, Jerusalém será reconstruída, e até o vale dos cadáveres e das cinzas será consagrado ao Senhor.",
+    "alegorico": "Jesus, na Última Ceia, institui a Eucaristia como o cumprimento desta profecia: “Este cálice é a nova aliança no meu sangue” (Lc 22,20). A Carta aos Hebreus cita integralmente este texto (Hb 8,8-12; 10,16-17). A lei escrita no coração é o Espírito Santo, “lei nova” derramada nos corações (Rm 5,5; 2Cor 3,3).",
+    "moral": "A nova aliança não é uma lei mais exigente vinda de fora, mas uma transformação interior: Deus escreve no coração o que antes estava em pedra. Por isso o cristão obedece por amor, não só por medo. O perdão vem primeiro: “não me lembrarei mais do seu pecado”. E cada um é responsável pelos seus atos: não se pode culpar os pais pelos próprios pecados.",
+    "anagogico": "“Todos me conhecerão, desde o mais pequeno até ao maior”: a plenitude deste conhecimento é a visão de Deus no céu, onde já não haverá necessidade de mestres. Até o vale da morte será consagrado: a morte será vencida."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor te abençoe, ó mansão da justiça, ó monte santo!” “Dessedentarei a alma sequiosa.” “Vigiarei sobre eles para edificar e plantar.” “Farei nova aliança com a casa de Israel.” “Imprimirei a minha lei no seu íntimo, escrevê-la-ei nos seus corações.” “Não me lembrarei mais do seu pecado.”",
+    "meditatio_perguntas": [
+      "A lei de Deus está escrita no meu coração ou ainda só em tábuas exteriores?",
+      "Vivo cada Eucaristia como participação na nova aliança?",
+      "Acolho o perdão de Deus, que não se lembra mais do meu pecado?"
+    ],
+    "oratio_guia": "Senhor, que fizeste conosco a nova aliança no sangue do teu Filho, escreve a tua lei no meu coração. Faz-me conhecer-te, perdoa a minha maldade e não te lembres mais do meu pecado. Amém.",
+    "contemplatio_foco": {
+      "texto": "Imprimirei a minha lei no seu íntimo. escrevê-la-ei nos seus corações; serei o seu Deus, e eles serão o meu povo",
+      "ref": "Jr 31,33"
+    }
+  },
+  "ancoras": {
+    "31:31": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Único lugar do AT em que aparece a expressão “nova aliança”; daí vem o nome “Novo Testamento” (testamentum traduz o latim foedus, aliança).",
+        "origem": "ia"
+      }
+    },
+    "31:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Provérbio também citado em Ez 18,2, que desenvolve a responsabilidade pessoal.",
+        "origem": "ia"
+      }
+    },
+    "31:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Este versículo parece indicar que a revelação foi recebida em sonho.",
+        "origem": "ia"
+      }
+    },
+    "31:40": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “vale dos cadáveres e da cinza” é o vale de Hinom (Tofet), lugar dos sacrifícios humanos (7,31-32).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

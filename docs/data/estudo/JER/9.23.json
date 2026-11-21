@@ -1,0 +1,49 @@
+{
+  "id": "JER.9.23",
+  "livro": "JER",
+  "titulo": "Glorie-se em conhecer-me",
+  "secao": "O Templo e a aliança",
+  "referencia": "Jr 9,23-26",
+  "ini": {
+    "c": 9,
+    "v": 23
+  },
+  "fim": {
+    "c": 9,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "Quem se gloria, glorie-se em me conhecer",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Num oráculo curto, o Senhor inverte as glórias humanas: “Não se glorie o sábio no seu saber, nem se glorie o forte na sua força, nem se glorie o rico nas suas riquezas.” Há uma só glória legítima: ter inteligência e conhecer o Senhor, saber que ele exerce a misericórdia, o direito e a justiça sobre a terra, porque “são estas coisas que me agradam”. Segue-se um aviso: vêm dias em que Deus visitará todos os circuncidados apenas na carne, juntamente com os incircuncisos: o Egito, Judá, Edom, Amon, Moab e as tribos do deserto que rapam o cabelo das têmporas. Esses povos também praticavam a circuncisão física, mas não conhecem a Deus; e Israel, embora circuncidado no corpo, é “incircunciso de coração”. O sinal externo da aliança, sem a obediência interior, não distingue Israel dos outros povos.",
+    "alegorico": "São Paulo cita este texto duas vezes: “Quem se gloria, glorie-se no Senhor” (1Cor 1,31; 2Cor 10,17). Cristo crucificado é sabedoria e força de Deus diante da sabedoria e da força do mundo. A circuncisão do coração é a nova aliança no Espírito (Rm 2,28-29; Cl 2,11).",
+    "moral": "Saber, poder e ter são bons, mas não podem ser motivo de glória. O verdadeiro valor de uma pessoa está em conhecer a Deus, e conhecê-lo é praticar o que ele pratica: misericórdia, direito e justiça. Também o sinal religioso, sem a conversão interior, é vazio.",
+    "anagogico": "“Esta é a vida eterna: que te conheçam a ti, único Deus verdadeiro” (Jo 17,3). A glória do céu será conhecer a Deus face a face, a única glória que não passa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não se glorie o sábio no seu saber, nem se glorie o forte na sua força, nem se glorie o rico nas suas riquezas.” “Aquele que se gloriar, glorie-se nisto: em ter inteligência e em me conhecer.” “Sou o Senhor que exerço a misericórdia, o direito e a justiça.” “Incircuncisa de coração.”",
+    "meditatio_perguntas": [
+      "Em que ponho a minha glória: saber, força, dinheiro?",
+      "Conhecer a Deus muda o modo como pratico a misericórdia e a justiça?",
+      "Que sinais externos da fé vivo sem a correspondência do coração?"
+    ],
+    "oratio_guia": "Senhor, que exerces a misericórdia, o direito e a justiça, sê tu a minha única glória. Que eu te conheça e, conhecendo-te, faça o que te agrada. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porém aquele que se gloriar, glorie-se nisto: em ter inteligência e em me conhecer",
+      "ref": "Jr 9,24"
+    }
+  },
+  "ancoras": {
+    "9:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Os que rapam o cabelo das fontes”: tribos árabes que cortavam o cabelo das têmporas em honra de uma divindade (cf. Lv 19,27).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,65 @@
+{
+  "id": "JER.22.1",
+  "livro": "JER",
+  "titulo": "Contra os reis de Judá",
+  "secao": "Reis e profetas",
+  "referencia": "Jr 22,1-30",
+  "ini": {
+    "c": 22,
+    "v": 1
+  },
+  "fim": {
+    "c": 22,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "Julgar a causa do pobre: não é isto conhecer-me?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jeremias desce ao palácio e fala ao rei sentado no trono de Davi: cumpri o direito e a justiça, livrai o oprimido, não maltrateis o estrangeiro, o órfão e a viúva, não derrameis sangue inocente. Se o fizerem, a dinastia continuará; se não, o palácio, belo como Galaad e como o cimo do Líbano, virará ruína, e os passantes perguntarão por que Deus tratou assim a grande cidade. Seguem os oráculos sobre os reis. Não choreis Josias, morto; chorai Selum (Joacaz), levado ao Egito, que não voltará. Depois, Joaquim: “Ai daquele que edifica a sua casa com a injustiça… que obriga a trabalhar de graça o seu próximo, que não lhe paga o salário”, e sonha com salões amplos, forrados de cedro e pintados de vermelho. És rei porque rivalizas no cedro? Teu pai comeu e bebeu, mas praticou a justiça: “Julgou a causa do pobre e do indigente… Não é isto conhecer-me, diz o Senhor?” Joaquim, que só busca lucro e sangue inocente, terá sepultura de asno, arrastado fora das portas. Jerusalém, aninhada nos cedros do Líbano, gemerá como mulher em parto. Por fim, Jeconias (Joaquin): ainda que fosse o anel da mão direita de Deus, seria arrancado; ele e sua mãe morrerão em terra estranha. “Terra, terra, terra, ouve a palavra do Senhor!” Registrai este homem como sem sucessor no trono de Davi.",
+    "alegorico": "A maldição sobre Jeconias parece cortar a linhagem de Davi; mas Deus a retoma: Zorobabel, seu neto, é chamado “anel” do Senhor (Ag 2,24), e Mateus inclui Jeconias na genealogia de Jesus (Mt 1,12). Cristo, filho de Davi, é o rei que realiza o ideal de Josias: julga com justiça os pobres (Is 11,4).",
+    "moral": "A frase central é uma definição de religião: conhecer a Deus é fazer justiça ao pobre (cf. Tg 1,27). O luxo construído com o salário não pago clama ao céu (Tg 5,4). O poder não é medido pelo esplendor dos palácios, mas pela proteção dos fracos.",
+    "anagogico": "O trono de Davi, que parece perdido, será dado para sempre ao Filho de Maria (Lc 1,32-33). A história dos reis infiéis não anula a promessa de Deus, que caminha para o Rei justo e eterno."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Cumpri o direito e a justiça, livrai o oprimido da mão do opressor.” “Ai daquele que edifica a sua casa com a injustiça.” “Julgou a causa do pobre e do indigente… Não é isto conhecer-me?” “Falei-te no tempo da tua abundância, mas disseste: Não ouvirei.” “Terra, terra, terra, ouve a palavra do Senhor!”",
+    "meditatio_perguntas": [
+      "Para mim, conhecer a Deus inclui fazer justiça ao pobre?",
+      "Pago o justo salário e trato com justiça quem trabalha para mim?",
+      "Ouço a Deus “no tempo da abundância”, ou só na aflição?"
+    ],
+    "oratio_guia": "Senhor, que te dás a conhecer em quem julga a causa do pobre, livra-me de edificar a minha casa com a injustiça. Ensina-me a ouvir-te no tempo da abundância e a servir os pequenos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Julgou a causa do pobre e do indigente para bem seu. Não é isto conhecer-me, diz o Senhor?",
+      "ref": "Jr 22,16"
+    }
+  },
+  "ancoras": {
+    "22:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Selum é o nome pessoal de Joacaz, deposto pelo faraó Necao e levado ao Egito em 609 a.C. (2Rs 23,31-34).",
+        "origem": "ia"
+      }
+    },
+    "22:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Joaquim reinou de 609 a 598 a.C.; a “sepultura de asno” significa morte sem honra nem sepultura.",
+        "origem": "ia"
+      }
+    },
+    "22:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jeconias (Joaquin ou Conias) reinou três meses em 597 a.C. e foi deportado para Babilônia.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

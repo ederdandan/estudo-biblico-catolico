@@ -1,0 +1,57 @@
+{
+  "id": "JER.6.1",
+  "livro": "JER",
+  "titulo": "Paz, paz, quando não há paz",
+  "secao": "Vocação e primeiros oráculos",
+  "referencia": "Jr 6,1-30",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "Perguntai pelas veredas antigas e achareis repouso",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Fugi, filhos de Benjamim! Tocai a trombeta em Técua, levantai sinal em Betacarém: do norte vem a ruína. A delicada filha de Sião será cercada por pastores com seus rebanhos, imagem dos exércitos acampados. Os inimigos se animam: subamos ao meio-dia, subamos de noite, cortai as árvores, levantai rampas, porque esta cidade é a cidade da punição: dela brota a maldade como água de fonte. “Emenda-te, Jerusalém.” Como o vindimador, o inimigo há de rebuscar os últimos cachos. O profeta não tem a quem falar: os ouvidos estão incircuncisos e a palavra do Senhor é para eles opróbrio; ele está cheio do furor do Senhor, cansado de contê-lo. Do menor ao maior, todos buscam o lucro; profeta e sacerdote agem com fraude: “Tratam à toa as chagas da filha do meu povo, dizendo: Paz, paz! — quando não há paz.” Nem sabem mais envergonhar-se. Deus convida: parai nos caminhos, perguntai pelas veredas antigas, qual é o bom caminho, e andai nele, e achareis repouso. Mas respondem: não andaremos. Deus pôs sentinelas: não queremos ouvir. Para que incenso de Sabá e holocaustos, se rejeitam a lei? Vem um povo cruel do norte; a filha de Sião deve fazer luto como por filho único. Jeremias é constituído experimentador do povo, mas o fole se gasta, o chumbo se consome e a escória não se separa: prata de refugo, que o Senhor rejeitou.",
+    "alegorico": "Cristo é o caminho e o repouso das almas: “Vinde a mim… e achareis repouso para as vossas almas” (Mt 11,29) retoma este versículo. O luto “como por um filho único” anuncia o pranto sobre aquele que transpassaram (Zc 12,10), o Filho único que morre pela cidade.",
+    "moral": "O falso pastor cura a ferida “à toa”: diz paz para agradar e evitar o conflito. O verdadeiro amor diagnostica o mal antes de curá-lo. A paz que não passa pela conversão é ilusão. O caminho seguro é perguntar pelas veredas antigas, a fé recebida, e caminhar nela, em lugar de buscar novidades que agradam. O culto sem obediência não agrada a Deus.",
+    "anagogico": "O “repouso para as vossas almas” é penhor do repouso eterno prometido ao povo de Deus (Hb 4,9). O fogo que prova a prata anuncia o juízo que purifica: só o que for ouro passa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Emenda-te, Jerusalém.” “A palavra do Senhor tornou-se para eles um motivo de opróbrio.” “Paz, paz! — quando não há paz.” “Perguntai quais são as antigas veredas, qual o caminho da salvação e andai por ele, e achareis repouso para as vossas almas.” “Não andaremos por ele.”",
+    "meditatio_perguntas": [
+      "Prefiro uma paz fácil a uma verdade que cura?",
+      "Quais são as “veredas antigas” da fé que preciso retomar?",
+      "A palavra de Deus ainda me dá gosto, ou tornou-se peso?"
+    ],
+    "oratio_guia": "Senhor, que me mostras as veredas antigas, ensina-me o caminho da salvação e dá-me a graça de andar nele. Não me deixes contentar com uma paz falsa: cura as minhas feridas de verdade e dá-me repouso em ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "perguntai quais são as antigas veredas, qual o caminho da salvação e andai por ele, e achareis repouso para as vossas almas",
+      "ref": "Jr 6,16"
+    }
+  },
+  "ancoras": {
+    "6:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Técua, terra de Amós, e Betacarém ficam ao sul de Jerusalém: o povo deve fugir para o lado oposto ao do invasor.",
+        "origem": "ia"
+      }
+    },
+    "6:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Imagem da metalurgia: o chumbo era usado para separar a prata das escórias; aqui o processo falha, porque o metal está todo corrompido.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

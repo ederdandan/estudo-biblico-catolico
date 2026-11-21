@@ -1,0 +1,57 @@
+{
+  "id": "JER.47.1",
+  "livro": "JER",
+  "titulo": "Contra os filisteus",
+  "secao": "Oráculos contra as nações",
+  "referencia": "Jr 47,1-7",
+  "ini": {
+    "c": 47,
+    "v": 1
+  },
+  "fim": {
+    "c": 47,
+    "v": 7
+  },
+  "liturgia": {
+    "tema_central": "Ó espada do Senhor, até quando não repousarás?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Breve oráculo contra os filisteus, antes que o faraó tomasse Gaza. Do norte se levantam águas como torrente que inunda a terra e as cidades; os homens gritam, todos os habitantes uivam. Ao estrondo dos cascos dos cavalos e ao ruído das rodas dos carros, os pais nem se voltam para os filhos, porque as mãos perderam a força. Chegou o dia de destruir os filisteus, “restos da ilha de Caftor”, e de cortar de Tiro e Sidônia os seus últimos aliados. Gaza rapou a cabeça, Ascalon emudeceu; até quando vos fareis incisões em sinal de luto? Então o profeta grita: “Ó espada do Senhor, até quando não repousarás? Entra na tua bainha, mitiga esse ardor em silêncio.” Mas responde a si mesmo: como repousará, se o Senhor lhe deu ordem contra Ascalon e a costa do mar?",
+    "alegorico": "O grito “entra na tua bainha” ressoa nas palavras de Jesus a Pedro: “Mete a tua espada na bainha” (Jo 18,11; Mt 26,52). Em Cristo, a espada do juízo repousa porque ele recebeu sobre si o golpe; a única espada que permanece é a Palavra (Ef 6,17).",
+    "moral": "O profeta não se alegra com o castigo nem dos inimigos tradicionais de Israel: deseja que a espada repouse. É a atitude de quem anuncia o juízo com compaixão. A imagem dos pais que não se voltam para os filhos mostra como a violência destrói até os laços mais naturais.",
+    "anagogico": "Virá o dia em que as espadas serão transformadas em arados (Is 2,4), e a espada do Senhor repousará para sempre na paz do seu Reino."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eis que se levantam as águas do Aquilão, como uma torrente que inunda.” “Os pais não atendem aos filhos, perdido o vigor das mãos.” “Ó espada do Senhor, até quando não repousarás? Entra na tua bainha.”",
+    "meditatio_perguntas": [
+      "Desejo a paz mesmo para os que considero inimigos?",
+      "Que espada em mim precisa entrar na bainha?",
+      "Como a violência afeta os laços na minha família e na sociedade?"
+    ],
+    "oratio_guia": "Senhor, faz repousar a espada e dá paz às nações. Que em mim e no mundo a violência ceda lugar à tua palavra, única espada que salva. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ó espada do Senhor, até quando não repousarás? Entra na tua bainha, mitiga esse ardor em silêncio",
+      "ref": "Jr 47,6"
+    }
+  },
+  "ancoras": {
+    "47:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Caftor (Creta e as ilhas do Egeu) era a terra de origem dos filisteus (Am 9,7).",
+        "origem": "ia"
+      }
+    },
+    "47:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Anaquim: antigos habitantes da costa, gigantes segundo a tradição (Js 11,22).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

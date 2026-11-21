@@ -1,0 +1,57 @@
+{
+  "id": "JER.21.1",
+  "livro": "JER",
+  "titulo": "A resposta a Sedecias",
+  "secao": "Reis e profetas",
+  "referencia": "Jr 21,1-14",
+  "ini": {
+    "c": 21,
+    "v": 1
+  },
+  "fim": {
+    "c": 21,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "Ponho diante de vós o caminho da vida e o caminho da morte",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Durante o cerco final de Jerusalém (588 a.C.), o rei Sedecias envia Fassur, filho de Melquias, e o sacerdote Sofonias para pedir a Jeremias que consulte o Senhor: talvez ele faça um dos seus prodígios e Nabucodonosor se retire. A resposta é o contrário do que esperavam: Deus fará voltar contra a cidade as armas com que lutam; ele mesmo combaterá contra Jerusalém “com mão alçada e com braço forte”, as palavras do Êxodo agora voltadas contra o próprio povo. Uma grande peste ferirá homens e animais; Sedecias e os sobreviventes serão entregues a Nabucodonosor, que não terá compaixão. Ao povo, Jeremias propõe uma escolha: “Eis que ponho diante de vós o caminho da vida e o caminho da morte.” Quem ficar na cidade morrerá; quem sair e se render aos caldeus viverá, e terá a vida como despojo. À casa de Davi, Deus pede: fazei justiça desde a manhã, livrai o oprimido do opressor. E desafia a cidade orgulhosa, que se julgava inexpugnável: “Quem será capaz de nos ferir?” Deus a castigará segundo o fruto das suas obras.",
+    "alegorico": "Os “dois caminhos” (Dt 30,15) atravessam a Escritura até o Evangelho: a porta estreita que conduz à vida e a larga que leva à perdição (Mt 7,13-14). Sair da cidade condenada para salvar a vida antecipa o aviso de Jesus: quando virdes Jerusalém cercada, fugi para os montes (Lc 21,20-21).",
+    "moral": "Pedir a Deus milagres sem conversão é tentar usá-lo. Às vezes o caminho da vida é aceitar a derrota e a humilhação, em vez de agarrar-se a uma falsa segurança. Aos que governam, Deus pede justiça diária, “desde a manhã”: é o primeiro dever do poder.",
+    "anagogico": "A escolha entre vida e morte se decide nesta vida, mas tem consequências eternas. Salvar a própria alma “como despojo” é a imagem de quem sai do naufrágio só com a vida, mas com o essencial."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Consulta o Senhor por nós… se porventura obrará o Senhor connosco segundo todas as suas maravilhas.” “Eu mesmo vos combaterei com mão alçada e com braço forte.” “Eis que ponho diante de vós o caminho da vida e o caminho da morte.” “Fazei justiça desde manhã.” “Quem será capaz de nos ferir?”",
+    "meditatio_perguntas": [
+      "Peço a Deus milagres que me dispensem de mudar?",
+      "Que falsa segurança preciso deixar para escolher o caminho da vida?",
+      "Pratico a justiça “desde a manhã”, nas primeiras decisões do dia?"
+    ],
+    "oratio_guia": "Senhor, que pões diante de mim o caminho da vida e o caminho da morte, dá-me a graça de escolher a vida, mesmo quando ela passa pela humilhação. Livra-me da falsa segurança e ensina-me a fazer justiça desde a manhã. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eis que ponho diante de vós o caminho da vida e o caminho da morte",
+      "ref": "Jr 21,8"
+    }
+  },
+  "ancoras": {
+    "21:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Este Fassur, filho de Melquias, é diferente do Fassur de 20,1. O episódio se passa em 588 a.C., no início do cerco final.",
+        "origem": "ia"
+      }
+    },
+    "21:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Mão alçada e braço forte” é a fórmula do Êxodo (Dt 4,34; 5,15), aqui invertida contra Jerusalém.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

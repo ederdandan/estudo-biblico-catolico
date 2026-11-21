@@ -1,0 +1,57 @@
+{
+  "id": "JER.17.1",
+  "livro": "JER",
+  "titulo": "Maldito o homem que confia no homem",
+  "secao": "Sinais e confissões",
+  "referencia": "Jr 17,1-13",
+  "ini": {
+    "c": 17,
+    "v": 1
+  },
+  "fim": {
+    "c": 17,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Bendito o homem que confia no Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O pecado de Judá está gravado com estilete de ferro e ponta de diamante na tábua do coração e nos chifres dos altares; por isso os tesouros e os lugares altos serão entregues ao saque. Segue-se um pequeno salmo sapiencial: “Maldito o homem que confia no homem, que faz da carne o seu braço, e cujo coração se retira do Senhor.” É como um cardo no deserto, em terra salgada, que nem percebe quando chega o bem. “Bem-aventurado o homem que confia no Senhor, e de quem o Senhor é a esperança.” É como a árvore plantada junto às águas, que estende as raízes para a corrente: não teme o calor, a folha fica verde e, num ano de seca, não deixa de dar fruto. Depois vem a pergunta sobre o coração: “O coração é o que há de mais complicado e perverso: quem o poderá conhecer?” Só o Senhor esquadrinha o coração e sonda os rins, para dar a cada um segundo as suas obras. Quem junta riquezas injustas é como a perdiz que choca ovos que não pôs: deixa-as no meio dos dias. O trecho termina com louvor: o santuário é trono de glória desde o princípio; os que abandonam o Senhor, “fonte das águas vivas”, serão confundidos.",
+    "alegorico": "A árvore junto às águas, como no Salmo 1, é figura de Cristo e do cristão enxertado nele pelo Batismo, regado pela água viva do Espírito. O coração gravado com estilete de ferro será substituído pela lei escrita pelo Espírito no coração (Jr 31,33; 2Cor 3,3).",
+    "moral": "A pergunta decisiva é onde estão as minhas raízes: no homem e nas suas forças, ou em Deus. Quem confia em Deus não fica livre do calor e da seca, mas continua dando fruto. O coração humano é enganoso até para si mesmo; por isso precisa da luz de Deus, que conhece o que nem nós vemos. E as riquezas injustas são ovos alheios: se perdem.",
+    "anagogico": "A árvore sempre verde lembra a árvore da vida, junto ao rio da Jerusalém celeste, que dá fruto todos os meses (Ap 22,2). Deus dará a cada um segundo as suas obras."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Maldito o homem que confia no homem.” “Bem-aventurado o homem que confia no Senhor, e de quem o Senhor é a esperança.” “É como a árvore plantada sobre as águas.” “O coração é o que há de mais complicado e perverso: quem o poderá conhecer?” “O Senhor, que é a fonte das águas vivas.”",
+    "meditatio_perguntas": [
+      "Para onde estendo as minhas raízes nos tempos de seca?",
+      "Que “braço de carne” uso em lugar de Deus?",
+      "Deixo que Deus sonde o meu coração, mais complicado do que eu imagino?"
+    ],
+    "oratio_guia": "Senhor, fonte das águas vivas, planta-me junto às tuas correntes. Que eu não ponha a minha confiança no homem, mas em ti; sonda o meu coração e faz-me dar fruto mesmo no ano da seca. Amém.",
+    "contemplatio_foco": {
+      "texto": "Bem-aventurado o homem que confia no Senhor, e de quem o Senhor é a esperança",
+      "ref": "Jr 17,7"
+    }
+  },
+  "ancoras": {
+    "17:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os “ângulos” ou chifres eram as saliências nos cantos do altar, onde se espalhava o sangue da expiação (Lv 4,7).",
+        "origem": "ia"
+      }
+    },
+    "17:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Crença antiga de que a perdiz chocava ovos de outras aves, cujos filhotes a abandonavam depois de nascer.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

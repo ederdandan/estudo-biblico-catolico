@@ -1,0 +1,49 @@
+{
+  "id": "JER.45.1",
+  "livro": "JER",
+  "titulo": "A palavra a Baruc",
+  "secao": "Depois da queda",
+  "referencia": "Jr 45,1-5",
+  "ini": {
+    "c": 45,
+    "v": 1
+  },
+  "fim": {
+    "c": 45,
+    "v": 5
+  },
+  "liturgia": {
+    "tema_central": "Buscas para ti coisas grandes? Não as busques",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Um pequeno oráculo pessoal, datado do quarto ano de Joaquim, quando Baruc escreveu o rolo ditado por Jeremias (cap. 36). Baruc, secretário fiel, se lamentava: “Ai de mim, infeliz, porque o Senhor acrescentou dor à minha dor! Estou cansado de gemer, e não achei repouso.” O Senhor manda Jeremias responder: o que eu edifiquei, eu destruo; o que plantei, arranco, com toda esta terra. “E tu buscas para ti coisas grandes? Não as busques”, porque vou enviar desgraças sobre todos os mortais. “Porém entregar-te-ei, como um despojo, a tua vida, em qualquer lugar para onde fores.” Num tempo em que Deus mesmo desfaz a sua obra, Baruc não deve esperar carreira, honra ou segurança; a promessa é mais modesta e mais preciosa: a sua vida será preservada.",
+    "alegorico": "O discípulo não é maior que o mestre: Baruc participa dos sofrimentos de Jeremias como o cristão participa dos de Cristo. “Não busques coisas grandes” ecoa a palavra de Jesus aos filhos de Zebedeu, que buscavam os primeiros lugares: “Podeis beber o cálice?” (Mc 10,35-40).",
+    "moral": "O serviço a Deus pode trazer cansaço e desilusão, sobretudo quando se esperava reconhecimento. Deus não repreende o lamento, mas purifica as ambições: num tempo de crise, não se buscam coisas grandes para si, mas a fidelidade. Salvar a própria vida diante de Deus é já um grande dom.",
+    "anagogico": "“Quem quiser salvar a sua vida a perderá; quem a perder por mim a encontrará” (Mt 16,25). A vida dada como despojo é penhor da vida eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ai de mim, infeliz, porque o Senhor acrescentou dor à minha dor!” “Estou cansado de gemer, e não achei repouso.” “Os que eu edifiquei, vou destruí-los.” “E tu buscas para ti coisas grandes? Não as busques.” “Entregar-te-ei, como um despojo, a tua vida.”",
+    "meditatio_perguntas": [
+      "Que “coisas grandes” busco para mim no serviço a Deus?",
+      "Levo a Deus o meu cansaço, como Baruc?",
+      "Considero um dom suficiente ter a vida guardada por Deus?"
+    ],
+    "oratio_guia": "Senhor, recebe o meu cansaço de servir sem repouso. Purifica as minhas ambições, para que eu não busque coisas grandes para mim, mas a tua vontade, e guarda a minha vida onde quer que eu vá. Amém.",
+    "contemplatio_foco": {
+      "texto": "E tu buscas para ti coisas grandes? Não as busques",
+      "ref": "Jr 45,5"
+    }
+  },
+  "ancoras": {
+    "45:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Este oráculo, deslocado cronologicamente, funciona como assinatura de Baruc no fim das narrativas que ele provavelmente redigiu (caps. 26–45).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "JER.35.1",
+  "livro": "JER",
+  "titulo": "A fidelidade dos recabitas",
+  "secao": "O cerco e a queda",
+  "referencia": "Jr 35,1-19",
+  "ini": {
+    "c": 35,
+    "v": 1
+  },
+  "fim": {
+    "c": 35,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "A fidelidade dos recabitas, lição para o povo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No tempo de Joaquim, Deus manda Jeremias levar ao Templo a família dos recabitas, que se refugiara em Jerusalém fugindo dos babilônios, e oferecer-lhes vinho. Jeremias os reúne numa sala do Templo, põe diante deles jarros cheios de vinho e copos, e diz: bebei. Eles recusam: Jonadab, filho de Recab, nosso pai, nos mandou não beber vinho, não construir casas, não semear, não plantar vinhas, mas viver em tendas todos os dias, como peregrinos na terra; temos obedecido em tudo, nós, as mulheres e os filhos; só entramos em Jerusalém por causa da guerra. Então vem a palavra a Judá: não aprendereis a lição? Os filhos de Jonadab guardaram durante gerações o preceito de um homem, o seu pai; mas eu vos falei “madrugando muito para vos falar”, enviei os profetas sem cessar, e não me obedecestes. Por isso virão sobre Judá os males anunciados. E aos recabitas Deus promete: porque obedecestes ao preceito do vosso pai, não faltará varão da estirpe de Jonadab que esteja sempre diante de mim.",
+    "alegorico": "A vida em tendas, como peregrinos, é figura da Igreja peregrina e da vida consagrada, que testemunha que “não temos aqui cidade permanente” (Hb 13,14). A promessa de estar “sempre na minha presença” evoca o serviço litúrgico perpétuo e a fidelidade recompensada.",
+    "moral": "Os recabitas são um contraste: obedecem a um pai humano com uma fidelidade que Israel não tem para com Deus. A obediência a uma tradição familiar santa, transmitida por gerações, é força espiritual. A pergunta de Deus é para nós: obedecemos menos a ele do que outros obedecem a preceitos humanos?",
+    "anagogico": "Estar “sempre na minha presença todos os dias” é o destino dos fiéis: a fidelidade nas pequenas coisas abre a porta para a presença eterna de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Bebei vinho.” “Não beberemos vinho, porque Jonadab… nosso pai, deu-nos este preceito.” “Habitareis em cabanas todos os dias da vossa vida… na qual viveis peregrinando.” “Eu tenho-vos falado, madrugando muito para vos falar, e não me obedecestes.” “Não faltará varão da estirpe de Jonadab… na minha presença.”",
+    "meditatio_perguntas": [
+      "Que tradição de fé recebi da minha família e como a guardo?",
+      "Obedeço a Deus com a mesma firmeza com que outros obedecem a regras humanas?",
+      "Vivo como peregrino ou como quem fixou morada definitiva aqui?"
+    ],
+    "oratio_guia": "Senhor, que madrugas para me falar, dá-me a fidelidade dos recabitas. Que eu guarde a fé recebida dos meus pais e viva como peregrino, até estar sempre na tua presença. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu tenho-vos falado, madrugando muito para vos falar, e não me obedecestes",
+      "ref": "Jr 35,14"
+    }
+  },
+  "ancoras": {
+    "35:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jonadab, filho de Recab, apoiou Jeú na reforma contra o culto de Baal (2Rs 10,15-23), cerca de 840 a.C. Os recabitas mantinham o ideal nômade do deserto.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

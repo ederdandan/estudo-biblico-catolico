@@ -1,0 +1,57 @@
+{
+  "id": "JER.23.1",
+  "livro": "JER",
+  "titulo": "Os maus pastores e o Germe justo",
+  "secao": "Reis e profetas",
+  "referencia": "Jr 23,1-8",
+  "ini": {
+    "c": 23,
+    "v": 1
+  },
+  "fim": {
+    "c": 23,
+    "v": 8
+  },
+  "liturgia": {
+    "tema_central": "Suscitarei a Davi um germe justo: o Senhor, nossa justiça",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Depois dos oráculos contra os reis, Deus pronuncia um “ai” contra os pastores que perdem e dispersam o rebanho da sua pastagem: não cuidaram das ovelhas, e Deus cuidará deles pelas suas obras más. Então anuncia o que ele mesmo fará: juntarei o resto das minhas ovelhas de todas as terras para onde as lancei, as reconduzirei às pastagens, e crescerão e se multiplicarão. Porei sobre elas pastores verdadeiros: não terão medo, e nenhuma se perderá. Segue a grande promessa messiânica: “Eis vêm dias… em que suscitarei a Davide um germen justo; reinará como rei sábio, praticará o direito e a justiça na terra.” Judá será salvo, Israel habitará em segurança, e o nome desse rei será “Iavé, nossa justiça”. O nome é um jogo com o do último rei, Sedecias (“o Senhor é justiça”), que não fez jus ao nome. Por fim, o novo êxodo: já não se jurará pelo Senhor que tirou Israel do Egito, mas pelo que reconduziu a descendência de Israel da terra do norte e de todas as terras da dispersão.",
+    "alegorico": "O Germe de Davi é Cristo, nascido da raiz de Jessé, rei que pratica a justiça. Ele é “nossa justiça” no sentido mais profundo: “Cristo Jesus, que Deus nos deu como justiça, santificação e redenção” (1Cor 1,30). É também o Bom Pastor que reúne as ovelhas dispersas e não deixa perder nenhuma (Jo 6,39; 10,11-16).",
+    "moral": "Deus pede contas aos pastores pelo rebanho; todo aquele que tem responsabilidade sobre outros será julgado por isso. Mas a última palavra não é a falha humana: é Deus quem reúne e quem dá bons pastores. Nossa justiça não vem de nós; é dom de Deus em Cristo.",
+    "anagogico": "Quando o rebanho estiver todo reunido sob o único Pastor, “não terão mais medo nem sobressalto”. O novo êxodo se consuma na pátria definitiva, onde nenhuma ovelha se perderá."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ai dos pastores, que perdem e despedaçam o rebanho da minha pastagem!” “Juntarei o resto das minhas ovelhas de todas as terras.” “Não terão mais medo nem sobressalto, e não se perderá nenhuma.” “Suscitarei a Davide um germen justo.” “Iavé, nossa justiça.”",
+    "meditatio_perguntas": [
+      "Como cuido das “ovelhas” que Deus me confiou?",
+      "Busco a minha justiça em mim mesmo ou em Cristo, “nossa justiça”?",
+      "Que medo e sobressalto o Bom Pastor quer tirar de mim?"
+    ],
+    "oratio_guia": "Senhor Jesus, Germe justo de Davi e nossa justiça, reúne as tuas ovelhas dispersas e não deixes que nenhuma se perca. Dá à tua Igreja pastores segundo o teu coração e tira de nós todo medo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eis o nome por que o chamarão: Iavé, nossa justiça",
+      "ref": "Jr 23,6"
+    }
+  },
+  "ancoras": {
+    "23:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Germe” (tsemah, rebento) é título messiânico também em Zc 3,8 e 6,12 e em Is 11,1.",
+        "origem": "ia"
+      }
+    },
+    "23:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Iavé tsidqenu, “o Senhor nossa justiça”, inverte o nome de Sedecias (Tsidqiyahu).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

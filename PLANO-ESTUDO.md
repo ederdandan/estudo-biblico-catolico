@@ -118,7 +118,7 @@ Lote 4: Romanos ✅ 30 · 1 Coríntios ✅ 26 · Hebreus ✅ 17 · 2 Coríntios 
 - **Lote 8** Sapienciais curtos — ✅ Sabedoria WIS 16 · Eclesiastes ECC 9 · Cântico SNG 7 · Provérbios PRO 18 (coleções agrupadas por temas). **50 perícopes**
 - **Lote 9** Profetas maiores I — ✅ Isaías ISA 46 · Lamentações LAM 5 · Baruc BAR 5 (cap. 6 = Carta de Jeremias) · Daniel DAN 15 (Dn 3,24-90, 13 e 14 da Vulgata incluídos). **71 perícopes**
 - **Lote 10** Origens: Gênesis GEN · Êxodo EXO — ✅ refeito por episódio (a primeira versão, de 61 perícopes em blocos grossos, foi substituída): GEN 74 · EXO 56 = **130 perícopes**
-- **Lote 11** Profetas maiores II: Jeremias JER · Ezequiel EZE (~186) — ⏳
+- **Lote 11** Profetas maiores II: Jeremias JER · Ezequiel EZE (~186) — 🔄 Jeremias ✅ 64 (por episódio) · Ezequiel ⏳
 - **Lote 12** Sapienciais longos: Jó JOB · Eclesiástico SIR (~187) — ⏳
 - **Lote 13** História I: Josué JOS · Juízes JDG · 1 Samuel 1SA · 2 Samuel 2SA (~196) — ⏳
 - **Lote 14** História II: 1 Reis 1KI · 2 Reis 2KI · 1 Macabeus 1MA · 2 Macabeus 2MA (~214) — ⏳

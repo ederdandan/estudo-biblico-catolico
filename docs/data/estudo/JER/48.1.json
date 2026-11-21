@@ -1,0 +1,65 @@
+{
+  "id": "JER.48.1",
+  "livro": "JER",
+  "titulo": "Contra Moab",
+  "secao": "Oráculos contra as nações",
+  "referencia": "Jr 48,1-47",
+  "ini": {
+    "c": 48,
+    "v": 1
+  },
+  "fim": {
+    "c": 48,
+    "v": 47
+  },
+  "liturgia": {
+    "tema_central": "Moab, vinho que repousou sobre as borras",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Longo lamento sobre Moab, o vizinho do outro lado do Mar Morto. As cidades caem uma após outra: Nebo, Cariataim, Hesebon, Madmen, Oronaim; pela subida de Luit sobe-se chorando. Porque confiou nas suas fortificações e tesouros, Moab será tomado, e o seu deus Camos irá para o cativeiro com os sacerdotes e príncipes. Vem então uma imagem do vinho: “Moab esteve em repouso desde a sua mocidade, ficou tranquilo sobre as suas fezes; não foi trasfegado duma vasilha para outra, não foi para o cativeiro; por isso permaneceu o seu sabor nele.” Mas Deus enviará trasfegadores que esvaziarão os vasos e os quebrarão; Moab se envergonhará de Camos como Israel de Betel. Os vizinhos são convidados a lamentar: como se quebrou o cetro forte! Dibon, Aroer, Arnon, toda a planície é visitada. Moab escarneceu de Israel; agora será objeto de escárnio. Denuncia-se a sua soberba, “soberbo em extremo”. Mas o profeta, ou o próprio Deus, chora: “o meu coração geme como flauta” por Moab, pela vinha de Sabama, pela alegria que desapareceu dos lagares. Pavor, fosso e laço: quem foge de um cai no outro. Fogo sai de Hesebon. E, no fim, uma surpresa: “farei voltar os cativos de Moab no fim dos dias”.",
+    "alegorico": "Rute, a moabita, entrou na genealogia de Davi e de Cristo (Mt 1,5): a promessa de restaurar Moab “no fim dos dias” se cumpre na entrada dos povos na Igreja. O vinho que precisa ser trasfegado lembra o vinho novo em odres novos (Mc 2,22).",
+    "moral": "O vinho que nunca é mudado de vasilha guarda as borras e o mau gosto. Uma vida que nunca passa por provações nem mudanças tende a acomodar-se no próprio orgulho. As provas são “trasfegas” que purificam. Também chama a atenção o pranto de Deus por um povo inimigo: o juízo não exclui a compaixão.",
+    "anagogico": "“No fim dos dias” Deus fará voltar até os cativos de Moab: a misericórdia final abraça também os povos estranhos e hostis."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Puseste a confiança nas tuas fortificações e nos teus tesouros.” “Moab esteve em repouso desde a sua mocidade, ficou tranquilo sobre as suas fezes.” “Ouvimos falar da soberba de Moab.” “O meu coração por causa de Moab geme como flauta.” “Farei voltar os cativos de Moab no fim dos dias.”",
+    "meditatio_perguntas": [
+      "Minha vida espiritual está “parada sobre as borras”, acomodada?",
+      "Aceito as “trasfegas” que Deus permite para me purificar?",
+      "Sou capaz de chorar até pelos meus adversários?"
+    ],
+    "oratio_guia": "Senhor, não me deixes repousar sobre as minhas borras. Purifica-me pelas provas que permites, quebra a minha soberba e tem piedade de todos os povos, até dos que se opõem a ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Moab esteve em repouso desde a sua mocidade, ficou tranquilo (como vinho) sobre as suas fezes",
+      "ref": "Jr 48,11"
+    }
+  },
+  "ancoras": {
+    "48:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Camos (Kemosh) era o deus nacional de Moab, citado na estela do rei Mesa (c. 840 a.C.).",
+        "origem": "ia"
+      }
+    },
+    "48:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Frase que pertence ao contexto da guerra santa; não deve ser lida fora do seu gênero literário de oráculo contra as nações.",
+        "origem": "ia"
+      }
+    },
+    "48:45": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os vv. 45-46 retomam o antigo canto de Nm 21,28-29.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

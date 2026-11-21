@@ -1,0 +1,57 @@
+{
+  "id": "JER.11.1",
+  "livro": "JER",
+  "titulo": "A aliança quebrada",
+  "secao": "O Templo e a aliança",
+  "referencia": "Jr 11,1-17",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "Ouvi as palavras desta aliança",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor manda Jeremias proclamar as palavras da aliança nas cidades de Judá e nas ruas de Jerusalém: maldito quem não as ouvir. É a aliança feita no dia do Êxodo, quando Deus tirou os pais “daquela fornalha de ferro”: ouvi a minha voz, e sereis o meu povo e eu serei o vosso Deus; assim se cumpriria o juramento da terra que mana leite e mel. Jeremias responde com o “amém” litúrgico: “Sim, Senhor.” Deus insistiu desde o Egito até hoje, mas o povo seguiu a obstinação do coração; por isso vieram as maldições da aliança. Agora descobriu-se uma conspiração: Judá e Israel voltaram às iniquidades dos antepassados e romperam a aliança. Virão males de que não poderão escapar; clamarão a Deus e aos deuses a quem queimam incenso, tantos quantas são as cidades, e não serão ouvidos. De novo Deus proíbe o profeta de interceder. A amada não tem o que fazer no Templo, se pratica velhacarias: votos e sacrifícios não apagam a malícia. O Senhor a chamava “oliveira verdejante, ornada de belos frutos”, mas agora acende nela o fogo por causa do incenso a Baal.",
+    "alegorico": "A “fornalha de ferro” do Egito é figura da escravidão do pecado, de que Cristo nos tira pelo novo Êxodo da sua Páscoa. A oliveira verdejante, cujos ramos são queimados, é retomada por Paulo: ramos cortados da oliveira e enxerto dos gentios (Rm 11,17-24).",
+    "moral": "O “Sim, Senhor” do profeta é o modelo da resposta à aliança: um amém pessoal, não só repetido. A aliança é relação, e a ruptura tem consequências. Ritos e votos não substituem a conversão: “acaso as carnes sacrificadas apartarão de ti as tuas malícias?”",
+    "anagogico": "A promessa “sereis o meu povo e eu serei o vosso Deus” é a fórmula que reaparece no fim da Escritura: “Eles serão o seu povo e o próprio Deus estará com eles” (Ap 21,3)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ouvi as palavras desta aliança.” “Ouvi a minha voz… e sereis o meu povo e eu serei o vosso Deus.” “Respondi: Sim, Senhor.” “Cada um seguiu a obstinação do seu coração.” “O Senhor pôs-te o nome de oliveira verdejante, ornada de belos frutos.”",
+    "meditatio_perguntas": [
+      "O meu “amém” na liturgia é um verdadeiro “sim, Senhor” à aliança?",
+      "De que “fornalha de ferro” Deus me tirou?",
+      "Que frutos Deus espera da oliveira que ele plantou em mim?"
+    ],
+    "oratio_guia": "Senhor, que me tiraste da fornalha da escravidão e me chamaste para a tua aliança, eu te respondo: sim, Senhor. Faz de mim uma oliveira verdejante, carregada de bons frutos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Respondi: Sim, Senhor",
+      "ref": "Jr 11,5"
+    }
+  },
+  "ancoras": {
+    "11:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Sim, Senhor” traduz o hebraico amen, a resposta do povo às maldições da aliança em Dt 27,15-26.",
+        "origem": "ia"
+      }
+    },
+    "11:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “conjuração” é provavelmente a volta à idolatria depois da morte de Josias.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

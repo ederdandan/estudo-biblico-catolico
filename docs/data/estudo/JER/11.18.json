@@ -1,0 +1,57 @@
+{
+  "id": "JER.11.18",
+  "livro": "JER",
+  "titulo": "O cordeiro levado ao matadouro; por que prospera o ímpio?",
+  "secao": "O Templo e a aliança",
+  "referencia": "Jr 11,18–12,6",
+  "ini": {
+    "c": 11,
+    "v": 18
+  },
+  "fim": {
+    "c": 12,
+    "v": 6
+  },
+  "liturgia": {
+    "tema_central": "Eu era como um cordeiro levado ao matadouro",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor revela a Jeremias uma conspiração que ele não percebia: “Eu era como um inocente cordeiro, que se leva ao matadouro.” Os conterrâneos de Anatot diziam: destruamos a árvore com o seu fruto, que não haja mais memória do seu nome; e ameaçavam: não profetizes em nome do Senhor, se não queres morrer. O profeta entrega a causa a Deus, “que sondas os rins e os corações”. O Senhor promete castigar os homens de Anatot. Começa então a primeira grande queixa de Jeremias: “Tu és muito justo, ó Senhor, para que dispute contigo; todavia eu te direi coisas justas. Por que motivo é próspero o caminho dos ímpios?” Deus os planta, criam raízes e dão fruto; Deus está perto dos seus lábios e longe do seu coração. O profeta pede: tu me conheces, vês o meu coração; leva-os como ovelhas ao matadouro. Até quando a terra chorará e os animais perecerão por causa dos maus, que dizem: Deus não verá o nosso fim? A resposta de Deus é surpreendente: não explica, mas prepara para coisas piores. Se te cansaste correndo com os que vão a pé, como competirás com cavalos? Se não estás tranquilo em terra de paz, que farás nos matagais do Jordão? Até os teus irmãos, a casa de teu pai, te traem; não te fies neles, ainda que falem com doçura.",
+    "alegorico": "A imagem do cordeiro levado ao matadouro, retomada em Is 53,7, é aplicada a Cristo (At 8,32). Como Jeremias, Jesus foi rejeitado pelos de sua terra (Lc 4,24-29) e traído por um amigo íntimo. Os Padres leram a frase “destruamos a árvore com o seu fruto” (na Vulgata, “ponhamos lenho no seu pão”) como alusão à cruz.",
+    "moral": "A pergunta pela prosperidade dos ímpios é legítima e pode ser dita a Deus com franqueza. Deus não dá uma teoria, mas fortalece o seu servo para provas maiores. A traição dos próximos é das dores mais fundas; o profeta entrega a causa a Deus em vez de fazer justiça com as próprias mãos.",
+    "anagogico": "O fim dos ímpios e o dos justos só se revela no juízo de Deus, que sonda os corações (Sl 72). A memória do justo, que os inimigos queriam apagar, permanece para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu era como um inocente cordeiro, que se leva ao matadouro.” “Senhor dos exércitos, que julgas segundo a justiça, que sondas os rins e os corações.” “A ti confiei a minha causa.” “Por que motivo é próspero o caminho dos ímpios?” “Se te fatigaste em seguir, correndo, os que iam a pé, como poderás competir com os que vão a cavalo?”",
+    "meditatio_perguntas": [
+      "Tenho coragem de levar a Deus as minhas perguntas mais duras?",
+      "Entrego a Deus a minha causa quando sou injustiçado?",
+      "Como respondo quando Deus, em vez de explicar, me pede mais força?"
+    ],
+    "oratio_guia": "Senhor, que sondas os rins e os corações, a ti confio a minha causa. Quando não entendo os teus caminhos, fortalece-me para correr com os cavalos, e une-me a Cristo, cordeiro inocente. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu era como um inocente cordeiro, que se leva ao matadouro",
+      "ref": "Jr 11,19"
+    }
+  },
+  "ancoras": {
+    "11:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Vulgata lê “ponhamos lenho no seu pão”, frase que os Padres (Jerônimo, Agostinho) aplicaram à cruz de Cristo e à Eucaristia.",
+        "origem": "ia"
+      }
+    },
+    "12:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os “matagais do Jordão” eram a vegetação densa das margens do rio, refúgio de leões (cf. Jr 49,19).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

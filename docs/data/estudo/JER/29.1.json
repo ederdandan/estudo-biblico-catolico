@@ -1,0 +1,57 @@
+{
+  "id": "JER.29.1",
+  "livro": "JER",
+  "titulo": "A carta aos exilados",
+  "secao": "Jeremias diante do povo",
+  "referencia": "Jr 29,1-32",
+  "ini": {
+    "c": 29,
+    "v": 1
+  },
+  "fim": {
+    "c": 29,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "Procurai o bem da cidade: desígnios de paz e não de aflição",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jeremias escreve uma carta aos deportados de 597 a.C., enviada por Elasa, filho de Safã, e Gamarias, filho de Helcias, emissários de Sedecias. Contra os profetas que prometiam a volta rápida, a carta pede que se instalem: edificai casas e habitai-as, plantai hortas, casai-vos, tende filhos e filhas, multiplicai-vos. “Procurai o bem da cidade, para a qual vos fiz deportar, e orai por ela ao Senhor, porque o seu bem será o vosso.” Não vos deixeis enganar por profetas e sonhos. Quando se completarem os setenta anos, Deus os visitará e os fará voltar. “Sei os desígnios que tenho acerca de vós… desígnios de paz, e não de aflição, no sentido de vos assegurar um futuro cheio de esperança.” Invocar-me-eis e vos atenderei; “buscar-me-eis e me achareis, quando me buscardes de todo o vosso coração”. Os que ficaram em Jerusalém serão como figos maus. A carta denuncia dois falsos profetas no exílio, Acab e Sedecias, adúlteros, que Nabucodonosor mandará queimar. Por fim, Semeias, de Neelam, escreve de Babilônia ao sacerdote Sofonias exigindo que Jeremias seja posto no tronco; Sofonias lê a carta a Jeremias, e Deus anuncia que Semeias não terá descendência que veja a libertação.",
+    "alegorico": "A carta aos exilados é modelo da condição cristã: “estrangeiros e peregrinos” (1Pd 2,11), que vivem nas cidades da terra, procuram o seu bem e oram pelas autoridades (1Tm 2,1-2), mas têm a pátria no céu (Fl 3,20). A Carta a Diogneto descreve assim os cristãos: vivem em suas pátrias como estrangeiros.",
+    "moral": "O exílio não é tempo perdido: é tempo de construir, plantar e gerar vida. Fé não é fuga da realidade, mas compromisso com o bem da cidade onde Deus nos pôs, inclusive pela oração. E Deus deixa-se encontrar por quem o busca de todo o coração. Os desígnios de Deus são de paz, mesmo quando o presente é de exílio.",
+    "anagogico": "O “futuro cheio de esperança” se cumpre na volta definitiva à pátria. Até lá, o cristão vive como exilado que trabalha pelo bem do mundo sem esquecer Jerusalém."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Edificai casas e habitai-as; plantai hortas e comei os seus frutos.” “Procurai o bem da cidade… e orai por ela ao Senhor, porque o seu bem será o vosso.” “Sei os desígnios que tenho acerca de vós… desígnios de paz, e não de aflição.” “Buscar-me-eis e me achareis, quando me buscardes de todo o vosso coração.”",
+    "meditatio_perguntas": [
+      "Procuro e rezo pelo bem da cidade onde vivo?",
+      "Vivo o meu “exílio” construindo e plantando, ou só esperando que passe?",
+      "Busco a Deus de todo o coração?"
+    ],
+    "oratio_guia": "Senhor, que tens sobre mim desígnios de paz e não de aflição, ensina-me a procurar o bem da cidade onde me puseste e a rezar por ela. Deixa-te encontrar por mim, que te busco de todo o coração. Amém.",
+    "contemplatio_foco": {
+      "texto": "desígnios de paz, e não de aflição, no sentido de vos assegurar um futuro cheio de esperança",
+      "ref": "Jr 29,11"
+    }
+  },
+  "ancoras": {
+    "29:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Elasa era irmão de Aicam (26,24); Gamarias, talvez filho do sumo sacerdote Helcias do tempo de Josias.",
+        "origem": "ia"
+      }
+    },
+    "29:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jogo de palavras entre qelala (maldição) e qalam (assar): os nomes dos falsos profetas viraram fórmula de maldição.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "JER.10.17",
+  "livro": "JER",
+  "titulo": "Corrige-me, Senhor, mas com juízo",
+  "secao": "O Templo e a aliança",
+  "referencia": "Jr 10,17-25",
+  "ini": {
+    "c": 10,
+    "v": 17
+  },
+  "fim": {
+    "c": 10,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "O caminho do homem não está no seu poder",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jerusalém, cercada, deve juntar a bagagem para o exílio: desta vez o Senhor atirará longe os habitantes da terra, “para que me encontrem”. A cidade fala como mulher ferida: “Ai de mim! Que ferida! A minha chaga é incurável!” Mas aceita: fui eu que procurei esta desgraça, hei de suportá-la. A tenda foi derrubada, as cordas rompidas, os filhos partiram; não há quem a levante. A causa é dos pastores, que agiram loucamente e não buscaram o Senhor, e por isso o rebanho se dispersou. Já se ouve o tumulto vindo do norte. Então o profeta reza em nome do povo: “Eu sei, Senhor, que o caminho do homem não está no seu poder, que o homem que anda não pode dirigir os seus passos.” E pede: “Castiga-me, Senhor, porém segundo a justiça, e não no teu furor, para que não suceda que me reduzas a nada.” Termina pedindo que a indignação recaia sobre as nações que não conhecem a Deus e devoraram Jacó.",
+    "alegorico": "Os pastores que não buscaram o Senhor e dispersaram o rebanho contrastam com o Bom Pastor, que reúne as ovelhas dispersas (Jo 10,16; 11,52). A tenda derrubada que ninguém levanta será reerguida por Deus: “levantarei a tenda de Davi que caiu” (Am 9,11; At 15,16).",
+    "moral": "Aceitar a correção é sinal de maturidade: “fui eu que procurei esta desgraça; suportá-la-ei”. A oração do profeta ensina a humildade de reconhecer que não dirigimos sozinhos os nossos passos, e a confiança de pedir a correção que educa, não a que destrói. Deus dispersa “para que me encontrem”: o sofrimento pode ser caminho de encontro.",
+    "anagogico": "Quem entrega a Deus a direção dos seus passos chegará à meta que não pode alcançar sozinho. A correção paterna de Deus (Hb 12,5-11) prepara para a herança eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Os atribularei para que me encontrem.” “Fui eu que procurei esta desgraça: suportá-la-ei.” “Os pastores… não buscaram o Senhor.” “O caminho do homem não está no seu poder.” “Castiga-me, Senhor, porém segundo a justiça, e não no teu furor.”",
+    "meditatio_perguntas": [
+      "Reconheço a parte que tenho nas desgraças que me atingem?",
+      "Deixo que Deus dirija os meus passos ou insisto em dirigi-los sozinho?",
+      "Vejo nas provações uma ocasião de encontrar a Deus?"
+    ],
+    "oratio_guia": "Senhor, eu sei que o meu caminho não está no meu poder. Dirige os meus passos e, quando for preciso, corrige-me com justiça e misericórdia, para que eu te encontre. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu sei, Senhor, que o caminho do homem não está no seu poder",
+      "ref": "Jr 10,23"
+    }
+  },
+  "ancoras": {
+    "10:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Este versículo reaparece quase igual no Sl 78,6-7 (Vulgata).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

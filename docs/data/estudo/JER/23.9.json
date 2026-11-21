@@ -1,0 +1,57 @@
+{
+  "id": "JER.23.9",
+  "livro": "JER",
+  "titulo": "Contra os falsos profetas",
+  "secao": "Reis e profetas",
+  "referencia": "Jr 23,9-40",
+  "ini": {
+    "c": 23,
+    "v": 9
+  },
+  "fim": {
+    "c": 23,
+    "v": 40
+  },
+  "liturgia": {
+    "tema_central": "A minha palavra é como fogo e como martelo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jeremias fala “sobre os profetas”: o seu coração está despedaçado, os ossos tremem, está como um ébrio por causa do Senhor e da sua santa palavra. A terra está cheia de adúlteros e de maldição; profeta e sacerdote se corromperam, até no Templo. Os profetas de Samaria profetizavam em nome de Baal; os de Jerusalém fazem pior: adultério, mentira, fortalecem os maus para que ninguém se converta; tornaram-se como Sodoma e Gomorra. Deus adverte o povo: não os ouçais; contam as visões do seu coração, não da boca do Senhor; dizem aos que desprezam a Deus: tereis paz; não virá mal algum. Mas quem esteve no conselho do Senhor? A tempestade da ira de Deus virá. “Eu não enviava estes profetas e eles corriam; não lhes dizia nada, e eles profetizavam.” Se tivessem estado no conselho divino, teriam convertido o povo. Deus não é só Deus de perto, mas de longe: ninguém se esconde dele, porque ele enche o céu e a terra. Os falsos profetas dizem “tive um sonho”; que contem o sonho, mas o que tem a palavra a anuncie com verdade: “Que comparação há entre a palha e o trigo?” “Não são as minhas palavras como um fogo… como um martelo que quebra a pedra?” Deus é contra os que roubam palavras uns dos outros e dizem “oráculo do Senhor” sem que ele tenha falado. Até a expressão “peso do Senhor” virou zombaria: “Vós é que sois o peso.”",
+    "alegorico": "O verdadeiro profeta é quem esteve “no conselho do Senhor”: plenamente, só Cristo, o Filho que está no seio do Pai e o revelou (Jo 1,18). A palavra que é fogo e martelo é a Palavra viva e eficaz, mais cortante que espada de dois gumes (Hb 4,12).",
+    "moral": "O critério para discernir a palavra de Deus: ela converte, não tranquiliza o pecador. Quem diz a quem vive no mal “não virá mal algum” não fala da parte de Deus. Desconfiar das “visões do próprio coração” vale também para nós: confundir os próprios desejos com a vontade de Deus. E ninguém se esconde dele, que enche céu e terra.",
+    "anagogico": "A palavra de Deus permanece, enquanto a palha dos falsos oráculos será queimada (Mt 3,12). “Nos últimos dias entenderás”: o sentido pleno da história só se revela no fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quem assistiu ao conselho do Senhor, e viu e ouviu a sua palavra?” “Eu não enviava estes profetas e eles corriam.” “Porventura não encho o céu e a terra?” “Que comparação há entre a palha e o trigo?” “Não são as minhas palavras como um fogo… como um martelo que quebra a pedra?”",
+    "meditatio_perguntas": [
+      "Distingo a palavra de Deus das “visões do meu coração”?",
+      "Busco quem me conforte no erro ou quem me ajude a converter-me?",
+      "Deixo a palavra de Deus ser martelo que quebra as minhas pedras?"
+    ],
+    "oratio_guia": "Senhor, que enches o céu e a terra, livra-me das palavras vazias que me tranquilizam no pecado. Que a tua palavra seja fogo que me purifica e martelo que quebra a minha dureza. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não são as minhas palavras como um fogo, diz o Senhor, como um martelo que quebra a pedra?",
+      "ref": "Jr 23,29"
+    }
+  },
+  "ancoras": {
+    "23:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “conselho” (sod) do Senhor é a assembleia celeste onde se decidem os desígnios divinos (cf. 1Rs 22,19-22; Am 3,7).",
+        "origem": "ia"
+      }
+    },
+    "23:33": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jogo de palavras: massa significa “oráculo” e “peso, fardo”. O povo zombava perguntando qual o “peso” do Senhor.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "JER.5.1",
+  "livro": "JER",
+  "titulo": "Procurai um homem que faça justiça",
+  "secao": "Vocação e primeiros oráculos",
+  "referencia": "Jr 5,1-31",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Se houver um justo, perdoarei à cidade",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor desafia: percorrei as ruas e praças de Jerusalém e procurai um só homem que faça justiça e busque a verdade, “e eu perdoarei à cidade”. Até quando juram pelo Senhor, juram falso. Feridos, não sentiram; corrigidos, endureceram a fronte mais que pedra. Jeremias pensa que talvez sejam só os pobres, que não conhecem o caminho do Senhor; vai aos grandes, e encontra que estes quebraram o jugo ainda mais. Por isso o leão, o lobo e o leopardo vigiam as cidades. Deus pergunta como poderia perdoar: cumulou-os de bens, e adulteraram, como cavalos no cio. Os inimigos devem cortar os sarmentos, mas não destruir de todo. O povo nega o Senhor: não virá mal, os profetas são vento. Por isso a palavra será fogo na boca de Jeremias e o povo, lenha. Virá uma nação de longe, de língua desconhecida, que comerá as searas, os filhos, os rebanhos e as vinhas; contudo, “não acabarei de todo convosco”. Quem serviu deuses estranhos na própria terra servirá estrangeiros em terra alheia. “Ouve, povo insensato… que tendes olhos e não vedes”: Deus pôs a areia como limite do mar, mas o povo não teme quem dá a chuva a seu tempo. Há ímpios que armam laços como caçadores, enriquecem e não fazem justiça ao órfão e ao pobre. Os profetas profetizam mentira, os sacerdotes os acompanham, “e o meu povo gosta destas coisas”.",
+    "alegorico": "A busca de um justo para salvar a cidade evoca a intercessão de Abraão por Sodoma (Gn 18) e se cumpre em Cristo, o único Justo, por quem Deus perdoa a cidade inteira. A palavra feita fogo na boca do profeta anuncia o Espírito que desce em línguas de fogo (At 2,3).",
+    "moral": "Deus mede a cidade pela justiça e pela verdade. A responsabilidade cresce com o conhecimento: os “grandes”, que conhecem a lei, são os mais culpados. O texto denuncia a riqueza acumulada sem justiça para o órfão e o pobre. E a frase final pesa sobre todos: um povo que gosta de ser enganado escolhe profetas que lhe dizem o que quer ouvir.",
+    "anagogico": "O mar que não ultrapassa o limite é sinal do Deus que governa o caos; um dia o mar já não existirá (Ap 21,1). Até lá, a pergunta “Que fareis quando chegar o fim?” chama cada um a preparar-se."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Procurai… a ver se achais um só homem que faça justiça, busque a verdade, e eu perdoarei à cidade.” “Endureceram as suas frontes mais que uma pedra.” “Eu farei com que as minhas palavras sejam fogo na tua boca.” “Tendes olhos e não vedes.” “O meu povo gosta destas coisas.”",
+    "meditatio_perguntas": [
+      "Se Deus procurasse um justo na minha casa ou cidade, me encontraria?",
+      "Prefiro ouvir quem me agrada ou quem me diz a verdade?",
+      "Como trato o órfão e o pobre que estão ao meu alcance?"
+    ],
+    "oratio_guia": "Senhor, que buscas um justo para perdoar a cidade, faz de mim alguém que pratica a justiça e busca a verdade. Abre os meus olhos para ver e os meus ouvidos para ouvir a tua palavra, mesmo quando ela queima. Amém.",
+    "contemplatio_foco": {
+      "texto": "procurai nas suas praças a ver se achais um só homem que faça justiça, busque a verdade, e eu perdoarei à cidade",
+      "ref": "Jr 5,1"
+    }
+  },
+  "ancoras": {
+    "5:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “gente antiga… cuja língua não conheces” é Babilônia, que falava acádio e aramaico.",
+        "origem": "ia"
+      }
+    },
+    "5:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “chuva temporã” cai no outono, na semeadura; a “serôdia”, na primavera, antes da colheita.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

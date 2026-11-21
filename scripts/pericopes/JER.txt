@@ -1,0 +1,76 @@
+# Divisão em perícopes (numeração Matos Soares / Vulgata). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## Vocação e primeiros oráculos
+1:1-1:19 | A vocação de Jeremias
+2:1-2:13 | A fonte de água viva e as cisternas rotas
+2:14-2:37 | A esposa infiel
+3:1-4:4 | Convertei-vos, filhos rebeldes
+4:5-4:31 | O inimigo do aquilão: minhas entranhas!
+5:1-5:31 | Procurai um homem que faça justiça
+6:1-6:30 | Paz, paz, quando não há paz
+## O Templo e a aliança
+7:1-7:15 | O sermão do Templo: covil de ladrões
+7:16-8:3 | A rainha do céu e o vale de Tofet
+8:4-8:22 | Não há bálsamo em Galaad?
+9:1-9:22 | Quem dará água à minha cabeça?
+9:23-9:26 | Glorie-se em conhecer-me
+10:1-10:16 | Os ídolos e o Deus verdadeiro
+10:17-10:25 | Corrige-me, Senhor, mas com juízo
+11:1-11:17 | A aliança quebrada
+11:18-12:6 | O cordeiro levado ao matadouro; por que prospera o ímpio?
+12:7-12:17 | Abandonei a minha casa
+## Sinais e confissões
+13:1-13:14 | O cinto de linho e os odres
+13:15-13:27 | Pode o etíope mudar a sua pele?
+14:1-14:22 | A seca e a súplica do povo
+15:1-15:9 | Ainda que Moisés e Samuel se apresentassem
+15:10-15:21 | Achei as tuas palavras e comi-as
+16:1-16:21 | A vida de Jeremias como sinal
+17:1-17:13 | Maldito o homem que confia no homem
+17:14-17:27 | Cura-me, Senhor; a santificação do sábado
+18:1-18:17 | Na casa do oleiro
+18:18-18:23 | Vinde, maquinemos contra Jeremias
+19:1-20:6 | A bilha quebrada e o tronco de Fassur
+20:7-20:18 | Seduziste-me, Senhor
+## Reis e profetas
+21:1-21:14 | A resposta a Sedecias
+22:1-22:30 | Contra os reis de Judá
+23:1-23:8 | Os maus pastores e o Germe justo
+23:9-23:40 | Contra os falsos profetas
+24:1-24:10 | Os dois cestos de figos
+25:1-25:14 | Os setenta anos
+25:15-25:38 | O cálice do vinho da ira
+## Jeremias diante do povo
+26:1-26:24 | O processo de Jeremias
+27:1-27:22 | O jugo do rei de Babilônia
+28:1-28:17 | Hananias e o jugo de ferro
+29:1-29:32 | A carta aos exilados
+## O Livro da Consolação
+30:1-30:24 | Restaurarei Jacó
+31:1-31:22 | Com amor eterno te amei; Raquel chora
+31:23-31:40 | A nova aliança
+32:1-32:44 | O campo de Anatot
+33:1-33:26 | O Germe de justiça e a aliança com o dia
+## O cerco e a queda
+34:1-34:22 | Os escravos libertados e retomados
+35:1-35:19 | A fidelidade dos recabitas
+36:1-36:32 | O rolo queimado
+37:1-37:20 | Jeremias preso
+38:1-38:28 | Na cisterna; Abdemelec
+39:1-39:18 | A queda de Jerusalém
+## Depois da queda
+40:1-40:16 | Godolias em Masfa
+41:1-41:18 | O assassinato de Godolias
+42:1-43:7 | A descida ao Egito
+43:8-44:30 | Em Táfnis; a rainha do céu
+45:1-45:5 | A palavra a Baruc
+## Oráculos contra as nações
+46:1-46:28 | Contra o Egito
+47:1-47:7 | Contra os filisteus
+48:1-48:47 | Contra Moab
+49:1-49:22 | Contra Amon e Edom
+49:23-49:39 | Contra Damasco, Cedar e Elam
+50:1-50:46 | Contra Babilônia: saí do meio dela
+51:1-51:64 | Contra Babilônia: o livro lançado no Eufrates
+## Apêndice histórico
+52:1-52:34 | A ruína de Jerusalém e a graça a Joaquin

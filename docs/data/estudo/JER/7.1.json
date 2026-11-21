@@ -1,0 +1,57 @@
+{
+  "id": "JER.7.1",
+  "livro": "JER",
+  "titulo": "O sermão do Templo: covil de ladrões",
+  "secao": "O Templo e a aliança",
+  "referencia": "Jr 7,1-15",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "Não confieis em palavras de mentira: o templo do Senhor!",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor manda Jeremias pôr-se à porta do Templo e falar aos que entram para adorar. A mensagem é condicional: tornai bons os vossos caminhos, “e eu habitarei convosco neste lugar”. Não confieis no refrão mentiroso: “É este o templo do Senhor, o templo do Senhor, o templo do Senhor!” A presença de Deus depende de praticar a justiça entre os litigantes, não oprimir o estrangeiro, o órfão e a viúva, não derramar sangue inocente nem seguir deuses estranhos. O povo, porém, furta, mata, adultera, jura falso, sacrifica a Baal, e depois vem ao Templo dizer: “Estamos livres”, para continuar as mesmas abominações. Deus pergunta: “Esta minha casa… é, a vossos olhos, um covil de ladrões?” E dá um exemplo da história: ide a Silo, onde primeiro habitou o meu nome, e vede o que fiz por causa da malícia de Israel. Porque não ouviram quando Deus falava com insistência, ele fará a este Templo o mesmo que a Silo e lançará Judá para longe, como lançou Efraim. O discurso, proferido no início do reinado de Joaquim, quase custou a vida ao profeta (cap. 26).",
+    "alegorico": "Jesus cita esta palavra ao purificar o Templo: “Fizestes dela um covil de ladrões” (Mt 21,13). Ele mesmo é o verdadeiro Templo, destruído e reerguido em três dias (Jo 2,19-21). A destruição anunciada se repete no ano 70, e a presença de Deus passa ao Corpo de Cristo, que é a Igreja, e a cada cristão, templo do Espírito.",
+    "moral": "O lugar santo não garante nada a quem vive na injustiça. É tentação de todos os tempos usar o culto como seguro contra as consequências do pecado: confessar-se sem propósito, comungar sem conversão, frequentar a igreja e oprimir o fraco. Deus liga a sua habitação entre nós ao cuidado do estrangeiro, do órfão e da viúva.",
+    "anagogico": "Deus deseja habitar com o seu povo “pelos séculos dos séculos”. Essa promessa se cumpre na Jerusalém celeste, onde não entra nada de profano e a morada de Deus está com os homens para sempre (Ap 21,3.27)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Tornai bons os vossos caminhos e as vossas obras, e eu habitarei convosco neste lugar.” “Não ponhais a vossa confiança em palavras de mentira.” “Se não oprimirdes o peregrino, o órfão e a viúva.” “Esta minha casa… é, a vossos olhos, um covil de ladrões?” “Ide… a Silo… e vede o que eu lhe fiz.”",
+    "meditatio_perguntas": [
+      "Uso as práticas religiosas como seguro para não mudar de vida?",
+      "Como a minha fé se traduz no cuidado do estrangeiro, do órfão e da viúva?",
+      "Que “Silo” da minha história me lembra que a infidelidade tem consequências?"
+    ],
+    "oratio_guia": "Senhor, não quero confiar em palavras vazias, mas em ti. Torna bons os meus caminhos, para que habites em mim e faças de mim templo do teu Espírito, e não covil de ladrões. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tornai bons os vossos caminhos e as vossas obras, e eu habitarei convosco neste lugar",
+      "ref": "Jr 7,3"
+    }
+  },
+  "ancoras": {
+    "7:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Silo, no território de Efraim, guardou a arca no tempo de Eli (1Sm 1–4). Foi destruída, provavelmente pelos filisteus, por volta de 1050 a.C.",
+        "origem": "ia"
+      }
+    },
+    "7:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Covil de ladrões: o esconderijo onde o bandido se julga seguro depois do crime.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

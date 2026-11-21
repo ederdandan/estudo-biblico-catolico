@@ -1,0 +1,57 @@
+{
+  "id": "JER.49.23",
+  "livro": "JER",
+  "titulo": "Contra Damasco, Cedar e Elam",
+  "secao": "Oráculos contra as nações",
+  "referencia": "Jr 49,23-39",
+  "ini": {
+    "c": 49,
+    "v": 23
+  },
+  "fim": {
+    "c": 49,
+    "v": 39
+  },
+  "liturgia": {
+    "tema_central": "Damasco, Cedar e Elam: o trono de Deus sobre as nações",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Três breves oráculos encerram a série. Contra Damasco: Emat e Arfad estão confundidas, agitadas como o mar; Damasco perdeu a coragem, tomada de angústia como mulher em parto. “Como ficou abandonada a cidade famosa, a cidade da alegria?” Os jovens cairão nas praças, e o fogo devorará os palácios de Ben-Hadad. Contra Cedar e os reinos de Hasor, tribos árabes do deserto que Nabucodonosor atacou: levai as suas tendas, os seus rebanhos e camelos; gritai sobre eles “terror de todos os lados”. Vivem tranquilos, sem portas nem ferrolhos, à parte; mas serão dispersos aos quatro ventos, e Hasor será covil de chacais. Contra Elam, no início do reinado de Sedecias: Deus quebrará o arco de Elam, a sua força principal; enviará os quatro ventos dos quatro cantos do céu e dispersará os elamitas por todas as nações. “Estabelecerei o meu trono em Elão”, e destruirei o rei e os chefes. Mas, como para Moab e Amon, a última palavra é de esperança: “Nos últimos dias, porém, farei voltar os cativos de Elão.”",
+    "alegorico": "Os elamitas estão entre os povos presentes em Jerusalém no Pentecostes: “Partos, medos, elamitas…” (At 2,9). A promessa de fazê-los voltar “nos últimos dias” se cumpre quando ouvem, cada um na sua língua, as maravilhas de Deus. O trono de Deus estabelecido em Elam anuncia o seu reinado sobre todas as nações.",
+    "moral": "Nenhuma nação está fora do olhar de Deus, nem as tribos mais isoladas do deserto. A segurança de quem vive “sem portas nem ferrolhos”, confiando no isolamento, também é ilusória. Mas Deus não julga para destruir: o refrão da restauração final mostra que ele quer todos os povos reunidos.",
+    "anagogico": "“Nos últimos dias” Deus reunirá os dispersos de todas as nações em torno do seu trono, como na visão da multidão de toda tribo, língua, povo e nação (Ap 7,9)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Como ficou abandonada a cidade famosa, a cidade da alegria?” “Uma nação tranquila e que vive sem receio.” “Vou quebrar o arco de Elão, a sua maior força.” “Estabelecerei o meu trono em Elão.” “Nos últimos dias, porém, farei voltar os cativos de Elão.”",
+    "meditatio_perguntas": [
+      "Qual é o “arco”, a força principal em que me apoio?",
+      "Creio que Deus quer estabelecer o seu trono também nos povos que parecem distantes?",
+      "Rezo pela conversão e restauração de todas as nações?"
+    ],
+    "oratio_guia": "Senhor, que queres estabelecer o teu trono sobre todas as nações, quebra o arco da minha autossuficiência. Nos últimos dias, reúne os teus filhos dispersos de todos os povos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Nos últimos dias, porém, farei voltar os cativos de Elão, diz o Senhor",
+      "ref": "Jr 49,39"
+    }
+  },
+  "ancoras": {
+    "49:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cedar e Hasor designam tribos árabes; Nabucodonosor fez uma campanha contra elas em 599/598 a.C., registrada na Crônica babilônica.",
+        "origem": "ia"
+      }
+    },
+    "49:34": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Elam ficava a leste da Babilônia, no atual sudoeste do Irã; sua capital era Susa.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

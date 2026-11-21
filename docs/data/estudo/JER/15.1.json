@@ -1,0 +1,57 @@
+{
+  "id": "JER.15.1",
+  "livro": "JER",
+  "titulo": "Ainda que Moisés e Samuel se apresentassem",
+  "secao": "Sinais e confissões",
+  "referencia": "Jr 15,1-9",
+  "ini": {
+    "c": 15,
+    "v": 1
+  },
+  "fim": {
+    "c": 15,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "Quem se compadecerá de ti, Jerusalém?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A resposta de Deus à súplica é dura: “Ainda que Moisés e Samuel se pusessem diante de mim, a minha alma não se inclinaria para este povo.” Moisés e Samuel foram os grandes intercessores de Israel, mas agora nem eles seriam ouvidos. Se perguntarem para onde ir, a resposta é a lista dos castigos: para a morte, para a espada, para a fome, para o cativeiro. Quatro flagelos virão: a espada, os cães, as aves e os animais. A causa remota é o reinado de Manassés, filho de Ezequias, que encheu Jerusalém de idolatria e sangue inocente. Depois Deus se dirige à cidade: quem terá compaixão de ti, quem se desviará do caminho para perguntar como estás? “Tu me abandonaste… voltaste-me as costas”; por isso estenderei a minha mão, “porque estou cansado de ter pena de ti”. O povo será joeirado como grão no crivo; as viúvas serão mais numerosas que a areia do mar; a mãe de sete filhos desfalece e o seu sol se põe ainda de dia.",
+    "alegorico": "Que nem Moisés nem Samuel bastem mostra a necessidade de um intercessor maior, Cristo, sempre vivo para interceder por nós (Hb 7,25), cuja súplica é sempre ouvida. A mãe de sete filhos cujo sol se põe ao meio-dia lembra a escuridão ao meio-dia no Calvário (Mt 27,45).",
+    "moral": "Há um ponto em que o pecado persistente fecha a porta à intercessão; não se deve brincar com a paciência de Deus. Também mostra como os pecados de uma geração (Manassés) pesam sobre as seguintes: ninguém peca só para si. E a pergunta “quem perguntará por ti?” convida a não ser indiferente ao sofrimento alheio.",
+    "anagogico": "O joeiramento é imagem do juízo final, quando Cristo separará o trigo da palha (Mt 3,12). Só quem se deixa purificar agora permanece no celeiro de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ainda que Moisés e Samuel se pusessem diante de mim.” “Para a morte, o que é para a morte.” “Quem se compadecerá de ti, ó Jerusalém?” “Tu me abandonaste… voltaste-me as costas.” “O sol pôs-se para ela, quando ainda era dia.”",
+    "meditatio_perguntas": [
+      "Brinco com a paciência de Deus, adiando a conversão?",
+      "Que pecados das gerações anteriores ainda pesam sobre a minha família, e como os entrego a Deus?",
+      "Saio do meu caminho para perguntar pelo sofrimento dos outros?"
+    ],
+    "oratio_guia": "Senhor, não me deixes voltar-te as costas até cansar a tua paciência. Por intercessão de Cristo, sempre ouvido, tem piedade de mim e da minha casa. Amém.",
+    "contemplatio_foco": {
+      "texto": "Quem se compadecerá de ti, ó Jerusalém? Quem te lamentará?",
+      "ref": "Jr 15,5"
+    }
+  },
+  "ancoras": {
+    "15:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Moisés (Ex 32,11-14) e Samuel (1Sm 7,8-9; 12,23) eram lembrados como os grandes intercessores do povo (cf. Sl 98,6).",
+        "origem": "ia"
+      }
+    },
+    "15:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Sobre os pecados de Manassés, ver 2Rs 21,1-16; 24,3-4.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

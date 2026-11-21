@@ -1,0 +1,49 @@
+{
+  "id": "JER.17.14",
+  "livro": "JER",
+  "titulo": "Cura-me, Senhor; a santificação do sábado",
+  "secao": "Sinais e confissões",
+  "referencia": "Jr 17,14-27",
+  "ini": {
+    "c": 17,
+    "v": 14
+  },
+  "fim": {
+    "c": 17,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "Cura-me, Senhor, e serei curado",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jeremias reza: “Cura-me, Senhor, e serei curado; salva-me, e serei salvo; porque tu és a minha glória.” Os adversários zombam: onde está a palavra do Senhor? Que se cumpra! O profeta se defende diante de Deus: não desejei a desgraça nem o dia da calamidade; o que saiu dos meus lábios esteve diante de ti. Pede: não me sejas motivo de medo, tu que és a minha esperança no dia da aflição; confundidos sejam os que me perseguem, não eu. Em seguida o Senhor o envia às portas da cidade, por onde entram os reis e o povo, para falar do sábado: não carregueis fardos no sábado nem os introduzais pelas portas de Jerusalém, não façais trabalho servil; santificai o dia como mandei aos vossos pais. Os pais não ouviram. Mas, se o povo ouvir, reis da casa de Davi entrarão pelas portas, e Jerusalém será habitada para sempre; de todas as regiões virão oferecer sacrifícios e ações de graças no Templo. Se não ouvirem, Deus acenderá fogo nas portas, que devorará os palácios.",
+    "alegorico": "O pedido “cura-me e serei curado” se cumpre nos milagres de Cristo, que cura todos os que a ele vêm, e no sacramento da Unção e da Penitência. O sábado que se santifica prefigura o Domingo, o dia do Senhor ressuscitado, e o repouso de Deus prometido ao seu povo (Hb 4,9-10).",
+    "moral": "A cura verdadeira vem de Deus; quando ele cura, a cura é completa. O profeta não deseja o mal nem mesmo aos que o zombam; entrega a justiça a Deus. O preceito do sábado ensina que a fidelidade se mostra em gestos concretos e semanais: guardar o dia do Senhor sem transformá-lo em dia de negócios.",
+    "anagogico": "A promessa de uma Jerusalém habitada para sempre, onde todos vêm render graças, aponta para o descanso eterno, o sábado sem ocaso de que falava Santo Agostinho."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Cura-me, Senhor, e serei curado; salva-me, e serei salvo; porque tu és a minha glória.” “Onde está a palavra do Senhor?” “Não desejei o dia da calamidade.” “Tu, esperança minha, no dia da aflição.” “Santificai o dia de sábado.”",
+    "meditatio_perguntas": [
+      "De que preciso que Deus me cure hoje?",
+      "Como guardo o domingo: dia do Senhor ou dia como os outros?",
+      "Desejo o mal aos que zombam da minha fé, ou entrego-os a Deus?"
+    ],
+    "oratio_guia": "Cura-me, Senhor, e serei curado; salva-me, e serei salvo, porque tu és a minha glória. Ensina-me a santificar o teu dia e a esperar em ti no dia da aflição. Amém.",
+    "contemplatio_foco": {
+      "texto": "Cura-me, Senhor, e serei curado; salva-me, e serei salvo; porque tu és a minha glória",
+      "ref": "Jr 17,14"
+    }
+  },
+  "ancoras": {
+    "17:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O descanso sabático incluía a proibição de transportar cargas e de comerciar (cf. Ne 13,15-22).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

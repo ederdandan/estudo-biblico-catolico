@@ -1,0 +1,57 @@
+{
+  "id": "JER.4.5",
+  "livro": "JER",
+  "titulo": "O inimigo do aquilão: minhas entranhas!",
+  "secao": "Vocação e primeiros oráculos",
+  "referencia": "Jr 4,5-31",
+  "ini": {
+    "c": 4,
+    "v": 5
+  },
+  "fim": {
+    "c": 4,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "O inimigo vem do aquilão; o profeta sofre com o seu povo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Soa o alarme: tocai a trombeta, fugi para as cidades fortificadas, levantai o estandarte para Sião, porque vem do aquilão uma grande calamidade. O leão saiu do seu covil, o destruidor das nações se pôs a caminho. Cobri-vos de cilício. Naquele dia o rei, os chefes, os sacerdotes e os profetas ficarão sem coragem; e o povo dirá que foi enganado com promessas de paz quando a espada chega ao coração. Um vento ardente sopra do deserto, não para joeirar o grão, mas para queimar. O inimigo vem como nuvem, carros como tempestade, cavalos mais velozes que águias. “Lava, ó Jerusalém, o teu coração de toda a maldade, para que sejas salva.” Notícias de Dã e de Efraim anunciam a aproximação. Então rompe o grito do profeta: “Minhas entranhas! Minhas entranhas!… O meu coração tumultua!” O povo é néscio, sábio para o mal, ignorante do bem. Jeremias vê a terra voltar ao caos: “informe e vazia”, os céus sem luz, os montes tremendo, sem homens nem aves, o vergel feito deserto. Mas o Senhor diz: não a destruirei de todo. A cidade foge; Jerusalém se enfeita em vão diante de amantes que a querem matar; e se ouve o grito da filha de Sião, como de mulher em parto: ai de mim, desfalece a minha alma.",
+    "alegorico": "A visão da criação desfeita (“informe e vazia”, como em Gn 1,2) mostra que o pecado desfaz a obra de Deus; Cristo, Palavra criadora, vem refazê-la. As dores de parto da filha de Sião prefiguram as dores de onde nasce o povo novo, de pé junto à cruz (Jo 16,21; Ap 12,2).",
+    "moral": "O profeta não anuncia a catástrofe com frieza: sofre nas entranhas o mal que anuncia. Quem corrige o irmão deve fazê-lo com o coração ferido, não com satisfação. O apelo central é interior: lava o teu coração. Enfeitar-se por fora (“te vistas de púrpura”) não salva quem está podre por dentro.",
+    "anagogico": "“Não a destruirei de todo”: mesmo no juízo, Deus guarda um resto e prepara uma nova criação. O caos que o pecado produz não tem a última palavra; virá um novo céu e uma nova terra."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Lava, ó Jerusalém, o teu coração de toda a maldade, para que sejas salva.” “Minhas entranhas! Minhas entranhas!” “São sábios para fazer o mal, mas não sabem fazer o bem.” “Olhei para a terra, e eis que estava informe e vazia.” “Porém não a destruirei de todo.”",
+    "meditatio_perguntas": [
+      "Sofro pelo mal que vejo, ou apenas o condeno de longe?",
+      "O que precisa ser lavado no meu coração, para além das aparências?",
+      "Em que sou “sábio para o mal” e pouco hábil para o bem?"
+    ],
+    "oratio_guia": "Senhor, lava o meu coração de toda a maldade. Dá-me entranhas de misericórdia diante do sofrimento do teu povo e não permitas que o pecado desfaça em mim a tua obra. Amém.",
+    "contemplatio_foco": {
+      "texto": "Lava, ó Jerusalém, o teu coração de toda a maldade, para que sejas salva",
+      "ref": "Jr 4,14"
+    }
+  },
+  "ancoras": {
+    "4:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “mal do aquilão” é o exército babilônico, que descia a Judá pelo norte, contornando o deserto.",
+        "origem": "ia"
+      }
+    },
+    "4:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Informe e vazia” retoma a expressão de Gn 1,2: o juízo é apresentado como desfazer a criação.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

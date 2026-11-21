@@ -1,0 +1,57 @@
+{
+  "id": "JER.18.18",
+  "livro": "JER",
+  "titulo": "Vinde, maquinemos contra Jeremias",
+  "secao": "Sinais e confissões",
+  "referencia": "Jr 18,18-23",
+  "ini": {
+    "c": 18,
+    "v": 18
+  },
+  "fim": {
+    "c": 18,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Acaso se paga o bem com o mal?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os adversários se reúnem contra Jeremias: vinde, tramemos contra ele, porque não faltará a lei ao sacerdote, nem o conselho ao sábio, nem a palavra ao profeta; firamo-lo com a língua e não façamos caso das suas palavras. Os três grupos da liderança religiosa de Israel se sentem seguros nas suas instituições e julgam dispensável o profeta incômodo. Jeremias leva o caso a Deus: “Põe, Senhor, em mim a tua atenção.” “Acaso assim se torna mal por bem?” Eles cavam uma cova para a minha vida; lembra-te de que estive diante de ti intercedendo por eles, para afastar deles a tua ira. Ferido pela ingratidão, o profeta explode numa imprecação: entrega os seus filhos à fome e à espada, fiquem as mulheres viúvas, ouça-se o clamor das suas casas, não perdoes a sua maldade. É uma das orações mais duras da Escritura, nascida da dor de quem intercedeu e recebeu em troca uma armadilha.",
+    "alegorico": "A trama contra o justo que denuncia as instituições se repete na Paixão: os sacerdotes, os escribas e os anciãos se reúnem contra Jesus. Mas onde Jeremias pede vingança, Cristo, na cruz, pede: “Pai, perdoa-lhes” (Lc 23,34), cumprindo e superando a oração do profeta.",
+    "moral": "A ingratidão de quem recebeu o nosso bem é das dores mais agudas. O profeta não esconde de Deus a sua raiva; a oração honesta pode conter o grito, mas precisa ser purificada à luz do Evangelho: “orai pelos que vos perseguem” (Mt 5,44). Também adverte contra a autossuficiência das instituições que já não querem ouvir a palavra que as corrige.",
+    "anagogico": "O juízo pertence a Deus, que conhece os desígnios ocultos. O cristão entrega-lhe a causa, esperando o dia em que toda injustiça será julgada e toda ferida curada."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vinde e formemos projetos contra Jeremias.” “Firamo-lo com a língua.” “Põe, Senhor, em mim a tua atenção.” “Acaso assim se torna mal por bem?” “Lembra-te de que me apresentei na tua presença para falar insistentemente em favor deles.”",
+    "meditatio_perguntas": [
+      "Como reajo quando o bem que fiz é pago com o mal?",
+      "Levo a Deus a minha raiva, deixando-o purificá-la?",
+      "Sou dos que preferem as instituições seguras à palavra que incomoda?"
+    ],
+    "oratio_guia": "Senhor, põe em mim a tua atenção quando sou pago com o mal. Recebe a minha dor e transforma-a; ensina-me a rezar como teu Filho pelos que me ferem. Amém.",
+    "contemplatio_foco": {
+      "texto": "Acaso assim se torna mal por bem?",
+      "ref": "Jr 18,20"
+    }
+  },
+  "ancoras": {
+    "18:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Lei (torah) do sacerdote, conselho do sábio, palavra do profeta: as três formas de mediação da vontade de Deus em Israel (cf. Ez 7,26).",
+        "origem": "ia"
+      }
+    },
+    "18:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Estas imprecações pertencem à oração do Antigo Testamento, que entrega a vingança a Deus em vez de executá-la; o Novo Testamento pede ainda mais: amar os inimigos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

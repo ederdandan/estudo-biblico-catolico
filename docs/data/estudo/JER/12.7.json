@@ -1,0 +1,49 @@
+{
+  "id": "JER.12.7",
+  "livro": "JER",
+  "titulo": "Abandonei a minha casa",
+  "secao": "O Templo e a aliança",
+  "referencia": "Jr 12,7-17",
+  "ini": {
+    "c": 12,
+    "v": 7
+  },
+  "fim": {
+    "c": 12,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "Deixei a minha casa; voltar-me-ei e terei piedade",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor fala em primeira pessoa com dor: “deixei a minha casa, abandonei a minha herança; entreguei o objecto das delícias da minha alma às mãos dos seus inimigos.” A herança tornou-se para ele um leão que ruge; é como uma ave de cores vistosas cercada de aves de rapina. Muitos pastores devastaram a vinha do Senhor e fizeram da herança deliciosa um deserto, de luto diante dele, “porque não há ninguém que considere no seu coração”. Os destruidores chegam pelas alturas do deserto; semearam trigo e colheram espinhos. Depois Deus se volta para os vizinhos malvados que tocaram na herança de Israel: também serão arrancados da sua terra, e Judá será arrancado do meio deles. Mas a palavra final é surpreendente: “quando os tiver arrancado, voltar-me-ei e terei piedade deles”, e os farei voltar cada um à sua herança. Se as nações aprenderem os caminhos do povo de Deus e jurarem “Vive o Senhor”, como antes ensinaram Israel a jurar por Baal, serão estabelecidas no meio do povo; se não ouvirem, serão arrancadas.",
+    "alegorico": "A herança entregue às mãos dos inimigos evoca o Filho amado entregue nas mãos dos pecadores. A promessa de que os povos vizinhos serão “estabelecidos no meio do meu povo” anuncia a entrada dos gentios na Igreja, edificados sobre o fundamento dos apóstolos e profetas (Ef 2,19-20).",
+    "moral": "Deus não castiga com frieza: sofre ao abandonar o que ama. O deserto espiritual nasce de não haver “ninguém que considere no seu coração”: a falta de reflexão e de interioridade. Quem semeia o bem e colhe espinhos deve olhar se não semeou fora da vontade de Deus.",
+    "anagogico": "Deus arranca, mas para replantar. A última palavra sobre as nações é de misericórdia: todos os povos são chamados a jurar pelo nome do Senhor e a ter parte na herança do seu povo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Deixei a minha casa, abandonei a minha herança.” “O objecto das delícias da minha alma.” “Não há ninguém que considere no seu coração.” “Semearam trigo e colheram espinhos.” “Voltar-me-ei e terei piedade deles.”",
+    "meditatio_perguntas": [
+      "Dedico tempo a “considerar no coração” o que se passa na minha vida?",
+      "Onde semeei trigo e colhi espinhos, e por quê?",
+      "Creio que Deus pode voltar-se com piedade para quem ele precisou corrigir?"
+    ],
+    "oratio_guia": "Senhor, que sofres pelo teu povo como pela delícia da tua alma, dá-me um coração que reflete e não deixa a tua vinha virar deserto. Volta-te para mim com piedade e reconduz-me à minha herança em ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Mas, quando os tiver arrancado, voltar-me-ei e terei piedade deles",
+      "ref": "Jr 12,15"
+    }
+  },
+  "ancoras": {
+    "12:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “ave multicolor” atrai o ataque das outras aves: imagem de Judá, isolada entre vizinhos hostis.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "JER.18.1",
+  "livro": "JER",
+  "titulo": "Na casa do oleiro",
+  "secao": "Sinais e confissões",
+  "referencia": "Jr 18,1-17",
+  "ini": {
+    "c": 18,
+    "v": 1
+  },
+  "fim": {
+    "c": 18,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "Como o barro na mão do oleiro, assim vós na minha mão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor manda Jeremias descer à casa do oleiro. Ele o encontra trabalhando na roda: quando o vaso se estraga nas suas mãos, o oleiro retoma o barro e faz outro, como lhe parece melhor. Então vem a palavra: “Porventura não poderei eu fazer de vós, casa de Israel, como este oleiro?… Como o barro está na mão do oleiro, assim vós estais na minha mão.” Deus explica que as suas sentenças sobre os povos são condicionais: se anuncia a ruína de uma nação e ela se converte, ele se arrepende do mal; se promete plantar uma nação e ela faz o mal, ele se arrepende do bem. Por isso o profeta deve dizer a Judá: estou formando um projeto contra vós; volte cada um do seu mau caminho. Mas o povo responde: “Inútil! Seguiremos os nossos pensamentos.” Deus se espanta: perguntai às nações se alguém ouviu coisa assim. A neve do Líbano não falta nos penhascos, as águas frias não secam, mas o meu povo me esqueceu, ofereceu incenso a ídolos vãos e deixou as veredas antigas por caminhos não trilhados. A terra será objeto de espanto; no dia da ruína, Deus lhes mostrará as costas, e não a face.",
+    "alegorico": "São Paulo retoma a imagem do oleiro para falar da liberdade de Deus na eleição (Rm 9,20-23). Os Padres viram no barro refeito a humanidade recriada em Cristo, novo Adão, depois de estragada pelo pecado: o Criador retoma o barro e faz um vaso novo. O Batismo é a mão do oleiro que recomeça a obra.",
+    "moral": "Estar na mão de Deus é ao mesmo tempo humildade e esperança: não somos donos de nós mesmos, mas também nenhum vaso estragado é descartado se se deixa refazer. As ameaças de Deus são chamados à conversão, não sentenças fatais. O pior é dizer “inútil!” e preferir os próprios pensamentos.",
+    "anagogico": "O oleiro continua trabalhando até que o vaso esteja como ele quer: a obra de Deus em nós só termina na glória, quando seremos vasos de honra, transformados à imagem de Cristo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Levanta-te, vai a casa do oleiro.” “Retomava o barro com as mãos, e… fazia outra, como bem lhe parecia.” “Como o barro está na mão do oleiro, assim vós estais na minha mão.” “Volte cada um de vós… do seu mau caminho.” “Inútil! Seguiremos os nossos pensamentos.”",
+    "meditatio_perguntas": [
+      "Deixo-me modelar por Deus, ou resisto como barro endurecido?",
+      "Onde em mim o vaso “se estragou” e precisa ser refeito?",
+      "Em que digo “inútil!” à palavra de Deus e sigo os meus pensamentos?"
+    ],
+    "oratio_guia": "Senhor, tu és o oleiro e eu sou o barro. Onde o vaso se estragou, retoma-me nas tuas mãos e faz-me de novo, como te parecer melhor. Não me deixes endurecer seguindo os meus pensamentos. Amém.",
+    "contemplatio_foco": {
+      "texto": "como o barro está na mão do oleiro, assim vós estais na minha mão",
+      "ref": "Jr 18,6"
+    }
+  },
+  "ancoras": {
+    "18:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “arrependimento” de Deus é linguagem humana para dizer que as suas ameaças proféticas são condicionais: dependem da resposta do homem (cf. Jn 3,10).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

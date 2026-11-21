@@ -1,0 +1,57 @@
+{
+  "id": "JER.25.15",
+  "livro": "JER",
+  "titulo": "O cálice do vinho da ira",
+  "secao": "Reis e profetas",
+  "referencia": "Jr 25,15-38",
+  "ini": {
+    "c": 25,
+    "v": 15
+  },
+  "fim": {
+    "c": 25,
+    "v": 38
+  },
+  "liturgia": {
+    "tema_central": "O cálice do vinho da ira para todas as nações",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor manda Jeremias tomar da sua mão o copo do vinho da sua cólera e dá-lo a beber a todas as nações: beberão, cambalearão, ficarão fora de si diante da espada. O profeta o faz numa ação simbólica e enumera os povos: primeiro Jerusalém e as cidades de Judá; depois o Egito, a terra de Us, as cidades filisteias (Ascalon, Gaza, Acaron, Azot), Edom, Moab, Amon, Tiro, Sidônia e as ilhas do mar, as tribos da Arábia, Elam, a Média, e todos os reinos do norte; por fim, o rei de Sesac, nome cifrado de Babilônia. Se recusarem o cálice, terão de bebê-lo: se Deus começa o castigo pela cidade onde o seu nome é invocado, as outras não ficarão impunes. Segue um poema do juízo universal: o Senhor ruge do alto como leão, grita como os que pisam as uvas no lagar, entra em juízo com toda a carne. A desgraça passa de povo em povo como tempestade; os mortos jazem sem sepultura. Os pastores, chefes do rebanho, são chamados a uivar e cobrir-se de cinza, porque o Senhor devasta as suas pastagens: deixou o seu retiro como leão.",
+    "alegorico": "O cálice da ira é o que Cristo aceita beber no Getsêmani: “Pai, se é possível, passe de mim este cálice” (Mt 26,39). O inocente bebe o cálice destinado aos culpados e o transforma no cálice da Nova Aliança no seu sangue. O lagar do juízo reaparece em Ap 14,19-20 e 19,15.",
+    "moral": "O juízo começa pela casa de Deus (1Pd 4,17): os que mais receberam são os primeiros a prestar contas. Ninguém pode dizer que o cálice não é para si. Os chefes, “pastores do rebanho”, têm responsabilidade maior.",
+    "anagogico": "O juízo de “toda a carne” anuncia o juízo final sobre as nações. Para quem está unido a Cristo, o cálice da ira foi trocado pelo cálice da salvação (Sl 115,13)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Toma da minha mão este copo de vinho da minha cólera.” “Se pela cidade, onde o meu nome tem sido invocado, vou começar a castigar, à vista disto ficareis vós sem castigo?” “O Senhor ruge do alto.” “O Senhor entra em juízo com as gentes, faz o julgamento de toda a carne.” “Uivai, pastores.”",
+    "meditatio_perguntas": [
+      "Penso que o juízo de Deus é só para os outros?",
+      "Agradeço a Cristo por ter bebido o cálice que era meu?",
+      "Que responsabilidade tenho como “pastor” de alguém?"
+    ],
+    "oratio_guia": "Senhor Jesus, que bebeste por nós o cálice da ira e nos deste o cálice da salvação, tem piedade de mim e de todas as nações. Que eu viva hoje como quem será julgado por ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Toma da minha mão este copo de vinho da minha cólera",
+      "ref": "Jr 25,15"
+    }
+  },
+  "ancoras": {
+    "25:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Sesac é um atbash: cifra que troca as letras do alfabeto hebraico do início pelas do fim; Sesac corresponde a Babel.",
+        "origem": "ia"
+      }
+    },
+    "25:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Us é a terra de Jó (Jó 1,1), provavelmente a leste de Edom.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
