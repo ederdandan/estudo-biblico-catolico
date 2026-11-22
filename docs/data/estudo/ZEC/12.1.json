@@ -1,46 +1,54 @@
 {
   "id": "ZEC.12.1",
   "livro": "ZEC",
-  "titulo": "Chorarão aquele que traspassaram; fere o pastor",
+  "titulo": "Olharão para mim, a quem traspassaram",
   "secao": "O rei humilde e o pastor ferido",
-  "referencia": "Zc 12,1–13,9",
+  "referencia": "Zc 12,1-14",
   "ini": {
     "c": 12,
     "v": 1
   },
   "fim": {
-    "c": 13,
-    "v": 9
+    "c": 12,
+    "v": 14
   },
   "liturgia": {
-    "tema_central": "Olharão para aquele que traspassaram",
+    "tema_central": "“Porão os olhos em mim. Quanto àquele que traspassaram, chorá-lo-ão”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "O Senhor, que estendeu os céus e formou o espírito do homem, fará de Jerusalém uma taça de vertigem e uma pedra pesada para os povos que a atacarem; protegerá os habitantes de Jerusalém. “Derramarei sobre a casa de Davi… um espírito de graça e de súplicas, e porão os olhos em mim. Quanto àquele que traspassaram, chorá-lo-ão como se chora um filho único.” Haverá grande pranto, família por família. No capítulo 13: naquele dia haverá uma fonte aberta para lavar o pecado e a impureza; os falsos profetas desaparecerão. “Fere o pastor, e serão dispersas as ovelhas”; o resto, provado no fogo como a prata, dirá: “O Senhor é o meu Deus”.",
-    "alegorico": "São João cita: “Olharão para aquele que traspassaram” ao narrar o lado aberto de Jesus (Jo 19,37; Ap 1,7). Do lado aberto jorra a fonte que lava o pecado (13,1). Jesus aplica a si “ferirei o pastor e as ovelhas serão dispersas” (Mt 26,31).",
-    "moral": "A conversão nasce do olhar contemplativo dirigido ao Crucificado: o espírito de graça faz chorar como por um filho único. A provação purifica o resto como prata no fogo.",
-    "anagogico": "Todo olho o verá, também os que o traspassaram: a vinda gloriosa de Cristo revelará o Crucificado como Senhor."
+    "literal": "“Palavra do Senhor, que estendeu o céu, fundou a terra e formou o espírito que o homem tem dentro de si.” Naquele dia Jerusalém será “uma pedra pesada para todos os povos”; o Senhor protegerá os seus, e “o mais fraco dentre eles será como Davi”. Os chefes de Judá dirão: “A força dos habitantes de Jerusalém reside no Senhor dos exércitos.” E então o centro do oráculo: “Derramarei sobre a casa de Davi e sobre os habitantes de Jerusalém um espírito de graça e de preces, e eles porão os olhos em mim. Quanto àquele que traspassaram, chorá-lo-ão com pranto, como se chora um filho único… como se costuma ter na morte de um primogênito.” Haverá grande pranto em Jerusalém, como o de Adadremon no campo de Magedo; cada família chorará à parte: Davi, Natã, Levi, Semei, e todas as outras.",
+    "alegorico": "João cita este versículo ao pé da cruz, quando o soldado abre o lado de Jesus: “Olharão para aquele que traspassaram” (Jo 19,37); e no Apocalipse: “todo olho o verá, até os que o traspassaram” (Ap 1,7). O “espírito de graça e de preces” derramado é o Espírito de Pentecostes, que leva à compunção: “sentiram-se compungidos de coração” (At 2,37).",
+    "moral": "O arrependimento verdadeiro nasce de olhar para o Traspassado. Não é medo, mas dor de amor, “como se chora um filho único”. É dom: Deus derrama primeiro o espírito de graça, e só então os olhos se voltam para ele. E o pranto é pessoal: cada família “à parte”. Ninguém se converte no lugar de outro.",
+    "anagogico": "Todo olho verá o Traspassado quando ele vier na glória; para quem o chorou com amor, será a hora da consolação."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Derramarei um espírito de graça e de preces.” “Porão os olhos em mim. Quanto àquele que traspassaram, chorá-lo-ão como se chora um filho único.” “Haverá uma fonte aberta.” “Fere o pastor, e serão dispersas as ovelhas.”",
+    "lectio_resumo": "“Formou o espírito que o homem tem dentro de si.” “A força dos habitantes de Jerusalém reside no Senhor.” “O mais fraco dentre eles será como Davi.” “Um espírito de graça e de preces.” “Porão os olhos em mim.” “Quanto àquele que traspassaram, chorá-lo-ão… como se chora um filho único.”",
     "meditatio_perguntas": [
-      "Detenho o meu olhar no Crucificado?",
-      "Choro o pecado como quem perdeu um filho único?",
-      "Recorro à fonte aberta da misericórdia?"
+      "Detenho os olhos no Crucificado na minha oração?",
+      "O meu arrependimento nasce do amor ou só do medo?",
+      "Peço a Deus o “espírito de graça e de preces”?"
     ],
-    "oratio_guia": "Senhor, derrama sobre mim o espírito de graça e de súplica. Que eu olhe para ti, traspassado por mim, e chore os meus pecados; lava-me na fonte aberta do teu lado. Amém.",
+    "oratio_guia": "Senhor, derrama sobre mim o espírito de graça e de preces. Que eu ponha os olhos em ti, traspassado por mim, e chore os meus pecados com amor. Amém.",
     "contemplatio_foco": {
-      "texto": "Quanto àquele que traspassaram, chorá-lo-ao com pranto, como se chora um filho único",
+      "texto": "eles porão os olhos em mim. Quanto àquele que traspassaram, chorá-lo-ao com pranto",
       "ref": "Zc 12,10"
     }
   },
   "ancoras": {
+    "12:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em Jo 19,37 e Ap 1,7.",
+        "origem": "ia"
+      }
+    },
     "12:11": {
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "O pranto de Hadadremon, na planície de Megido, recorda provavelmente o luto pelo rei Josias, morto em Megido (2Cr 35,22-25).",
+        "texto": "Adadremon: talvez o luto pela morte do rei Josias em Megido (2Cr 35,22-25).",
         "origem": "ia"
       }
     }

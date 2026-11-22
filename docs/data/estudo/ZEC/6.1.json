@@ -1,0 +1,57 @@
+{
+  "id": "ZEC.6.1",
+  "livro": "ZEC",
+  "titulo": "Os quatro carros e a coroa do Germen",
+  "secao": "As visões noturnas",
+  "referencia": "Zc 6,1-15",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "Os quatro carros e a coroa do “Germen”, sacerdote e rei",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Na última visão, saem “quatro carros dentre duas montanhas… de bronze”, com cavalos vermelhos, negros, brancos e malhados: “Estes são os quatro ventos do céu, que saem para estar diante do Senhor de toda a terra.” Percorrem a terra, e os que vão para o norte “fizeram repousar o meu espírito na terra do aquilão”. Depois vem uma ação simbólica: com a prata e o ouro trazidos pelos exilados Holdai, Tobias e Idaia, Zacarias deve fazer coroas e pô-las “sobre a cabeça do sumo sacerdote Josué, filho de Josedec”, dizendo: “Eis o homem cujo nome é Germen: onde ele está, alguma coisa há-de germinar. Ele é que há-de edificar o templo do Senhor… usará insígnias reais, sentar-se-á e dominará sobre o seu trono; será sacerdote sobre o seu trono, e haverá entre os dois uma perfeita paz.” “Homens que estão longe virão e trabalharão na fábrica do templo do Senhor… se ouvirdes com submissão a voz do Senhor vosso Deus.”",
+    "alegorico": "“Germen” (Rebento) é título messiânico (Is 11,1; Jr 23,5). A coroa posta sobre um sacerdote chamado Josué (Jesus, em grego) anuncia Cristo, que une em si o sacerdócio e a realeza: “sacerdote para sempre segundo a ordem de Melquisedec”, sentado no trono (Hb 5–8). Os que vêm de longe para construir o templo são os gentios edificados no templo vivo que é a Igreja (Ef 2,19-22).",
+    "moral": "Deus governa a história: os “ventos” saem diante do Senhor de toda a terra e cumprem as suas ordens. E prepara um Messias em quem não há oposição entre culto e governo, entre altar e trono: “haverá entre os dois uma perfeita paz”. Onde ele está, algo germina. A condição é ouvir “com submissão a voz do Senhor”.",
+    "anagogico": "O Rei-Sacerdote sentado no trono, a cujo templo acorrem os de longe, é Cristo glorioso, diante de quem se reunirão todas as nações."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Os quatro ventos do céu… diante do Senhor de toda a terra.” “Fizeram repousar o meu espírito.” “Eis o homem cujo nome é Germen.” “Onde ele está, alguma coisa há-de germinar.” “Será sacerdote sobre o seu trono.” “Homens que estão longe virão.”",
+    "meditatio_perguntas": [
+      "Creio que Deus governa a história, mesmo quando ela parece caótica?",
+      "Onde Cristo está na minha vida, algo germina?",
+      "Ouço “com submissão” a voz do Senhor?"
+    ],
+    "oratio_guia": "Senhor Jesus, Rebento de Davi, Sacerdote e Rei, reina na minha vida. Faz germinar o bem onde estás e edifica em mim o teu templo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eis o homem cujo nome é Germen: onde ele está, alguma coisa há-de germinar",
+      "ref": "Zc 6,12"
+    }
+  },
+  "ancoras": {
+    "6:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Germen” traduz o latim “Oriens” da Vulgata; o hebraico tem “Rebento” (Ṣemaḥ). Cf. Zc 3,8; Lc 1,78.",
+        "origem": "ia"
+      }
+    },
+    "6:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Josué é a forma hebraica do nome Jesus.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

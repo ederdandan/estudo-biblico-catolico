@@ -1,0 +1,57 @@
+{
+  "id": "ZEC.8.1",
+  "livro": "ZEC",
+  "titulo": "Jerusalém, cidade da fidelidade",
+  "secao": "Jejum e promessas",
+  "referencia": "Zc 8,1-23",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "“Jerusalém chamar-se-á a cidade da fidelidade”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Dez oráculos de salvação. “Tenho grande zelo por Sião… Volto para Sião, venho habitar no meio de Jerusalém; Jerusalém chamar-se-á a cidade da fidelidade.” “Ainda nas praças de Jerusalém se verão velhos e velhas, tendo cada um na mão um cajado… os largos da cidade estarão cheios de meninos e meninas, que brincarão nas suas praças.” “Se isso parecer impossível aos olhos dos que restarem deste povo, acaso será isso impossível a meus olhos?” Deus reunirá o povo do oriente e do ocidente: “serão o meu povo, e eu serei o seu Deus na fidelidade e na justiça”. “A sementeira é de paz.” “Assim como vós éreis uma maldição entre as nações… assim vos salvarei, e vós sereis uma bênção. Não temais.” O que devem fazer: “Falai verdade uns aos outros, julgai às vossas portas segundo a verdade e para a paz.” Os jejuns se tornarão “gozo e alegria… Mas amai a verdade e a paz”. E no fim: “dez homens de todas as línguas das nações lançarão mão de um judeu, agarrarão a fímbria do seu vestido, dizendo: Iremos convosco, porque soubemos que Deus está convosco.”",
+    "alegorico": "A mulher doente que toca a orla do manto de Jesus (Mt 9,20) e os gregos que dizem “queremos ver Jesus” (Jo 12,21) realizam a profecia dos povos que agarram a fímbria de um judeu: Cristo, o Judeu em quem “Deus está conosco”. A cidade cheia de velhos e crianças é a Igreja, casa de todas as gerações.",
+    "moral": "A imagem da paz é simples e bela: idosos sentados nas praças, crianças brincando. Uma sociedade se mede pelo modo como cuida dos mais frágeis. E o caminho para essa paz é concreto: falar a verdade, julgar com justiça, não tramar o mal, não jurar falso. Quando o povo de Deus vive assim, os outros dizem: “Iremos convosco, porque Deus está convosco”.",
+    "anagogico": "Os jejuns transformados em festa anunciam o banquete eterno, em que as lágrimas serão enxugadas e todos os povos subirão à Jerusalém do alto."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Volto para Sião, venho habitar no meio de Jerusalém.” “A cidade da fidelidade.” “Meninos e meninas, que brincarão nas suas praças.” “Acaso será isso impossível a meus olhos?” “Sereis uma bênção. Não temais.” “Falai verdade uns aos outros.” “Amai a verdade e a paz.” “Iremos convosco, porque soubemos que Deus está convosco.”",
+    "meditatio_perguntas": [
+      "Há coisas que me parecem impossíveis e que para Deus não o são?",
+      "A minha vida leva os outros a dizer “Deus está convosco”?",
+      "Falo a verdade e busco a paz nas minhas relações?"
+    ],
+    "oratio_guia": "Senhor, que habitas no meio do teu povo, faz da tua Igreja a cidade da fidelidade. Que eu ame a verdade e a paz, e que os outros, ao me ver, digam: Deus está contigo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Iremos convosco, porque soubemos que (o verdadeiro) Deus está convosco",
+      "ref": "Zc 8,23"
+    }
+  },
+  "ancoras": {
+    "8:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os quatro jejuns lembravam o cerco e a queda de Jerusalém (2Rs 25).",
+        "origem": "ia"
+      }
+    },
+    "8:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Is 2,2-3; Mq 4,1-2.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "ZEC.11.1",
+  "livro": "ZEC",
+  "titulo": "O bom pastor rejeitado e as trinta moedas de prata",
+  "secao": "O rei humilde e o pastor ferido",
+  "referencia": "Zc 11,1-17",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "O bom pastor rejeitado e as trinta moedas de prata",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Um canto fúnebre abre o capítulo: “Abre, ó Líbano, as tuas portas, e devore o fogo os teus cedros… Ouve-se a lamentação dos pastores.” Então o Senhor manda o profeta fazer o papel de pastor: “Apascenta estas ovelhas destinadas para o matadouro, as quais os seus donos matam sem se compadecerem delas, cujos vendedores dizem: Bendito seja o Senhor, que estou rico!” O profeta toma dois cajados, “Graça” e “União”, e apascenta o rebanho; mas as ovelhas se aborrecem dele. Quebra o cajado Graça. Depois diz: “dai-me o salário que me é devido… Então pagaram-me pelo meu salário trinta moedas de prata. O Senhor disse-me: Arroja ao oleiro esse dinheiro, essa bela soma pela qual me apreciaram. Tomei as trinta moedas de prata e lancei-as na casa do Senhor para o oleiro.” Quebra o cajado União. Por fim, Deus suscita um pastor insensato, “que não visitará as ovelhas abandonadas, que não buscará as que se desgarram, que não curará a doente”. “Ai do mau pastor, que abandona o rebanho!”",
+    "alegorico": "Mateus vê aqui a traição de Judas: as trinta moedas, preço do Pastor, lançadas no templo e usadas para comprar o campo do oleiro (Mt 26,15; 27,3-10). Jesus é o Bom Pastor rejeitado e avaliado pelo preço de um escravo (Ex 21,32). O mau pastor que não busca a desgarrada é o contrário de Cristo, que deixa as noventa e nove (Lc 15,4).",
+    "moral": "O texto denuncia os que exploram o rebanho e ainda dizem “Bendito seja o Senhor, que estou rico!”: usar Deus para justificar a ganância. E mostra a tristeza do pastor desprezado: “essa bela soma pela qual me apreciaram”. Quanto vale Deus para mim? O mau pastor é descrito pelo que não faz: não visita, não busca, não cura, não sustenta. A omissão também é pecado.",
+    "anagogico": "A rejeição do Pastor parece a palavra final, mas Deus faz da rejeição o preço da redenção; o Pastor traído voltará para reunir o rebanho."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Apascenta estas ovelhas destinadas para o matadouro.” “Bendito seja o Senhor, que estou rico!” “Graça… União.” “Pagaram-me pelo meu salário trinta moedas de prata.” “Essa bela soma pela qual me apreciaram.” “Ai do mau pastor, que abandona o rebanho!”",
+    "meditatio_perguntas": [
+      "Quanto vale Cristo para mim? Por quanto o “vendo”?",
+      "Uso o nome de Deus para justificar interesses?",
+      "Diante de quem me foi confiado, visito, busco, curo, sustento?"
+    ],
+    "oratio_guia": "Senhor Jesus, Bom Pastor vendido por trinta moedas, perdoa-me as vezes em que te apreciei tão pouco. Faz de mim um pastor que visita, busca e cura, como tu. Amém.",
+    "contemplatio_foco": {
+      "texto": "pagaram-me pelo meu salário trinta moedas de prata",
+      "ref": "Zc 11,12"
+    }
+  },
+  "ancoras": {
+    "11:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em Mt 27,9-10 (atribuído a Jeremias, talvez por associação com Jr 32).",
+        "origem": "ia"
+      }
+    },
+    "11:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Trinta siclos: o preço de um escravo (Ex 21,32).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

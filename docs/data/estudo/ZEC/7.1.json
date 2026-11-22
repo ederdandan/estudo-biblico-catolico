@@ -1,40 +1,57 @@
 {
   "id": "ZEC.7.1",
   "livro": "ZEC",
-  "titulo": "Não jejuns, mas justiça: Jerusalém, cidade da fidelidade",
+  "titulo": "Foi por meu respeito que jejuastes?",
   "secao": "Jejum e promessas",
-  "referencia": "Zc 7,1–8,23",
+  "referencia": "Zc 7,1-14",
   "ini": {
     "c": 7,
     "v": 1
   },
   "fim": {
-    "c": 8,
-    "v": 23
+    "c": 7,
+    "v": 14
   },
   "liturgia": {
-    "tema_central": "O jejum que agrada a Deus e a cidade da fidelidade",
+    "tema_central": "“Foi por meu respeito que jejuastes?”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Uma delegação pergunta se deve continuar o jejum que lembra a destruição do templo. Deus responde: quando jejuáveis, era para mim? Fazei justiça verdadeira, praticai a misericórdia e a compaixão, não oprimais a viúva, o órfão, o estrangeiro e o pobre; foi por não ouvir isso que os pais foram dispersos. No capítulo 8, dez promessas: “Volto para Sião… Jerusalém se chamará cidade da fidelidade”; velhos e meninos voltarão às praças; “eles serão o meu povo e eu serei o seu Deus”. Os jejuns se tornarão festas de alegria. Dez homens de todas as línguas agarrarão a orla do manto de um judeu: “Iremos convosco, porque ouvimos que Deus está convosco”.",
-    "alegorico": "As nações que seguem o judeu, agarradas à orla do seu manto, figuram os povos que vão a Cristo, o Judeu por excelência (cf. a mulher que toca a orla do seu manto). Os jejuns transformados em festa anunciam a alegria da presença do Esposo (Mt 9,15).",
-    "moral": "O jejum vale quando se traduz em justiça e misericórdia. A comunidade fiel atrai: os outros dizem “iremos convosco, porque Deus está convosco”. O testemunho é mais eficaz que a propaganda.",
-    "anagogico": "As praças cheias de idosos e crianças, em paz, desenham a cidade eterna, onde os jejuns se tornam festa sem fim."
+    "literal": "No quarto ano de Dario, a cidade de Betel envia uma delegação para perguntar: “Porventura devo eu chorar no quinto mês, jejuando, como já o fiz durante muitos anos?” O jejum lembrava a destruição do templo. O Senhor responde com outra pergunta: “Quando vós jejuáveis e choráveis no quinto e sétimo mês, durante estes setenta anos, foi por meu respeito que jejuastes? Quando comestes e bebestes, não foi para vós que comestes e bebestes?” E recorda a palavra dos antigos profetas: “Julgai segundo a verdadeira justiça, e cada um de vós exerça com seu irmão obras de amor e de misericórdia. Não oprimais a viúva, nem o órfão, nem o estrangeiro, nem o pobre; nenhum forme no seu coração maus desígnios contra os outros.” Mas os pais “taparam os seus ouvidos… tornaram o seu coração duro como um diamante”, e foram dispersos: “transformaram num deserto uma terra de delícias”.",
+    "alegorico": "Jesus ensina o mesmo sobre o jejum: não para ser visto, mas “ao teu Pai, que está no oculto” (Mt 6,16-18). E Isaías 58 descreve o jejum que agrada a Deus: repartir o pão com o faminto. O coração “duro como um diamante” é o que Cristo veio transformar em coração de carne (Ez 36,26).",
+    "moral": "A pergunta de Deus vai ao fundo: para quem jejuamos, rezamos, praticamos? Uma religião centrada em nós mesmos não agrada a Deus. O que ele pede está no centro da Lei: justiça verdadeira, misericórdia com o irmão, cuidado da viúva, do órfão, do estrangeiro e do pobre, e não planejar o mal contra ninguém. A dureza de coração transforma a terra de delícias em deserto.",
+    "anagogico": "A terra de delícias perdida pelo coração duro será restituída aos que praticam a misericórdia: “bem-aventurados os misericordiosos” (Mt 5,7)."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Quando jejuáveis, era por mim que jejuáveis?” “Julgai segundo a verdade e praticai a misericórdia.” “Jerusalém chamar-se-á a cidade da fidelidade.” “Iremos convosco, porque ouvimos que Deus está convosco.”",
+    "lectio_resumo": "“Devo eu chorar no quinto mês, jejuando?” “Foi por meu respeito que jejuastes?” “Julgai segundo a verdadeira justiça.” “Exerça com seu irmão obras de amor e de misericórdia.” “Não oprimais a viúva, nem o órfão, nem o estrangeiro, nem o pobre.” “Tornaram o seu coração duro como um diamante.”",
     "meditatio_perguntas": [
-      "O meu jejum me torna mais misericordioso?",
-      "A minha vida faz os outros dizerem “Deus está convosco”?",
-      "Alegro-me na presença de Deus como numa festa?"
+      "Para quem jejuo e rezo: para Deus ou para mim?",
+      "A minha prática religiosa produz misericórdia com os irmãos?",
+      "Há algum ponto em que o meu coração está “duro como diamante”?"
     ],
-    "oratio_guia": "Senhor, que o meu jejum seja para ti e se torne justiça e misericórdia. Faze da tua Igreja uma cidade da fidelidade, que atraia as nações porque tu estás com ela. Amém.",
+    "oratio_guia": "Senhor, que as minhas práticas não sejam para mim, mas para ti. Dá-me um coração de carne, justo e misericordioso com a viúva, o órfão, o estrangeiro e o pobre. Amém.",
     "contemplatio_foco": {
-      "texto": "Jerusalém chamar-se-á a cidade da fidelidade",
-      "ref": "Zc 8,3"
+      "texto": "foi por meu respeito que jejuastes?",
+      "ref": "Zc 7,5"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "7:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Novembro/dezembro de 518 a.C.",
+        "origem": "ia"
+      }
+    },
+    "7:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O jejum do quinto mês lembrava o incêndio do templo (2Rs 25,8-9); o do sétimo, o assassínio de Godolias (Jr 41).",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }

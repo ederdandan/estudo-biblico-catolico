@@ -1,46 +1,62 @@
 {
   "id": "ZEC.5.1",
   "livro": "ZEC",
-  "titulo": "O livro que voa, a mulher na medida e os quatro carros",
+  "titulo": "O livro que voa e a mulher no efa",
   "secao": "As visões noturnas",
-  "referencia": "Zc 5,1–6,15",
+  "referencia": "Zc 5,1-11",
   "ini": {
     "c": 5,
     "v": 1
   },
   "fim": {
-    "c": 6,
-    "v": 15
+    "c": 5,
+    "v": 11
   },
   "liturgia": {
-    "tema_central": "A purificação da terra e o Germen que edifica o templo",
+    "tema_central": "O livro que voa e a mulher no efa: a iniquidade banida da terra",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Sexta visão: um livro enorme que voa, contendo a maldição contra o ladrão e o perjuro; entra nas suas casas e as consome. Sétima: uma medida (efá) com uma mulher dentro, a Impiedade, fechada com tampa de chumbo e levada por duas mulheres aladas para a terra de Senaar. Oitava: quatro carros com cavalos de várias cores saem entre dois montes de bronze e percorrem a terra; os que vão para o Norte fazem repousar o espírito do Senhor. Por fim, uma ação simbólica: coroas de prata e ouro postas na cabeça de Josué: “Eis o homem cujo nome é Germen… ele edificará o templo do Senhor”, e haverá conselho de paz entre rei e sacerdote.",
-    "alegorico": "O Germen coroado, rei e sacerdote ao mesmo tempo, é Cristo, que edifica o verdadeiro templo, a Igreja, e une em si a realeza e o sacerdócio (Hb 7). A impiedade levada para Senaar (Babilônia) prefigura o mal expulso da cidade santa.",
-    "moral": "Deus purifica a comunidade do roubo e do perjúrio; o pecado não pode ser escondido em casa. É preciso fechar a “efá” da impiedade e afastá-la da vida.",
-    "anagogico": "A terra purificada e o espírito do Senhor em repouso anunciam a nova criação, livre do mal, onde Cristo reina como Rei e Sacerdote."
+    "literal": "Na sexta visão, Zacarias vê “um livro que voava”, de vinte côvados por dez. O anjo explica: “Esta é a maldição que vai difundir-se sobre a face de todo o país; todo o ladrão será expulso por ela, e todo o que jura falso será, da mesma sorte, lançado fora.” A maldição entrará “na casa do ladrão, e na casa do que jura falsamente em meu nome” e a consumirá “com a sua madeira e as suas pedras”. Na sétima visão aparece um efa, uma medida de cereais: “É a iniquidade deles em toda a terra.” Ergue-se a tampa de chumbo e vê-se “uma mulher sentada no efa”. “Eis a iniquidade”, diz o anjo, e a empurra para dentro e fecha o efa com o chumbo. Duas mulheres com asas de cegonha levam o efa “entre a terra e o céu”, “para a terra de Senaar”, onde lhe será construída uma casa.",
+    "alegorico": "O rolo da Lei que pune o roubo e o perjúrio lembra que a Lei revela o pecado, mas só Cristo o tira: “Cristo resgatou-nos da maldição da lei, fazendo-se maldição por nós” (Gl 3,13). A iniquidade levada para Senaar, terra de Babel, anuncia a separação final entre a cidade santa e a Babilônia (Ap 18).",
+    "moral": "Duas lições: a Palavra de Deus entra nas casas e expõe o roubo e a mentira, mesmo escondidos; e Deus quer purificar o seu povo, levar para longe a iniquidade. A comunidade renovada não pode conviver com o roubo e o falso juramento. Também em nós Deus quer “fechar com chumbo” o pecado e levá-lo para longe.",
+    "anagogico": "A iniquidade transportada para longe e encerrada anuncia o tempo em que nada de impuro entrará na cidade de Deus (Ap 21,27)."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Vi um livro que voava: é a maldição que se derrama sobre a face de toda a terra.” “Esta é a impiedade.” “Eis o homem cujo nome é Germen… Ele é que há de edificar o templo do Senhor.”",
+    "lectio_resumo": "“Vi um livro que voava.” “Esta é a maldição que vai difundir-se sobre a face de todo o país.” “À casa do que jura falsamente em meu nome.” “É a iniquidade deles em toda a terra.” “Eis a iniquidade.” “Para a terra de Senaar.”",
     "meditatio_perguntas": [
-      "Que pecados escondo “dentro de casa”?",
-      "Deixo Cristo edificar em mim o seu templo?",
-      "Como vivo a união entre oração (sacerdote) e responsabilidade (rei)?"
+      "Deixo a Palavra de Deus entrar na minha casa e expor o que está escondido?",
+      "Há em mim alguma forma de roubo ou de mentira tolerada?",
+      "Peço a Deus que leve para longe a minha iniquidade?"
     ],
-    "oratio_guia": "Senhor, purifica a minha casa e leva para longe a impiedade. Cristo, Germen de Davi, Rei e Sacerdote, edifica em mim o teu templo. Amém.",
+    "oratio_guia": "Senhor, que a tua Palavra entre na minha casa e revele o que nela é injusto. Tira para longe a minha iniquidade, como o oriente está longe do ocidente. Amém.",
     "contemplatio_foco": {
-      "texto": "Eis o homem cujo nome é Germen",
-      "ref": "Zc 6,12"
+      "texto": "Eis a iniquidade",
+      "ref": "Zc 5,8"
     }
   },
   "ancoras": {
-    "6:12": {
+    "5:2": {
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "A Vulgata traduz “Germen” por Oriens (“Oriente”), daí a antífona do Advento “O Oriens” e o “Sol nascente” do Benedictus (Lc 1,78).",
+        "texto": "Vinte por dez côvados (cerca de 10 x 5 m): as dimensões do pórtico do templo de Salomão (1Rs 6,3).",
+        "origem": "ia"
+      }
+    },
+    "5:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O efa era uma medida de cerca de 22 litros.",
+        "origem": "ia"
+      }
+    },
+    "5:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Senaar: a Babilônia (Gn 11,2).",
         "origem": "ia"
       }
     }

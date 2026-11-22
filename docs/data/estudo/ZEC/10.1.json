@@ -1,46 +1,54 @@
 {
   "id": "ZEC.10.1",
   "livro": "ZEC",
-  "titulo": "O rebanho disperso e as trinta moedas de prata",
+  "titulo": "Eu os reunirei: o Senhor visita o seu rebanho",
   "secao": "O rei humilde e o pastor ferido",
-  "referencia": "Zc 10,1–11,17",
+  "referencia": "Zc 10,1-12",
   "ini": {
     "c": 10,
     "v": 1
   },
   "fim": {
-    "c": 11,
-    "v": 17
+    "c": 10,
+    "v": 12
   },
   "liturgia": {
-    "tema_central": "O Senhor apascenta o rebanho que os maus pastores venderam",
+    "tema_central": "“Eu lhes assobiarei e os congregarei, porque os resgatei”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Pedi a chuva ao Senhor, não aos ídolos e adivinhos, que deixam o povo como ovelhas sem pastor. Deus se irrita contra os maus pastores e visitará o seu rebanho; de Judá sairá a pedra angular. Reunirá os dispersos de Efraim e José como num assobio. No capítulo 11, o profeta recebe a missão de apascentar as ovelhas destinadas ao matadouro, cujos compradores as matam sem remorso. Toma dois cajados, “Graça” e “União”, e os quebra, sinal da aliança rompida. Pede o salário e pagam-lhe “trinta moedas de prata”, preço irrisório; Deus manda lançá-las ao oleiro no templo. Ai do pastor insensato que abandona o rebanho.",
-    "alegorico": "São Mateus vê aqui o preço da traição de Judas: trinta moedas, lançadas no templo e usadas para comprar o campo do oleiro (Mt 27,3-10). O Pastor avaliado em tão pouco é Cristo, Bom Pastor rejeitado, e de Judá vem a pedra angular.",
-    "moral": "Somos tentados a avaliar Deus por baixo preço. Os maus pastores vendem o rebanho por lucro; o pastor verdadeiro se compadece das ovelhas destinadas à morte. Pedir a chuva a Deus e não aos adivinhos é escolha de fé.",
-    "anagogico": "A reunião dos dispersos “com um assobio” anuncia a reunião final do povo de Deus pelo único Pastor."
+    "literal": "“Pedi ao Senhor chuvas serôdias, e o Senhor fará brilhar o relâmpago, dar-vos-á chuvas em abundância.” Os terafins e os adivinhos deram “consolações falsas”; por isso o povo “foi levado como um rebanho… porque não tinham pastor”. “O meu furor acende-se contra os pastores… Sim, o Senhor dos exércitos terá cuidado do seu rebanho, da casa de Judá.” “De Judá sairá o ângulo, dele a estaca, dele o arco de guerra.” “Fortalecerei a casa de Judá, salvarei a casa de José; restabelecê-los-ei porque me compadecerei deles; serão como se os não tivesse rejeitado, porque eu sou o Senhor seu Deus: ouvi-los-ei.” “Eu lhes assobiarei e os congregarei, porque os resgatei.” Dispersos entre os povos, “de longe se recordarão de mim; instruirão seus filhos, e tornarão a vir”. Deus os reconduzirá do Egito e da Assíria, como num novo êxodo: “Fortificá-los-ei no Senhor, e eles andarão no seu nome.”",
+    "alegorico": "O rebanho “sem pastor” comove Jesus: “viu as multidões e teve compaixão delas, porque andavam… como ovelhas sem pastor” (Mt 9,36). Ele é o Pastor que congrega os dispersos (Jo 10,16; 11,52). A “pedra angular” que sai de Judá é Cristo (Ef 2,20; 1Pd 2,6).",
+    "moral": "Quem pede a Deus a chuva a recebe; quem procura ídolos recebe “consolações falsas”. A palavra mais consoladora é: “serão como se os não tivesse rejeitado”. O perdão de Deus apaga o passado. E mesmo no exílio há um caminho de volta: lembrar-se de Deus “de longe” e instruir os filhos.",
+    "anagogico": "O novo êxodo, em que Deus reúne os dispersos de todos os lugares, anuncia a reunião final dos eleitos “dos quatro ventos” (Mt 24,31)."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Pedi ao Senhor chuvas.” “Andam como ovelhas sem pastor.” “Tomei dois cajados: a um chamei Graça e a outro União.” “Pagaram-me pelo meu salário trinta moedas de prata.” “Lança-o ao oleiro, esse belo preço em que fui avaliado.”",
+    "lectio_resumo": "“Pedi ao Senhor chuvas serôdias.” “As consolações são consolações falsas.” “Não tinham pastor.” “O Senhor dos exércitos terá cuidado do seu rebanho.” “Serão como se os não tivesse rejeitado.” “Eu lhes assobiarei e os congregarei, porque os resgatei.” “De longe se recordarão de mim.”",
     "meditatio_perguntas": [
-      "Por quanto “vendo” Jesus nas minhas escolhas?",
-      "Busco a chuva de Deus ou recorro a “adivinhos”?",
-      "Como cuido dos que dependem de mim: como pastor ou como mercenário?"
+      "Peço a Deus o que preciso, ou procuro “consolações falsas”?",
+      "Creio que o perdão de Deus me trata “como se não tivesse sido rejeitado”?",
+      "Transmito a fé aos que dependem de mim?"
     ],
-    "oratio_guia": "Senhor Jesus, Pastor avaliado em trinta moedas, perdoa as vezes em que te troquei por pouco. Reúne-me ao teu rebanho e restaura em nós a Graça e a União. Amém.",
+    "oratio_guia": "Senhor, Pastor do teu povo, reúne-me quando me disperso e trata-me como se eu nunca tivesse sido rejeitado. Fortifica-me em ti, para que eu ande no teu nome. Amém.",
     "contemplatio_foco": {
-      "texto": "pagaram-me pelo meu salário trinta moedas de prata",
-      "ref": "Zc 11,12"
+      "texto": "Eu lhes assobiarei e os congregarei, porque os resgatei",
+      "ref": "Zc 10,8"
     }
   },
   "ancoras": {
-    "11:13": {
+    "10:1": {
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "Mateus atribui a citação a Jeremias, combinando Zc 11,12-13 com ações simbólicas de Jeremias (Jr 18–19; 32), como era comum nas citações compostas.",
+        "texto": "As chuvas serôdias (de março-abril) amadurecem a colheita.",
+        "origem": "ia"
+      }
+    },
+    "10:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Ângulo”: a pedra angular; “estaca”: a que firma a tenda.",
         "origem": "ia"
       }
     }

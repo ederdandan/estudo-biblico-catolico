@@ -64,11 +64,25 @@
   },
   {
    "id": "ZEC.5.1",
-   "titulo": "O livro que voa, a mulher na medida e os quatro carros",
+   "titulo": "O livro que voa e a mulher no efa",
    "secao": "As visões noturnas",
-   "referencia": "Zc 5,1–6,15",
+   "referencia": "Zc 5,1-11",
    "ini": {
     "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 11
+   }
+  },
+  {
+   "id": "ZEC.6.1",
+   "titulo": "Os quatro carros e a coroa do Germen",
+   "secao": "As visões noturnas",
+   "referencia": "Zc 6,1-15",
+   "ini": {
+    "c": 6,
     "v": 1
    },
    "fim": {
@@ -78,11 +92,25 @@
   },
   {
    "id": "ZEC.7.1",
-   "titulo": "Não jejuns, mas justiça: Jerusalém, cidade da fidelidade",
+   "titulo": "Foi por meu respeito que jejuastes?",
    "secao": "Jejum e promessas",
-   "referencia": "Zc 7,1–8,23",
+   "referencia": "Zc 7,1-14",
    "ini": {
     "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 14
+   }
+  },
+  {
+   "id": "ZEC.8.1",
+   "titulo": "Jerusalém, cidade da fidelidade",
+   "secao": "Jejum e promessas",
+   "referencia": "Zc 8,1-23",
+   "ini": {
+    "c": 8,
     "v": 1
    },
    "fim": {
@@ -106,11 +134,25 @@
   },
   {
    "id": "ZEC.10.1",
-   "titulo": "O rebanho disperso e as trinta moedas de prata",
+   "titulo": "Eu os reunirei: o Senhor visita o seu rebanho",
    "secao": "O rei humilde e o pastor ferido",
-   "referencia": "Zc 10,1–11,17",
+   "referencia": "Zc 10,1-12",
    "ini": {
     "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 12
+   }
+  },
+  {
+   "id": "ZEC.11.1",
+   "titulo": "O bom pastor rejeitado e as trinta moedas de prata",
+   "secao": "O rei humilde e o pastor ferido",
+   "referencia": "Zc 11,1-17",
+   "ini": {
+    "c": 11,
     "v": 1
    },
    "fim": {
@@ -120,11 +162,25 @@
   },
   {
    "id": "ZEC.12.1",
-   "titulo": "Chorarão aquele que traspassaram; fere o pastor",
+   "titulo": "Olharão para mim, a quem traspassaram",
    "secao": "O rei humilde e o pastor ferido",
-   "referencia": "Zc 12,1–13,9",
+   "referencia": "Zc 12,1-14",
    "ini": {
     "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 14
+   }
+  },
+  {
+   "id": "ZEC.13.1",
+   "titulo": "A fonte aberta; fere o pastor",
+   "secao": "O rei humilde e o pastor ferido",
+   "referencia": "Zc 13,1-9",
+   "ini": {
+    "c": 13,
     "v": 1
    },
    "fim": {

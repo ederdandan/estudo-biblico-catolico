@@ -1,0 +1,57 @@
+{
+  "id": "ZEC.13.1",
+  "livro": "ZEC",
+  "titulo": "A fonte aberta; fere o pastor",
+  "secao": "O rei humilde e o pastor ferido",
+  "referencia": "Zc 13,1-9",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "“Uma fonte aberta para lavar o pecado”; “Fere o pastor”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Naquele dia haverá uma fonte aberta para a casa de Davi e para os habitantes de Jerusalém, para se lavarem as manchas do pecado e da impureza.” Deus exterminará até os nomes dos ídolos e tirará os falsos profetas; estes terão vergonha das suas visões e dirão: “Eu não sou profeta, sou um agricultor.” Se lhe perguntarem “Que ferimentos são esses entre os teus braços?”, responderá: “Recebi estes ferimentos na casa dos meus amigos.” Depois, um oráculo misterioso: “Ó gládio, levanta-te contra o meu pastor, contra o homem da minha intimidade, diz o Senhor dos exércitos! Fere o pastor, e serão dispersas as ovelhas.” Dois terços perecerão e um terço ficará: “Farei passar este terço pelo fogo e purificá-lo-ei como se purifica a prata, prová-lo-ei como se prova o ouro. Ele invocará o meu nome, e eu o ouvirei. Dir-lhe-ei: Tu és o meu povo, e ele dirá: Iavé é o meu Deus.”",
+    "alegorico": "Jesus cita este texto no Getsêmani: “Todos vós vos escandalizareis… porque está escrito: Ferirei o pastor, e as ovelhas do rebanho serão dispersas” (Mt 26,31). O Pastor ferido é o “homem da intimidade” de Deus, o Filho. A fonte aberta que lava o pecado brota do lado traspassado, de onde saíram sangue e água (Jo 19,34): o Batismo e a Eucaristia. A Igreja aplicou a frase “feridas recebidas na casa dos amigos” às chagas de Cristo.",
+    "moral": "Deus não só condena o pecado: abre uma fonte para lavá-lo. E o caminho do pequeno resto passa pelo fogo da purificação, como a prata e o ouro. As provas não destroem quem invoca o nome do Senhor; elas o purificam, até que possa dizer com verdade: “o Senhor é o meu Deus”.",
+    "anagogico": "O resto purificado pelo fogo, que diz “Tu és o meu Deus”, é a Igreja final, provada e glorificada, na aliança eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Haverá uma fonte aberta… para se lavarem as manchas do pecado.” “Recebi estes ferimentos na casa dos meus amigos.” “Ó gládio, levanta-te contra o meu pastor.” “Fere o pastor, e serão dispersas as ovelhas.” “Purificá-lo-ei como se purifica a prata.” “Ele invocará o meu nome, e eu o ouvirei.”",
+    "meditatio_perguntas": [
+      "Recorro à fonte aberta da misericórdia, a Confissão?",
+      "Diante do Pastor ferido, também eu fujo?",
+      "Vivo as provações como purificação?"
+    ],
+    "oratio_guia": "Senhor Jesus, Pastor ferido por nós, lava-me na fonte aberta do teu lado. Purifica-me como a prata no fogo, para que eu invoque o teu nome e diga: tu és o meu Deus. Amém.",
+    "contemplatio_foco": {
+      "texto": "Fere o pastor, e serão dispersas as ovelhas",
+      "ref": "Zc 13,7"
+    }
+  },
+  "ancoras": {
+    "13:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado por Jesus em Mt 26,31 e Mc 14,27.",
+        "origem": "ia"
+      }
+    },
+    "13:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Ez 36,25; Jo 19,34.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
