@@ -1,40 +1,57 @@
 {
   "id": "PRO.28.1",
   "livro": "PRO",
-  "titulo": "O justo, como leão confiante",
+  "titulo": "O justo, como leão afoito: confessar e alcançar misericórdia",
   "secao": "Provérbios recolhidos pelos homens de Ezequias",
-  "referencia": "Pr 28,1–29,27",
+  "referencia": "Pr 28,1-28",
   "ini": {
     "c": 28,
     "v": 1
   },
   "fim": {
-    "c": 29,
-    "v": 27
+    "c": 28,
+    "v": 28
   },
   "liturgia": {
-    "tema_central": "A confiança do justo e a humildade que exalta",
+    "tema_central": "“O que confessar as suas maldades alcançará misericórdia”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "“O ímpio foge sem que ninguém o persiga; o justo, como leão confiante, está sem temor.” Mais vale o pobre íntegro que o rico perverso. Quem guarda a lei é filho prudente. Quem esconde os seus pecados não prosperará; quem os confessa e os deixa alcançará misericórdia. Feliz o homem que sempre teme a Deus. Quem confia no próprio coração é insensato. Quem dá ao pobre não passará necessidade. No capítulo 29: quem endurece a nuca diante da repreensão cairá de repente. Onde não há profecia, o povo se dissolve. A soberba abate o homem; o humilde de espírito obtém honra. O temor do homem arma laços; quem confia no Senhor estará seguro.",
-    "alegorico": "A promessa de misericórdia a quem confessa e abandona o pecado (28,13) é fundamento bíblico da confissão sacramental; Cristo é o leão de Judá, confiante diante dos inimigos.",
-    "moral": "A consciência culpada vive em fuga; a reta, em paz. Esconder o pecado prolonga o mal; confessá-lo traz misericórdia. O medo dos homens prende; a confiança em Deus liberta. Sem palavra profética, o povo se desagrega.",
-    "anagogico": "“O humilde de espírito obterá a glória”: a inversão final do Reino, em que os humildes são exaltados."
+    "literal": "“O ímpio foge, sem que ninguém o persiga; o justo porém, como leão afoito, estará sem terror.” “Os homens maus não entendem o que é justo, mas os que buscam o Senhor entendem tudo.” “Melhor é o pobre que anda na sua integridade do que o rico que anda por caminhos perversos.” “Quem desvia os seus ouvidos para não ouvir a lei, até a sua oração será execrável.” “Aquele que esconde as suas maldades não será bem sucedido; aquele porém que as confessar e se retirar delas alcançará misericórdia. Bem-aventurado o homem que está sempre com temor; mas o que é de coração duro cairá no mal.” “Como um leão que ruge, e um urso faminto, assim é um príncipe ímpio sobre um povo pobre.” “O homem fiel será cumulado de bênçãos, porém o que tem pressa de se enriquecer não será inocente.” “Quem corrige uma pessoa, por fim ser-lhe-á agradável, mais do que aquele que a engana com as lisonjas.” “Aquele que confia no seu coração é um insensato.” “Aquele que dá ao pobre não terá necessidade.”",
+    "alegorico": "“Aquele que as confessar e se retirar delas alcançará misericórdia” é a base bíblica do sacramento da Penitência: “se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar” (1Jo 1,9). O justo “como leão afoito” participa da coragem de Cristo, Leão de Judá.",
+    "moral": "A culpa escondida dá medo (“foge sem que ninguém o persiga”); a consciência limpa dá coragem de leão. O caminho para a paz é confessar e abandonar o pecado: não basta reconhecer, é preciso “retirar-se”. Outros alertas: a pressa de enriquecer corrompe; a oração de quem recusa ouvir a Lei é vazia; confiar só no próprio coração é tolice.",
+    "anagogico": "A misericórdia alcançada pela confissão antecipa a absolvição definitiva diante do Juiz misericordioso."
   },
   "lectio_divina": {
-    "lectio_resumo": "“O ímpio foge sem que ninguém o persiga; o justo, como leão afouto, estará sem terror.” “O que esconde os seus pecados não prosperará; mas o que os confessar e se apartar deles alcançará misericórdia.” “O que confia no Senhor será exaltado.”",
+    "lectio_resumo": "“O ímpio foge, sem que ninguém o persiga.” “O justo, como leão afoito, estará sem terror.” “Os que buscam o Senhor entendem tudo.” “Aquele que esconde as suas maldades não será bem sucedido.” “Aquele que as confessar e se retirar delas alcançará misericórdia.” “O que tem pressa de se enriquecer não será inocente.” “Aquele que confia no seu coração é um insensato.”",
     "meditatio_perguntas": [
-      "Do que fujo sem que ninguém me persiga?",
-      "Escondo pecados que precisam ser confessados?",
-      "O medo do que os outros pensam me aprisiona?"
+      "Escondo pecados que me tiram a paz?",
+      "Confesso e também me afasto do pecado?",
+      "Tenho pressa de enriquecer?"
     ],
-    "oratio_guia": "Senhor, dá-me a confiança do justo. Que eu não esconda os meus pecados, mas os confesse e os deixe, para alcançar a tua misericórdia. Livra-me do medo dos homens. Amém.",
+    "oratio_guia": "Senhor, não quero esconder as minhas maldades: eu as confesso e quero deixá-las. Dá-me a tua misericórdia e a coragem do justo, que vive sem terror. Amém.",
     "contemplatio_foco": {
-      "texto": "o justo porém, como leão afouto, estará sem terror",
-      "ref": "Pr 28,1"
+      "texto": "aquele porém que as confessar e se retirar delas alcançará misericórdia",
+      "ref": "Pr 28,13"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "28:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Sl 32,3-5; 1Jo 1,9.",
+        "origem": "ia"
+      }
+    },
+    "28:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Is 1,15.",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }

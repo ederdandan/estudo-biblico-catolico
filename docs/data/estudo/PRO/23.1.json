@@ -1,0 +1,57 @@
+{
+  "id": "PRO.23.1",
+  "livro": "PRO",
+  "titulo": "Dá-me, filho meu, o teu coração",
+  "secao": "Provérbios de Salomão",
+  "referencia": "Pr 23,1-35",
+  "ini": {
+    "c": 23,
+    "v": 1
+  },
+  "fim": {
+    "c": 23,
+    "v": 35
+  },
+  "liturgia": {
+    "tema_central": "“Dá-me, filho meu, o teu coração”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Conselhos para a mesa dos poderosos: “põe uma faca na tua garganta, se sentes muito apetite. Não desejes comer dos seus manjares, porque são manjares enganosos.” “Não te afadigues por ser rico… porque as riquezas tomarão asas como de águia, e voarão para o céu.” Com o invejoso: “Come e bebe, te dirá ele; mas o seu coração não está contigo.” “Não entres no campo dos órfãos; porque o seu curador é Todo-poderoso.” “O teu coração não tenha inveja aos pecadores, mas conserva-te sempre firme no temor do Senhor.” “Ouve o teu pai, que te gerou, e não desprezes tua mãe, quando for velha. Adquire a verdade, e não a vendas.” “Dá-me, filho meu, o teu coração, e os teus olhos guardem os meus caminhos.” O retrato do bêbado: “Para quem os ais? Para quem as contendas?… Para aqueles que passam o tempo a beber vinho.” “No fim morde como uma serpente.” “Espancaram-me, mas não me doeu… Quando despertarei eu? Quero buscar mais vinho para beber.”",
+    "alegorico": "“Dá-me, filho meu, o teu coração” é lido pela tradição como a voz de Deus que pede o coração inteiro: “amarás o Senhor teu Deus de todo o teu coração” (Mt 22,37). Cristo é o defensor dos órfãos e o Pai não os deixa órfãos (Jo 14,18).",
+    "moral": "Um capítulo sobre o domínio de si: na mesa, diante das riquezas, diante do vinho. A descrição do alcoólatra é atual: ferido e anestesiado, só pensa em beber mais. A dependência começa no olhar (“não estejas a reparar como o vinho brilha”). Contra isso, o pai pede: dá-me o teu coração. A verdade deve ser adquirida a todo custo e nunca vendida; e os pais idosos devem ser honrados.",
+    "anagogico": "As riquezas “voam para o céu como águias”; só o coração dado a Deus permanece com ele para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Põe uma faca na tua garganta.” “As riquezas tomarão asas como de águia.” “O seu coração não está contigo.” “Não desprezes tua mãe, quando for velha.” “Adquire a verdade, e não a vendas.” “Dá-me, filho meu, o teu coração.” “No fim morde como uma serpente.” “Quando despertarei eu?”",
+    "meditatio_perguntas": [
+      "Dou a Deus o meu coração inteiro?",
+      "Que “vício” me anestesia e me faz querer “mais”?",
+      "Honro os meus pais na velhice?"
+    ],
+    "oratio_guia": "Pai, tu me pedes o coração: eu to dou. Guarda os meus olhos nos teus caminhos, livra-me da intemperança e de todo vício, e faz-me amar a verdade sem nunca vendê-la. Amém.",
+    "contemplatio_foco": {
+      "texto": "Dá-me, filho meu, o teu coração, e os teus olhos guardem os meus caminhos",
+      "ref": "Pr 23,26"
+    }
+  },
+  "ancoras": {
+    "23:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Faca na garganta”: refreia o apetite.",
+        "origem": "ia"
+      }
+    },
+    "23:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Uma das descrições mais vivas da embriaguez na Bíblia.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

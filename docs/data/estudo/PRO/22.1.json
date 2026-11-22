@@ -1,38 +1,38 @@
 {
   "id": "PRO.22.1",
   "livro": "PRO",
-  "titulo": "O bom nome e as palavras dos sábios",
+  "titulo": "Ensina à criança o caminho que deve seguir",
   "secao": "Provérbios de Salomão",
-  "referencia": "Pr 22,1–24,34",
+  "referencia": "Pr 22,1-29",
   "ini": {
     "c": 22,
     "v": 1
   },
   "fim": {
-    "c": 24,
-    "v": 34
+    "c": 22,
+    "v": 29
   },
   "liturgia": {
-    "tema_central": "O bom nome e os conselhos dos sábios",
+    "tema_central": "“Ensina à criança o caminho que deve seguir”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "“Mais vale o bom nome do que muitas riquezas.” Rico e pobre se encontram: o Senhor fez um e outro. Instrui o menino no caminho que deve seguir; nem na velhice se afastará dele. Quem semeia iniquidade colhe desgraça. A partir de 22,17, as “palavras dos sábios”: não roubes o pobre, não te faças amigo do colérico, não desloques os marcos antigos. Diante dos poderosos, modera o apetite; não te canses para enriquecer: a riqueza voa como águia. Não negues a correção à criança. Não invejes os pecadores, mas permanece no temor do Senhor. Livra os que são levados à morte. “O justo cai sete vezes e se levanta.” Não te alegres quando o teu inimigo cair. O campo do preguiçoso está coberto de espinhos.",
-    "alegorico": "“O justo cai sete vezes e se levanta” foi aplicado pela tradição à perseverança dos santos, sustentada pela graça de Cristo, que levantou Pedro depois da queda.",
-    "moral": "A educação das crianças marca toda a vida. O bom nome se constrói com integridade, e vale mais que a riqueza que “voa como águia”. Não se alegrar com a queda do inimigo é já um passo para o amor aos inimigos.",
-    "anagogico": "Levantar-se depois de cada queda é caminho de esperança: ao fim, o justo será levantado definitivamente na ressurreição."
+    "literal": "“Mais vale o bom nome do que muitas riquezas.” “O rico e o pobre encontram-se; o Senhor criou-os a ambos.” “O prêmio da humildade é o temor do Senhor, as riquezas, a glória e a vida.” “Ensina à criança o caminho que deve seguir, que não se afastará dele, mesmo quando envelhecer.” “O que toma emprestado torna-se escravo do que lhe empresta.” “Aquele que é propenso à misericórdia será abençoado, porque deu dos seus pães ao pobre.” “O preguiçoso diz: Está um leão lá fora.” No v. 17 começa uma nova coleção, “as palavras dos sábios”: “Inclina o teu ouvido e ouve… Para que ponhas no Senhor a tua confiança, quero ensinar-te hoje os seus caminhos.” “Não faças violência ao pobre, porque é pobre… porque o Senhor defenderá a sua causa.” “Não tenhas amizade com o homem colérico… para não suceder que aprendas as suas veredas.” “Não passes além dos antigos marcos que puseram teus pais.” “Viste um homem expedito nos seus afazeres? Este terá lugar junto dos reis.”",
+    "alegorico": "“O rico e o pobre encontram-se; o Senhor criou-os a ambos”: em Cristo “não há judeu nem grego, escravo nem livre” (Gl 3,28); ricos e pobres se encontram na mesa eucarística. O Senhor que “defende a causa do pobre” é Cristo, que se identifica com ele.",
+    "moral": "A educação recebida na infância marca a vida inteira: daí a responsabilidade dos pais e educadores. O bom nome vale mais que a riqueza. O pobre tem Deus como advogado. E as más companhias ensinam os seus caminhos: o colérico contagia a ira. A dívida escraviza: prudência com os empréstimos.",
+    "anagogico": "O “prêmio da humildade” é “a glória e a vida”: a herança dos humildes no Reino, onde ricos e pobres se encontrarão como irmãos diante do único Criador."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Mais vale o bom nome do que muitas riquezas.” “Instrui o menino no caminho que deve seguir.” “Não te fatigues por te enriquecer.” “O justo ainda que caia sete vezes, tornar-se-á a levantar.” “Não te alegres quando cair o teu inimigo.”",
+    "lectio_resumo": "“Mais vale o bom nome do que muitas riquezas.” “O rico e o pobre encontram-se; o Senhor criou-os a ambos.” “Ensina à criança o caminho que deve seguir.” “Deu dos seus pães ao pobre.” “Para que ponhas no Senhor a tua confiança.” “O Senhor defenderá a sua causa.” “Não tenhas amizade com o homem colérico.”",
     "meditatio_perguntas": [
-      "Que caminho estou ensinando às crianças que dependem de mim?",
-      "Levanto-me depois das quedas, ou desanimo?",
-      "Alegro-me secretamente com a queda de quem não gosto?"
+      "Que caminho estou ensinando às crianças que me cercam?",
+      "Cuido do meu bom nome mais que dos meus bens?",
+      "Que hábitos aprendi das companhias que frequento?"
     ],
-    "oratio_guia": "Senhor, dá-me um nome limpo diante de ti e dos homens. Quando eu cair, levanta-me; e livra-me de me alegrar com a queda do meu inimigo. Amém.",
+    "oratio_guia": "Senhor, criador do rico e do pobre, ensina-me os teus caminhos para que eu os transmita aos pequenos. Dá-me um coração misericordioso e um bom nome diante de ti. Amém.",
     "contemplatio_foco": {
-      "texto": "o justo ainda que caia sete vezes, tornar-se-á a levantar",
-      "ref": "Pr 24,16"
+      "texto": "Ensina à criança o caminho que deve seguir, que não se afastará dele, mesmo quando envelhecer",
+      "ref": "Pr 22,6"
     }
   },
   "ancoras": {
@@ -40,7 +40,15 @@
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "Os provérbios de 22,17–24,22 têm paralelos com a “Instrução de Amenemope”, texto sapiencial egípcio, assumidos e transformados pela fé de Israel.",
+        "texto": "Começa a coleção “palavras dos sábios” (Pr 22,17–24,22), aparentada com a sabedoria egípcia de Amenemope.",
+        "origem": "ia"
+      }
+    },
+    "22:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Mudar os marcos era roubar a terra do vizinho (Dt 19,14).",
         "origem": "ia"
       }
     }

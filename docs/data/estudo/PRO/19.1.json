@@ -3,38 +3,55 @@
   "livro": "PRO",
   "titulo": "Quem se compadece do pobre empresta ao Senhor",
   "secao": "Provérbios de Salomão",
-  "referencia": "Pr 19,1–21,31",
+  "referencia": "Pr 19,1-29",
   "ini": {
     "c": 19,
     "v": 1
   },
   "fim": {
-    "c": 21,
-    "v": 31
+    "c": 19,
+    "v": 29
   },
   "liturgia": {
-    "tema_central": "Quem se compadece do pobre empresta ao Senhor",
+    "tema_central": "“O que se compadece do pobre empresta ao Senhor”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Mais vale o pobre íntegro que o rico de lábios perversos. A loucura do homem perverte o seu caminho e ele se irrita contra Deus. A mulher prudente é dom do Senhor. “O que se compadece do pobre empresta ao Senhor, e Ele lhe pagará.” Corrige o teu filho enquanto há esperança. Muitos são os projetos do coração, mas o desígnio do Senhor permanece. O vinho é zombador. Não digas: vingar-me-ei; espera no Senhor. “O coração do rei está na mão do Senhor como a água corrente.” Praticar a justiça agrada mais a Deus que os sacrifícios. Quem fecha o ouvido ao clamor do pobre também clamará e não será ouvido. Não há sabedoria contra o Senhor; o cavalo se prepara para a batalha, mas a vitória vem do Senhor.",
-    "alegorico": "Emprestar ao Senhor dando ao pobre antecipa Mt 25: o que fizestes aos pequenos, a mim o fizestes. Deus que inclina o coração dos reis governa a história para a vinda de Cristo.",
-    "moral": "A esmola é empréstimo a Deus, que paga com juros. A vingança pertence a Deus; esperar nele liberta do rancor. A justiça vale mais que o culto. Fechar o ouvido ao pobre fecha o céu à nossa oração.",
-    "anagogico": "“A vitória vem do Senhor”: o combate da história termina com a vitória de Deus, e a recompensa dos misericordiosos é eterna."
+    "literal": "“Mais vale o pobre que anda na sua integridade, do que o rico de lábios perversos.” “Sem a ciência, nem o zelo é bom.” “A estultícia do homem perverte os seus passos, e depois o seu coração irrita-se contra Deus.” “As riquezas multiplicam muito os amigos; mas o pobre do seu amigo é abandonado.” “A sabedoria do homem conhece-se pela paciência, e a sua glória é passar por cima das injúrias.” “Os pais dão casas e riquezas, mas uma mulher sensata é um dom do Senhor.” “O que se compadece do pobre empresta ao Senhor, e este lhe tornará o que lhe tiver emprestado.” “Ouve o conselho e recebe a correção.” “No coração do homem agitam-se muitos pensamentos; porém o desígnio do Senhor é que se realiza.” “O atrativo dum homem é a sua bondade.” “O preguiçoso mete a mão no prato, e não quer ter o trabalho de a levar à boca.”",
+    "alegorico": "Quem dá ao pobre “empresta ao Senhor”: Cristo se faz devedor dos que socorrem os pobres, e paga com o Reino: “tive fome e destes-me de comer” (Mt 25,35). “Passar por cima das injúrias” é o perdão ensinado por Jesus “setenta vezes sete” (Mt 18,22).",
+    "moral": "Uma frase luminosa sobre a esmola: dar ao pobre é emprestar a Deus, e Deus é bom pagador. Outras: o zelo sem discernimento é perigoso; culpamos Deus pelas consequências das nossas tolices; a glória do homem é perdoar. E uma caricatura do preguiçoso que nem leva a comida à boca.",
+    "anagogico": "O que se empresta ao Senhor nos pobres será devolvido com juros na vida eterna, quando o Rei disser: “Vinde, benditos de meu Pai” (Mt 25,34)."
   },
   "lectio_divina": {
-    "lectio_resumo": "“O que se compadece do pobre empresta ao Senhor.” “Não digas: Vingar-me-ei; espera no Senhor, e ele te livrará.” “O coração do rei está na mão do Senhor.” “Quem fecha o ouvido ao clamor do pobre, também ele clamará e não será ouvido.”",
+    "lectio_resumo": "“Mais vale o pobre que anda na sua integridade.” “Sem a ciência, nem o zelo é bom.” “O seu coração irrita-se contra Deus.” “A sua glória é passar por cima das injúrias.” “Uma mulher sensata é um dom do Senhor.” “O que se compadece do pobre empresta ao Senhor.” “O desígnio do Senhor é que se realiza.” “O atrativo dum homem é a sua bondade.”",
     "meditatio_perguntas": [
       "Vejo a esmola como empréstimo a Deus?",
-      "Guardo desejo de vingança?",
-      "Fecho os ouvidos a algum clamor?"
+      "Culpo Deus pelas consequências dos meus erros?",
+      "Sei “passar por cima das injúrias”?"
     ],
-    "oratio_guia": "Senhor, em cujas mãos estão os corações, inclina o meu para os pobres. Livra-me da vingança e faze-me esperar em ti. Que eu ouça o clamor dos pequenos, para que ouças o meu. Amém.",
+    "oratio_guia": "Senhor, que te fazes presente no pobre, dá-me compaixão generosa. Ensina-me a perdoar as injúrias e a deixar que se realize o teu desígnio. Amém.",
     "contemplatio_foco": {
       "texto": "O que se compadece do pobre empresta ao Senhor",
       "ref": "Pr 19,17"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "19:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na Vulgata, o v. 6 une dois versículos do hebraico.",
+        "origem": "ia"
+      }
+    },
+    "19:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A imagem da goteira volta em Pr 27,15.",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }

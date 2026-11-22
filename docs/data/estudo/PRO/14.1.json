@@ -1,0 +1,57 @@
+{
+  "id": "PRO.14.1",
+  "livro": "PRO",
+  "titulo": "A mulher sábia edifica a sua casa",
+  "secao": "Provérbios de Salomão",
+  "referencia": "Pr 14,1-35",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 35
+  },
+  "liturgia": {
+    "tema_central": "“A mulher prudente edifica a sua casa”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“A mulher prudente edifica a sua casa: a insensata destruirá com as suas próprias mãos a que já está feita.” “Aquele que anda pelo caminho direito teme a Deus.” “O insensato ri-se do pecado.” “Todo o coração conhece as suas amarguras; um estranho não partilha da sua alegria.” “Há um caminho que parece direito ao homem, e no cabo conduz à morte. Mesmo no riso, o coração pode sofrer.” “O imprudente dá crédito a tudo o que se lhe diz; o cauteloso considera os seus passos.” “Aquele que despreza o seu próximo peca; mas o que se compadece do pobre será bem-aventurado.” “Onde se trabalha há abundância; mas onde somente se fala muito, aí se encontra a indigência.” “O temor do Senhor é uma fonte de vida.” “Um coração tranquilo é a vida do corpo; a inveja é a cárie dos ossos. Quem maltrata o indigente injuria o seu Criador; mas honra-o aquele que se compadece do pobre.” “A justiça exalta as nações; o pecado torna miseráveis os povos.”",
+    "alegorico": "“Quem maltrata o indigente injuria o seu Criador” prepara a palavra de Cristo: “o que fizestes a um destes pequeninos, a mim o fizestes” (Mt 25,40). O “caminho que parece direito” e leva à morte contrasta com Cristo, “o Caminho, a Verdade e a Vida” (Jo 14,6).",
+    "moral": "O capítulo fala da casa e da sociedade. Em casa, a sabedoria constrói, a insensatez destrói com as próprias mãos. No coração, a paz dá vida e a inveja corrói. Na sociedade, a justiça exalta e o pecado empobrece. E há um alerta: nem tudo o que “parece direito” é bom; é preciso discernir, não acreditar em tudo. O pobre é imagem do Criador.",
+    "anagogico": "“O justo, mesmo na sua morte, conserva a confiança” (14,32): a esperança que atravessa a morte."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A mulher prudente edifica a sua casa.” “Todo o coração conhece as suas amarguras.” “Há um caminho que parece direito ao homem, e no cabo conduz à morte.” “O cauteloso considera os seus passos.” “A inveja é a cárie dos ossos.” “Quem maltrata o indigente injuria o seu Criador.” “A justiça exalta as nações.”",
+    "meditatio_perguntas": [
+      "Estou edificando ou destruindo a minha casa?",
+      "A inveja corrói alguma coisa em mim?",
+      "Vejo no pobre a imagem do Criador?"
+    ],
+    "oratio_guia": "Senhor, dá-me sabedoria para edificar a minha casa, paz no coração e compaixão pelo pobre, em quem tu és honrado. Livra-me dos caminhos que só parecem direitos. Amém.",
+    "contemplatio_foco": {
+      "texto": "A mulher prudente edifica a sua casa",
+      "ref": "Pr 14,1"
+    }
+  },
+  "ancoras": {
+    "14:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Repetido em Pr 16,25.",
+        "origem": "ia"
+      }
+    },
+    "14:31": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Pr 17,5; 19,17.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

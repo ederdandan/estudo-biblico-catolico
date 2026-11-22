@@ -137,9 +137,37 @@
    "id": "PRO.10.1",
    "titulo": "O justo e o ímpio: a caridade cobre todas as faltas",
    "secao": "Provérbios de Salomão",
-   "referencia": "Pr 10,1–12,28",
+   "referencia": "Pr 10,1-32",
    "ini": {
     "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 32
+   }
+  },
+  {
+   "id": "PRO.11.1",
+   "titulo": "O que largamente dá, largamente receberá",
+   "secao": "Provérbios de Salomão",
+   "referencia": "Pr 11,1-31",
+   "ini": {
+    "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 31
+   }
+  },
+  {
+   "id": "PRO.12.1",
+   "titulo": "A língua dos sábios cura as feridas",
+   "secao": "Provérbios de Salomão",
+   "referencia": "Pr 12,1-28",
+   "ini": {
+    "c": 12,
     "v": 1
    },
    "fim": {
@@ -149,11 +177,39 @@
   },
   {
    "id": "PRO.13.1",
-   "titulo": "A mulher prudente edifica a casa; a resposta branda",
+   "titulo": "Quem anda com os sábios será sábio",
    "secao": "Provérbios de Salomão",
-   "referencia": "Pr 13,1–15,33",
+   "referencia": "Pr 13,1-25",
    "ini": {
     "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 25
+   }
+  },
+  {
+   "id": "PRO.14.1",
+   "titulo": "A mulher sábia edifica a sua casa",
+   "secao": "Provérbios de Salomão",
+   "referencia": "Pr 14,1-35",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 35
+   }
+  },
+  {
+   "id": "PRO.15.1",
+   "titulo": "A resposta branda aquieta a ira",
+   "secao": "Provérbios de Salomão",
+   "referencia": "Pr 15,1-33",
+   "ini": {
+    "c": 15,
     "v": 1
    },
    "fim": {
@@ -163,11 +219,39 @@
   },
   {
    "id": "PRO.16.1",
-   "titulo": "O homem pensa o caminho, o Senhor dirige os passos",
+   "titulo": "O homem dispõe o seu caminho, o Senhor dirige os passos",
    "secao": "Provérbios de Salomão",
-   "referencia": "Pr 16,1–18,24",
+   "referencia": "Pr 16,1-33",
    "ini": {
     "c": 16,
+    "v": 1
+   },
+   "fim": {
+    "c": 16,
+    "v": 33
+   }
+  },
+  {
+   "id": "PRO.17.1",
+   "titulo": "O amigo verdadeiro o é em todo o tempo",
+   "secao": "Provérbios de Salomão",
+   "referencia": "Pr 17,1-28",
+   "ini": {
+    "c": 17,
+    "v": 1
+   },
+   "fim": {
+    "c": 17,
+    "v": 28
+   }
+  },
+  {
+   "id": "PRO.18.1",
+   "titulo": "O nome do Senhor é uma torre fortíssima",
+   "secao": "Provérbios de Salomão",
+   "referencia": "Pr 18,1-24",
+   "ini": {
+    "c": 18,
     "v": 1
    },
    "fim": {
@@ -179,9 +263,37 @@
    "id": "PRO.19.1",
    "titulo": "Quem se compadece do pobre empresta ao Senhor",
    "secao": "Provérbios de Salomão",
-   "referencia": "Pr 19,1–21,31",
+   "referencia": "Pr 19,1-29",
    "ini": {
     "c": 19,
+    "v": 1
+   },
+   "fim": {
+    "c": 19,
+    "v": 29
+   }
+  },
+  {
+   "id": "PRO.20.1",
+   "titulo": "O espírito do homem é uma lâmpada divina",
+   "secao": "Provérbios de Salomão",
+   "referencia": "Pr 20,1-30",
+   "ini": {
+    "c": 20,
+    "v": 1
+   },
+   "fim": {
+    "c": 20,
+    "v": 30
+   }
+  },
+  {
+   "id": "PRO.21.1",
+   "titulo": "Misericórdia e justiça valem mais que os sacrifícios",
+   "secao": "Provérbios de Salomão",
+   "referencia": "Pr 21,1-31",
+   "ini": {
+    "c": 21,
     "v": 1
    },
    "fim": {
@@ -191,11 +303,39 @@
   },
   {
    "id": "PRO.22.1",
-   "titulo": "O bom nome e as palavras dos sábios",
+   "titulo": "Ensina à criança o caminho que deve seguir",
    "secao": "Provérbios de Salomão",
-   "referencia": "Pr 22,1–24,34",
+   "referencia": "Pr 22,1-29",
    "ini": {
     "c": 22,
+    "v": 1
+   },
+   "fim": {
+    "c": 22,
+    "v": 29
+   }
+  },
+  {
+   "id": "PRO.23.1",
+   "titulo": "Dá-me, filho meu, o teu coração",
+   "secao": "Provérbios de Salomão",
+   "referencia": "Pr 23,1-35",
+   "ini": {
+    "c": 23,
+    "v": 1
+   },
+   "fim": {
+    "c": 23,
+    "v": 35
+   }
+  },
+  {
+   "id": "PRO.24.1",
+   "titulo": "O justo cai sete vezes e se levanta",
+   "secao": "Provérbios de Salomão",
+   "referencia": "Pr 24,1-34",
+   "ini": {
+    "c": 24,
     "v": 1
    },
    "fim": {
@@ -207,9 +347,37 @@
    "id": "PRO.25.1",
    "titulo": "Se o teu inimigo tiver fome, dá-lhe de comer",
    "secao": "Provérbios recolhidos pelos homens de Ezequias",
-   "referencia": "Pr 25,1–27,27",
+   "referencia": "Pr 25,1-28",
    "ini": {
     "c": 25,
+    "v": 1
+   },
+   "fim": {
+    "c": 25,
+    "v": 28
+   }
+  },
+  {
+   "id": "PRO.26.1",
+   "titulo": "O insensato, o preguiçoso e o mexeriqueiro",
+   "secao": "Provérbios recolhidos pelos homens de Ezequias",
+   "referencia": "Pr 26,1-28",
+   "ini": {
+    "c": 26,
+    "v": 1
+   },
+   "fim": {
+    "c": 26,
+    "v": 28
+   }
+  },
+  {
+   "id": "PRO.27.1",
+   "titulo": "O ferro aguça o ferro: a amizade que corrige",
+   "secao": "Provérbios recolhidos pelos homens de Ezequias",
+   "referencia": "Pr 27,1-27",
+   "ini": {
+    "c": 27,
     "v": 1
    },
    "fim": {
@@ -219,11 +387,25 @@
   },
   {
    "id": "PRO.28.1",
-   "titulo": "O justo, como leão confiante",
+   "titulo": "O justo, como leão afoito: confessar e alcançar misericórdia",
    "secao": "Provérbios recolhidos pelos homens de Ezequias",
-   "referencia": "Pr 28,1–29,27",
+   "referencia": "Pr 28,1-28",
    "ini": {
     "c": 28,
+    "v": 1
+   },
+   "fim": {
+    "c": 28,
+    "v": 28
+   }
+  },
+  {
+   "id": "PRO.29.1",
+   "titulo": "Quando faltar a revelação, dissipar-se-á o povo",
+   "secao": "Provérbios recolhidos pelos homens de Ezequias",
+   "referencia": "Pr 29,1-27",
+   "ini": {
+    "c": 29,
     "v": 1
    },
    "fim": {

@@ -1,0 +1,57 @@
+{
+  "id": "PRO.29.1",
+  "livro": "PRO",
+  "titulo": "Quando faltar a revelação, dissipar-se-á o povo",
+  "secao": "Provérbios recolhidos pelos homens de Ezequias",
+  "referencia": "Pr 29,1-27",
+  "ini": {
+    "c": 29,
+    "v": 1
+  },
+  "fim": {
+    "c": 29,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "“Quando faltar a revelação, dissipar-se-á o povo”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“O homem que despreza com cerviz dura a quem o repreende cairá de repente em total ruína.” “Sob o governo dos justos está alegre o povo; quando os ímpios tomam o governo, o povo geme.” “O rei firma o seu país pela justiça.” “O homem que usa de uma linguagem lisonjeira e fingida arma uma rede aos seus passos.” “O justo conhece a causa dos pobres.” “Os sábios acalmam o furor.” “O insensato diz logo tudo o que tem no espírito; o sábio não se apressa.” “O pobre e o opressor encontram-se: o Senhor é que alumia um e outro.” “Corrige o teu filho, e ele consolar-te-á.” “Quando faltar a revelação, dissipar-se-á o povo; aquele porém que guarda a lei é bem-aventurado.” “O orgulho dum homem condu-lo à humilhação; porém o humilde de espírito será glorificado.” “Aquele que teme o homem cairá num laço, o que espera no Senhor estará seguro. São muitos os que buscam o favor do príncipe; porém do Senhor depende a verdadeira sentença de cada um.”",
+    "alegorico": "“Quando faltar a revelação, dissipar-se-á o povo”: Cristo, Palavra do Pai, tem compaixão das multidões “como ovelhas sem pastor” e começa a ensiná-las (Mc 6,34). “O humilde de espírito será glorificado”: “bem-aventurados os pobres em espírito” (Mt 5,3).",
+    "moral": "Um povo sem a Palavra de Deus se dispersa; um povo governado com justiça se alegra. Quem governa deve conhecer “a causa dos pobres”. E cada um deve escolher a quem teme: o medo dos homens é uma armadilha; a esperança em Deus dá segurança. Buscar o favor dos poderosos é inútil: o juízo verdadeiro vem do Senhor.",
+    "anagogico": "“Do Senhor depende a verdadeira sentença de cada um”: o juízo final revelará o valor real de cada vida."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Sob o governo dos justos está alegre o povo.” “O justo conhece a causa dos pobres.” “O sábio não se apressa.” “O Senhor é que alumia um e outro.” “Quando faltar a revelação, dissipar-se-á o povo.” “O humilde de espírito será glorificado.” “Aquele que teme o homem cairá num laço, o que espera no Senhor estará seguro.”",
+    "meditatio_perguntas": [
+      "Alimento-me da Palavra de Deus, ou vivo “disperso”?",
+      "Temo mais os homens ou espero mais em Deus?",
+      "Conheço e defendo “a causa dos pobres”?"
+    ],
+    "oratio_guia": "Senhor, não deixes faltar ao teu povo a tua Palavra. Livra-me do medo dos homens e faz-me esperar em ti. Dá-me um espírito humilde e um coração atento à causa dos pobres. Amém.",
+    "contemplatio_foco": {
+      "texto": "Quando faltar a revelação, dissipar-se-á o povo; aquele porém que guarda a lei é bem-aventurado",
+      "ref": "Pr 29,18"
+    }
+  },
+  "ancoras": {
+    "29:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O hebraico diz “visão” (profecia): sem a palavra profética, o povo fica sem freio.",
+        "origem": "ia"
+      }
+    },
+    "29:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Pr 22,2.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

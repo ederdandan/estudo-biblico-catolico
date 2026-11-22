@@ -1,0 +1,57 @@
+{
+  "id": "PRO.27.1",
+  "livro": "PRO",
+  "titulo": "O ferro aguça o ferro: a amizade que corrige",
+  "secao": "Provérbios recolhidos pelos homens de Ezequias",
+  "referencia": "Pr 27,1-27",
+  "ini": {
+    "c": 27,
+    "v": 1
+  },
+  "fim": {
+    "c": 27,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "“Não te glories do dia de amanhã”; “o ferro aguça o ferro”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Não te glories pelo dia de amanhã”, porque ninguém sabe o que dará de si o dia seguinte. “Seja outro quem te louve, e não a tua própria boca.” “Melhor é a correção manifesta do que o amor escondido. Melhores são as feridas feitas pelo que ama do que os ósculos fraudulentos do que quer mal.” “O faminto até o amargo tomará por doce.” “Com os bons conselhos do amigo se banha a alma em doçura. Não deixes o teu amigo, nem o amigo de teu pai… Vale mais o vizinho que está perto do que o irmão que está longe.” “O ferro aguça o ferro, e o homem apura o homem.” “Assim como na água o rosto corresponde ao rosto, assim o coração do homem corresponde ao homem.” “Os olhos dos homens são insaciáveis.” “O homem é provado pela boca do que o louva.” E um conselho rural: “Conhece diligentemente o estado da tua grei, atende aos teus rebanhos, porque nem sempre dura a riqueza.”",
+    "alegorico": "“Não te glories do amanhã” ecoa em Tiago: “não sabeis o que será amanhã… devíeis dizer: Se o Senhor quiser” (Tg 4,13-15). “As feridas do que ama” contrastam com o beijo de Judas, “ósculo fraudulento” (Lc 22,48). O pastor que conhece o estado do seu rebanho é figura do Bom Pastor que conhece as suas ovelhas (Jo 10,14).",
+    "moral": "A amizade verdadeira corrige: as feridas de um amigo valem mais que os elogios falsos. O convívio humano nos forma: “o ferro aguça o ferro”. Também somos provados pelo modo como recebemos elogios. E há sabedoria em viver o presente com humildade, sem se gabar do amanhã, cuidando com diligência do que nos foi confiado.",
+    "anagogico": "Ninguém conhece o amanhã; só Deus conhece o dia; vigiar é viver cada dia como dom."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não te glories pelo dia de amanhã.” “Seja outro quem te louve.” “Melhores são as feridas feitas pelo que ama.” “Não deixes o teu amigo.” “O ferro aguça o ferro, e o homem apura o homem.” “O homem é provado pela boca do que o louva.” “Conhece diligentemente o estado da tua grei.”",
+    "meditatio_perguntas": [
+      "Aceito as “feridas” de um amigo que me corrige?",
+      "Que pessoas me “aguçam” para o bem?",
+      "Conheço e cuido do “rebanho” que me foi confiado?"
+    ],
+    "oratio_guia": "Senhor, o amanhã está nas tuas mãos. Dá-me amigos que me corrijam com amor e faz-me ser, para os outros, ferro que aguça para o bem. Ensina-me a cuidar com diligência do que me confiaste. Amém.",
+    "contemplatio_foco": {
+      "texto": "O ferro aguça o ferro, e o homem apura o homem",
+      "ref": "Pr 27,17"
+    }
+  },
+  "ancoras": {
+    "27:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Tg 4,13-15.",
+        "origem": "ia"
+      }
+    },
+    "27:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Sl 141,5: “fira-me o justo, é misericórdia”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

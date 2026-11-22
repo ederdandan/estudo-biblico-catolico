@@ -1,40 +1,57 @@
 {
   "id": "PRO.13.1",
   "livro": "PRO",
-  "titulo": "A mulher prudente edifica a casa; a resposta branda",
+  "titulo": "Quem anda com os sábios será sábio",
   "secao": "Provérbios de Salomão",
-  "referencia": "Pr 13,1–15,33",
+  "referencia": "Pr 13,1-25",
   "ini": {
     "c": 13,
     "v": 1
   },
   "fim": {
-    "c": 15,
-    "v": 33
+    "c": 13,
+    "v": 25
   },
   "liturgia": {
-    "tema_central": "Edificar a casa com sabedoria e palavras brandas",
+    "tema_central": "“Aquele que anda com os sábios será sábio”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Os provérbios continuam: quem guarda a boca guarda a vida. A esperança adiada aflige a alma, o desejo cumprido é árvore de vida. Quem anda com sábios será sábio. Quem poupa a vara odeia o filho. “A mulher prudente edifica a sua casa; a insensata a destrói com as próprias mãos.” Há caminho que parece reto e termina na morte. O coração conhece a sua própria amargura. Quem oprime o pobre ultraja o Criador; quem tem compaixão do necessitado o honra. “A resposta branda aquieta a ira; a palavra dura excita o furor.” Os olhos do Senhor observam bons e maus. Mais vale pouco com temor de Deus que grandes tesouros com inquietação; mais vale um prato de verduras com amor.",
-    "alegorico": "Quem honra o pobre honra o Criador: Cristo levará isto ao extremo identificando-se com os pequenos (Mt 25,40). A mulher que edifica a casa é figura da Igreja, que constrói a casa de Deus.",
-    "moral": "A família se constrói ou se destrói nas atitudes diárias. Escolher boas companhias, corrigir os filhos com amor, responder com mansidão, preferir a paz à abundância: sabedoria prática de cada dia.",
-    "anagogico": "“Há caminho que parece reto e termina na morte”: só o caminho de Deus leva à vida; o discernimento hoje decide o destino eterno."
+    "literal": "“O filho sábio ama a correção.” “Aquele que guarda a sua boca guarda a sua alma.” “O preguiçoso quer, mas em vão; a alma dos que trabalham, essa será saciada.” “Há quem pareça rico, não tendo nada, e há quem pareça pobre, possuindo muitas riquezas.” “Entre os soberbos há sempre contendas.” “Os bens que se ajuntam muito depressa desaparecem, mas os que se colhem à mão, pouco a pouco, multiplicar-se-ão.” “A esperança que se retarda aflige a alma; o bom desejo que se satisfaz é uma árvore da vida.” “O ensinamento do sábio é uma fonte de vida.” “O embaixador fiel é um remédio.” “Aquele que anda com os sábios será sábio; o amigo dos insensatos tornar-se-á semelhante a eles.” “O homem virtuoso deixa por herdeiros os seus filhos e netos.” “Aquele que poupa a vara quer mal ao seu filho; o que o ama corrige-o sem demora.”",
+    "alegorico": "“Há quem pareça pobre, possuindo muitas riquezas”: assim os apóstolos, “como pobres, mas enriquecendo a muitos; como nada tendo, mas possuindo tudo” (2Cor 6,10). A correção paterna é a pedagogia de Deus: “o Senhor corrige a quem ama” (Hb 12,6).",
+    "moral": "As companhias formam: tornamo-nos semelhantes a quem frequentamos. O texto valoriza o crescimento lento (o que se colhe “pouco a pouco” se multiplica) contra o ganho fácil. E lembra aos pais que corrigir é amar: a omissão na educação não é bondade. A esperança adiada dói, mas o desejo realizado é árvore de vida.",
+    "anagogico": "“O bom desejo que se satisfaz é uma árvore da vida”: o desejo de Deus será saciado na árvore da vida do paraíso (Ap 22,2)."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Quem anda com os sábios será sábio.” “A mulher prudente edifica a sua casa.” “Quem tem compaixão do pobre honra o Criador.” “A resposta branda aquieta a ira; a palavra dura excita o furor.” “Mais vale um prato de legumes com amor.”",
+    "lectio_resumo": "“Aquele que guarda a sua boca guarda a sua alma.” “Há quem pareça pobre, possuindo muitas riquezas.” “Os que se colhem pouco a pouco multiplicar-se-ão.” “A esperança que se retarda aflige a alma.” “Aquele que anda com os sábios será sábio.” “O que o ama corrige-o sem demora.”",
     "meditatio_perguntas": [
-      "Com quem ando, e o que isso faz de mim?",
-      "Edifico ou destruo a minha casa com as minhas mãos?",
-      "Respondo com brandura quando provocado?"
+      "Com quem ando? Que influência as minhas companhias têm em mim?",
+      "Prefiro o ganho fácil ou o crescimento paciente?",
+      "Sei corrigir com amor os que me foram confiados?"
     ],
-    "oratio_guia": "Senhor, dá-me edificar a minha casa com sabedoria. Que a minha resposta seja branda, a minha mesa tenha amor e o meu coração tenha compaixão do pobre. Amém.",
+    "oratio_guia": "Senhor, dá-me andar com os sábios e crescer pouco a pouco no bem. Ensina-me a guardar a boca e a corrigir com amor. Que o meu desejo de ti seja árvore de vida. Amém.",
     "contemplatio_foco": {
-      "texto": "A resposta branda aquieta a ira; a palavra dura excita o furor",
-      "ref": "Pr 15,1"
+      "texto": "Aquele que anda com os sábios, será sábio",
+      "ref": "Pr 13,20"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "13:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “vara” é imagem da disciplina; a tradição cristã a lê como correção firme e amorosa, não como violência.",
+        "origem": "ia"
+      }
+    },
+    "13:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Pr 3,18: a sabedoria é “árvore da vida”.",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }

@@ -1,0 +1,57 @@
+{
+  "id": "PRO.24.1",
+  "livro": "PRO",
+  "titulo": "O justo cai sete vezes e se levanta",
+  "secao": "Provérbios de Salomão",
+  "referencia": "Pr 24,1-34",
+  "ini": {
+    "c": 24,
+    "v": 1
+  },
+  "fim": {
+    "c": 24,
+    "v": 34
+  },
+  "liturgia": {
+    "tema_central": "“O justo ainda que caia sete vezes, tornar-se-á a levantar”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Não tenhas inveja aos homens maus.” “É com a sabedoria que a casa será edificada, e consolidar-se-á com prudência.” “Se, descoroçoado, perderes a esperança no tempo da adversidade, descairá a tua fortaleza.” “Procura salvar os que são condenados à morte… Se disseres: Eu não o sabia, aquele que pesa os corações o conhece.” “Come, meu filho, do mel, porque é bom… Tal é para a tua alma a sabedoria.” “Porque o justo, ainda que caia sete vezes, tornar-se-á a levantar; porém os ímpios serão precipitados no mal.” “Não te alegres quando cair o teu inimigo.” Mais palavras dos sábios: “Não é bom fazer acepção de pessoas nos julgamentos.” “Não digas: como ele me fez a mim, assim farei eu a ele.” E uma cena: “Passei pelo campo do homem preguiçoso… tudo estava cheio de urtigas… o muro de pedra estava caído… Um pouco dormirás, outro breve espaço dormitarás, outro pouquinho cruzarás as mãos para descansares, e a indigência virá sobre ti como um vagabundo.”",
+    "alegorico": "O justo que cai sete vezes e se levanta é o cristão que, pela misericórdia, sempre recomeça: Pedro caiu e foi reerguido por Cristo (Jo 21,15-19). “Não te alegres quando cair o teu inimigo” prepara o mandamento: “amai os vossos inimigos” (Mt 5,44).",
+    "moral": "O justo não é quem nunca cai, mas quem sempre se levanta. Desanimar na adversidade é perder a força. O capítulo pede também responsabilidade social (salvar os condenados injustamente, sem desculpa de “eu não sabia”), justiça sem acepção de pessoas, renúncia à vingança e à alegria pela queda do inimigo. E a lição do campo abandonado: a preguiça se instala aos poucos, “um pouco… outro pouco…”.",
+    "anagogico": "Cada vez que o justo se levanta, antecipa a ressurreição final, quando não haverá mais quedas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“É com a sabedoria que a casa será edificada.” “Se perderes a esperança no tempo da adversidade, descairá a tua fortaleza.” “Procura salvar os que são condenados à morte.” “O justo ainda que caia sete vezes, tornar-se-á a levantar.” “Não te alegres quando cair o teu inimigo.” “Não digas: como ele me fez a mim, assim farei eu a ele.” “Um pouco dormirás, outro breve espaço dormitarás.”",
+    "meditatio_perguntas": [
+      "Depois de cair, levanto-me com confiança na misericórdia?",
+      "Alegro-me secretamente com a queda de alguém?",
+      "Que “campo” da minha vida está tomado pelas urtigas da negligência?"
+    ],
+    "oratio_guia": "Senhor, quando eu cair sete vezes, levanta-me sete vezes. Livra-me do desânimo, da vingança e da preguiça, e faz-me defensor dos que são condenados injustamente. Amém.",
+    "contemplatio_foco": {
+      "texto": "o justo ainda que caia sete vezes, tornar-se-á a levantar",
+      "ref": "Pr 24,16"
+    }
+  },
+  "ancoras": {
+    "24:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Começa um pequeno apêndice: “também estas são palavras dos sábios” (24,23-34).",
+        "origem": "ia"
+      }
+    },
+    "24:33": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Pr 6,10-11.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

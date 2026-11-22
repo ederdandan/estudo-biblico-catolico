@@ -1,0 +1,57 @@
+{
+  "id": "PRO.17.1",
+  "livro": "PRO",
+  "titulo": "O amigo verdadeiro o é em todo o tempo",
+  "secao": "Provérbios de Salomão",
+  "referencia": "Pr 17,1-28",
+  "ini": {
+    "c": 17,
+    "v": 1
+  },
+  "fim": {
+    "c": 17,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "“Aquele que é amigo verdadeiro o é em todo o tempo”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Vale mais um bocado de pão seco com paz, do que uma casa cheia de carne com discórdia.” “Assim como a prata se prova no crisol e o ouro na fornalha, assim o Senhor prova os corações.” “Aquele que despreza o pobre insulta o seu Criador, e o que se alegra com a ruína de outrem não ficará impune.” “Os filhos dos filhos são a coroa dos velhos.” “Encobre as faltas alheias quem busca amizade; o que as conta e repete separa os que estão unidos.” “Quem dá mal por bem jamais verá a desventura sair da sua casa.” “O que começa contendas é como o que abre um dique de águas; retira-te do litígio antes de ele se inflamar.” “Aquele que absolve o réu e o que condena o inocente, ambos são abomináveis diante de Deus.” “Aquele que é amigo verdadeiro o é em todo o tempo; torna-se um irmão no tempo da desventura.” “O espírito alegre é para o corpo remédio salutar, o espírito triste seca os ossos.” “Até o insensato passará por sábio, se estiver calado.”",
+    "alegorico": "O amigo que é irmão na desventura é Cristo: “já não vos chamo servos, mas amigos” (Jo 15,15); “ninguém tem maior amor do que aquele que dá a vida pelos seus amigos” (Jo 15,13). O Senhor que prova os corações como ouro no crisol: cf. 1Pd 1,7.",
+    "moral": "Um capítulo sobre a amizade e a paz. A amizade verdadeira se mostra na desgraça e se guarda cobrindo as faltas, não espalhando-as. As brigas são como diques rompidos: é melhor parar antes de começar. A paz numa casa pobre vale mais que a fartura com discórdia. E a alegria do espírito é remédio para o corpo.",
+    "anagogico": "O Senhor prova os corações como o ouro na fornalha, para que, purificados, brilhem na sua presença."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vale mais um bocado de pão seco com paz.” “O Senhor prova os corações.” “Encobre as faltas alheias quem busca amizade.” “Retira-te do litígio antes de ele se inflamar.” “Aquele que é amigo verdadeiro o é em todo o tempo; torna-se um irmão no tempo da desventura.” “O espírito alegre é remédio salutar.”",
+    "meditatio_perguntas": [
+      "Sou amigo nos tempos de desventura?",
+      "Espalho ou encubro as faltas dos outros?",
+      "Sei parar uma discussão antes que ela se inflame?"
+    ],
+    "oratio_guia": "Senhor Jesus, amigo fiel em todo o tempo, ensina-me a ser amigo verdadeiro, a cobrir as faltas, a evitar as contendas e a guardar a paz na minha casa. Amém.",
+    "contemplatio_foco": {
+      "texto": "Aquele que é amigo (verdadeiro) é o em todo o tempo; torna-se um irmão no tempo da desventura",
+      "ref": "Pr 17,17"
+    }
+  },
+  "ancoras": {
+    "17:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Pr 27,21; Sl 66,10.",
+        "origem": "ia"
+      }
+    },
+    "17:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Tg 1,19: “pronto para ouvir, lento para falar”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "PRO.18.1",
+  "livro": "PRO",
+  "titulo": "O nome do Senhor é uma torre fortíssima",
+  "secao": "Provérbios de Salomão",
+  "referencia": "Pr 18,1-24",
+  "ini": {
+    "c": 18,
+    "v": 1
+  },
+  "fim": {
+    "c": 18,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "“O nome do Senhor é uma torre fortíssima”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“O insensato não gosta das palavras de prudência, mas somente de manifestar os seus pensamentos.” “As palavras que saem da boca do homem são como uma água profunda.” “As palavras do intriguista são como iguarias apetitosas, que penetram até ao íntimo das entranhas.” “O nome do Senhor é uma torre fortíssima; aí se acolhe o justo e encontra um refúgio seguro. A riqueza do rico é a sua cidade forte: na sua imaginação é uma alta muralha.” “O coração do homem exalta-se antes da sua queda, mas a humildade precede a glória. Aquele que responde antes de ouvir mostra ser um insensato.” “Quem poderá levantar um espírito abatido?” “Parece ter razão o que expõe primeiro a sua causa; vem depois a parte adversa, e então se examina a fundo a questão.” “O irmão, que é ajudado por seu irmão, é como uma cidade forte.” “A morte e a vida estão em poder da língua.” “Aquele que achou uma mulher boa achou um tesouro, recebeu do Senhor um grande favor.” “Há amigos mais dedicados que um irmão.”",
+    "alegorico": "O “nome do Senhor”, torre fortíssima, revela-se no nome de Jesus: “não há debaixo do céu outro nome… pelo qual devamos ser salvos” (At 4,12); “todo aquele que invocar o nome do Senhor será salvo” (Rm 10,13). O amigo “mais dedicado que um irmão” é Cristo, que nos chama amigos.",
+    "moral": "Duas seguranças se opõem: o nome do Senhor, refúgio real, e a riqueza, muralha “na imaginação”. E o poder da língua: “a morte e a vida” dependem dela. O sábio ouve antes de responder, escuta as duas partes antes de julgar, não se deixa seduzir pelas fofocas, que descem “até às entranhas” como iguarias.",
+    "anagogico": "O justo que se refugia no nome do Senhor encontra nele a morada segura que não será abalada."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“As palavras do intriguista são como iguarias apetitosas.” “O nome do Senhor é uma torre fortíssima.” “Na sua imaginação é uma alta muralha.” “Aquele que responde antes de ouvir mostra ser um insensato.” “A morte e a vida estão em poder da língua.” “Há amigos mais dedicados que um irmão.”",
+    "meditatio_perguntas": [
+      "Onde busco refúgio: no nome do Senhor ou nas minhas “muralhas imaginárias”?",
+      "Escuto antes de responder, e as duas partes antes de julgar?",
+      "Saboreio as fofocas como “iguarias”?"
+    ],
+    "oratio_guia": "Senhor Jesus, o teu nome é a minha torre fortíssima. Ensina-me a ouvir antes de falar e a usar a língua para a vida, não para a morte. Amém.",
+    "contemplatio_foco": {
+      "texto": "O nome do Senhor é uma torre fortíssima; aí se acolhe o justo e encontra um refúgio seguro",
+      "ref": "Pr 18,10"
+    }
+  },
+  "ancoras": {
+    "18:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Repetido em Pr 26,22.",
+        "origem": "ia"
+      }
+    },
+    "18:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Pr 19,14; 31,10.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

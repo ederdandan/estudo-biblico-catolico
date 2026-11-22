@@ -1,0 +1,57 @@
+{
+  "id": "PRO.20.1",
+  "livro": "PRO",
+  "titulo": "O espírito do homem é uma lâmpada divina",
+  "secao": "Provérbios de Salomão",
+  "referencia": "Pr 20,1-30",
+  "ini": {
+    "c": 20,
+    "v": 1
+  },
+  "fim": {
+    "c": 20,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "“O espírito do homem é uma lâmpada divina”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“O vinho é uma fonte de luxúria, e a embriaguez é cheia de desordens.” “É uma glória para o homem afastar-se de contendas.” “O preguiçoso não quis lavrar por causa do frio; mendigará, pois, no verão.” “O pensamento é no coração do homem como uma água profunda, mas o homem sábio tirá-lo-á para fora.” “Muitos homens se chamam compassivos, mas quem achará um homem inteiramente fiel?” “Quem pode dizer: O meu coração está puro, estou limpo de pecado?” “Ter dois pesos e duas medidas é objeto de abominação para o Senhor.” “O ouvido que ouve e o olho que vê, ambas estas coisas fez o Senhor.” “Isto não vale nada, diz todo o comprador, e, depois de se retirar, então se gloriará.” “O pão mal adquirido é gostoso ao homem; porém depois a sua boca será cheia de areias.” “Não digas: Darei mal por mal; espera no Senhor, e ele te livrará.” “Os passos do homem são dirigidos pelo Senhor: mas que homem pode compreender o seu próprio destino?” “O espírito do homem é uma lâmpada divina, a qual penetra todos os segredos do seu interior.”",
+    "alegorico": "“Quem pode dizer: estou limpo de pecado?”: João responde: “se dissermos que não temos pecado, enganamo-nos a nós mesmos” (1Jo 1,8); só Cristo é sem pecado. “Não digas: darei mal por mal” prepara a palavra de Jesus e de Paulo: “não pagueis a ninguém o mal com o mal… vence o mal com o bem” (Rm 12,17-21).",
+    "moral": "A consciência é “lâmpada divina” que ilumina o interior: é preciso deixá-la acesa e examinar-se. Ninguém pode dizer-se puro: a humildade começa aí. O capítulo denuncia a duplicidade (dois pesos, duas medidas), a esperteza do comprador, o pão mal ganho que vira areia. E proíbe a vingança: esperar no Senhor.",
+    "anagogico": "A lâmpada do espírito, acesa por Deus, deve arder até a chegada do Esposo (Mt 25)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“É uma glória para o homem afastar-se de contendas.” “Quem achará um homem inteiramente fiel?” “Quem pode dizer: O meu coração está puro?” “Ter dois pesos e duas medidas.” “O pão mal adquirido… a sua boca será cheia de areias.” “Não digas: Darei mal por mal; espera no Senhor.” “O espírito do homem é uma lâmpada divina.”",
+    "meditatio_perguntas": [
+      "Deixo a lâmpada da consciência iluminar o meu interior?",
+      "Uso “dois pesos e duas medidas”?",
+      "Entrego a Deus o desejo de vingança?"
+    ],
+    "oratio_guia": "Senhor, acende em mim a lâmpada da consciência e ilumina os segredos do meu coração. Não sou puro: purifica-me. Livra-me da duplicidade e da vingança. Amém.",
+    "contemplatio_foco": {
+      "texto": "O espírito do homem é uma lâmpada divina",
+      "ref": "Pr 20,27"
+    }
+  },
+  "ancoras": {
+    "20:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Rm 12,17-21.",
+        "origem": "ia"
+      }
+    },
+    "20:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Ecl 5,3-4 sobre votos impensados.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

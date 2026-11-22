@@ -3,38 +3,55 @@
   "livro": "PRO",
   "titulo": "O justo e o ímpio: a caridade cobre todas as faltas",
   "secao": "Provérbios de Salomão",
-  "referencia": "Pr 10,1–12,28",
+  "referencia": "Pr 10,1-32",
   "ini": {
     "c": 10,
     "v": 1
   },
   "fim": {
-    "c": 12,
-    "v": 28
+    "c": 10,
+    "v": 32
   },
   "liturgia": {
-    "tema_central": "O justo e o ímpio: a força das palavras e da caridade",
+    "tema_central": "“A caridade cobre todas as faltas”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Começa a coleção de provérbios de Salomão, em sentenças antitéticas: o filho sábio alegra o pai, o insensato entristece a mãe. Tesouros da iniquidade não aproveitam; a justiça livra da morte. A mão preguiçosa empobrece; a diligente enriquece. A boca do justo é fonte de vida. “O ódio excita rixas, mas a caridade cobre todas as faltas.” Na muita palavra não falta pecado; quem modera os lábios é prudente. A balança falsa é abominação; o peso justo agrada a Deus. Onde há soberba há ignomínia; com os humildes está a sabedoria. Quem dá generosamente se enriquece. Quem ama a correção ama a ciência; a língua dos sábios é saúde.",
-    "alegorico": "São Pedro (1Pd 4,8) e São Tiago (5,20) retomam “a caridade cobre a multidão dos pecados”: o amor de Cristo cobre os nossos pecados, e a nossa caridade participa desse dom.",
-    "moral": "O caráter se forma em pequenas escolhas diárias: trabalho, palavras, honestidade comercial, humildade, generosidade. A caridade não expõe as faltas dos outros; a língua pode ferir ou curar.",
-    "anagogico": "“A justiça livra da morte”: a esperança do justo vai além da vida presente, rumo à salvação definitiva."
+    "literal": "Começa a grande coleção dos “Provérbios de Salomão”, sentenças breves em pares que contrapõem o justo e o ímpio. “O filho sábio é a alegria de seu pai, o filho insensato é a tristeza de sua mãe.” “Os tesouros mal adquiridos de nada servirão; pelo contrário, a justiça livra da morte.” “A mão preguiçosa produz a indigência, mas a mão diligente adquire riquezas.” “A memória do justo será abençoada, porém o nome dos ímpios apodrecerá.” “A boca do justo é uma fonte de vida.” “O ódio excita rixas, porém a caridade cobre todas as faltas.” “No muito falar não faltará pecado, mas o que modera os seus lábios é homem prudente.” “A língua do justo é prata finíssima.” “A bênção do Senhor faz os homens ricos; a nossa fadiga não junta nada.” “O ímpio desaparecerá como um turbilhão que passa; mas o justo fica em fundamento eterno.” “O temor do Senhor prolonga os dias.”",
+    "alegorico": "Pedro cita esta sentença: “Antes de tudo, tende entre vós uma caridade constante, porque a caridade cobre a multidão dos pecados” (1Pd 4,8; cf. Tg 5,20). O justo “em fundamento eterno” é quem constrói sobre a rocha, Cristo (Mt 7,24-25).",
+    "moral": "O capítulo é um espelho da vida cotidiana: o trabalho, a palavra, a família, o dinheiro. Duas lições sobressaem. A palavra: muito falar leva ao pecado; a boca do justo é fonte de vida. E a caridade: o ódio procura brigas, o amor cobre as faltas, não as expõe. Por fim, tudo é dom: “a bênção do Senhor faz ricos”.",
+    "anagogico": "“O justo fica em fundamento eterno”: a vida justa está fundada no que não passa."
   },
   "lectio_divina": {
-    "lectio_resumo": "“O filho sábio é a alegria de seu pai.” “A boca do justo é uma fonte de vida.” “O ódio excita rixas, porém a caridade cobre todas as faltas.” “Onde porém há humildade, aí há igualmente sabedoria.”",
+    "lectio_resumo": "“O filho sábio é a alegria de seu pai.” “A justiça livra da morte.” “A memória do justo será abençoada.” “A boca do justo é uma fonte de vida.” “A caridade cobre todas as faltas.” “No muito falar não faltará pecado.” “A bênção do Senhor faz os homens ricos.”",
     "meditatio_perguntas": [
-      "As minhas palavras são fonte de vida ou de rixas?",
-      "Cubro as faltas dos outros com caridade, ou as exponho?",
-      "Sou honesto nas “balanças” do meu trabalho?"
+      "Cubro com caridade as faltas dos outros, ou as exponho?",
+      "Modero os meus lábios?",
+      "Reconheço que é a bênção de Deus, e não só o meu esforço, que me enriquece?"
     ],
-    "oratio_guia": "Senhor, faze da minha boca uma fonte de vida. Dá-me a caridade que cobre as faltas, a humildade onde mora a sabedoria e a honestidade em todas as minhas balanças. Amém.",
+    "oratio_guia": "Senhor, faz da minha boca uma fonte de vida e do meu coração um lugar de caridade que cobre as faltas dos irmãos. Que a tua bênção seja a minha riqueza. Amém.",
     "contemplatio_foco": {
-      "texto": "a caridade cobre todas as faltas",
+      "texto": "O ódio excita rixas, porém a caridade cobre todas as faltas",
       "ref": "Pr 10,12"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "10:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Início da primeira coleção salomônica (Pr 10,1–22,16), formada por 375 sentenças.",
+        "origem": "ia"
+      }
+    },
+    "10:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em 1Pd 4,8.",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }

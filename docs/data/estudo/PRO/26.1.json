@@ -1,0 +1,57 @@
+{
+  "id": "PRO.26.1",
+  "livro": "PRO",
+  "titulo": "O insensato, o preguiçoso e o mexeriqueiro",
+  "secao": "Provérbios recolhidos pelos homens de Ezequias",
+  "referencia": "Pr 26,1-28",
+  "ini": {
+    "c": 26,
+    "v": 1
+  },
+  "fim": {
+    "c": 26,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "O insensato, o preguiçoso e o mexeriqueiro",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Três retratos. O insensato: “Assim como a neve é imprópria no estio… assim a glória está mal a um insensato.” “Não respondas ao louco segundo a sua loucura, para não seres semelhante a ele. Responde ao louco segundo a sua loucura, para que ele não imagine que é sábio.” “Como o cão que volta ao que vomitou, assim o insensato que recai na sua loucura. Tens visto um homem que se julga sábio? Há mais a esperar do estulto do que dele.” O preguiçoso: “Está um leão no caminho… Como a porta rola sobre a sua couceira, assim o preguiçoso no seu leito… O preguiçoso julga-se mais sábio do que sete homens.” O mexeriqueiro e o falso: “Quando não houver mais lenha, apagar-se-á o fogo; assim, desterrado que seja o mexeriqueiro, apaziguar-se-ão as contendas.” Quem fere o amigo e diz “eu fazia isto por brincadeira” é como quem atira setas mortais. “Lábios enganosamente suaves junto a um coração péssimo” são como verniz de prata num vaso de barro. “Quem abre a cova cairá nela.”",
+    "alegorico": "Pedro aplica o provérbio do cão que volta ao vômito a quem, conhecendo Cristo, regressa ao pecado (2Pd 2,20-22). O homem “que se julga sábio” lembra o fariseu da parábola, contraposto ao publicano (Lc 18,9-14).",
+    "moral": "O pior insensato é o que se julga sábio: a presunção fecha a porta à conversão. O preguiçoso inventa leões para não sair e gira na cama como porta nos gonzos. O mexeriqueiro é lenha do fogo das brigas: sem ele, a discórdia se apaga. E a “brincadeira” que fere não é inocente. As duas sentenças opostas (responder ou não ao louco) ensinam discernimento: não há regra mecânica, é preciso sabedoria para cada caso.",
+    "anagogico": "“Quem abre a cova cairá nela”: no fim, o mal se volta contra quem o tramou, e a verdade se manifesta “na assembleia pública”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não respondas ao louco segundo a sua loucura… Responde ao louco segundo a sua loucura.” “Como o cão que volta ao que vomitou.” “Tens visto um homem que se julga sábio?” “Está um leão no caminho.” “Eu fazia isto por brincadeira.” “Quando não houver mais lenha, apagar-se-á o fogo.” “Quem abre a cova cairá nela.”",
+    "meditatio_perguntas": [
+      "Julgo-me sábio a ponto de não aprender mais?",
+      "Que “leões” invento para fugir do dever?",
+      "Sou lenha ou água no fogo das discórdias?"
+    ],
+    "oratio_guia": "Senhor, livra-me da presunção de me julgar sábio, da preguiça que inventa desculpas e da língua que alimenta discórdias. Que eu não volte aos pecados que já deixei. Amém.",
+    "contemplatio_foco": {
+      "texto": "Quando não houver mais lenha, apagar-se-á o fogo",
+      "ref": "Pr 26,20"
+    }
+  },
+  "ancoras": {
+    "26:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em 2Pd 2,22.",
+        "origem": "ia"
+      }
+    },
+    "26:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os vv. 4-5 são uma contradição aparente, que ensina a discernir as situações.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

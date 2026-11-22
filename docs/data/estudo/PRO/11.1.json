@@ -1,0 +1,57 @@
+{
+  "id": "PRO.11.1",
+  "livro": "PRO",
+  "titulo": "O que largamente dá, largamente receberá",
+  "secao": "Provérbios de Salomão",
+  "referencia": "Pr 11,1-31",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "“O que largamente dá, largamente receberá”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“A balança falsa é abominação diante do Senhor, mas o peso justo é-lhe agradável. Onde houver soberba, aí haverá também ignomínia; onde porém há humildade, aí há igualmente sabedoria.” “As riquezas não servirão de nada no dia da cólera, mas a justiça livra da morte.” “A cidade será exaltada pela bênção dos justos.” “O que é de coração leal cala o que se lhe confiou.” “Onde há muitos conselheiros, ali haverá salvação.” “O homem caritativo faz bem à sua alma, mas o que é cruel, a si próprio prejudica.” “Um anel de ouro no focinho dum porco, tal é a mulher formosa mas insensata.” “Uns repartem liberalmente e ficam mais ricos, outros poupam demais, estão sempre na pobreza. A alma beneficente será cumulada de bens, e o que largamente dá, largamente receberá.” “O que confia nas suas riquezas cairá; mas os justos germinarão como uma folhagem verde.” “O fruto do justo é árvore de vida; e o que ganha as almas é sábio.”",
+    "alegorico": "“O que largamente dá, largamente receberá” ecoa nas palavras de Jesus: “dai, e ser-vos-á dado: uma medida boa, recalcada, sacudida e transbordante” (Lc 6,38), e em Paulo: “quem semeia com largueza, com largueza colherá” (2Cor 9,6). “O que ganha as almas é sábio”: a sabedoria dos apóstolos, “pescadores de homens”.",
+    "moral": "Paradoxo da generosidade: quem reparte fica mais rico; quem retém empobrece. E a caridade faz bem, antes de tudo, a quem a pratica. Outras virtudes: honestidade nos negócios (balança justa), humildade, discrição com os segredos alheios, humildade de pedir conselho. A beleza sem sabedoria é como joia em focinho de porco.",
+    "anagogico": "“Os justos germinarão como uma folhagem verde”: a vida que floresce para sempre junto de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A balança falsa é abominação diante do Senhor.” “Onde há humildade, aí há igualmente sabedoria.” “O que é de coração leal cala o que se lhe confiou.” “O homem caritativo faz bem à sua alma.” “Uns repartem liberalmente e ficam mais ricos.” “O que largamente dá, largamente receberá.” “O que ganha as almas é sábio.”",
+    "meditatio_perguntas": [
+      "Sou honesto até nas pequenas medidas?",
+      "Guardo os segredos que me confiam?",
+      "Reparto com liberalidade, ou retenho por medo?"
+    ],
+    "oratio_guia": "Senhor, dá-me um coração humilde e generoso, que reparte com largueza e guarda com lealdade. Que eu seja honesto em tudo e ganhe almas para ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "o que largamente dá, largamente receberá",
+      "ref": "Pr 11,25"
+    }
+  },
+  "ancoras": {
+    "11:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ser fiador era arriscado: o fiador respondia pela dívida (cf. Pr 6,1-5).",
+        "origem": "ia"
+      }
+    },
+    "11:30": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“O que ganha as almas”: o hebraico pode significar também “o sábio cativa as pessoas”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

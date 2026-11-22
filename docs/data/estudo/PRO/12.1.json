@@ -1,0 +1,57 @@
+{
+  "id": "PRO.12.1",
+  "livro": "PRO",
+  "titulo": "A língua dos sábios cura as feridas",
+  "secao": "Provérbios de Salomão",
+  "referencia": "Pr 12,1-28",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "“A língua dos sábios cura as feridas”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Aquele que ama a correção ama a ciência; o que odeia as repreensões é insensato.” “A mulher diligente é a coroa do seu marido.” “A casa dos justos permanecerá firme.” “Mais vale o homem de condição humilde, que tem o preciso para viver, do que o jactancioso que não tem pão.” “O justo olha até pela vida dos seus animais, porém as entranhas dos ímpios são cruéis.” “Ao insensato parece reto o seu proceder; o que porém é sábio ouve os conselhos.” “O louco mostra logo a sua ira; o homem circunspecto dissimula a injúria.” “Há quem, falando inconsideradamente, fira como espada; porém a língua dos sábios cura as feridas. A boca verdadeira será sempre constante, a língua mentirosa aguenta-se apenas um instante.” “Os lábios mentirosos são abominação para o Senhor.” “A amargura no coração do homem abate-o, porém uma boa palavra o alegrará.” “A vida está na vereda da justiça.”",
+    "alegorico": "A palavra que cura evoca a Palavra feita carne: Jesus, que com uma palavra cura (“dize uma só palavra, e o meu servo será curado”, Mt 8,8). A Igreja continua essa missão: “nenhuma palavra má saia da vossa boca, mas só a que for boa para edificar” (Ef 4,29).",
+    "moral": "O poder da palavra: pode ferir como espada ou curar feridas; uma palavra boa alegra o coração abatido. O sábio também sabe receber palavras: ama a correção, ouve conselhos, não reage logo à injúria. E há um detalhe bonito: o justo cuida até dos seus animais, sinal de um coração não cruel.",
+    "anagogico": "“A boca verdadeira será sempre constante”: a verdade permanece, a mentira passa; no fim, só a verdade subsiste."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Aquele que ama a correção ama a ciência.” “O justo olha até pela vida dos seus animais.” “O que é sábio ouve os conselhos.” “Há quem fira como espada; porém a língua dos sábios cura as feridas.” “A língua mentirosa aguenta-se apenas um instante.” “Uma boa palavra o alegrará.”",
+    "meditatio_perguntas": [
+      "As minhas palavras ferem ou curam?",
+      "Aceito ser corrigido?",
+      "A quem posso hoje dizer uma “boa palavra” que alegre?"
+    ],
+    "oratio_guia": "Senhor, faz da minha língua um instrumento de cura e não uma espada. Dá-me amar a correção, ouvir conselhos e dizer palavras boas a quem está abatido. Amém.",
+    "contemplatio_foco": {
+      "texto": "a língua dos sábios cura as feridas",
+      "ref": "Pr 12,18"
+    }
+  },
+  "ancoras": {
+    "12:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Pr 31,10-31, o elogio da mulher forte.",
+        "origem": "ia"
+      }
+    },
+    "12:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Dt 25,4: “não atarás a boca ao boi que debulha”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

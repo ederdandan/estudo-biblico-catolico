@@ -1,0 +1,57 @@
+{
+  "id": "PRO.21.1",
+  "livro": "PRO",
+  "titulo": "Misericórdia e justiça valem mais que os sacrifícios",
+  "secao": "Provérbios de Salomão",
+  "referencia": "Pr 21,1-31",
+  "ini": {
+    "c": 21,
+    "v": 1
+  },
+  "fim": {
+    "c": 21,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "“Fazer misericórdia e justiça é mais agradável ao Senhor do que os sacrifícios”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“O coração do rei está na mão do Senhor como a água corrente; ele o inclinará para qualquer parte que quiser. Todo o caminho do homem lhe parece, a ele próprio, direito; o Senhor porém pesa os corações. Fazer misericórdia e justiça é mais agradável ao Senhor do que os sacrifícios.” “Juntar tesouros com uma língua de mentira é desatinada vaidade e laço de morte.” “Melhor é estar assentado a um canto do terraço, do que habitar com uma mulher litigiosa.” “Aquele que fecha os ouvidos ao clamor do pobre, esse mesmo também clamará e não será ouvido.” “O justo encontra a sua alegria na prática da justiça.” “Aquele que exerce a justiça e a misericórdia achará vida, justiça e glória.” “Aquele que guarda a sua boca e a sua língua preserva a sua alma de angústias.” “Os desejos matam o preguiçoso… mas o que é justo dá largamente.” “Não há sabedoria, não há prudência, não há conselho que prevaleça contra o Senhor. Prepara-se o cavalo para o dia da batalha; mas o Senhor é quem dá a vitória.”",
+    "alegorico": "Jesus retoma a primazia da misericórdia sobre o sacrifício (Mt 9,13; Os 6,6). Quem fecha os ouvidos ao pobre e não é ouvido lembra o rico e Lázaro (Lc 16,19-31). “O Senhor é quem dá a vitória”: a vitória de Cristo sobre o pecado e a morte, que nos é dada (1Cor 15,57).",
+    "moral": "Deus é soberano até sobre o coração dos reis, e pesa as intenções. O que lhe agrada não são ritos exteriores, mas justiça e misericórdia. Fechar-se ao clamor do pobre é fechar-se à própria salvação. E o trabalho humano é necessário (“prepara-se o cavalo”), mas a vitória é de Deus.",
+    "anagogico": "“Achará vida, justiça e glória”: a recompensa de quem pratica a misericórdia é a vida eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O coração do rei está na mão do Senhor.” “O Senhor pesa os corações.” “Fazer misericórdia e justiça é mais agradável ao Senhor do que os sacrifícios.” “Aquele que fecha os ouvidos ao clamor do pobre… clamará e não será ouvido.” “O justo encontra a sua alegria na prática da justiça.” “O Senhor é quem dá a vitória.”",
+    "meditatio_perguntas": [
+      "Ouço o clamor dos pobres?",
+      "A minha prática religiosa produz misericórdia e justiça?",
+      "Faço a minha parte e confio a vitória a Deus?"
+    ],
+    "oratio_guia": "Senhor, que pesas os corações, abre os meus ouvidos ao clamor do pobre. Que eu encontre a minha alegria na justiça e na misericórdia, e confie a ti a vitória. Amém.",
+    "contemplatio_foco": {
+      "texto": "Fazer misericórdia e justiça é mais agradável ao Senhor do que os sacrifícios",
+      "ref": "Pr 21,3"
+    }
+  },
+  "ancoras": {
+    "21:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Esd 1,1; 6,22: Deus moveu o coração dos reis persas.",
+        "origem": "ia"
+      }
+    },
+    "21:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Lc 16,19-31.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

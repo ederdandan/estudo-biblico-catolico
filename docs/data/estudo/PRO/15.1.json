@@ -1,0 +1,57 @@
+{
+  "id": "PRO.15.1",
+  "livro": "PRO",
+  "titulo": "A resposta branda aquieta a ira",
+  "secao": "Provérbios de Salomão",
+  "referencia": "Pr 15,1-33",
+  "ini": {
+    "c": 15,
+    "v": 1
+  },
+  "fim": {
+    "c": 15,
+    "v": 33
+  },
+  "liturgia": {
+    "tema_central": "“A resposta branda aquieta a ira”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“A resposta branda aquieta a ira; a palavra dura excita o furor.” “Em todo o lugar estão os olhos do Senhor, contemplando os bons e os maus.” “A palavra mansa é uma árvore de vida; a língua áspera despedaça o coração.” “As vítimas dos ímpios são abomináveis ao Senhor; porém agrada-lhe a oração dos justos.” “As profundezas, o abismo, estão patentes diante do Senhor; quanto mais o estarão os corações dos filhos dos homens!” “O coração contente alegra o semblante.” “Mais vale o pouco, com o temor do Senhor, que um grande tesouro com inquietação. Mais vale comer legumes com amizade, do que um gordo novilho com ódio.” “O homem iracundo provoca rixas; o que é paciente acalma as disputas.” “Quanto bem faz uma palavra oportuna!” “O Senhor demolirá a casa dos soberbos, e firmará os limites da viúva.” “O Senhor está longe dos ímpios, mas atende às orações dos justos.” “O temor do Senhor é a escola da sabedoria, e a humildade precede a glória.”",
+    "alegorico": "A mansidão que aquieta a ira é a de Cristo, “manso e humilde de coração” (Mt 11,29), que “ultrajado, não respondia com ultrajes” (1Pd 2,23). “A humildade precede a glória”: “quem se humilha será exaltado” (Lc 14,11), como Cristo que se rebaixou até a cruz e foi exaltado (Fl 2,8-9).",
+    "moral": "A mansidão é força: uma resposta branda desarma a ira. A palavra mansa é árvore de vida, a áspera despedaça. Outra lição: a qualidade das relações vale mais que os bens: legumes com amizade valem mais que um banquete com ódio. E Deus vê tudo, até o coração; ele atende a oração dos justos e protege a viúva.",
+    "anagogico": "“A humildade precede a glória”: o caminho da humildade termina na glória do Reino."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A resposta branda aquieta a ira.” “Em todo o lugar estão os olhos do Senhor.” “A palavra mansa é uma árvore de vida.” “Agrada-lhe a oração dos justos.” “Mais vale comer legumes com amizade.” “Quanto bem faz uma palavra oportuna!” “A humildade precede a glória.”",
+    "meditatio_perguntas": [
+      "Respondo com brandura quando sou provocado?",
+      "Valorizo mais as relações ou os bens?",
+      "Que “palavra oportuna” posso dizer hoje?"
+    ],
+    "oratio_guia": "Senhor, manso e humilde de coração, dá-me responder com brandura e falar palavras mansas que sejam árvore de vida. Ensina-me o caminho da humildade. Amém.",
+    "contemplatio_foco": {
+      "texto": "A resposta branda aquieta a ira; a palavra dura excita o furor",
+      "ref": "Pr 15,1"
+    }
+  },
+  "ancoras": {
+    "15:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Is 1,11-17; Am 5,21-24.",
+        "origem": "ia"
+      }
+    },
+    "15:33": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Repetido em Pr 18,12.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
