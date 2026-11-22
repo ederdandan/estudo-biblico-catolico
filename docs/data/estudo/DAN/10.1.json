@@ -1,40 +1,57 @@
 {
   "id": "DAN.10.1",
   "livro": "DAN",
-  "titulo": "A visão final: os reis do norte e do sul",
+  "titulo": "O homem vestido de linho: não temas, homem predilecto",
   "secao": "As visões de Daniel",
-  "referencia": "Dn 10,1–11,45",
+  "referencia": "Dn 10,1-21",
   "ini": {
     "c": 10,
     "v": 1
   },
   "fim": {
-    "c": 11,
-    "v": 45
+    "c": 10,
+    "v": 21
   },
   "liturgia": {
-    "tema_central": "Coragem, homem amado de Deus: a história nas mãos de Deus",
+    "tema_central": "“Não temas, homem predilecto! A paz seja contigo!”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "No terceiro ano de Ciro, depois de três semanas de jejum e luto, Daniel, junto ao rio Tigre, vê um homem vestido de linho, com rosto como relâmpago e olhos como chamas. Cai desfalecido. Uma mão o toca: “Daniel, homem amado, não temas; desde o primeiro dia em que aplicaste o coração a compreender e a humilhar-te diante de Deus, as tuas palavras foram ouvidas”. Fala do combate com o príncipe da Pérsia e da ajuda de Miguel. “Não temas, a paz esteja contigo; sê forte, tem coragem.” Os capítulos 10–11 revelam em detalhe as lutas entre os reis do Norte (selêucidas) e do Sul (ptolomeus), até o rei ímpio que se exalta sobre todo deus e chega ao seu fim.",
-    "alegorico": "O homem vestido de linho, de rosto resplandecente, prepara a visão de Cristo glorioso em Ap 1,13-17, que também toca João e lhe diz: “Não temas”.",
-    "moral": "A oração e a humildade são ouvidas desde o primeiro dia, mesmo quando a resposta demora: há combates invisíveis. Deus fortalece com uma palavra e um toque. A história, mesmo confusa, está sob o seu governo.",
-    "anagogico": "O rei ímpio que “chegará ao seu fim, e ninguém o ajudará” anuncia a derrota final do mal."
+    "literal": "“No terceiro ano de Ciro, rei dos Persas, foi revelada a Daniel… uma palavra verdadeira e anunciadora de grandes lutas.” Daniel faz penitência três semanas: “não tomei alimento algum apetitoso, nem carne nem vinho”. Junto do Tigre vê “um homem vestido de roupas de linho e cingido… com um cinto de ouro… o seu rosto como o relâmpago, e os seus olhos pareciam fachos ardentes… e o som das suas palavras era como o ruído das multidões”. Os companheiros fogem; Daniel cai desfalecido. “E eis que uma mão me tocou e me fez levantar.” O mensageiro diz: “Não tenhas medo, Daniel, porque desde o primeiro dia, em que aplicaste o teu coração a compreender e a mortificar-te na presença do teu Deus, foram ouvidas as tuas palavras, e eu vim por causa delas.” Explica que “o príncipe do reino dos Persas” lhe resistiu vinte e um dias, até que veio em seu socorro “Miguel, um dos primeiros príncipes”. Um ser “semelhante a um filho de homem” toca os lábios de Daniel e o conforta: “Não temas, homem predilecto! A paz seja contigo! Tem vigor! Coragem!” “Fala, meu Senhor, porque me fortaleceste.”",
+    "alegorico": "O homem vestido de linho, de rosto de relâmpago e olhos de fogo, reaparece no Apocalipse como o Cristo glorioso que diz a João, caído como morto: “Não temas” (Ap 1,13-17). Miguel, “vosso príncipe”, é venerado pela Igreja como protetor do povo de Deus no combate espiritual (Ap 12,7; Jd 9). A luta dos “príncipes” mostra que a história tem uma dimensão invisível (Ef 6,12).",
+    "moral": "A oração de Daniel foi ouvida “desde o primeiro dia”, mas a resposta demorou três semanas, por causa de um combate invisível. A demora de Deus não é indiferença. A penitência e a busca de compreensão abrem o coração à revelação. E quando a visão de Deus nos esmaga, ele mesmo toca, levanta e dá força: “Fala, porque me fortaleceste”.",
+    "anagogico": "O combate de Miguel contra os príncipes deste mundo terminará com a vitória final de Deus, quando o povo fiel for salvo (Dn 12,1)."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Daniel, homem predileto, não temas.” “Desde o primeiro dia em que aplicaste o teu coração a compreender e a humilhar-te… as tuas palavras foram ouvidas.” “A paz seja contigo! Tem vigor! Coragem!” “Fala, meu Senhor, porque me fortaleceste.”",
+    "lectio_resumo": "“Uma palavra verdadeira e anunciadora de grandes lutas.” “Fiz penitência durante três semanas.” “Uma mão me tocou e me fez levantar.” “Desde o primeiro dia… foram ouvidas as tuas palavras.” “Veio em meu socorro Miguel.” “Não temas, homem predilecto! A paz seja contigo! Tem vigor! Coragem!” “Fala, meu Senhor, porque me fortaleceste.”",
     "meditatio_perguntas": [
-      "Creio que a minha oração é ouvida desde o primeiro dia?",
-      "Deixo-me fortalecer pelo toque e pela palavra de Deus?",
-      "Vejo os combates espirituais por trás dos acontecimentos?"
+      "Persevero na oração quando a resposta demora?",
+      "Creio que há um combate espiritual por trás dos acontecimentos?",
+      "Deixo que Deus me toque e me levante quando desfaleço?"
     ],
-    "oratio_guia": "Senhor, que chamas Daniel de homem amado, toca-me e fortalece-me. Dize-me “não temas, a paz esteja contigo”, e eu responderei: Fala, Senhor, porque me fortaleceste. Amém.",
+    "oratio_guia": "Senhor, que ouves a minha oração desde o primeiro dia, toca-me e levanta-me quando desfaleço. Diz-me: não temas, a paz seja contigo. E que São Miguel me defenda no combate. Amém.",
     "contemplatio_foco": {
       "texto": "Não temas, homem predilecto (de Deus)! A paz seja contigo!",
       "ref": "Dn 10,19"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "10:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Príncipe do reino dos Persas”: o anjo ou poder espiritual ligado àquele império.",
+        "origem": "ia"
+      }
+    },
+    "10:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Miguel (“Quem como Deus?”), protetor de Israel; cf. Dn 12,1; Ap 12,7.",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }

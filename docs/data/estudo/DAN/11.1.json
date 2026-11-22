@@ -1,0 +1,57 @@
+{
+  "id": "DAN.11.1",
+  "livro": "DAN",
+  "titulo": "Os reis do Meio-dia e do Aquilão: o povo que conhece o seu Deus",
+  "secao": "As visões de Daniel",
+  "referencia": "Dn 11,1-45",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 45
+  },
+  "liturgia": {
+    "tema_central": "“O povo que conhece o seu Deus perseverará constante”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O mensageiro anuncia, em linguagem velada, a história que viria: os reis da Pérsia, “um rei forte” (Alexandre) cujo reino será “dividido pelos quatro ventos do céu”, e depois as longas guerras entre “o rei do Meio-dia” (os Ptolomeus do Egito) e “o rei do Aquilão” (os Selêucidas da Síria), com alianças, casamentos e traições: “sentados à mesma mesa, dirão palavras de mentira”. Por fim surge “um homem desprezível” (Antíoco IV Epífanes), que se apodera do reino “com enganos”, se volta contra “a santa aliança”, manda profanar o santuário, faz “cessar o sacrifício perpétuo” e põe no templo “a abominação da desolação”. “Perverterá os violadores da aliança, mas o povo, que conhece o seu Deus, perseverará constante.” “Os que forem doutos entre o povo, ensinarão a muitos”, mas cairão pela espada; “dos sábios cairão alguns para que sejam acrisolados, purificados e branqueados”. O rei “se engrandecerá contra todo o deus… até que a ira chegue ao cúmulo”; “chegará ao termo da sua vida, e ninguém lhe dará auxílio”.",
+    "alegorico": "Jesus retoma “a abominação da desolação” no discurso escatológico (Mt 24,15), e a figura do rei que se exalta contra Deus torna-se em Paulo o “homem da iniquidade” que “se eleva contra tudo o que se chama Deus” (2Ts 2,3-4). Os mártires do tempo dos Macabeus, “acrisolados e branqueados”, prefiguram os que “lavaram as suas vestes no sangue do Cordeiro” (Ap 7,14).",
+    "moral": "A história parece um jogo de poderosos que se enganam “à mesma mesa”. Mas Deus fixa os prazos (“até certo tempo”). Para o crente, a pergunta não é quem vence a guerra, mas se ele “conhece o seu Deus” e persevera. Há a tentação de ceder aos que oferecem honras e terras; e há o caminho dos “doutos” que ensinam a muitos, mesmo a preço de sofrimento. A perseguição purifica.",
+    "anagogico": "O perseguidor “chegará ao termo da sua vida, e ninguém lhe dará auxílio”: todo poder que se ergue contra Deus terá fim, e os fiéis serão salvos (Dn 12,1-3)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Sentados à mesma mesa, dirão palavras de mentira.” “O prazo é para outro tempo.” “Farão cessar o sacrifício perpétuo.” “O povo, que conhece o seu Deus, perseverará constante.” “Os que forem doutos entre o povo, ensinarão a muitos.” “Para que sejam acrisolados, purificados e branqueados.” “Ninguém lhe dará auxílio.”",
+    "meditatio_perguntas": [
+      "Conheço o meu Deus o suficiente para perseverar na prova?",
+      "Deixo-me seduzir pelas honras oferecidas a quem cede?",
+      "Ensino a outros o caminho da fé?"
+    ],
+    "oratio_guia": "Senhor da história, que fixas os tempos, faz-me conhecer-te para que eu persevere constante. Purifica-me na prova e dá-me ensinar a muitos o teu caminho. Amém.",
+    "contemplatio_foco": {
+      "texto": "o povo, que conhece o seu Deus, perseverará constante",
+      "ref": "Dn 11,32"
+    }
+  },
+  "ancoras": {
+    "11:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “homem desprezível” é Antíoco IV Epífanes (175-164 a.C.); cf. 1Mc 1.",
+        "origem": "ia"
+      }
+    },
+    "11:31": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Em 167 a.C., Antíoco ergueu um altar a Zeus no Templo; cf. 1Mc 1,54; Mt 24,15.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

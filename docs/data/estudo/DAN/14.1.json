@@ -1,40 +1,57 @@
 {
   "id": "DAN.14.1",
   "livro": "DAN",
-  "titulo": "Bel e o dragão",
+  "titulo": "Bel e as pegadas na cinza",
   "secao": "Susana, Bel e o dragão",
-  "referencia": "Dn 14,1-42",
+  "referencia": "Dn 14,1-21",
   "ini": {
     "c": 14,
     "v": 1
   },
   "fim": {
     "c": 14,
-    "v": 42
+    "v": 21
   },
   "liturgia": {
-    "tema_central": "O Deus vivo contra os falsos deuses: Bel e o dragão",
+    "tema_central": "“Eu adoro o Deus vivo”: as pegadas na cinza",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "O rei de Babilônia venera Bel, que parece comer diariamente grande quantidade de farinha, ovelhas e vinho. Daniel diz: “Eu adoro o Senhor meu Deus, porque ele é um Deus vivo”. Para provar a fraude, espalha cinza no chão do templo; de manhã aparecem as pegadas dos sacerdotes e das suas famílias, que entravam por uma porta secreta e comiam as ofertas. Bel é destruído. Depois, um grande dragão adorado como deus: Daniel o mata com bolos de pez, gordura e pelos. O povo se revolta; Daniel é lançado à cova dos leões por seis dias. O profeta Habacuc é levado por um anjo para lhe dar comida. No sétimo dia o rei o encontra vivo e exclama: “Tu és grande, Senhor Deus de Daniel!”",
-    "alegorico": "Daniel alimentado na cova pelo profeta enviado por Deus foi lido como figura da Eucaristia, alimento dado por Deus aos seus no meio da prova. O sétimo dia e a saída da cova evocam a Ressurreição.",
-    "moral": "A fé verdadeira desmascara as fraudes religiosas com inteligência e coragem. Deus não abandona os que o amam: alimenta-os na hora da prova, até por meios inesperados.",
-    "anagogico": "O reconhecimento final, “Não há outro Deus além de ti”, anuncia a confissão universal do Deus vivo no fim dos tempos."
+    "literal": "Daniel come à mesa do rei de Babilônia. Os babilônios adoram Bel, a quem oferecem todos os dias “doze artabes de flor de farinha, quarenta ovelhas e seis medidas de vinho”. O rei pergunta: “Por que não adoras Bel?” Daniel responde: “Porque eu não adoro os ídolos, que são feitos por mãos de homens, mas sim o Deus vivo, que criou o céu e a terra.” “Não vês o que ele come e bebe todos os dias?” “Daniel respondeu-lhe, sorrindo: Ó rei, não te iludas; esse ídolo é de barro por dentro, e de bronze por fora, e nunca comeu.” O rei faz uma prova: os alimentos são postos diante de Bel e a porta selada. Mas Daniel, às escondidas dos sacerdotes, espalha cinza por todo o templo. De noite os setenta sacerdotes, com mulheres e filhos, entram por uma passagem secreta e comem tudo. De manhã o rei exclama: “Tu és grande, ó Bel!”; mas Daniel ri: “Olha para este pavimento e considera de quem são estas pegadas.” Descoberto o engano, Bel e o seu templo são destruídos.",
+    "alegorico": "O relato, de tom quase humorístico, desmascara a idolatria: o ídolo não come, quem come são os que vivem dele. É a mesma denúncia dos profetas (Is 44; Jr 10) e de Paulo, que anuncia “o Deus vivo, que fez o céu e a terra” (At 14,15). Daniel prefigura Cristo, que revela a verdade e desmascara a mentira dos falsos cultos.",
+    "moral": "A fé não é credulidade: Daniel usa a inteligência (a cinza) para desmascarar o engano. O sorriso de Daniel diante da “grandeza” de Bel mostra a liberdade do crente diante dos ídolos que o mundo teme. Também hoje há “ídolos” mantidos por quem lucra com eles. Discernir, e não se deixar iludir, é virtude cristã.",
+    "anagogico": "Todos os ídolos cairão; só permanece o Deus vivo, criador do céu e da terra, que reinará para sempre."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Eu adoro o Senhor meu Deus, porque ele é um Deus vivo.” “Tu, ó Deus, te lembraste de mim, não desamparaste os que te amam.” “Tu és grande, ó Senhor Deus de Daniel! Não há outro Deus, além de ti!”",
+    "lectio_resumo": "“Por que não adoras Bel?” “Eu não adoro os ídolos, que são feitos por mãos de homens, mas sim o Deus vivo.” “Ó rei, não te iludas.” “É de barro por dentro, e de bronze por fora, e nunca comeu.” “Espalhou cinza por todo o templo.” “Considera de quem são estas pegadas.”",
     "meditatio_perguntas": [
-      "Distingo a fé verdadeira das fraudes religiosas?",
-      "Creio que Deus se lembra de mim na “cova”?",
-      "Recebo a Eucaristia como alimento na prova?"
+      "Que “Bel” de barro e bronze o mundo me pede para adorar?",
+      "Uso a inteligência para discernir os enganos?",
+      "Tenho a liberdade serena de sorrir diante dos ídolos?"
     ],
-    "oratio_guia": "Deus vivo, que não desamparas os que te amam, lembra-te de mim nas minhas covas e alimenta-me com o teu pão. Tu és grande, e não há outro Deus além de ti. Amém.",
+    "oratio_guia": "Senhor, Deus vivo que criaste o céu e a terra, só a ti adoro. Dá-me luz para descobrir as pegadas do engano e coragem para não me iludir com os ídolos. Amém.",
     "contemplatio_foco": {
-      "texto": "Tu, ó Deus, te lembraste de mim, não desamparaste os que te amam",
-      "ref": "Dn 14,37"
+      "texto": "Eu não adoro os ídolos, que são feitos por mãos de homens, mas sim o Deus vivo",
+      "ref": "Dn 14,4"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "14:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Dn 13-14 são deuterocanônicos (só no grego), aceites pela Igreja como Escritura (Concílio de Trento).",
+        "origem": "ia"
+      }
+    },
+    "14:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Bel: título de Marduk, deus de Babilônia; cf. Is 46,1; Jr 51,44.",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }

@@ -1,0 +1,57 @@
+{
+  "id": "DAN.14.22",
+  "livro": "DAN",
+  "titulo": "O dragão e Daniel na cova dos leões: Habacuc leva-lhe o alimento",
+  "secao": "Susana, Bel e o dragão",
+  "referencia": "Dn 14,22-42",
+  "ini": {
+    "c": 14,
+    "v": 22
+  },
+  "fim": {
+    "c": 14,
+    "v": 42
+  },
+  "liturgia": {
+    "tema_central": "“Tu, ó Deus, te lembraste de mim”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Há em Babilônia “um grande dragão” venerado. O rei diz a Daniel: “Ele vive, come e bebe… Adora-o, pois.” Daniel responde: “Eu adoro o Senhor meu Deus, porque ele é um Deus vivo; este não é um Deus vivo”, e mata o dragão “sem espada, nem vara”, com bolas de pez, gordura e pelos: “Eis o que adoráveis.” Os babilônios revoltam-se: “O rei tornou-se judeu!”, e exigem Daniel, que é lançado na cova de sete leões, sem alimento, durante seis dias. Na Judeia, o profeta Habacuc levava comida aos ceifeiros. O anjo do Senhor diz-lhe: “Leva a Babilônia essa refeição… a Daniel, que está na cova dos leões.” “Senhor, nunca vi Babilônia e não sei onde é a cova.” O anjo leva-o pelos cabelos até à cova. “Daniel, Daniel, servo de Deus, toma a refeição que Deus te mandou.” “Daniel disse: Tu, ó Deus, te lembraste de mim, não desamparaste os que te amam.” Ao sétimo dia, o rei vem chorar Daniel e encontra-o sentado: “Tu és grande, ó Senhor Deus de Daniel! Não há outro Deus, além de ti!”",
+    "alegorico": "Daniel lançado aos leões e tirado vivo ao sétimo dia foi visto pelos Padres como figura da morte e ressurreição de Cristo, e da Igreja perseguida que Deus guarda. O alimento levado por Habacuc ao faminto na cova foi lido como figura da Eucaristia, alimento que Deus envia aos seus no meio da prova. O dragão vencido “sem espada” anuncia a vitória de Cristo sobre a antiga serpente (Ap 12,9).",
+    "moral": "Daniel não tem medo de dizer “este não é um Deus vivo”, e paga por isso. Mas Deus não abandona: manda o alimento pela mão de um irmão, que nem sabia onde era Babilônia. Deus serve-se de nós, mesmo despreparados, para socorrer os outros. E a oração de Daniel é a mais simples: “Tu te lembraste de mim.” O que parece o fim (“veio para chorar Daniel”) torna-se testemunho.",
+    "anagogico": "“Ao sétimo dia” Daniel é encontrado vivo: o justo será tirado da cova da morte para a vida, e todos confessarão o Deus vivo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu adoro o Senhor meu Deus, porque ele é um Deus vivo.” “Eis o que adoráveis.” “Lançaram-no na cova dos leões.” “Senhor, nunca vi Babilônia.” “Toma a refeição que Deus te mandou.” “Tu, ó Deus, te lembraste de mim, não desamparaste os que te amam.” “Não há outro Deus, além de ti!”",
+    "meditatio_perguntas": [
+      "Tenho coragem de confessar o Deus vivo diante dos ídolos?",
+      "Deus pode servir-se de mim para levar “alimento” a quem está na cova?",
+      "Na prova, rezo: “Tu te lembraste de mim”?"
+    ],
+    "oratio_guia": "Senhor, Deus vivo, não desamparas os que te amam. Lembra-te de mim nas minhas covas de leões, envia-me o teu alimento, e faz de mim um Habacuc para os que sofrem. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tu, ó Deus, te lembraste de mim, não desamparaste os que te amam",
+      "ref": "Dn 14,37"
+    }
+  },
+  "ancoras": {
+    "14:32": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Habacuc: tradicionalmente identificado com o profeta do livro de Habacuc.",
+        "origem": "ia"
+      }
+    },
+    "14:31": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Episódio distinto de Dn 6, sob Ciro; ambos mostram a fidelidade de Deus ao justo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

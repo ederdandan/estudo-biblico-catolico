@@ -162,11 +162,25 @@
   },
   {
    "id": "DAN.10.1",
-   "titulo": "A visão final: os reis do norte e do sul",
+   "titulo": "O homem vestido de linho: não temas, homem predilecto",
    "secao": "As visões de Daniel",
-   "referencia": "Dn 10,1–11,45",
+   "referencia": "Dn 10,1-21",
    "ini": {
     "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 21
+   }
+  },
+  {
+   "id": "DAN.11.1",
+   "titulo": "Os reis do Meio-dia e do Aquilão: o povo que conhece o seu Deus",
+   "secao": "As visões de Daniel",
+   "referencia": "Dn 11,1-45",
+   "ini": {
+    "c": 11,
     "v": 1
    },
    "fim": {
@@ -204,12 +218,26 @@
   },
   {
    "id": "DAN.14.1",
-   "titulo": "Bel e o dragão",
+   "titulo": "Bel e as pegadas na cinza",
    "secao": "Susana, Bel e o dragão",
-   "referencia": "Dn 14,1-42",
+   "referencia": "Dn 14,1-21",
    "ini": {
     "c": 14,
     "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 21
+   }
+  },
+  {
+   "id": "DAN.14.22",
+   "titulo": "O dragão e Daniel na cova dos leões: Habacuc leva-lhe o alimento",
+   "secao": "Susana, Bel e o dragão",
+   "referencia": "Dn 14,22-42",
+   "ini": {
+    "c": 14,
+    "v": 22
    },
    "fim": {
     "c": 14,
