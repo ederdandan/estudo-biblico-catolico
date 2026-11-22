@@ -1,0 +1,471 @@
+{
+ "livro": "2CH",
+ "secoes": [
+  "Salomão e o Templo",
+  "Os reis de Judá"
+ ],
+ "pericopes": [
+  {
+   "id": "2CH.1.1",
+   "titulo": "Salomão pede sabedoria em Gabaon",
+   "secao": "Salomão e o Templo",
+   "referencia": "2Cr 1,1-17",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 17
+   }
+  },
+  {
+   "id": "2CH.2.1",
+   "titulo": "Os preparativos e a aliança com Hirão",
+   "secao": "Salomão e o Templo",
+   "referencia": "2Cr 2,1-18",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 18
+   }
+  },
+  {
+   "id": "2CH.3.1",
+   "titulo": "A construção do templo e dos seus utensílios",
+   "secao": "Salomão e o Templo",
+   "referencia": "2Cr 3,1–4,22",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 22
+   }
+  },
+  {
+   "id": "2CH.5.1",
+   "titulo": "A arca entra no templo e a glória o enche",
+   "secao": "Salomão e o Templo",
+   "referencia": "2Cr 5,1-14",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 14
+   }
+  },
+  {
+   "id": "2CH.6.1",
+   "titulo": "A oração de Salomão na dedicação",
+   "secao": "Salomão e o Templo",
+   "referencia": "2Cr 6,1-42",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 42
+   }
+  },
+  {
+   "id": "2CH.7.1",
+   "titulo": "O fogo do céu e a resposta do Senhor",
+   "secao": "Salomão e o Templo",
+   "referencia": "2Cr 7,1-22",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 22
+   }
+  },
+  {
+   "id": "2CH.8.1",
+   "titulo": "As obras de Salomão e o culto organizado",
+   "secao": "Salomão e o Templo",
+   "referencia": "2Cr 8,1-18",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 18
+   }
+  },
+  {
+   "id": "2CH.9.1",
+   "titulo": "A rainha de Sabá e a morte de Salomão",
+   "secao": "Salomão e o Templo",
+   "referencia": "2Cr 9,1-31",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 31
+   }
+  },
+  {
+   "id": "2CH.10.1",
+   "titulo": "A divisão do reino",
+   "secao": "Os reis de Judá",
+   "referencia": "2Cr 10,1-19",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 19
+   }
+  },
+  {
+   "id": "2CH.11.1",
+   "titulo": "Roboão: fortaleza, abandono e humilhação",
+   "secao": "Os reis de Judá",
+   "referencia": "2Cr 11,1–12,16",
+   "ini": {
+    "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 16
+   }
+  },
+  {
+   "id": "2CH.13.1",
+   "titulo": "Abias: “O capitão do nosso exército é Deus”",
+   "secao": "Os reis de Judá",
+   "referencia": "2Cr 13,1-22",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 22
+   }
+  },
+  {
+   "id": "2CH.14.1",
+   "titulo": "Asa: “Em ti confiamos”",
+   "secao": "Os reis de Judá",
+   "referencia": "2Cr 14,1-15",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 15
+   }
+  },
+  {
+   "id": "2CH.15.1",
+   "titulo": "A profecia de Azarias e a reforma de Asa",
+   "secao": "Os reis de Judá",
+   "referencia": "2Cr 15,1-19",
+   "ini": {
+    "c": 15,
+    "v": 1
+   },
+   "fim": {
+    "c": 15,
+    "v": 19
+   }
+  },
+  {
+   "id": "2CH.16.1",
+   "titulo": "Asa confia nos homens e não no Senhor",
+   "secao": "Os reis de Judá",
+   "referencia": "2Cr 16,1-14",
+   "ini": {
+    "c": 16,
+    "v": 1
+   },
+   "fim": {
+    "c": 16,
+    "v": 14
+   }
+  },
+  {
+   "id": "2CH.17.1",
+   "titulo": "Josafá e o ensino da Lei pelas cidades",
+   "secao": "Os reis de Judá",
+   "referencia": "2Cr 17,1-19",
+   "ini": {
+    "c": 17,
+    "v": 1
+   },
+   "fim": {
+    "c": 17,
+    "v": 19
+   }
+  },
+  {
+   "id": "2CH.18.1",
+   "titulo": "Miqueias diante de Acab e Josafá",
+   "secao": "Os reis de Judá",
+   "referencia": "2Cr 18,1–19,3",
+   "ini": {
+    "c": 18,
+    "v": 1
+   },
+   "fim": {
+    "c": 19,
+    "v": 3
+   }
+  },
+  {
+   "id": "2CH.19.4",
+   "titulo": "Josafá estabelece juízes: “não exerceis a justiça de um homem”",
+   "secao": "Os reis de Judá",
+   "referencia": "2Cr 19,4-11",
+   "ini": {
+    "c": 19,
+    "v": 4
+   },
+   "fim": {
+    "c": 19,
+    "v": 11
+   }
+  },
+  {
+   "id": "2CH.20.1",
+   "titulo": "“Não é vossa a peleja, mas de Deus”",
+   "secao": "Os reis de Judá",
+   "referencia": "2Cr 20,1-37",
+   "ini": {
+    "c": 20,
+    "v": 1
+   },
+   "fim": {
+    "c": 20,
+    "v": 37
+   }
+  },
+  {
+   "id": "2CH.21.1",
+   "titulo": "Jorão e a lâmpada de Davi",
+   "secao": "Os reis de Judá",
+   "referencia": "2Cr 21,1-20",
+   "ini": {
+    "c": 21,
+    "v": 1
+   },
+   "fim": {
+    "c": 21,
+    "v": 20
+   }
+  },
+  {
+   "id": "2CH.22.1",
+   "titulo": "Atalia e o menino Joás escondido no templo",
+   "secao": "Os reis de Judá",
+   "referencia": "2Cr 22,1–23,21",
+   "ini": {
+    "c": 22,
+    "v": 1
+   },
+   "fim": {
+    "c": 23,
+    "v": 21
+   }
+  },
+  {
+   "id": "2CH.24.1",
+   "titulo": "Joás e o martírio de Zacarias",
+   "secao": "Os reis de Judá",
+   "referencia": "2Cr 24,1-27",
+   "ini": {
+    "c": 24,
+    "v": 1
+   },
+   "fim": {
+    "c": 24,
+    "v": 27
+   }
+  },
+  {
+   "id": "2CH.25.1",
+   "titulo": "Amasias: um coração não perfeito",
+   "secao": "Os reis de Judá",
+   "referencia": "2Cr 25,1-28",
+   "ini": {
+    "c": 25,
+    "v": 1
+   },
+   "fim": {
+    "c": 25,
+    "v": 28
+   }
+  },
+  {
+   "id": "2CH.26.1",
+   "titulo": "Ozias: a glória, o orgulho e a lepra",
+   "secao": "Os reis de Judá",
+   "referencia": "2Cr 26,1-23",
+   "ini": {
+    "c": 26,
+    "v": 1
+   },
+   "fim": {
+    "c": 26,
+    "v": 23
+   }
+  },
+  {
+   "id": "2CH.27.1",
+   "titulo": "Joatão conduz-se firmemente nos caminhos do Senhor",
+   "secao": "Os reis de Judá",
+   "referencia": "2Cr 27,1-9",
+   "ini": {
+    "c": 27,
+    "v": 1
+   },
+   "fim": {
+    "c": 27,
+    "v": 9
+   }
+  },
+  {
+   "id": "2CH.28.1",
+   "titulo": "Acaz e a compaixão dos de Samaria",
+   "secao": "Os reis de Judá",
+   "referencia": "2Cr 28,1-27",
+   "ini": {
+    "c": 28,
+    "v": 1
+   },
+   "fim": {
+    "c": 28,
+    "v": 27
+   }
+  },
+  {
+   "id": "2CH.29.1",
+   "titulo": "Ezequias purifica o templo",
+   "secao": "Os reis de Judá",
+   "referencia": "2Cr 29,1-36",
+   "ini": {
+    "c": 29,
+    "v": 1
+   },
+   "fim": {
+    "c": 29,
+    "v": 36
+   }
+  },
+  {
+   "id": "2CH.30.1",
+   "titulo": "A grande Páscoa de Ezequias",
+   "secao": "Os reis de Judá",
+   "referencia": "2Cr 30,1-27",
+   "ini": {
+    "c": 30,
+    "v": 1
+   },
+   "fim": {
+    "c": 30,
+    "v": 27
+   }
+  },
+  {
+   "id": "2CH.31.1",
+   "titulo": "A reforma e a generosidade do povo",
+   "secao": "Os reis de Judá",
+   "referencia": "2Cr 31,1-21",
+   "ini": {
+    "c": 31,
+    "v": 1
+   },
+   "fim": {
+    "c": 31,
+    "v": 21
+   }
+  },
+  {
+   "id": "2CH.32.1",
+   "titulo": "Senaquerib, a doença e o orgulho de Ezequias",
+   "secao": "Os reis de Judá",
+   "referencia": "2Cr 32,1-33",
+   "ini": {
+    "c": 32,
+    "v": 1
+   },
+   "fim": {
+    "c": 32,
+    "v": 33
+   }
+  },
+  {
+   "id": "2CH.33.1",
+   "titulo": "A conversão de Manassés",
+   "secao": "Os reis de Judá",
+   "referencia": "2Cr 33,1-25",
+   "ini": {
+    "c": 33,
+    "v": 1
+   },
+   "fim": {
+    "c": 33,
+    "v": 25
+   }
+  },
+  {
+   "id": "2CH.34.1",
+   "titulo": "Josias e o livro da Lei",
+   "secao": "Os reis de Judá",
+   "referencia": "2Cr 34,1-33",
+   "ini": {
+    "c": 34,
+    "v": 1
+   },
+   "fim": {
+    "c": 34,
+    "v": 33
+   }
+  },
+  {
+   "id": "2CH.35.1",
+   "titulo": "A Páscoa de Josias e a sua morte",
+   "secao": "Os reis de Judá",
+   "referencia": "2Cr 35,1-27",
+   "ini": {
+    "c": 35,
+    "v": 1
+   },
+   "fim": {
+    "c": 35,
+    "v": 27
+   }
+  },
+  {
+   "id": "2CH.36.1",
+   "titulo": "A queda de Jerusalém e o edito de Ciro",
+   "secao": "Os reis de Judá",
+   "referencia": "2Cr 36,1-23",
+   "ini": {
+    "c": 36,
+    "v": 1
+   },
+   "fim": {
+    "c": 36,
+    "v": 23
+   }
+  }
+ ]
+}

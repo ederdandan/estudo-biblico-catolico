@@ -1,0 +1,57 @@
+{
+  "id": "2CH.35.1",
+  "livro": "2CH",
+  "titulo": "A Páscoa de Josias e a sua morte",
+  "secao": "Os reis de Judá",
+  "referencia": "2Cr 35,1-27",
+  "ini": {
+    "c": 35,
+    "v": 1
+  },
+  "fim": {
+    "c": 35,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "A Páscoa de Josias e a sua morte em Meguido",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Josias celebrou em Jerusalém a Páscoa do Senhor… no décimo quarto dia do primeiro mês.” Estabelece os sacerdotes e diz aos levitas: “Ponde a arca no santuário… não tereis mais de a transportar. Agora servi ao Senhor vosso Deus e ao seu povo de Israel… Depois de santificados, imolai a Páscoa e disponde também vossos irmãos.” O rei e os chefes dão milhares de cordeiros e bois para o povo; os levitas preparam a Páscoa também para os sacerdotes e cantores, que não podem deixar os seus postos. “Não houve Páscoa semelhante a esta em Israel, desde o tempo do profeta Samuel.” Depois, Necao, rei do Egito, passa para combater em Carquemis; Josias sai contra ele. Necao manda dizer: “Não venho contra ti… cessa, pois, de te opores aos desígnios de Deus, o qual é comigo.” Mas Josias “não esteve pelo que Necau lhe disse da parte de Deus”, e combate no campo de Meguido. Ferido pelos arqueiros, é levado a Jerusalém e morre. “Todos os habitantes de Judá e Jerusalém o prantearam, sobretudo Jeremias”, cujas lamentações sobre Josias se cantavam até então.",
+    "alegorico": "A Páscoa celebrada “segundo o que o Senhor ordenou por meio de Moisés” prepara a Páscoa de Cristo, o Cordeiro imolado. A morte do rei justo em Meguido (Armagedon, Ap 16,16) e o grande pranto que se segue são lembrados em Zacarias: “olharão para aquele que traspassaram… será grande o pranto em Jerusalém, como o pranto… no campo de Meguido” (Zc 12,10-11), aplicado à cruz (Jo 19,37).",
+    "moral": "O serviço dos levitas é para Deus e “para o seu povo”: servem até os que não podem deixar o posto. Mas o rei santo morre por não discernir a voz de Deus num estrangeiro. Nem os santos estão livres do erro; é preciso discernimento mesmo quando Deus fala por quem não esperamos.",
+    "anagogico": "O pranto por Josias aponta para o pranto que se transformará em alegria, quando contemplarmos o Traspassado ressuscitado."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Josias celebrou em Jerusalém a Páscoa do Senhor.” “Agora servi ao Senhor vosso Deus e ao seu povo de Israel.” “Disponde também vossos irmãos.” “Não houve Páscoa semelhante a esta.” “Cessa, pois, de te opores aos desígnios de Deus.” “Não esteve pelo que Necau lhe disse da parte de Deus.” “Todos… o prantearam.”",
+    "meditatio_perguntas": [
+      "Sirvo a Deus servindo o seu povo?",
+      "Sei reconhecer a voz de Deus vinda de onde não espero?",
+      "Preparo os outros para celebrar a Páscoa?"
+    ],
+    "oratio_guia": "Senhor, que recebeste a Páscoa de Josias, prepara-nos para celebrar a Páscoa do teu Filho. Dá-me discernimento para reconhecer a tua voz, mesmo nos lábios inesperados. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não houve Páscoa semelhante a esta em Israel, desde o tempo do profeta Samuel",
+      "ref": "2Cr 35,18"
+    }
+  },
+  "ancoras": {
+    "35:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Meguido, no vale de Jezrael; em hebraico Har-Meguido, “Armagedon” (Ap 16,16).",
+        "origem": "ia"
+      }
+    },
+    "35:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As lamentações de Jeremias sobre Josias não são o livro das Lamentações que conhecemos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2CH.10.1",
+  "livro": "2CH",
+  "titulo": "A divisão do reino",
+  "secao": "Os reis de Judá",
+  "referencia": "2Cr 10,1-19",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "O conselho dos anciãos e o conselho dos jovens",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Roboão vai a Siquém para ser feito rei, e Jeroboão, de volta do Egito, vem com todo Israel: “Teu pai oprimiu-nos com um jugo duríssimo… alivia-nos um pouco a carga, e nós seremos teus servos.” Roboão pede três dias e consulta os anciãos que serviram Salomão: “Se contentares este povo, e se o atenderes com palavras doces, eles te servirão para sempre.” Mas ele “abandonou o conselho dos anciães”, e consulta os jovens criados com ele, que respondem “como jovens e como criados com ele nas delícias”: “O meu dedo mendinho é mais grosso do que as costas de meu pai… meu pai castigou-vos com açoites, eu castigar-vos-ei com escorpiões.” Ao terceiro dia o rei responde com dureza. “O rei não condescendeu com as súplicas do povo, porque era da vontade de Deus que se cumprisse a palavra” dita por Aías a Jeroboão. O povo grita: “Não temos parte com Davide… Volta, Israel, para as tuas tendas.” As tribos do norte se separam, e Roboão reina só sobre Judá.",
+    "alegorico": "Ao contrário de Roboão, Cristo diz: “Vinde a mim, todos os que estais cansados e oprimidos… o meu jugo é suave e o meu fardo é leve” (Mt 11,28-30). O rei que aumenta o jugo é a imagem do poder que domina; Jesus ensina: “quem quiser ser o maior entre vós seja o vosso servo” (Mt 20,26).",
+    "moral": "Os anciãos dão um conselho de sabedoria: quem serve o povo com palavras doces será servido para sempre. Roboão prefere ouvir quem lhe diz o que quer ouvir. A arrogância divide o que levou gerações a unir. Saber escolher os conselheiros e escutar a experiência dos mais velhos é parte da sabedoria.",
+    "anagogico": "O reino dividido pela dureza aponta, por contraste, para a reunião final de todos sob o único Pastor, quando haverá “um só rebanho” (Jo 10,16)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Alivia-nos um pouco a carga, e nós seremos teus servos.” “Se o atenderes com palavras doces, eles te servirão para sempre.” “Abandonou o conselho dos anciães.” “Responderam como jovens… criados com ele nas delícias.” “Eu castigar-vos-ei com escorpiões.” “Volta, Israel, para as tuas tendas.”",
+    "meditatio_perguntas": [
+      "De quem ouço conselho: dos sábios ou dos que me agradam?",
+      "Uso a autoridade que tenho para aliviar ou para pesar sobre os outros?",
+      "Valorizo a experiência dos mais velhos?"
+    ],
+    "oratio_guia": "Senhor Jesus, cujo jugo é suave, livra-me da dureza e da arrogância. Dá-me escutar os conselhos sábios e servir com palavras doces os que me foram confiados. Amém.",
+    "contemplatio_foco": {
+      "texto": "Se contentares este povo, e se o atenderes com palavras doces, eles te servirão para sempre",
+      "ref": "2Cr 10,7"
+    }
+  },
+  "ancoras": {
+    "10:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 1Rs 11,29-39: a profecia de Aías, que o cronista supõe conhecida.",
+        "origem": "ia"
+      }
+    },
+    "10:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 1Rs 12,16; 2Sm 20,1.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

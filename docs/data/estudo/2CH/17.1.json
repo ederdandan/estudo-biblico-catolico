@@ -1,0 +1,49 @@
+{
+  "id": "2CH.17.1",
+  "livro": "2CH",
+  "titulo": "Josafá e o ensino da Lei pelas cidades",
+  "secao": "Os reis de Judá",
+  "referencia": "2Cr 17,1-19",
+  "ini": {
+    "c": 17,
+    "v": 1
+  },
+  "fim": {
+    "c": 17,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "Josafá envia mestres com o livro da Lei",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Josafá, filho de Asa, fortifica Judá. “O Senhor foi com Josafat, porque andou pelos caminhos de Davide, seu pai, e não pôs a sua confiança nos ídolos, mas sim no Deus de seu pai.” “Tendo o seu coração tomado coragem nos caminhos do Senhor”, destrói os lugares altos. “No terceiro ano do seu reinado, enviou alguns dos seus príncipes… para ensinarem nas cidades de Judá”, com levitas e sacerdotes. “Eles instruíam o povo de Judá, levando consigo o livro da lei do Senhor; percorreram todas as cidades de Judá, a instruir o povo.” O temor do Senhor cai sobre os reinos vizinhos, e até filisteus e árabes lhe trazem presentes. Josafá se torna muito poderoso e organiza um grande exército.",
+    "alegorico": "A missão de príncipes, levitas e sacerdotes que percorrem as cidades com o livro da Lei anuncia a missão dos apóstolos e discípulos, enviados “dois a dois, a todas as cidades” (Lc 10,1), e a catequese da Igreja: “ide e ensinai todas as nações” (Mt 28,19).",
+    "moral": "Josafá entende que a reforma não se faz só destruindo ídolos, mas ensinando: a fé precisa de formação. Ele envia leigos (os príncipes) junto com levitas e sacerdotes: a catequese é tarefa de todos. E o “coração que toma coragem nos caminhos do Senhor” é o de quem não se contenta com o mínimo.",
+    "anagogico": "O povo instruído na Lei caminha para o dia em que “todos serão ensinados por Deus” (Jo 6,45) e o conhecerão sem precisar de mestres (Jr 31,34)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor foi com Josafat, porque andou pelos caminhos de Davide.” “Tendo o seu coração tomado coragem nos caminhos do Senhor.” “Para ensinarem nas cidades de Judá.” “Levando consigo o livro da lei do Senhor.” “Percorreram todas as cidades de Judá, a instruir o povo.”",
+    "meditatio_perguntas": [
+      "Procuro formar-me na fé, conhecendo a Palavra de Deus?",
+      "Participo, de algum modo, da missão de ensinar a fé?",
+      "O meu coração “toma coragem” nos caminhos do Senhor?"
+    ],
+    "oratio_guia": "Senhor, que enviaste mestres com o livro da tua Lei, envia hoje operários à tua messe e faz de mim também um anunciador da tua Palavra. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eles instruíam o povo de Judá, levando consigo o livro da lei do Senhor",
+      "ref": "2Cr 17,9"
+    }
+  },
+  "ancoras": {
+    "17:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os enviados incluem príncipes (leigos), levitas e sacerdotes.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

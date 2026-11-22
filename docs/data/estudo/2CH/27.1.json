@@ -1,0 +1,49 @@
+{
+  "id": "2CH.27.1",
+  "livro": "2CH",
+  "titulo": "Joatão conduz-se firmemente nos caminhos do Senhor",
+  "secao": "Os reis de Judá",
+  "referencia": "2Cr 27,1-9",
+  "ini": {
+    "c": 27,
+    "v": 1
+  },
+  "fim": {
+    "c": 27,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "Joatão: “conduzia-se firmemente nos caminhos do Senhor”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Joatão começa a reinar aos vinte e cinco anos e reina dezesseis anos em Jerusalém. “Ele fez o que era recto diante do Senhor, seguindo tudo o que tinha feito Ozias, seu pai, excepto que não entrou no templo do Senhor. Todavia o povo continuou a delinquir.” Constrói a porta alta do templo, muros e cidades, fortalezas e torres. Vence os amonitas, que lhe pagam tributo por três anos. “Joatão tornou-se poderoso, porque se conduzia firmemente nos caminhos do Senhor seu Deus.” Morre e é sepultado na cidade de Davi; Acaz, seu filho, reina em seu lugar.",
+    "alegorico": "Joatão aprende com o erro do pai: imita o bem e evita o pecado. É figura do discípulo que segue Cristo e cresce “em sabedoria e graça” (Lc 2,52). O seu reinado breve e reto lembra que a fidelidade não precisa de muito barulho.",
+    "moral": "Joatão sabe aprender com a história do pai: imitar o bom, não repetir o mal. A sua força vem de uma decisão: dirigir os passos com firmeza nos caminhos do Senhor. Não basta começar bem; é preciso perseverar. Mas a santidade do rei não garante a do povo, que “continuou a delinquir”: cada um responde por si.",
+    "anagogico": "Quem caminha com firmeza nos caminhos do Senhor chega ao fim do caminho, onde a fidelidade é coroada."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ele fez o que era recto diante do Senhor.” “Excepto que não entrou no templo do Senhor.” “Joatão tornou-se poderoso.” “Porque se conduzia firmemente nos caminhos do Senhor seu Deus.”",
+    "meditatio_perguntas": [
+      "Aprendo com os erros e acertos dos que me precederam?",
+      "Caminho com firmeza ou com hesitação nos caminhos do Senhor?",
+      "Persevero no bem mesmo quando os outros não o fazem?"
+    ],
+    "oratio_guia": "Senhor, dá-me firmeza nos teus caminhos, sabedoria para aprender com a história e perseverança no bem, mesmo quando o povo ao meu redor se desvia. Amém.",
+    "contemplatio_foco": {
+      "texto": "Joatão tornou-se poderoso, porque se conduzia firmemente nos caminhos do Senhor seu Deus",
+      "ref": "2Cr 27,6"
+    }
+  },
+  "ancoras": {
+    "27:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Não entrou no templo”: não repetiu a usurpação sacerdotal de Ozias (26,16).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

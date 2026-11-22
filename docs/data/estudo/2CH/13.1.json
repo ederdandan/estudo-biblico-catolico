@@ -1,0 +1,57 @@
+{
+  "id": "2CH.13.1",
+  "livro": "2CH",
+  "titulo": "Abias: “O capitão do nosso exército é Deus”",
+  "secao": "Os reis de Judá",
+  "referencia": "2Cr 13,1-22",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "“O capitão do nosso exército é Deus”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Abias, filho de Roboão, reina em Judá e há guerra contra Jeroboão. Antes da batalha, Abias sobe ao monte Semeron e fala: “Ouvi-me, Jeroboão e todo o Israel: Porventura ignorais vós que o Senhor Deus de Israel deu para sempre a Davide e aos seus descendentes a soberania sobre Israel por um pacto inviolável?” Acusa Israel de ter expulsado os sacerdotes e feito sacerdotes de ídolos. “Para nós o Senhor é Deus, a quem não deixamos… Cada dia, de manhã e de tarde, oferecem holocaustos… porque nós guardamos os preceitos do Senhor nosso Deus, a quem vós abandonastes. Por isso o capitão do nosso exército é Deus… Filhos de Israel, não queirais combater contra o Senhor Deus de vossos pais.” Jeroboão prepara uma emboscada, e Judá se vê cercado pela frente e por trás; “clamou ao Senhor, e os sacerdotes começaram a tocar as trombetas”. Deus põe Israel em fuga. “Os filhos de Judá cobraram grandíssimo alento, porque tinham esperado no Senhor Deus de seus pais.”",
+    "alegorico": "Abias proclama a fidelidade à aliança com Davi e ao culto legítimo: figura da Igreja que guarda a fé apostólica e o sacrifício. “O capitão do nosso exército é Deus”: Cristo é o “autor da salvação” que conduz os filhos à glória (Hb 2,10).",
+    "moral": "Cercados pela frente e por trás, os de Judá não se desesperam: clamam ao Senhor. A esperança em Deus é a força dos pequenos. E Abias lembra que é inútil lutar contra Deus. O culto fiel de cada dia, de manhã e de tarde, é a base da confiança na hora da prova.",
+    "anagogico": "A vitória de quem “esperou no Senhor” anuncia a vitória final dos que perseveram na esperança até o fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Por um pacto inviolável.” “Para nós o Senhor é Deus, a quem não deixamos.” “O capitão do nosso exército é Deus.” “Não queirais combater contra o Senhor Deus de vossos pais.” “Clamou ao Senhor.” “Porque tinham esperado no Senhor Deus de seus pais.”",
+    "meditatio_perguntas": [
+      "Quando me vejo cercado, clamo ao Senhor?",
+      "Posso dizer com verdade: “o Senhor é o meu Deus, e eu não o deixei”?",
+      "Combato, sem saber, contra Deus em algum ponto da minha vida?"
+    ],
+    "oratio_guia": "Senhor, capitão do meu combate, não te deixo. Quando me vejo cercado, clamo a ti: sê a minha força e a minha esperança. Amém.",
+    "contemplatio_foco": {
+      "texto": "Por isso o capitão do nosso exército é Deus",
+      "ref": "2Cr 13,12"
+    }
+  },
+  "ancoras": {
+    "13:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Em 1Rs 15,3 Abias (Abiam) é julgado negativamente; o cronista destaca o seu discurso de fidelidade.",
+        "origem": "ia"
+      }
+    },
+    "13:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Pacto inviolável”: literalmente “aliança de sal” (cf. Nm 18,19).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

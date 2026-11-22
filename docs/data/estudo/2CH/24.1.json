@@ -1,0 +1,57 @@
+{
+  "id": "2CH.24.1",
+  "livro": "2CH",
+  "titulo": "Joás e o martírio de Zacarias",
+  "secao": "Os reis de Judá",
+  "referencia": "2Cr 24,1-27",
+  "ini": {
+    "c": 24,
+    "v": 1
+  },
+  "fim": {
+    "c": 24,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "Joás e o martírio de Zacarias: “O Senhor veja e faça justiça”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Joás tem sete anos quando começa a reinar. “Fez o que era bom aos olhos do Senhor todo o tempo que viveu o pontífice Jojada.” Decide restaurar o templo; como os levitas tardam, manda pôr uma caixa à porta do templo, e o povo e os chefes trazem ofertas com alegria, até a obra ficar concluída. Jojada morre com cento e trinta anos e é sepultado entre os reis, “por ter feito bem a Israel”. “Depois que Jojada morreu, entraram os príncipes de Judá e prestaram grandes obséquios ao rei, o qual, atraído pelas suas lisonjas, se deixou levar por eles.” Abandonam o templo e servem os ídolos. Deus envia profetas, mas não os ouvem. “O espírito de Deus desceu sobre o sumo sacerdote Zacarias, filho de Jojada”, que diz: “Porque violais vós os preceitos do Senhor?… porque abandonastes o Senhor, também ele vos abandonará.” “Eles, congregando-se contra ele, apedrejaram-no no átrio da casa do Senhor, conforme a ordem do rei. O rei Joás não se lembrou da misericórdia que Jojada… tinha usado com ele, mas matou-lhe seu filho, o qual, quando expirava, disse: O Senhor veja e faça justiça.” Um pequeno exército sírio vence Judá, e Joás é assassinado pelos próprios servos.",
+    "alegorico": "Jesus menciona este martírio: “desde o sangue de Abel até ao sangue de Zacarias… que matastes entre o templo e o altar” (Mt 23,35). Como Crônicas é o último livro da Bíblia hebraica, Abel e Zacarias são o primeiro e o último mártires da Escritura. Estêvão, apedrejado, reza ao contrário: “Senhor, não lhes imputes este pecado” (At 7,60), como Cristo na cruz: o sangue de Jesus “fala melhor do que o de Abel” (Hb 12,24).",
+    "moral": "Joás foi bom enquanto teve um bom guia; sem ele, cedeu às lisonjas. Uma fé apoiada só em outra pessoa não resiste. E a ingratidão chega ao extremo: mata o filho do homem que lhe salvou a vida. A lisonja é veneno para quem tem poder. A lição pede convicções pessoais e gratidão memoriosa.",
+    "anagogico": "“O Senhor veja e faça justiça”: o clamor dos mártires sobe até Deus (Ap 6,10), e no fim a justiça será feita; mas o sangue de Cristo transforma o pedido de justiça em perdão."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Todo o tempo que viveu o pontífice Jojada.” “Por ter feito bem a Israel.” “Atraído pelas suas lisonjas, se deixou levar por eles.” “O Senhor enviava-lhes profetas.” “Porque abandonastes o Senhor, também ele vos abandonará.” “Não se lembrou da misericórdia.” “O Senhor veja e faça justiça.”",
+    "meditatio_perguntas": [
+      "A minha fé tem raízes próprias, ou depende só de quem me sustenta?",
+      "Deixo-me levar pela lisonja?",
+      "Lembro-me com gratidão de quem me fez bem?"
+    ],
+    "oratio_guia": "Senhor, dá-me uma fé com raízes próprias, que não dependa da presença dos outros nem ceda à lisonja. Guarda-me grato a quem me fez bem, e dá-me perdoar como teu Filho perdoou. Amém.",
+    "contemplatio_foco": {
+      "texto": "O rei Joás não se lembrou da misericórdia que Jojada, pai de Zacarias, tinha usado com ele",
+      "ref": "2Cr 24,22"
+    }
+  },
+  "ancoras": {
+    "24:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em Mt 23,35 e Lc 11,51 (Mateus o chama “filho de Baraquias”, talvez por confusão com o profeta Zacarias).",
+        "origem": "ia"
+      }
+    },
+    "24:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A caixa das ofertas: cf. 2Rs 12,9; Mc 12,41.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

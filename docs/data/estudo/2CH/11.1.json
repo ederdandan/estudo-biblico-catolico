@@ -1,0 +1,57 @@
+{
+  "id": "2CH.11.1",
+  "livro": "2CH",
+  "titulo": "Roboão: fortaleza, abandono e humilhação",
+  "secao": "Os reis de Judá",
+  "referencia": "2Cr 11,1–12,16",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "Os que resolveram no coração seguir o Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Roboão reúne um exército para reconquistar Israel, mas o profeta Semeias lhe diz da parte do Senhor: “Não marchareis, nem pelejareis contra vossos irmãos”, e eles obedecem. Roboão fortifica cidades em Judá. “Os sacerdotes e Levitas, que havia em todo o Israel, foram para ele… deixando as suas terras e as suas propriedades”, porque Jeroboão os expulsara e fizera sacerdotes para os ídolos. “Também de todas as tribos de Israel, todos aqueles que tinham resolvido em seu coração seguir o Senhor Deus de Israel, foram a Jerusalém.” Por três anos Judá anda no caminho de Davi. Mas “quando o reino de Roboão estava bem estabelecido e consolidado, ele abandonou a lei do Senhor”. No quinto ano, Sesac, rei do Egito, sobe contra Jerusalém. O profeta Semeias diz: “Vós desamparastes-me, e eu vos desamparei também.” O rei e os chefes se humilham: “O Senhor é justo.” Deus responde: “Visto que eles se humilharam, não os perderei… Todavia ficar-lhe-ão sujeitos, para conhecerem a diferença que há entre o servir-me a mim, e o servir os reis da terra.” Sesac leva os tesouros do templo e os escudos de ouro, que Roboão substitui por escudos de bronze. “Ele fez o mal, não dispondo o seu coração para buscar o Senhor.”",
+    "alegorico": "Os sacerdotes e fiéis que deixam tudo para seguir o Senhor em Jerusalém lembram os discípulos que “deixaram tudo e o seguiram” (Lc 5,11). Os escudos de ouro substituídos por bronze são imagem de uma fé que conserva a aparência, mas perdeu o brilho.",
+    "moral": "O texto mostra uma lei espiritual: a prosperidade leva Roboão a esquecer a Deus; a humilhação o reconduz. A frase final resume o seu problema: não dispôs o coração para buscar o Senhor. E Deus ensina, através da sujeição, “a diferença entre servir a Deus e servir os reis da terra”: o jugo de Deus liberta, o dos homens escraviza.",
+    "anagogico": "Os que “resolveram em seu coração seguir o Senhor” formam o resto fiel que caminha para a Jerusalém celeste."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não marchareis, nem pelejareis contra vossos irmãos.” “Deixando as suas terras e as suas propriedades.” “Tinham resolvido em seu coração seguir o Senhor.” “Quando o reino… estava bem estabelecido… ele abandonou a lei do Senhor.” “O Senhor é justo.” “A diferença que há entre o servir-me a mim, e o servir os reis da terra.” “Não dispondo o seu coração para buscar o Senhor.”",
+    "meditatio_perguntas": [
+      "Resolvi no meu coração seguir o Senhor, custe o que custar?",
+      "A prosperidade me afasta de Deus?",
+      "Experimentei a diferença entre servir a Deus e servir outros senhores?"
+    ],
+    "oratio_guia": "Senhor, dispõe o meu coração para te buscar sempre, na prosperidade e na humilhação. Que eu aprenda que servir-te é liberdade. Amém.",
+    "contemplatio_foco": {
+      "texto": "para conhecerem a diferença que há entre o servir-me a mim, e o servir os reis da terra",
+      "ref": "2Cr 12,8"
+    }
+  },
+  "ancoras": {
+    "12:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Sesac é o faraó Sheshonq I, que fez uma campanha na Palestina por volta de 925 a.C., registrada em Karnak.",
+        "origem": "ia"
+      }
+    },
+    "12:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 1Rs 14,25-28.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

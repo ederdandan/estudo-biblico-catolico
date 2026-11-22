@@ -1,0 +1,49 @@
+{
+  "id": "2CH.14.1",
+  "livro": "2CH",
+  "titulo": "Asa: “Em ti confiamos”",
+  "secao": "Os reis de Judá",
+  "referencia": "2Cr 14,1-15",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "“Não há diferença para ti entre socorrer o fraco ou o forte”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Asa fez o que era justo e agradável aos olhos do seu Deus.” Destrói os altares estranhos, quebra as estátuas, “e ordenou a Judá que buscasse o Senhor Deus de seus pais”. Há paz, e Asa fortifica as cidades: “porque buscamos o Senhor Deus de nossos pais, e ele nos deu paz com os povos vizinhos”. Então Zara, o etíope, avança com um exército imenso. Asa sai ao seu encontro e invoca o Senhor: “Senhor, não há diferença alguma para ti entre o socorrer o fraco ou o forte; socorre-nos, pois, Senhor nosso Deus, porque, confiados em ti e no teu nome, viemos contra esta multidão. Senhor, tu és o nosso Deus, não prevaleça o homem contra ti.” O Senhor desbarata os etíopes, e Judá volta com grandes despojos.",
+    "alegorico": "A oração de Asa ecoa no Magnificat: Deus “derrubou os poderosos dos seus tronos e exaltou os humildes” (Lc 1,52). E Paulo: “Deus escolheu as coisas fracas do mundo para confundir as fortes” (1Cor 1,27).",
+    "moral": "Asa aproveita o tempo de paz para se preparar; mas, na hora da prova, não confia nas fortalezas, e sim em Deus. A sua oração ensina que, para Deus, o número e a força não contam. “Não prevaleça o homem contra ti”: Asa entrega a sua causa como causa de Deus.",
+    "anagogico": "“Tu és o nosso Deus”: a confiança de Asa aponta para a vitória final, em que o fraco que confia em Deus prevalecerá sobre toda força contrária."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Fez o que era justo e agradável aos olhos do seu Deus.” “Ordenou a Judá que buscasse o Senhor.” “Ele nos deu paz.” “Não há diferença alguma para ti entre o socorrer o fraco ou o forte.” “Confiados em ti e no teu nome.” “Não prevaleça o homem contra ti.”",
+    "meditatio_perguntas": [
+      "Aproveito os tempos de paz para fortalecer a minha vida espiritual?",
+      "Diante de uma “multidão” de problemas, confio em Deus ou só nas minhas forças?",
+      "Entrego a Deus as minhas lutas como causa dele?"
+    ],
+    "oratio_guia": "Senhor, para ti não há diferença entre socorrer o fraco ou o forte. Socorre-me, porque confio em ti e no teu nome. Tu és o meu Deus: não prevaleça nada contra ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Senhor, não há diferença alguma para ti entre o socorrer o fraco ou o forte",
+      "ref": "2Cr 14,11"
+    }
+  },
+  "ancoras": {
+    "14:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração hebraica 2Cr 14,1 é 13,23 da Vulgata, e os versículos do capítulo 14 estão deslocados de um.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

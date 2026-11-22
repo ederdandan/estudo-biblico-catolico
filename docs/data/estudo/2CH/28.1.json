@@ -1,0 +1,57 @@
+{
+  "id": "2CH.28.1",
+  "livro": "2CH",
+  "titulo": "Acaz e a compaixão dos de Samaria",
+  "secao": "Os reis de Judá",
+  "referencia": "2Cr 28,1-27",
+  "ini": {
+    "c": 28,
+    "v": 1
+  },
+  "fim": {
+    "c": 28,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "Acaz e os samaritanos misericordiosos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Acaz “não fez o que era recto”: manda “fundir estátuas a Baal”, oferece incenso no vale de Benemon e faz “passar seus filhos pelo fogo”. Deus o entrega ao rei da Síria e ao rei de Israel, Faceia, que mata cento e vinte mil em Judá e leva duzentos mil cativos, “mulheres, rapazes e raparigas”, para Samaria. Mas um profeta do Senhor, Obed, sai ao encontro do exército: “vós os matastes ferozmente, de sorte que a vossa crueldade chegou até ao céu… Porventura não tendes, também vós, ofensas contra o Senhor vosso Deus? Ouvi o meu conselho: reconduzi os cativos.” Alguns chefes de Efraim apoiam o profeta, e os soldados deixam os cativos e os despojos. Então, “pegando nos cativos, vestiram… todos os que estavam nus… de os refazerem com comida e bebida, de os ungirem e cuidarem deles, puseram sobre jumentos a todos os que não podiam andar… e levaram-nos a Jericó, cidade das Palmeiras, a seus irmãos”. Acaz, porém, pede ajuda à Assíria, que o oprime; “mesmo no tempo da sua maior aflição, continuou a pecar”: sacrifica aos deuses de Damasco, despedaça os vasos do templo e fecha as portas da casa de Deus.",
+    "alegorico": "Este episódio está por trás da parábola do bom samaritano (Lc 10,30-37): homens de Samaria vestem, alimentam, ungem e levam sobre jumentos os feridos de Judá até Jericó. Cristo é o verdadeiro samaritano, que cuida da humanidade ferida. Acaz, que fecha as portas do templo, é o oposto de Cristo, que abre o acesso ao Pai.",
+    "moral": "O profeta pergunta aos vencedores: “não tendes também vós pecados?” A consciência dos próprios pecados gera misericórdia com os outros. Os samaritanos passam da crueldade à compaixão concreta: vestir, alimentar, cuidar, transportar os fracos. São as obras de misericórdia. Acaz, ao contrário, endurece na aflição: o sofrimento não converte quem fecha o coração.",
+    "anagogico": "Os cativos reconduzidos aos irmãos, com os fracos sobre jumentos, anunciam o retorno final do povo de Deus, quando ninguém ficará para trás."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A vossa crueldade chegou até ao céu.” “Porventura não tendes, também vós, ofensas contra o Senhor?” “Reconduzi os cativos.” “Vestiram… todos os que estavam nus.” “Puseram sobre jumentos a todos os que não podiam andar.” “Mesmo no tempo da sua maior aflição, continuou a pecar.” “Fechou as portas do templo de Deus.”",
+    "meditatio_perguntas": [
+      "Lembro-me dos meus pecados antes de julgar os outros?",
+      "Que obras de misericórdia concretas posso fazer pelos “cativos” de hoje?",
+      "Na aflição, abro-me a Deus ou endureço o coração?"
+    ],
+    "oratio_guia": "Senhor, que tens misericórdia dos que caíram, dá-me um coração de samaritano: vestir os nus, alimentar os famintos, levar os que não podem andar. Livra-me de fechar as portas da tua casa na aflição. Amém.",
+    "contemplatio_foco": {
+      "texto": "puseram sobre jumentos a todos os que não podiam andar e eram fracos do corpo, e levaram-nos a Jericó",
+      "ref": "2Cr 28,15"
+    }
+  },
+  "ancoras": {
+    "28:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ligação provável com a parábola do bom samaritano (Lc 10,30-37).",
+        "origem": "ia"
+      }
+    },
+    "28:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O sacrifício de crianças no vale de Ben-Enom (Geena) é condenado em Lv 18,21 e Jr 7,31.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

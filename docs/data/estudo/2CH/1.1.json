@@ -1,0 +1,57 @@
+{
+  "id": "2CH.1.1",
+  "livro": "2CH",
+  "titulo": "Salomão pede sabedoria em Gabaon",
+  "secao": "Salomão e o Templo",
+  "referencia": "2Cr 1,1-17",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "“Dá-me sabedoria e inteligência”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Salomão, filho de Davide, foi confirmado no seu reino; o Senhor, seu Deus, era com ele.” Salomão vai com todo Israel ao alto de Gabaon, onde estavam o tabernáculo de Moisés e o altar de bronze feito por Beseleel, e oferece ali mil holocaustos. “Naquela mesma noite apareceu-lhe Deus, dizendo: Pede-me o que queres que eu te dê.” Salomão responde: “Tu usaste com Davide, meu pai, de grande misericórdia… Dá-me sabedoria e inteligência, a fim de que eu saiba conduzir-me bem diante do teu povo. Pois, quem poderá governar dignamente este teu povo, que é tão grande?” Deus lhe diz: “Visto que… não me pediste riquezas, nem bens, nem glória, nem a morte dos que te odeiam, nem muitos dias de vida… a sabedoria e a inteligência te são dadas; além disso, te darei riquezas, bens e glória.” O capítulo termina descrevendo os carros, cavalos, a prata e o cedro abundantes em Jerusalém.",
+    "alegorico": "Jesus retoma o ensinamento: “Buscai primeiro o Reino de Deus e a sua justiça, e todas estas coisas vos serão acrescentadas” (Mt 6,33). Cristo é “a sabedoria de Deus” (1Cor 1,24), “maior do que Salomão” (Mt 12,42), e o Espírito Santo concede o dom da sabedoria a quem o pede (Tg 1,5).",
+    "moral": "Diante da oferta de Deus, Salomão não pede para si, mas para servir bem: sabedoria para governar o povo. O que pedimos na oração revela o que desejamos de verdade. E quem busca primeiro o essencial recebe o resto como acréscimo.",
+    "anagogico": "“Pede-me o que queres”: a oração aponta para o dom supremo, que é o próprio Deus. A sabedoria que Salomão recebe é antecipação da visão de Deus, onde tudo será compreendido."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor, seu Deus, era com ele.” “Pede-me o que queres que eu te dê.” “Tu usaste com Davide, meu pai, de grande misericórdia.” “Dá-me sabedoria e inteligência.” “Quem poderá governar dignamente este teu povo?” “A sabedoria e a inteligência te são dadas.”",
+    "meditatio_perguntas": [
+      "Se Deus me dissesse “pede-me o que queres”, o que eu pediria?",
+      "Peço a sabedoria para servir bem os que me foram confiados?",
+      "Busco primeiro o Reino de Deus?"
+    ],
+    "oratio_guia": "Senhor, que me dizes “pede-me o que queres”, dá-me sabedoria e inteligência para servir bem os que me confiaste. Busco primeiro o teu Reino; o resto deixo nas tuas mãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Dá-me sabedoria e inteligência, a fim de que eu saiba conduzir-me bem diante do teu povo",
+      "ref": "2Cr 1,10"
+    }
+  },
+  "ancoras": {
+    "1:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O santuário de Gabaon: cf. 1Cr 16,39. Cf. 1Rs 3,4-15.",
+        "origem": "ia"
+      }
+    },
+    "1:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração hebraica 2Cr 1,18 é o primeiro versículo do capítulo 2; aqui o capítulo 1 tem 17 versículos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2CH.25.1",
+  "livro": "2CH",
+  "titulo": "Amasias: um coração não perfeito",
+  "secao": "Os reis de Judá",
+  "referencia": "2Cr 25,1-28",
+  "ini": {
+    "c": 25,
+    "v": 1
+  },
+  "fim": {
+    "c": 25,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "“Deus tem por onde te dar muito mais do que isso”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Amasias “fez o bem na presença do Senhor, mas não com um coração perfeito”. Pune os assassinos do pai, mas poupa os filhos deles, segundo a Lei de Moisés. Para a guerra contra Edom, contrata cem mil soldados de Israel por cem talentos de prata. Um homem de Deus lhe diz: “não marche o exército de Israel contigo, porque o Senhor não é com Israel… só Deus pode socorrer e pôr em fuga.” Amasias pergunta: “Que será, pois, dos cem talentos que dei…?” E ouve: “Deus tem por onde te pode dar muito mais do que isso.” Despede os mercenários e vence Edom. Mas traz os deuses dos edomitas “e fez deles os seus próprios deuses”. Ao profeta que o repreende, responde: “Porventura és tu o conselheiro do rei? Cala-te.” Depois, cheio de orgulho, desafia Joás, rei de Israel, que o adverte com uma fábula; é vencido, levado preso, e Jerusalém é saqueada. “Depois que este príncipe abandonou o Senhor”, conspiram contra ele e o matam em Laquis.",
+    "alegorico": "“Deus tem por onde te dar muito mais”: Jesus promete o cêntuplo a quem deixa algo por causa dele (Mc 10,29-30). O rei que adora os deuses de um povo vencido mostra o absurdo da idolatria, que o profeta denuncia: “deuses que não livraram o seu povo”.",
+    "moral": "O retrato de Amasias está na primeira frase: fez o bem, “mas não com um coração perfeito”. Obedece quando lhe convém, depois se rende ao orgulho e cala a voz do profeta. Renunciar a um investimento para ser fiel parece perda, mas Deus não se deixa vencer em generosidade. E o orgulho depois de uma vitória é o caminho mais curto para a derrota.",
+    "anagogico": "“Muito mais do que isso”: o que se perde por fidelidade a Deus será restituído com abundância na vida eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Fez o bem… mas não com um coração perfeito.” “Só Deus pode socorrer e pôr em fuga.” “Que será, pois, dos cem talentos?” “Deus tem por onde te pode dar muito mais do que isso.” “Porventura és tu o conselheiro do rei? Cala-te.”",
+    "meditatio_perguntas": [
+      "O meu coração é inteiro para Deus, ou só em parte?",
+      "Que “cem talentos” tenho medo de perder para ser fiel?",
+      "Como reajo quando alguém me corrige em nome de Deus?"
+    ],
+    "oratio_guia": "Senhor, dá-me um coração inteiro, que não meça o que perde para ser fiel. Tu tens por onde me dar muito mais. Livra-me do orgulho que cala a tua voz. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus tem por onde te pode dar muito mais do que isso",
+      "ref": "2Cr 25,9"
+    }
+  },
+  "ancoras": {
+    "25:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Dt 24,16.",
+        "origem": "ia"
+      }
+    },
+    "25:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A fábula do cardo e do cedro: cf. 2Rs 14,9.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

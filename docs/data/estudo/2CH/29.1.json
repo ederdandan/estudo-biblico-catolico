@@ -1,0 +1,57 @@
+{
+  "id": "2CH.29.1",
+  "livro": "2CH",
+  "titulo": "Ezequias purifica o templo",
+  "secao": "Os reis de Judá",
+  "referencia": "2Cr 29,1-36",
+  "ini": {
+    "c": 29,
+    "v": 1
+  },
+  "fim": {
+    "c": 29,
+    "v": 36
+  },
+  "liturgia": {
+    "tema_central": "Ezequias reabre as portas da casa do Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ezequias “fez o que era agradável ao Senhor”. “No primeiro ano e mês do seu reinado, mandou abrir as portas da casa do Senhor e restaurou-as.” Reúne sacerdotes e levitas: “Ouvi-me, Levitas, e purificai-vos; limpai a casa do Senhor… Nossos pais pecaram… voltaram-lhe as costas. Fecharam as portas… apagaram as lâmpadas, não queimaram incenso… Agora desejo que renovemos a aliança com o Senhor… Filhos meus, não sejais negligentes; o Senhor escolheu-vos para estardes em sua presença, para o servirdes.” Os levitas purificam o templo em dezesseis dias e tiram dele toda a imundície. O rei oferece sacrifícios pelo pecado de todo Israel; os levitas tocam os instrumentos de Davi, e enquanto se oferece o holocausto ressoa o cântico do Senhor. “Ezequias e os chefes mandaram aos Levitas que cantassem os louvores ao Senhor com os hinos de David e do profeta Asaf; eles louvaram-no com grande alegria, e, postos de joelhos, adoraram.” O povo oferece sacrifícios de ação de graças. “Ezequias e todo o povo se alegrou, por Deus ter disposto o povo… porque tudo se tinha feito de repente.”",
+    "alegorico": "O rei que reabre as portas fechadas do templo e reacende as lâmpadas é figura de Cristo, que abre as portas da casa do Pai e purifica o templo (Jo 2,13-17). A purificação do templo antes do sacrifício lembra a confissão antes da Eucaristia, e os “sacrifícios eucarísticos” (de ação de graças) anunciam a Eucaristia.",
+    "moral": "A reforma começa logo, “no primeiro ano e mês”: há coisas que não podem esperar. Começa pela casa de Deus e pela purificação. Ezequias faz um exame de consciência coletivo, sem acusar só os outros: “nossos pais pecaram… agora renovemos a aliança”. E a renovação termina em alegria, porque é obra de Deus, que “dispôs o povo”.",
+    "anagogico": "As portas reabertas do templo anunciam as portas da Jerusalém celeste, que “nunca se fecharão” (Ap 21,25)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Mandou abrir as portas da casa do Senhor.” “Purificai-vos; limpai a casa do Senhor.” “Apagaram as lâmpadas.” “Agora desejo que renovemos a aliança com o Senhor.” “Filhos meus, não sejais negligentes.” “Louvaram-no com grande alegria, e, postos de joelhos, adoraram.”",
+    "meditatio_perguntas": [
+      "Há portas do meu coração fechadas a Deus, que preciso reabrir?",
+      "Que lâmpadas da minha vida de fé se apagaram?",
+      "Sou negligente no serviço de Deus?"
+    ],
+    "oratio_guia": "Senhor, abre as portas fechadas do meu coração, purifica o teu templo em mim e reacende as lâmpadas apagadas. Que eu não seja negligente, mas te sirva com alegria e adoração. Amém.",
+    "contemplatio_foco": {
+      "texto": "No primeiro ano e mês do seu reinado, mandou abrir as portas da casa do Senhor e restaurou-as",
+      "ref": "2Cr 29,3"
+    }
+  },
+  "ancoras": {
+    "29:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Acaz tinha fechado as portas do templo (28,24).",
+        "origem": "ia"
+      }
+    },
+    "29:31": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Sacrifícios eucarísticos”: sacrifícios de ação de graças (todah).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

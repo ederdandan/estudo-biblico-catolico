@@ -1,0 +1,57 @@
+{
+  "id": "2CH.16.1",
+  "livro": "2CH",
+  "titulo": "Asa confia nos homens e não no Senhor",
+  "secao": "Os reis de Judá",
+  "referencia": "2Cr 16,1-14",
+  "ini": {
+    "c": 16,
+    "v": 1
+  },
+  "fim": {
+    "c": 16,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "“Os olhos do Senhor contemplam toda a terra”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No fim do reinado, Baasa, rei de Israel, sobe contra Judá. Asa tira a prata e o ouro do templo e do palácio e os manda a Ben-Adad, rei da Síria, para que rompa a aliança com Israel; e consegue. Mas o profeta Hanani lhe diz: “Porque confiaste no rei da Síria, e não no Senhor teu Deus, por isso o exército do rei da Síria escapou das tuas mãos. Porventura não constituíam os Etíopes… um grande exército?… quando tu confiaste no Senhor, ele tos entregou. Os olhos do Senhor contemplam toda a terra e inspiram força aos que confiam nele com um coração perfeito. Tu procedeste loucamente.” Asa, irado, manda prender o vidente e oprime parte do povo. No trigésimo nono ano, adoece gravemente dos pés; “todavia, mesmo na sua enfermidade, não recorreu ao Senhor, mas confiou antes nos médicos”. Morre e é sepultado com grande honra.",
+    "alegorico": "O rei que confia num aliado pagão em vez de Deus é figura da tentação de buscar segurança nos poderes do mundo. Cristo, ao contrário, recusa os reinos oferecidos pelo tentador (Mt 4,8-10). O profeta preso por dizer a verdade anuncia os profetas e apóstolos perseguidos, e o próprio Cristo.",
+    "moral": "Asa começou bem e terminou mal: quem confiou em Deus diante de um milhão de etíopes, na velhice confia em alianças humanas e se irrita com quem o corrige. A fé precisa ser renovada até o fim. O texto não condena a medicina (cf. Eclo 38), mas confiar nos médicos sem recorrer a Deus. E há um grande consolo: os olhos do Senhor percorrem a terra buscando corações inteiros para fortalecê-los.",
+    "anagogico": "Os olhos do Senhor que contemplam toda a terra buscam os que perseveram com coração perfeito até o fim, para lhes dar a coroa da vida."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Porque confiaste no rei da Síria, e não no Senhor teu Deus.” “Quando tu confiaste no Senhor, ele tos entregou nas mãos.” “Os olhos do Senhor contemplam toda a terra.” “Inspiram força aos que confiam nele com um coração perfeito.” “Asa, irado contra o vidente.” “Não recorreu ao Senhor.”",
+    "meditatio_perguntas": [
+      "A minha confiança em Deus diminuiu com o tempo?",
+      "Como reajo quando alguém me corrige com verdade?",
+      "Na doença, recorro a Deus junto com os meios humanos?"
+    ],
+    "oratio_guia": "Senhor, cujos olhos percorrem toda a terra, encontra em mim um coração inteiro e fortalece-me. Guarda-me fiel até o fim, humilde diante da correção e confiante em ti na doença. Amém.",
+    "contemplatio_foco": {
+      "texto": "Os olhos do Senhor contemplam toda a terra e inspiram força aos que confiam nele com um coração perfeito",
+      "ref": "2Cr 16,9"
+    }
+  },
+  "ancoras": {
+    "16:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Eclo 38,1-15: honrar o médico e rezar ao Senhor.",
+        "origem": "ia"
+      }
+    },
+    "16:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 1Rs 15,16-22.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

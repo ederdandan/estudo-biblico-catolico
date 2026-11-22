@@ -1,0 +1,57 @@
+{
+  "id": "2CH.34.1",
+  "livro": "2CH",
+  "titulo": "Josias e o livro da Lei",
+  "secao": "Os reis de Judá",
+  "referencia": "2Cr 34,1-33",
+  "ini": {
+    "c": 34,
+    "v": 1
+  },
+  "fim": {
+    "c": 34,
+    "v": 33
+  },
+  "liturgia": {
+    "tema_central": "Josias: “começou a buscar o Deus de Davi” e o livro encontrado",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Josias começa a reinar aos oito anos. “Fez o que era recto na presença do Senhor… não declinando nem para a direita nem para a esquerda. Desde o oitavo ano do seu reinado, sendo ainda muito jovem, começou a buscar o Deus de David, seu pai.” Purifica Judá e Jerusalém dos ídolos e manda reparar o templo. Ao retirar o dinheiro, “o pontífice Helcias achou um livro da lei do Senhor, dada por mão de Moisés”. O secretário Safan o lê diante do rei, “este, ao ouvir as palavras da lei, rasgou as suas vestes”, e manda consultar o Senhor, “porque está prestes a cair sobre nós a grande ira do Senhor, pois nossos pais não guardaram as palavras do Senhor”. A profetisa Olda responde: o castigo virá, mas a Josias: “porque se comoveu o teu coração e te humilhaste diante de Deus… e choraste diante de mim, eu também te ouvi… os teus olhos não verão todos os males.” O rei reúne todo o povo, “desde o mais pequeno até o maior”, lê diante de todos as palavras do livro, e “fez aliança com o Senhor… de todo o seu coração e de toda a sua alma”. “Enquanto ele viveu, não se separaram do Senhor.”",
+    "alegorico": "O livro encontrado no templo e lido diante do povo anuncia a proclamação da Palavra na liturgia, e Jesus que, na sinagoga, lê o livro de Isaías e diz: “Hoje se cumpriu esta Escritura” (Lc 4,21). O coração que se comove ao ouvir a Palavra lembra os discípulos de Emaús: “não ardia o nosso coração… quando nos explicava as Escrituras?” (Lc 24,32).",
+    "moral": "Josias busca a Deus desde jovem. A Palavra de Deus estava esquecida dentro do próprio templo: pode-se frequentar a casa de Deus sem conhecer a sua Palavra. Ao ouvi-la, o rei não se defende, se comove e chora; e Deus o ouve. A renovação da Igreja começa sempre pelo reencontro com a Escritura e pela conversão do coração.",
+    "anagogico": "“Serás posto em paz no teu sepulcro”: o justo que se humilha diante da Palavra é recolhido em paz, à espera da ressurreição."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não declinando nem para a direita nem para a esquerda.” “Sendo ainda muito jovem, começou a buscar o Deus de David.” “Achou um livro da lei do Senhor.” “Ao ouvir as palavras da lei, rasgou as suas vestes.” “Porque se comoveu o teu coração… eu também te ouvi.” “O rei leu todas as palavras do livro.” “De todo o seu coração e de toda a sua alma.”",
+    "meditatio_perguntas": [
+      "A Palavra de Deus está “perdida” em algum canto da minha vida?",
+      "O meu coração se comove ao ouvir a Escritura?",
+      "Ajudo os jovens a buscar a Deus desde cedo?"
+    ],
+    "oratio_guia": "Senhor, que te deixaste encontrar por Josias desde a juventude, dá-me reencontrar a tua Palavra e deixar-me comover por ela. Faço aliança contigo, de todo o coração e de toda a alma. Amém.",
+    "contemplatio_foco": {
+      "texto": "sendo ainda muito jovem, começou a buscar o Deus de David, seu pai",
+      "ref": "2Cr 34,3"
+    }
+  },
+  "ancoras": {
+    "34:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O livro encontrado é provavelmente o Deuteronômio, ou parte dele. Cf. 2Rs 22–23.",
+        "origem": "ia"
+      }
+    },
+    "34:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A profetisa Olda (Hulda) é uma das poucas profetisas do AT.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

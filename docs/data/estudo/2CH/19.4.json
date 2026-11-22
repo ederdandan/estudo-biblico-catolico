@@ -1,0 +1,49 @@
+{
+  "id": "2CH.19.4",
+  "livro": "2CH",
+  "titulo": "Josafá estabelece juízes: “não exerceis a justiça de um homem”",
+  "secao": "Os reis de Judá",
+  "referencia": "2Cr 19,4-11",
+  "ini": {
+    "c": 19,
+    "v": 4
+  },
+  "fim": {
+    "c": 19,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "“Não exerceis a justiça de um homem, mas a do Senhor”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Josafat, de volta a Jerusalém, saiu outra vez a visitar o povo, desde Bersabé até ao monte de Efraim, e reconduziu-o ao culto do Senhor Deus de seus pais.” Estabelece juízes em todas as cidades fortes de Judá e lhes diz: “Vede o que fazeis, porque não exerceis a justiça dum homem, mas sim a do Senhor: tudo o que julgardes, recairá sobre vós. O temor do Senhor seja convosco. Fazei todas as coisas com diligência, porque no Senhor nosso Deus não há iniquidade, nem acepção de pessoas, nem cobiça de dádivas.” Em Jerusalém, institui um tribunal de levitas, sacerdotes e chefes: “Procedereis no temor do Senhor, com fidelidade e com um coração perfeito.” Nas causas trazidas pelos irmãos, devem instruí-los, “para que não pequem contra o Senhor”. O sumo sacerdote Amarias presidirá às coisas de Deus; Zabadias, aos negócios do rei. “Confortai-vos, pois, e sede diligentes.”",
+    "alegorico": "O nome Josafá significa “o Senhor julga”. Os juízes que exercem “a justiça do Senhor” prefiguram Cristo, a quem o Pai confiou todo o julgamento (Jo 5,22), e que julga sem acepção de pessoas. A distinção entre “as coisas de Deus” e “os negócios do rei” antecipa o “dai a César o que é de César, e a Deus o que é de Deus” (Mt 22,21).",
+    "moral": "Josafá, repreendido pelo profeta, não se fecha: sai a visitar o povo e a reconduzi-lo a Deus. A conversão do governante produz justiça. O código dos juízes vale para todos que têm autoridade: temor de Deus, diligência, imparcialidade, recusa de subornos, fidelidade e coração íntegro. Julgar é participar da justiça de Deus.",
+    "anagogico": "“Tudo o que julgardes, recairá sobre vós”: com a medida com que julgarmos seremos julgados (Mt 7,2), no juízo final diante do Juiz justo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Saiu outra vez a visitar o povo.” “Reconduziu-o ao culto do Senhor.” “Não exerceis a justiça dum homem, mas sim a do Senhor.” “O temor do Senhor seja convosco.” “Nem acepção de pessoas, nem cobiça de dádivas.” “Com fidelidade e com um coração perfeito.” “Confortai-vos, pois, e sede diligentes.”",
+    "meditatio_perguntas": [
+      "Julgo os outros com a justiça de Deus ou com os meus interesses?",
+      "Faço acepção de pessoas?",
+      "Quando sou corrigido, volto com mais zelo ao bem?"
+    ],
+    "oratio_guia": "Senhor, juiz justo, em quem não há acepção de pessoas, faz-me íntegro nos meus juízos e fiel no meu serviço. Que eu julgue como gostaria de ser julgado. Amém.",
+    "contemplatio_foco": {
+      "texto": "não exerceis a justiça dum homem, mas sim a do Senhor",
+      "ref": "2Cr 19,6"
+    }
+  },
+  "ancoras": {
+    "19:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A reforma judicial de Josafá aplica Dt 16,18-20 e 17,8-13.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

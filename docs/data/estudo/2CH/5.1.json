@@ -1,0 +1,57 @@
+{
+  "id": "2CH.5.1",
+  "livro": "2CH",
+  "titulo": "A arca entra no templo e a glória o enche",
+  "secao": "Salomão e o Templo",
+  "referencia": "2Cr 5,1-14",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "“A glória do Senhor tinha enchido a casa de Deus”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Terminada a obra, Salomão guarda no tesouro os dons consagrados por Davi e convoca os anciãos para trazer a arca de Sião. Na festa do sétimo mês, os levitas levam a arca, e o rei e o povo oferecem sacrifícios sem conta. Os sacerdotes colocam a arca no Santo dos Santos, sob as asas dos querubins. “Na arca não havia outra coisa além das duas tábuas que Moisés ali tinha posto em Horeb.” Quando os sacerdotes saem, os levitas cantores, vestidos de linho, com címbalos, cítaras e harpas, e cento e vinte sacerdotes com trombetas, “formavam um concerto… quando louvavam ao Senhor, dizendo: Bendizei o Senhor, porque é bom e porque a sua misericórdia é eterna — encheu-se a casa de Deus de uma nuvem, e os sacerdotes não podiam estar ali, nem exercer as suas funções, por causa da nuvem, pois a glória do Senhor tinha enchido a casa de Deus”.",
+    "alegorico": "A nuvem da glória que enche o templo é a mesma que cobria o tabernáculo no deserto (Ex 40,34). No Novo Testamento, a nuvem cobre Maria com a sua sombra (Lc 1,35) e envolve Jesus na Transfiguração (Lc 9,34): a glória de Deus habita agora em Cristo, verdadeiro templo (Jo 2,21).",
+    "moral": "A glória desce no momento do louvor unânime: quando todos cantam “como um só”, Deus enche a casa. A unidade da comunidade em oração é o lugar da presença. E a glória é tal que os sacerdotes não podem exercer as funções: diante de Deus, as nossas atividades cedem lugar à adoração.",
+    "anagogico": "Na Jerusalém celeste “não vi nela templo, porque o Senhor Deus todo-poderoso e o Cordeiro são o seu templo… a glória de Deus a ilumina” (Ap 21,22-23)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Na arca não havia outra coisa além das duas tábuas.” “Revestidos de vestes de linho fino.” “Bendizei o Senhor, porque é bom e porque a sua misericórdia é eterna.” “Encheu-se a casa de Deus de uma nuvem.” “A glória do Senhor tinha enchido a casa de Deus.”",
+    "meditatio_perguntas": [
+      "Participo do louvor da comunidade com o coração unido aos irmãos?",
+      "Deixo que a presença de Deus suspenda as minhas atividades para adorar?",
+      "A Palavra de Deus está no centro, como as tábuas na arca?"
+    ],
+    "oratio_guia": "Senhor, que encheste a tua casa com a nuvem da tua glória, enche também a minha vida e a nossa comunidade. Bendito sejas, porque és bom e a tua misericórdia é eterna. Amém.",
+    "contemplatio_foco": {
+      "texto": "a glória do Senhor tinha enchido a casa de Deus",
+      "ref": "2Cr 5,14"
+    }
+  },
+  "ancoras": {
+    "5:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Fórmula de louvor característica de Crônicas (1Cr 16,34; 2Cr 7,3; 20,21).",
+        "origem": "ia"
+      }
+    },
+    "5:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A festa do sétimo mês é a dos Tabernáculos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

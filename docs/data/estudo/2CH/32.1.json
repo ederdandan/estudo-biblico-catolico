@@ -1,0 +1,57 @@
+{
+  "id": "2CH.32.1",
+  "livro": "2CH",
+  "titulo": "Senaquerib, a doença e o orgulho de Ezequias",
+  "secao": "Os reis de Judá",
+  "referencia": "2Cr 32,1-33",
+  "ini": {
+    "c": 32,
+    "v": 1
+  },
+  "fim": {
+    "c": 32,
+    "v": 33
+  },
+  "liturgia": {
+    "tema_central": "“Conosco está o Senhor”: Senaquerib, a doença e a prova de Ezequias",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Depois destas coisas e destes atos de fidelidade”, Senaquerib, rei da Assíria, invade Judá. Ezequias tapa as fontes fora da cidade, reforça os muros e diz ao povo: “Sede homens de valor e animai-vos; não temais… porque muitos mais estão conosco do que com ele. Com efeito, com ele está um braço de carne, e conosco está o Senhor nosso Deus, que é nosso auxiliador, que combate por nós.” Os enviados de Senaquerib zombam do Deus de Israel. “O rei Ezequias e o profeta Isaías, filho de Amós, fizeram oração contra esta blasfêmia e levantaram os seus clamores até ao céu. E o Senhor mandou um anjo” que destrói o exército assírio; Senaquerib volta envergonhado e é morto pelos próprios filhos. Depois, Ezequias adoece mortalmente, reza e é atendido. “Porém Ezequias não correspondeu aos benefícios que tinha recebido, porque o seu coração ensoberbeceu-se”; mas depois “humilhou-se”. Quando vêm os embaixadores da Babilônia, “Deus desamparou-o para o experimentar, para ver tudo o que ele tinha no fundo do seu coração”. Ezequias morre e é sepultado com honra; seu filho Manassés reina.",
+    "alegorico": "“Muitos mais estão conosco do que com ele” lembra Eliseu e o seu servo cercados pelo exército celeste (2Rs 6,16), e Paulo: “Se Deus é por nós, quem será contra nós?” (Rm 8,31). O anjo que destrói o exército inimigo anuncia a vitória de Cristo sobre os poderes do mal.",
+    "moral": "A fé não dispensa a prudência: Ezequias reza e também reforça os muros. A sua palavra ao povo é um ato de fé: o inimigo tem um braço de carne; nós temos o Senhor. Mas mesmo o rei santo cai na soberba depois de ser curado: a gratidão é difícil. E Deus às vezes se retira “para ver o que há no fundo do coração”: as provas revelam quem somos.",
+    "anagogico": "O Deus que “combate por nós” dará a vitória final, quando todo “braço de carne” que se levanta contra ele for vencido."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Sede homens de valor e animai-vos.” “Muitos mais estão connosco do que com ele.” “Com ele está um braço de carne, e connosco está o Senhor nosso Deus.” “Levantaram os seus clamores até ao céu.” “Não correspondeu aos benefícios que tinha recebido.” “Para ver tudo o que ele tinha no fundo do seu coração.”",
+    "meditatio_perguntas": [
+      "Diante das ameaças, olho para o “braço de carne” ou para o Senhor?",
+      "Correspondo com gratidão aos benefícios recebidos?",
+      "O que as provas revelam do fundo do meu coração?"
+    ],
+    "oratio_guia": "Senhor, que estás comigo e combates por mim, dá-me coragem diante das ameaças e gratidão depois das tuas graças. Quando me provares, encontra no fundo do meu coração a confiança em ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "com ele está um braço de carne, e connosco está o Senhor nosso Deus, que é nosso auxiliador",
+      "ref": "2Cr 32,8"
+    }
+  },
+  "ancoras": {
+    "32:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 2Rs 18–20; Is 36–39.",
+        "origem": "ia"
+      }
+    },
+    "32:30": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O túnel de Ezequias, que levava a água de Gion à piscina de Siloé, ainda existe em Jerusalém.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

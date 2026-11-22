@@ -1,0 +1,57 @@
+{
+  "id": "2CH.30.1",
+  "livro": "2CH",
+  "titulo": "A grande Páscoa de Ezequias",
+  "secao": "Os reis de Judá",
+  "referencia": "2Cr 30,1-27",
+  "ini": {
+    "c": 30,
+    "v": 1
+  },
+  "fim": {
+    "c": 30,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "A grande Páscoa: “Voltai para o Senhor, que é piedoso e clemente”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ezequias envia mensageiros “por todo o Israel e Judá”, e cartas a Efraim e Manassés, para celebrarem a Páscoa em Jerusalém. As cartas dizem: “Filhos de Israel, voltai para o Senhor Deus de Abraão, de Isaac e de Israel… Não endureçais as vossas cervizes… vinde ao seu santuário… porque o Senhor vosso Deus é piedoso e clemente, e não afastará de vós o seu rosto, se voltardes para ele.” Os mensageiros vão de cidade em cidade, mas “estes povos riam-se e escarneciam deles”; alguns, porém, de Aser, Manassés e Zabulon, se humilham e vêm. “Também em Judá a mão do Senhor operou, dando-lhes um só coração.” Muitos do norte comem a Páscoa sem estar purificados; “mas Ezequias fez oração por eles, dizendo: O Senhor, que é bom, será propício para com todos os que buscam de todo o seu coração o Senhor Deus de seus pais, e ele não lhes imputará falta de não estarem bem purificados. O Senhor ouviu-o.” Celebram sete dias com grande júbilo, e depois mais sete. “Fez-se uma grande solenidade em Jerusalém, qual não tinha havido… desde o tempo de Salomão.” Os sacerdotes abençoam o povo, “e a sua oração chegou até à morada santa do céu”.",
+    "alegorico": "O convite que vai de cidade em cidade, recebido por uns com riso e por outros com humildade, é a parábola do banquete: “ide às encruzilhadas e convidai para as bodas todos os que encontrardes” (Mt 22,9). A Páscoa que reúne o norte e o sul anuncia Cristo, nossa Páscoa (1Cor 5,7), que reúne os filhos de Deus dispersos (Jo 11,52).",
+    "moral": "Ezequias convida até os do reino rival: o desejo de unidade supera as divisões. Não desanima com a zombaria. E a sua oração por aqueles que não cumpriram todos os ritos ensina que Deus olha o coração que o busca mais do que a perfeição exterior. A misericórdia é a lógica da Páscoa.",
+    "anagogico": "A festa de “grande júbilo” em Jerusalém, com a oração que chega “à morada santa do céu”, anuncia a Páscoa eterna, o banquete das núpcias do Cordeiro."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Voltai para o Senhor.” “Não endureçais as vossas cervizes.” “O Senhor vosso Deus é piedoso e clemente.” “Riam-se e escarneciam deles.” “Dando-lhes um só coração.” “Todos os que buscam de todo o seu coração o Senhor.” “O Senhor ouviu-o.” “A sua oração chegou até à morada santa do céu.”",
+    "meditatio_perguntas": [
+      "Convido os afastados a voltar, mesmo com o risco da zombaria?",
+      "Julgo os outros pelos ritos ou pelo coração que busca a Deus?",
+      "Celebro a Páscoa com júbilo e unidade?"
+    ],
+    "oratio_guia": "Senhor, piedoso e clemente, que não afastas o teu rosto de quem volta a ti, reúne o teu povo disperso e acolhe todos os que te buscam de coração. Que a nossa oração chegue à tua morada santa. Amém.",
+    "contemplatio_foco": {
+      "texto": "o Senhor vosso Deus é piedoso e clemente, e não afastará de vós o seu rosto, se voltardes para ele",
+      "ref": "2Cr 30,9"
+    }
+  },
+  "ancoras": {
+    "30:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Páscoa é celebrada no segundo mês, como permitia Nm 9,10-11.",
+        "origem": "ia"
+      }
+    },
+    "30:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A oração de Ezequias mostra a primazia do coração sobre a pureza ritual.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

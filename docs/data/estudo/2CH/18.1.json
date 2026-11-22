@@ -1,0 +1,57 @@
+{
+  "id": "2CH.18.1",
+  "livro": "2CH",
+  "titulo": "Miqueias diante de Acab e Josafá",
+  "secao": "Os reis de Judá",
+  "referencia": "2Cr 18,1–19,3",
+  "ini": {
+    "c": 18,
+    "v": 1
+  },
+  "fim": {
+    "c": 19,
+    "v": 3
+  },
+  "liturgia": {
+    "tema_central": "Miqueias: “Não direi senão o que me disser o meu Deus”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Josafá se alia por casamento a Acab, rei de Israel, e vai com ele à guerra contra Ramot de Galaad. Mas pede: “consultes hoje a vontade do Senhor.” Acab reúne quatrocentos profetas, que respondem: “Vai, que Deus a entregará.” Josafá insiste: “Não há aqui algum profeta do Senhor?” Acab responde: “há um homem… todavia eu aborreço-o, porque nunca me profetiza coisa boa… é Miqueias.” O mensageiro pede a Miqueias que concorde com os outros; ele responde: “Viva o Senhor! Eu não direi senão o que me disser o meu Deus.” Diante do rei, anuncia: “Eu vi Israel disperso pelos montes, como ovelhas sem pastor”; e conta a visão do Senhor no trono, que permite a um espírito mentiroso enganar os profetas de Acab. Sedecias lhe dá uma bofetada; Acab manda prendê-lo a “pão de aflição e água de angústia”. Na batalha, Acab se disfarça, mas “um homem do povo atirou à toa uma flecha” e o fere; morre ao pôr do sol. Josafá volta em paz, e o vidente Jeú o repreende: “Tu dás socorro a um ímpio e estreitas os laços da amizade com os que odeiam o Senhor… porém foram encontradas em ti obras boas.”",
+    "alegorico": "Miqueias, esbofeteado e preso por dizer a verdade, é figura de Cristo, esbofeteado diante do sumo sacerdote (Jo 18,22). As “ovelhas sem pastor” são citadas por Jesus quando se compadece das multidões (Mc 6,34).",
+    "moral": "É fácil ter quatrocentos profetas que dizem o que queremos ouvir. Acab odeia Miqueias porque ele diz a verdade. A coragem de Miqueias é a de todo profeta: dizer só o que Deus diz, mesmo contra a maioria. E Josafá é repreendido por alianças com quem odeia o Senhor: a amizade com o mal compromete os bons.",
+    "anagogico": "A visão do Senhor sentado no trono, rodeado do exército do céu, lembra que acima das intrigas humanas está o Rei verdadeiro, que julgará todas as coisas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Consultes hoje a vontade do Senhor.” “Eu aborreço-o, porque nunca me profetiza coisa boa.” “Eu não direi senão o que me disser o meu Deus.” “Como ovelhas sem pastor.” “Eu vi o Senhor sentado no seu trono.” “Pão de aflição e água de angústia.” “Foram encontradas em ti obras boas.”",
+    "meditatio_perguntas": [
+      "Procuro conselheiros que só me digam o que quero ouvir?",
+      "Tenho coragem de dizer a verdade contra a maioria?",
+      "Que alianças me comprometem com o que Deus reprova?"
+    ],
+    "oratio_guia": "Senhor, dá-me a coragem de Miqueias para dizer só o que tu dizes, e um coração que ame a verdade, mesmo quando ela incomoda. Livra-me das alianças com o mal. Amém.",
+    "contemplatio_foco": {
+      "texto": "Viva o Senhor! Eu não direi senão o que me disser o meu Deus",
+      "ref": "2Cr 18,13"
+    }
+  },
+  "ancoras": {
+    "18:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 1Rs 22. Jorão, filho de Josafá, casou com Atalia, filha de Acab (21,6).",
+        "origem": "ia"
+      }
+    },
+    "18:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Deus “permite” o espírito de mentira: linguagem antiga que atribui a Deus o que ele apenas tolera.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

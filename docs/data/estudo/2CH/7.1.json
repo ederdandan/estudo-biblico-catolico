@@ -1,0 +1,57 @@
+{
+  "id": "2CH.7.1",
+  "livro": "2CH",
+  "titulo": "O fogo do céu e a resposta do Senhor",
+  "secao": "Salomão e o Templo",
+  "referencia": "2Cr 7,1-22",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "“Se o meu povo… buscar a minha face”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Quando Salomão terminou a sua oração, desceu fogo do céu e consumiu os holocaustos… e a majestade do Senhor encheu a casa.” Todo Israel, vendo o fogo e a glória, prostra-se com o rosto em terra e louva: “Ele é bom e a sua misericórdia é eterna.” Seguem sete dias de dedicação e sete de festa. Terminada a obra, “o Senhor apareceu-lhe, de noite, e disse: Ouvi a tua oração e escolhi para mim este lugar… se o meu povo, sobre que foi invocado o meu nome, convertendo-se, me rogar e buscar a minha face, e fizer penitência dos seus maus caminhos, eu também o ouvirei do céu, perdoarei os seus pecados e purificarei a sua terra. Os meus olhos também se abrirão… Eu escolho e santifico este lugar, a fim de nele estar o meu nome para sempre, e os meus olhos e o meu coração estarem fixos nele em todo o tempo.” Mas também adverte: se abandonarem o Senhor, “lançarei para longe da minha presença este templo”, e os que passarem perguntarão por quê; e se responderá: “Porque deixaram o Senhor Deus de seus pais.”",
+    "alegorico": "O fogo do céu sobre o sacrifício anuncia o fogo do Espírito em Pentecostes (At 2,3). A advertência sobre o templo destruído se cumpriu em 587 a.C. e em 70 d.C.; Jesus anuncia: “não ficará pedra sobre pedra” (Mt 24,2), e oferece o seu corpo como templo novo, que não será destruído.",
+    "moral": "O versículo 14 é um programa de conversão: humildade, oração, busca da face de Deus, abandono dos maus caminhos. A resposta de Deus é tripla: ouvir, perdoar, curar a terra. A conversão pessoal tem efeitos sociais. Mas nenhum edifício, por mais santo, protege quem abandona a Deus.",
+    "anagogico": "“Os meus olhos e o meu coração estarão fixos nele em todo o tempo”: o coração de Deus está fixo no seu povo, e no fim o habitará para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Desceu fogo do céu.” “Ele é bom e a sua misericórdia é eterna.” “Ouvi a tua oração.” “Se o meu povo… me rogar e buscar a minha face.” “Perdoarei os seus pecados e purificarei a sua terra.” “Os meus olhos e o meu coração estarem fixos nele em todo o tempo.”",
+    "meditatio_perguntas": [
+      "Busco a face de Deus, ou apenas os seus dons?",
+      "Que maus caminhos preciso abandonar?",
+      "Rezo pela cura da minha terra, do meu país?"
+    ],
+    "oratio_guia": "Senhor, eu te busco e me converto dos meus maus caminhos. Ouve do céu, perdoa os nossos pecados e cura a nossa terra. Que o teu coração esteja fixo em nós para sempre. Amém.",
+    "contemplatio_foco": {
+      "texto": "eu também o ouvirei do céu, perdoarei os seus pecados e purificarei a sua terra",
+      "ref": "2Cr 7,14"
+    }
+  },
+  "ancoras": {
+    "7:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O fogo do céu é detalhe de Crônicas, como em Lv 9,24 e 1Cr 21,26.",
+        "origem": "ia"
+      }
+    },
+    "7:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Um dos versículos mais citados de Crônicas, resumo da teologia da conversão do livro.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

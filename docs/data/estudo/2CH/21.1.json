@@ -1,0 +1,57 @@
+{
+  "id": "2CH.21.1",
+  "livro": "2CH",
+  "titulo": "Jorão e a lâmpada de Davi",
+  "secao": "Os reis de Judá",
+  "referencia": "2Cr 21,1-20",
+  "ini": {
+    "c": 21,
+    "v": 1
+  },
+  "fim": {
+    "c": 21,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "Jorão: a lâmpada que Deus não deixa apagar",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jorão sucede a Josafá. “Depois que se viu bem seguro, mandou matar à espada todos os seus irmãos.” “Andou nos caminhos dos reis de Israel, como tinha feito a casa de Acab, porque sua mulher era filha de Acab.” “O Senhor, porém, não quis perder a casa de Davide, em atenção ao pacto que tinha feito com ele, porque tinha prometido que lhe daria uma lâmpada a ele e a seus filhos para sempre.” Edom e Lobna se revoltam. Chega a Jorão uma carta do profeta Elias: “Porque não andaste pelos caminhos de teu pai Josafat… porque fizeste cair na idolatria Judá… porque, além disso, mataste teus irmãos… melhores do que tu, sabe que também o Senhor te ferirá.” Filisteus e árabes saqueiam o palácio e levam os filhos do rei, exceto o mais novo. Jorão morre de uma doença terrível nas entranhas, “e o povo não lhe fez as exéquias queimando-lhe perfumes”. “Não andou com retidão. Sepultaram-no na cidade de Davide, mas não no sepulcro dos reis.”",
+    "alegorico": "A “lâmpada” prometida a Davi que Deus não deixa apagar, apesar de reis como Jorão, é a promessa messiânica, que se cumpre em Cristo, “luz do mundo” (Jo 8,12). Mesmo quando a linhagem parece reduzida a um só menino, Deus guarda a sua palavra.",
+    "moral": "O casamento com a filha de Acab arrasta Jorão para a idolatria: as alianças afetivas influenciam a fé. A violência contra os irmãos para garantir o poder termina na solidão: ninguém o chora. Mas a fidelidade de Deus é maior que a infidelidade dos homens: a lâmpada continua acesa.",
+    "anagogico": "A lâmpada de Davi, guardada através das trevas da história, aponta para a cidade que “não precisa de sol nem de lua… a sua lâmpada é o Cordeiro” (Ap 21,23)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Depois que se viu bem seguro, mandou matar… todos os seus irmãos.” “Porque sua mulher era filha de Acab.” “O Senhor, porém, não quis perder a casa de Davide.” “Lhe daria uma lâmpada a ele e a seus filhos para sempre.” “Mataste teus irmãos… melhores do que tu.” “Não andou com retidão.”",
+    "meditatio_perguntas": [
+      "Deixo que as minhas relações me afastem de Deus?",
+      "Que lembrança deixarei: serei chorado ou esquecido?",
+      "Confio na fidelidade de Deus, maior que as minhas infidelidades?"
+    ],
+    "oratio_guia": "Senhor fiel, que não deixaste apagar a lâmpada de Davi, guarda acesa em mim a luz da fé, mesmo quando sou infiel. Livra-me da violência e da ambição. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor, porém, não quis perder a casa de Davide, em atenção ao pacto que tinha feito com ele",
+      "ref": "2Cr 21,7"
+    }
+  },
+  "ancoras": {
+    "21:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A carta de Elias é a única menção a esse profeta em Crônicas.",
+        "origem": "ia"
+      }
+    },
+    "21:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A mulher de Jorão é Atalia (22,2).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2CH.3.1",
+  "livro": "2CH",
+  "titulo": "A construção do templo e dos seus utensílios",
+  "secao": "Salomão e o Templo",
+  "referencia": "2Cr 3,1–4,22",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "O templo no monte Moriá",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Começou Salomão a edificar o templo do Senhor em Jerusalém, sobre o monte Moria, que tinha sido designado a Davide, seu pai, no lugar que Davide tinha preparado na eira de Ornan Jebuseu.” A obra começa no segundo mês do quarto ano do reinado. Descrevem-se as medidas do templo, o vestíbulo, a casa revestida de ouro e pedras preciosas, o Santo dos Santos coberto de ouro, os dois grandes querubins de asas estendidas. “Fez um véu de jacinto, de púrpura, de escarlate e de linho fino, e mandou bordar nele querubins.” Diante do templo levanta duas colunas, “à que estava à direita chamou-a Jaquim, e à que estava à esquerda chamou-a Booz”. Faz o altar de bronze, “um mar fundido” onde os sacerdotes se lavavam, dez bacias, dez candelabros de ouro, dez mesas e cem taças. Hiram-Abi faz os utensílios de bronze. “Salomão fez todos os vasos do templo de Deus, o altar de ouro, e as mesas… os candeeiros com as suas lâmpadas, para arderem diante do oráculo.”",
+    "alegorico": "O monte Moriá une o sacrifício de Isaac (Gn 22,2), a eira de Ornan, onde parou a peste (1Cr 21), e o templo: é o lugar do sacrifício que reconcilia, figura do Calvário. O véu bordado de querubins se rasga na morte de Cristo (Mt 27,51), abrindo o acesso ao Santo dos Santos (Hb 10,19-20). O “mar” onde os sacerdotes se lavam lembra o Batismo.",
+    "moral": "O templo é feito com o melhor ouro e com arte. A beleza do culto é forma de amor. Os nomes das colunas, Jaquim (“ele firma”) e Booz (“nele está a força”), lembram que a solidez da casa vem de Deus. E o lugar escolhido é o de um perdão: toda casa de Deus é lugar de reconciliação.",
+    "anagogico": "O Santo dos Santos coberto de ouro é imagem do céu, onde Cristo entrou “para comparecer agora diante de Deus por nós” (Hb 9,24)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Sobre o monte Moria.” “No lugar que Davide tinha preparado na eira de Ornan.” “Fez um véu de jacinto, de púrpura, de escarlate e de linho fino.” “Chamou-a Jaquim… chamou-a Booz.” “Os candeeiros com as suas lâmpadas, para arderem diante do oráculo.”",
+    "meditatio_perguntas": [
+      "Cuido da beleza e da dignidade do culto e das igrejas?",
+      "Sobre que colunas está firmada a minha vida?",
+      "A casa de Deus é para mim lugar de reconciliação?"
+    ],
+    "oratio_guia": "Senhor, que escolheste o monte do sacrifício para a tua casa, firma a minha vida sobre ti e faz de mim templo do teu Espírito, onde a lâmpada arda sempre diante de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Começou Salomão a edificar o templo do Senhor em Jerusalém, sobre o monte Moria",
+      "ref": "2Cr 3,1"
+    }
+  },
+  "ancoras": {
+    "3:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Única menção do Moriá fora de Gn 22,2: o cronista identifica o lugar do sacrifício de Isaac com o do templo.",
+        "origem": "ia"
+      }
+    },
+    "3:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jaquim e Booz: cf. 1Rs 7,21.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

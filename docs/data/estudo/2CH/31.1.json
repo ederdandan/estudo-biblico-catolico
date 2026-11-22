@@ -1,0 +1,57 @@
+{
+  "id": "2CH.31.1",
+  "livro": "2CH",
+  "titulo": "A reforma e a generosidade do povo",
+  "secao": "Os reis de Judá",
+  "referencia": "2Cr 31,1-21",
+  "ini": {
+    "c": 31,
+    "v": 1
+  },
+  "fim": {
+    "c": 31,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "“Tem sobejado muito, porque o Senhor abençoou o seu povo”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Terminada a festa, o povo destrói os ídolos e os lugares altos em Judá e até em Efraim e Manassés. Ezequias reorganiza os turnos dos sacerdotes e levitas, e dá do seu próprio para os holocaustos. Pede ao povo a parte devida aos sacerdotes e levitas, “para estes se poderem aplicar ao cumprimento da lei do Senhor”. “Os filhos de Israel ofereceram muitas primícias de trigo, de vinho, de azeite e de mel; ofereceram o dízimo de tudo.” Formam-se montões durante quatro meses. Ezequias pergunta sobre eles, e o sumo sacerdote Azarias responde: “Desde que começaram a oferecer primícias na casa do Senhor, temos comido e nos temos saciado, e tem sobejado muito, porque o Senhor abençoou o seu povo.” São construídos armazéns e organizada a distribuição justa, também às crianças e às mulheres dos levitas. “Ezequias… fez o que era bom, recto e verdadeiro na presença do Senhor seu Deus… agiu sempre desejoso de buscar o seu Deus de todo o seu coração; assim o fez, e foi bem sucedido.”",
+    "alegorico": "A abundância que sobra das ofertas lembra os cestos que sobram depois da multiplicação dos pães (Jo 6,13): quando se dá a Deus, há mais do que o suficiente. Paulo aplica o princípio ao sustento dos ministros: “os que servem ao altar têm parte no altar” (1Cor 9,13).",
+    "moral": "A generosidade do povo permite que os ministros se dediquem à Palavra. A Igreja precisa da partilha dos fiéis. E a experiência é sempre a mesma: quem dá a Deus não empobrece, “tem sobejado muito”. A boa administração (armazéns, distribuição, listas) também é serviço de Deus.",
+    "anagogico": "A bênção que faz sobrar anuncia a abundância do Reino, onde Deus “nos dará todas as coisas” com o seu Filho (Rm 8,32)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Para estes se poderem aplicar ao cumprimento da lei do Senhor.” “Ofereceram o dízimo de tudo o que a terra produz.” “Temos comido e nos temos saciado, e tem sobejado muito.” “Porque o Senhor abençoou o seu povo.” “Fez o que era bom, recto e verdadeiro.” “Desejoso de buscar o seu Deus de todo o seu coração.”",
+    "meditatio_perguntas": [
+      "Contribuo para o sustento da Igreja e dos seus ministros?",
+      "Experimento que dar a Deus não me empobrece?",
+      "Busco a Deus “de todo o coração” também na administração das coisas?"
+    ],
+    "oratio_guia": "Senhor, que abençoas o teu povo e fazes sobrar o que é partilhado, dá-me um coração generoso nas ofertas e fiel na administração. Que eu te busque de todo o coração em tudo. Amém.",
+    "contemplatio_foco": {
+      "texto": "temos comido e nos temos saciado, e tem sobejado muito, porque o Senhor abençoou o seu povo",
+      "ref": "2Cr 31,10"
+    }
+  },
+  "ancoras": {
+    "31:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Nm 18,12-21; Dt 14,22-29.",
+        "origem": "ia"
+      }
+    },
+    "31:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os sacerdotes e levitas, sustentados pelo povo, podiam dedicar-se à Lei (cf. Ne 13,10-13).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2CH.15.1",
+  "livro": "2CH",
+  "titulo": "A profecia de Azarias e a reforma de Asa",
+  "secao": "Os reis de Judá",
+  "referencia": "2Cr 15,1-19",
+  "ini": {
+    "c": 15,
+    "v": 1
+  },
+  "fim": {
+    "c": 15,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "“Se o buscardes, achá-lo-eis”: a aliança de Asa",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Azarias, filho de Obed, movido pelo espírito de Deus”, vai ao encontro de Asa: “O Senhor foi convosco, porque vós fostes com ele. Se o buscardes, achá-lo-eis, mas, se o abandonardes, ele vos abandonará.” Recorda os tempos em que Israel ficou “sem o verdadeiro Deus, sem sacerdote que instruísse, sem lei”; mas, “quando eles, na sua angústia, se converteram… e o buscaram, ele deixou-se achar por eles”. “Vós, porém, ganhai coragem, não se enfraqueçam as vossas mãos, porque a vossa obra será recompensada.” Asa se anima, tira os ídolos de toda a terra e restaura o altar. Reúne o povo, inclusive muitos do norte, e todos fazem aliança “de buscarem, de todo o seu coração e de toda a sua alma, o Senhor Deus de seus pais”. “Alegrando-se com o juramento, porque o fizeram de todo o seu coração; buscaram a Deus com toda a sua vontade e encontraram-no, e o Senhor deu-lhes paz.” Asa tira a Maaca, “sua mãe”, o título de rainha, porque ela levantara um ídolo de Astarte.",
+    "alegorico": "“Buscai, e achareis” (Mt 7,7): a palavra de Azarias é a de Jesus. A aliança renovada com alegria anuncia a renovação das promessas batismais na Vigília Pascal, em que a Igreja proclama de todo o coração a sua fé.",
+    "moral": "Buscar a Deus é o verbo central de Crônicas. A busca sincera, “de todo o coração”, termina em encontro e em alegria. Mas exige decisões concretas: Asa depõe até a rainha-mãe, porque a fidelidade a Deus está acima dos laços de família. E a palavra do profeta vale para todo cansado: “não se enfraqueçam as vossas mãos”.",
+    "anagogico": "Os que buscam a Deus com toda a vontade “e o encontraram” prefiguram o encontro definitivo, quando a busca termina na visão."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor foi convosco, porque vós fostes com ele.” “Se o buscardes, achá-lo-eis.” “Na sua angústia, se converteram.” “Ele deixou-se achar por eles.” “Não se enfraqueçam as vossas mãos, porque a vossa obra será recompensada.” “Buscaram a Deus com toda a sua vontade e encontraram-no.”",
+    "meditatio_perguntas": [
+      "Busco a Deus de todo o coração ou só em parte?",
+      "Que laços, mesmo legítimos, me impedem de ser fiel?",
+      "Onde preciso ouvir: “não se enfraqueçam as tuas mãos”?"
+    ],
+    "oratio_guia": "Senhor, eu te busco com toda a minha vontade: deixa-te achar por mim. Fortalece as minhas mãos cansadas e dá-me a alegria de te encontrar. Amém.",
+    "contemplatio_foco": {
+      "texto": "Se o buscardes, achá-lo-eis, mas, se o abandonardes, ele vos abandonará",
+      "ref": "2Cr 15,2"
+    }
+  },
+  "ancoras": {
+    "15:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A pena de morte reflete a mentalidade da época; o Evangelho ensina a buscar a conversão do pecador (cf. Dei Verbum 15).",
+        "origem": "ia"
+      }
+    },
+    "15:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Maaca era, na verdade, avó de Asa (1Rs 15,10.13); “mãe” indica o título de rainha-mãe.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

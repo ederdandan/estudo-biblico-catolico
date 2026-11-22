@@ -1,0 +1,57 @@
+{
+  "id": "2CH.9.1",
+  "livro": "2CH",
+  "titulo": "A rainha de Sabá e a morte de Salomão",
+  "secao": "Salomão e o Templo",
+  "referencia": "2Cr 9,1-31",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "A rainha de Sabá: “não me tinha sido dito metade”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“A rainha de Sabá, tendo também ouvido falar da fama de Salomão, foi a Jerusalém para o experimentar com enigmas”, com uma caravana carregada de aromas, ouro e pedras preciosas, “e expôs-lhe tudo o que tinha no seu coração”. Salomão lhe explica tudo. Vendo a sabedoria do rei, a casa, a mesa e o serviço, “ficou espantada e como fora de si”. Diz ao rei: “Eu não acreditava no que me contavam, até que eu mesma vim e vi com os meus olhos; então reconheci que apenas me tinha sido dito metade da grandeza da tua sabedoria… Bem-aventurados os teus servos, que estão sempre diante de ti e que ouvem a tua sabedoria. Bendito seja o Senhor teu Deus, que quis colocar-te sobre o seu trono como rei… Deus ama Israel… e por isso te constituiu seu rei, a fim de o julgares e lhe administrares justiça.” Seguem as riquezas de Salomão: o trono de marfim, os escudos de ouro, as naus de Társis. “Todos os reis da terra desejavam ver o rosto de Salomão, para ouvirem a sabedoria de que Deus tinha dotado o seu coração.” Salomão reina quarenta anos, morre e é sepultado na cidade de Davi.",
+    "alegorico": "Jesus cita este episódio: “A rainha do Meio-dia… veio dos confins da terra para ouvir a sabedoria de Salomão; e aqui está quem é mais do que Salomão” (Mt 12,42). Ela é figura dos magos e de todos os povos que vêm a Cristo trazendo ouro e aromas (Mt 2,11; Is 60,6). “Vim e vi com os meus olhos” lembra o “vinde e vede” do Evangelho (Jo 1,39).",
+    "moral": "A rainha busca a sabedoria com esforço: viaja, pergunta, abre o coração. A fé madura passa do “ouvir dizer” à experiência pessoal: “eu mesma vim e vi”. E ela reconhece que a sabedoria de Salomão é dom de Deus para o bem do povo. O cronista omite os pecados de Salomão: apresenta-o como figura ideal do rei sábio.",
+    "anagogico": "“Apenas me tinha sido dito metade”: assim será a visão de Deus no céu, que ultrapassará tudo o que ouvimos, pois “o olho não viu… o que Deus preparou para os que o amam” (1Cor 2,9)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Expôs-lhe tudo o que tinha no seu coração.” “Ficou espantada e como fora de si.” “Eu não acreditava no que me contavam, até que eu mesma vim e vi com os meus olhos.” “Apenas me tinha sido dito metade.” “Bem-aventurados os teus servos, que estão sempre diante de ti.” “Desejavam ver o rosto de Salomão.”",
+    "meditatio_perguntas": [
+      "A minha fé é “ouvir dizer” ou experiência pessoal com Cristo?",
+      "Abro o coração a Deus como a rainha diante de Salomão?",
+      "Desejo ver o rosto daquele que é mais do que Salomão?"
+    ],
+    "oratio_guia": "Senhor Jesus, mais sábio do que Salomão, eu venho a ti com as minhas perguntas e abro o meu coração. Bem-aventurados os que estão sempre diante de ti e ouvem a tua sabedoria. Amém.",
+    "contemplatio_foco": {
+      "texto": "reconheci que apenas me tinha sido dito metade da grandeza da tua sabedoria",
+      "ref": "2Cr 9,6"
+    }
+  },
+  "ancoras": {
+    "9:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 1Rs 10,1-13; Mt 12,42; Lc 11,31.",
+        "origem": "ia"
+      }
+    },
+    "9:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O cronista não narra a idolatria de Salomão no fim da vida (1Rs 11).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

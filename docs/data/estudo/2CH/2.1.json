@@ -1,0 +1,57 @@
+{
+  "id": "2CH.2.1",
+  "livro": "2CH",
+  "titulo": "Os preparativos e a aliança com Hirão",
+  "secao": "Salomão e o Templo",
+  "referencia": "2Cr 2,1-18",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "“Se o céu e os céus dos céus o não podem conter”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Salomão decide edificar a casa do Senhor e organiza milhares de carregadores, cortadores de pedra e inspetores. Escreve a Hirão, rei de Tiro, pedindo madeira de cedro, como ele fizera a Davi, para uma casa onde se queimará incenso, se exporão os pães da proposição e se oferecerão os holocaustos da manhã e da tarde. “A casa que eu pretendo edificar deve ser grande, visto que o nosso Deus é grande sobre todos os deuses. Quem poderá ser capaz de lhe edificar uma casa digna dele, se o céu e os céus dos céus o não podem conter? Quem sou eu que possa edificar-lhe uma casa?” Pede também um artista hábil. Hirão responde: “Porque o Senhor amou o seu povo, por isso te constituiu a ti rei sobre ele… Bendito seja o Senhor Deus de Israel, que fez o céu e a terra, que deu ao rei Davide um filho sábio.” Envia Hiram-Abi, artífice filho de mãe israelita, e promete madeira do Líbano por mar até Jope. Salomão conta os estrangeiros que viviam em Israel e os emprega na obra.",
+    "alegorico": "Um rei pagão bendiz o Deus de Israel e colabora no templo: figura da Igreja, em que os povos trazem as suas riquezas para a casa de Deus. A pergunta de Salomão, “quem poderá edificar-lhe uma casa digna?”, encontra resposta na Encarnação: o Deus que os céus não contêm fez-se carne e habitou entre nós (Jo 1,14).",
+    "moral": "Salomão constrói com grandeza, porque “o nosso Deus é grande”, mas com humildade: “quem sou eu?”. Generosidade e humildade andam juntas no serviço de Deus. Também o culto precisa de competência técnica: pede-se um artista hábil. E até um estrangeiro reconhece que o rei é um dom do amor de Deus ao seu povo.",
+    "anagogico": "O Deus que os céus dos céus não podem conter prepara para nós uma morada em que habitará conosco para sempre (Ap 21,3)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Resolveu Salomão edificar uma casa ao nome do Senhor.” “O nosso Deus é grande sobre todos os deuses.” “Se o céu e os céus dos céus o não podem conter.” “Quem sou eu que possa edificar-lhe uma casa?” “Porque o Senhor amou o seu povo, por isso te constituiu a ti rei sobre ele.”",
+    "meditatio_perguntas": [
+      "Ofereço a Deus o melhor, porque ele é grande?",
+      "Uno a generosidade à humildade no serviço de Deus?",
+      "Reconheço os dons que Deus me deu como sinais do seu amor pelos outros?"
+    ],
+    "oratio_guia": "Senhor, a quem os céus dos céus não podem conter, aceita a casa pobre do meu coração. Dá-me servir-te com grandeza e humildade. Amém.",
+    "contemplatio_foco": {
+      "texto": "Quem poderá ser capaz de lhe edificar uma casa digna dele, se o céu e os céus dos céus o não podem conter?",
+      "ref": "2Cr 2,6"
+    }
+  },
+  "ancoras": {
+    "2:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 1Rs 8,27; At 7,48-49.",
+        "origem": "ia"
+      }
+    },
+    "2:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O artífice é chamado Hiram em 1Rs 7,13.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

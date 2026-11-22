@@ -1,0 +1,57 @@
+{
+  "id": "2CH.22.1",
+  "livro": "2CH",
+  "titulo": "Atalia e o menino Joás escondido no templo",
+  "secao": "Os reis de Judá",
+  "referencia": "2Cr 22,1–23,21",
+  "ini": {
+    "c": 22,
+    "v": 1
+  },
+  "fim": {
+    "c": 23,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "O menino escondido no templo: Atalia e Joás",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ocozias, filho de Jorão, reina um ano, porque “sua mãe o impeliu a proceder com impiedade”, e morre na revolta de Jeú. “Atalia, mãe de Ocozias, vendo que tinha sido morto seu filho, levantou-se e matou toda a estirpe real.” “Porém Josabet, filha do rei, pegou em Joás, filho de Ocozias, e furtou-o do meio dos outros filhos do rei, quando os estavam a matar”; escondeu-o com a ama. Josabet era mulher do sumo sacerdote Jojada, e o menino “esteve escondido com eles na casa do Senhor durante os seis anos em que Atalia reinou”. No sétimo ano, Jojada faz aliança com os chefes, levitas e povo; arma os levitas com as lanças de Davi guardadas no templo. “Então trouxeram o filho do rei, puseram-lhe a coroa na cabeça e o testemunho, deram-lhe a lei… O pontífice Jojada e seus filhos ungiram-no, aclamando-o aos gritos de: Viva o rei!” Atalia chega, vê o rei e o povo em festa, rasga as vestes e grita: “Traição! Traição!” É levada para fora do templo e morta. “Jojada fez aliança entre si e todo o povo e o rei, pela qual seriam o povo do Senhor.” O povo destrói o templo de Baal, e a cidade fica em paz.",
+    "alegorico": "O menino herdeiro de Davi salvo do massacre e escondido anuncia Jesus, salvo da matança de Herodes e escondido no Egito (Mt 2,13-16). A coroa, o “testemunho” (a Lei) e a unção fazem de Joás figura do Messias, Rei ungido, que guarda a Lei. A linhagem de Davi esteve reduzida a uma criança: Deus guarda a sua promessa nas coisas pequenas.",
+    "moral": "A coragem silenciosa de uma mulher, Josabet, salva a promessa de Deus. Os grandes acontecimentos da salvação muitas vezes dependem de gestos escondidos de fidelidade. E a reconstrução começa por uma aliança: o povo volta a ser “o povo do Senhor”.",
+    "anagogico": "O rei escondido no templo e manifestado no tempo certo é imagem de Cristo, agora oculto aos olhos, que se manifestará na glória quando chegar a hora (Cl 3,4)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Josabet… pegou em Joás… e furtou-o do meio dos outros filhos do rei.” “Esteve escondido com eles na casa do Senhor durante seis anos.” “Puseram-lhe a coroa na cabeça e o testemunho.” “Viva o rei!” “Traição! Traição!” “Seriam o povo do Senhor.”",
+    "meditatio_perguntas": [
+      "Que gestos escondidos de fidelidade Deus me pede?",
+      "Protejo a vida dos pequenos e ameaçados?",
+      "Renovo a aliança de ser “do Senhor”?"
+    ],
+    "oratio_guia": "Senhor, que guardaste o menino herdeiro de Davi no teu templo, guarda os pequenos ameaçados e dá-me a coragem escondida de Josabet. Que eu seja sempre do teu povo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Esteve escondido com eles na casa do Senhor durante os seis anos em que Atalia reinou sobre o país",
+      "ref": "2Cr 22,12"
+    }
+  },
+  "ancoras": {
+    "22:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O hebraico diz quarenta e dois anos; 2Rs 8,26 diz vinte e dois.",
+        "origem": "ia"
+      }
+    },
+    "23:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“O testemunho” é provavelmente o documento da Lei ou da aliança entregue ao rei (Dt 17,18).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

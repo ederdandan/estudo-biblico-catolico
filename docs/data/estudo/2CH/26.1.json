@@ -1,0 +1,57 @@
+{
+  "id": "2CH.26.1",
+  "livro": "2CH",
+  "titulo": "Ozias: a glória, o orgulho e a lepra",
+  "secao": "Os reis de Judá",
+  "referencia": "2Cr 26,1-23",
+  "ini": {
+    "c": 26,
+    "v": 1
+  },
+  "fim": {
+    "c": 26,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Ozias: “o seu coração elevou-se de soberba”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ozias começa a reinar aos dezesseis anos. “Buscou o Senhor enquanto viveu Zacarias, homem inteligente e profeta de Deus; como ele buscava o Senhor, o Senhor o dirigiu em tudo.” Vence filisteus e árabes, fortifica Jerusalém, cava poços, ama a agricultura, organiza o exército e constrói máquinas de guerra. “A fama do seu nome espalhou-se até muito longe, porque o Senhor o auxiliava.” “Mas, ao ver-se poderoso, o seu coração elevou-se de soberba para sua ruína.” Entra no templo para queimar incenso, função reservada aos sacerdotes. O sumo sacerdote Azarias, com oitenta sacerdotes “corajosos”, se opõe: “Não pertence a ti, Ozias, queimar incenso ao Senhor, mas aos sacerdotes… sai do santuário.” Ozias, irado, com o turíbulo na mão, ameaça os sacerdotes, e “imediatamente apareceu-lhe lepra na fronte”. Expulso do templo, vive leproso numa casa separada até à morte, e o filho Joatão governa em seu lugar.",
+    "alegorico": "No ano da morte de Ozias, Isaías vê o Senhor no templo, e os serafins purificam os seus lábios (Is 6,1-7): o rei que entrou no santuário com soberba é ferido; o profeta que se reconhece impuro é purificado. Cristo, Rei e Sacerdote, “não se atribuiu a glória de ser pontífice”, mas a recebeu do Pai (Hb 5,4-5).",
+    "moral": "O texto mostra a curva da soberba: Deus ajuda, o homem cresce, o coração se eleva, e o homem invade o que não lhe pertence. O sucesso é a hora mais perigosa. Os sacerdotes mostram coragem ao enfrentar o rei. E a lepra na fronte torna visível o que estava escondido no coração.",
+    "anagogico": "Quem se exalta será humilhado (Lc 14,11): a soberba exclui da casa de Deus, mas a humildade abre as portas do santuário celeste."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Buscou o Senhor enquanto viveu Zacarias.” “Como ele buscava o Senhor, o Senhor o dirigiu em tudo.” “Porque o Senhor o auxiliava e o fortalecia.” “Ao ver-se poderoso, o seu coração elevou-se de soberba para sua ruína.” “Não pertence a ti, Ozias.” “Apareceu-lhe lepra na fronte.”",
+    "meditatio_perguntas": [
+      "O sucesso faz crescer em mim a soberba?",
+      "Respeito os limites do meu papel na Igreja e na sociedade?",
+      "Tenho a coragem dos sacerdotes que disseram “não” ao rei?"
+    ],
+    "oratio_guia": "Senhor, que me ajudas e me fortaleces, guarda-me da soberba nos dias de êxito. Que eu saiba o meu lugar e te sirva com humildade. Amém.",
+    "contemplatio_foco": {
+      "texto": "Mas, ao ver-se poderoso, o seu coração elevou-se de soberba para sua ruína",
+      "ref": "2Cr 26,16"
+    }
+  },
+  "ancoras": {
+    "26:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ozias é chamado Azarias em 2Rs 15.",
+        "origem": "ia"
+      }
+    },
+    "26:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Isaías, filho de Amós, escreveu os atos de Ozias; cf. Is 6,1.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

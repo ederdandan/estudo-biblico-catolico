@@ -1,0 +1,57 @@
+{
+  "id": "2CH.6.1",
+  "livro": "2CH",
+  "titulo": "A oração de Salomão na dedicação",
+  "secao": "Salomão e o Templo",
+  "referencia": "2Cr 6,1-42",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 42
+  },
+  "liturgia": {
+    "tema_central": "A oração de Salomão: “Ouve do céu e perdoa”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Salomão diz: “O Senhor declarou que habitaria na escuridão! Eu edifiquei uma casa ao seu nome.” Abençoa o povo e recorda a promessa feita a Davi. Depois sobe a um estrado de bronze no meio do átrio, “posto de joelhos… e as mãos levantadas ao céu”, e reza: “Senhor, Deus de Israel, não há Deus semelhante a ti… Realizaste com a mão o que prometeste com a boca… Porém, como é crível que Deus habite com os homens sobre a terra? Se o céu e os céus dos céus te não podem conter, quanto menos esta casa… Contudo atende à oração… Que, de dia e de noite, tenhas os teus olhos abertos sobre esta casa.” Pede que Deus ouça e perdoe em cada situação: o juramento, a derrota, a seca, a fome, a doença, o estrangeiro que vem “atraído pela fama do teu grande nome”, a guerra, e até o exílio: “Quando eles pecarem contra ti (porque não há homem que não peque)… se… fizerem penitência… dizendo: Nós pecamos… ouve-os, do céu… perdoa ao teu povo, ainda que pecador.” E conclui: “Levanta-te, pois, Senhor Deus, e vem para o teu descanso… lembra-te das misericórdias concedidas ao teu servo Davide.”",
+    "alegorico": "O templo é casa de oração “para todos os povos” (Is 56,7; Mc 11,17), como Salomão pede pelo estrangeiro. O Deus que não cabe nos céus habita na carne de Cristo, verdadeiro templo, e nos corações dos fiéis. A oração voltada para o templo prefigura a oração “em nome de Jesus”, sempre ouvida pelo Pai (Jo 16,23).",
+    "moral": "A oração de Salomão é um modelo de intercessão: humilde (“como é crível que Deus habite com os homens?”), realista (“não há homem que não peque”), universal (inclui o estrangeiro) e confiante no perdão. Ensina também a confessar: “nós pecamos, nós cometemos a iniquidade”. A conversão é possível mesmo no exílio.",
+    "anagogico": "“Levanta-te, Senhor, e vem para o teu descanso”: a oração aponta para o repouso definitivo de Deus com o seu povo, no sábado eterno (Hb 4,9)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Posto de joelhos… e as mãos levantadas ao céu.” “Realizaste com a mão o que prometeste com a boca.” “Como é crível que Deus habite com os homens sobre a terra?” “De dia e de noite, tenhas os teus olhos abertos sobre esta casa.” “Ensina-lhes o bom caminho.” “Não há homem que não peque.” “Perdoa ao teu povo, ainda que pecador.”",
+    "meditatio_perguntas": [
+      "Intercedo pelos outros, inclusive pelos “estrangeiros”?",
+      "Sei confessar com simplicidade: “nós pecamos”?",
+      "Creio que Deus ouve e perdoa, mesmo nos meus “exílios”?"
+    ],
+    "oratio_guia": "Senhor, Deus de Israel, não há Deus semelhante a ti. Mantém os teus olhos abertos sobre a tua Igreja; ouve do céu e perdoa ao teu povo, ainda que pecador. Ensina-nos o bom caminho. Amém.",
+    "contemplatio_foco": {
+      "texto": "Se o céu e os céus dos céus te não podem conter, quanto menos esta casa, que eu edifiquei!",
+      "ref": "2Cr 6,18"
+    }
+  },
+  "ancoras": {
+    "6:41": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os vv. 41-42 citam o Sl 131,8-10 (Vulgata).",
+        "origem": "ia"
+      }
+    },
+    "6:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O estrado de bronze é detalhe próprio de Crônicas; cf. 1Rs 8,22.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

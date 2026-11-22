@@ -1,0 +1,57 @@
+{
+  "id": "2CH.20.1",
+  "livro": "2CH",
+  "titulo": "“Não é vossa a peleja, mas de Deus”",
+  "secao": "Os reis de Judá",
+  "referencia": "2Cr 20,1-37",
+  "ini": {
+    "c": 20,
+    "v": 1
+  },
+  "fim": {
+    "c": 20,
+    "v": 37
+  },
+  "liturgia": {
+    "tema_central": "“Não sabemos o que fazer, mas os nossos olhos estão em ti”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Moabitas, amonitas e gente de Seir avançam contra Judá com uma grande multidão. “Josafat, cheio de medo, aplicou-se inteiramente a rogar ao Senhor e fez publicar um jejum em todo Judá.” No templo, diante do povo, reza: “Senhor Deus de nossos pais, tu és o Deus do céu e dominas sobre todos os reinos das nações… Em nós certamente não há tantas forças que possamos resistir a esta multidão… Mas, como não sabemos o que devemos fazer, por isso não nos fica outro recurso senão voltar para ti os nossos olhos.” Todo Judá está de pé diante do Senhor, com as crianças e as mulheres. O Espírito desce sobre o levita Jaaziel: “Não vos assusteis, não tenhais medo desta multidão, porque não é vossa a peleja, mas sim de Deus… ficai lá, e vereis o socorro do Senhor.” Todos se prostram e os levitas louvam em alta voz. Pela manhã, Josafá diz: “Ponde a vossa confiança no Senhor vosso Deus, e nada tereis a temer.” Coloca os cantores à frente do exército, cantando: “Louvai o Senhor, porque a sua misericórdia é eterna.” “Tendo eles começado a cantar os louvores, o Senhor lançou a discórdia” entre os inimigos, que se destroem entre si. Judá recolhe os despojos por três dias e bendiz o Senhor no vale de Beraca (“bênção”). No fim, Josafá se alia ao ímpio Ocozias para construir navios, e as naus se despedaçam.",
+    "alegorico": "Um exército que vai à guerra cantando, à frente o coro dos levitas: é imagem da Igreja, cuja arma é o louvor. A vitória é de Deus, como na cruz, onde Cristo vence sem armas. Paulo: “as armas do nosso combate não são carnais, mas poderosas em Deus” (2Cor 10,4).",
+    "moral": "A oração de Josafá é o modelo da oração na angústia: reconhecer a grandeza de Deus, confessar a própria fraqueza, admitir “não sabemos o que fazer” e fixar os olhos em Deus. A resposta é libertadora: “não é vossa a peleja”. O louvor precede a vitória: cantar a misericórdia de Deus antes de ver o socorro é o ato mais alto da fé.",
+    "anagogico": "O vale de Beraca, onde o povo bendiz a Deus depois da vitória, anuncia o louvor eterno dos redimidos, que celebram para sempre a vitória do Cordeiro."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Aplicou-se inteiramente a rogar ao Senhor.” “Tu és o Deus do céu.” “Não sabemos o que devemos fazer… voltar para ti os nossos olhos.” “Não é vossa a peleja, mas sim de Deus.” “Ficai lá, e vereis o socorro do Senhor.” “Ponde a vossa confiança no Senhor vosso Deus.” “Louvai o Senhor, porque a sua misericórdia é eterna.”",
+    "meditatio_perguntas": [
+      "Quando não sei o que fazer, volto os meus olhos para Deus?",
+      "Consigo louvar a Deus antes de ver a solução?",
+      "Que “peleja” preciso entregar a Deus, porque não é minha?"
+    ],
+    "oratio_guia": "Senhor Deus do céu, não sei o que fazer, mas os meus olhos estão em ti. A peleja é tua: eu fico, louvo e espero o teu socorro, porque a tua misericórdia é eterna. Amém.",
+    "contemplatio_foco": {
+      "texto": "como não sabemos o que devemos fazer, por isso não nos fica outro recurso senão voltar para ti os nossos olhos",
+      "ref": "2Cr 20,12"
+    }
+  },
+  "ancoras": {
+    "20:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O exército precedido pelos cantores lembra a tomada de Jericó (Js 6).",
+        "origem": "ia"
+      }
+    },
+    "20:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Beraca significa “bênção”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

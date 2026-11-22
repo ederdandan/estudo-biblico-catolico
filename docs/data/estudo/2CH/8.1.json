@@ -1,0 +1,49 @@
+{
+  "id": "2CH.8.1",
+  "livro": "2CH",
+  "titulo": "As obras de Salomão e o culto organizado",
+  "secao": "Salomão e o Templo",
+  "referencia": "2Cr 8,1-18",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Salomão organiza o culto segundo Davi, homem de Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Passados vinte anos, Salomão reconstrói as cidades dadas por Hirão, fortifica cidades, emprega como trabalhadores os descendentes dos povos cananeus, e não os israelitas, que são seus soldados e chefes. Muda a filha do Faraó para outra casa, porque, diz: “Não habitará minha mulher na casa de Davide… porquanto foi santificada, quando entrou nela a arca do Senhor.” Oferece holocaustos “todos os dias… conforme a ordenação de Moisés, e nos sábados, nas neomênias e nos dias de festa, três vezes no ano”. “Distribuiu, segundo as disposições de Davide, seu pai, as funções aos sacerdotes… aos Levitas, que cantavam louvores ao Senhor… porque assim o tinha mandado Davide, homem de Deus.” E não se transgrediu a ordem. As naus de Salomão e de Hirão vão a Ofir e trazem ouro.",
+    "alegorico": "O culto diário, semanal e anual organizado no templo prefigura o ritmo litúrgico da Igreja: a Missa diária, o domingo e o ano litúrgico com as suas festas. A fidelidade às disposições de Davi lembra a fidelidade da Igreja à tradição recebida dos apóstolos.",
+    "moral": "Salomão respeita a santidade do lugar onde esteve a arca: o sagrado pede distinção. E segue as disposições do pai: a obra de uma geração é continuada pela outra com fidelidade. A vida espiritual também precisa de ritmo: cada dia, cada semana, cada ano.",
+    "anagogico": "O ciclo das festas que se repete no tempo aponta para a festa eterna, que não terá ocaso."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Foi santificada, quando entrou nela a arca do Senhor.” “Todos os dias sacrifícios, conforme a ordenação de Moisés.” “Três vezes no ano.” “Assim o tinha mandado Davide, homem de Deus.” “Não transgrediram a ordem do rei.”",
+    "meditatio_perguntas": [
+      "A minha vida de oração tem um ritmo diário, semanal e anual?",
+      "Respeito a santidade dos lugares e momentos sagrados?",
+      "Continuo com fidelidade o que recebi dos que me precederam?"
+    ],
+    "oratio_guia": "Senhor, que recebeste de Salomão o culto de cada dia e de cada festa, dá ritmo e fidelidade à minha oração e faz-me continuar o bem que recebi. Amém.",
+    "contemplatio_foco": {
+      "texto": "porque assim o tinha mandado Davide, homem de Deus",
+      "ref": "2Cr 8,14"
+    }
+  },
+  "ancoras": {
+    "8:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As três festas de peregrinação: Ázimos (Páscoa), Semanas (Pentecostes) e Tabernáculos (Ex 23,14-17).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2CH.33.1",
+  "livro": "2CH",
+  "titulo": "A conversão de Manassés",
+  "secao": "Os reis de Judá",
+  "referencia": "2Cr 33,1-25",
+  "ini": {
+    "c": 33,
+    "v": 1
+  },
+  "fim": {
+    "c": 33,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "A conversão de Manassés: “Quando se viu na angústia, orou”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Manassés reina cinquenta e cinco anos e “fez o mal diante do Senhor”: restaura os lugares altos, levanta altares a Baal e à milícia do céu dentro da casa do Senhor, faz passar os filhos pelo fogo, “observava os sonhos, seguia os agouros, entregava-se às artes mágicas”, e seduz Judá a fazer pior que as nações. “O Senhor falou a ele e ao seu povo, e não o quiseram ouvir.” Os assírios o prendem e o levam para a Babilônia “com cadeias e grilhões”. “Quando se viu na angústia, orou ao Senhor seu Deus e fez grande penitência diante do Deus de seus pais. Suplicou-lhe, rogou-lhe fervorosamente, e o Senhor ouviu a sua oração e o reconduziu a Jerusalém no seu reino. Manassés reconheceu que o Senhor é Deus.” De volta, tira do templo os deuses estranhos, restaura o altar do Senhor e manda Judá servir a Deus. Seu filho Amon faz o mal como o pai, mas “não se humilhou… como seu pai Manassés se tinha humilhado”, e é morto pelos servos.",
+    "alegorico": "Manassés, o pior dos reis, convertido na prisão, é imagem do filho pródigo, que “caindo em si” volta ao pai (Lc 15,17-20), e do bom ladrão. A tradição atribui-lhe a “Oração de Manassés”, cantada na Igreja como salmo de penitência. Nenhum pecado é maior que a misericórdia de Deus.",
+    "moral": "Se Manassés pôde ser perdoado, ninguém está longe demais. A angústia, que poderia endurecer, torna-se ocasião de conversão. Mas a conversão de Manassés não apaga o mal que ensinou: o filho Amon imita os pecados do pai, mas não a sua penitência. O exemplo de mal deixa marcas; por isso, convertido, Manassés tenta reparar.",
+    "anagogico": "“Manassés reconheceu que o Senhor é Deus”: a conversão é já o começo do conhecimento de Deus que se consumará na vida eterna, onde há “mais alegria por um pecador que se converte” (Lc 15,7)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não o quiseram ouvir.” “Preso com cadeias e grilhões.” “Quando se viu na angústia, orou ao Senhor seu Deus.” “Fez grande penitência.” “O Senhor ouviu a sua oração.” “Manassés reconheceu que o Senhor é Deus.” “Não se humilhou… como seu pai Manassés se tinha humilhado.”",
+    "meditatio_perguntas": [
+      "Acredito que nenhum pecado é maior que a misericórdia de Deus?",
+      "Como vivo os momentos de angústia: endureço ou rezo?",
+      "Procuro reparar o mal que fiz, depois de convertido?"
+    ],
+    "oratio_guia": "Senhor, Deus de misericórdia, que ouviste Manassés nas suas cadeias, ouve também a minha oração e faz-me voltar a ti. Que eu repare o mal que fiz e reconheça que só tu és Deus. Amém.",
+    "contemplatio_foco": {
+      "texto": "Quando se viu na angústia, orou ao Senhor seu Deus e fez grande penitência diante do Deus de seus pais",
+      "ref": "2Cr 33,12"
+    }
+  },
+  "ancoras": {
+    "33:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A conversão de Manassés não é narrada em 2Rs 21; a “Oração de Manassés” está no apêndice da Vulgata.",
+        "origem": "ia"
+      }
+    },
+    "33:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O vale de Ben-Enom, dito também Benenon: cf. 28,3.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
