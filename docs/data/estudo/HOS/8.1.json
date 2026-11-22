@@ -1,0 +1,57 @@
+{
+  "id": "HOS.8.1",
+  "livro": "HOS",
+  "titulo": "Semearam ventos, colherão tempestades",
+  "secao": "O processo do Senhor contra Israel",
+  "referencia": "Os 8,1-14",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "“Semearam ventos, colherão tempestades”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Emboca a trombeta!” O inimigo cai como uma águia sobre a casa do Senhor, “porque transgrediram a minha aliança e violaram a minha lei. Clamam a mim, dizendo: Meu Deus, nós, o povo de Israel, te conhecemos. Israel rejeitou o bem.” “Estabeleceram reis, mas não da minha parte… fabricaram para si ídolos da sua prata e do seu ouro.” “O bezerro de Samaria… um artífice o fabricou, ele não é Deus… Visto que semearam ventos, colherão tempestades.” Israel pagou aos assírios, “seus amantes”. “Efraim multiplicou os altares de pecado; esses altares só lhe serviram para pecar. Escrevi para ele as palavras da minha lei, mas ele considera-a como lei alheia.” Oferecem sacrifícios que o Senhor não aceita. “Israel esqueceu-se do seu Criador e edificou palácios; Judá multiplicou as suas cidades fortificadas; mas enviarei fogo sobre as suas cidades.”",
+    "alegorico": "Os que dizem “nós te conhecemos” sem viver a aliança lembram a advertência de Jesus: “Nem todo o que me diz: Senhor, Senhor, entrará no reino dos céus” (Mt 7,21). Paulo retoma a lei da semeadura: “o que o homem semear, isso mesmo colherá” (Gl 6,7).",
+    "moral": "O texto denuncia uma religião de fachada: dizer “meu Deus, nós te conhecemos”, multiplicar altares, e ao mesmo tempo fazer reis sem Deus e ídolos de ouro. Pior ainda: tratar a Lei de Deus “como lei alheia”, que não nos diz respeito. As escolhas sem Deus são sementes de vento, e o vento semeado volta como tempestade.",
+    "anagogico": "A colheita final revelará o que cada um semeou: quem semeia no Espírito colherá a vida eterna (Gl 6,8)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Meu Deus, nós… te conhecemos.” “Israel rejeitou o bem.” “Estabeleceram reis, mas não da minha parte.” “Um artífice o fabricou, ele não é Deus.” “Semearam ventos, colherão tempestades.” “Considera-a como lei alheia.” “Israel esqueceu-se do seu Criador e edificou palácios.”",
+    "meditatio_perguntas": [
+      "Digo “conheço a Deus” mas vivo como se a sua Lei fosse “alheia”?",
+      "Que ventos estou semeando com as minhas escolhas?",
+      "Construo “palácios” esquecendo o Criador?"
+    ],
+    "oratio_guia": "Senhor, que eu não diga apenas “meu Deus, eu te conheço”, mas viva a tua Lei como palavra dirigida a mim. Dá-me semear o bem, para colher a vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "Visto que semearam ventos, colherão tempestades",
+      "ref": "Os 8,7"
+    }
+  },
+  "ancoras": {
+    "8:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O bezerro de ouro de Betel, levantado por Jeroboão I (1Rs 12,28-30).",
+        "origem": "ia"
+      }
+    },
+    "8:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Alusão à sucessão de golpes de Estado no reino do Norte.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,40 +1,57 @@
 {
   "id": "HOS.12.1",
   "livro": "HOS",
-  "titulo": "Efraim apascenta-se de vento: ó morte, onde está o teu flagelo?",
+  "titulo": "Jacó lutou com o anjo e prevaleceu",
   "secao": "O amor que vence",
-  "referencia": "Os 12,1–13,15",
+  "referencia": "Os 12,1-14",
   "ini": {
     "c": 12,
     "v": 1
   },
   "fim": {
-    "c": 13,
-    "v": 15
+    "c": 12,
+    "v": 14
   },
   "liturgia": {
-    "tema_central": "Da infidelidade histórica à vitória sobre a morte",
+    "tema_central": "“Converte-te ao teu Deus; guarda a misericórdia e a justiça”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Efraim apascenta-se de vento, faz alianças com a Assíria e leva azeite ao Egito. O profeta recorda Jacó, que lutou com o anjo e chorou pedindo graça; o povo deve voltar, guardar a misericórdia e a justiça, esperar sempre em Deus. Mas Efraim confia no seu comércio injusto. No capítulo 13, Efraim, outrora forte, peca com ídolos e beija bezerros; será como nuvem da manhã e fumo. Deus o conheceu no deserto; esqueceram-no na fartura. Contudo: “livrá-los-ei do poder do sepulcro… Ó morte, onde está o teu flagelo?”",
-    "alegorico": "São Paulo cita este versículo no hino da vitória pascal: “Ó morte, onde está o teu aguilhão?” (1Cor 15,55). Cristo, novo Jacó que lutou na agonia, vence a morte por nós.",
-    "moral": "A memória dos patriarcas ensina a lutar em oração e a chorar pedindo graça. O perigo maior não é a pobreza do deserto, mas a fartura que faz esquecer Deus.",
-    "anagogico": "O resgate do poder do sepulcro é a ressurreição dos mortos: a morte, último inimigo, será destruída."
+    "literal": "“Efraim apascenta-se de vento… Todos os dias multiplica a mentira e a violência; faz aliança com os Assírios e leva o seu azeite ao Egipto.” O Senhor vem a juízo e recorda o patriarca: “Jacob suplantou seu irmão no ventre de sua mãe, e com a sua fortaleza lutou com Deus; lutou com o anjo e ficou vencedor, chorou e suplicou-lhe; encontrou-o em Betel, onde o Senhor falou conosco.” E exorta: “Converte-te, pois, ao teu Deus; guarda a misericórdia e a justiça, e espera sempre no teu Deus.” Efraim, comerciante de balança enganosa, diz: “Em verdade tornei-me rico… não se encontrará que eu tenha cometido injustiça alguma.” Deus responde: “Eu, que sou o Senhor teu Deus, desde a terra do Egipto, far-te-ei repousar ainda nas tuas tendas.” Recorda os profetas e Jacó, que serviu por uma esposa: “O Senhor fez sair Israel do Egipto por meio dum profeta, e por meio dum profeta o povo foi guardado.”",
+    "alegorico": "Jacó que luta com o anjo, chora e suplica, é a imagem da oração perseverante que “vence” a Deus, como a cananeia que insiste até ser atendida (Mt 15,22-28). O profeta que tira Israel do Egito é Moisés, figura de Cristo, o Profeta que guarda o seu povo.",
+    "moral": "Efraim se considera justo porque é rico e “não se encontra injustiça” nos seus ganhos: a autojustificação é cegueira. O caminho proposto é triplo: converter-se, guardar misericórdia e justiça, esperar sempre em Deus. E Jacó ensina que se pode “lutar” com Deus na oração, com lágrimas e súplicas.",
+    "anagogico": "“Far-te-ei repousar ainda nas tuas tendas”: a promessa de um novo começo aponta para o repouso definitivo do povo de Deus."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Efraim apascenta-se de vento.” “Jacó lutou com o anjo, chorou e suplicou-lhe.” “Converte-te ao teu Deus, guarda a misericórdia e a justiça.” “Ó morte, onde está o teu flagelo? Ó inferno, onde a tua destruição?”",
+    "lectio_resumo": "“Efraim apascenta-se de vento.” “Lutou com o anjo e ficou vencedor, chorou e suplicou-lhe.” “Converte-te, pois, ao teu Deus.” “Guarda a misericórdia e a justiça, e espera sempre no teu Deus.” “Em verdade tornei-me rico.” “Por meio dum profeta o povo foi guardado.”",
     "meditatio_perguntas": [
       "De que “vento” me alimento?",
-      "Luto com Deus na oração, como Jacó?",
-      "Creio de verdade na vitória de Cristo sobre a morte?"
+      "Sei lutar com Deus na oração, com lágrimas e perseverança?",
+      "Considero-me justo por ter prosperado?"
     ],
-    "oratio_guia": "Senhor da vida, que me conheceste no deserto, não permitas que te esqueça na fartura. Dá-me a perseverança de Jacó na oração e a esperança firme na tua vitória sobre a morte. Amém.",
+    "oratio_guia": "Senhor, ensina-me a lutar contigo na oração, como Jacó, e a não me apascentar de vento. Que eu guarde a misericórdia e a justiça e espere sempre em ti. Amém.",
     "contemplatio_foco": {
-      "texto": "Ó morte, onde está o teu flagelo? ó inferno, onde a tua destruição?",
-      "ref": "Os 13,14"
+      "texto": "Converte-te pois, ao teu Deus; guarda a misericórdia e a justiça, e espera sempre no teu Deus",
+      "ref": "Os 12,6"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "12:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Gn 25,26; 32,24-30.",
+        "origem": "ia"
+      }
+    },
+    "12:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Gn 29,18-20.",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }

@@ -1,46 +1,46 @@
 {
   "id": "HOS.7.1",
   "livro": "HOS",
-  "titulo": "Efraim, pomba ingênua: semearam ventos, colherão tempestades",
+  "titulo": "Efraim, pomba sem inteligência",
   "secao": "O processo do Senhor contra Israel",
-  "referencia": "Os 7,1–8,14",
+  "referencia": "Os 7,1-16",
   "ini": {
     "c": 7,
     "v": 1
   },
   "fim": {
-    "c": 8,
-    "v": 14
+    "c": 7,
+    "v": 16
   },
   "liturgia": {
-    "tema_central": "A falsidade de Israel: buscar o Egito e a Assíria em vez de Deus",
+    "tema_central": "“Efraim tornou-se como uma pomba sem inteligência”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Quando Deus quer curar Israel, aparece a sua maldade: fraude, roubo, intrigas palacianas; os reis caem um após outro e ninguém clama a Deus. Efraim é como bolo não virado, pomba ingênua que chama o Egito e vai à Assíria. Clamam nos seus leitos, mas não de coração. No capítulo 8, a trombeta anuncia o inimigo: fizeram reis sem Deus, ídolos de prata, o bezerro de Samaria. “Semearam ventos, colherão tempestades.” Multiplicaram altares para pecar e esqueceram o seu Criador.",
-    "alegorico": "A “pomba ingênua” contrasta com a pomba do Espírito, que dá simplicidade sem tolice (Mt 10,16). Os reis feitos sem Deus contrastam com Cristo, Rei escolhido pelo Pai.",
-    "moral": "Quem semeia ventos colhe tempestades: as escolhas feitas sem Deus produzem frutos amargos. A vida dupla, metade crua e metade queimada, como o bolo não virado, é sinal de uma fé que não chega ao coração.",
-    "anagogico": "A colheita final revelará o que cada um semeou; o juízo é a manifestação da verdade das nossas sementeiras."
+    "literal": "“Quando eu tratava de curar Israel, tornou-se patente a iniquidade de Efraim e a malícia de Samaria.” “Não dizem nos seus corações que me lembro de toda a sua malícia.” Os conspiradores são como um forno aceso: “Toda a noite dormiu o padeiro; pela manhã o forno estava todo esbraseado.” “Todos os seus reis caíram; não há entre eles quem levante a voz para mim.” “Efraim mistura-se com os povos; Efraim tornou-se como um bolo que não se volta. Os estrangeiros devoraram a sua força, sem ele o sentir; os seus cabelos tornaram-se brancos, sem ele o perceber.” “Efraim tornou-se como uma pomba imbecil, sem inteligência. Chamam o Egipto, vão ter com os Assírios.” “Ai deles, porque se retiraram de mim!… Não clamam a mim do fundo do seu coração, mas uivam nos seus leitos… Voltam-se, mas não para o alto; são como um arco doloso.”",
+    "alegorico": "A pomba sem inteligência contrasta com a recomendação de Jesus: “sede prudentes como as serpentes e simples como as pombas” (Mt 10,16); e com a pomba do Espírito, que desce sobre Cristo no Jordão. Os reis que caem uns após outros (quatro assassinados em vinte anos) contrastam com o Reino de Cristo, que não terá fim.",
+    "moral": "Imagens fortes para a vida sem Deus: o bolo não virado, queimado de um lado e cru do outro (uma vida dividida); os cabelos brancos “sem ele perceber” (a decadência que não se nota); a pomba tonta que vai de um lado para outro. O pior é a oração que não vem “do fundo do coração”: lamentos na cama, mas nenhuma volta “para o alto”.",
+    "anagogico": "“Voltam-se, mas não para o alto”: a conversão verdadeira volta-se para o alto, para Deus, e encontra nele o seu fim."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Efraim é como pomba ingênua, sem entendimento: chamam o Egito, vão à Assíria.” “Não clamaram a mim de coração.” “Semearam ventos, colherão tempestades.” “Israel esqueceu-se do seu Criador.”",
+    "lectio_resumo": "“Não dizem nos seus corações que me lembro de toda a sua malícia.” “Não há entre eles quem levante a voz para mim.” “Efraim tornou-se como um bolo que não se volta.” “Os seus cabelos tornaram-se brancos, sem ele o perceber.” “Como uma pomba… sem inteligência.” “Não clamam a mim do fundo do seu coração.” “Voltam-se, mas não para o alto.”",
     "meditatio_perguntas": [
-      "Em que área da minha vida sou “bolo não virado”?",
-      "Clamo a Deus de coração ou só por aflição?",
-      "Que ventos estou semeando?"
+      "Vivo uma fé dividida, “bolo que não se volta”?",
+      "Que decadência espiritual pode estar acontecendo em mim “sem eu perceber”?",
+      "A minha oração vem do fundo do coração e volta-se para o alto?"
     ],
-    "oratio_guia": "Senhor, meu Criador, não permitas que eu te esqueça. Dá-me simplicidade sem ingenuidade e faz que eu semeie justiça, para não colher tempestades. Amém.",
+    "oratio_guia": "Senhor, que eu não seja pomba sem inteligência, que procura socorro em todos menos em ti. Converte-me de todo o coração, para que eu me volte para o alto. Amém.",
     "contemplatio_foco": {
-      "texto": "Visto que semearam ventos, colherão tempestades",
-      "ref": "Os 8,7"
+      "texto": "Efraim tornou-se como uma pomba imbecil",
+      "ref": "Os 7,11"
     }
   },
   "ancoras": {
-    "8:5": {
+    "7:7": {
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "O bezerro de Samaria é o culto instituído por Jeroboão I em Betel e Dã (1Rs 12,28-29), causa permanente da apostasia do Norte.",
+        "texto": "Entre 746 e 732 a.C., quatro reis de Israel foram assassinados (2Rs 15).",
         "origem": "ia"
       }
     }

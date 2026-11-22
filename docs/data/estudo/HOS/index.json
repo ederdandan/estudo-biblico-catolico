@@ -22,12 +22,26 @@
   },
   {
    "id": "HOS.2.1",
-   "titulo": "Eu a conduzirei à soledade e lhe falarei ao coração",
+   "titulo": "O processo contra a esposa infiel",
    "secao": "O matrimônio do profeta",
-   "referencia": "Os 2,1-24",
+   "referencia": "Os 2,1-13",
    "ini": {
     "c": 2,
     "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 13
+   }
+  },
+  {
+   "id": "HOS.2.14",
+   "titulo": "Eu a conduzirei à soledade e lhe falarei ao coração",
+   "secao": "O matrimônio do profeta",
+   "referencia": "Os 2,14-24",
+   "ini": {
+    "c": 2,
+    "v": 14
    },
    "fim": {
     "c": 2,
@@ -78,7 +92,7 @@
   },
   {
    "id": "HOS.6.1",
-   "titulo": "Quero o amor e não os sacrifícios",
+   "titulo": "Quero o amor, e não os sacrifícios",
    "secao": "O processo do Senhor contra Israel",
    "referencia": "Os 6,1-11",
    "ini": {
@@ -92,11 +106,25 @@
   },
   {
    "id": "HOS.7.1",
-   "titulo": "Efraim, pomba ingênua: semearam ventos, colherão tempestades",
+   "titulo": "Efraim, pomba sem inteligência",
    "secao": "O processo do Senhor contra Israel",
-   "referencia": "Os 7,1–8,14",
+   "referencia": "Os 7,1-16",
    "ini": {
     "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 16
+   }
+  },
+  {
+   "id": "HOS.8.1",
+   "titulo": "Semearam ventos, colherão tempestades",
+   "secao": "O processo do Senhor contra Israel",
+   "referencia": "Os 8,1-14",
+   "ini": {
+    "c": 8,
     "v": 1
    },
    "fim": {
@@ -106,11 +134,25 @@
   },
   {
    "id": "HOS.9.1",
-   "titulo": "Israel, vinha frondosa: semeai na justiça",
+   "titulo": "O fim das festas: Efraim errante entre as nações",
    "secao": "O processo do Senhor contra Israel",
-   "referencia": "Os 9,1–10,15",
+   "referencia": "Os 9,1-17",
    "ini": {
     "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 17
+   }
+  },
+  {
+   "id": "HOS.10.1",
+   "titulo": "Israel, vinha frondosa: semeai na justiça",
+   "secao": "O processo do Senhor contra Israel",
+   "referencia": "Os 10,1-15",
+   "ini": {
+    "c": 10,
     "v": 1
    },
    "fim": {
@@ -134,11 +176,25 @@
   },
   {
    "id": "HOS.12.1",
-   "titulo": "Efraim apascenta-se de vento: ó morte, onde está o teu flagelo?",
+   "titulo": "Jacó lutou com o anjo e prevaleceu",
    "secao": "O amor que vence",
-   "referencia": "Os 12,1–13,15",
+   "referencia": "Os 12,1-14",
    "ini": {
     "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 14
+   }
+  },
+  {
+   "id": "HOS.13.1",
+   "titulo": "Ó morte, eu serei a tua morte",
+   "secao": "O amor que vence",
+   "referencia": "Os 13,1-15",
+   "ini": {
+    "c": 13,
     "v": 1
    },
    "fim": {

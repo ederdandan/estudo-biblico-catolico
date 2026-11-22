@@ -1,0 +1,57 @@
+{
+  "id": "HOS.13.1",
+  "livro": "HOS",
+  "titulo": "Ó morte, eu serei a tua morte",
+  "secao": "O amor que vence",
+  "referencia": "Os 13,1-15",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "“Ó morte, onde está o teu flagelo?”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Efraim, outrora forte, pecou com Baal “e morreu”. Agora fabricam ídolos de prata, “dão beijos nos bezerros”. “Por isso serão como a nuvem da manhã, como o orvalho matinal, que logo passa, como o pó arrebatado da eira… como o fumo que sai pela janela.” “Todavia eu sou o Senhor teu Deus desde a terra do Egipto; tu não conhecerás outro Deus fora de mim; não há Salvador senão eu. Conheci-te no deserto, numa terra estéril. Eles fartaram-se… uma vez saciados, levantaram o seu coração e esqueceram-se de mim.” Deus será como leão e ursa privada dos filhotes. “Estás perdido, ó Israel, só em mim está o teu auxílio. Onde está o teu rei para te salvar?” E, no meio da ameaça, a palavra: “livrá-los-ei do poder do sepulcro, resgatá-los-ei da morte? Ó morte, onde está o teu flagelo? Ó inferno, onde a tua destruição?” O vento do oriente secará a fonte de Efraim.",
+    "alegorico": "Paulo cita este versículo no hino à ressurreição: “A morte foi tragada pela vitória. Onde está, ó morte, a tua vitória? Onde está, ó morte, o teu aguilhão?” (1Cor 15,54-55). A liturgia pascal o canta: Cristo venceu a morte. “Não há Salvador senão eu” cumpre-se em Jesus, cujo nome significa “Deus salva” (At 4,12).",
+    "moral": "A saciedade gera esquecimento: “uma vez saciados, levantaram o seu coração e esqueceram-se de mim”. Na abundância, o coração se ensoberbece. Mas mesmo quando tudo parece perdido, “só em mim está o teu auxílio”. Nenhum rei, nenhum poder humano salva; só Deus, e ele é capaz de vencer até a morte.",
+    "anagogico": "“Ó morte, onde está o teu flagelo?”: o grito de vitória da ressurreição final, quando a morte será destruída para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Como o orvalho matinal, que logo passa.” “Não há Salvador senão eu.” “Conheci-te no deserto, numa terra estéril.” “Uma vez saciados, levantaram o seu coração e esqueceram-se de mim.” “Só em mim está o teu auxílio.” “Ó morte, onde está o teu flagelo?”",
+    "meditatio_perguntas": [
+      "A abundância me faz esquecer a Deus?",
+      "Onde busco auxílio quando me sinto perdido?",
+      "Creio na vitória de Cristo sobre a morte?"
+    ],
+    "oratio_guia": "Senhor, só tu és o meu Salvador, só em ti está o meu auxílio. Que a fartura não me faça esquecer-te. Livra-me do poder da morte: ó morte, onde está o teu flagelo? Amém.",
+    "contemplatio_foco": {
+      "texto": "Ó morte, onde está o teu flagelo? ó inferno, onde a tua destruição?",
+      "ref": "Os 13,14"
+    }
+  },
+  "ancoras": {
+    "13:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em 1Cor 15,55. A Vulgata traduz: “Ero mors tua, o mors” (“Serei a tua morte, ó morte”).",
+        "origem": "ia"
+      }
+    },
+    "13:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 1Sm 8: o povo pediu um rei.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

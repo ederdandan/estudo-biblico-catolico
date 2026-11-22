@@ -1,7 +1,7 @@
 {
   "id": "HOS.6.1",
   "livro": "HOS",
-  "titulo": "Quero o amor e não os sacrifícios",
+  "titulo": "Quero o amor, e não os sacrifícios",
   "secao": "O processo do Senhor contra Israel",
   "referencia": "Os 6,1-11",
   "ini": {
@@ -13,34 +13,42 @@
     "v": 11
   },
   "liturgia": {
-    "tema_central": "O amor e o conhecimento de Deus valem mais que os sacrifícios",
+    "tema_central": "“O que eu quero é o amor, e não os sacrifícios”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Na angústia, o povo diz: “Vinde, voltemos para o Senhor: ele nos feriu e nos curará; depois de dois dias nos dará a vida, ao terceiro dia nos ressuscitará”. Mas a conversão é superficial: o seu amor é como nuvem da manhã, como orvalho que passa. Por isso Deus os cortou pelos profetas. “O que eu quero é o amor, e não os sacrifícios, o conhecimento de Deus mais que os holocaustos.” Como Adão, violaram a aliança; Galaad é cidade de malfeitores; até os sacerdotes assassinam.",
-    "alegorico": "“Ao terceiro dia nos ressuscitará” foi lido pelos Padres como anúncio da Ressurreição de Cristo, na qual o seu povo ressuscita com Ele. Jesus cita duas vezes “quero misericórdia e não sacrifício” (Mt 9,13; 12,7).",
-    "moral": "A conversão não pode ser orvalho da manhã. Deus não rejeita o culto, mas quer que nasça de um amor fiel (hesed) e de um conhecimento vivo dele; sem isso, o sacrifício é vazio.",
-    "anagogico": "Depois dos “dois dias” desta vida e da morte vem o terceiro dia da ressurreição, quando viveremos na presença de Deus."
+    "literal": "O povo diz: “Vinde, voltemos para o Senhor, porque assim como nos dilacerou, também nos sarará; ele nos feriu, ele nos curará. Dar-nos-á novamente a vida em dois dias; ao terceiro dia levantar-nos-á, e viveremos na sua presença. Entraremos na ciência do Senhor, segui-lo-emos a fim de o conhecer. A sua vinda está preparada como a da aurora, e ele descerá sobre nós como a chuva.” Mas Deus responde com tristeza: “Que te farei, Efraim? Que te farei, Judá? A vossa caridade é como uma nuvem da manhã, como o orvalho transitório da manhã… Porque o que eu quero é o amor, e não os sacrifícios, o conhecimento de Deus mais que os holocaustos. Mas eles… violaram a aliança, atraiçoaram-me.” Galaad está cheia de sangue, e sacerdotes assaltam os peregrinos no caminho de Siquém.",
+    "alegorico": "Jesus cita duas vezes este versículo: “Ide e aprendei o que significa: Quero misericórdia e não sacrifício” (Mt 9,13; 12,7). A promessa “ao terceiro dia levantar-nos-á” foi lida pelos Padres como profecia da Ressurreição de Cristo ao terceiro dia (1Cor 15,4), na qual nós também ressuscitamos.",
+    "moral": "A conversão do povo parece bela, mas é superficial: “como o orvalho da manhã”, que desaparece com o sol. Deus não quer emoções passageiras nem ritos sem coração, mas amor fiel e conhecimento verdadeiro. O culto sem misericórdia não agrada a Deus. Perseverar é o sinal da conversão verdadeira.",
+    "anagogico": "“Ao terceiro dia levantar-nos-á, e viveremos na sua presença”: a ressurreição final, em que viveremos para sempre diante de Deus."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Vinde, voltemos para o Senhor: ele nos feriu e nos curará.” “O vosso amor é como nuvem da manhã.” “O que eu quero é o amor, e não os sacrifícios, o conhecimento de Deus mais que os holocaustos.”",
+    "lectio_resumo": "“Vinde, voltemos para o Senhor.” “Ele nos feriu, ele nos curará.” “Ao terceiro dia levantar-nos-á, e viveremos na sua presença.” “A sua vinda está preparada como a da aurora.” “A vossa caridade é como uma nuvem da manhã.” “O que eu quero é o amor, e não os sacrifícios.”",
     "meditatio_perguntas": [
-      "A minha conversão é duradoura ou como orvalho que passa?",
-      "O meu culto nasce de amor fiel?",
-      "Que lugar tem a misericórdia na minha prática religiosa?"
+      "A minha conversão é perseverante ou passageira como o orvalho?",
+      "O meu culto vem acompanhado de misericórdia?",
+      "Espero o Senhor como se espera a aurora?"
     ],
-    "oratio_guia": "Senhor, que feres e curas, ressuscita-me ao terceiro dia com o teu Filho. Dá-me um amor que não se evapore, e faz que o meu culto seja amor e conhecimento de ti. Amém.",
+    "oratio_guia": "Senhor, que feres e curas, dá-me um amor que não passe como o orvalho da manhã. Que eu te ofereça misericórdia e conhecimento verdadeiro, e viva na tua presença. Amém.",
     "contemplatio_foco": {
-      "texto": "o que eu quero é o amor, e não os sacrifícios",
+      "texto": "o que eu quero é o amor, e não os sacrifícios, o conhecimento de Deus mais que os holocaustos",
       "ref": "Os 6,6"
     }
   },
   "ancoras": {
-    "6:2": {
+    "6:6": {
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "Muitos Padres viram neste versículo (“ao terceiro dia nos ressuscitará”) uma profecia da Ressurreição; cf. 1Cor 15,4 “segundo as Escrituras”.",
+        "texto": "Citado por Jesus em Mt 9,13 e 12,7.",
+        "origem": "ia"
+      }
+    },
+    "6:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A imagem da aurora e da chuva da primavera fala da vinda de Deus como dom gratuito e certo.",
         "origem": "ia"
       }
     }

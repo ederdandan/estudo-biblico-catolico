@@ -1,40 +1,57 @@
 {
   "id": "HOS.9.1",
   "livro": "HOS",
-  "titulo": "Israel, vinha frondosa: semeai na justiça",
+  "titulo": "O fim das festas: Efraim errante entre as nações",
   "secao": "O processo do Senhor contra Israel",
-  "referencia": "Os 9,1–10,15",
+  "referencia": "Os 9,1-17",
   "ini": {
     "c": 9,
     "v": 1
   },
   "fim": {
-    "c": 10,
-    "v": 15
+    "c": 9,
+    "v": 17
   },
   "liturgia": {
-    "tema_central": "O fim das festas e o convite a semear na justiça",
+    "tema_central": "“Encontrei Israel como cachos de uvas no deserto”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Israel não deve alegrar-se como os povos: prostituiu-se longe de Deus. Voltará ao Egito e comerá impureza na Assíria; as festas cessarão. O profeta é tido por louco porque denuncia o pecado. Deus achou Israel como uvas no deserto, mas em Baal-Fegor se consagraram à vergonha; Efraim será estéril. No capítulo 10, Israel, vinha frondosa, multiplicou altares; o bezerro de Betel será levado; dirão aos montes: “Cobri-nos”. Ainda assim: “Semeai para vós na justiça, segai segundo a misericórdia, porque é tempo de buscar o Senhor”.",
-    "alegorico": "Cristo cita “dirão aos montes: cobri-nos” no caminho da cruz (Lc 23,30), e o Apocalipse o retoma (Ap 6,16). A vinha frondosa que dá frutos para si contrasta com Cristo, a Videira verdadeira.",
-    "moral": "A prosperidade pode levar à idolatria: quanto mais fruto, mais altares. O remédio é romper o pousio do coração e semear justiça, pois sempre é tempo de buscar o Senhor.",
-    "anagogico": "A colheita “segundo a misericórdia” aponta para o juízo final, onde a misericórdia triunfa para quem semeou justiça."
+    "literal": "“Não te alegres, Israel, não exultes como os povos, porque te prostituíste, sendo infiel ao teu Deus.” As festas da colheita terminarão: “Não habitarão na terra do Senhor. Os de Efraim voltarão para o Egito, e comerão alimentos impuros entre os Assírios.” “Que fareis vós no dia solene, no dia da festa do Senhor?” “Chegaram os dias do castigo… Clama Israel: O profeta é louco, o varão espiritual é insensato!” O profeta encontra laços em todos os caminhos, “a perseguição mesmo na casa do seu Deus”. Deus recorda o início: “Encontrei Israel como cachos de uvas no deserto; vi os vossos pais como os primeiros frutos da figueira. Porém, chegados a Beelfegor, consagraram-se à infâmia e tornaram-se abomináveis como as coisas que amaram.” A glória de Efraim voará como uma ave; os filhos serão poucos. “O meu Deus os rejeitará, porque não o ouviram; andarão errantes entre as nações.”",
+    "alegorico": "O profeta chamado “louco” e perseguido na casa de Deus anuncia Cristo, de quem diziam “está fora de si” (Mc 3,21) e que foi rejeitado pelos chefes do templo. A figueira cujos primeiros frutos alegravam Deus e que depois não dá fruto lembra a figueira estéril do Evangelho (Mc 11,13-14).",
+    "moral": "Uma frase profunda: “tornaram-se abomináveis como as coisas que amaram”. Tornamo-nos semelhantes ao que amamos. Quem ama ídolos fica vazio como eles; quem ama a Deus se torna semelhante a ele. E Deus recorda com ternura o primeiro amor: como quem encontra uvas no deserto. Ele não esquece o que fomos no início.",
+    "anagogico": "Os errantes entre as nações serão um dia reunidos; e os que amam a Deus serão semelhantes a ele, “porque o veremos como ele é” (1Jo 3,2)."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Como uvas no deserto achei Israel.” “Israel era uma vinha frondosa: quanto mais frutos, mais altares.” “Semeai para vós na justiça, segai segundo a misericórdia, rompei os vossos pousios, porque é tempo de buscar o Senhor.”",
+    "lectio_resumo": "“Não te alegres, Israel.” “Que fareis vós no dia solene?” “O profeta é louco.” “Encontrei Israel como cachos de uvas no deserto.” “Tornaram-se abomináveis como as coisas que amaram.” “A glória de Efraim voará como uma ave.” “Andarão errantes entre as nações.”",
     "meditatio_perguntas": [
-      "A prosperidade me afastou de Deus?",
-      "Que “pousio” do meu coração precisa ser rompido?",
-      "Considero que agora é tempo de buscar o Senhor?"
+      "Em que me torno, a partir daquilo que amo?",
+      "Lembro-me do meu primeiro amor a Deus?",
+      "Escuto os profetas de hoje ou os chamo de loucos?"
     ],
-    "oratio_guia": "Senhor, que achaste o teu povo como uvas no deserto, rompe o pousio do meu coração. Ensina-me a semear na justiça para colher misericórdia, agora que é tempo de te buscar. Amém.",
+    "oratio_guia": "Senhor, que me encontraste como uvas no deserto, faz-me voltar ao primeiro amor. Que eu te ame, para me tornar semelhante a ti, e não aos ídolos. Amém.",
     "contemplatio_foco": {
-      "texto": "Semeai para vós na justiça, segai segundo a misericórdia, rompei os vossos pousios, porque é tempo de buscar o Senhor",
-      "ref": "Os 10,12"
+      "texto": "Encontrei Israel como cachos de uvas no deserto",
+      "ref": "Os 9,10"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "9:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Beelfegor: cf. Nm 25,1-5, a idolatria com as moabitas.",
+        "origem": "ia"
+      }
+    },
+    "9:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os dias de Gabaa: cf. Jz 19–21.",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }

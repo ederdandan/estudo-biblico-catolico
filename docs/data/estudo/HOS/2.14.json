@@ -1,0 +1,57 @@
+{
+  "id": "HOS.2.14",
+  "livro": "HOS",
+  "titulo": "Eu a conduzirei à soledade e lhe falarei ao coração",
+  "secao": "O matrimônio do profeta",
+  "referencia": "Os 2,14-24",
+  "ini": {
+    "c": 2,
+    "v": 14
+  },
+  "fim": {
+    "c": 2,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "“Conduzi-la-ei à soledade e falar-lhe-ei ao coração”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Depois do castigo, a surpresa: “Por isso a atrairei, conduzi-la-ei à soledade e falar-lhe-ei ao coração. Dar-lhe-ei as suas vinhas e o vale de Acor, como porta de esperança; ali cantará como nos dias da sua juventude, e como nos dias em que subiu da terra do Egipto.” “Nesse dia, diz o Senhor, ela me chamará: Meu esposo; não me chamará mais: Meu Baal.” Deus fará aliança com os animais e tirará da terra o arco e a espada. “Então me desposarei contigo para sempre, desposar-me-ei contigo na justiça e no direito, na misericórdia e no amor; desposar-me-ei contigo com uma inviolável fidelidade, e saberás que eu sou o Senhor.” Os céus responderão à terra, a terra ao trigo e ao vinho. “Compadecer-me-ei daquela que se chamava Sem-misericórdia. Direi ao que se chamava Não-meu-povo: Tu és o meu povo. E ele me dirá: Tu és o meu Deus.”",
+    "alegorico": "O deserto onde Deus fala ao coração é o lugar onde Jesus foi conduzido pelo Espírito (Mt 4,1) e onde a Igreja é alimentada (Ap 12,6). As núpcias “para sempre” cumprem-se em Cristo Esposo e na Igreja Esposa (Ef 5,25-32; Ap 19,7). O vale de Acor, lugar de desgraça (Js 7), torna-se “porta de esperança”: assim a cruz.",
+    "moral": "A resposta de Deus à infidelidade não é o abandono, mas uma nova sedução: “a atrairei… e falar-lhe-ei ao coração”. O deserto, a solidão, o silêncio são os lugares onde Deus volta a falar. E o que ele oferece não é só perdão, mas um novo casamento, com cinco dons: justiça, direito, misericórdia, amor e fidelidade. O lugar da derrota pode tornar-se porta de esperança.",
+    "anagogico": "“Desposar-me-ei contigo para sempre”: as núpcias eternas do Cordeiro, em que a Igreja, “preparada como esposa”, dirá para sempre: “Tu és o meu Deus”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A atrairei, conduzi-la-ei à soledade e falar-lhe-ei ao coração.” “O vale de Acor, como porta de esperança.” “Ela me chamará: Meu esposo.” “Desposar-me-ei contigo para sempre.” “Na misericórdia e no amor.” “Saberás que eu sou o Senhor.” “Tu és o meu povo… Tu és o meu Deus.”",
+    "meditatio_perguntas": [
+      "Deixo Deus conduzir-me ao “deserto” para me falar ao coração?",
+      "Que “vale de Acor” da minha vida pode tornar-se porta de esperança?",
+      "Posso dizer a Deus, com verdade: “Tu és o meu Deus”?"
+    ],
+    "oratio_guia": "Senhor, atrai-me ao deserto e fala-me ao coração. Desposa-me para sempre na justiça, na misericórdia e na fidelidade, e faz do meu vale de derrota uma porta de esperança. Tu és o meu Deus. Amém.",
+    "contemplatio_foco": {
+      "texto": "conduzi-la-ei à soledade e falar-lhe-ei ao coração",
+      "ref": "Os 2,14"
+    }
+  },
+  "ancoras": {
+    "2:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração hebraica, Os 2,16. Texto usado na liturgia da consagração das virgens.",
+        "origem": "ia"
+      }
+    },
+    "2:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Acor (“desgraça”): cf. Js 7,24-26.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,46 +1,54 @@
 {
   "id": "HOS.2.1",
   "livro": "HOS",
-  "titulo": "Eu a conduzirei à soledade e lhe falarei ao coração",
+  "titulo": "O processo contra a esposa infiel",
   "secao": "O matrimônio do profeta",
-  "referencia": "Os 2,1-24",
+  "referencia": "Os 2,1-13",
   "ini": {
     "c": 2,
     "v": 1
   },
   "fim": {
     "c": 2,
-    "v": 24
+    "v": 13
   },
   "liturgia": {
-    "tema_central": "Deus seduz de novo a esposa infiel e renova a aliança",
+    "tema_central": "“Ela não reconheceu que fui eu que lhe dei o trigo”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "O Senhor intenta um processo contra a esposa infiel, Israel, que atribuiu aos baalins o trigo, o vinho e o azeite que ela recebeu de Deus. Ele cercará o seu caminho com espinhos, retirará os dons, fará cessar as festas. Mas o castigo é pedagógico: “a atrairei, conduzi-la-ei à soledade e falar-lhe-ei ao coração”. O vale de Acor se tornará porta de esperança; ela o chamará “meu marido” e não mais “meu Baal”. Deus a desposará para sempre, na justiça, no direito, na misericórdia, no amor e na fidelidade.",
-    "alegorico": "O deserto é o lugar do primeiro amor do Êxodo e prefigura o deserto onde Cristo é tentado e vence. Os esponsais eternos cumprem-se na Nova Aliança: Cristo desposa a Igreja no seu sangue, com fidelidade inviolável.",
-    "moral": "Muitas vezes atribuímos aos “baalins” (dinheiro, sucesso, prazer) os bens que vêm de Deus. O Senhor às vezes retira as seguranças para levar a alma ao deserto, onde pode ouvi-lo falar ao coração. A secura espiritual pode ser convite de amor.",
-    "anagogico": "“Desposar-me-ei contigo para sempre”: a aliança tende às núpcias eternas, quando a esposa “conhecerá o Senhor” face a face, sem infidelidade possível."
+    "literal": "“Dizei a vossos irmãos: Vós sois o meu povo; e a vossa irmã: Tu alcançaste misericórdia.” Mas logo o processo começa: “Levai a juízo a vossa mãe… porque ela não é mais minha esposa, nem eu seu esposo.” A esposa, figura de Israel, diz: “Irei após os meus amantes, que me dão o meu pão e a minha água, a minha lã e o meu linho, o meu azeite e a minha bebida.” Deus responde: “vou fechar-lhe o caminho com uma sebe de espinhos… Irá em seguimento dos seus amantes, mas não os alcançará… Dirá então: Irei e voltarei para o meu primeiro esposo, porque então eu era mais feliz do que agora. Ela não reconheceu que fui eu que lhe dei o trigo, o vinho e o azeite, e que lhe prodigalizei a prata e o ouro, que ofereceram a Baal.” Por isso Deus retirará os seus dons, fará cessar as festas, destruirá as vinhas, “pelos dias em que prestou culto aos Baais… enquanto se enfeitava… e ia após os seus amantes, esquecendo-se de mim, diz o Senhor”.",
+    "alegorico": "A esposa que atribui aos ídolos os dons recebidos de Deus lembra o filho pródigo, que só no vazio diz: “quantos jornaleiros na casa de meu pai têm pão em abundância” (Lc 15,17). A “sebe de espinhos” que fecha o caminho do erro é a misericórdia que impede de chegar ao abismo.",
+    "moral": "O pecado de Israel é a ingratidão: atribuir os dons de Deus a outros “amantes”. Também nós atribuímos a prosperidade ao dinheiro, à sorte, ao poder. Quando Deus “fecha o caminho” e retira os dons, não é vingança: é pedagogia, para que a alma diga “eu era mais feliz” com ele. As frustrações podem ser a sebe que nos reconduz.",
+    "anagogico": "“Irei e voltarei para o meu primeiro esposo”: o caminho de volta, mesmo nascido da desilusão, é o início do retorno definitivo à casa de Deus."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Ela não reconheceu que fui eu quem lhe deu o trigo, o vinho e o azeite.” “Por isso a atrairei, conduzi-la-ei à soledade e falar-lhe-ei ao coração.” “Desposar-me-ei contigo para sempre… e saberás que eu sou o Senhor.”",
+    "lectio_resumo": "“Irei após os meus amantes.” “Vou fechar-lhe o caminho com uma sebe de espinhos.” “Irei e voltarei para o meu primeiro esposo, porque então eu era mais feliz do que agora.” “Ela não reconheceu que fui eu que lhe dei o trigo, o vinho e o azeite.” “Esquecendo-se de mim, diz o Senhor.”",
     "meditatio_perguntas": [
-      "A que “baalins” atribuo os bens que recebi de Deus?",
-      "Que deserto o Senhor está usando para falar ao meu coração?",
-      "O que significa, para mim, chamar Deus de “meu Esposo”?"
+      "A quem atribuo os bens que tenho?",
+      "Que “amantes” procuro em vez de Deus?",
+      "Vejo as frustrações como sebe que Deus põe para me reconduzir?"
     ],
-    "oratio_guia": "Senhor, leva-me ao deserto e fala ao meu coração. Tira de mim os nomes dos ídolos e faze do meu vale de Acor uma porta de esperança. Desposa-me na justiça, na misericórdia e na fidelidade, para que eu te conheça. Amém.",
+    "oratio_guia": "Senhor, foste tu que me deste o pão, o vinho e o azeite. Perdoa a minha ingratidão. Fecha-me os caminhos do erro e faz-me voltar a ti, porque contigo eu era mais feliz. Amém.",
     "contemplatio_foco": {
-      "texto": "a atrairei, conduzi-la-ei à soledade e falar-lhe-ei ao coração",
-      "ref": "Os 2,14"
+      "texto": "Ela não reconheceu que fui eu que lhe dei o trigo, o vinho e o azeite",
+      "ref": "Os 2,8"
     }
   },
   "ancoras": {
-    "2:15": {
+    "2:1": {
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "O vale de Acor (“perturbação”) lembra o pecado de Acã (Js 7); o lugar da derrota se torna entrada da esperança.",
+        "texto": "Na numeração hebraica, Os 2,1 é 2,3.",
+        "origem": "ia"
+      }
+    },
+    "2:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os Baais eram divindades cananeias da fertilidade.",
         "origem": "ia"
       }
     }

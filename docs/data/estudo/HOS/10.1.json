@@ -1,0 +1,57 @@
+{
+  "id": "HOS.10.1",
+  "livro": "HOS",
+  "titulo": "Israel, vinha frondosa: semeai na justiça",
+  "secao": "O processo do Senhor contra Israel",
+  "referencia": "Os 10,1-15",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "“Semeai na justiça, segai segundo a misericórdia”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Israel era uma vinha frondosa… Quanto mais abundou em frutos, tanto mais multiplicou os seus altares; quanto mais rica era a terra, mais ricas estelas construía. É falso o seu coração.” Dirão: “Nós não temos rei… porque não tememos o Senhor.” Fazem alianças falsas, e o castigo brota “como erva venenosa sobre os sulcos”. O bezerro de Betaven será levado à Assíria como presente; “o seu rei é como espuma sobre a superfície da água”. Sobre os altares crescerão espinhos. “Então dirão às montanhas: Cobri-nos! e aos outeiros: Caí sobre nós.” Efraim era uma novilha que gostava de pisar a eira, mas receberá o jugo. E o apelo: “Semeai para vós na justiça, segai segundo a misericórdia, rompei os vossos pousios, porque é tempo de buscar o Senhor, até que venha ensinar-vos a justiça.” Mas “cultivastes a impiedade, segastes a iniquidade, comestes o fruto da mentira. Confiaste nos teus caminhos e na multidão dos teus valentes.”",
+    "alegorico": "Jesus cita este texto a caminho do Calvário: “Então começarão a dizer aos montes: Caí sobre nós! e aos outeiros: Cobri-nos!” (Lc 23,30; cf. Ap 6,16). A vinha que dá fruto para si mesma é retomada na parábola dos vinhateiros (Mt 21,33-43) e em Cristo, a videira verdadeira (Jo 15,1).",
+    "moral": "A prosperidade, em vez de gerar gratidão, multiplicou a idolatria: quanto mais rico, mais falso o coração. O apelo do profeta é agrícola e concreto: romper o terreno endurecido (os “pousios”), semear justiça, colher misericórdia. “É tempo de buscar o Senhor”: hoje, não amanhã. Confiar nos próprios caminhos e nas próprias forças é comer “o fruto da mentira”.",
+    "anagogico": "“Até que venha ensinar-vos a justiça”: aquele que vem é o Senhor, que no fim fará chover a justiça sobre a terra."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Israel era uma vinha frondosa.” “É falso o seu coração.” “O seu rei é como espuma sobre a superfície da água.” “Dirão às montanhas: Cobri-nos!” “Semeai para vós na justiça, segai segundo a misericórdia.” “Rompei os vossos pousios.” “É tempo de buscar o Senhor.” “Comestes o fruto da mentira.”",
+    "meditatio_perguntas": [
+      "A prosperidade me torna mais grato ou mais falso?",
+      "Que “pousio” do meu coração precisa ser rompido?",
+      "Estou buscando o Senhor agora, ou adiando?"
+    ],
+    "oratio_guia": "Senhor, rompe o terreno duro do meu coração. Que eu semeie justiça e colha misericórdia. É tempo de te buscar: vem e ensina-me a justiça. Amém.",
+    "contemplatio_foco": {
+      "texto": "Semeai para vós na justiça, segai segundo a misericórdia, rompei os vossos pousios, porque é tempo de buscar o Senhor",
+      "ref": "Os 10,12"
+    }
+  },
+  "ancoras": {
+    "10:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em Lc 23,30 e Ap 6,16.",
+        "origem": "ia"
+      }
+    },
+    "10:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Episódio de guerra desconhecido; Salmana talvez seja Salmanasar.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

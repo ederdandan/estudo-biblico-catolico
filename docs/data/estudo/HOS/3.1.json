@@ -13,28 +13,45 @@
     "v": 5
   },
   "liturgia": {
-    "tema_central": "O amor que resgata e espera a conversão",
+    "tema_central": "“Vai, ainda, e ama”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "O Senhor manda Oseias amar de novo uma mulher adúltera, “assim como o Senhor ama os filhos de Israel”, embora se voltem para deuses estranhos. O profeta a compra por quinze siclos de prata e uma medida e meia de cevada, e impõe-lhe um tempo de espera: sem amantes, sem união. Assim Israel ficará muitos dias sem rei, sem sacrifício, sem efod. Depois, os filhos de Israel voltarão e buscarão o Senhor e a Davi, seu rei, e acudirão tremendo ao Senhor nos últimos dias.",
-    "alegorico": "O preço pago pela esposa figura o resgate que Cristo paga, não com prata, mas com o seu sangue (1Pd 1,18-19). “Davi, seu rei” é o Messias, Filho de Davi, a quem Israel se voltará.",
-    "moral": "O amor verdadeiro não se limita a perdoar: ele paga o preço e ajuda a curar, com paciência e disciplina. O tempo de purificação não é rejeição, mas caminho de volta.",
-    "anagogico": "“Nos últimos dias” o povo virá tremendo ao Senhor e à sua bondade: é a conversão final de Israel e a plenitude da Igreja na glória."
+    "literal": "“O Senhor disse-me: Vai, ainda, e ama uma mulher que foi amada dum amante e adúltera: é assim que o Senhor ama os filhos de Israel, ainda quando eles põem os olhos em deuses estranhos.” Oseias resgata a mulher por quinze siclos de prata e uma medida e meia de cevada, e lhe diz: “Tu me esperarás largos dias… não te entregarás a homem algum, e também eu esperarei por ti.” Assim Israel ficará muitos dias “sem rei e sem chefe, sem sacrifício… depois disto, os filhos de Israel voltarão a buscar o Senhor seu Deus, e Davi, seu rei; e, no fim dos tempos, olharão com respeitoso temor para o Senhor e para os bens que ele lhes terá feito”.",
+    "alegorico": "O profeta que compra a mulher infiel para amá-la de novo é figura de Cristo, que nos resgatou “não com ouro ou prata… mas com o precioso sangue” (1Pd 1,18-19). Os “muitos dias” de espera e purificação preparam o retorno a “Davi, seu rei”: Cristo, o Messias.",
+    "moral": "O mandamento é surpreendente: “vai, ainda, e ama”. O amor de Deus não depende da fidelidade do amado. Ele paga o preço, espera e purifica. A espera é também para a esposa: um tempo de abstinência e de cura. O amor verdadeiro sabe esperar.",
+    "anagogico": "“No fim dos tempos, olharão com respeitoso temor para o Senhor”: o retorno final de Israel e de todos os povos ao Senhor e ao seu Messias."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Vai ainda e ama uma mulher amada de um amante e adúltera, como o Senhor ama os filhos de Israel.” “Depois disso os filhos de Israel voltarão e buscarão o Senhor seu Deus e a Davi seu rei.”",
+    "lectio_resumo": "“Vai, ainda, e ama.” “É assim que o Senhor ama os filhos de Israel.” “Comprei a tal mulher.” “Tu me esperarás largos dias… e também eu esperarei por ti.” “Voltarão a buscar o Senhor seu Deus, e Davi, seu rei.”",
     "meditatio_perguntas": [
-      "Consigo amar quem me feriu, como Deus me ama?",
-      "Aceito os tempos de espera e purificação que Deus permite?",
-      "Busco o Senhor “tremendo”, com reverência e confiança?"
+      "Creio que Deus me ama “ainda”, depois das minhas infidelidades?",
+      "Sei amar quem me feriu, como Oseias?",
+      "Aceito os tempos de espera e purificação que Deus me pede?"
     ],
-    "oratio_guia": "Senhor, que me resgataste por alto preço, ensina-me a amar como amas. Dá-me paciência no tempo de purificação e faze-me voltar a ti e ao teu Cristo, com temor e alegria. Amém.",
+    "oratio_guia": "Senhor, que me amas “ainda” e me resgataste com o sangue do teu Filho, ensina-me a esperar-te e a amar como tu amas, sem condições. Amém.",
     "contemplatio_foco": {
-      "texto": "Vai, ainda, e ama uma mulher",
+      "texto": "é assim que o Senhor ama os filhos de Israel, ainda quando eles põem os olhos em deuses estranhos",
       "ref": "Os 3,1"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "3:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Quinze siclos e uma medida e meia de cevada: talvez o preço de uma escrava (cf. Ex 21,32).",
+        "origem": "ia"
+      }
+    },
+    "3:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Davi, seu rei”: o Messias da casa de Davi (cf. Jr 30,9; Ez 34,23).",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }

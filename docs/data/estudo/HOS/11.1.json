@@ -13,34 +13,42 @@
     "v": 12
   },
   "liturgia": {
-    "tema_central": "O amor paterno de Deus, mais forte que a ira",
+    "tema_central": "“Segurava-os com laços de amor”: o coração de Deus que se comove",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "“Quando Israel era menino, eu o amei, e chamei do Egito o meu filho.” Deus recorda os cuidados de pai: ensinou Efraim a andar, tomou-o nos braços, atraiu-o com laços de amor, inclinou-se para lhe dar de comer. Mas quanto mais os chamava, mais se afastavam. O castigo vem; porém o coração de Deus se comove: “Como te tratarei, ó Efraim?… O meu coração dá voltas dentro de mim… porque sou Deus e não um homem, o Santo no meio de ti”. Os filhos voltarão tremendo do Egito e da Assíria.",
-    "alegorico": "São Mateus (2,15) aplica “do Egito chamei o meu filho” a Jesus, o Filho que refaz em si a história de Israel. O coração comovido de Deus revela-se plenamente no Coração de Cristo.",
-    "moral": "Deus educa com ternura materna e paterna. A sua santidade não é dureza: é precisamente porque é Deus e não homem que ele não se deixa vencer pela ira. Isto convida a confiar e a imitar essa paciência.",
-    "anagogico": "Os filhos que voltam “como pássaros do Egito” figuram o retorno definitivo à casa do Pai."
+    "literal": "“Quando Israel era menino, eu o amei, e chamei do Egipto o meu filho. Mas, quanto mais os meus profetas os chamaram, tanto mais eles se retiraram… Entretanto eu ensinava Efraim a andar, trazia-os nos meus braços, mas eles não reconheceram que era eu quem cuidava deles. Segurava-os com laços humanos, com laços de amor; fui para eles como o que tira o jugo de cima do pescoço e aproximei-me deles para os nutrir.” Por não quererem converter-se, o assírio será o seu rei. “O meu povo é inclinado a afastar-se de mim.” Mas então Deus hesita: “Como te tratarei, ó Efraim? Entregar-te-ei, ó Israel?… O meu coração dá voltas dentro de mim mesmo, comove-se a minha compaixão. Não desafogarei o furor da minha ira… porque sou Deus e não um homem; sou o Santo no meio de ti, não gosto de destruir.” Os exilados voltarão “como uma ave” do Egito e “como uma pomba” da Assíria.",
+    "alegorico": "Mateus aplica “chamei do Egito o meu filho” a Jesus, que volta do Egito depois da morte de Herodes (Mt 2,15): Cristo revive a história de Israel e é o Filho fiel. O Deus que ensina a andar, carrega nos braços e se inclina para alimentar revela-se plenamente em Jesus, que toma as crianças nos braços (Mc 10,16) e se dá como alimento.",
+    "moral": "É um dos textos mais ternos da Bíblia: Deus como pai (ou mãe) que ensina o filho a andar, pega no colo, alimenta. O pecado de Israel é não reconhecer esse cuidado. E a resposta divina ao pecado não é a lógica humana da vingança: “sou Deus e não um homem”. A santidade de Deus se mostra na misericórdia que não destrói.",
+    "anagogico": "“Estabelecê-los-ei em suas casas”: os que voaram dispersos como pombas serão recolhidos na casa definitiva do Pai."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Quando Israel era menino, eu o amei, e chamei do Egito o meu filho.” “Segurava-os com laços humanos, com laços de amor.” “O meu coração dá voltas dentro de mim… porque sou Deus e não um homem.”",
+    "lectio_resumo": "“Quando Israel era menino, eu o amei.” “Chamei do Egipto o meu filho.” “Eu ensinava Efraim a andar, trazia-os nos meus braços.” “Segurava-os com laços humanos, com laços de amor.” “O meu coração dá voltas dentro de mim mesmo, comove-se a minha compaixão.” “Sou Deus e não um homem; sou o Santo no meio de ti.”",
     "meditatio_perguntas": [
-      "Recordo os momentos em que Deus me ensinou a andar e me tomou nos braços?",
-      "Vejo a santidade de Deus como misericórdia?",
-      "Como educo os outros: com laços de amor ou com cordas de imposição?"
+      "Reconheço os gestos de Deus que me ensinou a andar e me carregou?",
+      "Imagino Deus com a lógica humana da vingança ou com a da misericórdia?",
+      "Deixo-me prender pelos “laços de amor” de Deus?"
     ],
-    "oratio_guia": "Pai, que me chamaste do Egito e me ensinaste a andar, prende-me com laços de amor. Teu coração se comove por mim: não me deixes afastar-me de ti. Amém.",
+    "oratio_guia": "Pai, que me ensinaste a andar e me trouxeste nos teus braços, perdoa-me por não ter reconhecido o teu cuidado. O teu coração se comove por mim: prende-me com os teus laços de amor. Amém.",
     "contemplatio_foco": {
       "texto": "Segurava-os com laços humanos, com laços de amor",
       "ref": "Os 11,4"
     }
   },
   "ancoras": {
-    "11:9": {
+    "11:1": {
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "“Porque sou Deus e não um homem”: a transcendência de Deus aparece aqui não como distância, mas como capacidade de perdoar além da medida humana.",
+        "texto": "Citado em Mt 2,15.",
+        "origem": "ia"
+      }
+    },
+    "11:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Adama e Seboim foram destruídas com Sodoma e Gomorra (Dt 29,23).",
         "origem": "ia"
       }
     }

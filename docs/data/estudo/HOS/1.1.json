@@ -13,34 +13,42 @@
     "v": 11
   },
   "liturgia": {
-    "tema_central": "A infidelidade do povo e a fidelidade de Deus tornadas visíveis na vida do profeta",
+    "tema_central": "“Vós sois filhos do Deus vivo”: os filhos de nomes proféticos",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Nos dias de Jeroboão II, o Senhor manda Oseias tomar por esposa Gomer, mulher de prostituição, porque a terra se prostitui longe do Senhor. Os filhos recebem nomes que são oráculos: Jezrael (o sangue derramado em Jezrael será vingado), Lo-Ruhama, “Não-amada”, e Lo-Ammi, “Não-meu-povo”. Mas a sentença não é a última palavra: o número dos filhos de Israel será como a areia do mar, e onde se disse “não sois meu povo” se dirá “sois filhos do Deus vivo”; Judá e Israel se reunirão sob um só chefe.",
-    "alegorico": "São Paulo (Rm 9,25-26) e São Pedro (1Pd 2,10) leem aqui a vocação dos gentios: os que não eram povo tornam-se, em Cristo, povo de Deus e filhos do Deus vivo. O “único chefe” é Cristo, que reúne os dispersos.",
-    "moral": "Deus não se envergonha de unir-se a uma humanidade infiel. A vida do profeta ensina que o pecado é adultério contra um Amor pessoal, não apenas transgressão de regras; e que a última palavra de Deus é a adoção, não a rejeição.",
-    "anagogico": "A multidão incontável “como a areia do mar” antecipa a multidão dos redimidos de toda nação, reunidos no grande dia de Jezrael, quando Deus semeará o seu povo para a vida eterna."
+    "literal": "“Palavra do Senhor, que foi dirigida a Oseias, filho de Beeri”, no tempo de Jeroboão II, rei de Israel. “Começou o Senhor a falar a Oseias, quando lhe disse: Vai, toma por mulher uma prostituta e tem filhos de prostituição, porque a terra não cessa de se prostituir, abandonando o Senhor.” Oseias toma Gomer, que lhe dá um filho; o Senhor manda chamá-lo Jezrael, porque castigará a casa de Jeú pelo sangue derramado em Jezrael. Nasce uma filha: “Põe-lhe o nome de Sem-misericórdia… porque não me tornarei mais a compadecer da casa de Israel.” Mas Judá será salva “por meio do Senhor seu Deus, e não pelo arco, nem pela espada”. Nasce outro filho: “Põe-lhe o nome de Não-meu-povo, porque vós já não sois meu povo, e eu não sou mais vosso Deus.” E logo vem a promessa: “o número dos filhos de Israel será como a areia do mar… E acontecerá que no lugar onde se lhes disse: Vós não sois já meu povo — se lhes dirá: Vós sois filhos do Deus vivo.” Judá e Israel se reunirão sob um só chefe, “porque grande será o dia de Jezrael”.",
+    "alegorico": "Paulo e Pedro aplicam esta profecia aos gentios chamados em Cristo: “chamarei meu povo ao que não era meu povo… e no lugar onde se lhes disse: Vós não sois meu povo, ali serão chamados filhos do Deus vivo” (Rm 9,25-26; 1Pd 2,10). O “só chefe” que reunirá Judá e Israel é Cristo, Filho de Davi.",
+    "moral": "A vida do profeta torna-se parábola: Deus sofre a infidelidade do seu povo como um marido traído. Os nomes dos filhos são duros, mas a última palavra é de esperança. Deus pode chamar “filho” a quem perdeu esse nome. Nenhum de nós é definitivamente “não-meu-povo”.",
+    "anagogico": "O povo incontável “como a areia do mar”, chamado “filhos do Deus vivo”, anuncia a multidão dos salvos reunida no dia de Deus."
   },
   "lectio_divina": {
-    "lectio_resumo": "O Senhor disse a Oseias: “Vai, toma por mulher uma prostituta”. Nasceram filhos com nomes de sentença: Não-amada, Não-meu-povo. Mas “no lugar onde se lhes disse: Vós não sois já meu povo, se lhes dirá: Vós sois filhos do Deus vivo”.",
+    "lectio_resumo": "“Vai, toma por mulher uma prostituta.” “Porque a terra não cessa de se prostituir.” “Sem-misericórdia.” “Não-meu-povo.” “Não pelo arco, nem pela espada.” “Vós sois filhos do Deus vivo.” “Grande será o dia de Jezrael.”",
     "meditatio_perguntas": [
-      "Vejo o meu pecado como infidelidade a um Amor pessoal?",
-      "Que “nome de sentença” carrego e que Deus quer mudar em nome de filho?",
-      "Acredito que Deus pode reunir o que está dividido em mim e na Igreja?"
+      "Percebo a minha infidelidade como uma ferida no amor de Deus?",
+      "Creio que Deus pode mudar o meu nome de “não-meu-povo” para “filho”?",
+      "Confio na salvação de Deus mais do que no arco e na espada?"
     ],
-    "oratio_guia": "Deus vivo, que chamas “meu povo” a quem não era povo, muda os nomes que o pecado me deu. Faze-me filho, reúne-me sob o único Chefe, Cristo, e não permitas que eu volte às minhas infidelidades. Amém.",
+    "oratio_guia": "Deus vivo, que chamas filhos aos que não eram teu povo, muda o meu nome e o meu coração. Que eu viva como teu filho, fiel ao teu amor. Amém.",
     "contemplatio_foco": {
       "texto": "Vós sois filhos do Deus vivo",
       "ref": "Os 1,10"
     }
   },
   "ancoras": {
-    "1:2": {
+    "1:4": {
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "A ordem de casar com uma “mulher de prostituição” é lida por muitos como ação simbólica vivida; o ponto central é que o casamento do profeta se torna parábola da aliança ferida.",
+        "texto": "Jezrael: cf. 2Rs 9–10, o massacre da casa de Acab por Jeú.",
+        "origem": "ia"
+      }
+    },
+    "1:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração hebraica, Os 1,10-11 é 2,1-2. Citado em Rm 9,26.",
         "origem": "ia"
       }
     }

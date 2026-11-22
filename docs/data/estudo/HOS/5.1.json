@@ -13,28 +13,45 @@
     "v": 15
   },
   "liturgia": {
-    "tema_central": "O Senhor se retira até que o povo busque a sua face",
+    "tema_central": "“Irei e voltarei para a minha habitação até que busquem a minha face”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "O oráculo atinge sacerdotes, a casa de Israel e a casa do rei, que foram laço em Masfa e rede no Tabor. Efraim está contaminado; o espírito de prostituição o impede de voltar a Deus. Irão buscar o Senhor com ovelhas e bois e não o acharão, porque Ele se retirou. Soa a trombeta em Gabaa; Efraim e Judá, feridos, procuram socorro na Assíria, que não pode curar. Deus será como traça e como leão; depois diz: “Irei e voltarei para a minha habitação até que reconheçam o seu pecado e busquem a minha face”.",
-    "alegorico": "O Deus que se retira para ser procurado prepara o mistério da Ascensão: Cristo vai ao Pai para que a Igreja o busque na fé e receba o Espírito. A Assíria que não cura figura as falsas salvações humanas.",
-    "moral": "Não se encontra a Deus com ritos sem conversão. Quando Ele parece ausente, a resposta não é procurar alianças humanas, mas reconhecer o pecado e buscar a sua face.",
-    "anagogico": "A busca da face de Deus, iniciada na penitência, termina na visão da sua face na glória."
+    "literal": "“Ouvi isto, ó sacerdotes! Casa de Israel, ouve com atenção! Escuta, ó casa real! É sobre vós que se vai exercer o juízo, pois tendes sido um laço… uma rede estendida sobre o Tabor.” “Conheço Efraim, e Israel não me é encoberto.” “Não aplicam os seus trabalhos a voltar para o seu Deus, porque o espírito de prostituição está no meio deles, porque não conhecem o Senhor.” “Irão buscar o Senhor com as suas ovelhas e os seus bois, e não o encontrarão: retirou-se deles.” Soa o alarme em Gabaa e Ramá; os chefes de Judá “mudam os marcos”. “Efraim viu a sua fraqueza, e Judá a sua chaga; Efraim recorreu a Assur… mas ele não poderá curar-vos, não poderá sarar a vossa chaga.” Deus será para eles como traça, como leão que despedaça. “Irei e voltarei para a minha habitação até que reconheçam o seu pecado e busquem a minha face.”",
+    "alegorico": "Os que vão buscar o Senhor com sacrifícios e não o encontram lembram os que honram a Deus com os lábios, mas têm o coração longe (Mt 15,8). A chaga que nenhum rei pode curar será curada pelo Médico divino: “pelas suas chagas fomos curados” (Is 53,5; 1Pd 2,24).",
+    "moral": "Israel procura remédio nos poderosos (a Assíria) e não em Deus. Também nós buscamos curas para as nossas feridas onde não as há. E é possível “buscar o Senhor com ovelhas e bois”, com ritos, sem conversão: então ele se retira. O silêncio de Deus é um convite: ele espera que reconheçamos o pecado e busquemos a sua face.",
+    "anagogico": "“Até que busquem a minha face”: a busca da face de Deus termina na visão face a face, prometida aos puros de coração."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Irão com as suas ovelhas e bois buscar o Senhor e não o acharão: ele retirou-se deles.” “Irei e voltarei para a minha habitação até que reconheçam o seu pecado e busquem a minha face.”",
+    "lectio_resumo": "“Conheço Efraim, e Israel não me é encoberto.” “Não conhecem o Senhor.” “Irão buscar o Senhor… e não o encontrarão: retirou-se deles.” “Efraim viu a sua fraqueza, e Judá a sua chaga.” “Ele não poderá curar-vos.” “Até que reconheçam o seu pecado e busquem a minha face.”",
     "meditatio_perguntas": [
-      "Procuro a Deus com ritos, mas sem mudar de vida?",
-      "A que “Assíria” recorro quando estou ferido?",
-      "Que pecado preciso reconhecer para buscar a face de Deus?"
+      "Onde procuro cura para as minhas chagas?",
+      "Busco a Deus só com ritos, ou com o coração convertido?",
+      "Como vivo os momentos em que Deus parece retirar-se?"
     ],
-    "oratio_guia": "Senhor, quando te retiras, não me deixes procurar outros médicos. Faz-me reconhecer o meu pecado e buscar a tua face com todo o coração. Amém.",
+    "oratio_guia": "Senhor, tu conheces a minha fraqueza e a minha chaga. Não quero buscar cura em outros senhores. Reconheço o meu pecado e busco a tua face: volta para mim. Amém.",
     "contemplatio_foco": {
-      "texto": "até que reconheçam o seu pecado e busquem a minha face",
+      "texto": "Irei e voltarei para a minha habitação até que reconheçam o seu pecado e busquem a minha face",
       "ref": "Os 5,15"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "5:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Alusão aos tributos pagos à Assíria pelos reis de Israel (2Rs 15,19; 17,3).",
+        "origem": "ia"
+      }
+    },
+    "5:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Guerra siro-efraimita, por volta de 734 a.C.",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }

@@ -13,28 +13,45 @@
     "v": 19
   },
   "liturgia": {
-    "tema_central": "Sem conhecimento de Deus, o povo perece",
+    "tema_central": "“O meu povo perece por falta de conhecimento”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "O Senhor entra em juízo com os habitantes da terra: não há verdade, nem misericórdia, nem conhecimento de Deus; só perjúrio, mentira, homicídio, roubo e adultério. Até a terra e os animais sofrem. A culpa maior é dos sacerdotes, que rejeitaram a ciência: “o meu povo perece por falta de conhecimento”. Alimentam-se do pecado do povo. O povo consulta o pau e a vara, sacrifica nos montes; a prostituição sagrada contamina as famílias. Judá não deve imitar Israel: Efraim está ligado aos ídolos.",
-    "alegorico": "O sacerdócio que rejeita a ciência de Deus contrasta com Cristo, verdadeiro Sacerdote e Mestre, que dá a conhecer o Pai (Jo 17,3). A Igreja recebe a missão de ensinar a verdade que salva.",
-    "moral": "O pecado social nasce da ignorância culpável de Deus. Pastores, pais e educadores são responsáveis por transmitir a fé; quando o conhecimento de Deus se perde, a moral se desfaz e a própria criação sofre.",
-    "anagogico": "O “conhecimento de Deus” que falta aqui é o fim último do homem: conhecê-lo face a face. Toda catequese é preparação para essa visão."
+    "literal": "“Ouvi a palavra do Senhor, filhos de Israel, porque o Senhor vai entrar em juízo com os habitantes desta terra, visto que não há verdade, nem misericórdia, nem conhecimento de Deus nesta terra. O perjúrio, a mentira, o homicídio, o furto e o adultério inundaram tudo… Por isso a terra está de luto”, e até os animais e os peixes definham. A acusação principal cai sobre os sacerdotes: “O meu povo perece, por falta de conhecimento. Porque tu rejeitaste a ciência, também eu excluirei do exercício do meu sacerdócio; visto que esqueceste a lei do teu Deus, também eu me esquecerei de teus filhos.” “Nutrem-se dos pecados do meu povo.” “O meu povo consulta um pedaço de pau, e o seu bordão lhe faz revelações, porque o espírito da fornicação os enganou.” Oferecem sacrifícios nos montes e sob as árvores; as filhas se prostituem, mas Deus não as castigará, porque os próprios pais dão o exemplo. “Israel rebelou-se como uma vaca indomável.” “Efraim está ligado aos ídolos: deixa-o.”",
+    "alegorico": "A falta de “conhecimento de Deus”, que não é saber teórico, mas comunhão de amor, é remediada em Cristo: “a vida eterna é esta: que te conheçam a ti, único Deus verdadeiro, e a Jesus Cristo” (Jo 17,3). O sacerdote que esquece a Lei contrasta com Cristo, Bom Pastor, que dá o conhecimento do Pai.",
+    "moral": "O texto liga a ruína moral (mentira, homicídio, adultério) e até a ecológica (“a terra está de luto”) à falta de conhecimento de Deus. Quando Deus é esquecido, tudo se desfaz. E a responsabilidade maior é de quem deveria ensinar: sacerdotes, pais, educadores. O exemplo dos pais forma os filhos, para o bem e para o mal.",
+    "anagogico": "“A terra estará cheia do conhecimento do Senhor, como as águas cobrem o mar” (Is 11,9): é o termo para o qual caminha a história, quando o luto da criação se transformará em glória."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Não há verdade, nem misericórdia, nem conhecimento de Deus nesta terra.” “O meu povo perece por falta de conhecimento. Porque tu rejeitaste a ciência, também eu te excluirei do meu sacerdócio.”",
+    "lectio_resumo": "“Não há verdade, nem misericórdia, nem conhecimento de Deus nesta terra.” “Por isso a terra está de luto.” “O meu povo perece, por falta de conhecimento.” “Esqueceste a lei do teu Deus.” “O meu povo consulta um pedaço de pau.” “Rebelou-se como uma vaca indomável.”",
     "meditatio_perguntas": [
-      "Dedico tempo para conhecer a Deus por meio da Escritura e da doutrina?",
-      "Como transmito a fé a quem depende de mim?",
-      "Que “paus e varas” consulto em lugar de Deus?"
+      "Procuro conhecer a Deus de verdade, pela oração e pela Palavra?",
+      "Que “pedaços de pau” consulto em vez de Deus?",
+      "Que exemplo dou aos que dependem de mim?"
     ],
-    "oratio_guia": "Senhor, não permitas que eu pereça por falta de conhecimento. Dá à tua Igreja pastores que amem a tua ciência, e a mim um coração dócil à tua verdade. Amém.",
+    "oratio_guia": "Senhor, que o teu povo não pereça por falta de conhecimento. Dá-me conhecer-te de verdade e ensina os teus sacerdotes, pais e mestres a transmitir a tua Lei com fidelidade. Amém.",
     "contemplatio_foco": {
       "texto": "O meu povo perece, por falta de conhecimento",
       "ref": "Os 4,6"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "4:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Betaven (“casa do nada”) é um nome irônico para Betel (“casa de Deus”), onde havia o bezerro de ouro.",
+        "origem": "ia"
+      }
+    },
+    "4:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Prática de adivinhação com varas.",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }
