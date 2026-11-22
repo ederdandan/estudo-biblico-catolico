@@ -1,38 +1,38 @@
 {
   "id": "SNG.1.1",
   "livro": "SNG",
-  "titulo": "Beija-me com os ósculos da tua boca",
+  "titulo": "Beija-me com ósculos da tua boca",
   "secao": "O Cântico dos Cânticos",
-  "referencia": "Ct 1,1–2,7",
+  "referencia": "Ct 1,1-16",
   "ini": {
     "c": 1,
     "v": 1
   },
   "fim": {
-    "c": 2,
-    "v": 7
+    "c": 1,
+    "v": 16
   },
   "liturgia": {
-    "tema_central": "O desejo da esposa pelo amado",
+    "tema_central": "“Beija-me com ósculos da tua boca”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "O Cântico dos Cânticos, “o mais belo dos cânticos”, abre com o desejo da esposa: “Beija-me com os ósculos da tua boca: os teus amores são melhores que o vinho”; o teu nome é perfume derramado. Ela é morena, queimada pelo sol, porque os irmãos a puseram a guardar as vinhas. Pergunta onde o amado apascenta o rebanho ao meio-dia. Os dois trocam louvores: ela é formosa, os olhos de pomba; ele é um ramalhete de mirra entre os seios dela. Ela se diz “flor do campo, lírio dos vales”; ele a vê como lírio entre espinhos. À sombra do amado ela se senta; ele a conduz à sala do vinho; o seu estandarte sobre ela é o amor. “Não desperteis o amor antes que ele queira.”",
-    "alegorico": "A tradição judaica leu o Cântico como amor de Deus e Israel; os Padres (Orígenes, Gregório de Nissa) e São Bernardo, como amor de Cristo e da Igreja e de Cristo e a alma. O “beijo da boca” é a Encarnação: o Verbo se une à nossa carne.",
-    "moral": "O amor humano entre homem e mulher é bom, belo e digno de Deus. A esposa “morena” que não esconde as suas marcas ensina que o amor verdadeiro acolhe a pessoa inteira. O amor tem o seu tempo e não deve ser forçado.",
-    "anagogico": "A sala do vinho e o estandarte do amor anunciam o banquete das núpcias do Cordeiro, onde a alma repousará à sombra do Amado."
+    "literal": "“Cântico dos cânticos de Salomão”: o mais belo dos cânticos. A esposa começa com o desejo: “Beija-me com ósculos da tua boca. Os teus amores são melhores do que o vinho, os teus perfumes são suaves, o teu nome é como um aroma que se difunde: por isso te amam as donzelas. Leva-me atrás de ti: correremos ao odor dos teus perfumes. O rei introduziu-me nos seus aposentos.” Ela se apresenta às filhas de Jerusalém: “Eu sou trigueira, mas formosa… foi o sol que me queimou; os filhos de minha mãe… puseram-me de guarda às vinhas, mas eu não guardei a minha própria vinha.” E pergunta: “Dize-me, ó amado do meu coração, onde é que apascentas o teu gado, onde o fazes repousar ao meio-dia?” O esposo responde: “segue as pisadas dos rebanhos”. Trocam louvores: “Como és formosa, amiga minha!… Os teus olhos são como os das pombas.” “Como és formoso, amado meu!… O meu amado é para mim como uma bolsa de mirra, colocada sobre o meu peito.”",
+    "alegorico": "A tradição judaica leu o Cântico como o amor entre Deus e Israel; a cristã, como o amor entre Cristo e a Igreja, e entre Cristo e a alma (Orígenes, São Bernardo, São João da Cruz). O “beijo da boca” é a Encarnação, em que o Verbo se une à nossa carne; o “nome que se difunde como aroma” é o nome de Jesus. A esposa “trigueira, mas formosa” é a Igreja, feita de pecadores, mas tornada bela pelo Esposo (Ef 5,27).",
+    "moral": "O Cântico celebra o amor humano entre homem e mulher como dom de Deus, bom e belo. E, ao mesmo tempo, ensina a linguagem da alma que deseja Deus: “leva-me atrás de ti”, “onde apascentas?”. A esposa confessa ter descuidado da própria vinha: muitas vezes cuidamos de tudo, menos da nossa alma. O verdadeiro amor busca saber onde o amado “repousa ao meio-dia”, isto é, procura a intimidade.",
+    "anagogico": "“O rei introduziu-me nos seus aposentos”: a alma será introduzida na intimidade eterna de Deus, nas núpcias do Cordeiro."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Beija-me com ósculos da tua boca.” “Os teus amores são melhores do que o vinho.” “Eu sou a flor do campo, o lírio dos vales.” “Levou-me à adega do vinho, e o amor é a sua bandeira sobre mim.”",
+    "lectio_resumo": "“Beija-me com ósculos da tua boca.” “O teu nome é como um aroma que se difunde.” “Leva-me atrás de ti: correremos.” “Eu sou trigueira, mas formosa.” “Eu não guardei a minha própria vinha.” “Dize-me, ó amado do meu coração, onde é que apascentas?” “O meu amado é para mim como uma bolsa de mirra.”",
     "meditatio_perguntas": [
-      "Desejo a Deus como a esposa deseja o amado?",
-      "Deixo-me amar por Cristo com as minhas “marcas de sol”?",
-      "Como vejo o amor humano à luz de Deus?"
+      "Desejo a intimidade com Deus como a esposa deseja o esposo?",
+      "Tenho cuidado da “minha própria vinha”, a minha alma?",
+      "Procuro saber onde o Senhor “repousa ao meio-dia”?"
     ],
-    "oratio_guia": "Senhor Jesus, Esposo da Igreja e da minha alma, beija-me com o beijo da tua boca, que é a tua Palavra feita carne. Leva-me à adega do teu vinho e ergue sobre mim a bandeira do teu amor. Amém.",
+    "oratio_guia": "Senhor Jesus, Esposo da minha alma, o teu nome é perfume derramado. Leva-me atrás de ti e introduz-me na tua intimidade. Mesmo trigueira pelo pecado, faz-me formosa aos teus olhos. Amém.",
     "contemplatio_foco": {
-      "texto": "Beija-me com ósculos da tua boca",
-      "ref": "Ct 1,1"
+      "texto": "Leva-me atrás de ti: correremos ao odor dos teus perfumes",
+      "ref": "Ct 1,3"
     }
   },
   "ancoras": {
@@ -40,7 +40,15 @@
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "“Cântico dos cânticos” é superlativo hebraico: o cântico por excelência. Na Vulgata, o título e o primeiro verso formam o v. 1.",
+        "texto": "Na Vulgata, os vv. 1-2 do hebraico estão unidos; o capítulo tem 16 versículos.",
+        "origem": "ia"
+      }
+    },
+    "1:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cedar: tribo nômade de tendas negras de pelo de cabra.",
         "origem": "ia"
       }
     }

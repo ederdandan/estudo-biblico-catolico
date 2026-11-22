@@ -1,0 +1,65 @@
+{
+  "id": "SNG.5.17",
+  "livro": "SNG",
+  "titulo": "Eu sou do meu amado, e o meu amado é meu",
+  "secao": "O Cântico dos Cânticos",
+  "referencia": "Ct 5,17–6,12",
+  "ini": {
+    "c": 5,
+    "v": 17
+  },
+  "fim": {
+    "c": 6,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "“Eu sou do meu amado, e o meu amado é meu”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "As filhas de Jerusalém perguntam: “Para onde foi o teu amado, ó tu, que és a mais formosa de todas as mulheres?… Nós o buscaremos contigo.” Ela responde: “O meu amado desceu ao seu jardim… para apascentar o seu rebanho nos jardins, e para colher lírios. Eu sou do meu amado, e o meu amado é meu, ele, que apascenta o seu rebanho entre os lírios.” O esposo a louva: “Formosa és, amiga minha, como Tirsa, encantadora como Jerusalém, mas terrível como um exército em ordem de batalha. Aparta os teus olhos de mim, porque eles me fascinam.” “São sessenta as rainhas… porém uma só é a minha pomba, a minha perfeita.” E todos a contemplam: “Quem é esta, que vai caminhando como a aurora quando se levanta, formosa como a lua, brilhante como o sol, terrível como um exército formado em batalha?” “Volta, volta, ó Sulamita… para que nós te contemplemos.”",
+    "alegorico": "A liturgia aplica a Maria “quem é esta que vai caminhando como a aurora… formosa como a lua, brilhante como o sol”, especialmente na Assunção: ela é a “mulher vestida de sol” (Ap 12,1). “Uma só é a minha pomba, a minha perfeita”: a Igreja una, Esposa única de Cristo. “Eu sou do meu amado e o meu amado é meu” é a fórmula da aliança: “Vós sereis o meu povo, e eu serei o vosso Deus”.",
+    "moral": "O amor maduro se diz numa frase de pertença recíproca: “eu sou do meu amado, e o meu amado é meu”. Não posse, mas dom mútuo. Isso vale para o matrimônio e para a vida com Deus. E a busca não é solitária: “nós o buscaremos contigo” — a fé se partilha, e quem fala do Amado desperta nos outros o desejo de buscá-lo.",
+    "anagogico": "A esposa que se levanta “como a aurora” anuncia a Igreja glorificada, e Maria já assunta ao céu, sinal de esperança para todos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Para onde foi o teu amado?… Nós o buscaremos contigo.” “O meu amado desceu ao seu jardim.” “Eu sou do meu amado, e o meu amado é meu.” “Uma só é a minha pomba, a minha perfeita.” “Quem é esta, que vai caminhando como a aurora quando se levanta?” “Volta, volta, ó Sulamita.”",
+    "meditatio_perguntas": [
+      "Posso dizer com verdade: “eu sou do meu Amado”?",
+      "O meu testemunho desperta em outros o desejo de buscar a Deus?",
+      "Olho para Maria como a aurora que anuncia o Sol?"
+    ],
+    "oratio_guia": "Senhor, eu sou teu e tu és meu. Desce ao jardim da minha alma e colhe nela os lírios. Por intercessão de Maria, aurora que se levanta, conduz-me à luz do teu rosto. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu sou do meu amado, e o meu amado é meu",
+      "ref": "Ct 6,2"
+    }
+  },
+  "ancoras": {
+    "6:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Tirsa: antiga capital do reino do Norte, célebre pela beleza.",
+        "origem": "ia"
+      }
+    },
+    "6:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Antífona da solenidade da Assunção.",
+        "origem": "ia"
+      }
+    },
+    "6:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Versículo obscuro; o hebraico fala do “carro do meu nobre povo”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

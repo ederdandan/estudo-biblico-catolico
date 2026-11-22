@@ -1,0 +1,57 @@
+{
+  "id": "SNG.2.1",
+  "livro": "SNG",
+  "titulo": "Eu sou a flor do campo, o lírio dos vales",
+  "secao": "O Cântico dos Cânticos",
+  "referencia": "Ct 2,1-7",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 7
+  },
+  "liturgia": {
+    "tema_central": "“Eu sou a flor do campo, o lírio dos vales”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A esposa diz: “Eu sou a flor do campo, o lírio dos vales.” O esposo responde: “Como lírio entre os espinhos, assim é a minha amiga entre as donzelas.” E ela: “Como a macieira entre as árvores dos bosques, assim é o meu amado entre os jovens. Sentei-me à sombra daquele a quem tanto tinha desejado, e o seu fruto é doce à minha boca. Ele introduziu-me na sala do festim, desfraldou contra mim a bandeira do amor. Confortai-me com doces de uvas passas, fortalecei-me com frutos, porque desfaleço de amor. A sua mão esquerda está debaixo da minha cabeça, e a sua mão direita abraça-me.” E o refrão: “Eu vos conjuro, filhas de Jerusalém, pelas gazelas e corças do campo, que não perturbeis nem acordeis a minha amada, antes que ela queira.”",
+    "alegorico": "A liturgia aplica “a flor do campo, o lírio dos vales” a Cristo e a Maria. A sombra da macieira e o fruto doce foram lidos como a cruz de Cristo e a Eucaristia: à sombra da árvore da vida, a alma saboreia o seu fruto. A “sala do festim” é o banquete eucarístico, onde o Senhor desfralda “a bandeira do amor”.",
+    "moral": "O amor verdadeiro descansa: “sentei-me à sombra daquele a quem tanto tinha desejado”. A oração contemplativa é isso: sentar-se à sombra do Amado e saborear. E há um tempo que não se deve forçar: “não acordeis o amor antes que ele queira”. O amor humano e o espiritual têm o seu ritmo, que deve ser respeitado.",
+    "anagogico": "O abraço do Esposo, “a mão esquerda debaixo da cabeça e a direita que abraça”, é imagem da união final da alma com Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu sou a flor do campo, o lírio dos vales.” “Como lírio entre os espinhos.” “Sentei-me à sombra daquele a quem tanto tinha desejado.” “O seu fruto é doce à minha boca.” “Desfraldou contra mim a bandeira do amor.” “Desfaleço de amor.” “Que não perturbeis nem acordeis a minha amada, antes que ela queira.”",
+    "meditatio_perguntas": [
+      "Sei sentar-me “à sombra” do Senhor na oração?",
+      "Saboreio o fruto da Eucaristia?",
+      "Respeito o tempo do amor, em mim e nos outros?"
+    ],
+    "oratio_guia": "Senhor, à tua sombra desejo descansar; o teu fruto é doce à minha boca. Introduz-me no teu banquete e desfralda sobre mim a bandeira do teu amor. Amém.",
+    "contemplatio_foco": {
+      "texto": "Sentei-me à sombra daquele a quem tanto tinha desejado, e o seu fruto é doce à minha boca",
+      "ref": "Ct 2,3"
+    }
+  },
+  "ancoras": {
+    "2:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Sala do festim”: literalmente, “casa do vinho”.",
+        "origem": "ia"
+      }
+    },
+    "2:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Refrão repetido em 3,5 e 8,4.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

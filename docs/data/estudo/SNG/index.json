@@ -6,11 +6,25 @@
  "pericopes": [
   {
    "id": "SNG.1.1",
-   "titulo": "Beija-me com os ósculos da tua boca",
+   "titulo": "Beija-me com ósculos da tua boca",
    "secao": "O Cântico dos Cânticos",
-   "referencia": "Ct 1,1–2,7",
+   "referencia": "Ct 1,1-16",
    "ini": {
     "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 16
+   }
+  },
+  {
+   "id": "SNG.2.1",
+   "titulo": "Eu sou a flor do campo, o lírio dos vales",
+   "secao": "O Cântico dos Cânticos",
+   "referencia": "Ct 2,1-7",
+   "ini": {
+    "c": 2,
     "v": 1
    },
    "fim": {
@@ -64,10 +78,24 @@
    "id": "SNG.5.2",
    "titulo": "Eu durmo, mas o meu coração vela",
    "secao": "O Cântico dos Cânticos",
-   "referencia": "Ct 5,2–6,12",
+   "referencia": "Ct 5,2-16",
    "ini": {
     "c": 5,
     "v": 2
+   },
+   "fim": {
+    "c": 5,
+    "v": 16
+   }
+  },
+  {
+   "id": "SNG.5.17",
+   "titulo": "Eu sou do meu amado, e o meu amado é meu",
+   "secao": "O Cântico dos Cânticos",
+   "referencia": "Ct 5,17–6,12",
+   "ini": {
+    "c": 5,
+    "v": 17
    },
    "fim": {
     "c": 6,

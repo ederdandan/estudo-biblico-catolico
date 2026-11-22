@@ -3,44 +3,52 @@
   "livro": "SNG",
   "titulo": "Eu durmo, mas o meu coração vela",
   "secao": "O Cântico dos Cânticos",
-  "referencia": "Ct 5,2–6,12",
+  "referencia": "Ct 5,2-16",
   "ini": {
     "c": 5,
     "v": 2
   },
   "fim": {
-    "c": 6,
-    "v": 12
+    "c": 5,
+    "v": 16
   },
   "liturgia": {
-    "tema_central": "A demora em abrir e a busca do Amado que se retirou",
+    "tema_central": "“Eu durmo, mas o meu coração vela”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "“Eu durmo, mas o meu coração vela.” O amado bate: “Abre-me, irmã minha, pomba minha, imaculada minha, porque a minha cabeça está cheia de orvalho”. Ela hesita: já tirei a túnica, como vestir de novo? Quando se levanta e abre, ele já partiu. Ela o busca e não o encontra; os guardas a ferem. Pede às filhas de Jerusalém: se encontrardes o meu amado, dizei-lhe que estou doente de amor. Elas perguntam que tem ele mais que os outros; ela o descreve: branco e rosado, distinto entre dez mil, a sua boca é doçura, “todo ele é um encanto”. Ele desceu ao seu jardim; “eu sou do meu amado, e o meu amado é meu”. Quem é esta que surge como a aurora, bela como a lua, brilhante como o sol?",
-    "alegorico": "O Amado que bate com a cabeça cheia de orvalho da noite é Cristo que bate à porta (Ap 3,20), cuja cabeça se cobriu de sangue na Paixão. A mulher “como a aurora, bela como a lua, brilhante como o sol” é aplicada pela liturgia a Maria, especialmente na Assunção.",
-    "moral": "Muitas vezes Deus bate e nós demoramos por comodismo. A demora tem preço: o Amado se retira para ser procurado. O amor ferido não desiste; e quem descreve o Amado aos outros os atrai a buscá-lo também.",
-    "anagogico": "A mulher que surge como aurora anuncia a Igreja gloriosa e Maria assunta, sinal de esperança para todos os que buscam o Amado."
+    "literal": "“Eu durmo, mas o meu coração vela… Eis a voz do meu amado, que bate: Abre-me, ó minha irmã, amiga minha, pomba minha, imaculada minha, porque a minha cabeça está cheia de orvalho.” Ela hesita: “Despojei-me da minha túnica, como hei-de vesti-la novamente? Lavei os meus pés, como hei-de tornar a sujá-los?” O amado mete a mão pela abertura da porta, “e o meu coração estremeceu”. Ela se levanta para abrir, as mãos gotejando mirra, “mas ele já se tinha ido… Busquei-o, mas não o achei; chamei-o, e ele não me respondeu.” Os guardas da cidade a ferem e lhe tiram o manto. “Eu vos conjuro, filhas de Jerusalém, que, se encontrardes o meu amado, lhe façais saber que desfaleço de amor.” Perguntam-lhe: “Que tem o teu amado a mais que qualquer outro amado?” E ela o descreve: “O meu amado é cândido e rubicundo, escolhido entre milhares… A sua boca é só doçura, todo ele é um encanto. Tal é o meu amado, tal é o meu amigo, ó filhas de Jerusalém.”",
+    "alegorico": "O amado que bate à porta com a cabeça cheia de orvalho é Cristo: “Eis que estou à porta e bato; se alguém ouvir a minha voz e me abrir a porta, entrarei” (Ap 3,20). “Cândido e rubicundo”: branco na divindade e na pureza, vermelho no sangue da Paixão, segundo os Padres. A esposa ferida pelos guardas lembra a Igreja perseguida que busca o Esposo.",
+    "moral": "Uma cena de grande verdade espiritual: o Senhor bate, e a alma, acomodada, inventa desculpas (“já tirei a túnica…”). Quando se decide, ele já passou. A preguiça espiritual faz perder visitas da graça. Mas a busca recomeça, mesmo com feridas, e o amor se reacende ao descrever o Amado: “todo ele é um encanto”.",
+    "anagogico": "“Eu durmo, mas o meu coração vela”: a vigilância do coração que espera o Esposo até a sua vinda definitiva (Mt 25,1-13)."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Eu durmo, mas o meu coração vela.” “Abre-me, minha irmã, pomba minha.” “Abri ao meu amado, mas ele tinha-se retirado.” “Todo ele é um encanto.” “Eu sou do meu amado, e o meu amado é meu.”",
+    "lectio_resumo": "“Eu durmo, mas o meu coração vela.” “Eis a voz do meu amado, que bate.” “Abre-me, ó minha irmã… pomba minha.” “Despojei-me da minha túnica, como hei-de vesti-la novamente?” “Ele já se tinha ido.” “Desfaleço de amor.” “A sua boca é só doçura, todo ele é um encanto.”",
     "meditatio_perguntas": [
-      "Demoro a abrir quando Cristo bate?",
-      "Saberia descrever aos outros por que o meu Amado é “distinto entre dez mil”?",
-      "Meu coração vela enquanto durmo?"
+      "Que desculpas dou quando o Senhor bate à minha porta?",
+      "Já perdi alguma visita da graça por comodismo?",
+      "Saberia descrever aos outros por que o meu Amado é diferente?"
     ],
-    "oratio_guia": "Senhor, que bates à minha porta com a cabeça cheia de orvalho, perdoa a minha demora. Faze-me abrir prontamente, buscar-te ferido de amor e dizer a todos que tu és todo encanto. Amém.",
+    "oratio_guia": "Senhor Jesus, que bates à minha porta com a cabeça cheia de orvalho, não me deixes demorar a abrir-te. Que o meu coração vele mesmo quando durmo. Tu és todo encanto. Amém.",
     "contemplatio_foco": {
       "texto": "Eu durmo, mas o meu coração vela",
       "ref": "Ct 5,2"
     }
   },
   "ancoras": {
-    "6:9": {
+    "5:2": {
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "A liturgia aplica este versículo à Virgem Maria (“Quae est ista quae progreditur quasi aurora”).",
+        "texto": "Cf. Ap 3,20.",
+        "origem": "ia"
+      }
+    },
+    "5:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Cândido e rubicundo”: de pele clara e corada, sinal de saúde e beleza.",
         "origem": "ia"
       }
     }
