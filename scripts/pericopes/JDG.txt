@@ -1,0 +1,39 @@
+# Divisão em perícopes (numeração Matos Soares / Vulgata). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## Israel depois de Josué
+1:1-1:36 | A conquista incompleta
+2:1-2:5 | O anjo do Senhor em Boquim: o lugar dos que choram
+2:6-3:6 | Uma geração que não conhecia o Senhor
+## Os primeiros juízes
+3:7-3:11 | Otoniel, o primeiro juiz
+3:12-3:31 | Aod e Eglon, rei de Moab; Samgar
+4:1-4:24 | Débora, Barac e Jael
+5:1-5:32 | O cântico de Débora
+## Gedeão
+6:1-6:24 | O Senhor é contigo, valente herói: a vocação de Gedeão
+6:25-6:40 | O altar de Baal derrubado e o sinal do velo
+7:1-7:8 | Os trezentos que lamberam a água
+7:9-7:25 | A espada do Senhor e de Gedeão
+8:1-8:21 | Efraim, Socot e Fanuel; os reis de Madiã
+8:22-8:35 | O Senhor terá domínio sobre vós; o éfode de Gedeão
+## Abimelec e os juízes menores
+9:1-9:21 | Abimelec rei e a fábula de Joatão
+9:22-9:57 | A ruína de Abimelec e de Siquém
+10:1-10:18 | Tola e Jair; Israel clama e se converte
+## Jefté
+11:1-11:28 | Jefté, o filho rejeitado, chefe de Galaad
+11:29-11:40 | O voto de Jefté e a sua filha
+12:1-12:15 | Chibolet; Abesã, Ahialon e Abdon
+## Sansão
+13:1-13:25 | O anúncio do nascimento de Sansão
+14:1-14:20 | O leão, o mel e o enigma
+15:1-15:20 | As raposas e a queixada de jumento
+16:1-16:3 | Sansão em Gaza
+16:4-16:22 | Sansão e Dalila
+16:23-16:31 | A morte de Sansão
+## Quando não havia rei em Israel
+17:1-17:13 | O ídolo de Micas
+18:1-18:31 | A migração de Dan
+19:1-19:30 | O crime de Gabaa
+20:1-20:48 | A guerra contra Benjamim
+21:1-21:25 | Esposas para Benjamim: cada um fazia o que lhe parecia reto

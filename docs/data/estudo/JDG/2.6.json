@@ -1,0 +1,57 @@
+{
+  "id": "JDG.2.6",
+  "livro": "JDG",
+  "titulo": "Uma geração que não conhecia o Senhor",
+  "secao": "Israel depois de Josué",
+  "referencia": "Jz 2,6–3,6",
+  "ini": {
+    "c": 2,
+    "v": 6
+  },
+  "fim": {
+    "c": 3,
+    "v": 6
+  },
+  "liturgia": {
+    "tema_central": "Uma geração que não conhecia o Senhor: o ciclo do pecado e da misericórdia",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O texto volta atrás para explicar tudo o que virá. Enquanto viveu Josué e os anciãos que viram as obras do Senhor, Israel o serviu. Josué morreu e foi sepultado. Toda aquela geração se reuniu aos pais, “e sucedeu-lhe outra que não conhecia o Senhor, nem as obras que tinha feito em favor de Israel”. Começa então o ciclo que estruturará o livro. Primeiro, o pecado: os filhos de Israel fazem o mal, servem os baalins e as astartes, abandonam o Deus que os tirou do Egito. Depois, o castigo: o Senhor os entrega aos saqueadores, e para onde quer que vão a mão do Senhor está contra eles. Em seguida, a misericórdia: o Senhor suscita juízes que os libertam, porque se compadece dos gemidos dos oprimidos. Por fim, a recaída: morto o juiz, voltam a fazer pior que os pais. Por isso Deus decide não expulsar as nações que Josué deixou, para pôr Israel à prova e para que as novas gerações aprendam a combater. Israel vive no meio dos cananeus, heteus, amorreus, fereseus, heveus e jebuseus, casa com eles e serve os seus deuses.",
+    "alegorico": "O ciclo de pecado, opressão, clamor e salvação é o resumo de toda a história da salvação, que só termina quando Deus envia o Salvador definitivo, aquele cuja salvação não morre com ele, porque ressuscitou. Os juízes são figuras parciais e passageiras de Cristo, juiz e libertador.",
+    "moral": "A fé não passa automaticamente de uma geração para outra: é preciso conhecer o Senhor e as suas obras pessoalmente. A recaída depois de cada libertação descreve também a vida espiritual: cada conversão precisa ser guardada. E as provas que Deus permite têm um sentido: ensinar a combater.",
+    "anagogico": "O ciclo da história terá um fim. O juiz que não morre, Cristo ressuscitado, garante uma libertação que não volta atrás e conduz ao repouso definitivo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Sucedeu-lhe outra que não conhecia o Senhor.” “Abandonaram o Senhor Deus de seus pais.” “O Senhor suscitou-lhes juízes.” “Ele deixava-se dobrar da misericórdia, ouvia os gemidos dos aflitos.” “Para pôr à prova Israel.”",
+    "meditatio_perguntas": [
+      "Conheço o Senhor por experiência própria, ou só por ouvir falar?",
+      "Reconheço em minha vida o ciclo de queda, clamor e libertação?",
+      "Como estou transmitindo a fé à geração que vem depois de mim?"
+    ],
+    "oratio_guia": "Senhor, que te deixas dobrar pelos gemidos dos aflitos, tem piedade da minha inconstância. Que eu te conheça e conheça as tuas obras, e que a próxima geração não cresça sem te conhecer. Amém.",
+    "contemplatio_foco": {
+      "texto": "sucedeu-lhe outra que não conhecia o Senhor, nem as obras que tinha feito em favor de Israel",
+      "ref": "Jz 2,10"
+    }
+  },
+  "ancoras": {
+    "2:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Baal, deus cananeu da tempestade e da fertilidade; Astarte (Astarot), deusa da fecundidade e da guerra. O plural (baalins) indica as suas muitas formas locais.",
+        "origem": "ia"
+      }
+    },
+    "2:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os “juízes” (shofetim) são sobretudo libertadores carismáticos suscitados por Deus, mais do que magistrados.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

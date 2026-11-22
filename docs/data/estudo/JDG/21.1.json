@@ -1,0 +1,57 @@
+{
+  "id": "JDG.21.1",
+  "livro": "JDG",
+  "titulo": "Esposas para Benjamim: cada um fazia o que lhe parecia reto",
+  "secao": "Quando não havia rei em Israel",
+  "referencia": "Jz 21,1-25",
+  "ini": {
+    "c": 21,
+    "v": 1
+  },
+  "fim": {
+    "c": 21,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "Cada um fazia o que lhe parecia justo: esposas para Benjamim",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Passada a ira, Israel se arrepende: jurara em Masfa não dar as filhas em casamento aos benjaminitas, e agora vê que uma tribo está para desaparecer. Vão a Betel, choram diante de Deus até a tarde: “Senhor Deus de Israel, por que aconteceu ao teu povo esta desgraça?” Oferecem holocaustos. Para resolver sem quebrar o juramento, procuram quem não subiu a Masfa: Jabes de Galaad. Enviam doze mil homens, que matam todos os habitantes, exceto quatrocentas virgens, entregues aos seiscentos benjaminitas do rochedo de Remon, a quem oferecem a paz. Faltam duzentas. Os anciãos têm outra ideia: na festa anual do Senhor em Silo, as jovens saem para dançar; que os benjaminitas se escondam nas vinhas e cada um rapte uma. Se os pais reclamarem, diremos: tende compaixão deles; e vós não quebrastes o juramento, pois não as destes. Assim se faz. Os benjaminitas reconstroem as cidades, e todos voltam para casa. O livro termina com o refrão: “Naquele tempo não havia rei em Israel; mas cada um fazia o que lhe parecia justo.”",
+    "alegorico": "O livro dos Juízes termina em desordem, com soluções violentas para problemas criados pela violência. É uma súplica muda por um Rei segundo o coração de Deus. A Igreja lê nesta espera o desejo de toda a história por Cristo, Rei de justiça e de paz, que reúne as tribos dispersas.",
+    "moral": "O capítulo mostra uma casuística moral perversa: para não quebrar um juramento imprudente, cometem-se massacres e raptos. Quando a letra de uma promessa importa mais do que a vida e a dignidade das pessoas, a religião se torna desumana. “Cada um fazia o que lhe parecia justo” descreve também o relativismo moral de todos os tempos.",
+    "anagogico": "A dispersão de “cada um para a sua tenda” espera a reunião definitiva do povo de Deus sob um só Pastor, no Reino onde a justiça não será “o que parece a cada um”, mas a verdade de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Senhor Deus de Israel, por que aconteceu ao teu povo esta desgraça?” “Foi cortada de Israel uma tribo.” “Fique em Benjamim a herança dos que escaparam.” “Tende compaixão deles.” “Naquele tempo não havia rei em Israel; mas cada um fazia o que lhe parecia justo.”",
+    "meditatio_perguntas": [
+      "Faço do “que me parece justo” o critério da minha moral?",
+      "Mantenho compromissos imprudentes à custa dos outros?",
+      "Desejo de verdade que Cristo seja o rei da minha vida?"
+    ],
+    "oratio_guia": "Senhor, Rei de justiça, não me deixes fazer só o que me parece justo. Reina sobre mim e sobre o teu povo, e reúne na paz os que a violência dispersou. Amém.",
+    "contemplatio_foco": {
+      "texto": "Naquele tempo não havia rei em Israel; mas cada um fazia o que lhe parecia justo",
+      "ref": "Jz 21,25"
+    }
+  },
+  "ancoras": {
+    "21:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jabes de Galaad terá depois laços estreitos com Benjamim: Saul, benjaminita, a libertará (1Sm 11), e os seus habitantes sepultarão Saul (1Sm 31,11-13).",
+        "origem": "ia"
+      }
+    },
+    "21:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A festa anual de Silo, provavelmente a das Tendas, com danças nas vinhas, é o cenário da peregrinação de Elcana e Ana (1Sm 1,3).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

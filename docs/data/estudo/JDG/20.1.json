@@ -1,0 +1,57 @@
+{
+  "id": "JDG.20.1",
+  "livro": "JDG",
+  "titulo": "A guerra contra Benjamim",
+  "secao": "Quando não havia rei em Israel",
+  "referencia": "Jz 20,1-48",
+  "ini": {
+    "c": 20,
+    "v": 1
+  },
+  "fim": {
+    "c": 20,
+    "v": 48
+  },
+  "liturgia": {
+    "tema_central": "Choravam diante do Senhor: a guerra contra Benjamim",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Todo Israel, de Dan a Bersabeia e Galaad, reúne-se “como um só homem” diante do Senhor em Masfa: quatrocentos mil homens. O levita conta o ocorrido, omitindo que ele mesmo entregou a concubina. O povo jura não voltar para casa até punir Gabaa. Pedem a Benjamim que entregue os culpados, para tirar o mal de Israel; mas Benjamim se recusa e se une para defender Gabaa, com vinte e seis mil guerreiros e setecentos fundibulários canhotos que acertavam num cabelo. Israel consulta a Deus em Betel: quem subirá primeiro? Judá. No primeiro dia, Benjamim mata vinte e dois mil israelitas. Israel chora diante do Senhor até a tarde e pergunta: devemos lutar contra Benjamim, nosso irmão? Sobe. No segundo dia, morrem dezoito mil. Então todo o povo vai a Betel, senta-se, chora diante do Senhor, jejua até a tarde e oferece holocaustos. A arca estava lá, com Fineias, neto de Aarão. Perguntam de novo, e o Senhor promete a vitória. No terceiro dia, Israel usa a tática de Hai: emboscada e fuga fingida. A coluna de fumo sobe de Gabaa; os benjaminitas se veem cercados. Morrem vinte e cinco mil; só seiscentos fogem para o rochedo de Remon. Israel passa ao fio da espada as cidades de Benjamim.",
+    "alegorico": "A tribo de Benjamim quase exterminada por defender o crime mostra o mal que contamina um corpo inteiro quando se protege o culpado. Mas de Benjamim sairão Saul e, séculos depois, Paulo, “da tribo de Benjamim” (Fl 3,5): Deus salva até o resto de uma tribo condenada.",
+    "moral": "A unidade contra o mal é justa, mas a guerra mostra os perigos da justiça feita com ira: o próprio Israel é derrotado duas vezes. Só depois de chorar, jejuar e oferecer sacrifício, isto é, depois de se humilhar, recebe a vitória. A pergunta “devemos lutar contra o nosso irmão?” deveria ressoar em toda guerra entre crentes.",
+    "anagogico": "A justiça humana, mesmo necessária, é sempre ferida e desproporcional. Só o juízo de Deus será perfeitamente justo e misericordioso."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Juntaram-se como um só homem na presença do Senhor.” “Entregai-nos os homens de Gabaa… e, assim, se tire o mal de Israel.” “Devemos continuar ainda a combater contra os filhos de Benjamim, nossos irmãos?” “Sentados, choravam diante do Senhor; jejuaram aquele dia.”",
+    "meditatio_perguntas": [
+      "Protejo culpados por lealdade de grupo?",
+      "Busco a justiça com humildade, ou com ira?",
+      "Choro e jejuo diante de Deus antes de enfrentar os conflitos?"
+    ],
+    "oratio_guia": "Senhor, livra-me de proteger o mal por lealdade cega e de buscar justiça com ira. Ensina-me a chorar diante de ti antes de julgar o meu irmão. Amém.",
+    "contemplatio_foco": {
+      "texto": "sentados, choravam diante do Senhor",
+      "ref": "Jz 20,26"
+    }
+  },
+  "ancoras": {
+    "20:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os setecentos canhotos de Benjamim lembram Aod (3,15). A funda era arma temível: Davi vencerá Golias com ela.",
+        "origem": "ia"
+      }
+    },
+    "20:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A menção de Fineias, neto de Aarão, situa este episódio no início do período dos Juízes, logo depois de Josué.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

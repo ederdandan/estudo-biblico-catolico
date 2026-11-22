@@ -1,0 +1,57 @@
+{
+  "id": "JDG.18.1",
+  "livro": "JDG",
+  "titulo": "A migração de Dan",
+  "secao": "Quando não havia rei em Israel",
+  "referencia": "Jz 18,1-31",
+  "ini": {
+    "c": 18,
+    "v": 1
+  },
+  "fim": {
+    "c": 18,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Levastes os meus deuses: a migração de Dan e o santuário roubado",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A tribo de Dan, que não conseguira ocupar a sua parte, procura território. Envia cinco homens a explorar o país. Passando pela casa de Micas, reconhecem a voz do jovem levita e lhe perguntam: quem te trouxe aqui? Ele explica que Micas o contratou. Pedem-lhe que consulte a Deus, e ele responde: “Ide em paz; o Senhor olha a vossa jornada.” Chegam a Lais, no extremo norte, e encontram um povo tranquilo e confiante, sem aliados, longe de Sidônia. Voltam e animam a tribo: a terra é boa, larga e sem defesa. Partem seiscentos homens armados. Passando pela casa de Micas, os espiões contam aos outros que ali há éfode, terafins e imagens. Enquanto os seiscentos ficam à porta, os cinco entram e levam os objetos de culto. O levita protesta, e eles dizem: cala-te, vem conosco e sê nosso pai e sacerdote; não é melhor ser sacerdote de uma tribo do que de uma casa? E o levita se alegra e vai com eles. Micas os persegue gritando: “Vós levastes os meus deuses, que eu tinha feito para mim, o sacerdote e tudo o que tenho”, e ainda perguntais o que tenho? Os danitas o ameaçam, e ele volta para casa. Dan massacra o povo pacífico de Lais, queima a cidade, reconstrói-a e a chama Dan. Erguem a imagem, e Jônatas, neto de Moisés, e os seus filhos são sacerdotes ali até o exílio.",
+    "alegorico": "O santuário de Dan, nascido do roubo e da ambição, será depois um dos centros do culto cismático de Jeroboão (1Rs 12,29). É a figura de toda religião separada do verdadeiro culto: começa com um ídolo doméstico e acaba em cisma. Cristo restaura o culto em espírito e verdade.",
+    "moral": "Micas descobre a fragilidade de uns deuses que se podem roubar: “levastes os meus deuses que eu tinha feito”. Quem fabrica os próprios deuses pode perdê-los num dia. O levita, por sua vez, troca de patrão por ambição. E a conquista de um povo pacífico, sem ordem de Deus, mostra a lei do mais forte quando “não há rei”.",
+    "anagogico": "Os ídolos que fabricamos podem ser levados; só o Deus vivo, que não fizemos, permanece. Na hora final, ficará só o que não é obra das nossas mãos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ide em paz: o Senhor olha a vossa jornada.” “Cala-te, põe mão sobre a tua boca, e vem connosco.” “Ele… cedeu às suas palavras.” “Vós levastes os meus deuses, que eu tinha feito para mim.” “E erigiram para si a imagem de escultura.”",
+    "meditatio_perguntas": [
+      "Que “deuses que eu mesmo fiz” podem ser tirados de mim num instante?",
+      "Busco ministérios ou posições por ambição?",
+      "Confundo as minhas vontades com a vontade de Deus?"
+    ],
+    "oratio_guia": "Senhor, Deus vivo que ninguém pode roubar, livra-me dos ídolos que eu mesmo fabrico. Purifica a minha ambição e faz-me buscar só a tua vontade. Amém.",
+    "contemplatio_foco": {
+      "texto": "Vós levastes os meus deuses, que eu tinha feito para mim",
+      "ref": "Jz 18,24"
+    }
+  },
+  "ancoras": {
+    "18:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Lais (Lesem em Js 19,47), atual Tel Dan, nas nascentes do Jordão; ali foi encontrada uma estela aramaica do séc. IX a.C. que menciona a “casa de Davi”.",
+        "origem": "ia"
+      }
+    },
+    "18:30": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O texto hebraico tem “Manassés”, com um “n” suspenso, para evitar escrever “Moisés” como ancestral de um sacerdote idólatra; a Vulgata lê Moisés.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

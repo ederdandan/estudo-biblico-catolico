@@ -1,0 +1,434 @@
+{
+ "livro": "JDG",
+ "secoes": [
+  "Israel depois de Josué",
+  "Os primeiros juízes",
+  "Gedeão",
+  "Abimelec e os juízes menores",
+  "Jefté",
+  "Sansão",
+  "Quando não havia rei em Israel"
+ ],
+ "pericopes": [
+  {
+   "id": "JDG.1.1",
+   "titulo": "A conquista incompleta",
+   "secao": "Israel depois de Josué",
+   "referencia": "Jz 1,1-36",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 36
+   }
+  },
+  {
+   "id": "JDG.2.1",
+   "titulo": "O anjo do Senhor em Boquim: o lugar dos que choram",
+   "secao": "Israel depois de Josué",
+   "referencia": "Jz 2,1-5",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 5
+   }
+  },
+  {
+   "id": "JDG.2.6",
+   "titulo": "Uma geração que não conhecia o Senhor",
+   "secao": "Israel depois de Josué",
+   "referencia": "Jz 2,6–3,6",
+   "ini": {
+    "c": 2,
+    "v": 6
+   },
+   "fim": {
+    "c": 3,
+    "v": 6
+   }
+  },
+  {
+   "id": "JDG.3.7",
+   "titulo": "Otoniel, o primeiro juiz",
+   "secao": "Os primeiros juízes",
+   "referencia": "Jz 3,7-11",
+   "ini": {
+    "c": 3,
+    "v": 7
+   },
+   "fim": {
+    "c": 3,
+    "v": 11
+   }
+  },
+  {
+   "id": "JDG.3.12",
+   "titulo": "Aod e Eglon, rei de Moab; Samgar",
+   "secao": "Os primeiros juízes",
+   "referencia": "Jz 3,12-31",
+   "ini": {
+    "c": 3,
+    "v": 12
+   },
+   "fim": {
+    "c": 3,
+    "v": 31
+   }
+  },
+  {
+   "id": "JDG.4.1",
+   "titulo": "Débora, Barac e Jael",
+   "secao": "Os primeiros juízes",
+   "referencia": "Jz 4,1-24",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 24
+   }
+  },
+  {
+   "id": "JDG.5.1",
+   "titulo": "O cântico de Débora",
+   "secao": "Os primeiros juízes",
+   "referencia": "Jz 5,1-32",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 32
+   }
+  },
+  {
+   "id": "JDG.6.1",
+   "titulo": "O Senhor é contigo, valente herói: a vocação de Gedeão",
+   "secao": "Gedeão",
+   "referencia": "Jz 6,1-24",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 24
+   }
+  },
+  {
+   "id": "JDG.6.25",
+   "titulo": "O altar de Baal derrubado e o sinal do velo",
+   "secao": "Gedeão",
+   "referencia": "Jz 6,25-40",
+   "ini": {
+    "c": 6,
+    "v": 25
+   },
+   "fim": {
+    "c": 6,
+    "v": 40
+   }
+  },
+  {
+   "id": "JDG.7.1",
+   "titulo": "Os trezentos que lamberam a água",
+   "secao": "Gedeão",
+   "referencia": "Jz 7,1-8",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 8
+   }
+  },
+  {
+   "id": "JDG.7.9",
+   "titulo": "A espada do Senhor e de Gedeão",
+   "secao": "Gedeão",
+   "referencia": "Jz 7,9-25",
+   "ini": {
+    "c": 7,
+    "v": 9
+   },
+   "fim": {
+    "c": 7,
+    "v": 25
+   }
+  },
+  {
+   "id": "JDG.8.1",
+   "titulo": "Efraim, Socot e Fanuel; os reis de Madiã",
+   "secao": "Gedeão",
+   "referencia": "Jz 8,1-21",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 21
+   }
+  },
+  {
+   "id": "JDG.8.22",
+   "titulo": "O Senhor terá domínio sobre vós; o éfode de Gedeão",
+   "secao": "Gedeão",
+   "referencia": "Jz 8,22-35",
+   "ini": {
+    "c": 8,
+    "v": 22
+   },
+   "fim": {
+    "c": 8,
+    "v": 35
+   }
+  },
+  {
+   "id": "JDG.9.1",
+   "titulo": "Abimelec rei e a fábula de Joatão",
+   "secao": "Abimelec e os juízes menores",
+   "referencia": "Jz 9,1-21",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 21
+   }
+  },
+  {
+   "id": "JDG.9.22",
+   "titulo": "A ruína de Abimelec e de Siquém",
+   "secao": "Abimelec e os juízes menores",
+   "referencia": "Jz 9,22-57",
+   "ini": {
+    "c": 9,
+    "v": 22
+   },
+   "fim": {
+    "c": 9,
+    "v": 57
+   }
+  },
+  {
+   "id": "JDG.10.1",
+   "titulo": "Tola e Jair; Israel clama e se converte",
+   "secao": "Abimelec e os juízes menores",
+   "referencia": "Jz 10,1-18",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 18
+   }
+  },
+  {
+   "id": "JDG.11.1",
+   "titulo": "Jefté, o filho rejeitado, chefe de Galaad",
+   "secao": "Jefté",
+   "referencia": "Jz 11,1-28",
+   "ini": {
+    "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 28
+   }
+  },
+  {
+   "id": "JDG.11.29",
+   "titulo": "O voto de Jefté e a sua filha",
+   "secao": "Jefté",
+   "referencia": "Jz 11,29-40",
+   "ini": {
+    "c": 11,
+    "v": 29
+   },
+   "fim": {
+    "c": 11,
+    "v": 40
+   }
+  },
+  {
+   "id": "JDG.12.1",
+   "titulo": "Chibolet; Abesã, Ahialon e Abdon",
+   "secao": "Jefté",
+   "referencia": "Jz 12,1-15",
+   "ini": {
+    "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 15
+   }
+  },
+  {
+   "id": "JDG.13.1",
+   "titulo": "O anúncio do nascimento de Sansão",
+   "secao": "Sansão",
+   "referencia": "Jz 13,1-25",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 25
+   }
+  },
+  {
+   "id": "JDG.14.1",
+   "titulo": "O leão, o mel e o enigma",
+   "secao": "Sansão",
+   "referencia": "Jz 14,1-20",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 20
+   }
+  },
+  {
+   "id": "JDG.15.1",
+   "titulo": "As raposas e a queixada de jumento",
+   "secao": "Sansão",
+   "referencia": "Jz 15,1-20",
+   "ini": {
+    "c": 15,
+    "v": 1
+   },
+   "fim": {
+    "c": 15,
+    "v": 20
+   }
+  },
+  {
+   "id": "JDG.16.1",
+   "titulo": "Sansão em Gaza",
+   "secao": "Sansão",
+   "referencia": "Jz 16,1-3",
+   "ini": {
+    "c": 16,
+    "v": 1
+   },
+   "fim": {
+    "c": 16,
+    "v": 3
+   }
+  },
+  {
+   "id": "JDG.16.4",
+   "titulo": "Sansão e Dalila",
+   "secao": "Sansão",
+   "referencia": "Jz 16,4-22",
+   "ini": {
+    "c": 16,
+    "v": 4
+   },
+   "fim": {
+    "c": 16,
+    "v": 22
+   }
+  },
+  {
+   "id": "JDG.16.23",
+   "titulo": "A morte de Sansão",
+   "secao": "Sansão",
+   "referencia": "Jz 16,23-31",
+   "ini": {
+    "c": 16,
+    "v": 23
+   },
+   "fim": {
+    "c": 16,
+    "v": 31
+   }
+  },
+  {
+   "id": "JDG.17.1",
+   "titulo": "O ídolo de Micas",
+   "secao": "Quando não havia rei em Israel",
+   "referencia": "Jz 17,1-13",
+   "ini": {
+    "c": 17,
+    "v": 1
+   },
+   "fim": {
+    "c": 17,
+    "v": 13
+   }
+  },
+  {
+   "id": "JDG.18.1",
+   "titulo": "A migração de Dan",
+   "secao": "Quando não havia rei em Israel",
+   "referencia": "Jz 18,1-31",
+   "ini": {
+    "c": 18,
+    "v": 1
+   },
+   "fim": {
+    "c": 18,
+    "v": 31
+   }
+  },
+  {
+   "id": "JDG.19.1",
+   "titulo": "O crime de Gabaa",
+   "secao": "Quando não havia rei em Israel",
+   "referencia": "Jz 19,1-30",
+   "ini": {
+    "c": 19,
+    "v": 1
+   },
+   "fim": {
+    "c": 19,
+    "v": 30
+   }
+  },
+  {
+   "id": "JDG.20.1",
+   "titulo": "A guerra contra Benjamim",
+   "secao": "Quando não havia rei em Israel",
+   "referencia": "Jz 20,1-48",
+   "ini": {
+    "c": 20,
+    "v": 1
+   },
+   "fim": {
+    "c": 20,
+    "v": 48
+   }
+  },
+  {
+   "id": "JDG.21.1",
+   "titulo": "Esposas para Benjamim: cada um fazia o que lhe parecia reto",
+   "secao": "Quando não havia rei em Israel",
+   "referencia": "Jz 21,1-25",
+   "ini": {
+    "c": 21,
+    "v": 1
+   },
+   "fim": {
+    "c": 21,
+    "v": 25
+   }
+  }
+ ]
+}

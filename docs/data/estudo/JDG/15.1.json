@@ -1,0 +1,57 @@
+{
+  "id": "JDG.15.1",
+  "livro": "JDG",
+  "titulo": "As raposas e a queixada de jumento",
+  "secao": "Sansão",
+  "referencia": "Jz 15,1-20",
+  "ini": {
+    "c": 15,
+    "v": 1
+  },
+  "fim": {
+    "c": 15,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "A queixada de jumento e a fonte que brota da rocha",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No tempo da ceifa do trigo, Sansão vai visitar a mulher levando um cabrito, mas o sogro não o deixa entrar: julguei que a odiavas e a dei a um companheiro; toma a irmã mais nova, que é mais bonita. Sansão se considera livre para se vingar. Apanha trezentas raposas, ata-as duas a duas pela cauda, põe uma tocha entre elas e solta-as nas searas dos filisteus: queimam-se os feixes, o trigo em pé, as vinhas e os olivais. Os filisteus queimam a mulher e o pai dela. Sansão se vinga de novo, com grande matança, e se refugia na gruta do rochedo de Etam. Os filisteus invadem Judá para prendê-lo. Três mil homens de Judá vão à gruta: não sabes que os filisteus nos dominam? Viemos amarrar-te e entregar-te. Sansão só pede que não o matem eles mesmos. Amarram-no com duas cordas novas. Em Lequi, os filisteus vêm ao seu encontro gritando; o espírito do Senhor o reveste, as cordas se desfazem como linho queimado. Ele encontra uma queixada fresca de jumento e mata mil homens: “Com a queixada dum jumento os derrotei, com a mandíbula dum jumento mil homens matei.” Depois sente uma sede mortal e clama ao Senhor pela primeira vez: tu me deste esta vitória, e agora morrerei de sede? Deus fende a rocha côncava de Lequi, brota água, ele bebe e recobra o ânimo. Sansão julga Israel vinte anos.",
+    "alegorico": "A fonte que Deus faz jorrar para o herói sedento lembra a rocha do deserto e foi lida como figura de Cristo, rocha ferida de onde brota a água viva. A vitória com um instrumento desprezível, uma queixada de jumento, mostra Deus vencendo pelo que é fraco e insignificante.",
+    "moral": "A espiral de vingança é evidente: cada lado responde ao outro com mais violência, e os inocentes pagam. Também Judá prefere a submissão cômoda aos filisteus à liberdade que Sansão representa. Mas o momento mais humano é o da sede: depois da grande vitória, o herói descobre que é frágil e reza. É na necessidade que Sansão aprende a orar.",
+    "anagogico": "A sede depois da vitória e a fonte que brota da rocha anunciam a sede última do homem, que só Deus sacia: “quem tiver sede venha a mim e beba” (Jo 7,37)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu julguei que a odiasses.” “Tu não sabes que estamos sujeitos aos Filisteus?” “Como o linho… se desfizeram as cordas.” “Com a queixada dum jumento… mil homens matei.” “Eis que morro de sede.” “Deus fendeu a rocha… e dela brotou água.”",
+    "meditatio_perguntas": [
+      "Em que espiral de vingança estou preso?",
+      "Prefiro a submissão cômoda à liberdade que Deus oferece?",
+      "Depois das vitórias, reconheço a minha sede e rezo?"
+    ],
+    "oratio_guia": "Senhor, livra-me da espiral da vingança e da acomodação ao mal. Quando, depois das vitórias, eu sentir sede, faz brotar para mim a água viva da rocha que é Cristo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tu foste o que salvaste o teu servo e que lhe deste esta grandíssima vitória",
+      "ref": "Jz 15,18"
+    }
+  },
+  "ancoras": {
+    "15:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Talvez se trate de chacais, que andam em bandos e eram comuns na região; o hebraico shu‘alim designa ambos.",
+        "origem": "ia"
+      }
+    },
+    "15:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A fonte foi chamada En-Haqqore, “fonte do que invoca”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

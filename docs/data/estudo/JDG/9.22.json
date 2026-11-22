@@ -1,0 +1,57 @@
+{
+  "id": "JDG.9.22",
+  "livro": "JDG",
+  "titulo": "A ruína de Abimelec e de Siquém",
+  "secao": "Abimelec e os juízes menores",
+  "referencia": "Jz 9,22-57",
+  "ini": {
+    "c": 9,
+    "v": 22
+  },
+  "fim": {
+    "c": 9,
+    "v": 57
+  },
+  "liturgia": {
+    "tema_central": "Deus pagou a Abimelec o mal que tinha feito: o fogo que devora os cúmplices",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Abimelec domina três anos. Então Deus envia um espírito de discórdia entre ele e os siquemitas, para que o sangue dos setenta irmãos recaia sobre Abimelec e sobre os que o ajudaram. Os de Siquém armam emboscadas e assaltam os viajantes. Chega Gaal, filho de Obed, que, numa festa no templo depois da vindima, amaldiçoa Abimelec: quem é ele para que o sirvamos? Zebul, governador da cidade, avisa Abimelec, que arma emboscadas de noite. De manhã Gaal vê gente descendo dos montes; Zebul zomba: são as sombras dos montes. Depois desafia: onde está agora a tua boca? Gaal é vencido e expulso. No dia seguinte Abimelec ataca o povo nos campos, toma a cidade, arrasa-a e semeia-a de sal. Os da torre de Siquém refugiam-se na cripta do templo de El-Berit; Abimelec corta ramos no monte Selmon, empilha-os e lhes põe fogo: morrem uns mil homens e mulheres. Vai depois a Tebes e ataca a torre onde se refugiaram todos. Quando se aproxima para queimar a porta, uma mulher lança do alto uma mó de moinho e lhe quebra o crânio. Ele pede ao escudeiro: mata-me, para que não digam que uma mulher me matou. E o texto conclui: assim Deus pagou a Abimelec o mal que fizera ao pai, e a Siquém, e cumpriu-se a maldição de Joatão.",
+    "alegorico": "O tirano que morre por uma pedra de moinho lançada por uma mulher anuncia a lógica do Magnificat: Deus derruba os poderosos pelos humildes. A torre de Siquém e o templo de Baal, onde os conspiradores buscam refúgio, mostram que não há abrigo para o mal fora de Deus.",
+    "moral": "A aliança no crime não dura: os cúmplices de ontem se tornam inimigos. A ambição de Abimelec acaba destruindo a cidade que o fez rei e a ele mesmo. O pecado tem uma lógica interna de autodestruição; Deus a deixa agir como juízo. E o orgulho de Abimelec o acompanha até a morte: mais importa a reputação do que a alma.",
+    "anagogico": "“Assim pagou Deus”: a história não é indiferente ao mal. O juízo final revelará plenamente a justiça que aqui se mostra apenas em parte."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor enviou um péssimo espírito entre Abimelec e os habitantes de Siquém.” “Quem é Abimelec… para que lhe estejamos sujeitos?” “Onde está agora a tua boca?” “Uma mulher, lançando de cima um pedaço de mó, feriu Abimelec.” “Assim pagou Deus a Abimelec o mal que tinha feito.”",
+    "meditatio_perguntas": [
+      "Em que alianças ou cumplicidades com o mal estou envolvido?",
+      "Preocupo-me mais com a reputação do que com a verdade diante de Deus?",
+      "Confio que Deus faz justiça, mesmo quando tarda?"
+    ],
+    "oratio_guia": "Senhor justo, livra-me das cumplicidades com o mal e do orgulho que se preocupa só com o que dirão. Confio na tua justiça, que derruba os poderosos e protege os pequenos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Assim pagou Deus a Abimelec o mal que tinha feito a seu pai",
+      "ref": "Jz 9,56"
+    }
+  },
+  "ancoras": {
+    "9:45": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Semear de sal uma cidade destruída era rito de maldição, para que permanecesse estéril.",
+        "origem": "ia"
+      }
+    },
+    "9:53": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A morte de Abimelec por uma mulher será lembrada como exemplo de imprudência militar (2Sm 11,21).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

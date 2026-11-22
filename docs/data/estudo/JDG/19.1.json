@@ -1,0 +1,57 @@
+{
+  "id": "JDG.19.1",
+  "livro": "JDG",
+  "titulo": "O crime de Gabaa",
+  "secao": "Quando não havia rei em Israel",
+  "referencia": "Jz 19,1-30",
+  "ini": {
+    "c": 19,
+    "v": 1
+  },
+  "fim": {
+    "c": 19,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "Nunca tal coisa se fez em Israel: o crime de Gabaa",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Num tempo sem rei, um levita da montanha de Efraim tem uma concubina de Belém de Judá, que se irrita com ele e volta para a casa do pai. Quatro meses depois ele vai buscá-la “para lhe falar ao coração”. O sogro o recebe com alegria e o retém dias seguidos com comida e bebida. No quinto dia, o levita parte tarde. Perto de Jebus, o servo sugere pernoitar ali, mas o levita recusa entrar numa cidade estrangeira; prefere Gabaa, de Benjamim. Em Gabaa, ninguém os acolhe; sentam-se na praça. Um velho, também de Efraim, que volta do campo, os recebe em casa. Enquanto comem, homens perversos da cidade cercam a casa e exigem o hóspede para abusar dele, como em Sodoma. O velho suplica: não cometais tal infâmia; ofereço-vos a minha filha virgem e a concubina dele. O levita entrega a concubina, que é violentada a noite inteira. De manhã, ela cai à porta da casa, com as mãos no limiar. O marido abre a porta para seguir viagem e lhe diz: levanta-te, vamos. Não há resposta. Leva-a para casa, corta o corpo em doze pedaços e os envia a todas as tribos de Israel. Todos dizem: “Nunca tal coisa se fez em Israel, desde o dia em que os nossos pais saíram do Egipto.”",
+    "alegorico": "Gabaa se tornou como Sodoma: o povo de Deus repete o pecado dos pagãos. Os profetas lembrarão “os dias de Gabaa” como o fundo da corrupção (Os 9,9; 10,9). O silêncio da mulher vítima e o seu corpo partido clamam por um Rei justo e por um Redentor que tome sobre si a violência do mundo.",
+    "moral": "O texto é um dos mais terríveis da Bíblia, e o narrador o conta para despertar horror. A hospitalidade recusada, a violência sexual, o egoísmo do marido que entrega a mulher para salvar a si mesmo, a frieza do “levanta-te, vamos”: tudo mostra a degradação quando se perde o temor de Deus. As vítimas silenciosas da história não podem ser esquecidas.",
+    "anagogico": "O clamor das vítimas sobe a Deus, e o seu juízo virá. Na cidade de Deus não entrarão os violentos, e as lágrimas dos inocentes serão enxugadas (Ap 21,4.8)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Querendo reconciliar-se com ela.” “Ninguém lhes quis dar hospitalidade.” “A paz seja contigo, eu te darei tudo o que for necessário.” “Não queirais, irmãos, não queirais cometer semelhante maldade.” “Nunca tal coisa se fez em Israel.”",
+    "meditatio_perguntas": [
+      "Diante da violência contra os mais fracos, deixo-me horrorizar ou me acostumo?",
+      "Sou hospitaleiro como o velho de Efraim?",
+      "Sacrifico os outros para salvar a mim mesmo?"
+    ],
+    "oratio_guia": "Senhor, ouve o clamor de todas as vítimas da violência. Não me deixes acostumar com o mal, torna-me hospitaleiro e defensor dos fracos, e vem, Rei justo, estabelecer o teu reino. Amém.",
+    "contemplatio_foco": {
+      "texto": "Nunca tal coisa se fez em Israel",
+      "ref": "Jz 19,30"
+    }
+  },
+  "ancoras": {
+    "19:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Falar ao coração” é expressão de reconciliação amorosa, usada também por Deus para com Israel (Os 2,16).",
+        "origem": "ia"
+      }
+    },
+    "19:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A cena repete deliberadamente Gn 19,4-8 (Sodoma): o povo de Deus se tornou como os cananeus.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "JDG.5.1",
+  "livro": "JDG",
+  "titulo": "O cântico de Débora",
+  "secao": "Os primeiros juízes",
+  "referencia": "Jz 5,1-32",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "Os que te amam brilhem como o sol: o cântico de Débora",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Débora e Barac cantam a vitória num dos poemas mais antigos da Bíblia. Bendizei o Senhor, vós que vos oferecestes voluntariamente. O Senhor vem de Seir como na teofania do Sinai: a terra treme, os céus se desfazem em água, os montes se abalam. Antes, nos dias de Samgar e de Jael, os caminhos estavam desertos e não havia valentes em Israel, “até que se levantou Débora, até que ela se levantou mãe em Israel”. Os que montam jumentas brancas e os que andam pelos caminhos contem as justiças do Senhor. “Levanta-te, levanta-te, ó Débora, entoa um cântico.” O poema passa em revista as tribos: Efraim, Benjamim, Maquir, Zabulon e Issacar vieram; Rúben ficou a ouvir os balidos dos rebanhos, perdido em deliberações; Galaad, Dan e Aser ficaram em casa; Zabulon e Neftali arriscaram a vida. Os reis de Canaã combateram em Tanac, junto às águas de Megido, mas “combateu-se do céu contra eles; as estrelas combateram contra Sísara”, e a torrente do Quison os arrastou. Maldita Meroz, que não veio em auxílio do Senhor. “Bendita seja entre as mulheres Jael”: deu leite ao que pedia água e o feriu. A mãe de Sísara espera à janela: por que tarda o seu carro? As damas a consolam imaginando o despojo. “Assim pereçam, Senhor, todos os teus inimigos; os que porém te amam, brilhem como o sol quando nasce.” E a terra repousa quarenta anos.",
+    "alegorico": "O cântico de Débora se une aos cânticos de Moisés, de Ana e de Maria: os humildes cantam o Deus que derruba os poderosos. “Bendita entre as mulheres” será dito de Judite e, sobretudo, de Maria (Lc 1,42), que gera aquele que esmaga a cabeça do inimigo. O sol que nasce é Cristo, e os que o amam participam do seu brilho.",
+    "moral": "O poema celebra os que “se ofereceram voluntariamente” e envergonha os que ficaram em casa: Rúben, com as suas longas deliberações, e Meroz, que não veio. Diante das lutas do povo de Deus, a indiferença também é uma escolha. A espiritualidade bíblica une gratidão e compromisso: cantar a Deus e arriscar a vida pelos irmãos.",
+    "anagogico": "“Os que te amam brilhem como o sol quando nasce”: é a promessa da glória dos justos, que “brilharão como o sol no reino de seu Pai” (Mt 13,43). O cântico de vitória antecipa o cântico do Cordeiro."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vós os que voluntariamente vos expusestes ao perigo, bendizei ao Senhor.” “Até que se levantou Débora… mãe em Israel.” “Levanta-te, levanta-te, ó Débora.” “As estrelas… combateram contra Sisara.” “Bendita seja entre as mulheres Jael.” “Os que porém te amam, brilhem como o sol quando nasce.”",
+    "meditatio_perguntas": [
+      "Ofereço-me voluntariamente, ou fico, como Rúben, “a ouvir os balidos dos rebanhos”?",
+      "Canto a Deus pelas suas vitórias na minha vida?",
+      "Desejo amar a Deus a ponto de brilhar como o sol que nasce?"
+    ],
+    "oratio_guia": "Senhor, que combates do céu pelos pequenos, recebe o meu cântico de louvor. Livra-me da indiferença diante das lutas dos irmãos e dá-me amar-te de tal modo que eu brilhe como o sol quando nasce. Amém.",
+    "contemplatio_foco": {
+      "texto": "os que porém te amam, brilhem como o sol quando nasce",
+      "ref": "Jz 5,31"
+    }
+  },
+  "ancoras": {
+    "5:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O cântico de Débora (séc. XII a.C.) é considerado um dos textos mais antigos da Bíblia hebraica; o seu hebraico arcaico é de difícil tradução.",
+        "origem": "ia"
+      }
+    },
+    "5:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A tradição sugere que uma chuva súbita fez transbordar o Quison e atolou os carros de ferro na planície.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "JDG.3.7",
+  "livro": "JDG",
+  "titulo": "Otoniel, o primeiro juiz",
+  "secao": "Os primeiros juízes",
+  "referencia": "Jz 3,7-11",
+  "ini": {
+    "c": 3,
+    "v": 7
+  },
+  "fim": {
+    "c": 3,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "O espírito do Senhor esteve nele: Otoniel, o juiz modelo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O primeiro juiz é apresentado de modo breve, como modelo do ciclo. Os filhos de Israel fazem o mal e esquecem o Senhor, servindo os baalins e as astartes. Irado, o Senhor os entrega a Cusã-Rasataim, rei da Mesopotâmia, e eles o servem oito anos. Clamam ao Senhor, e ele lhes suscita um salvador: Otoniel, filho de Cenez, irmão mais novo de Caleb, o mesmo que conquistara Cariat-Sefer. “O espírito do Senhor esteve nele, e julgou Israel.” Sai à guerra, e o Senhor entrega nas suas mãos o rei inimigo. O país fica em paz quarenta anos, e Otoniel morre.",
+    "alegorico": "O espírito do Senhor que desce sobre o juiz antecipa o Espírito que repousa sobre o Messias (Is 11,2) e desce sobre Jesus no Jordão. Otoniel, da família de Caleb, o homem de coração inteiro, é figura do Salvador que nasce da tribo de Judá.",
+    "moral": "O relato não tem drama nem defeitos: mostra o que Deus quer fazer sempre que o povo clama. A salvação não depende do talento humano, mas do Espírito que Deus dá. E o clamor é o ponto de virada: Deus espera que gritemos por ele.",
+    "anagogico": "A paz de quarenta anos, uma geração, é sinal limitado da paz sem fim que o Messias, cheio do Espírito, trará ao seu reino."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Esqueceram-se do seu Deus.” “Clamaram ao Senhor, que lhes suscitou um salvador.” “O espírito do Senhor esteve nele, e julgou Israel.” “O país ficou em paz durante quarenta anos.”",
+    "meditatio_perguntas": [
+      "Em que situação preciso clamar ao Senhor por um salvador?",
+      "Peço o Espírito Santo para as tarefas que Deus me confia?",
+      "Lembro-me de Deus só no aperto, ou também na paz?"
+    ],
+    "oratio_guia": "Senhor, quando eu te esquecer, não te esqueças de mim. Ouve o meu clamor, envia o teu Espírito e dá-me a paz que vem de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "O espírito do Senhor esteve nele, e julgou Israel",
+      "ref": "Jz 3,10"
+    }
+  },
+  "ancoras": {
+    "3:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cusã-Rasataim significa “Cusã da dupla maldade”, provavelmente um apelido depreciativo; a Vulgata transcreve “Chusan Rasathaim”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

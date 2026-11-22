@@ -1,0 +1,57 @@
+{
+  "id": "JDG.3.12",
+  "livro": "JDG",
+  "titulo": "Aod e Eglon, rei de Moab; Samgar",
+  "secao": "Os primeiros juízes",
+  "referencia": "Jz 3,12-31",
+  "ini": {
+    "c": 3,
+    "v": 12
+  },
+  "fim": {
+    "c": 3,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Uma palavra da parte de Deus: Aod, o canhoto libertador; Samgar",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Israel volta a fazer o mal, e o Senhor fortalece contra ele Eglon, rei de Moab, que, aliado a amonitas e amalecitas, toma a cidade das Palmeiras; Israel o serve dezoito anos. Clamam ao Senhor, e ele suscita Aod, benjaminita, canhoto. Encarregado de levar o tributo ao rei, Aod faz um punhal de dois gumes e o esconde sob as vestes, do lado direito. Entrega o tributo a Eglon, “que era em extremo gordo”, despede os carregadores e volta: “Tenho que dizer-te, ó rei, uma palavra em segredo.” O rei manda sair a todos. No quarto fresco do terraço, Aod diz: “Tenho que dizer-te uma palavra da parte de Deus.” Quando o rei se levanta, Aod, com a mão esquerda, crava-lhe o punhal no ventre, tão fundo que a gordura cobre o cabo. Fecha as portas e foge. Os servos, vendo as portas trancadas, pensam que o rei está satisfazendo uma necessidade e esperam até ficarem envergonhados; abrem e o encontram morto. Aod toca a trombeta na montanha de Efraim, ocupa os vaus do Jordão, e Israel mata dez mil moabitas. A terra repousa oitenta anos. Depois dele, Samgar, filho de Anat, mata seiscentos filisteus com uma aguilhada de bois.",
+    "alegorico": "Deus age através do improvável: um canhoto, numa tribo cujo nome significa “filho da mão direita”, e um lavrador armado só com o seu aguilhão. É a lógica que culmina na cruz: Deus escolhe o fraco para confundir o forte (1Cor 1,27). A “palavra da parte de Deus” que fere é imagem da Palavra, espada de dois gumes (Hb 4,12).",
+    "moral": "O relato, cheio de ironia, retrata o opressor como um homem inchado pelo que tira dos outros. O texto não propõe o assassinato como modelo; mostra que Deus liberta os oprimidos por meios inesperados. Espiritualmente, a palavra de Deus penetra até o íntimo e não pode ser enganada por portas fechadas.",
+    "anagogico": "A palavra que Deus tem a dizer a cada um, “em segredo”, será revelada no fim. Os opressores que engordam com o tributo dos pobres encontrarão a palavra do juízo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Lhes suscitou um salvador chamado Aod… que era canhoto.” “Tenho que dizer-te, ó rei, uma palavra em segredo.” “Tenho que dizer-te uma palavra da parte de Deus.” “Segui-me, porque o Senhor entregou em nossas mãos os Moabitas.” “Matou seiscentos Filisteus com uma relha de arado.”",
+    "meditatio_perguntas": [
+      "Considero as minhas limitações um obstáculo para Deus me usar?",
+      "Que “palavra da parte de Deus” preciso deixar entrar até o íntimo?",
+      "Que pequenos instrumentos do meu dia a dia Deus pode usar?"
+    ],
+    "oratio_guia": "Senhor, que usas os fracos e os improváveis, usa-me também com as minhas limitações. Que a tua palavra penetre em mim como espada de dois gumes e me liberte de toda opressão. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tenho que dizer-te uma palavra da parte de Deus",
+      "ref": "Jz 3,20"
+    }
+  },
+  "ancoras": {
+    "3:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Benjamim (“filho da direita”) tinha fama de guerreiros canhotos (20,16). A Vulgata diz “qui utraque manu pro dextera utebatur”, “que usava as duas mãos como direita”.",
+        "origem": "ia"
+      }
+    },
+    "3:31": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “relha de arado” (hebraico: aguilhada de bois) era uma vara com ponta de ferro para tocar o gado.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

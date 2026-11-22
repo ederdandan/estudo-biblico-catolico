@@ -1,0 +1,57 @@
+{
+  "id": "JDG.16.4",
+  "livro": "JDG",
+  "titulo": "Sansão e Dalila",
+  "secao": "Sansão",
+  "referencia": "Jz 16,4-22",
+  "ini": {
+    "c": 16,
+    "v": 4
+  },
+  "fim": {
+    "c": 16,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Não sabia que o Senhor se tinha retirado dele: Sansão e Dalila",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Sansão ama uma mulher do vale de Sorec, chamada Dalila. Os príncipes dos filisteus lhe oferecem mil e cem siclos de prata cada um para que descubra onde está a sua força. Dalila pergunta com franqueza: diz-me em que consiste a tua força e como poderias ser amarrado. Três vezes Sansão mente: sete cordas frescas, cordas novas, as sete tranças tecidas no tear; três vezes ela o amarra, grita “Sansão, os filisteus estão sobre ti!”, e ele se liberta facilmente. Ela insiste: “Como dizes tu que me amas, quando o teu coração não está comigo?” Importuna-o todos os dias, até que ele fica desgostoso de morte. Então “abrindo, de par em par, o seu coração”, diz: navalha nunca passou pela minha cabeça, porque sou nazareno de Deus desde o ventre; se me raparem, perderei a força. Dalila percebe que agora é verdade e chama os príncipes, que trazem o dinheiro. Faz Sansão adormecer no seu colo, chama um homem que corta as sete tranças, e a força o deixa. “Sansão, os filisteus estão sobre ti!” Ele desperta e pensa: sairei como das outras vezes, “não sabendo que o Senhor se tinha retirado dele”. Os filisteus o prendem, furam-lhe os olhos, levam-no a Gaza acorrentado com bronze e o põem a girar a mó na prisão. Mas o cabelo começa a crescer de novo.",
+    "alegorico": "Os Padres viram em Sansão traído por uma mulher a quem amava uma figura de Cristo traído por um dos seus e entregue por dinheiro. Agostinho lê também a cegueira de Sansão como imagem da alma que, por ceder ao pecado, perde a luz. O cabelo que volta a crescer anuncia a graça que Deus devolve ao penitente.",
+    "moral": "A queda de Sansão não é súbita: ele brinca três vezes com o segredo da sua consagração. O perigo maior é a presunção: “sairei como antes fiz”, sem perceber que Deus se retirou. A força não estava no cabelo, mas na consagração a Deus, que ele entregou. O pecado cega, escraviza e faz girar a mó como um animal; mas a graça, como o cabelo, pode voltar a crescer.",
+    "anagogico": "O homem que perdeu a vista na prisão terá, pela fé, uma última vitória. Mesmo depois da queda, a esperança permanece: Deus não abandona definitivamente quem volta a invocá-lo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Dize-me, te peço, em que consiste esta tua tão grande força.” “Como dizes tu que me amas, quando o teu coração não está comigo?” “Abrindo, de par em par, o seu coração.” “Sairei, como antes fiz.” “Não sabendo que o Senhor se tinha retirado dele.” “Os seus cabelos já lhe tinham começado a crescer.”",
+    "meditatio_perguntas": [
+      "Com que segredos da minha consagração estou brincando?",
+      "Vivo com a presunção de que “sairei como das outras vezes”?",
+      "Creio que, mesmo depois da queda, a graça pode voltar a crescer?"
+    ],
+    "oratio_guia": "Senhor, guarda-me da presunção que brinca com o pecado e não percebe que te afastas. Se eu cair, não me deixes na cegueira: faz crescer de novo em mim a tua graça. Amém.",
+    "contemplatio_foco": {
+      "texto": "não sabendo que o Senhor se tinha retirado dele",
+      "ref": "Jz 16,20"
+    }
+  },
+  "ancoras": {
+    "16:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Mil e cem siclos de cada um dos cinco príncipes: uma fortuna (mais de 60 kg de prata no total).",
+        "origem": "ia"
+      }
+    },
+    "16:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Girar a mó era trabalho de escravos e animais; também a mulher de Ascalon e Gaza era símbolo de humilhação (Is 47,2).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

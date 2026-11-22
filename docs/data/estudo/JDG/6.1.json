@@ -1,0 +1,57 @@
+{
+  "id": "JDG.6.1",
+  "livro": "JDG",
+  "titulo": "O Senhor é contigo, valente herói: a vocação de Gedeão",
+  "secao": "Gedeão",
+  "referencia": "Jz 6,1-24",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "O Senhor é contigo: o menor da casa de seu pai chamado a libertar Israel",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Israel faz o mal, e por sete anos os madianitas, os amalecitas e os povos do oriente invadem a terra como nuvens de gafanhotos, com camelos inumeráveis, destruindo as colheitas até Gaza; os israelitas se escondem em covas e cavernas. Clamam ao Senhor, que primeiro lhes envia um profeta para lembrar o êxodo e a desobediência. Depois o anjo do Senhor senta-se sob o terebinto de Efra, onde Gedeão malha trigo escondido no lagar, por medo de Madiã. “O Senhor é contigo, valente herói.” Gedeão responde com amargura: se o Senhor está conosco, por que nos aconteceu tudo isto? onde estão as suas maravilhas? O Senhor o olha e diz: “Vai com essa tua força e livra Israel.” Gedeão objeta: a minha família é a última de Manassés, e eu sou o menor na casa de meu pai. “Eu serei contigo, e tu derrotarás os Madianitas, como se fossem um só homem.” Gedeão pede um sinal e prepara um cabrito e pães ázimos; o anjo toca a oferta com a ponta do bastão, sai fogo da pedra e consome tudo, e o anjo desaparece. Gedeão teme ter visto o anjo face a face, mas o Senhor lhe diz: “A paz seja contigo; não temas, não morrerás.” Ali ele ergue um altar e o chama “Paz do Senhor”.",
+    "alegorico": "A saudação “O Senhor é contigo” ecoa na Anunciação (Lc 1,28): também Maria se pergunta e recebe a promessa da força do Alto. O fogo que sai da pedra e consome o pão e a carne foi lido como figura do sacrifício de Cristo, a Pedra, e da Eucaristia. O altar “Paz do Senhor” anuncia aquele que é a nossa paz (Ef 2,14).",
+    "moral": "Deus chama Gedeão justamente quando ele se esconde e duvida. As suas perguntas sinceras não o desqualificam: Deus responde com uma missão. O “menor na casa de seu pai” é o escolhido, porque a força virá de Deus. “Vai com essa tua força”: a pouca força que temos basta quando Deus está conosco.",
+    "anagogico": "“A paz seja contigo; não temas, não morrerás”: palavra que o Ressuscitado repetirá aos discípulos e que se cumprirá plenamente na visão de Deus face a face, sem morte."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor é contigo, valente herói.” “Se o Senhor é connosco… por que nos aconteceram todas estas coisas?” “Vai com essa tua força e livra Israel.” “Eu sou o menor na casa de meu pai.” “Eu serei contigo.” “A paz seja contigo; não temas, não morrerás.”",
+    "meditatio_perguntas": [
+      "Onde estou “malhando o trigo escondido” por medo?",
+      "Apresento a Deus as minhas perguntas sinceras?",
+      "Que pouca força tenho que Deus quer usar, se eu for “com ela”?"
+    ],
+    "oratio_guia": "Senhor, que me chamas mesmo quando me escondo e duvido, dá-me a coragem de ir com a pouca força que tenho. Sê comigo, e que eu experimente a tua paz que afasta todo medo. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor é contigo, valente herói",
+      "ref": "Jz 6,12"
+    }
+  },
+  "ancoras": {
+    "6:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Malhar o trigo no lagar (cavado na rocha) em vez da eira aberta era um modo de escondê-lo dos saqueadores.",
+        "origem": "ia"
+      }
+    },
+    "6:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Paz do Senhor”: em hebraico, YHWH-Shalom.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

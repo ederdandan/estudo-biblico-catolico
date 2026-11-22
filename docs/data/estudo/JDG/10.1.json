@@ -1,0 +1,57 @@
+{
+  "id": "JDG.10.1",
+  "livro": "JDG",
+  "titulo": "Tola e Jair; Israel clama e se converte",
+  "secao": "Abimelec e os juízes menores",
+  "referencia": "Jz 10,1-18",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Pecamos, faz de nós o que te parecer, somente livra-nos: Deus se compadece",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Depois de Abimelec, dois juízes de breve memória: Tola, de Issacar, que julga vinte e três anos, e Jair, de Galaad, que julga vinte e dois e tem trinta filhos montados em trinta jumentos e donos de trinta cidades. Depois, a lista mais longa de pecados do livro: Israel serve Baal, Astarot e os deuses da Síria, de Sidônia, de Moab, de Amon e dos filisteus, e abandona o Senhor. O Senhor o entrega aos filisteus e aos amonitas, que oprimem durante dezoito anos os de Galaad e invadem Judá, Benjamim e Efraim. Israel clama: pecamos contra ti. Desta vez, Deus responde com dureza: eu não vos livrei do Egito, dos amorreus, de Amon, dos filisteus, de Sidônia e de Amalec? E vós me abandonastes. “Ide e invocai os deuses que escolhestes; eles vos livrem.” O povo insiste: “Pecamos, faz tu de nós o que te parecer; somente livra-nos agora.” E, desta vez, acompanha as palavras com gestos: tiram do meio deles os deuses estranhos e servem ao Senhor. E o texto diz algo comovente: o Senhor “compadeceu-se de suas misérias”, literalmente, não suportou mais a aflição de Israel. Amon acampa em Galaad, e os chefes procuram quem os comande.",
+    "alegorico": "O Deus que “não suporta a miséria do seu povo” revela o coração que se manifestará plenamente em Cristo, que se comove diante das multidões “como ovelhas sem pastor”. A resposta dura e depois compassiva é a pedagogia do Pai do filho pródigo.",
+    "moral": "O arrependimento verdadeiro tem dois sinais: entrega total (“faz de nós o que te parecer”) e mudança concreta (tirar os ídolos). Não basta dizer “pecamos”; Deus quer conversão real. Mas também é consolador: mesmo depois de tantas recaídas, Deus não resiste à miséria de quem volta para ele.",
+    "anagogico": "O Deus que não suporta a aflição do seu povo enxugará um dia todas as lágrimas. A sua compaixão é a garantia de que a história não termina no castigo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Nós pecamos contra ti.” “Ide e invocai os deuses que escolhestes.” “Pecamos, faz tu de nós o que te parecer; somente livra-nos agora.” “Lançaram fora de suas terras todos os ídolos.” “Que se compadeceu de suas misérias.”",
+    "meditatio_perguntas": [
+      "O meu arrependimento inclui mudança concreta, ou só palavras?",
+      "Sei entregar-me a Deus dizendo “faz de mim o que te parecer”?",
+      "Que deuses estranhos preciso “lançar fora” agora?"
+    ],
+    "oratio_guia": "Senhor, pequei; faz de mim o que te parecer, mas não me abandones. Ajuda-me a lançar fora os meus ídolos e a servir-te de verdade. Compadece-te da minha miséria. Amém.",
+    "contemplatio_foco": {
+      "texto": "Pecamos, faz tu de nós o que te parecer; somente livra-nos agora",
+      "ref": "Jz 10,15"
+    }
+  },
+  "ancoras": {
+    "10:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jogo de palavras hebraico: “jumentos” (‘ayarim) e “cidades” (‘arim). As cidades se chamavam Havot-Jair, “aldeias de Jair”.",
+        "origem": "ia"
+      }
+    },
+    "10:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Literalmente: “a sua alma se encurtou com a miséria de Israel”, isto é, não suportou mais vê-la.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

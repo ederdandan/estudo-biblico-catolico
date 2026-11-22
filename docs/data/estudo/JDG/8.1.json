@@ -1,0 +1,57 @@
+{
+  "id": "JDG.8.1",
+  "livro": "JDG",
+  "titulo": "Efraim, Socot e Fanuel; os reis de Madiã",
+  "secao": "Gedeão",
+  "referencia": "Jz 8,1-21",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "A resposta branda e a dureza com os que se recusam a ajudar",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os homens de Efraim repreendem Gedeão com aspereza: por que não nos chamaste para combater Madiã? Gedeão responde com humildade: que fiz eu comparado convosco? “Porventura não vale mais um cacho de Efraim, do que as vindimas de Abiezer?” Vós capturastes Oreb e Zeb. E a ira deles se aplaca. Gedeão passa o Jordão com os trezentos, exaustos, ainda perseguindo. Pede pão aos de Socot, mas os chefes zombam: já tens nas mãos Zebee e Salmana, para pedires pão? Em Fanuel recebe a mesma resposta. Gedeão promete castigo. Surpreende o resto do exército inimigo, quinze mil homens que se julgavam seguros, e captura os dois reis. Na volta, faz um jovem de Socot escrever os nomes dos setenta e sete chefes e castiga-os com espinhos do deserto; derruba a torre de Fanuel. Pergunta aos reis como eram os homens que mataram no Tabor. Eram como tu, filhos de rei. “Eram meus irmãos, filhos de minha mãe.” Manda o filho Jeter matá-los, mas o rapaz tem medo. Os reis dizem: faze-o tu mesmo, “porque a força é proporcionada à idade”. Gedeão os mata e toma os crescentes dos camelos.",
+    "alegorico": "A resposta branda de Gedeão a Efraim ilustra o provérbio “a resposta branda aplaca a ira” (Pr 15,1) e o modo de Cristo, manso e humilde, que não disputa o mérito. A recusa de pão aos que combatem pelo povo prenuncia a palavra do Senhor: “quem não está comigo está contra mim”.",
+    "moral": "O capítulo mostra duas faces do mesmo homem: humilde diante da susceptibilidade de Efraim, implacável diante da indiferença de Socot e Fanuel. A humildade evita uma guerra civil; mas recusar pão a quem luta pelo bem comum é falta grave. Também se vê o começo de uma mudança em Gedeão: a vingança pessoal dos irmãos aparece pela primeira vez.",
+    "anagogico": "Socot e Fanuel não acreditaram na vitória antes de vê-la. No juízo, será pedida conta da caridade recusada aos que trabalhavam pelo Reino (Mt 25,42)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Que coisa pude eu fazer semelhante ao que vós fizestes?” “Não vale mais um cacho de Efraim, do que as vindimas de Abiezer?” “Dai, vos peço, pão a esta gente… porque estão muito cansados.” “Eram meus irmãos, filhos de minha mãe.” “A força é proporcionada à idade.”",
+    "meditatio_perguntas": [
+      "Sei responder com mansidão quando me acusam com aspereza?",
+      "Recuso ajuda aos que lutam pelo bem por não ter certeza do seu sucesso?",
+      "Que sentimentos de vingança se misturam às minhas lutas justas?"
+    ],
+    "oratio_guia": "Senhor manso e humilde, dá-me a resposta branda que aplaca a ira. Torna-me generoso com os que trabalham pelo teu Reino e purifica as minhas lutas de todo desejo de vingança. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porventura não vale mais um cacho de Efraim, do que as vindimas de Abiezer?",
+      "ref": "Jz 8,2"
+    }
+  },
+  "ancoras": {
+    "8:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O jovem de Socot sabe escrever: é um indício precioso da difusão da escrita alfabética no Israel antigo.",
+        "origem": "ia"
+      }
+    },
+    "8:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os “crescentes” (lunetas) eram amuletos em forma de lua.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

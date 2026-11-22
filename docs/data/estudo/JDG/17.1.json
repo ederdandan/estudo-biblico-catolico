@@ -1,0 +1,57 @@
+{
+  "id": "JDG.17.1",
+  "livro": "JDG",
+  "titulo": "O ídolo de Micas",
+  "secao": "Quando não havia rei em Israel",
+  "referencia": "Jz 17,1-13",
+  "ini": {
+    "c": 17,
+    "v": 1
+  },
+  "fim": {
+    "c": 17,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Agora sei que Deus me fará bem: a religião feita à medida",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Começa o apêndice do livro, que mostra a desordem religiosa e moral de Israel. Micas, da montanha de Efraim, confessa à mãe que foi ele quem roubou os mil e cem siclos de prata pelos quais ela lançara uma maldição. A mãe, em vez de repreendê-lo, o abençoa e declara consagrar a prata ao Senhor, mas para fazer com ela uma imagem esculpida e uma imagem fundida. Micas tem em casa um santuário; faz um éfode e terafins e consagra um dos filhos como sacerdote. O narrador comenta: “Naquele tempo não havia rei em Israel, mas cada um fazia o que lhe parecia melhor.” Chega um jovem levita de Belém de Judá, que vagueia à procura de onde se instalar. Micas o contrata: fica comigo, sê para mim pai e sacerdote; dar-te-ei dez siclos por ano, roupa e sustento. O levita aceita, e Micas o consagra. E conclui, satisfeito: “Agora sei que Deus me fará bem, tendo eu um sacerdote da linhagem de Levi.”",
+    "alegorico": "A religião de Micas, feita com prata roubada e um sacerdote contratado, é o contrário do culto verdadeiro que Deus estabeleceu e que se cumprirá em Cristo, único Sacerdote, que não se vende nem se aluga. O levita sem raízes à procura de vantagens contrasta com o Bom Pastor, que não é mercenário (Jo 10,12).",
+    "moral": "Micas é um homem religioso, mas a sua religião é feita à medida: mistura o nome do Senhor com ídolos, compra um sacerdote e pensa que assim garante a bênção. É a tentação de toda religiosidade que usa Deus em vez de servi-lo. E o levita mostra o perigo do ministério vivido como emprego: vai “para onde achasse maior comodidade”.",
+    "anagogico": "Quando “cada um faz o que lhe parece”, a comunidade se desfaz. O livro aponta para um Rei que trará ordem e verdade; a plenitude será o Reino onde Deus é servido em espírito e verdade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quero consagrar este dinheiro ao Senhor.” “Este reservou na casa uma edícula para Deus.” “Naquele tempo não havia rei em Israel.” “Vou habitar onde puder.” “Fica comigo, sê para mim pai e sacerdote.” “Agora sei que Deus me fará bem.”",
+    "meditatio_perguntas": [
+      "A minha religião é feita à minha medida?",
+      "Tento “garantir” a bênção de Deus com práticas exteriores?",
+      "Sirvo a Deus ou procuro “maior comodidade”?"
+    ],
+    "oratio_guia": "Senhor, livra-me de uma fé feita à minha medida e de tentar comprar a tua bênção. Ensina-me a servir-te em verdade, e dá à tua Igreja pastores que não sejam mercenários. Amém.",
+    "contemplatio_foco": {
+      "texto": "Agora sei que Deus me fará bem, tendo eu um sacerdote da linhagem de Levi",
+      "ref": "Jz 17,13"
+    }
+  },
+  "ancoras": {
+    "17:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os terafins eram ídolos domésticos, como os que Raquel roubou de Labão (Gn 31,19).",
+        "origem": "ia"
+      }
+    },
+    "17:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O refrão “não havia rei em Israel” (17,6; 18,1; 19,1; 21,25) estrutura o apêndice e prepara os livros de Samuel.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

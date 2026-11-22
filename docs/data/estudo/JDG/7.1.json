@@ -1,0 +1,57 @@
+{
+  "id": "JDG.7.1",
+  "livro": "JDG",
+  "titulo": "Os trezentos que lamberam a água",
+  "secao": "Gedeão",
+  "referencia": "Jz 7,1-8",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 8
+  },
+  "liturgia": {
+    "tema_central": "Para que Israel não se glorie contra mim: os trezentos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Gedeão acampa junto à fonte de Harad com o povo; Madiã está ao norte, no vale. O Senhor diz algo inesperado: “Tens contigo muita gente”; se vencerem assim, Israel dirá: foi a minha mão que me libertou. Primeiro, que voltem os medrosos: vinte e dois mil se retiram, ficam dez mil. “Ainda é gente demais.” Deus manda levá-los à água para prová-los. Os que lamberem a água levando-a à boca com a mão, como os cães, serão separados dos que se ajoelharem para beber. Trezentos lambem; os demais se ajoelham. “Com os trezentos homens, que lamberam a água, vos livrarei.” Gedeão manda todos os outros para as suas tendas, guardando os víveres e as trombetas, e fica com os trezentos diante do imenso acampamento de Madiã.",
+    "alegorico": "Os Padres viram nos trezentos (em grego, a letra tau, T, vale 300) uma figura da cruz: é pelo sinal da cruz que Deus dá a vitória a um pequeno resto. O pequeno número que vence a multidão é o “pequeno rebanho” a quem o Pai deu o Reino (Lc 12,32).",
+    "moral": "Deus reduz o exército para que ninguém atribua a si a vitória: o orgulho é um inimigo pior que Madiã. A primeira triagem elimina os medrosos, a segunda é um gesto banal, beber água, que revela a atenção e a prontidão. Muitas vezes Deus nos tira apoios para que aprendamos onde está a verdadeira força.",
+    "anagogico": "No fim, não será o número nem a força que decidirá, mas a fidelidade de um resto que Deus mesmo escolheu. A vitória final será inteiramente dele, para que toda glória seja sua."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Tens contigo muita gente.” “Para que Israel não se glorie contra mim.” “Aquele que é medroso e tímido, volte para trás.” “Ainda é gente demais.” “Com os trezentos homens, que lamberam a água, vos livrarei.”",
+    "meditatio_perguntas": [
+      "Em que “multidão” de recursos confio, que Deus talvez queira reduzir?",
+      "Atribuo a mim as vitórias que são de Deus?",
+      "O medo me faz voltar para trás nas lutas espirituais?"
+    ],
+    "oratio_guia": "Senhor, tira de mim tudo o que me faz gloriar-me em mim mesmo. Ensina-me a confiar na tua força quando os meus recursos diminuem, e conta-me entre os poucos que permanecem contigo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Com os trezentos homens, que lamberam a água, vos livrarei",
+      "ref": "Jz 7,7"
+    }
+  },
+  "ancoras": {
+    "7:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A dispensa dos medrosos segue a lei de Dt 20,8. O “monte de Galaad” aqui é difícil; talvez seja o monte Gelboé.",
+        "origem": "ia"
+      }
+    },
+    "7:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A interpretação mais comum é que os trezentos permaneceram atentos, de pé, enquanto bebiam; mas o texto sublinha sobretudo que o critério é escolhido por Deus.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

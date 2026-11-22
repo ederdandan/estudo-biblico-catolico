@@ -1,0 +1,57 @@
+{
+  "id": "JDG.13.1",
+  "livro": "JDG",
+  "titulo": "O anúncio do nascimento de Sansão",
+  "secao": "Sansão",
+  "referencia": "Jz 13,1-25",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "Nazareno de Deus desde o ventre: o anúncio do nascimento de Sansão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Israel volta a fazer o mal e é entregue aos filisteus por quarenta anos. Em Saraa, da tribo de Dan, vive Manué, cuja mulher é estéril. O anjo do Senhor lhe aparece: és estéril, mas conceberás e darás à luz um filho; não bebas vinho nem bebida forte, não comas nada impuro, porque o menino “será Nazareno de Deus, desde o ventre de sua mãe”, navalha não tocará a sua cabeça, e ele começará a libertar Israel dos filisteus. A mulher conta ao marido: veio um homem de Deus, de aspecto terrível como um anjo. Manué reza: Senhor, que o homem de Deus volte e nos ensine o que fazer com o menino. Deus ouve, e o anjo aparece de novo à mulher, no campo; ela corre a chamar o marido. Manué pergunta: que regra deverá seguir o menino? O anjo repete as instruções. Manué quer oferecer-lhe um cabrito; o anjo recusa comer e manda oferecer holocausto ao Senhor. Manué pergunta o seu nome: “Porque perguntas tu o meu nome, que é admirável?” Quando a chama do altar sobe ao céu, o anjo sobe com ela. Manué e a mulher caem por terra. Ele teme: morreremos, porque vimos Deus. Ela, mais sensata, responde: se o Senhor quisesse matar-nos, não teria aceitado o holocausto nem nos anunciado estas coisas. Nasce o menino, e ela o chama Sansão. Ele cresce, o Senhor o abençoa, e o espírito do Senhor começa a agitá-lo.",
+    "alegorico": "O anúncio a uma mulher estéril de um filho consagrado desde o ventre faz parte de uma série que culmina em Isabel e João Batista e, sobretudo, na Anunciação a Maria. O nome “admirável” lembra o Messias chamado “Admirável” (Is 9,6), e o anjo que sobe na chama do sacrifício foi visto como figura de Cristo, que sobe ao Pai pela sua oferta.",
+    "moral": "A mãe de Sansão aparece com mais fé e discernimento do que o marido: recebe o anúncio, guarda as instruções e interpreta bem os sinais de Deus. Manué, por sua vez, tem o mérito de rezar para saber educar o filho. A vocação de uma criança começa antes do nascimento, na disciplina e na fé dos pais.",
+    "anagogico": "“Se o Senhor nos quisesse matar, não teria recebido o holocausto”: a lógica da esperança. Quem recebeu de Deus a promessa e o sacrifício aceito pode esperar a vida, e não a morte, ao vê-lo face a face."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Tu és estéril e sem filhos, mas conceberás e darás à luz um filho.” “Ele será Nazareno de Deus, desde o ventre de sua mãe.” “Ensine o que devemos fazer.” “Porque perguntas tu o meu nome, que é admirável?” “Se o Senhor nos quisesse matar, não teria recebido de nossas mãos o holocausto.”",
+    "meditatio_perguntas": [
+      "Peço a Deus luz para educar os que me foram confiados?",
+      "Leio os sinais de Deus com medo, ou com a confiança da mulher de Manué?",
+      "Que “esterilidade” em minha vida Deus pode tornar fecunda?"
+    ],
+    "oratio_guia": "Senhor, cujo nome é admirável, ensina-me o que fazer com os dons que me dás. Torna fecunda a minha esterilidade e dá-me ler os teus sinais com confiança e não com medo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porque perguntas tu o meu nome, que é admirável",
+      "ref": "Jz 13,18"
+    }
+  },
+  "ancoras": {
+    "13:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Nazareno (nazir), “consagrado, separado”: segundo Nm 6, não bebia vinho, não cortava o cabelo e não tocava cadáveres. Sansão é nazireu por toda a vida, como Samuel (1Sm 1,11).",
+        "origem": "ia"
+      }
+    },
+    "13:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Sansão (Shimshon) deriva de shemesh, “sol”; Bet-Shemesh, “casa do sol”, ficava perto de Saraa.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

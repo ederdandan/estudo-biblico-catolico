@@ -1,0 +1,57 @@
+{
+  "id": "JDG.8.22",
+  "livro": "JDG",
+  "titulo": "O Senhor terá domínio sobre vós; o éfode de Gedeão",
+  "secao": "Gedeão",
+  "referencia": "Jz 8,22-35",
+  "ini": {
+    "c": 8,
+    "v": 22
+  },
+  "fim": {
+    "c": 8,
+    "v": 35
+  },
+  "liturgia": {
+    "tema_central": "Nem eu nem meu filho, o Senhor terá domínio sobre vós; o laço do éfode",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os homens de Israel pedem a Gedeão: sê nosso príncipe, tu, teu filho e o filho do teu filho, porque nos livraste de Madiã. Ele recusa com uma palavra de grande fé: “Nem eu, nem meu filho vos dominaremos, mas o Senhor terá domínio sobre vós.” Mas logo pede uma coisa: as argolas de ouro do despojo, pois os ismaelitas as usavam. Eles estendem um manto e lançam ali as argolas: mil e setecentos siclos de ouro, além dos ornamentos e da púrpura dos reis. Gedeão faz com isso um éfode e o coloca em Efra, sua cidade. E o texto julga: todo Israel se prostituiu ali atrás dele, “e foi a ruína de Gedeão e de toda a sua casa”. Madiã fica humilhado, e a terra repousa quarenta anos. Gedeão volta para casa, tem setenta filhos de muitas mulheres e, de uma concubina de Siquém, um filho chamado Abimelec. Morre em boa velhice. Logo depois, Israel volta a Baal-Berit, esquece o Senhor que o livrara e não mostra gratidão à casa de Gedeão.",
+    "alegorico": "A recusa de Gedeão em reinar afirma que só Deus é rei de Israel; esta verdade encontra a sua plenitude em Cristo, Deus feito homem, o único a quem pertence o domínio. Mas o éfode de ouro mostra que nem o melhor juiz pode substituir o verdadeiro Rei: o povo precisa de um Salvador que não se torne laço.",
+    "moral": "Gedeão vence a tentação do poder, mas cai na tentação religiosa: o objeto de culto, talvez feito com boa intenção, torna-se ídolo. Às vezes, depois de grandes vitórias espirituais, é nas coisas sagradas que tropeçamos. E a ingratidão do povo, que esquece Deus e o seu libertador, prepara a tragédia seguinte.",
+    "anagogico": "“O Senhor terá domínio sobre vós”: é a profissão de fé que será plena quando Deus reinar sem intermediários humanos, e Cristo entregar o Reino ao Pai, para que Deus seja tudo em todos (1Cor 15,28)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Sê nosso príncipe, tu e teu filho.” “Nem eu, nem meu filho vos dominaremos, mas o Senhor terá domínio sobre vós.” “Dai-me as argolas da vossa presa.” “Foi a ruína de Gedeão e de toda a sua casa.” “Não se recordaram do Senhor, seu Deus.”",
+    "meditatio_perguntas": [
+      "Reconheço que só Deus deve reinar sobre mim e sobre os outros?",
+      "Há algo sagrado na minha vida que se tornou laço ou ídolo?",
+      "Sou agradecido a Deus e aos que me fizeram bem?"
+    ],
+    "oratio_guia": "Senhor, só tu és o meu rei. Livra-me de buscar domínio sobre os outros e de fazer das coisas santas um ídolo. Que eu não esqueça os teus benefícios nem os dos meus irmãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Nem eu, nem meu filho vos dominaremos, mas o Senhor terá domínio sobre vós",
+      "ref": "Jz 8,23"
+    }
+  },
+  "ancoras": {
+    "8:27": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O éfode era uma veste sacerdotal ou, aqui, provavelmente um objeto de culto revestido de ouro, usado para consultas oraculares (cf. 17,5; 1Sm 23,9).",
+        "origem": "ia"
+      }
+    },
+    "8:33": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Baal-Berit, “Baal da aliança”, era venerado em Siquém (9,4).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

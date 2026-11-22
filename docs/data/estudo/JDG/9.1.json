@@ -1,0 +1,57 @@
+{
+  "id": "JDG.9.1",
+  "livro": "JDG",
+  "titulo": "Abimelec rei e a fábula de Joatão",
+  "secao": "Abimelec e os juízes menores",
+  "referencia": "Jz 9,1-21",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "A fábula das árvores: o espinheiro que quer reinar",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Abimelec, filho de Gedeão e de uma concubina de Siquém, vai aos parentes da mãe e lhes propõe: que é melhor, serdes governados por setenta homens ou por um só? Lembrai-vos de que sou vosso osso e vossa carne. Os siquemitas lhe dão setenta siclos de prata do templo de Baal-Berit, e com eles Abimelec contrata homens vadios e aventureiros. Vai a Efra e mata os setenta irmãos “sobre uma só pedra”; escapa só Joatão, o mais novo, que se escondera. Os de Siquém proclamam Abimelec rei junto ao carvalho. Joatão sobe ao cimo do Garizim e grita a fábula das árvores. As árvores foram ungir um rei. Pediram à oliveira, que respondeu: deixarei o meu óleo para me agitar sobre as árvores? Pediram à figueira: deixarei a minha doçura? À videira: deixarei o meu vinho, que alegra Deus e os homens? Por fim disseram ao espinheiro: reina sobre nós. E ele: se me ungis de verdade, vinde abrigar-vos à minha sombra; se não, saia fogo do espinheiro e devore os cedros do Líbano. Joatão aplica: se agistes com retidão para com Gedeão, alegrai-vos com Abimelec; se não, saia fogo de Abimelec e devore Siquém, e fogo de Siquém e devore Abimelec. E foge.",
+    "alegorico": "A fábula foi lida como crítica de todo poder que nasce da ambição: as árvores boas recusam o domínio porque têm frutos a dar; só o espinheiro, que nada produz, quer reinar. Cristo, a verdadeira videira e oliveira, reina servindo e dando o seu fruto até o fim; o espinho será a sua coroa.",
+    "moral": "Quem tem algo a oferecer não precisa de poder; quem nada oferece procura dominar. A fábula denuncia também os que escolhem governantes por interesse ou parentesco (“sou vosso osso e vossa carne”). E o poder conquistado pelo sangue e pelo dinheiro do templo acabará devorando os próprios aliados.",
+    "anagogico": "O fogo que sai do espinheiro e devora os que o elegeram é imagem do juízo que o mal traz sobre si mesmo. Só o reino fundado no serviço permanece."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Qual é melhor para vós, serdes dominados por setenta homens… ou por um só homem?” “Matou, sobre uma só pedra, os seus irmãos.” “Porventura posso eu deixar o meu óleo?” “E todas as árvores disseram ao espinheiro: Vem e reina sobre nós.” “Saia fogo do espinheiro.”",
+    "meditatio_perguntas": [
+      "Ocupo-me em dar fruto, ou em buscar domínio?",
+      "Escolho líderes e amigos por interesse ou por bem?",
+      "Que “espinheiros” deixei reinar na minha vida?"
+    ],
+    "oratio_guia": "Senhor Jesus, rei que serve, livra-me da ambição do espinheiro. Que eu seja oliveira, figueira e videira, dando fruto em vez de buscar poder. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porventura posso eu deixar o meu óleo, de que se servem os deuses e os homens",
+      "ref": "Jz 9,9"
+    }
+  },
+  "ancoras": {
+    "9:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A fábula de Joatão é a mais antiga fábula da Bíblia; o outro exemplo é a do cardo e do cedro (2Rs 14,9).",
+        "origem": "ia"
+      }
+    },
+    "9:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "É a primeira tentativa de monarquia em Israel, de âmbito apenas local (Siquém e arredores).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

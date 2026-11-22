@@ -1,0 +1,57 @@
+{
+  "id": "JDG.14.1",
+  "livro": "JDG",
+  "titulo": "O leão, o mel e o enigma",
+  "secao": "Sansão",
+  "referencia": "Jz 14,1-20",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "Do forte saiu doçura: o leão, o mel e o enigma das bodas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Sansão desce a Tamna, vê uma filisteia e pede aos pais que a tomem para ele. Os pais protestam: não há mulheres entre o nosso povo, para ires buscar uma entre os incircuncisos? Ele insiste: “essa agradou aos meus olhos”. O texto comenta que os pais não sabiam que isto vinha do Senhor, que buscava ocasião contra os filisteus, que dominavam Israel. A caminho, nas vinhas de Tamna, um leão novo ruge contra ele; o espírito do Senhor o reveste e ele despedaça o leão com as mãos, como a um cabrito, sem contar aos pais. Dias depois, voltando para o casamento, encontra um enxame de abelhas e mel no cadáver do leão, come e dá aos pais, sem dizer de onde veio. Nas bodas, propõe aos trinta companheiros filisteus um enigma, com aposta de trinta túnicas e trinta vestes: “Do que come saiu comida, e do forte saiu doçura.” Não conseguem decifrar e ameaçam a noiva: arranca-lhe o segredo, ou queimaremos a ti e à casa de teu pai. Ela chora sete dias: tu me odeias, não me amas. No sétimo, ele cede, e ela conta. Os filisteus respondem: “Que coisa é mais doce que o mel, e que coisa é mais forte que o leão?” Sansão replica: se não tivésseis lavrado com a minha novilha… O espírito do Senhor o reveste; ele desce a Ascalon, mata trinta homens e paga a aposta com as suas vestes. Irado, volta para casa, e a noiva é dada a um dos companheiros.",
+    "alegorico": "Os Padres leram o enigma cristologicamente: o leão vencido é a morte (ou o demônio), e do seu cadáver sai o mel, a doçura da salvação. Agostinho e Ambrósio veem também Cristo, o Leão de Judá, de cuja morte vem o alimento dos fiéis. A Igreja tirada das nações pagãs é a “noiva” buscada entre os estrangeiros.",
+    "moral": "Sansão é guiado pelos olhos: “essa agradou aos meus olhos”. Tem uma força imensa e uma vontade fraca. Toca um cadáver e come o mel, violando o nazireato, e o esconde. Cede ao choro manipulador e revela o segredo. Deus escreve certo por linhas tortas, mas isso não justifica as linhas tortas: Sansão é um alerta sobre os dons de Deus mal administrados.",
+    "anagogico": "“Do forte saiu doçura”: a vitória sobre a morte gera a doçura da vida eterna. O banquete de bodas, ameaçado pela traição, anuncia o banquete do Cordeiro, onde não haverá enigmas nem traições."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Essa agradou aos meus olhos.” “Isto se fazia por disposição do Senhor.” “O espírito do Senhor apossou-se de Sansão.” “Do que come saiu comida, e do forte saiu doçura.” “Que coisa é mais doce que o mel, e que coisa é mais forte que o leão?”",
+    "meditatio_perguntas": [
+      "Sou guiado pelos meus olhos ou pela vontade de Deus?",
+      "Que segredos da minha consagração entrego por fraqueza diante de pressões?",
+      "Que “leão” vencido Deus transformou em doçura na minha vida?"
+    ],
+    "oratio_guia": "Senhor, que tiras doçura da força vencida e vida da morte, guarda os meus olhos e fortalece a minha vontade. Que eu não desperdice os dons do teu Espírito. Amém.",
+    "contemplatio_foco": {
+      "texto": "Do que come saiu comida, e do forte saiu doçura",
+      "ref": "Jz 14,14"
+    }
+  },
+  "ancoras": {
+    "14:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Tocar um cadáver violava a regra do nazireu (Nm 6,6). Num cadáver ressecado podiam instalar-se abelhas, fenômeno conhecido na Antiguidade.",
+        "origem": "ia"
+      }
+    },
+    "14:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As bodas duravam sete dias (cf. Gn 29,27; Tb 11,18).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

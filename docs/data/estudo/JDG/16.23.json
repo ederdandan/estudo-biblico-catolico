@@ -1,0 +1,57 @@
+{
+  "id": "JDG.16.23",
+  "livro": "JDG",
+  "titulo": "A morte de Sansão",
+  "secao": "Sansão",
+  "referencia": "Jz 16,23-31",
+  "ini": {
+    "c": 16,
+    "v": 23
+  },
+  "fim": {
+    "c": 16,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Lembra-te de mim: a morte de Sansão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os príncipes dos filisteus reúnem-se para oferecer um grande sacrifício a Dagon, o seu deus, e celebrar: o nosso deus entregou nas nossas mãos Sansão, o nosso inimigo. O povo também louva o seu deus. Alegres pelo banquete, mandam trazer Sansão para que os divirta. Ele é posto de pé entre as colunas. Sansão pede ao rapaz que o guia: deixa-me tocar as colunas que sustentam a casa, para me encostar. A casa está cheia de homens e mulheres, com todos os príncipes, e no terraço cerca de três mil pessoas olham Sansão. Então ele invoca o Senhor: “Senhor Javé, lembra-te de mim e torna-me a dar agora a minha primeira força, ó Deus meu.” Agarra as duas colunas centrais, uma com a direita e outra com a esquerda, e diz: “Morra eu com os Filisteus.” Empurra com toda a força, e a casa cai sobre os príncipes e o povo. “Foram muitos mais os que matou ao morrer, do que os que matara quando vivo.” Os irmãos e a família descem, recolhem o corpo e o sepultam entre Saraa e Estaol, no túmulo de Manué. Sansão julgara Israel vinte anos.",
+    "alegorico": "Os Padres, como Agostinho, viram na morte de Sansão uma figura da Paixão: com os braços estendidos entre as duas colunas, venceu mais inimigos morrendo do que vivendo, como Cristo, que com os braços abertos na cruz venceu a morte e o demônio. O triunfo de Dagon dura pouco, como o aparente triunfo dos inimigos de Cristo na Sexta-feira Santa.",
+    "moral": "A Igreja não louva o suicídio: a tradição lê a morte de Sansão como ato de quem, movido por inspiração divina, entrega a vida no combate pelo povo. O ponto alto é a oração humilde: “lembra-te de mim”, de um homem cego, humilhado e arrependido. Deus ouve a oração dos que caíram. Sansão aparece no elenco dos heróis da fé (Hb 11,32).",
+    "anagogico": "“Lembra-te de mim”: é a mesma súplica do bom ladrão, a quem Jesus responde “hoje estarás comigo no paraíso” (Lc 23,42-43). É a oração de todo pecador que espera a misericórdia na hora da morte."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O nosso deus entregou em nossas mãos o nosso adversário.” “Deixa que eu toque as colunas.” “Senhor Javé, lembra-te de mim e torna-me a dar agora a minha primeira força.” “Morra eu com os Filisteus.” “Foram muitos mais os que matou ao morrer, do que os que matara quando vivo.”",
+    "meditatio_perguntas": [
+      "Depois das minhas quedas, sei dizer a Deus: “lembra-te de mim”?",
+      "Creio que Deus pode usar até as minhas humilhações?",
+      "Que dou de mim pelo bem do povo de Deus?"
+    ],
+    "oratio_guia": "Senhor, lembra-te de mim, pecador. Devolve-me a força que perdi pelos meus pecados e faz que, até na fraqueza e na morte, a minha vida sirva à tua vitória. Amém.",
+    "contemplatio_foco": {
+      "texto": "Senhor Javé, lembra-te de mim",
+      "ref": "Jz 16,28"
+    }
+  },
+  "ancoras": {
+    "16:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Dagon, deus dos filisteus, provavelmente divindade dos cereais, de origem semítica (dagan, “trigo”); a imagem de “deus-peixe” é tardia.",
+        "origem": "ia"
+      }
+    },
+    "16:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Escavações em Tell Qasile revelaram um templo filisteu cujo teto se apoiava em duas colunas centrais próximas.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

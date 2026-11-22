@@ -1,0 +1,49 @@
+{
+  "id": "JDG.2.1",
+  "livro": "JDG",
+  "titulo": "O anjo do Senhor em Boquim: o lugar dos que choram",
+  "secao": "Israel depois de Josué",
+  "referencia": "Jz 2,1-5",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 5
+  },
+  "liturgia": {
+    "tema_central": "O lugar dos que choram: Deus lembra a aliança quebrada",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O anjo do Senhor sobe de Galgala a um lugar que receberá o nome de Boquim, “os que choram”. Fala em primeira pessoa, com a voz do próprio Deus: eu vos tirei do Egito, vos introduzi na terra que jurei a vossos pais e disse: nunca romperei a minha aliança convosco, contanto que não façais aliança com os habitantes desta terra e derrubeis os seus altares. “Vós não quisestes ouvir a minha voz.” Por isso não os expulsarei diante de vós: eles serão inimigos, e os seus deuses, uma armadilha. Ao ouvirem estas palavras, todos os filhos de Israel “levantaram a sua voz e choraram”. O lugar fica com esse nome, e ali oferecem sacrifícios ao Senhor.",
+    "alegorico": "O anjo que fala como Deus foi visto pelos Padres como o Verbo, que acompanha o povo e o chama à conversão. O choro de Boquim antecipa as lágrimas do arrependimento cristão e o “bem-aventurados os que choram” (Mt 5,5): as lágrimas diante da palavra de Deus abrem caminho ao sacrifício e à reconciliação.",
+    "moral": "Deus não se cansa de lembrar a aliança; a sua palavra começa pelo bem que fez antes de apontar o pecado. A reação do povo é boa: chorar e oferecer sacrifício. Mas o livro mostrará que as lágrimas de um dia não bastam se não mudam a vida. A conversão verdadeira começa no choro, mas não termina nele.",
+    "anagogico": "Há um choro que dura uma noite e uma alegria que vem pela manhã (Sl 29,6). O lugar das lágrimas é passagem: no fim, Deus enxugará toda lágrima dos olhos dos seus (Ap 21,4)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu vos tirei do Egipto e vos introduzi na terra.” “Vós não quisestes ouvir a minha voz.” “Os seus deuses sejam a vossa ruína.” “Levantaram estes a sua voz e choraram.” “Ofereceram ali sacrifícios ao Senhor.”",
+    "meditatio_perguntas": [
+      "Deixo-me tocar pela palavra de Deus até as lágrimas?",
+      "O meu arrependimento muda a minha vida, ou fica só na emoção?",
+      "Que “altares” estranhos ainda não derrubei?"
+    ],
+    "oratio_guia": "Senhor, que me lembras com paciência o bem que me fizeste, dá-me lágrimas de verdadeiro arrependimento e a firmeza de mudar de vida. Que o meu choro se torne sacrifício agradável a ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "levantaram estes a sua voz e choraram",
+      "ref": "Jz 2,4"
+    }
+  },
+  "ancoras": {
+    "2:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Boquim (“os que choram”) talvez seja o mesmo lugar chamado “Carvalho do Pranto”, perto de Betel (Gn 35,8).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "JDG.12.1",
+  "livro": "JDG",
+  "titulo": "Chibolet; Abesã, Ahialon e Abdon",
+  "secao": "Jefté",
+  "referencia": "Jz 12,1-15",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "Chibolet: a guerra entre irmãos; Abesã, Ahialon e Abdon",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os homens de Efraim, como fizeram com Gedeão, vêm queixar-se a Jefté: por que não nos chamaste? Queimaremos a tua casa contigo. Jefté responde: eu e o meu povo estávamos em grande contenda com Amon; chamei-vos e não me livrastes; arrisquei a vida, e o Senhor me deu a vitória. Por que subis hoje contra mim? Diferentemente de Gedeão, não há resposta branda. Jefté reúne Galaad e vence Efraim, que zombava dos galaaditas chamando-os de fugitivos. Os galaaditas ocupam os vaus do Jordão. Quando um efraimita fugitivo pede para passar, perguntam-lhe: és efraimita? Se diz que não, mandam-no dizer “Chibolet”. Ele diz “Sibolet”, porque não consegue pronunciar corretamente, e o matam. Morrem quarenta e dois mil de Efraim. Jefté julga Israel seis anos e é sepultado em Galaad. Depois dele, três juízes menores: Abesã de Belém, com trinta filhos e trinta filhas, que casou fora do clã; Ahialon, de Zabulon, que julgou dez anos; e Abdon, de Faraton, com quarenta filhos e trinta netos montados em setenta jumentos.",
+    "alegorico": "A palavra-senha que separa irmãos de inimigos contrasta com Pentecostes, onde cada um ouve na sua própria língua as maravilhas de Deus: em Cristo, as diferenças de pronúncia não são motivo de exclusão, mas de unidade na diversidade.",
+    "moral": "O orgulho ferido de Efraim, que não fez nada mas quer o mérito, provoca uma guerra fratricida. A falta de mansidão de Jefté, em contraste com Gedeão, transforma uma queixa em massacre. Um detalhe de sotaque torna-se critério de morte: é o que acontece quando o ódio procura diferenças para justificar-se.",
+    "anagogico": "Na Jerusalém celeste, todas as línguas e povos louvarão juntos o Cordeiro (Ap 7,9). Ali, nenhuma palavra-senha separará os irmãos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Por que razão… não nos quiseste chamar?” “Arrisquei a minha vida e marchei contra os filhos de Amon.” “Dize pois Schibolet.” “Ele pronunciava Sibolet.” “Jefté Galaadita julgou Israel durante seis anos.”",
+    "meditatio_perguntas": [
+      "Que “Chibolet” uso para excluir ou julgar os outros?",
+      "Como reajo quando me acusam injustamente, com mansidão ou com violência?",
+      "Busco o mérito das obras que não fiz?"
+    ],
+    "oratio_guia": "Senhor, livra-me do orgulho ferido que gera divisões e da dureza que transforma ofensas em guerras. Faz-me ver irmãos onde vejo diferenças. Amém.",
+    "contemplatio_foco": {
+      "texto": "Dize pois Schibolet",
+      "ref": "Jz 12,6"
+    }
+  },
+  "ancoras": {
+    "12:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Chibolet” significa “espiga” ou “corrente de água”. A palavra passou para várias línguas como sinônimo de senha ou traço que identifica um grupo.",
+        "origem": "ia"
+      }
+    },
+    "12:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Abesã de Belém: provavelmente Belém de Zabulon (Js 19,15), não a de Judá.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

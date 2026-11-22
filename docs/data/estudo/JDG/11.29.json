@@ -1,0 +1,57 @@
+{
+  "id": "JDG.11.29",
+  "livro": "JDG",
+  "titulo": "O voto de Jefté e a sua filha",
+  "secao": "Jefté",
+  "referencia": "Jz 11,29-40",
+  "ini": {
+    "c": 11,
+    "v": 29
+  },
+  "fim": {
+    "c": 11,
+    "v": 40
+  },
+  "liturgia": {
+    "tema_central": "O voto imprudente de Jefté e a fidelidade da sua filha",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O espírito do Senhor vem sobre Jefté, que percorre Galaad e Manassés e marcha contra Amon. Então faz um voto: se entregares os amonitas nas minhas mãos, “a primeira pessoa, seja ela qual for, que sair das portas de minha casa” ao meu encontro, quando eu voltar vitorioso, será do Senhor e a oferecerei em holocausto. O Senhor lhe dá a vitória sobre vinte cidades. Ao voltar para Masfa, quem sai ao seu encontro, com tamborins e danças, é sua filha única; não tinha outro filho nem filha. Ao vê-la, Jefté rasga as vestes: ai, minha filha, tu me abateste! abri a boca ao Senhor e não posso voltar atrás. Ela responde com uma serenidade desconcertante: “Meu pai, se abriste a tua boca ao Senhor, faze de mim o que prometeste”, pois o Senhor te deu a vitória. Só pede dois meses para ir com as companheiras pelos montes e chorar a sua virgindade. Volta, e o pai cumpre o voto. Ela não conhecera homem. Desde então, todos os anos, as filhas de Israel vão durante quatro dias lamentar a filha de Jefté.",
+    "alegorico": "Os Padres oscilaram: alguns condenaram o voto como temerário (Jerônimo, Ambrósio), outros viram na filha que aceita o sacrifício uma figura distante de Cristo, oferecido pelo Pai, e da virgindade consagrada. Tomás de Aquino ensina que o voto foi “estulto no fazer e ímpio no cumprir”: Deus jamais quis sacrifícios humanos (Dt 12,31).",
+    "moral": "O texto é trágico e não aprova o voto. Mostra o perigo de negociar com Deus como se faz com os deuses pagãos e de prometer o que não é lícito. Nenhuma promessa obriga a fazer o mal. A filha, porém, revela uma grandeza moral que contrasta com a imprudência do pai: aceita, chora com as amigas, e a sua memória é guardada pelas mulheres de Israel.",
+    "anagogico": "O Deus de Israel deteve a mão de Abraão diante de Isaac e não pediu a morte da filha de Jefté. O único sacrifício humano que agradou a Deus foi o do seu próprio Filho, que se ofereceu livremente para que nenhum outro fosse sacrificado."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Fez um voto ao Senhor.” “A primeira pessoa, seja ela qual for, que sair das portas de minha casa.” “Sua filha única… saiu-lhe ao encontro com tímpanos e danças.” “Meu pai, se abriste a tua boca ao Senhor, faze de mim o que prometeste.” “Choram durante quatro dias a filha de Jefté.”",
+    "meditatio_perguntas": [
+      "Tento “negociar” com Deus com promessas imprudentes?",
+      "Distingo entre fidelidade à palavra dada e obstinação em cumprir algo injusto?",
+      "Que sofrimentos dos inocentes sou chamado a lembrar e chorar?"
+    ],
+    "oratio_guia": "Senhor, livra-me de te tratar como um ídolo com quem se negocia. Ensina-me a prometer com sabedoria e a nunca usar o teu nome para fazer o mal. Acolhe as vítimas inocentes da história. Amém.",
+    "contemplatio_foco": {
+      "texto": "Meu pai, se abriste a tua boca (fazendo um voto) ao Senhor, faze de mim o que prometeste",
+      "ref": "Jz 11,36"
+    }
+  },
+  "ancoras": {
+    "11:31": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Alguns intérpretes antigos e modernos entenderam que a filha foi consagrada à virgindade perpétua, e não morta; a leitura mais natural do texto é o sacrifício. A Igreja sempre o leu como exemplo a não seguir.",
+        "origem": "ia"
+      }
+    },
+    "11:39": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Hebreus 11,32 elogia a fé de Jefté como libertador, não o seu voto.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

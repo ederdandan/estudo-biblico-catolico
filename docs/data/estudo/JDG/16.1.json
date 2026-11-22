@@ -1,0 +1,49 @@
+{
+  "id": "JDG.16.1",
+  "livro": "JDG",
+  "titulo": "Sansão em Gaza",
+  "secao": "Sansão",
+  "referencia": "Jz 16,1-3",
+  "ini": {
+    "c": 16,
+    "v": 1
+  },
+  "fim": {
+    "c": 16,
+    "v": 3
+  },
+  "liturgia": {
+    "tema_central": "Sansão em Gaza: a força que arranca as portas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Sansão vai a Gaza, uma das cidades filisteias, vê ali uma prostituta e entra em casa dela. Os de Gaza, avisados, cercam o lugar e põem guardas à porta da cidade a noite toda, dizendo: ao amanhecer o mataremos. Mas Sansão dorme até à meia-noite; então se levanta, agarra as duas folhas da porta da cidade com os batentes e a tranca, arranca-as, põe-nas aos ombros e as leva até o alto do monte que está diante de Hebron.",
+    "alegorico": "Os Padres viram nesta cena uma das imagens mais belas de Cristo: cercado pelos inimigos, no sepulcro, levanta-se à meia-noite e arranca as portas da morte, levando-as consigo para o alto, como vencedor. A liturgia e a arte medieval usaram Sansão com as portas de Gaza como figura da ressurreição e da descida aos infernos.",
+    "moral": "O episódio mostra a contradição de Sansão: a força extraordinária e a fraqueza moral convivem nele. O mesmo homem que entra na casa da prostituta arranca as portas da cidade. Os dons de Deus não são prova de santidade; e quem brinca com o pecado está cada vez mais perto da armadilha que o prenderá.",
+    "anagogico": "As portas do inferno não prevalecerão (Mt 16,18): Cristo, que as arrancou, as leva consigo para o monte. A meia-noite da morte é a hora da vitória do Ressuscitado."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Sansão foi a Gaza.” “Cercaram-no, pondo guardas às portas da cidade.” “Sansão porém dormiu até à meia-noite.” “Pegou em ambos os batentes da porta.” “Levou-as ao cume do monte.”",
+    "meditatio_perguntas": [
+      "Confundo os dons recebidos com santidade pessoal?",
+      "Que “Gaza” frequento, brincando com o perigo?",
+      "Creio que Cristo arranca as portas que me prendem?"
+    ],
+    "oratio_guia": "Senhor ressuscitado, que arrancaste as portas da morte, livra-me das prisões que eu mesmo construo. Não permitas que eu brinque com o pecado e dá-me levantar-me à meia-noite contigo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Sansão porém dormiu até à meia-noite",
+      "ref": "Jz 16,3"
+    }
+  },
+  "ancoras": {
+    "16:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Hebron fica a cerca de 60 km de Gaza, em subida; o exagero sublinha a força sobre-humana.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "JDG.11.1",
+  "livro": "JDG",
+  "titulo": "Jefté, o filho rejeitado, chefe de Galaad",
+  "secao": "Jefté",
+  "referencia": "Jz 11,1-28",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "A pedra rejeitada: Jefté, o filho expulso que se torna chefe",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jefté, valente guerreiro de Galaad, é filho de uma prostituta. Os filhos legítimos o expulsam: não herdarás na casa de nosso pai. Ele foge para a terra de Tob, e homens sem recursos se juntam a ele. Quando Amon ataca Israel, os anciãos de Galaad vão buscá-lo: vem, sê nosso chefe. Jefté responde com razão: não fostes vós que me odiastes e me expulsastes? Por que vindes agora, quando estais em aperto? Eles insistem e prometem fazê-lo chefe de todos. Jefté aceita sob condição, e o pacto é confirmado diante do Senhor em Masfa. Antes de combater, Jefté tenta a via diplomática. Envia mensageiros ao rei de Amon: que tens contra mim? O rei reclama a terra entre o Arnon e o Jaboc. Jefté responde com uma longa lição de história: Israel não tomou terra de Moab nem de Amon; pediu passagem a Edom e a Moab e rodeou-os; Seon, rei amorreu, atacou Israel e foi vencido, e a terra que era dele passou a Israel. Possui o que Camos, o teu deus, te deu; nós possuímos o que o Senhor nos deu. Há trezentos anos estamos aqui. “O Senhor, que é árbitro, decida hoje” entre Israel e Amon. O rei não escuta.",
+    "alegorico": "Jefté, rejeitado pelos irmãos e depois procurado por eles como salvador, é uma das figuras da “pedra que os construtores rejeitaram” (Sl 117,22), como José e, plenamente, Cristo, expulso pelos seus e constituído cabeça.",
+    "moral": "Deus não se deixa limitar pela origem humilhante: o filho rejeitado torna-se libertador. Jefté nomeia a injustiça sofrida, mas não se fecha no ressentimento e aceita servir os que o expulsaram. A sua tentativa de diálogo antes da guerra é um exemplo: buscar a paz com argumentos e entregar o juízo a Deus.",
+    "anagogico": "“O Senhor, que é árbitro, decida”: todos os conflitos da história serão julgados por aquele que é o Juiz de toda a terra. Os rejeitados pelos homens podem ser os escolhidos de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Tu não podes ser herdeiro na casa de nosso pai.” “Não sois vós aqueles que me odiastes?” “Vem, e sê o nosso chefe.” “Jefté repetiu todas as palavras diante do Senhor em Masfa.” “O Senhor, que é árbitro, decida hoje.”",
+    "meditatio_perguntas": [
+      "Há rejeições do passado que ainda me fecham no ressentimento?",
+      "Sou capaz de servir aqueles que me feriram?",
+      "Busco o diálogo antes do conflito e entrego a Deus o juízo?"
+    ],
+    "oratio_guia": "Senhor, que fazes da pedra rejeitada a pedra angular, cura as feridas das minhas rejeições. Dá-me servir mesmo os que me feriram e buscar sempre a paz, confiando em ti como árbitro. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor, que é árbitro, decida hoje",
+      "ref": "Jz 11,27"
+    }
+  },
+  "ancoras": {
+    "11:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Camos (Kemosh) era o deus de Moab; a menção aqui reflete talvez a confusão entre Moab e Amon, cujo deus era Melcom.",
+        "origem": "ia"
+      }
+    },
+    "11:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os “trezentos anos” são número redondo, ligado à cronologia do livro.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

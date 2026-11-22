@@ -1,0 +1,57 @@
+{
+  "id": "JDG.4.1",
+  "livro": "JDG",
+  "titulo": "Débora, Barac e Jael",
+  "secao": "Os primeiros juízes",
+  "referencia": "Jz 4,1-24",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "Eis que o Senhor é o teu guia: Débora, Barac e Jael",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Depois de Aod, Israel volta a fazer o mal, e o Senhor o entrega a Jabin, rei de Canaã, que reina em Asor; o seu general, Sísara, tem novecentos carros de ferro e oprime Israel vinte anos. Naquele tempo julgava Israel Débora, profetisa, mulher de Lapidot, que se sentava sob uma palmeira entre Ramá e Betel, e o povo subia a ela para ser julgado. Débora chama Barac, de Cedes de Neftali, e lhe transmite a ordem do Senhor: reúne dez mil homens no monte Tabor; eu atrairei Sísara ao rio Quison e o entregarei. Barac responde: “Se vieres comigo, irei; se não quiseres vir comigo, não irei.” Débora aceita, mas avisa: a glória não será tua, porque o Senhor entregará Sísara nas mãos de uma mulher. Sísara reúne os carros junto ao Quison. Débora diz: “Levanta-te, porque este é o dia em que o Senhor entregou Sísara nas tuas mãos; eis que ele mesmo é o teu guia.” Barac desce do Tabor, e o Senhor desbarata Sísara, que salta do carro e foge a pé. Chega à tenda de Jael, mulher de Héber, o quenita, que estava em paz com Jabin. Ela o convida: entra, meu senhor, não temas. Ele pede água; ela lhe dá leite e o cobre. Enquanto dorme, Jael crava-lhe uma estaca da tenda na fonte. Quando Barac chega, ela lhe mostra o inimigo morto.",
+    "alegorico": "Débora, “mãe em Israel”, e Jael, “bendita entre as mulheres” (5,24), foram vistas como figuras de Maria e da Igreja, por meio das quais Deus esmaga a cabeça do inimigo (Gn 3,15). A vitória sobre os carros de ferro, vinda da chuva do céu, mostra que é Deus quem combate pelos humildes.",
+    "moral": "Deus confia a uma mulher a liderança e a palavra profética num mundo dominado por homens e carros de ferro. A hesitação de Barac não é rejeitada, mas lhe custa a glória: quem não ousa confiar perde a alegria de ser instrumento pleno. E a “palmeira de Débora” lembra que a sabedoria que discerne é tão necessária quanto a força que combate.",
+    "anagogico": "“Este é o dia”: na história, Deus marca o seu dia de salvação. O dia definitivo será aquele em que o Senhor, que vai à frente, vencerá o último inimigo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Naquele tempo vivia Débora profetisa… a qual julgava o povo.” “Se vieres comigo, irei.” “Sisara será entregue nas mãos duma mulher.” “Levanta-te, porque este é o dia.” “Eis que ele mesmo é o teu guia.” “Entra, meu senhor; entra, não temas.”",
+    "meditatio_perguntas": [
+      "Preciso que alguém me acompanhe para obedecer a Deus, ou confio nele?",
+      "Reconheço os dons que Deus dá às mulheres na Igreja e na minha vida?",
+      "Que “carros de ferro” me oprimem e esperam a intervenção de Deus?"
+    ],
+    "oratio_guia": "Senhor, que vais à frente do teu povo, dá-me levantar-me quando chega o teu dia. Livra-me da hesitação que me faz perder a tua glória e ensina-me a acolher a tua palavra por meio de quem quer que a anuncie. Amém.",
+    "contemplatio_foco": {
+      "texto": "eis que ele mesmo é o teu guia",
+      "ref": "Jz 4,14"
+    }
+  },
+  "ancoras": {
+    "4:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A palmeira de Débora ficava entre Ramá e Betel; uma homônima, ama de Rebeca, foi sepultada sob um carvalho perto de Betel (Gn 35,8).",
+        "origem": "ia"
+      }
+    },
+    "4:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Héber, o quenita, era descendente de Hobab, sogro (ou cunhado) de Moisés; sua tenda ficava perto de Cedes.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

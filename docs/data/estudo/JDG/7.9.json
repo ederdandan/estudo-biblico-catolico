@@ -1,0 +1,57 @@
+{
+  "id": "JDG.7.9",
+  "livro": "JDG",
+  "titulo": "A espada do Senhor e de Gedeão",
+  "secao": "Gedeão",
+  "referencia": "Jz 7,9-25",
+  "ini": {
+    "c": 7,
+    "v": 9
+  },
+  "fim": {
+    "c": 7,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "A espada do Senhor e de Gedeão: luzes nos vasos quebrados",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Naquela noite, o Senhor manda Gedeão descer ao acampamento inimigo; e, porque conhece o seu medo, permite que leve o criado Fara. No acampamento, deitados como gafanhotos, com camelos sem número, Gedeão ouve um soldado contar um sonho: um pão de cevada rolava até o acampamento de Madiã, batia na tenda e a derrubava. O companheiro interpreta: isto é a espada de Gedeão; Deus entregou Madiã em suas mãos. Gedeão adora a Deus, volta e diz: levantai-vos, o Senhor entregou Madiã nas vossas mãos. Divide os trezentos em três grupos e dá a cada um uma trombeta e um cântaro vazio com uma tocha dentro. “Fazei o mesmo que me virdes fazer.” No início da vigília da meia-noite, à troca da guarda, tocam as trombetas, quebram os cântaros, erguem as tochas na mão esquerda e gritam: “A espada pelo Senhor e por Gedeão!” Cada um fica no seu posto ao redor do acampamento; os madianitas fogem em pânico, e o Senhor faz que voltem as espadas uns contra os outros. As tribos perseguem os fugitivos, e Efraim captura os príncipes Oreb e Zeb nos vaus do Jordão.",
+    "alegorico": "Os cântaros quebrados que deixam brilhar a luz foram lidos por Orígenes e Ambrósio como imagem dos apóstolos e mártires: “temos este tesouro em vasos de barro” (2Cor 4,7), e quando o vaso se quebra, a luz se revela. Também o corpo de Cristo, “quebrado” na cruz, deixou resplandecer a luz da ressurreição.",
+    "moral": "Deus fortalece a fé de Gedeão antes da batalha, com delicadeza: “se tens medo”. O pão de cevada, alimento dos pobres, é o próprio Gedeão: humilde, mas suficiente nas mãos de Deus. A vitória vem de uma obediência simples: “fazei o que me virdes fazer”, permanecer cada um no seu posto. Às vezes é preciso quebrar o vaso para que a luz apareça.",
+    "anagogico": "A trombeta, a luz e o grito na noite anunciam a vinda do Senhor, que virá “ao som da trombeta” no meio da noite. Os que estiverem com as lâmpadas acesas, cada um no seu posto, verão a vitória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Se tens medo de ir só, vá contigo o teu criado.” “Isto não é outra coisa senão a espada de Gedeão.” “Gedeão… adorou.” “Fazei o mesmo que me virdes fazer.” “A espada pelo Senhor e por Gedeão!” “Conservaram-se, cada um no seu posto.”",
+    "meditatio_perguntas": [
+      "Que “vaso” em mim precisa ser quebrado para que a luz de Deus apareça?",
+      "Adoro a Deus quando ele fortalece a minha fé?",
+      "Permaneço fiel no meu posto, mesmo quando parece pouco?"
+    ],
+    "oratio_guia": "Senhor, que conheces o meu medo e o fortaleces, quebra o vaso do meu orgulho para que brilhe a tua luz. Que eu permaneça no meu posto, e que a vitória seja tua. Amém.",
+    "contemplatio_foco": {
+      "texto": "Isto não é outra coisa senão a espada de Gedeão, filho de Joás, homem Israelita",
+      "ref": "Jz 7,14"
+    }
+  },
+  "ancoras": {
+    "7:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A noite dividia-se em três vigílias; a “do meio” começava por volta das 22 horas, quando os guardas recém-postos ainda não se haviam habituado à escuridão.",
+        "origem": "ia"
+      }
+    },
+    "7:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Oreb e Zeb significam “corvo” e “lobo”. A vitória sobre Madiã será lembrada como modelo em Is 9,4 e Sl 82,12.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

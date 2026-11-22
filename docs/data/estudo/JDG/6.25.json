@@ -1,0 +1,57 @@
+{
+  "id": "JDG.6.25",
+  "livro": "JDG",
+  "titulo": "O altar de Baal derrubado e o sinal do velo",
+  "secao": "Gedeão",
+  "referencia": "Jz 6,25-40",
+  "ini": {
+    "c": 6,
+    "v": 25
+  },
+  "fim": {
+    "c": 6,
+    "v": 40
+  },
+  "liturgia": {
+    "tema_central": "Derrubar o altar de Baal e pedir um sinal: a fé que cresce na prova",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Naquela noite, o Senhor manda Gedeão derrubar o altar de Baal de seu pai, cortar o poste sagrado de Aserá e edificar sobre a rocha um altar ao Senhor, oferecendo em holocausto um touro de sete anos com a lenha do poste. Gedeão obedece, mas de noite, com dez servos, por medo da família e da cidade. De manhã, os homens descobrem o altar destruído e querem matar Gedeão. Seu pai Joás responde: “Porventura sois vós os vingadores de Baal?” Se é deus, que se defenda sozinho. Por isso Gedeão recebe o nome de Jerobaal, “que Baal se defenda”. Madiã, Amalec e os orientais atravessam o Jordão e acampam no vale de Jezrael. O espírito do Senhor reveste Gedeão: ele toca a trombeta e convoca Abiezer, Manassés, Aser, Zabulon e Neftali. Mas ainda pede um sinal: se o orvalho cair só sobre o velo de lã e a terra ficar seca, saberei que salvarás Israel pela minha mão. Assim acontece; espreme o velo e enche uma vasilha de água. Pede o contrário: não te irrites, que só o velo fique seco e o orvalho caia na terra. E Deus o faz.",
+    "alegorico": "Os Padres viram no velo de Gedeão uma das grandes figuras marianas: o orvalho que desce sobre o velo sem rompê-lo é o Verbo que desce ao seio da Virgem (Sl 71,6 na Vulgata: “descerá como chuva sobre o velo”). O segundo sinal, o velo seco e a terra molhada, foi lido como Israel que não recebeu a graça enquanto ela se espalhava sobre as nações.",
+    "moral": "A libertação começa em casa: antes de enfrentar Madiã, Gedeão precisa derrubar o ídolo da família. Ele obedece de noite e com medo, mas obedece; a coragem cresce aos poucos. Deus tem paciência com a fé frágil que pede sinais, sem que isso se torne regra: é condescendência com um coração que quer obedecer.",
+    "anagogico": "O orvalho do céu que desce sobre a terra é imagem da graça que, no fim, cobrirá toda a criação. A Igreja canta no Advento: “Rorate caeli desuper”, céus, deixai cair o orvalho."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Destruirás o altar de Baal que é de teu pai.” “Temendo a família de seu pai… fê-lo de noite.” “Porventura sois vós os vingadores de Baal?” “O espírito do Senhor apoderou-se de Gedeão.” “Se o orvalho cair só no velo.” “Só o velo ficou enxuto.”",
+    "meditatio_perguntas": [
+      "Que ídolo “da casa de meu pai” preciso derrubar antes de outras lutas?",
+      "Obedeço mesmo com medo, ainda que “de noite”?",
+      "Peço sinais a Deus por fé frágil ou por falta de vontade de obedecer?"
+    ],
+    "oratio_guia": "Senhor, dá-me coragem para derrubar os ídolos da minha casa. Tem paciência com a minha fé frágil e faz descer sobre mim o orvalho da tua graça, como desceu sobre o velo. Amém.",
+    "contemplatio_foco": {
+      "texto": "O espírito do Senhor apoderou-se de Gedeão",
+      "ref": "Jz 6,34"
+    }
+  },
+  "ancoras": {
+    "6:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O aschera (Aserá) era um poste de madeira dedicado à deusa cananeia do mesmo nome, posto junto aos altares de Baal.",
+        "origem": "ia"
+      }
+    },
+    "6:32": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jerobaal: “que Baal pleiteie”. Em 2Sm 11,21 o nome é alterado para Jerobeset, substituindo “Baal” por “vergonha”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

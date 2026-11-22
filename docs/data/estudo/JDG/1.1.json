@@ -1,0 +1,57 @@
+{
+  "id": "JDG.1.1",
+  "livro": "JDG",
+  "titulo": "A conquista incompleta",
+  "secao": "Israel depois de Josué",
+  "referencia": "Jz 1,1-36",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 36
+  },
+  "liturgia": {
+    "tema_central": "Não destruíram, mas habitaram no meio deles: a conquista que ficou pela metade",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Depois da morte de Josué, Israel consulta o Senhor: quem subirá primeiro contra o cananeu? “Marchará Judá.” Judá convida o irmão Simeão, e juntos vencem em Bezec. O rei Adonibezec, capturado, sofre o que fizera: tinham-lhe cortado os polegares das mãos e dos pés, e ele reconhece: setenta reis mutilados apanhavam migalhas debaixo da minha mesa; “como eu fiz, assim Deus me pagou”. Judá ataca Jerusalém, toma Hebron, e repete-se a história de Otoniel e Axa, que pede ao pai uma terra regada. Os quenitas, parentes de Moisés, sobem com Judá. Judá toma também cidades filisteias, mas “não pôde derrotar os que habitavam no vale, porque estes tinham carros de ferro”. Depois começa um refrão desanimador: Benjamim não expulsou o jebuseu de Jerusalém; a casa de José toma Betel graças a um traidor; mas Manassés não destruiu Betsan e Megido; Efraim não exterminou o cananeu de Gazer; Zabulon, Aser e Neftali habitaram no meio dos cananeus; e os amorreus encurralaram Dan nas montanhas. Quando Israel se fortalece, prefere torná-los tributários em vez de expulsá-los.",
+    "alegorico": "O fracasso das tribos mostra que nem Josué nem os seus sucessores conseguem dar a Israel a terra inteira: a obra fica à espera de um rei, Davi, e, além dele, do Messias. Orígenes lê os cananeus que ficam no meio de Israel como os vícios que a alma tolera e que só a graça de Cristo pode expulsar inteiramente.",
+    "moral": "O capítulo é a história de uma lenta acomodação: primeiro “não pôde”, depois “não quis”, por fim “habitou no meio deles”. Quando já tinham força, preferiram o lucro dos tributos à fidelidade. Assim acontece com o pecado tolerado: torna-se vizinho, depois sócio. A palavra de Adonibezec lembra também que a medida com que medimos será usada para conosco.",
+    "anagogico": "A terra nunca inteiramente possuída aponta para uma herança que só Deus pode dar por completo. A Igreja peregrina conhece este “ainda não”: espera o dia em que nada impuro habitará no meio do povo de Deus (Ap 21,27)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quem marchará à nossa frente contra o Cananeu?” “Marchará Judá.” “Como eu fiz, assim Deus me pagou.” “O Senhor foi com Judá.” “Não pôde derrotar os que habitavam no vale.” “Não os quis exterminar.”",
+    "meditatio_perguntas": [
+      "Que pecados passei a tolerar como “vizinhos” na minha vida?",
+      "Onde troquei o “não pude” por “não quis”?",
+      "Busco ajuda dos irmãos nas minhas lutas, como Judá com Simeão?"
+    ],
+    "oratio_guia": "Senhor, não me deixes fazer as pazes com o mal que ainda habita em mim. Dá-me força para não me acomodar e graça para expulsar o que não é teu. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor foi com Judá",
+      "ref": "Jz 1,19"
+    }
+  },
+  "ancoras": {
+    "1:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Apesar desta notícia, Jerusalém continuará jebuseia até ser tomada por Davi (2Sm 5,6-9); 1,21 reconhece isso.",
+        "origem": "ia"
+      }
+    },
+    "1:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Cidade das palmeiras” é Jericó. Os quenitas (cineus), clã do sogro de Moisés, viverão entre Israel; deles será Jael (4,11).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
