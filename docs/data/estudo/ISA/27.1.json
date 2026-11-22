@@ -1,0 +1,57 @@
+{
+  "id": "ISA.27.1",
+  "livro": "ISA",
+  "titulo": "A vinha guardada pelo Senhor",
+  "secao": "O Apocalipse de Isaías",
+  "referencia": "Is 27,1-13",
+  "ini": {
+    "c": 27,
+    "v": 1
+  },
+  "fim": {
+    "c": 27,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "“Sou eu, o Senhor, que a guardo”: a vinha nova",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Naquele dia o Senhor, armado com a sua espada dura, grande e forte, visitará Leviatã, essa serpente fugidia… e matará o monstro que está no mar.” Depois, um novo cântico da vinha, oposto ao de Is 5: “Cantai a vinha que dá vinho puro. Sou eu, o Senhor, que a guardo; eu a rego continuamente; para que não receba nenhum dano, eu a guardo de noite e de dia. Não tenho indignação contra ela.” Os espinhos serão queimados, “a não ser que se ponham debaixo da minha proteção, que façam a paz comigo, que façam comigo a paz. Em dias futuros, Jacó lançará raízes, Israel florescerá, lançará rebentos e encherá de seus frutos a face da terra.” O castigo de Israel foi medida, não destruição: o exílio expiou o pecado, e os altares idolátricos foram reduzidos a cinza. “Naquele dia… soará uma grande trombeta e virão os que tinham ficado perdidos na terra dos Assírios… e adorarão o Senhor no monte santo, em Jerusalém.”",
+    "alegorico": "A vitória sobre Leviatã, a serpente tortuosa, prefigura a vitória de Cristo sobre a “antiga serpente” (Ap 12,9; 20,2). A vinha guardada dia e noite e que enche a terra de frutos é a Igreja, unida a Cristo, a videira verdadeira (Jo 15,1-8). A “grande trombeta” que reúne os dispersos é a do Filho do Homem que reunirá os eleitos (Mt 24,31; 1Ts 4,16).",
+    "moral": "O contraste com Is 5 é belíssimo: lá, a vinha deu uvas azedas e foi abandonada; aqui, Deus diz “não tenho indignação”, e ele mesmo a rega e a guarda. Depois do castigo vem o cuidado. E até os inimigos (os espinhos) podem fazer as pazes: “que façam comigo a paz”. Deus quer a paz, não a destruição.",
+    "anagogico": "A grande trombeta reunirá os dispersos para a adoração no monte santo: a ressurreição e a reunião final dos filhos de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Visitará Leviatã, essa serpente tortuosa.” “Cantai a vinha que dá vinho puro.” “Sou eu, o Senhor, que a guardo.” “Eu a rego continuamente.” “Não tenho indignação.” “Que façam comigo a paz.” “Israel florescerá… e encherá de seus frutos a face da terra.” “Soará uma grande trombeta.”",
+    "meditatio_perguntas": [
+      "Deixo-me regar e guardar pelo Senhor como a sua vinha?",
+      "Faço a paz com Deus, em vez de ser espinho?",
+      "Que frutos estou dando para a terra?"
+    ],
+    "oratio_guia": "Senhor, que guardas a tua vinha dia e noite, rega-me continuamente, faz-me lançar raízes e dar frutos. Quero fazer a paz contigo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Sou eu, o Senhor, que a guardo; eu a rego continuamente",
+      "ref": "Is 27,3"
+    }
+  },
+  "ancoras": {
+    "27:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Leviatã: monstro marinho do caos nas mitologias do Oriente; cf. Jó 40,20; Sl 74,14.",
+        "origem": "ia"
+      }
+    },
+    "27:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. o cântico da vinha em Is 5,1-7.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

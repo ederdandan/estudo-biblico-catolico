@@ -1,40 +1,57 @@
 {
   "id": "ISA.26.1",
   "livro": "ISA",
-  "titulo": "Os teus mortos viverão; a vinha guardada",
+  "titulo": "Os teus mortos viverão",
   "secao": "O Apocalipse de Isaías",
-  "referencia": "Is 26,1–27,13",
+  "referencia": "Is 26,1-21",
   "ini": {
     "c": 26,
     "v": 1
   },
   "fim": {
-    "c": 27,
-    "v": 13
+    "c": 26,
+    "v": 21
   },
   "liturgia": {
-    "tema_central": "Paz para quem confia; os mortos viverão",
+    "tema_central": "“Os teus mortos viverão”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Um cântico em Judá: temos uma cidade forte; abri as portas para que entre a nação justa. “Conservarás a paz a quem em ti confia.” O caminho do justo é reto. “A minha alma te desejou de noite, e desde a manhã te busca o meu espírito.” Senhor, tu nos darás a paz; todas as nossas obras tu as fizeste. Como mulher em parto, sofremos e demos à luz vento. Mas: “Os teus mortos viverão, os meus cadáveres ressuscitarão; despertai e cantai, vós que habitais no pó, porque o teu orvalho é orvalho de luz”. No capítulo 27, Deus vence Leviatã e canta de novo a vinha, que ele guarda noite e dia; Israel brotará e encherá a terra de frutos.",
-    "alegorico": "Os mortos que ressuscitam ao “orvalho de luz” são lidos como anúncio da ressurreição de Cristo e da carne. Leviatã vencido é a serpente antiga (Ap 12,9; 20,2). A vinha guardada é a Igreja.",
-    "moral": "A paz é fruto da confiança. O desejo de Deus “de noite” e “de manhã” é a respiração da oração. As nossas obras boas são obras de Deus em nós.",
-    "anagogico": "Uma das afirmações mais claras do AT sobre a ressurreição dos mortos: os que dormem no pó despertarão para a vida."
+    "literal": "“Naquele dia será cantado este cântico na terra de Judá: Temos uma cidade forte; o Salvador é para ela o muro e o antemuro. Abri as portas, e entre o povo justo, que observa a verdade… tu conservarás a paz, a paz, porque em ti esperamos. Vós pusestes para sempre a vossa esperança no Senhor… que é a nossa fortaleza eterna.” Deus humilha a cidade altiva e a faz pisar “pelos pés dos pobres”. “Nós te esperamos, Senhor… o teu nome e a tua memória são o desejo da nossa alma. A minha alma te desejou de noite, e, desde manhã, te busca o meu espírito.” “Senhor, hás-de dar-nos a paz, porque foste tu que fizeste para nós todas as nossas obras.” O povo confessa a sua impotência: “Nós concebemos, estivemos com dores de parto, e o que demos à luz foi vento.” E então a grande promessa: “Os teus mortos viverão, os meus cadáveres ressuscitarão; despertai e cantai louvores, vós os que habitais no pó, porque o teu orvalho é um orvalho de luz.” “Vai, povo meu, entra nos teus quartos, fecha as portas sobre ti… até que passe a indignação.”",
+    "alegorico": "É um dos primeiros textos do AT a falar da ressurreição dos mortos (cf. Dn 12,2), cumprida em Cristo, “primícias dos que dormem” (1Cor 15,20). O “orvalho de luz” que faz renascer os mortos foi lido como o Espírito Santo e a graça batismal. “Abri as portas” é cantado na entrada da Igreja, cidade forte cujo muro é o Salvador. “Entra nos teus quartos, fecha as portas” lembra o conselho de Jesus sobre a oração no segredo (Mt 6,6).",
+    "moral": "O cântico ensina a esperança: a paz verdadeira (“paz, paz”) é dada a quem confia em Deus. A alma que deseja a Deus de noite e o busca de manhã encontra-o. E há uma confissão humilde: sozinhos, só damos à luz “vento”; é Deus quem faz as nossas obras. A esperança final é a vida que vence a morte.",
+    "anagogico": "“Despertai e cantai louvores, vós os que habitais no pó”: a ressurreição da carne, quando o orvalho de luz de Deus fará renascer os mortos."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Conservarás a paz a quem em ti confia.” “A minha alma te desejou de noite, e, desde manhã, te busca o meu espírito.” “Os teus mortos viverão… despertai e cantai louvores, vós que habitais no pó.” “Eu sou o que guardo a vinha.”",
+    "lectio_resumo": "“O Salvador é para ela o muro e o antemuro.” “Abri as portas, e entre o povo justo.” “Tu conservarás a paz, a paz, porque em ti esperamos.” “A minha alma te desejou de noite.” “Foste tu que fizeste para nós todas as nossas obras.” “O que demos à luz foi vento.” “Os teus mortos viverão.” “O teu orvalho é um orvalho de luz.”",
     "meditatio_perguntas": [
-      "A minha alma deseja a Deus de noite e de manhã?",
-      "Reconheço que as minhas boas obras são obra de Deus?",
-      "Como a fé na ressurreição muda o meu luto?"
+      "Desejo a Deus de noite e busco-o de manhã?",
+      "Reconheço que é Deus quem faz as minhas obras?",
+      "Vivo na esperança da ressurreição?"
     ],
-    "oratio_guia": "Senhor, a minha alma te deseja de noite e te busca de manhã. Conserva-me na paz e guarda-me como a tua vinha. Desperta os que dormem no pó com o teu orvalho de luz. Amém.",
+    "oratio_guia": "Senhor, a minha alma te deseja de noite e te busca de manhã. Dá-me a tua paz, faz em mim as minhas obras, e que o teu orvalho de luz me faça renascer para a vida eterna. Amém.",
     "contemplatio_foco": {
-      "texto": "A minha alma te desejou de noite, e, desde manhã, te busca o meu espírito",
-      "ref": "Is 26,9"
+      "texto": "Os teus mortos (ó Senhor) viverão, os meus cadáveres ressuscitarão",
+      "ref": "Is 26,19"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "26:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Dn 12,2; Jo 5,28-29.",
+        "origem": "ia"
+      }
+    },
+    "26:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Usado na liturgia do Advento.",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }

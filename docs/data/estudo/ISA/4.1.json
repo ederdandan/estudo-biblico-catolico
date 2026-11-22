@@ -1,0 +1,57 @@
+{
+  "id": "ISA.4.1",
+  "livro": "ISA",
+  "titulo": "O germe do Senhor e a nuvem sobre Sião",
+  "secao": "O Livro do Emanuel",
+  "referencia": "Is 4,1-6",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 6
+  },
+  "liturgia": {
+    "tema_central": "“O germe do Senhor” e a nuvem sobre Sião",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Naquele dia lançarão mão dum só homem sete mulheres”, tantos serão os mortos na guerra. Mas depois do juízo vem a promessa: “Naquele dia será o germe do Senhor ornamento e glória, e o fruto da terra grandeza e honra, para aqueles de Israel que forem salvos. Acontecerá que todos aqueles que forem deixados em Sião… serão chamados santos, todos os que tiverem sido inscritos para a vida em Jerusalém.” Isso acontecerá “quando o Senhor tiver limpado as manchas das filhas de Sião, e lavado o sangue do meio de Jerusalém com espírito de justiça e com espírito de ardor”. Então o Senhor estenderá sobre o monte Sião, como no êxodo, “uma nuvem obscura durante o dia e o resplendor duma chama ardente durante a noite… haverá um tabernáculo para fazer sombra de dia contra o calor, e para segurança e guarida contra a tempestade e a chuva”.",
+    "alegorico": "O “germe do Senhor” (Rebento) é título do Messias (Jr 23,5; Zc 3,8; 6,12): Cristo, glória do resto salvo. Os “inscritos para a vida” são os que têm o nome “escrito no livro da vida” (Fl 4,3; Ap 21,27). O espírito de ardor que purifica é o Espírito Santo, que desce como fogo (At 2,3; Mt 3,11). A nuvem e a tenda que protegem são a presença de Deus que “armou a sua tenda entre nós” (Jo 1,14).",
+    "moral": "Depois da purificação, Deus faz de um resto um povo santo. O fogo do juízo não é para destruir, mas para lavar. E Deus volta a habitar no meio do seu povo, como sombra no calor e abrigo na tempestade. A santidade não é conquista nossa: é obra do Espírito que lava as manchas.",
+    "anagogico": "O tabernáculo de Deus sobre Sião anuncia a Jerusalém celeste: “eis o tabernáculo de Deus com os homens” (Ap 21,3), onde não haverá mais calor nem tempestade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Será o germe do Senhor ornamento e glória.” “Serão chamados santos.” “Inscritos para a vida em Jerusalém.” “Com espírito de justiça e com espírito de ardor.” “Uma nuvem obscura durante o dia e o resplendor duma chama ardente durante a noite.” “Guarida contra a tempestade e a chuva.”",
+    "meditatio_perguntas": [
+      "Deixo o Espírito “de ardor” lavar as minhas manchas?",
+      "Sinto-me chamado a ser “santo”, parte do resto fiel?",
+      "Encontro em Deus sombra no calor e abrigo na tempestade?"
+    ],
+    "oratio_guia": "Senhor, lava as minhas manchas com o teu espírito de justiça e de ardor. Inscreve o meu nome para a vida e sê para mim sombra no calor e abrigo na tempestade. Amém.",
+    "contemplatio_foco": {
+      "texto": "Naquele dia será o germe do Senhor ornamento e glória",
+      "ref": "Is 4,2"
+    }
+  },
+  "ancoras": {
+    "4:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração hebraica, Is 4,1 conclui o capítulo 3.",
+        "origem": "ia"
+      }
+    },
+    "4:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Ex 13,21-22.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

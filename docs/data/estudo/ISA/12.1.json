@@ -1,0 +1,57 @@
+{
+  "id": "ISA.12.1",
+  "livro": "ISA",
+  "titulo": "Tirareis com gosto águas das fontes da salvação",
+  "secao": "O Livro do Emanuel",
+  "referencia": "Is 12,1-6",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 6
+  },
+  "liturgia": {
+    "tema_central": "“Tirareis com gosto águas das fontes da salvação”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Depois das promessas, um hino de ação de graças. “Dirás naquele dia: Eu te rendo graças, Senhor, porque, havendo-te irado contra mim, o teu furor aplacou-se e tu me consolaste. Eis o Deus meu Salvador; estou cheio de confiança, não temo, porque o Senhor é a minha fortaleza e o meu louvor; ele foi a minha salvação. Tirareis com gosto águas das fontes da salvação, e direis naquele dia: Louvai o Senhor, invocai o seu nome, publicai entre os povos as suas obras, proclamai que o seu nome é excelso. Cantai ao Senhor, porque ele fez coisas magníficas; que se saiba isto em toda a terra. Cantai de alegria, rejubilai, habitantes de Sião, porque se mostra grande, no meio de vós, o Santo de Israel.”",
+    "alegorico": "As “fontes da salvação” (em hebraico, yeshu‘ah, da mesma raiz que o nome Jesus) são abertas no lado de Cristo (Jo 19,34) e por ele oferecidas: “Se alguém tem sede, venha a mim e beba” (Jo 7,37-38), palavras ditas na festa das Tendas, em que se cantava este hino. A liturgia o reza nas Laudes e na Vigília Pascal, junto às águas do Batismo.",
+    "moral": "O hino nasce da experiência de ser perdoado: “o teu furor aplacou-se e tu me consolaste”. Quem foi salvo canta e anuncia: “publicai entre os povos as suas obras”. A confiança vence o medo: “estou cheio de confiança, não temo”. A alegria cristã brota dessas fontes: os sacramentos e a Palavra.",
+    "anagogico": "“Cantai de alegria… porque se mostra grande no meio de vós o Santo de Israel”: o louvor eterno na presença de Deus, junto ao rio de água viva (Ap 22,1)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu te rendo graças, Senhor.” “Tu me consolaste.” “Eis o Deus meu Salvador; estou cheio de confiança, não temo.” “O Senhor é a minha fortaleza e o meu louvor.” “Tirareis com gosto águas das fontes da salvação.” “Publicai entre os povos as suas obras.” “Se mostra grande no meio de vós o Santo de Israel.”",
+    "meditatio_perguntas": [
+      "Agradeço a Deus o perdão recebido?",
+      "Vou com alegria às fontes da salvação?",
+      "Anuncio aos outros as obras de Deus na minha vida?"
+    ],
+    "oratio_guia": "Eis o Deus meu Salvador: confio e não temo. Senhor, faz-me tirar com alegria a água das fontes da salvação e anunciar a todos as tuas maravilhas. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tirareis com gosto águas das fontes da salvação",
+      "ref": "Is 12,3"
+    }
+  },
+  "ancoras": {
+    "12:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na festa das Tendas, os sacerdotes tiravam água da fonte de Siloé; cf. Jo 7,37-39.",
+        "origem": "ia"
+      }
+    },
+    "12:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Ex 15,2: o cântico de Moisés.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

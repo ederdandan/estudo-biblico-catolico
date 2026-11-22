@@ -1,0 +1,57 @@
+{
+  "id": "ISA.23.1",
+  "livro": "ISA",
+  "titulo": "Contra Tiro: o Senhor derruba a soberba de toda a glória",
+  "secao": "Oráculos contra as nações",
+  "referencia": "Is 23,1-18",
+  "ini": {
+    "c": 23,
+    "v": 1
+  },
+  "fim": {
+    "c": 23,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Contra Tiro: o Senhor derruba “a soberba de toda a glória”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Oráculo sobre Tiro. Uivai, naus de Tarsis, porque o vosso porto foi destruído.” Tiro e Sidônia, potências comerciais do mar, “empório das nações”, cujos “comerciantes eram príncipes”, estão arruinadas. “Quem formou este desígnio contra Tiro, outrora coroada?… Foi o Senhor dos exércitos que formou este desígnio, para derribar a soberba de toda a glória, para reduzir à ignomínia todos os grandes da terra. O Senhor estendeu a sua mão sobre o mar, abalou os reinos.” Tiro ficará esquecida setenta anos, como uma cortesã envelhecida que canta para que se lembrem dela. Depois, o Senhor a visitará, e ela voltará ao comércio; “mas o seu salário e os seus lucros serão consagrados ao Senhor; não serão guardados, nem entesourados, porque o lucro do seu negócio será para aqueles que assistirem diante do Senhor”.",
+    "alegorico": "A queda de Tiro, cidade dos mercadores, é retomada no lamento sobre Babilônia em Ap 18,11-19, onde os mercadores choram. A conversão final do lucro de Tiro ao serviço de Deus anuncia a palavra de Jesus: “fazei amigos com o dinheiro da iniquidade” (Lc 16,9), e a oferta das riquezas das nações na Jerusalém nova (Ap 21,26). Jesus elogiou a fé de uma mulher de Tiro (Mc 7,24-30).",
+    "moral": "O comércio e a riqueza, quando se tornam soberba, caem. Deus “derruba a soberba de toda a glória”. Mas o fim não é a destruição: os bens de Tiro, consagrados ao Senhor, servirão aos que estão diante dele. Os bens materiais não são maus em si; o problema é entesourar. Postos ao serviço de Deus e dos outros, encontram o seu sentido.",
+    "anagogico": "As riquezas das nações, purificadas, entrarão na cidade de Deus como oferenda (Ap 21,24-26)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Uivai, naus de Tarsis.” “Empório das nações.” “Cujos comerciantes eram príncipes.” “Para derribar a soberba de toda a glória.” “O Senhor estendeu a sua mão sobre o mar.” “O seu salário e os seus lucros serão consagrados ao Senhor; não serão guardados, nem entesourados.”",
+    "meditatio_perguntas": [
+      "O meu trabalho e os meus lucros estão consagrados a Deus?",
+      "Entesouro ou partilho?",
+      "Que “soberba da glória” Deus precisa derrubar em mim?"
+    ],
+    "oratio_guia": "Senhor, derruba em mim toda soberba e consagra a ti o fruto do meu trabalho. Que eu não entesoure, mas use os meus bens para o teu serviço e para os irmãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "para derribar a soberba de toda a glória",
+      "ref": "Is 23,9"
+    }
+  },
+  "ancoras": {
+    "23:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Tarsis: talvez Tartesso, na Espanha; as “naus de Tarsis” eram navios de longo curso.",
+        "origem": "ia"
+      }
+    },
+    "23:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Setenta anos: um tempo completo, a duração de uma vida.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

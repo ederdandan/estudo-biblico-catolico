@@ -1,0 +1,57 @@
+{
+  "id": "ISA.33.1",
+  "livro": "ISA",
+  "titulo": "Os teus olhos verão o rei no seu esplendor",
+  "secao": "Ais e promessas",
+  "referencia": "Is 33,1-24",
+  "ini": {
+    "c": 33,
+    "v": 1
+  },
+  "fim": {
+    "c": 33,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "“Os teus olhos verão o rei no seu esplendor”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Ai de ti, devastador, que ainda não foste devastado!” O povo reza: “Senhor, tem misericórdia de nós, porque sempre esperamos em ti; sê o nosso braço todas as manhãs, a nossa salvação no tempo da tribulação.” “O temor do Senhor será o teu tesouro.” A terra chora, os embaixadores da paz choram; mas Deus diz: “Agora me levantarei, agora me erguerei.” Em Sião os pecadores tremem: “Qual de vós poderá habitar num fogo devorador?… Aquele que anda na justiça e fala verdade, que rejeita as riquezas adquiridas com a extorsão, que sacode de suas mãos todo o presente, que tapa os seus ouvidos para não ouvir planos sanguinários, e fecha os seus olhos para não ver o mal, esse habitará nas alturas… ser-lhe-á dado pão, e a água nunca lhe faltará. Os teus olhos verão o rei no seu esplendor, verão uma terra aberta ao longe.” “Olha para Sião, cidade das nossas festas… tabernáculo que não poderá de modo algum ser transportado.” “O Senhor é o nosso juiz, o Senhor é o nosso legislador, o Senhor é o nosso rei, é ele que nos há-de salvar.” “Nenhum habitante dirá: Estou doente; o povo que aí habitar receberá o perdão dos seus pecados.”",
+    "alegorico": "Quem pode habitar junto ao “fogo devorador”? Os puros de coração, que “verão a Deus” (Mt 5,8). Ver “o rei no seu esplendor” é a visão beatífica, a contemplação de Cristo glorioso. A cidade onde ninguém diz “estou doente” e os pecados são perdoados é a Igreja, e plenamente a Jerusalém celeste, onde “não haverá mais dor” (Ap 21,4).",
+    "moral": "O texto traça o retrato do justo que pode estar diante de Deus (como o Sl 15): andar na justiça, falar verdade, recusar o lucro desonesto e o suborno, fechar os ouvidos e os olhos ao mal. Também a oração é modelo: “sê o nosso braço todas as manhãs”. Cada dia pede a ajuda de Deus. E a guarda dos sentidos é parte da vida justa.",
+    "anagogico": "“Os teus olhos verão o rei no seu esplendor”: a promessa da visão de Deus face a face, na pátria onde não haverá doença nem pecado."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Sê o nosso braço todas as manhãs.” “O temor do Senhor será o teu tesouro.” “Qual de vós poderá habitar num fogo devorador?” “Aquele que anda na justiça e fala verdade.” “Fecha os seus olhos para não ver o mal.” “Os teus olhos verão o rei no seu esplendor.” “O Senhor é o nosso rei, é ele que nos há-de salvar.”",
+    "meditatio_perguntas": [
+      "Peço a Deus, cada manhã, que seja o meu braço?",
+      "Guardo os olhos e os ouvidos do mal?",
+      "Desejo ver o Rei no seu esplendor?"
+    ],
+    "oratio_guia": "Senhor, sê o meu braço todas as manhãs. Dá-me andar na justiça, falar verdade e guardar os meus sentidos, para que os meus olhos te vejam, ó Rei, no teu esplendor. Amém.",
+    "contemplatio_foco": {
+      "texto": "Os teus olhos verão o rei (dos céus) no seu esplendor",
+      "ref": "Is 33,17"
+    }
+  },
+  "ancoras": {
+    "33:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Sl 15 (Vulgata 14) e Sl 24 (23),3-4.",
+        "origem": "ia"
+      }
+    },
+    "33:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Juiz, legislador e rei: as três funções reúnem-se em Deus.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

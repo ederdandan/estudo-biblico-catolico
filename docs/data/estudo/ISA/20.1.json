@@ -1,0 +1,57 @@
+{
+  "id": "ISA.20.1",
+  "livro": "ISA",
+  "titulo": "Isaías anda despido: sinal contra o Egito",
+  "secao": "Oráculos contra as nações",
+  "referencia": "Is 20,1-6",
+  "ini": {
+    "c": 20,
+    "v": 1
+  },
+  "fim": {
+    "c": 20,
+    "v": 6
+  },
+  "liturgia": {
+    "tema_central": "Isaías anda despido: não confieis no Egito",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“No ano em que Tartan, enviado por Sargão, rei dos Assírios, foi contra Azot e a combateu e tomou”, o Senhor ordenou a Isaías: “Vai, desata de teus rins o saco e tira o calçado de teus pés. Isaías fê-lo assim, indo nu e descalço.” O Senhor explica o sinal: “Assim como o meu servo Isaías andou três anos nu e descalço, para ser um sinal e um prognóstico para o Egito e a Etiópia, assim o rei dos Assírios levará os cativos do Egito e os deportados da Etiópia, moços e velhos, nus e descalços.” “Então temerão e se envergonharão os que tinham posto a sua esperança na Etiópia, e a sua glória no Egito. Os habitantes deste litoral dirão naquele dia: Eis aqueles em que pusemos a nossa esperança!… E como poderemos nós escapar?”",
+    "alegorico": "O profeta despojado, feito sinal vivo, anuncia Cristo despojado das suas vestes na cruz (Jo 19,23-24), sinal de que só Deus salva. Os gestos proféticos (como os de Jeremias e Ezequiel) mostram que a Palavra se encarna na vida do mensageiro.",
+    "moral": "O profeta paga com o próprio corpo a mensagem: durante três anos é sinal vivo, exposto ao ridículo. A lição é para Judá, tentado a confiar nas alianças com o Egito contra a Assíria: os apoios humanos falham. “Eis aqueles em que pusemos a nossa esperança!”. Quem confia em homens termina desamparado.",
+    "anagogico": "A nudez dos cativos recorda que saímos nus deste mundo; só a veste da graça permanece (Ap 3,18)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vai, desata de teus rins o saco.” “Isaías fê-lo assim, indo nu e descalço.” “Para ser um sinal e um prognóstico.” “Os que tinham posto a sua esperança na Etiópia.” “Eis aqueles em que pusemos a nossa esperança!” “E como poderemos nós escapar?”",
+    "meditatio_perguntas": [
+      "Em que “Egito” ponho a minha esperança?",
+      "A minha vida é sinal da Palavra que creio?",
+      "Aceito ser ridículo por fidelidade a Deus?"
+    ],
+    "oratio_guia": "Senhor, não quero pôr a minha esperança em apoios humanos que falham. Faz da minha vida um sinal da tua Palavra, mesmo quando isso me custa. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eis aqueles em que pusemos a nossa esperança!",
+      "ref": "Is 20,6"
+    }
+  },
+  "ancoras": {
+    "20:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Tomada de Azoto pelos assírios em 711 a.C.",
+        "origem": "ia"
+      }
+    },
+    "20:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Nu”: provavelmente só com a túnica interior, como o traje dos cativos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

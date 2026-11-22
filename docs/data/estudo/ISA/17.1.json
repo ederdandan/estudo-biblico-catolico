@@ -1,0 +1,57 @@
+{
+  "id": "ISA.17.1",
+  "livro": "ISA",
+  "titulo": "Contra Damasco e a Etiópia: o homem voltará os olhos para o Criador",
+  "secao": "Oráculos contra as nações",
+  "referencia": "Is 17,1–18,7",
+  "ini": {
+    "c": 17,
+    "v": 1
+  },
+  "fim": {
+    "c": 18,
+    "v": 7
+  },
+  "liturgia": {
+    "tema_central": "“Naquele dia voltará o homem os olhos para o seu Criador”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Oráculo contra Damasco. Eis que Damasco deixará de ser cidade, será apenas um montão de ruínas.” Também Efraim, aliado de Damasco, perderá a sua glória: restará pouco, “como quando se vareja uma oliveira, da qual somente ficam, nas pontas altas, duas ou três azeitonas”. Mas desse resto nasce a conversão: “Naquele dia voltará o homem os olhos para o seu Criador, seus olhos contemplarão o Santo de Israel. Não olhará mais para os altares que tinham feito as suas mãos.” A causa da ruína: “porque te esqueceste de Deus, teu Salvador, não te lembraste do teu poderoso defensor!” As plantações de delícias florescem, “mas a colheita é nula”. Os povos rugem como o mar, mas Deus os ameaça e fogem como pó ao vento: “À tarde, eis a consternação; antes da manhã, já não existirão.” Por fim, um oráculo à Etiópia, “terra do zumbido de asas”: Deus contempla em silêncio, “como o calor sereno do sol”, e um dia esse povo distante levará oferendas “ao monte Sião”.",
+    "alegorico": "O resto mínimo, como as poucas azeitonas no alto da oliveira, prefigura o pequeno resto fiel do qual nasce o Messias e a Igreja. O povo distante da Etiópia que leva oferendas a Sião anuncia o eunuco etíope batizado por Filipe (At 8,26-39), primícias dos povos de longe.",
+    "moral": "Quando tudo desmorona, o homem pode, finalmente, “voltar os olhos para o seu Criador”. A perda das falsas seguranças abre espaço para Deus. O diagnóstico é preciso: a ruína vem de ter esquecido “Deus, teu Salvador”. Pode-se cultivar “plantações de delícias”, mas sem Deus a colheita é nula.",
+    "anagogico": "Os povos distantes que sobem a Sião com oferendas anunciam a reunião de todas as nações na adoração final do Cordeiro."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Damasco deixará de ser cidade.” “Duas ou três azeitonas, nas pontas altas.” “Naquele dia voltará o homem os olhos para o seu Criador.” “Porque te esqueceste de Deus, teu Salvador.” “A colheita é nula.” “Repousarei e contemplarei do meu lugar.” “Serão levadas oferendas ao Senhor… ao monte Sião.”",
+    "meditatio_perguntas": [
+      "Que perdas me ajudaram a voltar os olhos para Deus?",
+      "Esqueço-me de Deus, meu Salvador, nas “plantações de delícias”?",
+      "Creio que Deus age mesmo quando parece só contemplar em silêncio?"
+    ],
+    "oratio_guia": "Senhor, meu Criador e Salvador, faz-me voltar os olhos para ti. Não permitas que eu te esqueça no meio das minhas plantações, e recolhe o pequeno resto de fé que há em mim. Amém.",
+    "contemplatio_foco": {
+      "texto": "Naquele dia voltará o homem os olhos para o seu Criador",
+      "ref": "Is 17,7"
+    }
+  },
+  "ancoras": {
+    "17:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Damasco foi tomada pelos assírios em 732 a.C.",
+        "origem": "ia"
+      }
+    },
+    "18:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Barcos de papiro do Nilo; a Etiópia (Cuch) dominava então o Egito.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

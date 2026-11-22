@@ -1,40 +1,57 @@
 {
   "id": "ISA.30.1",
   "livro": "ISA",
-  "titulo": "Na conversão e na calma está a vossa salvação",
+  "titulo": "A vossa fortaleza estará no repouso e na confiança",
   "secao": "Ais e promessas",
-  "referencia": "Is 30,1–31,9",
+  "referencia": "Is 30,1-33",
   "ini": {
     "c": 30,
     "v": 1
   },
   "fim": {
-    "c": 31,
-    "v": 9
+    "c": 30,
+    "v": 33
   },
   "liturgia": {
-    "tema_central": "Na conversão e na confiança está a vossa força",
+    "tema_central": "“A vossa fortaleza estará no repouso e na confiança”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Ai dos filhos rebeldes que fazem projetos sem Deus e descem ao Egito em busca de proteção: a sombra do Egito será a sua vergonha. Dizem aos videntes: não vejais; dizei-nos coisas agradáveis. Diz o Senhor: “Se vos converterdes e vos deixardes estar em calma, sereis salvos; a vossa força estará no repouso e na confiança”; mas não quisestes; preferistes fugir a cavalo. Contudo, o Senhor espera para ter piedade: os teus olhos verão o teu Mestre; ouvirás uma voz atrás de ti: “Este é o caminho, andai por ele”. Haverá chuva e fartura. No capítulo 31: ai dos que confiam em cavalos e carros; o Egito é homem, não Deus.",
-    "alegorico": "O Mestre que o povo verá com os seus olhos é Cristo, Mestre visível; a voz que indica o caminho é a do Espírito que guia a Igreja (Jo 16,13). Cristo é o “caminho” por onde andar (Jo 14,6).",
-    "moral": "A ansiedade busca “egitos” e cavalos; a fé encontra força no repouso e na confiança. Preferir pregadores que dizem “coisas agradáveis” é recusar a verdade. Deus espera pacientemente para ter misericórdia.",
-    "anagogico": "Os olhos que verão o Mestre anunciam a visão de Deus face a face, quando não haverá mais necessidade de instrução."
+    "literal": "“Ai de vós, filhos rebeldes, diz o Senhor, que formais projetos sem contar comigo, que estabeleceis alianças sem o meu espírito… que estais postos a caminho para descer ao Egito, e não consultastes a minha vontade.” A proteção do Faraó será vergonha: o Egito é “Raab inerte”. O profeta deve escrever a profecia como testemunho, “porque este povo é rebelde… Dizem aos videntes: Não vejais; e aos profetas: Não nos anuncieis a verdade, falai-nos de coisas agradáveis, profetizai ilusões… tirai de diante da nossa face o Santo de Israel.” A sua iniquidade será como muralha rachada que desaba de repente. “Porque o Senhor Deus, o Santo de Israel, diz assim: Se vos converterdes e vos deixardes estar em calma, sereis salvos; a vossa fortaleza estará no repouso e na confiança. Mas vós não quisestes.” Contudo, “o Senhor espera o momento em que vos fará mercê… Ditosos todos os que esperam nele.” “Logo que ouvir a voz do teu clamor, te responderá.” “Os teus ouvidos escutarão ressoar, atrás de ti, esta voz: Eis o caminho, anda por ele!” A luz do sol será sete vezes maior “no dia em que o Senhor ligar a ferida do seu povo”.",
+    "alegorico": "Os que pedem “coisas agradáveis” em vez da verdade são aqueles de quem Paulo fala: “virá tempo em que não suportarão a sã doutrina… e desviarão os ouvidos da verdade” (2Tm 4,3-4). A voz que diz “eis o caminho, anda por ele” é a de Cristo, o Caminho (Jo 14,6), e do Espírito que guia à verdade (Jo 16,13). O Senhor que “liga a ferida do seu povo” é o Bom Samaritano (Lc 10,34).",
+    "moral": "O texto denuncia dois males: planejar a vida “sem contar com Deus”, buscando seguranças humanas; e preferir profetas que agradam aos que dizem a verdade. O remédio é paradoxal: conversão, calma, confiança. A agitação de quem foge “sobre cavalos” não salva; o repouso confiante em Deus sim. E Deus espera, paciente, o momento de fazer misericórdia.",
+    "anagogico": "“A luz do sol será sete vezes maior”: a luz plena do dia em que Deus curar definitivamente as feridas do seu povo."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Ai dos filhos rebeldes, que formam projetos sem mim.” “Se vos converterdes e vos deixardes estar em calma, sereis salvos; a vossa fortaleza estará no repouso e na confiança.” “Este é o caminho, andai por ele.”",
+    "lectio_resumo": "“Que formais projetos sem contar comigo.” “Não nos anuncieis a verdade, falai-nos de coisas agradáveis.” “Se vos converterdes e vos deixardes estar em calma, sereis salvos.” “A vossa fortaleza estará no repouso e na confiança.” “O Senhor espera o momento em que vos fará mercê.” “Eis o caminho, anda por ele!”",
     "meditatio_perguntas": [
-      "Faço projetos sem consultar a Deus?",
-      "Quando estou ansioso, corro para os “cavalos”?",
-      "Escuto a voz que me diz: “Este é o caminho”?"
+      "Faço projetos sem contar com Deus?",
+      "Prefiro ouvir coisas agradáveis ou a verdade?",
+      "Encontro a minha força no repouso e na confiança?"
     ],
-    "oratio_guia": "Senhor, que esperas para ter piedade de mim, ensina-me a encontrar força no repouso e na confiança. Que eu ouça a tua voz: “Este é o caminho”, e ande por ele. Amém.",
+    "oratio_guia": "Senhor, perdoa-me os projetos feitos sem ti. Dá-me a força da calma e da confiança, e faz-me ouvir a tua voz: eis o caminho, anda por ele. Amém.",
     "contemplatio_foco": {
       "texto": "a vossa fortaleza estará no repouso e na confiança",
       "ref": "Is 30,15"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "30:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Raab: monstro mítico, nome poético do Egito (Sl 87,4).",
+        "origem": "ia"
+      }
+    },
+    "30:33": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Tofet: lugar no vale de Hinom onde se queimavam crianças; tornou-se imagem do inferno (Geena).",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }

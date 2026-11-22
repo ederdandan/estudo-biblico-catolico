@@ -1,38 +1,38 @@
 {
   "id": "ISA.11.1",
   "livro": "ISA",
-  "titulo": "O rebento de Jessé e as fontes da salvação",
+  "titulo": "O rebento de Jessé: o lobo habitará com o cordeiro",
   "secao": "O Livro do Emanuel",
-  "referencia": "Is 11,1–12,6",
+  "referencia": "Is 11,1-16",
   "ini": {
     "c": 11,
     "v": 1
   },
   "fim": {
-    "c": 12,
-    "v": 6
+    "c": 11,
+    "v": 16
   },
   "liturgia": {
-    "tema_central": "O Messias cheio do Espírito e a paz da nova criação",
+    "tema_central": "“Sairá uma vara do tronco de Jessé”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "“Sairá uma vara do tronco de Jessé, e um rebento brotará da sua raiz. Repousará sobre ele o Espírito do Senhor, espírito de sabedoria e de entendimento, de conselho e de fortaleza, de ciência e de piedade”, e o temor do Senhor o encherá. Julgará os pobres com justiça, ferirá o violento com a vara da sua boca. Então o lobo habitará com o cordeiro, o leopardo se deitará com o cabrito, uma criança os guiará; a terra estará cheia do conhecimento do Senhor. A raiz de Jessé será estandarte para os povos. No capítulo 12, o cântico dos salvos: “Tirareis com alegria águas das fontes da salvação”.",
-    "alegorico": "A tradição vê na “vara” (virga) Maria, a Virgem, e no rebento (flos) Cristo. A lista do Espírito, na Vulgata com sete nomes, deu origem à doutrina dos sete dons do Espírito Santo. As fontes da salvação são os sacramentos que brotam de Cristo.",
-    "moral": "O verdadeiro governante julga a favor dos pobres, com justiça e não pelas aparências. Os dons do Espírito, recebidos na Crisma, nos configuram ao Messias. A paz entre os inimigos começa no coração reconciliado.",
-    "anagogico": "O lobo e o cordeiro juntos, e a terra cheia do conhecimento de Deus, descrevem o paraíso restaurado da nova criação."
+    "literal": "“Sairá uma vara do tronco de Jessé, e um rebento brotará da sua raiz. Repousará sobre ele o Espírito do Senhor, espírito de sabedoria e de entendimento, espírito de conselho e de fortaleza, espírito de ciência e de piedade. E ele respirará o temor do Senhor.” Ele não julgará pelas aparências: “Julgará os pobres com justiça e com equidade os humildes da terra.” “A justiça será o seu cinto, a fé o talabarte dos seus rins.” Então: “O lobo habitará com o cordeiro; o leopardo deitar-se-á ao pé do cabrito; o novilho e o leão viverão juntos, e um menino pequeno os conduzirá… a criança de peito brincará sobre a toca da áspide… Não haverá dano nem destruição em todo o meu santo monte, porque a terra estará cheia da ciência do Senhor, como o fundo do mar das águas que o cobrem.” O rebento de Jessé será “estandarte dos povos”; o Senhor reunirá “os dispersos de Judá, dos quatro cantos da terra”, Efraim e Judá reconciliados, e haverá um caminho como no êxodo.",
+    "alegorico": "O rebento de Jessé é Cristo, filho de Davi, sobre quem o Espírito repousou no Jordão (Mt 3,16) e que diz: “o Espírito do Senhor está sobre mim” (Lc 4,18). Da lista da Vulgata (sabedoria, entendimento, conselho, fortaleza, ciência, piedade e temor) a Igreja tirou os sete dons do Espírito Santo, que Cristo comunica aos fiéis. A Virgem Maria é a “vara” (virga) da qual brota a flor (Santo Ambrósio). A paz entre o lobo e o cordeiro é o Reino messiânico.",
+    "moral": "O Messias governa pelo Espírito, não pelas aparências: escuta o coração, faz justiça aos pobres. A paz que ele traz reconcilia os inimigos naturais e restaura a criação ferida. O cristão recebe na Confirmação os dons desse mesmo Espírito, para viver com sabedoria, fortaleza e piedade. A paz começa onde a terra se enche do conhecimento de Deus.",
+    "anagogico": "“Não haverá dano nem destruição em todo o meu santo monte”: os novos céus e a nova terra, onde toda a criação será reconciliada (Rm 8,21; Ap 21)."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Sairá uma vara do tronco de Jessé.” “Repousará sobre ele o Espírito do Senhor, espírito de sabedoria e de entendimento, espírito de conselho e de fortaleza.” “O lobo habitará com o cordeiro.” “Tirareis com gosto águas das fontes da salvação.”",
+    "lectio_resumo": "“Sairá uma vara do tronco de Jessé.” “Repousará sobre ele o Espírito do Senhor.” “Espírito de sabedoria e de entendimento, espírito de conselho e de fortaleza, espírito de ciência e de piedade.” “Julgará os pobres com justiça.” “O lobo habitará com o cordeiro… e um menino pequeno os conduzirá.” “A terra estará cheia da ciência do Senhor.”",
     "meditatio_perguntas": [
-      "Qual dos dons do Espírito mais preciso pedir?",
-      "Que “lobo e cordeiro” dentro de mim precisam reconciliar-se?",
-      "Bebo com alegria das fontes da salvação?"
+      "Que dom do Espírito mais preciso hoje?",
+      "Julgo pelas aparências ou pelo coração?",
+      "Onde posso ser instrumento de reconciliação entre “lobos e cordeiros”?"
     ],
-    "oratio_guia": "Espírito do Senhor, que repousaste sobre o Rebento de Jessé, repousa também sobre mim com os teus dons. Faze-me instrumento de paz e dá-me beber com alegria das fontes da salvação. Amém.",
+    "oratio_guia": "Senhor Jesus, rebento de Jessé, sobre quem repousa o Espírito, derrama em mim os teus dons: sabedoria, entendimento, conselho, fortaleza, ciência, piedade e temor de Deus. Faz-me instrumento da tua paz. Amém.",
     "contemplatio_foco": {
-      "texto": "Repousará sobre ele o Espírito do Senhor, espírito de sabedoria e de entendimento",
-      "ref": "Is 11,2"
+      "texto": "Sairá uma vara do tronco de Jessé, e um rebento brotará da sua raiz",
+      "ref": "Is 11,1"
     }
   },
   "ancoras": {
@@ -40,7 +40,15 @@
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "O hebraico lista seis dons; a versão grega e a Vulgata acrescentam a “piedade”, chegando aos sete dons da tradição cristã.",
+        "texto": "O hebraico tem seis dons; a Septuaginta e a Vulgata distinguem “piedade” e “temor”, daí os sete dons do Espírito Santo.",
+        "origem": "ia"
+      }
+    },
+    "11:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em Rm 15,12.",
         "origem": "ia"
       }
     }

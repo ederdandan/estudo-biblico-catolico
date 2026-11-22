@@ -3,38 +3,55 @@
   "livro": "ISA",
   "titulo": "Contra o Egito: bendito o meu povo do Egito",
   "secao": "Oráculos contra as nações",
-  "referencia": "Is 19,1–20,6",
+  "referencia": "Is 19,1-25",
   "ini": {
     "c": 19,
     "v": 1
   },
   "fim": {
-    "c": 20,
-    "v": 6
+    "c": 19,
+    "v": 25
   },
   "liturgia": {
-    "tema_central": "Até o Egito e a Assíria serão povo de Deus",
+    "tema_central": "“Bem-aventurado seja o meu povo do Egito”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "O Senhor vem ao Egito sobre uma nuvem ligeira; os ídolos tremem; haverá guerra civil, o Nilo secará, os sábios de Faraó ficarão insensatos. Mas segue uma promessa surpreendente: naquele dia haverá um altar ao Senhor no meio do Egito; eles clamarão e Deus lhes enviará um salvador; o Senhor se dará a conhecer ao Egito, que o servirá. Haverá uma estrada do Egito à Assíria; ambos adorarão juntos. “Bendito o meu povo do Egito, a Assíria, obra das minhas mãos, e Israel, minha herança.” No capítulo 20, Isaías anda descalço e despido três anos, sinal do cativeiro do Egito e da Etiópia.",
-    "alegorico": "Os Padres viram na “nuvem ligeira” em que o Senhor entra no Egito a fuga de Jesus nos braços de Maria (Mt 2,13-15), e na conversão do Egito a florescência do monaquismo egípcio cristão.",
-    "moral": "Deus não tem inimigos definitivos: os opressores de ontem podem ser irmãos amanhã. A fé cristã é chamada a sonhar estradas de reconciliação entre povos inimigos.",
-    "anagogico": "A bênção sobre Egito, Assíria e Israel juntos anuncia a unidade dos povos na Jerusalém celeste."
+    "literal": "“Oráculo sobre o Egito. Eis que o Senhor, levado sobre uma nuvem veloz, entra no Egito: os ídolos do Egito comovem-se diante da sua face.” O Egito se dividirá em guerra civil, consultará em vão os seus ídolos e adivinhos, cairá nas mãos de um rei cruel. O Nilo secará; pescadores e tecelões ficarão desolados. “Os príncipes de Tanis são loucos… Onde estão agora os teus sábios?” “O Senhor difundiu no meio dele um espírito de vertigem.” Mas então vem uma reviravolta surpreendente: “Naquele dia haverá um altar do Senhor no meio da terra do Egito… quando clamarem ao Senhor, à vista daqueles que os atribulam, ele lhes enviará um salvador e um defensor que os livre. O Senhor será conhecido pelo Egito… O Senhor ferirá o Egito com uma chaga e curá-la-á, e eles voltar-se-ão para o Senhor.” Haverá uma estrada do Egito à Assíria, e os dois inimigos de Israel servirão juntos ao Senhor. “Naquele dia Israel unir-se-á, como terceiro, ao Egito e à Assíria, para ser uma bênção no meio da terra… Bem-aventurados sejam o meu povo do Egito, o Assírio, obra de minhas mãos, e Israel, minha herança!”",
+    "alegorico": "O “Senhor sobre uma nuvem veloz” que entra no Egito foi lido pelos Padres como figura de Cristo levado ao Egito nos braços de Maria (Mt 2,13-15), diante de quem caem os ídolos. O “salvador e defensor” enviado ao Egito é Cristo. A estrada entre Egito, Assíria e Israel, todos chamados “meu povo”, anuncia a Igreja universal, onde os antigos inimigos se tornam irmãos (Ef 2,14-16).",
+    "moral": "Um dos textos mais universais do AT: Deus chama “meu povo” aos opressores de Israel. O castigo é medicinal: “ferirá e curará”. O que derruba o Egito é a sua sabedoria orgulhosa e os seus ídolos; o que o salva é clamar ao Senhor. Nenhum povo está fora do alcance da misericórdia. O cristão é chamado a ser, como Israel, “uma bênção no meio da terra”.",
+    "anagogico": "A reconciliação dos inimigos ao redor do altar do Senhor anuncia a Jerusalém celeste, onde as nações caminharão à sua luz (Ap 21,24)."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Eis que o Senhor subirá sobre uma nuvem ligeira e entrará no Egito.” “Naquele dia haverá um altar do Senhor no meio do Egito.” “Bendito o meu povo do Egito, o Assírio, obra das minhas mãos, e Israel, minha herança!”",
+    "lectio_resumo": "“O Senhor, levado sobre uma nuvem veloz, entra no Egito.” “Onde estão agora os teus sábios?” “Haverá um altar do Senhor no meio da terra do Egito.” “Ele lhes enviará um salvador e um defensor.” “O Senhor ferirá o Egito com uma chaga e curá-la-á.” “Para ser uma bênção no meio da terra.” “Bem-aventurado seja o meu povo do Egito.”",
     "meditatio_perguntas": [
-      "Há algum “Egito” que considero excluído do amor de Deus?",
-      "Construo estradas entre inimigos?",
-      "Creio que Deus pode converter quem me oprimiu?"
+      "Creio que Deus pode chamar “meu povo” até os que considero inimigos?",
+      "Vejo as feridas como caminho para a cura?",
+      "Sou uma bênção no meio dos que me cercam?"
     ],
-    "oratio_guia": "Senhor de todos os povos, que abençoas o Egito e a Assíria com Israel, alarga o meu coração. Faze de mim construtor de estradas de reconciliação. Amém.",
+    "oratio_guia": "Senhor, que feres e curas e chamas teu povo aos que eram inimigos, faz-me instrumento de reconciliação e bênção no meio da terra. Amém.",
     "contemplatio_foco": {
-      "texto": "Bem-aventurados sejam o meu povo do Egito, o Assírio, obra de minhas mãos, e Israel, minha herança!",
+      "texto": "Bem-aventurados sejam o meu povo do Egito, o Assírio, obra de minhas mãos, e Israel, minha herança",
       "ref": "Is 19,25"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "19:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Cidade do Sol”: Heliópolis. Ali houve mais tarde um templo judaico (Leontópolis).",
+        "origem": "ia"
+      }
+    },
+    "19:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Tradição dos ídolos que caem à passagem do Menino Jesus no Egito (evangelhos apócrifos).",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }

@@ -1,0 +1,57 @@
+{
+  "id": "ISA.37.1",
+  "livro": "ISA",
+  "titulo": "A oração de Ezequias: só tu és o Deus de todos os reinos",
+  "secao": "Ezequias e Isaías",
+  "referencia": "Is 37,1-38",
+  "ini": {
+    "c": 37,
+    "v": 1
+  },
+  "fim": {
+    "c": 37,
+    "v": 38
+  },
+  "liturgia": {
+    "tema_central": "“Só tu és o Deus de todos os reinos da terra”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ezequias rasga as vestes, veste-se de saco e entra na casa do Senhor; manda pedir a Isaías: “Este dia é um dia de tribulação… os filhos estão prestes a nascer, porém não há força na mãe para os dar à luz… Eleva, pois, a tua oração pelos restos que ainda subsistem.” Isaías responde: “Não temas as palavras que ouviste.” Senaquerib envia nova carta ameaçadora. “Ezequias tomou a carta da mão dos embaixadores e leu-a; depois subiu à casa do Senhor e estendeu-a diante do Senhor.” E rezou: “Senhor dos exércitos, Deus de Israel, que estás sentado sobre os querubins, só tu és o Deus de todos os reinos da terra… Inclina, Senhor, o teu ouvido e escuta; abre, Senhor, os teus olhos e vê… Agora, Senhor nosso Deus, salva-nos da sua mão, e conheçam todos os reinos da terra que só tu és o Senhor.” Isaías transmite a resposta: “Ela te despreza e te escarnece, a virgem, filha de Sião… Eu te porei uma argola no nariz… O que ficar salvo da casa de Judá lançará raízes para baixo, e produzirá frutos para cima… Protegerei esta cidade para a salvar, por causa de mim e por causa de Davi meu servo.” “Saiu o anjo do Senhor e feriu cento e oitenta e cinco mil homens no campo dos Assírios.” Senaquerib volta a Nínive e é morto pelos próprios filhos.",
+    "alegorico": "A libertação de Jerusalém “por causa de Davi meu servo” anuncia a salvação dada por causa de Cristo, Filho de Davi. O resto que “lança raízes para baixo e produz frutos para cima” é a Igreja nascida do pequeno resto fiel. A “virgem, filha de Sião” que escarnece do inimigo foi vista como figura de Maria, que esmaga a cabeça da serpente.",
+    "moral": "Ezequias ensina o que fazer com as ameaças: “estendê-las diante do Senhor”. Levar a carta, o problema, a angústia e abri-la diante de Deus. A sua oração não pede só a salvação, mas a glória de Deus: “conheçam todos os reinos que só tu és o Senhor”. E procura o profeta, pede intercessão. Deus responde quando o homem reconhece a própria fraqueza (“não há força na mãe”).",
+    "anagogico": "A vitória súbita do anjo, “quando surgiu a manhã”, anuncia a manhã da Páscoa, em que Deus vence o inimigo mais poderoso, a morte."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Os filhos estão prestes a nascer, porém não há força na mãe.” “Eleva a tua oração pelos restos.” “Não temas as palavras que ouviste.” “Estendeu-a diante do Senhor.” “Só tu és o Deus de todos os reinos da terra.” “Inclina, Senhor, o teu ouvido e escuta.” “Lançará raízes para baixo, e produzirá frutos para cima.” “Protegerei esta cidade.”",
+    "meditatio_perguntas": [
+      "Que “carta” ameaçadora preciso estender hoje diante do Senhor?",
+      "Na minha oração busco também a glória de Deus?",
+      "Peço a intercessão dos outros nas minhas tribulações?"
+    ],
+    "oratio_guia": "Senhor dos exércitos, só tu és Deus de todos os reinos. Estendo diante de ti as minhas angústias: inclina o teu ouvido e vê. Salva-me, para que todos conheçam que só tu és o Senhor. Amém.",
+    "contemplatio_foco": {
+      "texto": "só tu és o Deus de todos os reinos da terra",
+      "ref": "Is 37,16"
+    }
+  },
+  "ancoras": {
+    "37:36": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Heródoto fala de uma praga que atingiu o exército de Senaquerib.",
+        "origem": "ia"
+      }
+    },
+    "37:38": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Senaquerib foi assassinado em 681 a.C. Paralelo em 2Rs 19.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

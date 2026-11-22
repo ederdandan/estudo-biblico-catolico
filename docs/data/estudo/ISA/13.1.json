@@ -1,40 +1,57 @@
 {
   "id": "ISA.13.1",
   "livro": "ISA",
-  "titulo": "Contra Babilônia: como caíste do céu, astro brilhante",
+  "titulo": "O dia do Senhor contra Babilônia",
   "secao": "Oráculos contra as nações",
-  "referencia": "Is 13,1–14,32",
+  "referencia": "Is 13,1-22",
   "ini": {
     "c": 13,
     "v": 1
   },
   "fim": {
-    "c": 14,
-    "v": 32
+    "c": 13,
+    "v": 22
   },
   "liturgia": {
-    "tema_central": "A queda da soberba: como caíste, astro brilhante",
+    "tema_central": "“Eis que vem o dia do Senhor” contra Babilônia",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Oráculo sobre Babilônia: o Senhor convoca os seus guerreiros; vem o dia do Senhor, cruel, com furor; as estrelas não darão a sua luz. Babilônia, glória dos reinos, será como Sodoma; nela habitarão chacais. O Senhor terá compaixão de Jacó e o fará repousar. Israel entoará uma sátira contra o rei de Babilônia: o opressor acabou; a terra descansa; o abismo se agita para recebê-lo. “Como caíste do céu, ó astro brilhante, filho da aurora!” Tu dizias: subirei ao céu, porei o meu trono acima das estrelas de Deus, serei semelhante ao Altíssimo; e foste precipitado no abismo. Seguem oráculos contra a Assíria e a Filisteia.",
-    "alegorico": "Os Padres (Orígenes, Tertuliano) aplicaram a queda do “astro da manhã” (Lúcifer, na Vulgata) à queda de Satanás, por soberba; Jesus diz: “Vi Satanás cair do céu como um raio” (Lc 10,18).",
-    "moral": "A raiz de todo pecado é querer “ser semelhante ao Altíssimo” sem Deus. Quanto maior a soberba, maior a queda. Impérios e pessoas que se divinizam acabam no pó.",
-    "anagogico": "A queda de Babilônia anuncia a queda final de todo poder hostil a Deus (Ap 18) e o repouso do povo de Deus."
+    "literal": "“Oráculo sobre Babilônia, revelado a Isaías, filho de Amós.” O Senhor convoca os seus exércitos: “Vozearia de gente sobre os montes… É o Senhor dos exércitos que passa revista às tropas para a batalha. Vêm de longínquo país… o Senhor e os instrumentos do seu furor.” “Soltai gritos, porque o dia do Senhor está perto: virá do Onipotente como uma assolação.” As mãos perdem o vigor, os corações desanimam, “torcer-se-ão como a mulher que está de parto”. “Eis que vem o dia do Senhor, dia cruel, cheio de indignação… As estrelas do céu, as suas constelações não espalharão a sua luz; cobrir-se-á de trevas o sol.” “Porei fim à insolência dos soberbos, humilharei a arrogância dos opressores.” Os medos virão sem piedade. “Então Babilônia, gloriosa entre os reinos, orgulho dos Caldeus, ficará destruída, como o Senhor destruiu Sodoma e Gomorra. Nunca mais será habitada.” Só feras, mochos e chacais habitarão as suas ruínas.",
+    "alegorico": "A linguagem cósmica do “dia do Senhor” (sol escurecido, estrelas que não brilham) é retomada por Jesus para falar do fim dos tempos e da sua vinda (Mt 24,29). Babilônia torna-se no Apocalipse o símbolo de todo poder orgulhoso que se opõe a Deus: “Caiu, caiu a grande Babilônia!” (Ap 18,2).",
+    "moral": "Nenhum império é eterno. Babilônia, “glória dos reinos”, terminou em ruínas habitadas por chacais. O orgulho e a opressão atraem a sua própria ruína. O “dia do Senhor” é anunciado não para aterrorizar, mas para recordar que Deus é o Senhor da história e que a arrogância dos opressores terá fim.",
+    "anagogico": "O dia do Senhor, em que “a insolência dos soberbos” terá fim, é o juízo final, que para os humildes será dia de libertação."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Como caíste do céu, ó astro brilhante, filho da aurora?” “Dizias no teu coração: Subirei ao céu… serei semelhante ao Altíssimo.” “E foste precipitado no inferno.” “O Senhor terá compaixão de Jacó.”",
+    "lectio_resumo": "“É o Senhor dos exércitos que passa revista às tropas.” “O dia do Senhor está perto.” “Torcer-se-ão como a mulher que está de parto.” “Cobrir-se-á de trevas o sol.” “Porei fim à insolência dos soberbos, humilharei a arrogância dos opressores.” “Babilônia, gloriosa entre os reinos… ficará destruída.”",
     "meditatio_perguntas": [
-      "Onde, em mim, quero “ser como Deus” sem Deus?",
-      "Que trono ergui para mim mesmo?",
-      "Reconheço que a humildade é o caminho da exaltação?"
+      "Em que “Babilônia” deposito a minha segurança?",
+      "Vivo consciente de que a história caminha para o dia do Senhor?",
+      "Há em mim arrogância que precisa ser humilhada?"
     ],
-    "oratio_guia": "Senhor, Altíssimo, livra-me da soberba que derrubou o astro da manhã. Dá-me a humildade de Maria e o repouso que dás ao teu povo. Amém.",
+    "oratio_guia": "Senhor da história, que pões fim à insolência dos soberbos, livra-me do orgulho de Babilônia. Que o teu dia me encontre humilde e vigilante. Amém.",
     "contemplatio_foco": {
-      "texto": "Como caíste do céu, ó astro brilhante, filho da aurora?",
-      "ref": "Is 14,12"
+      "texto": "porei fim à insolência dos soberbos, humilharei a arrogância dos opressores",
+      "ref": "Is 13,12"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "13:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os medos, aliados dos persas, conquistaram Babilônia em 539 a.C.",
+        "origem": "ia"
+      }
+    },
+    "13:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Mt 24,29; Ap 6,12-13.",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }

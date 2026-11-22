@@ -1,0 +1,57 @@
+{
+  "id": "ISA.31.1",
+  "livro": "ISA",
+  "titulo": "O Egito é um homem, e não um Deus",
+  "secao": "Ais e promessas",
+  "referencia": "Is 31,1-9",
+  "ini": {
+    "c": 31,
+    "v": 1
+  },
+  "fim": {
+    "c": 31,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "“O Egito é um homem, e não um Deus”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Ai dos que descem ao Egito a buscar socorro, esperando nos seus cavalos, tendo confiança nos seus carros, porque são muitos, e nos cavaleiros, porque são valentes, em vez de lançarem os olhos para o Santo de Israel e buscarem o Senhor!” “O Egito é um homem, e não um Deus; os seus cavalos são carne, e não espírito. Quando o Senhor estender a sua mão, cambaleará o auxiliador, cairá o auxiliado.” Deus, como um leão que não se assusta com os pastores, descerá a combater sobre o monte Sião. “Como as aves que voam em volta do seu ninho, assim protegerá Jerusalém o Senhor dos exércitos; protegerá e livrará, preservará e salvará. Convertei-vos, filhos de Israel, àquele de quem vos tínheis afastado.” Os ídolos serão lançados fora. A Assíria cairá, “mas não da espada dum homem”. Assim disse “o Senhor, que tem o seu fogo em Sião, e a sua fornalha em Jerusalém”.",
+    "alegorico": "O Deus que protege Jerusalém como as aves o seu ninho revela-se em Jesus: “Jerusalém… quantas vezes quis eu ajuntar os teus filhos, como a galinha recolhe os seus pintainhos debaixo das asas” (Mt 23,37). A espada “não de homem” que derrota o inimigo é a vitória de Deus, cumprida na cruz.",
+    "moral": "Uma distinção essencial: “o Egito é um homem, e não um Deus; os seus cavalos são carne, e não espírito”. Toda segurança humana tem limites. Confiar nelas em vez de Deus é idolatria. E Deus não se cansa de chamar: “convertei-vos àquele de quem vos tínheis afastado”. Ele protege como a mãe-pássaro que voa sobre o ninho.",
+    "anagogico": "O Senhor que guarda Jerusalém como as aves o ninho conduzirá os seus à cidade onde não haverá mais ameaças."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ai dos que descem ao Egito a buscar socorro.” “Em vez de lançarem os olhos para o Santo de Israel.” “O Egito é um homem, e não um Deus; os seus cavalos são carne, e não espírito.” “Como as aves que voam em volta do seu ninho, assim protegerá Jerusalém o Senhor.” “Convertei-vos… àquele de quem vos tínheis afastado.”",
+    "meditatio_perguntas": [
+      "Em que “cavalos” confio mais que em Deus?",
+      "Lembro que os apoios humanos são “carne, e não espírito”?",
+      "Deixo-me proteger como num ninho?"
+    ],
+    "oratio_guia": "Senhor dos exércitos, que proteges Jerusalém como as aves o seu ninho, faz-me lançar os olhos para ti e não para os cavalos do Egito. Converte-me a ti, de quem me afastei. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Egito é um homem, e não um Deus; os seus cavalos são carne, e não espírito",
+      "ref": "Is 31,3"
+    }
+  },
+  "ancoras": {
+    "31:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Contexto: Ezequias buscava aliança com o Egito contra Senaquerib (c. 703-701 a.C.).",
+        "origem": "ia"
+      }
+    },
+    "31:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cumprido em 701 a.C. (Is 37,36).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

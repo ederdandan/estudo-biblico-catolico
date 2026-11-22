@@ -1,0 +1,57 @@
+{
+  "id": "ISA.35.1",
+  "livro": "ISA",
+  "titulo": "O deserto se alegrará: Deus mesmo virá e vos salvará",
+  "secao": "Ais e promessas",
+  "referencia": "Is 35,1-10",
+  "ini": {
+    "c": 35,
+    "v": 1
+  },
+  "fim": {
+    "c": 35,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "“Deus mesmo virá, e vos salvará”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“O deserto e a terra árida se alegrarão, e a solidão exultará e florescerá como um lírio. Florescerá exuberantemente, rejubilará… os seus habitantes verão a glória do Senhor, a magnificência do nosso Deus. Confortai as mãos frouxas, robustecei os joelhos débeis. Dizei aos pusilânimes: Tomai ânimo, não temais: Eis o vosso Deus… Deus mesmo virá, e vos salvará! Então se abrirão os olhos dos cegos, e se desimpedirão os ouvidos dos surdos. Então saltará o coxo como um veado, e desatar-se-á alegremente a língua dos mudos. Rebentarão mananciais de águas no deserto.” “Haverá ali uma vereda, um caminho, que se chamará o caminho santo… de sorte que até os apoucados andem por ele sem se perderem.” “Os remidos do Senhor por ele voltarão e virão a Sião, cantando os seus louvores; uma alegria eterna coroará a sua cabeça; serão repletos de gozo e alegria, e deles fugirão a dor e o gemido.”",
+    "alegorico": "Jesus responde aos discípulos de João Batista citando este texto: “os cegos veem, os coxos andam… os surdos ouvem” (Mt 11,4-5): “Deus mesmo veio” em Cristo. Os milagres de cura são sinais de que o Reino chegou. Hebreus retoma: “levantai as mãos frouxas e os joelhos débeis” (Hb 12,12). O “caminho santo” é Cristo e o caminho da Igreja.",
+    "moral": "Uma palavra de coragem para os desanimados: “tomai ânimo, não temais”. A missão de quem crê é fortalecer as mãos cansadas e os joelhos vacilantes dos outros. E a promessa é que Deus vem pessoalmente para salvar, curar, abrir caminho até para os mais fracos (“até os apoucados”). O deserto da vida pode florescer.",
+    "anagogico": "“Uma alegria eterna coroará a sua cabeça… deles fugirão a dor e o gemido”: a entrada dos redimidos na Sião celeste."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O deserto e a terra árida se alegrarão.” “Confortai as mãos frouxas.” “Dizei aos pusilânimes: Tomai ânimo, não temais.” “Deus mesmo virá, e vos salvará!” “Então se abrirão os olhos dos cegos.” “Que se chamará o caminho santo.” “Uma alegria eterna coroará a sua cabeça.”",
+    "meditatio_perguntas": [
+      "Que “deserto” em mim espera florescer?",
+      "A quem posso hoje dizer “tomai ânimo, não temais”?",
+      "Reconheço em Jesus o “Deus que veio salvar”?"
+    ],
+    "oratio_guia": "Senhor, que vieste em pessoa para nos salvar, abre os meus olhos, desata a minha língua, fortalece os meus joelhos. Faz florescer o meu deserto e conduz-me pelo caminho santo até a alegria eterna. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus mesmo virá, e vos salvará!",
+      "ref": "Is 35,4"
+    }
+  },
+  "ancoras": {
+    "35:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Mt 11,5; Lc 7,22.",
+        "origem": "ia"
+      }
+    },
+    "35:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em Hb 12,12. Leitura do Advento.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

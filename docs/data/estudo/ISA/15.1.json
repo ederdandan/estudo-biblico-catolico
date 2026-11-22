@@ -1,40 +1,57 @@
 {
   "id": "ISA.15.1",
   "livro": "ISA",
-  "titulo": "Contra Moab, Damasco e a Etiópia",
+  "titulo": "O lamento sobre Moab",
   "secao": "Oráculos contra as nações",
-  "referencia": "Is 15,1–18,7",
+  "referencia": "Is 15,1–16,14",
   "ini": {
     "c": 15,
     "v": 1
   },
   "fim": {
-    "c": 18,
-    "v": 7
+    "c": 16,
+    "v": 14
   },
   "liturgia": {
-    "tema_central": "O lamento pelas nações e o trono firmado na misericórdia",
+    "tema_central": "O lamento sobre Moab: “o meu coração geme por Moab”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "O profeta chora a ruína de Moab: as cidades destruídas de noite, os fugitivos clamando; “o meu coração geme por Moab”. Moab é convidado a buscar refúgio em Sião, onde “o trono será firmado na misericórdia” e um juiz justo se sentará na tenda de Davi; mas o orgulho de Moab o impede. Damasco será um montão de ruínas; Efraim ficará como as poucas azeitonas que restam na oliveira. Naquele dia o homem olhará para o seu Criador e não para os altares que fabricou. Por fim, mensageiros da Etiópia: no fim, também eles trarão ofertas ao Senhor em Sião.",
-    "alegorico": "O trono firmado na misericórdia, na tenda de Davi, é o trono de Cristo, rei misericordioso. As ofertas da Etiópia anunciam o eunuco etíope batizado por Filipe (At 8,27) e a conversão das nações.",
-    "moral": "O profeta chora pelos inimigos de Israel: a compaixão de Deus não tem fronteiras. O orgulho impede de aceitar o refúgio oferecido. Na provação, o homem é chamado a olhar para o Criador e não para as obras das suas mãos.",
-    "anagogico": "Os povos distantes que trazem dons a Sião anunciam a peregrinação final das nações à cidade de Deus."
+    "literal": "“Oráculo contra Moab. Sim, atacada de noite, Ar-Moab foi destruída!” O profeta descreve o luto: cabeças rapadas, barbas cortadas, sacos nas ruas, “sobre os seus telhados e nas suas praças somente se ouvem lamentos”. Os fugitivos sobem chorando pelas colinas; as águas de Nimrim secaram. Moab pede refúgio a Judá: “Enviai cordeiros ao soberano do país… Aconselha-nos, decide como árbitro, põe, como de noite, a tua sombra em pleno dia sobre nós; esconde os fugitivos… sê para eles um refúgio contra o devastador.” E vem uma promessa: “Será estabelecido o trono pela misericórdia, e sobre ele se sentará em verdade, no tabernáculo de Davi, um juiz amigo do direito e zeloso da justiça.” Mas a soberba de Moab é grande. O profeta chora com Moab: “banhar-vos-ei com as minhas lágrimas… A alegria e o regozijo desapareceram dos campos… Por isso estremeço por Moab como uma harpa, e o meu coração geme por Kir-Hares.” Moab rezará nos seus santuários, “mas nada alcançará”.",
+    "alegorico": "O trono fundado na misericórdia, no tabernáculo de Davi, é o de Cristo, filho de Davi, “juiz amigo do direito”. Moab, povo estrangeiro, que pede refúgio em Sião, anuncia a acolhida dos pagãos na Igreja (cf. Rute, a moabita, antepassada de Jesus). O profeta que chora sobre o inimigo antecipa Jesus que chora sobre Jerusalém (Lc 19,41).",
+    "moral": "Surpreende a compaixão do profeta por um povo inimigo: “o meu coração geme por Moab”. Anunciar o juízo não exclui chorar pelos que sofrem. E há um apelo: acolher os fugitivos, esconder os perseguidos, ser sombra para os que fogem do devastador. É a ética do asilo, muito atual. A soberba, porém, fecha o caminho da salvação.",
+    "anagogico": "O trono da misericórdia em que se senta o Juiz justo é o tribunal final, onde a misericórdia e a verdade se encontram."
   },
   "lectio_divina": {
-    "lectio_resumo": "“O meu coração dará gritos sobre Moab.” “Será estabelecido o trono pela misericórdia.” “Naquele dia o homem olhará para o seu Criador.” “Naquele tempo será oferecido um presente ao Senhor dos exércitos.”",
+    "lectio_resumo": "“Somente se ouvem lamentos acompanhados de lágrimas.” “Esconde os fugitivos, não entregues os que andam errantes.” “Sê para eles um refúgio contra o devastador.” “Será estabelecido o trono pela misericórdia.” “Temos ouvido falar da soberba de Moab.” “O meu coração geme por Kir-Hares.”",
     "meditatio_perguntas": [
-      "Choro também pelo sofrimento dos que não são “meus”?",
-      "O orgulho me impede de buscar refúgio em Deus?",
-      "Para onde olho na hora da provação?"
+      "Sinto compaixão até pelos que não são “dos meus”?",
+      "Sou refúgio para os fugitivos e perseguidos?",
+      "Que soberba me impede de pedir ajuda?"
     ],
-    "oratio_guia": "Senhor, cujo trono é firmado na misericórdia, dá-me um coração que chora por todos. Que na provação eu olhe para ti, meu Criador. Amém.",
+    "oratio_guia": "Senhor, que estabeleceste o trono na misericórdia, dá-me um coração que chora com os que sofrem, mesmo estranhos, e que acolhe os fugitivos. Livra-me da soberba. Amém.",
     "contemplatio_foco": {
       "texto": "Será estabelecido o trono pela misericórdia",
       "ref": "Is 16,5"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "16:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Moab pagava tributo em cordeiros (2Rs 3,4).",
+        "origem": "ia"
+      }
+    },
+    "16:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O mesmo lamento aparece em Jr 48,29-38.",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }

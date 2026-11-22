@@ -40,11 +40,25 @@
   },
   {
    "id": "ISA.3.1",
-   "titulo": "Juízo sobre Jerusalém e o germe do Senhor",
+   "titulo": "O Senhor tira a Jerusalém todo o apoio",
    "secao": "O Livro do Emanuel",
-   "referencia": "Is 3,1–4,6",
+   "referencia": "Is 3,1-26",
    "ini": {
     "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 26
+   }
+  },
+  {
+   "id": "ISA.4.1",
+   "titulo": "O germe do Senhor e a nuvem sobre Sião",
+   "secao": "O Livro do Emanuel",
+   "referencia": "Is 4,1-6",
+   "ini": {
+    "c": 4,
     "v": 1
    },
    "fim": {
@@ -138,11 +152,25 @@
   },
   {
    "id": "ISA.11.1",
-   "titulo": "O rebento de Jessé e as fontes da salvação",
+   "titulo": "O rebento de Jessé: o lobo habitará com o cordeiro",
    "secao": "O Livro do Emanuel",
-   "referencia": "Is 11,1–12,6",
+   "referencia": "Is 11,1-16",
    "ini": {
     "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 16
+   }
+  },
+  {
+   "id": "ISA.12.1",
+   "titulo": "Tirareis com gosto águas das fontes da salvação",
+   "secao": "O Livro do Emanuel",
+   "referencia": "Is 12,1-6",
+   "ini": {
+    "c": 12,
     "v": 1
    },
    "fim": {
@@ -152,11 +180,25 @@
   },
   {
    "id": "ISA.13.1",
-   "titulo": "Contra Babilônia: como caíste do céu, astro brilhante",
+   "titulo": "O dia do Senhor contra Babilônia",
    "secao": "Oráculos contra as nações",
-   "referencia": "Is 13,1–14,32",
+   "referencia": "Is 13,1-22",
    "ini": {
     "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 22
+   }
+  },
+  {
+   "id": "ISA.14.1",
+   "titulo": "Como caíste do céu, ó astro brilhante",
+   "secao": "Oráculos contra as nações",
+   "referencia": "Is 14,1-32",
+   "ini": {
+    "c": 14,
     "v": 1
    },
    "fim": {
@@ -166,11 +208,25 @@
   },
   {
    "id": "ISA.15.1",
-   "titulo": "Contra Moab, Damasco e a Etiópia",
+   "titulo": "O lamento sobre Moab",
    "secao": "Oráculos contra as nações",
-   "referencia": "Is 15,1–18,7",
+   "referencia": "Is 15,1–16,14",
    "ini": {
     "c": 15,
+    "v": 1
+   },
+   "fim": {
+    "c": 16,
+    "v": 14
+   }
+  },
+  {
+   "id": "ISA.17.1",
+   "titulo": "Contra Damasco e a Etiópia: o homem voltará os olhos para o Criador",
+   "secao": "Oráculos contra as nações",
+   "referencia": "Is 17,1–18,7",
+   "ini": {
+    "c": 17,
     "v": 1
    },
    "fim": {
@@ -182,9 +238,23 @@
    "id": "ISA.19.1",
    "titulo": "Contra o Egito: bendito o meu povo do Egito",
    "secao": "Oráculos contra as nações",
-   "referencia": "Is 19,1–20,6",
+   "referencia": "Is 19,1-25",
    "ini": {
     "c": 19,
+    "v": 1
+   },
+   "fim": {
+    "c": 19,
+    "v": 25
+   }
+  },
+  {
+   "id": "ISA.20.1",
+   "titulo": "Isaías anda despido: sinal contra o Egito",
+   "secao": "Oráculos contra as nações",
+   "referencia": "Is 20,1-6",
+   "ini": {
+    "c": 20,
     "v": 1
    },
    "fim": {
@@ -194,11 +264,39 @@
   },
   {
    "id": "ISA.21.1",
-   "titulo": "O vale da Visão, a chave de Davi e Tiro",
+   "titulo": "Sentinela, que houve esta noite?",
    "secao": "Oráculos contra as nações",
-   "referencia": "Is 21,1–23,18",
+   "referencia": "Is 21,1-17",
    "ini": {
     "c": 21,
+    "v": 1
+   },
+   "fim": {
+    "c": 21,
+    "v": 17
+   }
+  },
+  {
+   "id": "ISA.22.1",
+   "titulo": "O vale da Visão e a chave da casa de Davi",
+   "secao": "Oráculos contra as nações",
+   "referencia": "Is 22,1-25",
+   "ini": {
+    "c": 22,
+    "v": 1
+   },
+   "fim": {
+    "c": 22,
+    "v": 25
+   }
+  },
+  {
+   "id": "ISA.23.1",
+   "titulo": "Contra Tiro: o Senhor derruba a soberba de toda a glória",
+   "secao": "Oráculos contra as nações",
+   "referencia": "Is 23,1-18",
+   "ini": {
+    "c": 23,
     "v": 1
    },
    "fim": {
@@ -236,11 +334,25 @@
   },
   {
    "id": "ISA.26.1",
-   "titulo": "Os teus mortos viverão; a vinha guardada",
+   "titulo": "Os teus mortos viverão",
    "secao": "O Apocalipse de Isaías",
-   "referencia": "Is 26,1–27,13",
+   "referencia": "Is 26,1-21",
    "ini": {
     "c": 26,
+    "v": 1
+   },
+   "fim": {
+    "c": 26,
+    "v": 21
+   }
+  },
+  {
+   "id": "ISA.27.1",
+   "titulo": "A vinha guardada pelo Senhor",
+   "secao": "O Apocalipse de Isaías",
+   "referencia": "Is 27,1-13",
+   "ini": {
+    "c": 27,
     "v": 1
    },
    "fim": {
@@ -278,11 +390,25 @@
   },
   {
    "id": "ISA.30.1",
-   "titulo": "Na conversão e na calma está a vossa salvação",
+   "titulo": "A vossa fortaleza estará no repouso e na confiança",
    "secao": "Ais e promessas",
-   "referencia": "Is 30,1–31,9",
+   "referencia": "Is 30,1-33",
    "ini": {
     "c": 30,
+    "v": 1
+   },
+   "fim": {
+    "c": 30,
+    "v": 33
+   }
+  },
+  {
+   "id": "ISA.31.1",
+   "titulo": "O Egito é um homem, e não um Deus",
+   "secao": "Ais e promessas",
+   "referencia": "Is 31,1-9",
+   "ini": {
+    "c": 31,
     "v": 1
    },
    "fim": {
@@ -294,9 +420,23 @@
    "id": "ISA.32.1",
    "titulo": "A paz será obra da justiça",
    "secao": "Ais e promessas",
-   "referencia": "Is 32,1–33,24",
+   "referencia": "Is 32,1-20",
    "ini": {
     "c": 32,
+    "v": 1
+   },
+   "fim": {
+    "c": 32,
+    "v": 20
+   }
+  },
+  {
+   "id": "ISA.33.1",
+   "titulo": "Os teus olhos verão o rei no seu esplendor",
+   "secao": "Ais e promessas",
+   "referencia": "Is 33,1-24",
+   "ini": {
+    "c": 33,
     "v": 1
    },
    "fim": {
@@ -306,11 +446,25 @@
   },
   {
    "id": "ISA.34.1",
-   "titulo": "O deserto se alegrará: Deus mesmo virá e vos salvará",
+   "titulo": "O juízo sobre Edom",
    "secao": "Ais e promessas",
-   "referencia": "Is 34,1–35,10",
+   "referencia": "Is 34,1-17",
    "ini": {
     "c": 34,
+    "v": 1
+   },
+   "fim": {
+    "c": 34,
+    "v": 17
+   }
+  },
+  {
+   "id": "ISA.35.1",
+   "titulo": "O deserto se alegrará: Deus mesmo virá e vos salvará",
+   "secao": "Ais e promessas",
+   "referencia": "Is 35,1-10",
+   "ini": {
+    "c": 35,
     "v": 1
    },
    "fim": {
@@ -320,11 +474,25 @@
   },
   {
    "id": "ISA.36.1",
-   "titulo": "Senaquerib cerca Jerusalém: a oração de Ezequias",
+   "titulo": "Rabsaces diante de Jerusalém: que confiança é essa?",
    "secao": "Ezequias e Isaías",
-   "referencia": "Is 36,1–37,38",
+   "referencia": "Is 36,1-22",
    "ini": {
     "c": 36,
+    "v": 1
+   },
+   "fim": {
+    "c": 36,
+    "v": 22
+   }
+  },
+  {
+   "id": "ISA.37.1",
+   "titulo": "A oração de Ezequias: só tu és o Deus de todos os reinos",
+   "secao": "Ezequias e Isaías",
+   "referencia": "Is 37,1-38",
+   "ini": {
+    "c": 37,
     "v": 1
    },
    "fim": {
@@ -336,9 +504,23 @@
    "id": "ISA.38.1",
    "titulo": "A doença de Ezequias e o seu cântico",
    "secao": "Ezequias e Isaías",
-   "referencia": "Is 38,1–39,8",
+   "referencia": "Is 38,1-22",
    "ini": {
     "c": 38,
+    "v": 1
+   },
+   "fim": {
+    "c": 38,
+    "v": 22
+   }
+  },
+  {
+   "id": "ISA.39.1",
+   "titulo": "Os enviados da Babilônia",
+   "secao": "Ezequias e Isaías",
+   "referencia": "Is 39,1-8",
+   "ini": {
+    "c": 39,
     "v": 1
    },
    "fim": {
@@ -432,11 +614,39 @@
   },
   {
    "id": "ISA.46.1",
-   "titulo": "Os ídolos são carregados; eu vos carrego",
+   "titulo": "Os ídolos são carregados; eu vos carregarei",
    "secao": "O Livro da Consolação",
-   "referencia": "Is 46,1–48,22",
+   "referencia": "Is 46,1-13",
    "ini": {
     "c": 46,
+    "v": 1
+   },
+   "fim": {
+    "c": 46,
+    "v": 13
+   }
+  },
+  {
+   "id": "ISA.47.1",
+   "titulo": "A queda da virgem filha de Babilônia",
+   "secao": "O Livro da Consolação",
+   "referencia": "Is 47,1-15",
+   "ini": {
+    "c": 47,
+    "v": 1
+   },
+   "fim": {
+    "c": 47,
+    "v": 15
+   }
+  },
+  {
+   "id": "ISA.48.1",
+   "titulo": "Oxalá tivesses atendido aos meus mandamentos",
+   "secao": "O Livro da Consolação",
+   "referencia": "Is 48,1-22",
+   "ini": {
+    "c": 48,
     "v": 1
    },
    "fim": {
@@ -474,11 +684,25 @@
   },
   {
    "id": "ISA.51.1",
-   "titulo": "Desperta, Sião: os pés do que anuncia a paz",
+   "titulo": "Olhai para a rocha donde fostes talhados",
    "secao": "O Livro da Consolação",
-   "referencia": "Is 51,1–52,12",
+   "referencia": "Is 51,1-23",
    "ini": {
     "c": 51,
+    "v": 1
+   },
+   "fim": {
+    "c": 51,
+    "v": 23
+   }
+  },
+  {
+   "id": "ISA.52.1",
+   "titulo": "Quão belos os pés do que anuncia a paz",
+   "secao": "O Livro da Consolação",
+   "referencia": "Is 52,1-12",
+   "ini": {
+    "c": 52,
     "v": 1
    },
    "fim": {
@@ -532,9 +756,23 @@
    "id": "ISA.56.1",
    "titulo": "A minha casa será casa de oração para todos os povos",
    "secao": "A nova Jerusalém",
-   "referencia": "Is 56,1–57,21",
+   "referencia": "Is 56,1-12",
    "ini": {
     "c": 56,
+    "v": 1
+   },
+   "fim": {
+    "c": 56,
+    "v": 12
+   }
+  },
+  {
+   "id": "ISA.57.1",
+   "titulo": "Paz ao que está longe e ao que está perto",
+   "secao": "A nova Jerusalém",
+   "referencia": "Is 57,1-21",
+   "ini": {
+    "c": 57,
     "v": 1
    },
    "fim": {
@@ -614,11 +852,25 @@
   },
   {
    "id": "ISA.63.1",
-   "titulo": "Quem é este que vem de Edom? Oxalá rompesses os céus",
+   "titulo": "Quem é este que vem de Edom?",
    "secao": "A nova Jerusalém",
-   "referencia": "Is 63,1–64,12",
+   "referencia": "Is 63,1-19",
    "ini": {
     "c": 63,
+    "v": 1
+   },
+   "fim": {
+    "c": 63,
+    "v": 19
+   }
+  },
+  {
+   "id": "ISA.64.1",
+   "titulo": "Oxalá rompesses os céus e descesses",
+   "secao": "A nova Jerusalém",
+   "referencia": "Is 64,1-12",
+   "ini": {
+    "c": 64,
     "v": 1
    },
    "fim": {

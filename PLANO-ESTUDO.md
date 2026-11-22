@@ -3,7 +3,7 @@
 > Documento de continuidade. Se a conversa com o Claude for limpa (`/clear`), comece por:
 > **"Leia PLANO-ESTUDO.md e continue da próxima fase pendente."**
 
-Última atualização: 2026-11-22 (Lote 16 concluído por episódio: 1 Crônicas 28, 2 Crônicas 33, Esdras 10, Neemias 13; total 1753)
+Última atualização: 2026-11-22 (Lote 16 concluído; revisão por episódio: Lotes 7 e 8 refeitos, Lote 9 em andamento — Isaías)
 
 ---
 
@@ -111,12 +111,12 @@ Lote 4: Romanos ✅ 30 · 1 Coríntios ✅ 26 · Hebreus ✅ 17 · 2 Coríntios 
 **Novo Testamento completo: 27 livros, 561 perícopes** (Evangelhos 308 + Lote 1 66 + Lote 2 18 + Lote 3 27 + Lote 4 142). AT em andamento: Lotes 5 a 10 ✅ (521 perícopes).
 
 **Antigo Testamento em lotes** (aprovado em 2026-11-21; contagens estimadas). Regra: ao fechar cada lote, atualizar este .md + commit + push.
-**Granularidade (decidido em 2026-11-21):** uma perícope por episódio (em geral um capítulo ou menos), com o conteúdo desenvolvido por inteiro, sem agrupar capítulos para render mais. Só leis, listas, genealogias e descrições técnicas (ex.: santuário) podem ficar em blocos de cerca de um capítulo. Os Lotes 7 a 9 foram feitos em blocos grossos e devem ser revistos depois.
+**Granularidade (decidido em 2026-11-21):** uma perícope por episódio (em geral um capítulo ou menos), com o conteúdo desenvolvido por inteiro, sem agrupar capítulos para render mais. Só leis, listas, genealogias e descrições técnicas (ex.: santuário) podem ficar em blocos de cerca de um capítulo. Os Lotes 7 a 9 foram feitos em blocos grossos e estão sendo revistos (7 e 8 ✅ em 2026-11-22; 9 em andamento). Em Provérbios, as coleções de sentenças ficam uma perícope por capítulo.
 - **Lote 5** Salmos PSA: um salmo por perícope; Sl 118 (Vulgata) dividido nas 22 estrofes — ✅ **171 perícopes** em 5 seções (Livros I–V do Saltério)
 - **Lote 6** Narrativas curtas — ✅ Rute RUT 4 · Tobias TOB 13 · Judite JDT 10 · Ester EST 13 (acréscimos gregos da Vulgata, 10,4–16,24, em seção própria). **40 perícopes**
-- **Lote 7** Profetas menores — ✅ Oseias HOS 11 · Joel JOE 4 · Amós AMO 8 · Abdias OBA 1 · Jonas JON 4 · Miqueias MIC 7 · Naum NAH 2 · Habacuc HAB 3 · Sofonias ZEP 3 · Ageu HAG 2 · Zacarias ZEC 10 · Malaquias MAL 4. **59 perícopes** (Joel e Malaquias seguem a Vulgata: 3 e 4 capítulos)
-- **Lote 8** Sapienciais curtos — ✅ Sabedoria WIS 16 · Eclesiastes ECC 9 · Cântico SNG 7 · Provérbios PRO 18 (coleções agrupadas por temas). **50 perícopes**
-- **Lote 9** Profetas maiores I — ✅ Isaías ISA 46 · Lamentações LAM 5 · Baruc BAR 5 (cap. 6 = Carta de Jeremias) · Daniel DAN 15 (Dn 3,24-90, 13 e 14 da Vulgata incluídos). **71 perícopes**
+- **Lote 7** Profetas menores — ✅ revisto por episódio: Oseias HOS 15 · Joel JOE 4 · Amós AMO 9 · Abdias OBA 1 · Jonas JON 4 · Miqueias MIC 7 · Naum NAH 3 · Habacuc HAB 3 · Sofonias ZEP 3 · Ageu HAG 2 · Zacarias ZEC 14 · Malaquias MAL 4. **69 perícopes** (Joel e Malaquias seguem a Vulgata: 3 e 4 capítulos)
+- **Lote 8** Sapienciais curtos — ✅ revisto por episódio: Sabedoria WIS 19 · Eclesiastes ECC 12 · Cântico SNG 9 · Provérbios PRO 31 (um capítulo por perícope). **71 perícopes**
+- **Lote 9** Profetas maiores I — 🔄 revisão por episódio em andamento (Isaías → 64, faltam caps. 38–39, 46–48, 51–52, 56–57, 63–64; depois Baruc e Daniel). Versão anterior: Isaías ISA 46 · Lamentações LAM 5 · Baruc BAR 5 (cap. 6 = Carta de Jeremias) · Daniel DAN 15 (Dn 3,24-90, 13 e 14 da Vulgata incluídos). **71 perícopes**
 - **Lote 10** Origens: Gênesis GEN · Êxodo EXO — ✅ refeito por episódio (a primeira versão, de 61 perícopes em blocos grossos, foi substituída): GEN 74 · EXO 56 = **130 perícopes**
 - **Lote 11** Profetas maiores II: Jeremias JER · Ezequiel EZE — ✅ por episódio: JER 64 · EZE 51 = **115 perícopes**
 - **Lote 12** Sapienciais longos: Jó JOB · Eclesiástico SIR — ✅ por episódio: JOB 37 · SIR 102 = **139 perícopes**
@@ -228,7 +228,7 @@ Aviso esperado do script: `JHN 6:47–51 sobrepõe 6:51`. A sobreposição já e
 1. **Mateus** (107/107, concluído). Fluxo usado: `PER=6 MAX=170 node scripts/estudo.mjs contexto MAT c.v` → JSON → `check MAT`. O check valida secao e exige que `contemplatio_foco` seja citação literal de Matos Soares.
    **Lucas** ✅ (concluído): `scripts/pericopes/LUK.txt` com 78 perícopes, índice gerado; a Catena de LUK já usa a numeração de Matos Soares. Fluxo: `PER=6 MAX=170 node scripts/estudo.mjs contexto LUK c.v` → JSON → `check LUK`. Feitas: 78/78.
    **João** ✅ (concluído): `scripts/pericopes/JHN.txt` com 48 perícopes em 6 seções; a Catena de JHN já usa a numeração de Matos Soares (Jo 6 tem 72 versículos: MS 6,52 = 6,51b moderno, e daí em diante MS = moderno + 1). Feitas: 48/48.
-   **NT em lotes (ver Fase 4): Lotes 1, 2, 3 e 4 ✅: NT completo (561 perícopes).** **AT: Lote 5 (Salmos) ✅ 171 · Lote 6 (Rute, Tobias, Judite, Ester) ✅ 40 · Lote 7 (profetas menores) ✅ 59 · Lote 8 (sapienciais curtos) ✅ 50 · Lote 9 (Isaías, Lamentações, Baruc, Daniel) ✅ 71 · Lote 10 (Gênesis, Êxodo) ✅ 130 · Lote 11 (Jeremias, Ezequiel) ✅ 115 · Lote 12 (Jó, Eclesiástico) ✅ 139 · Lote 13 (Josué, Juízes, 1–2 Samuel) ✅ 123 · Lote 14 (1–2 Reis, 1–2 Macabeus) ✅ 110 · Lote 15 (Levítico, Números, Deuteronômio) ✅ 100 · Lote 16 (1–2 Crônicas, Esdras, Neemias) ✅ 84, por episódio. Bíblia inteira coberta (1753). Próximo: rever a granularidade dos Lotes 7 a 9.** Fora dos Evangelhos não há Catena: `padres` fica `[]` (decidido). Para cada livro: criar `scripts/pericopes/{ID}.txt`, rodar `index {ID}`, escrever os JSON e `check {ID}`.
+   **NT em lotes (ver Fase 4): Lotes 1, 2, 3 e 4 ✅: NT completo (561 perícopes).** **AT: Lote 5 (Salmos) ✅ 171 · Lote 6 (Rute, Tobias, Judite, Ester) ✅ 40 · Lote 7 (profetas menores) ✅ 69 · Lote 8 (sapienciais curtos) ✅ 71 · Lote 9 (Isaías, Lamentações, Baruc, Daniel) ✅ 71 · Lote 10 (Gênesis, Êxodo) ✅ 130 · Lote 11 (Jeremias, Ezequiel) ✅ 115 · Lote 12 (Jó, Eclesiástico) ✅ 139 · Lote 13 (Josué, Juízes, 1–2 Samuel) ✅ 123 · Lote 14 (1–2 Reis, 1–2 Macabeus) ✅ 110 · Lote 15 (Levítico, Números, Deuteronômio) ✅ 100 · Lote 16 (1–2 Crônicas, Esdras, Neemias) ✅ 84, por episódio. Bíblia inteira coberta. Revisão de granularidade: Lotes 7 e 8 ✅; Lote 9 em andamento (Isaías).** Fora dos Evangelhos não há Catena: `padres` fica `[]` (decidido). Para cada livro: criar `scripts/pericopes/{ID}.txt`, rodar `index {ID}`, escrever os JSON e `check {ID}`.
 2. Dica de fidelidade: os excertos de `contexto` com MAX vêm truncados; para sintetizar um excerto além do trecho visível, conferir o texto integral em `docs/data/catena/{ID}.json` (blocos[].trechos[i].texto).
    - **Atenção (Mateus)**: a Catena de MAT usa a numeração moderna, sem mapa. Divergências com Matos Soares: 5,4↔5,5 (mansos/choram invertidos) e o capítulo 17 a partir de ~17,15 (Vulgata une versículos). Ancorar cada Padre pelo conteúdo, não pelo número do bloco.
 3. No fim (depois do conteúdo): fase 1.2 (CIC) e 1.3 (Lecionário, campo `usos`).

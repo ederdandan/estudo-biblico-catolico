@@ -1,46 +1,54 @@
 {
   "id": "ISA.21.1",
   "livro": "ISA",
-  "titulo": "O vale da Visão, a chave de Davi e Tiro",
+  "titulo": "Sentinela, que houve esta noite?",
   "secao": "Oráculos contra as nações",
-  "referencia": "Is 21,1–23,18",
+  "referencia": "Is 21,1-17",
   "ini": {
     "c": 21,
     "v": 1
   },
   "fim": {
-    "c": 23,
-    "v": 18
+    "c": 21,
+    "v": 17
   },
   "liturgia": {
-    "tema_central": "Vigiar a noite; a chave de Davi entregue ao servo fiel",
+    "tema_central": "“Sentinela, que houve esta noite?”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "O profeta, como sentinela, vê a queda de Babilônia: “Caiu, caiu Babilônia!” Perguntam-lhe: “Sentinela, que há da noite?” — “Vem a manhã, e também a noite.” Oráculo sobre o vale da Visão, Jerusalém: enquanto o inimigo ameaça, o povo festeja: “Comamos e bebamos, que amanhã morreremos”; reforçam os muros, mas não olham para Aquele que fez tudo. Sobna, mordomo orgulhoso que talha para si um sepulcro, será deposto; Eliacim o substituirá: “Porei a chave da casa de Davi sobre os seus ombros; ele abrirá, e ninguém fechará”. Por fim, Tiro, cidade do comércio, será humilhada e, depois de setenta anos, os seus lucros serão consagrados ao Senhor.",
-    "alegorico": "A chave de Davi é aplicada a Cristo (Ap 3,7), “que abre e ninguém fecha”, e serve de fundo ao poder das chaves dado a Pedro (Mt 16,19): o mordomo do Reino, servo fiel na casa do Rei.",
-    "moral": "A vigilância espiritual é necessária: a noite da prova vem e passa. O hedonismo desesperado (“comamos e bebamos”) e a confiança nas fortificações humanas são recusa de olhar para Deus. A autoridade é serviço; quem a usa para si é deposto.",
-    "anagogico": "A sentinela que pergunta “que há da noite?” é a Igreja que aguarda a manhã eterna, quando não haverá mais noite."
+    "literal": "“Oráculo sobre o deserto do mar”: o profeta recebe uma visão terrível sobre Babilônia e fica angustiado “como uma mulher na hora do parto”. Enquanto os príncipes banqueteiam (“põe-se a mesa… come-se e bebe-se”), soa o alarme: “Levantai-vos, príncipes, tomai o escudo.” O Senhor manda pôr uma sentinela: “Eu estou no posto em que o Senhor me colocou, e nele permaneço todo o dia, estou passando na minha guarda noites inteiras.” Chegam cavaleiros: “Caiu, caiu Babilônia! Todas as estátuas dos seus deuses se fizeram em pedaços.” Depois, um breve oráculo sobre Duma: “Clamam para mim de Seir: Sentinela, que houve esta noite? Sentinela, que houve esta noite? A sentinela respondeu: Chega a manhã, e a noite também. Perguntai, se quereis, voltai a perguntar.” E sobre a Arábia: “Vós os que habitais a terra de Tema, saindo ao encontro do sequioso, trazei-lhe água, socorrei com pão os fugitivos.”",
+    "alegorico": "“Caiu, caiu Babilônia” é retomado no Apocalipse (Ap 14,8; 18,2). A sentinela que vigia noites inteiras é a imagem do cristão vigilante, a quem Jesus diz: “Vigiai, pois não sabeis a que hora virá o vosso Senhor” (Mt 24,42). A pergunta “que houve esta noite?” é a da Igreja que espera a manhã da Páscoa.",
+    "moral": "A sentinela fiel permanece no posto “em que o Senhor me colocou”, dia e noite. A vida cristã pede vigilância e perseverança no lugar confiado. A resposta enigmática (“chega a manhã, e a noite também”) ensina que a história mistura luz e trevas; é preciso continuar perguntando, buscando. E, no meio das guerras, um gesto simples: levar água ao sedento e pão ao fugitivo.",
+    "anagogico": "“Chega a manhã”: depois da noite da história virá a manhã definitiva, sem ocaso."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Sentinela, que há da noite?” “Vem a manhã, e também a noite.” “Comamos e bebamos, porque amanhã morreremos.” “Porei a chave da casa de Davi sobre os seus ombros; ele abrirá, e não haverá quem feche.”",
+    "lectio_resumo": "“Põe-se a mesa… come-se e bebe-se.” “Vai e põe uma sentinela.” “Eu estou no posto em que o Senhor me colocou.” “Caiu, caiu Babilônia!” “Sentinela, que houve esta noite?” “Chega a manhã, e a noite também.” “Trazei-lhe água, socorrei com pão os fugitivos.”",
     "meditatio_perguntas": [
-      "Vigio na noite, esperando a manhã de Deus?",
-      "Vivo como quem diz “comamos e bebamos, amanhã morreremos”?",
-      "Uso as “chaves” que tenho para servir ou para me servir?"
+      "Permaneço fiel no posto em que Deus me colocou?",
+      "Sou sentinela vigilante ou dormente?",
+      "Levo água e pão aos fugitivos do meu tempo?"
     ],
-    "oratio_guia": "Senhor, chave de Davi, que abres e ninguém fecha, abre a prisão do meu coração. Faze-me sentinela vigilante e servo fiel na tua casa. Amém.",
+    "oratio_guia": "Senhor, faz-me sentinela fiel, que permanece no seu posto dia e noite e espera a tua manhã. Dá-me um coração que leve água ao sedento e pão ao fugitivo. Amém.",
     "contemplatio_foco": {
-      "texto": "Porei a chave da casa de Davide sobre os seus ombros",
-      "ref": "Is 22,22"
+      "texto": "Sentinela, que houve esta noite? Sentinela, que houve esta noite?",
+      "ref": "Is 21,11"
     }
   },
   "ancoras": {
-    "22:22": {
+    "21:11": {
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "Este versículo inspira a antífona do Advento “Ó Chave de Davi” (20 de dezembro).",
+        "texto": "Duma: oásis árabe; Seir: Edom.",
+        "origem": "ia"
+      }
+    },
+    "21:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Ap 14,8; 18,2.",
         "origem": "ia"
       }
     }

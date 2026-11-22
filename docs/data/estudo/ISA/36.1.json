@@ -1,40 +1,57 @@
 {
   "id": "ISA.36.1",
   "livro": "ISA",
-  "titulo": "Senaquerib cerca Jerusalém: a oração de Ezequias",
+  "titulo": "Rabsaces diante de Jerusalém: que confiança é essa?",
   "secao": "Ezequias e Isaías",
-  "referencia": "Is 36,1–37,38",
+  "referencia": "Is 36,1-22",
   "ini": {
     "c": 36,
     "v": 1
   },
   "fim": {
-    "c": 37,
-    "v": 38
+    "c": 36,
+    "v": 22
   },
   "liturgia": {
-    "tema_central": "A oração confiante diante da ameaça",
+    "tema_central": "“Que confiança é essa em que te apoias?”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "No ano catorze de Ezequias, Senaquerib, rei da Assíria, invade Judá; o seu copeiro-mor zomba diante dos muros de Jerusalém: em quem confias? No Egito, cana quebrada? No Senhor? Nenhum deus das nações salvou a sua terra. Ezequias rasga as vestes, entra na casa do Senhor e manda pedir a Isaías que interceda. Isaías responde: não temas. Senaquerib envia uma carta ameaçadora; Ezequias a estende diante do Senhor e reza: “Senhor dos exércitos, Deus de Israel, que estás sentado sobre os querubins, só tu és o Deus de todos os reinos da terra”. Deus responde pela boca de Isaías; naquela noite o anjo do Senhor fere o acampamento assírio; Senaquerib volta a Nínive e é morto.",
-    "alegorico": "A vitória de Deus sobre o poderoso que zomba prefigura a vitória de Cristo sobre o príncipe deste mundo, quando parecia que a cidade estava perdida.",
-    "moral": "Ezequias ensina a levar as ameaças a Deus: abrir a carta diante dele. A zombaria contra a fé não deve intimidar; o crente responde com oração, não com desespero.",
-    "anagogico": "Deus defende a sua cidade “por amor de si e de Davi”: a Igreja, cidade de Deus, prevalecerá contra os poderes do inferno."
+    "literal": "“No ano décimo quarto do rei Ezequias, Senaquerib, rei dos Assírios, marchou contra todas as cidades fortificadas de Judá e tomou-as.” Envia Rabsaces com um grande exército a Jerusalém. Junto ao aqueduto, diante de Eliacim, Sobna e Joaé, o assírio discursa: “Que confiança é essa em que te apoias?… Vejo que te apoias no Egito, essa cana rachada, a qual, se nela se firmar um homem, se lhe meterá pela mão.” Zomba também da confiança em Deus e chega a dizer: “O Senhor é que me disse: Entra nessa terra e devasta-a.” Os ministros pedem que fale em aramaico, para o povo não entender; mas Rabsaces grita em hebraico aos que estão na muralha: “Não vos seduza Ezequias… E não vos infunda Ezequias confiança no Senhor… Fazei comigo aliança… e comerá cada um do fruto da sua vinha… Porventura os deuses das gentes livraram cada um a sua terra?” O povo cala-se: “não lhe responderam uma só palavra, pois assim lho tinha mandado o rei”. Os ministros voltam a Ezequias com as vestes rasgadas.",
+    "alegorico": "O discurso de Rabsaces é a voz do Tentador, que procura minar a confiança em Deus com meias-verdades, promessas sedutoras e até citando o nome de Deus (como em Mt 4,6). O silêncio do povo, que não responde ao blasfemador, lembra o silêncio de Cristo diante dos acusadores (Mt 26,63; 27,14).",
+    "moral": "A pergunta “que confiança é essa?” é a pergunta que a tentação faz a todo crente. O inimigo mistura verdades (o Egito é mesmo uma cana rachada) com mentiras (Deus não pode salvar). E oferece uma paz falsa: “rendei-vos, e comereis da vossa vinha”. Diante disso, há momentos em que a melhor resposta é o silêncio e a oração, em vez da discussão.",
+    "anagogico": "A confiança provada no cerco prepara a libertação; quem persevera na fé verá a salvação de Deus."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Em quem pões a tua confiança?” “Ezequias rasgou os seus vestidos e entrou na casa do Senhor.” “Estendeu a carta diante do Senhor.” “Só tu és o Deus de todos os reinos da terra.”",
+    "lectio_resumo": "“Que confiança é essa em que te apoias?” “O Egito, essa cana rachada.” “Não vos infunda Ezequias confiança no Senhor.” “Fazei comigo aliança… e comerá cada um do fruto da sua vinha.” “Porventura os deuses das gentes livraram?” “Não lhe responderam uma só palavra.”",
     "meditatio_perguntas": [
-      "Que “carta ameaçadora” preciso estender diante do Senhor?",
-      "Deixo-me intimidar por quem zomba da minha fé?",
-      "Busco intercessão quando estou em perigo?"
+      "Que vozes tentam minar a minha confiança em Deus?",
+      "Reconheço as meias-verdades da tentação?",
+      "Sei calar diante do blasfemador e levar tudo a Deus?"
     ],
-    "oratio_guia": "Senhor dos exércitos, só tu és Deus. Diante de ti estendo as minhas ameaças e medos. Defende-me como defendeste Jerusalém. Amém.",
+    "oratio_guia": "Senhor, quando a voz do inimigo perguntar “que confiança é essa?”, que eu responda com a fé, o silêncio e a oração. Não me apoio em canas rachadas, mas em ti. Amém.",
     "contemplatio_foco": {
-      "texto": "só tu és o Deus de todos os reinos da terra",
-      "ref": "Is 37,16"
+      "texto": "Que confiança é essa em que te apoias?",
+      "ref": "Is 36,4"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "36:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ano 701 a.C. Paralelo em 2Rs 18,13-37.",
+        "origem": "ia"
+      }
+    },
+    "36:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Rabsaces: título do “copeiro-mor”, alto oficial assírio.",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }

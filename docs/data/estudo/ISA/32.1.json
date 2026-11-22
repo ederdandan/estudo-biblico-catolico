@@ -3,33 +3,33 @@
   "livro": "ISA",
   "titulo": "A paz será obra da justiça",
   "secao": "Ais e promessas",
-  "referencia": "Is 32,1–33,24",
+  "referencia": "Is 32,1-20",
   "ini": {
     "c": 32,
     "v": 1
   },
   "fim": {
-    "c": 33,
-    "v": 24
+    "c": 32,
+    "v": 20
   },
   "liturgia": {
-    "tema_central": "O rei justo e a paz, obra da justiça",
+    "tema_central": "“A paz será a obra da justiça”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Um rei reinará com justiça e os príncipes governarão com equidade; cada um será como abrigo contra o vento, como rio em terra seca. Os olhos dos que veem não se fecharão; o insensato não será mais chamado nobre. As mulheres despreocupadas são chamadas a lamentar, porque a cidade será abandonada, “até que se derrame sobre nós o espírito do alto”: então o deserto será vergel, e a justiça habitará no campo. “A paz será obra da justiça, e o fruto da justiça será o sossego e a segurança para sempre.” No capítulo 33, contra o devastador: quem habitará com o fogo devorador? O que anda na justiça. “Os teus olhos verão o rei na sua formosura.”",
-    "alegorico": "O rei justo é Cristo, abrigo contra o vento e rio no deserto. O espírito derramado do alto é o Espírito Santo de Pentecostes que transforma o deserto em jardim.",
-    "moral": "Não há paz verdadeira sem justiça; o lema “Opus iustitiae pax” resume o ensinamento social da Igreja. Quem anda na justiça, rejeita o suborno e fecha os ouvidos ao sangue, habita com Deus.",
-    "anagogico": "“Os teus olhos verão o rei na sua formosura”: a visão de Cristo glorioso é a bem-aventurança eterna."
+    "literal": "“Eis que um rei reinará com justiça, e os príncipes governarão com retidão. Cada um deles será como um refúgio contra o vento, um abrigo contra a tempestade, como arroios de águas em terra ressequida, como a sombra duma alta rocha em terra árida.” Os olhos e ouvidos se abrirão, os gagos falarão claramente; o insensato não será mais chamado nobre, porque ele deixa “vazio o faminto” e tira “a bebida ao que tem sede”, enquanto “o nobre tem pensamentos dignos dum nobre”. O profeta adverte as mulheres despreocupadas de Jerusalém: a colheita falhará, a cidade alegre ficará deserta, “até que sobre nós se derrame o espírito lá do alto, e o deserto se converta em um vergel… Então habitará no deserto a retidão… A paz será a obra da justiça, o fruto da justiça será o sossego e a segurança para sempre. O meu povo repousará numa habitação de paz, em moradas seguras, em vivendas tranquilas.”",
+    "alegorico": "O rei que reina com justiça e é abrigo na tempestade é Cristo, “nossa paz” (Ef 2,14). O Espírito “derramado do alto” que transforma o deserto em jardim é o Espírito de Pentecostes (At 2,17). “A paz, obra da justiça” (opus iustitiae pax) foi o lema de Pio XII e é retomado pelo Concílio (Gaudium et Spes 78).",
+    "moral": "A paz não é só ausência de guerra: é fruto da justiça. Onde o faminto é deixado vazio, não há paz verdadeira. Quem governa deve ser “abrigo contra a tempestade” para os outros. E a verdadeira nobreza é de caráter: “o nobre tem pensamentos dignos dum nobre”. Mas tudo depende do Espírito que vem do alto: sem ele, a cidade alegre vira deserto.",
+    "anagogico": "“O meu povo repousará numa habitação de paz”: a morada eterna onde a justiça e a paz se beijam."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Eis que um rei reinará com justiça.” “Cada um será como um abrigo contra o vento.” “Até que se derrame sobre nós o espírito do alto.” “A paz será a obra da justiça.” “Os teus olhos verão o rei na sua formosura.”",
+    "lectio_resumo": "“Um rei reinará com justiça.” “Como um refúgio contra o vento, um abrigo contra a tempestade.” “O nobre tem pensamentos dignos dum nobre.” “Até que sobre nós se derrame o espírito lá do alto.” “O deserto se converta em um vergel.” “A paz será a obra da justiça.” “Numa habitação de paz.”",
     "meditatio_perguntas": [
-      "Sou abrigo para alguém contra o vento?",
-      "Que injustiça impede a paz na minha casa ou trabalho?",
-      "Desejo ver o Rei na sua formosura?"
+      "Sou abrigo para os que passam por tempestades?",
+      "Contribuo para a paz praticando a justiça?",
+      "Peço que o Espírito venha transformar os meus desertos?"
     ],
-    "oratio_guia": "Senhor, derrama sobre nós o teu Espírito do alto. Faze-me justo, para que a paz seja fruto da minha vida, e mostra-me um dia o Rei na sua formosura. Amém.",
+    "oratio_guia": "Senhor, derrama do alto o teu Espírito, transforma o meu deserto em jardim e faz-me construtor da paz pela justiça. Que eu seja abrigo para os que sofrem. Amém.",
     "contemplatio_foco": {
       "texto": "A paz será a obra da justiça",
       "ref": "Is 32,17"
@@ -40,7 +40,15 @@
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "“Opus iustitiae pax” foi o lema do Papa Pio XII.",
+        "texto": "Lema de Pio XII: “Opus iustitiae pax”.",
+        "origem": "ia"
+      }
+    },
+    "32:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Jl 2,28; At 2,17.",
         "origem": "ia"
       }
     }

@@ -1,40 +1,57 @@
 {
   "id": "ISA.3.1",
   "livro": "ISA",
-  "titulo": "Juízo sobre Jerusalém e o germe do Senhor",
+  "titulo": "O Senhor tira a Jerusalém todo o apoio",
   "secao": "O Livro do Emanuel",
-  "referencia": "Is 3,1–4,6",
+  "referencia": "Is 3,1-26",
   "ini": {
     "c": 3,
     "v": 1
   },
   "fim": {
-    "c": 4,
-    "v": 6
+    "c": 3,
+    "v": 26
   },
   "liturgia": {
-    "tema_central": "A queda dos apoios humanos e o germe do Senhor",
+    "tema_central": "“Vós devorastes a minha vinha”: o colapso de Jerusalém",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "O Senhor tirará de Jerusalém todo apoio: pão, água, herói, juiz, profeta, ancião; meninos governarão. O povo peca abertamente, como Sodoma. “Dizei ao justo que ele será bem-sucedido.” O Senhor julga os anciãos e os príncipes que devoraram a vinha e esmagaram o rosto dos pobres. As filhas de Sião, altivas, com os seus enfeites e perfumes, terão em troca saco e calvície; os homens cairão à espada. Mas naquele dia, “o germe do Senhor será ornamento e glória”; os sobreviventes serão chamados santos; o Senhor lavará as manchas de Sião com o espírito de juízo e estenderá sobre o monte uma nuvem de dia e um fogo de noite.",
-    "alegorico": "O “germe do Senhor” é título messiânico: Cristo, rebento que nasce de Deus e da terra. A nuvem e o fogo que protegem Sião evocam a presença do Espírito sobre a Igreja.",
-    "moral": "Quando a sociedade perde as suas referências morais, até os apoios humanos caem. A vaidade exterior (enfeites, perfumes) esconde muitas vezes a dureza com os pobres. Deus purifica para santificar.",
-    "anagogico": "Os sobreviventes chamados “santos” e protegidos pela glória de Deus anunciam a Igreja celeste, purificada e coberta pela presença divina."
+    "literal": "“Eis que o dominador, o Senhor dos exércitos, está para tirar de Jerusalém e de Judá todo o sustento e todo o amparo”: o pão e a água, o guerreiro, o juiz, o profeta, o ancião, o conselheiro. “Dar-lhes-ei meninos por príncipes.” O povo se entrechoca, ninguém quer governar: “Não sou médico… não queirais constituir-me príncipe do povo.” “Pois Jerusalém vai-se arruinando, e Judá caindo, porque as suas palavras e as suas obras são contra o Senhor… fizeram, como os de Sodoma, pública ostentação do seu pecado.” “Dizei ao justo que ele será bem sucedido, pois comerá o fruto das suas obras.” “Povo meu, os que te dirigem desencaminham-te.” O Senhor entra em juízo com os anciãos e príncipes: “Vós devorastes a minha vinha, e as rapinas feitas ao pobre encontram-se em vossa casa. Por que razão calcais aos pés o meu povo, e moeis às pancadas os rostos dos pobres?” Depois, a sátira das filhas de Sião, orgulhosas e cheias de joias: o Senhor tirará os seus adornos, “em lugar de cheiro suave, terão fetidez… em lugar da beleza, uma marca feita a fogo”.",
+    "alegorico": "Os chefes que “devoram a vinha” prefiguram os vinhateiros homicidas da parábola de Jesus (Mt 21,33-41). O Senhor que “se levanta para julgar” os que esmagam o rosto dos pobres é Cristo Juiz, que se identifica com os pequenos (Mt 25,31-46). Contra o luxo vaidoso, Pedro recomenda “o adorno interior do coração” (1Pd 3,3-4).",
+    "moral": "Uma sociedade se desfaz quando perde a referência a Deus: faltam líderes, os jovens se voltam contra os velhos, o pecado é ostentado “como em Sodoma”. A responsabilidade maior é dos governantes que exploram os pobres. E a vaidade exterior, a idolatria da aparência, termina na humilhação. A verdadeira beleza é a do coração.",
+    "anagogico": "“Dizei ao justo que ele será bem sucedido, pois comerá o fruto das suas obras”: no juízo final, cada um colherá o que semeou."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Dizei ao justo que ele será bem-sucedido.” “Por que esmagais o meu povo e moeis o rosto dos pobres?” “Naquele dia será o germe do Senhor ornamento e glória.”",
+    "lectio_resumo": "“Está para tirar de Jerusalém todo o sustento e todo o amparo.” “As suas palavras e as suas obras são contra o Senhor.” “Fizeram pública ostentação do seu pecado.” “Dizei ao justo que ele será bem sucedido.” “Os que te dirigem desencaminham-te.” “Vós devorastes a minha vinha.” “Moeis às pancadas os rostos dos pobres.”",
     "meditatio_perguntas": [
-      "Em que apoios humanos confio, que podem cair?",
-      "A minha preocupação com a aparência me faz esquecer o pobre?",
-      "Deixo o Senhor lavar as minhas manchas?"
+      "Ostento o pecado, ou o reconheço com humildade?",
+      "Que responsabilidade tenho pelos que dirijo?",
+      "Em que ponho a minha beleza: no adorno exterior ou no coração?"
     ],
-    "oratio_guia": "Senhor, quando os meus apoios caírem, sê tu a minha firmeza. Lava as minhas manchas com o teu Espírito e faze brotar em mim o teu Germe, Cristo. Amém.",
+    "oratio_guia": "Senhor, que te levantas para julgar os povos, não permitas que eu devore a tua vinha nem esmague o rosto dos pobres. Dá-me a beleza interior que agrada aos teus olhos. Amém.",
     "contemplatio_foco": {
-      "texto": "Naquele dia será o germe do Senhor ornamento e glória",
-      "ref": "Is 4,2"
+      "texto": "Vós devorastes a minha vinha, e as rapinas feitas ao pobre encontram-se em vossa casa",
+      "ref": "Is 3,14"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "3:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Talvez alusão ao jovem rei Acaz.",
+        "origem": "ia"
+      }
+    },
+    "3:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A lista de joias é uma das mais completas do AT.",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }

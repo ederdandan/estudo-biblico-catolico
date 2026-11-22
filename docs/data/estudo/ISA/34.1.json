@@ -1,40 +1,57 @@
 {
   "id": "ISA.34.1",
   "livro": "ISA",
-  "titulo": "O deserto se alegrará: Deus mesmo virá e vos salvará",
+  "titulo": "O juízo sobre Edom",
   "secao": "Ais e promessas",
-  "referencia": "Is 34,1–35,10",
+  "referencia": "Is 34,1-17",
   "ini": {
     "c": 34,
     "v": 1
   },
   "fim": {
-    "c": 35,
-    "v": 10
+    "c": 34,
+    "v": 17
   },
   "liturgia": {
-    "tema_central": "O deserto florescerá: Deus vem salvar",
+    "tema_central": "O juízo sobre Edom: “os céus se enrolarão como um livro”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "O capítulo 34 descreve o juízo das nações e de Edom: a terra se torna piche ardente, morada de animais selvagens. Em contraste, o capítulo 35: “O deserto e a terra árida se alegrarão, a solidão exultará e florescerá como o lírio”; verão a glória do Senhor. “Fortalecei as mãos fracas, firmai os joelhos vacilantes; dizei aos pusilânimes: Tomai ânimo, não temais: eis o vosso Deus… Ele mesmo virá e vos salvará.” Então os olhos dos cegos se abrirão, os ouvidos dos surdos, o coxo saltará como cervo, a língua do mudo cantará. Haverá uma estrada santa; os resgatados voltarão a Sião com alegria eterna; a dor e o gemido fugirão.",
-    "alegorico": "Jesus responde aos discípulos de João citando este texto: os cegos veem, os coxos andam (Mt 11,4-5). Ele é o Deus que “vem e nos salva”; a estrada santa é Cristo, Caminho, e a Igreja que caminha para a Jerusalém celeste.",
-    "moral": "Missão do cristão: fortalecer as mãos fracas e os joelhos vacilantes, dar ânimo aos que temem. Mesmo os nossos desertos podem florescer quando Deus vem.",
-    "anagogico": "Os resgatados que voltam a Sião com alegria eterna, sem dor nem gemido, são os santos na pátria celeste."
+    "literal": "“Vinde cá, ó nações, e ouvi; povos, estai atentos… Porque está indignado o Senhor contra todas as nações.” O juízo tem proporções cósmicas: “Será destruída toda a milícia dos céus, e os céus se enrolarão como um livro; toda a sua milícia cairá como cai a folha da vinha e da figueira.” A espada do Senhor desce sobre Edom, imagem de todos os inimigos do povo de Deus: “há um sacrifício ao Senhor em Bosra”. “É um dia de vingança para o Senhor, um ano de desforra para fazer justiça a Sião.” A terra de Edom torna-se pez ardente, “cujo fumo subirá para sempre”; nela habitarão o pelicano, a coruja, os chacais, os sátiros e “o espectro das noites”. “Buscai diligentemente no livro do Senhor e lede: nem uma só destas coisas faltará, porque Deus o mandou, e o seu mesmo espírito juntou estas coisas.”",
+    "alegorico": "Os céus que se enrolam como um livro e as estrelas que caem como folhas são retomados no Apocalipse (Ap 6,13-14) para descrever o juízo final. O fumo que sobe para sempre (Ap 14,11; 19,3) é imagem da condenação definitiva do mal. Edom, irmão hostil de Israel, simboliza a hostilidade contra o povo de Deus, vencida por Cristo.",
+    "moral": "O texto é duro e deve ser lido segundo Dei Verbum 15: a linguagem de guerra e vingança, própria daquele tempo, exprime a certeza de que Deus fará justiça às vítimas e que o mal não terá a última palavra. A lição permanente: a Palavra de Deus não falha (“nem uma só destas coisas faltará”). Para o cristão, a “vingança” pertence a Deus (Rm 12,19), e o nosso papel é o amor ao inimigo.",
+    "anagogico": "Os céus enrolados como um livro anunciam o fim deste mundo e o advento dos novos céus e nova terra (Is 65,17; 2Pd 3,10-13)."
   },
   "lectio_divina": {
-    "lectio_resumo": "“O deserto e a terra árida se alegrarão.” “Fortalecei as mãos desfalecidas.” “Dizei aos pusilânimes: Tomai ânimo, não temais: Eis o vosso Deus… Deus mesmo virá, e vos salvará!” “Então se abrirão os olhos dos cegos.”",
+    "lectio_resumo": "“Vinde cá, ó nações, e ouvi.” “Os céus se enrolarão como um livro.” “Como cai a folha da vinha e da figueira.” “Um ano de desforra para fazer justiça a Sião.” “Buscai diligentemente no livro do Senhor e lede.” “Nem uma só destas coisas faltará.”",
     "meditatio_perguntas": [
-      "Que deserto em mim espera florescer?",
-      "A quem posso dizer hoje: “Tomai ânimo, não temais”?",
-      "Creio que Deus mesmo vem salvar-me?"
+      "Confio que Deus fará justiça às vítimas, sem que eu me vingue?",
+      "Leio “diligentemente no livro do Senhor”?",
+      "Vivo consciente de que este mundo passa?"
     ],
-    "oratio_guia": "Senhor, que vens salvar-nos, faze florescer o meu deserto. Fortalece as minhas mãos e os meus joelhos, e faze-me levar ânimo aos que temem. Amém.",
+    "oratio_guia": "Senhor, a tua Palavra não falha. Faz-me confiar na tua justiça, renunciar à vingança e ler diligentemente o teu livro, esperando os céus novos que preparas. Amém.",
     "contemplatio_foco": {
-      "texto": "Tomai ânimo, não temais",
-      "ref": "Is 35,4"
+      "texto": "os céus se enrolarão como um livro",
+      "ref": "Is 34,4"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "34:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Ap 6,13-14; Mt 24,29.",
+        "origem": "ia"
+      }
+    },
+    "34:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Espectro das noites”: em hebraico Lilit, figura do folclore noturno.",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }

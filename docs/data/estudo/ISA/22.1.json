@@ -1,0 +1,57 @@
+{
+  "id": "ISA.22.1",
+  "livro": "ISA",
+  "titulo": "O vale da Visão e a chave da casa de Davi",
+  "secao": "Oráculos contra as nações",
+  "referencia": "Is 22,1-25",
+  "ini": {
+    "c": 22,
+    "v": 1
+  },
+  "fim": {
+    "c": 22,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "“Porei a chave da casa de Davi sobre os seus ombros”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Oráculo acerca do vale da Visão”: Jerusalém está em festa sobre os telhados enquanto o profeta chora: “Afastai-vos de mim, deixai-me chorar amargamente… sobre a ruína da filha do meu povo.” Diante do cerco, o povo examina armas, recolhe águas, demole casas para reforçar a muralha, “contudo não ergueis os olhos para aquele que fez isto”. O Senhor chama ao pranto e à penitência, “mas há prazer e alegria… Comamos e bebamos, porque amanhã morreremos”. Depois, um oráculo contra Sobna, mordomo do palácio, que se fazia um sepulcro de luxo: “Eu te deitarei fora de teu posto.” Em seu lugar, Deus chama Eliacim: “vesti-lo-ei com a tua túnica… será como pai para os habitantes de Jerusalém e para a casa de Judá. Porei a chave da casa de Davi sobre os seus ombros; ele abrirá, e não haverá quem feche; fechará, e não haverá quem abra. Fixá-lo-ei como um cravo em lugar firme.” Mas até esse cravo um dia cederá.",
+    "alegorico": "O Apocalipse aplica a Cristo: “Isto diz o Santo, o Verdadeiro, o que tem a chave de Davi; o que abre e ninguém fecha” (Ap 3,7). E Jesus dá a Pedro “as chaves do Reino dos céus” (Mt 16,19), retomando a imagem do mordomo do palácio real: o ministério petrino é serviço “como pai” para a casa de Deus. “Comamos e bebamos, porque amanhã morreremos” é citado por Paulo como lema de quem não crê na ressurreição (1Cor 15,32).",
+    "moral": "Duas atitudes diante da crise: confiar só em meios técnicos (armas, muralhas, águas), sem olhar para Deus; ou a festa irresponsável do “comamos e bebamos”. Ambas esquecem a conversão. E o contraste entre dois administradores: Sobna, que usa o cargo para glória própria, e Eliacim, que será “pai” do povo. A autoridade é serviço; o poder é dado para abrir e fechar segundo Deus.",
+    "anagogico": "Só Cristo é o cravo que nunca cede; nele pendem com segurança todos os “vasos”, grandes e pequenos, da casa do Pai."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Deixai-me chorar amargamente.” “Não ergueis os olhos para aquele que fez isto.” “Comamos e bebamos, porque amanhã morreremos.” “Será como pai para os habitantes de Jerusalém.” “Porei a chave da casa de Davi sobre os seus ombros; ele abrirá, e não haverá quem feche.” “Fixá-lo-ei como um cravo em lugar firme.”",
+    "meditatio_perguntas": [
+      "Nas crises, confio só nos meios humanos ou ergo os olhos para Deus?",
+      "Uso a autoridade que tenho para servir, como pai, ou para glória própria?",
+      "Rezo pelo Papa, que recebeu as chaves?"
+    ],
+    "oratio_guia": "Senhor Jesus, que tens a chave de Davi, abre o que deve ser aberto em mim e fecha o que deve ser fechado. Faz-me servir com coração de pai, e guarda o sucessor de Pedro. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porei a chave da casa de Davide sobre os seus ombros; ele abrirá, e não haverá quem feche",
+      "ref": "Is 22,22"
+    }
+  },
+  "ancoras": {
+    "22:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Ap 3,7; Mt 16,19.",
+        "origem": "ia"
+      }
+    },
+    "22:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ezequias construiu o túnel de Siloé para garantir a água durante o cerco (2Rs 20,20).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

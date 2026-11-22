@@ -1,0 +1,57 @@
+{
+  "id": "ISA.14.1",
+  "livro": "ISA",
+  "titulo": "Como caíste do céu, ó astro brilhante",
+  "secao": "Oráculos contra as nações",
+  "referencia": "Is 14,1-32",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "“Como caíste do céu, ó astro brilhante, filho da aurora?”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor terá compaixão de Jacó; os estrangeiros se juntarão a Israel. Livre da servidão, o povo entoará um cântico irônico contra o rei de Babilônia: “Como acabou o tirano, como terminou a opressão? O Senhor despedaçou o bastão dos ímpios… Toda a terra está em descanso e em paz.” Até os cedros do Líbano se alegram. O mundo dos mortos se agita para recebê-lo: “Também tu foste ferido como nós… debaixo de ti se estende por cama a podridão, e a tua coberta são os vermes! Como caíste do céu, ó astro brilhante, filho da aurora? Como caíste por terra, tu que ferias as nações? Tu, que dizias no teu coração: Subirei ao céu, estabelecerei o meu trono acima dos astros de Deus… serei semelhante ao Altíssimo. E contudo foste precipitado na morada dos mortos, no mais profundo dos abismos.” “Porventura é este aquele homem, que punha a terra em confusão?” Seguem oráculos contra a Assíria (“o Senhor dos exércitos o decretou. Quem poderá opor-se?”) e contra os filisteus, concluindo: “o Senhor fundou Sião, e nele se abrigam os humildes do seu povo”.",
+    "alegorico": "Os Padres (Orígenes, Tertuliano, São Gregório) leram a queda do “astro brilhante” (Lúcifer, na Vulgata) como figura da queda de Satanás, que quis ser “semelhante ao Altíssimo”. Jesus diz: “Eu via Satanás cair do céu como um relâmpago” (Lc 10,18). O contrário de Lúcifer é Cristo, que “não julgou usurpação ser igual a Deus, mas aniquilou-se a si mesmo” e foi exaltado (Fl 2,6-9); ele é a verdadeira “estrela da manhã” (Ap 22,16).",
+    "moral": "O pecado raiz é o orgulho: “subirei… serei semelhante ao Altíssimo”. É o mesmo pecado do Éden (“sereis como deuses”). Quem quer subir sem Deus cai “no mais profundo dos abismos”. A morte iguala o tirano aos demais: “também tu foste ferido como nós”. Os humildes, ao contrário, encontram abrigo em Sião.",
+    "anagogico": "A queda definitiva do Acusador e o refúgio dos humildes em Sião anunciam a vitória final de Deus sobre todo orgulho (Ap 12,9-10; 20,10)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Como acabou o tirano?” “Toda a terra está em descanso e em paz.” “Também tu foste ferido como nós.” “Como caíste do céu, ó astro brilhante, filho da aurora?” “Subirei ao céu… serei semelhante ao Altíssimo.” “Foste precipitado na morada dos mortos.” “Nele se abrigam os humildes do seu povo.”",
+    "meditatio_perguntas": [
+      "Onde em mim se esconde o desejo de “ser semelhante ao Altíssimo” sem Deus?",
+      "Imito Lúcifer que sobe, ou Cristo que desce?",
+      "Busco abrigo em Sião com os humildes?"
+    ],
+    "oratio_guia": "Senhor, livra-me do orgulho que quis subir acima das estrelas e caiu no abismo. Dá-me a humildade de Cristo, que se abaixou, e o abrigo que reservas aos humildes. Amém.",
+    "contemplatio_foco": {
+      "texto": "Como caíste do céu, ó astro brilhante, filho da aurora?",
+      "ref": "Is 14,12"
+    }
+  },
+  "ancoras": {
+    "14:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Vulgata traduz “Lucifer, qui mane oriebaris”; daí o nome dado ao demônio.",
+        "origem": "ia"
+      }
+    },
+    "14:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Acaz morreu por volta de 716 a.C.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
