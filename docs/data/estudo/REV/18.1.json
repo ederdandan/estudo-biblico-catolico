@@ -1,0 +1,57 @@
+{
+  "id": "REV.18.1",
+  "livro": "REV",
+  "titulo": "Caiu Babilônia, a grande: sai dela, povo meu",
+  "secao": "As taças e a queda de Babilónia",
+  "referencia": "Ap 18,1-24",
+  "ini": {
+    "c": 18,
+    "v": 1
+  },
+  "fim": {
+    "c": 18,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "“Sai dela, povo meu”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Um anjo de grande poder desce do céu, e a terra se ilumina com a sua glória: “Caiu, caiu Babilônia, a grande! Tornou-se habitação de demônios… porque todas as nações beberam do vinho da cólera da sua furiosa impudicícia… e os mercadores da terra tornaram-se ricos com o excesso do seu luxo.” Outra voz do céu: “Sai dela, povo meu, para não seres participante dos seus delitos, e para não seres compreendido nas suas pragas.” Babilônia dizia no coração: “estou sentada como rainha, não sou viúva e não verei o pranto”; por isso, “num mesmo dia” cairão sobre ela as pragas. Os reis, os mercadores e os marinheiros choram de longe: “Ai, ai daquela grande cidade… Num momento veio o seu juízo!” A lista das suas mercadorias termina em “escravos e até almas humanas”. “Exulta sobre ela, ó céu, e vós, os santos, os apóstolos e os profetas.” Um anjo lança ao mar uma pedra como uma grande mó: “Com este ímpeto será precipitada Babilônia… não se ouvirá mais em ti a voz do esposo e da esposa… Nesta cidade foi encontrado o sangue dos profetas e dos santos.”",
+    "alegorico": "O canto fúnebre retoma os profetas: a queda de Babilônia (Is 21,9; Jr 51) e de Tiro (Ez 27). “Sai dela, povo meu” ecoa Is 52,11 e Jr 51,45: o povo de Deus vive no mundo sem pertencer a ele (Jo 17,15-16). A pedra lançada ao mar lembra a advertência de Jesus sobre a mó ao pescoço de quem escandaliza os pequenos (Mt 18,6).",
+    "moral": "O texto é um juízo sobre uma economia sem alma: os mercadores choram não a cidade, mas o lucro perdido; e entre as mercadorias estão “escravos e até almas humanas”. Quando tudo se compra, até o homem se torna mercadoria. O chamado “sai dela” não é fuga do mundo, mas recusa de participar dos seus pecados. E a ilusão de Babilônia é a de todo orgulho: “não verei o pranto”.",
+    "anagogico": "“Caiu, caiu Babilônia”: o fim de toda cidade construída contra Deus, para dar lugar à Jerusalém que desce do céu (Ap 21,2)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Caiu, caiu Babilônia, a grande!” “Sai dela, povo meu, para não seres participante dos seus delitos.” “Estou sentada como rainha… e não verei o pranto.” “Num momento veio o seu juízo!” “Escravos e até almas humanas!” “Exulta sobre ela, ó céu.” “Não se ouvirá mais em ti a voz do esposo e da esposa.”",
+    "meditatio_perguntas": [
+      "De que “Babilônia” Deus me chama a sair?",
+      "Trato pessoas como mercadoria, de algum modo?",
+      "Penso que “não verei o pranto”, que estou seguro sem Deus?"
+    ],
+    "oratio_guia": "Senhor, que julgas Babilônia, dá-me sair dela, sem participar dos seus pecados. Que eu nunca troque almas por lucro, e espere a cidade santa que vem de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Sai dela, povo meu, para não seres participante dos seus delitos",
+      "ref": "Ap 18,4"
+    }
+  },
+  "ancoras": {
+    "18:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Is 52,11; Jr 51,45; 2Cor 6,17.",
+        "origem": "ia"
+      }
+    },
+    "18:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Almas humanas”: o comércio de escravos, comum no Império.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

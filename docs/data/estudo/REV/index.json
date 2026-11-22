@@ -235,11 +235,25 @@
   },
   {
    "id": "REV.17.1",
-   "titulo": "A queda de Babilónia",
+   "titulo": "A grande Meretriz sobre a Besta: o Cordeiro a vencerá",
    "secao": "As taças e a queda de Babilónia",
-   "referencia": "Ap 17,1–18,24",
+   "referencia": "Ap 17,1-18",
    "ini": {
     "c": 17,
+    "v": 1
+   },
+   "fim": {
+    "c": 17,
+    "v": 18
+   }
+  },
+  {
+   "id": "REV.18.1",
+   "titulo": "Caiu Babilônia, a grande: sai dela, povo meu",
+   "secao": "As taças e a queda de Babilónia",
+   "referencia": "Ap 18,1-24",
+   "ini": {
+    "c": 18,
     "v": 1
    },
    "fim": {
