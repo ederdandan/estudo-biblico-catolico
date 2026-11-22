@@ -1,0 +1,57 @@
+{
+  "id": "2SA.19.9",
+  "livro": "2SA",
+  "titulo": "O regresso do rei",
+  "secao": "A revolta de Absalão",
+  "referencia": "2Sm 19,9-43",
+  "ini": {
+    "c": 19,
+    "v": 9
+  },
+  "fim": {
+    "c": 19,
+    "v": 43
+  },
+  "liturgia": {
+    "tema_central": "Não morrerás: o regresso do rei e os perdões",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Em todas as tribos o povo discute: o rei nos salvou dos filisteus e fugiu por causa de Absalão; Absalão morreu; por que não fazemos voltar o rei? Davi envia aos sacerdotes uma mensagem para os anciãos de Judá: vós sois meus irmãos, osso dos meus ossos; por que sereis os últimos a trazer o rei? E promete a Amasa, chefe do exército de Absalão, o comando no lugar de Joab. Judá se une como um só homem. O rei volta até o Jordão. Semei, o que o amaldiçoara, vem depressa com mil benjaminitas, prostra-se e diz: não me imputes a culpa, porque eu, teu servo, conheço o meu pecado; vim hoje primeiro de toda a casa de José. Abisai quer matá-lo; Davi responde: que tenho eu convosco, filhos de Sárvia? Hoje se há de matar alguém em Israel? Não sei eu que hoje sou rei de Israel? E diz a Semei: “Não morrerás.” Vem também Mefibaal, que desde a partida do rei não lavara os pés, nem fizera a barba, nem lavara as vestes: o meu servo me enganou, eu sou coxo; tu és como um anjo de Deus, faz o que te parecer; toda a casa de meu pai merecia a morte, e tu me sentaste à tua mesa. Davi decide: repartireis as terras. Mefibaal responde: “Fique ele muito embora com tudo, uma vez que o rei, meu senhor, voltou em paz a sua casa.” Berzelai, de oitenta anos, que sustentara o rei em Maanaim, acompanha-o até o Jordão. Davi o convida para Jerusalém; ele recusa: que gosto tenho ainda? deixa-me morrer na minha cidade; leva contigo Camaam, meu filho. O rei o beija e o abençoa. Mas, em Gálgala, os homens de Israel e de Judá discutem sobre quem tem mais direito ao rei, e as palavras de Judá são mais duras.",
+    "alegorico": "O retorno do rei, que perdoa os inimigos e recompensa os fiéis, foi lido como imagem do retorno de Cristo ressuscitado: “não morrerás” é a palavra da misericórdia ao pecador arrependido. Mefibaal, que não se cuida durante a ausência do rei e só quer vê-lo voltar, é figura da Igreja que vive o luto da ausência do Esposo e diz: “vem, Senhor”.",
+    "moral": "O dia da restauração é dia de misericórdia, não de vingança. Davi perdoa Semei, mesmo contra a pressão dos violentos. Mefibaal mostra o desprendimento de quem ama: não lhe importam as terras, basta-lhe a volta do rei. Berzelai, com sabedoria, aceita os limites da velhice e cede o lugar ao filho. Mas a rivalidade entre as tribos prenuncia novas divisões.",
+    "anagogico": "“Basta que o rei tenha voltado em paz”: o desejo do cristão é a volta do seu Senhor. Diante dele, todas as outras posses perdem importância."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vós sois meus Irmãos, o meu osso e a minha carne.” “Eu, teu servo, conheço o meu pecado.” “Ignoro eu porventura que hoje fui feito rei sobre Israel?” “Não morrerás.” “Fique ele muito embora com tudo, uma vez que o rei, meu senhor, voltou em paz.” “Tenho hoje oitenta anos.”",
+    "meditatio_perguntas": [
+      "Uso os momentos de vitória para perdoar ou para me vingar?",
+      "Como Mefibaal, basta-me a presença do Senhor, mais que as posses?",
+      "Sei aceitar com sabedoria os limites da minha idade e da minha condição?"
+    ],
+    "oratio_guia": "Senhor, que no dia da tua vitória dizes ao pecador “não morrerás”, faz-me misericordioso como tu. Que o meu único desejo seja ver-te voltar em paz, e que todo o resto fique em segundo lugar. Amém.",
+    "contemplatio_foco": {
+      "texto": "Fique ele muito embora com tudo, uma vez que o rei, meu senhor, voltou em paz a sua casa",
+      "ref": "2Sm 19,30"
+    }
+  },
+  "ancoras": {
+    "19:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Casa de José” designa aqui as tribos do norte; Semei, benjaminita, se apresenta como o primeiro deles.",
+        "origem": "ia"
+      }
+    },
+    "19:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Não cuidar de si (pés, barba, roupas) era sinal de luto, que confirma a lealdade de Mefibaal contra a calúnia de Siba.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

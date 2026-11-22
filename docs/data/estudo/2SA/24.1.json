@@ -1,0 +1,57 @@
+{
+  "id": "2SA.24.1",
+  "livro": "2SA",
+  "titulo": "O recenseamento e o altar na eira de Areúna",
+  "secao": "Apêndices do reinado de Davi",
+  "referencia": "2Sm 24,1-25",
+  "ini": {
+    "c": 24,
+    "v": 1
+  },
+  "fim": {
+    "c": 24,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "Melhor é cair nas mãos do Senhor: o recenseamento e o altar de Areúna",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A ira do Senhor se acende de novo contra Israel, e ele permite que Davi se encha de vaidade e mande recensear Israel e Judá. Joab objeta: que o Senhor multiplique cem vezes o povo, mas por que o rei quer isto? A ordem do rei prevalece. Durante nove meses e vinte dias percorrem o país; Israel conta oitocentos mil homens de guerra, Judá quinhentos mil. Então “Davi sentiu um remorso no seu coração” e disse: “Eu cometi nesta ação um grande pecado; mas rogo-te, Senhor, que perdoes a iniquidade do teu servo, porque procedeu muito nesciamente.” De manhã, o profeta Gad lhe traz a escolha do Senhor: três anos de fome, três meses de fuga diante dos inimigos ou três dias de peste. Davi responde: “Encontro-me muito perplexo, mas melhor é que eu caia nas mãos do Senhor (porque são grandes as suas misericórdias) do que nas mãos dos homens.” Vem a peste, e morrem setenta mil homens. Quando o anjo estende a mão sobre Jerusalém, o Senhor se compadece e diz: “Basta, detém agora a tua mão.” O anjo está junto à eira de Areúna, o jebuseu. Davi, vendo o anjo, diz: “Eu sou o que pequei… que fizeram estes, que são as ovelhas? Volte-se a tua mão contra mim.” Gad lhe diz: levanta um altar na eira de Areúna. Areúna oferece de graça a eira, os bois e a lenha. Davi recusa: “não oferecerei ao Senhor meu Deus holocaustos que me não custem nada”; compra a eira e os bois por cinquenta siclos, edifica o altar, oferece holocaustos, e o Senhor se aplaca com a terra, e a praga cessa.",
+    "alegorico": "A eira de Areúna é o lugar onde Salomão construirá o Templo (2Cr 3,1), identificado com o monte Moriá do sacrifício de Isaac. Ali, sobre Jerusalém, Deus detém a mão do anjo: é o lugar da misericórdia. Davi que diz “eu pequei, que fizeram as ovelhas? volte-se a tua mão contra mim” é figura do Bom Pastor que toma sobre si o castigo do rebanho.",
+    "moral": "O recenseamento é pecado de orgulho: medir o próprio poder e confiar nos números, como se o povo pertencesse ao rei e não a Deus. Davi se arrepende sem que ninguém o acuse. Na escolha do castigo, prefere a mão de Deus à dos homens, porque confia na misericórdia. E ensina uma regra de ouro do culto: não oferecer a Deus o que nada nos custa.",
+    "anagogico": "O livro termina com um altar e um sacrifício que detêm a morte: anúncio do sacrifício de Cristo em Jerusalém, que põe fim para sempre ao poder da morte sobre o povo de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Sentiu Davide um remorso no seu coração.” “Eu cometi nesta acção um grande pecado.” “Melhor é que eu caia nas mãos do Senhor (porque são grandes as suas misericórdias).” “Basta, detém agora a tua mão.” “Eu sou o que pequei… que fizeram estes, que são as ovelhas?” “Não oferecerei ao Senhor meu Deus holocaustos que me não custem nada.”",
+    "meditatio_perguntas": [
+      "Confio nos meus “números” (recursos, apoios) mais que em Deus?",
+      "Prefiro cair nas mãos de Deus, confiando na sua misericórdia?",
+      "O que ofereço a Deus me custa alguma coisa?"
+    ],
+    "oratio_guia": "Senhor, prefiro cair nas tuas mãos, porque são grandes as tuas misericórdias. Perdoa o meu orgulho e detém a tua mão. Que eu nunca te ofereça o que nada me custa, e me una ao sacrifício do teu Filho. Amém.",
+    "contemplatio_foco": {
+      "texto": "melhor é que eu caia nas mãos do Senhor (porque são grandes as suas misericórdias) do que nas mãos dos homens",
+      "ref": "2Sm 24,14"
+    }
+  },
+  "ancoras": {
+    "24:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O texto paralelo de 1Cr 21,1 atribui a instigação a Satanás; a teologia posterior distingue o que Deus permite do que ele causa.",
+        "origem": "ia"
+      }
+    },
+    "24:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "1Cr 21,25 fala de seiscentos siclos de ouro, talvez pelo terreno inteiro do Templo; aqui os cinquenta siclos de prata se referem à eira e aos bois.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

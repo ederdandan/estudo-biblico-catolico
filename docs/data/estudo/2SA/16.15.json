@@ -1,0 +1,57 @@
+{
+  "id": "2SA.16.15",
+  "livro": "2SA",
+  "titulo": "Os conselhos de Aquitofel e de Cusai",
+  "secao": "A revolta de Absalão",
+  "referencia": "2Sm 16,15–17,23",
+  "ini": {
+    "c": 16,
+    "v": 15
+  },
+  "fim": {
+    "c": 17,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "O Senhor dissipou o conselho de Aquitofel",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Absalão entra em Jerusalém com Aquitofel. Cusai se apresenta: viva o rei! Absalão desconfia: é esta a tua lealdade ao teu amigo? Cusai responde que servirá a quem o Senhor e o povo escolheram; como servi o teu pai, servirei a ti. Absalão pede conselho a Aquitofel, que diz: une-te às concubinas de teu pai que ele deixou, para que todo Israel saiba que te tornaste odioso a teu pai, e os teus se fortaleçam. Armam uma tenda no terraço, e Absalão se une às concubinas à vista de todos. Os conselhos de Aquitofel eram tidos como oráculos de Deus. Aquitofel propõe ainda: dá-me doze mil homens; perseguirei Davi esta noite, cansado e sem forças; ferirei só o rei, e o povo voltará a ti. Absalão chama também Cusai, que diz: desta vez o conselho não é bom; o teu pai e os seus são valentes e irritados como ursa sem filhos; ele não passa a noite com o povo; se houver uma primeira derrota, o pânico se espalhará; reúne antes todo Israel, de Dã a Bersabeia, e vai tu mesmo à frente. Absalão e os anciãos preferem o conselho de Cusai: “Por disposição do Senhor, foi abandonado o útil conselho de Aquitofel, para que o Senhor fizesse cair o mal sobre Absalão.” Cusai avisa os sacerdotes; os seus filhos, escondidos numa cisterna por uma mulher em Baurim, levam a mensagem a Davi, que atravessa o Jordão durante a noite. Aquitofel, vendo o seu conselho rejeitado, volta para casa, põe em ordem os seus negócios e se enforca. Davi chega a Maanaim, onde Sobi, Maquir e Berzelai trazem camas, louça, trigo, cevada, farinha, favas, lentilhas, mel, manteiga e ovelhas para o povo cansado e faminto.",
+    "alegorico": "Aquitofel, o conselheiro íntimo que trai o rei e acaba enforcando-se, é o tipo de Judas (cf. Sl 40,10: “o meu amigo íntimo, que comia o meu pão, levantou contra mim o calcanhar”, aplicado por Jesus a Judas em Jo 13,18). E a oração de Davi (“torna insensato o conselho de Aquitofel”) é atendida pelo Senhor, que confunde a sabedoria do mundo (1Cor 1,19).",
+    "moral": "A sabedoria humana mais brilhante, separada de Deus, é impotente. Aquitofel aconselha bem do ponto de vista militar, mas o seu primeiro conselho (as concubinas) revela um coração corrompido. Deus age através de meios humanos: a astúcia de Cusai, a coragem de uma mulher que esconde os mensageiros, a generosidade dos estrangeiros que alimentam o rei fugitivo.",
+    "anagogico": "Nenhum conselho prevalece contra o Senhor (Pr 21,30). A história, mesmo quando parece nas mãos dos ímpios, está nas mãos de Deus, que conduz tudo ao fim que quer."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Deus te salve, ó rei!” “Os conselhos que Aquitofel dava… eram considerados como oráculos de um Deus.” “Não é bom o conselho que Aquitofel deu esta vez.” “Por disposição do Senhor, foi abandonado o útil conselho de Aquitofel.” “Enforcou-se.” “Ofereceram-lhe camas, tapetes… mel, manteiga.”",
+    "meditatio_perguntas": [
+      "Confio mais na minha inteligência do que na providência de Deus?",
+      "Quem são os “Berzelai” que me socorreram no deserto?",
+      "O que faço quando os meus planos são frustrados: desespero ou confio?"
+    ],
+    "oratio_guia": "Senhor, confunde os conselhos que se levantam contra a tua vontade, também os meus. Livra-me do desespero de Aquitofel e faz-me grato aos que me sustentam no deserto. Amém.",
+    "contemplatio_foco": {
+      "texto": "Por disposição do Senhor, foi abandonado o útil conselho de Aquitofel",
+      "ref": "2Sm 17,14"
+    }
+  },
+  "ancoras": {
+    "16:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Tomar o harém do rei era proclamar-se publicamente seu sucessor e tornar a ruptura irreversível; cumpre a profecia de Natã (12,11).",
+        "origem": "ia"
+      }
+    },
+    "17:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O suicídio de Aquitofel, depois de pôr a casa em ordem, é o único outro enforcamento narrado na Bíblia além do de Judas (Mt 27,5).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

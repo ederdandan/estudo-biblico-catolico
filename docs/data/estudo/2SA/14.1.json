@@ -1,0 +1,57 @@
+{
+  "id": "2SA.14.1",
+  "livro": "2SA",
+  "titulo": "A mulher de Técua e o regresso de Absalão",
+  "secao": "O pecado de Davi e os seus frutos",
+  "referencia": "2Sm 14,1-33",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 33
+  },
+  "liturgia": {
+    "tema_central": "Deus não quer que alguma alma pereça: a mulher de Técua",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Joab percebe que o coração do rei se inclina para Absalão. Manda buscar uma mulher sábia de Técua e lhe ensina o que dizer: veste-te de luto e vai ao rei. Ela se prostra: salva-me, ó rei. Sou viúva; os meus dois filhos brigaram no campo, um matou o outro; agora toda a família exige que eu entregue o que restou para matá-lo, e assim apagarão a última brasa que me ficou, sem deixar nome nem descendência ao meu marido. O rei promete protegê-lo e jura: nenhum cabelo do teu filho cairá por terra. Então a mulher aplica a parábola: por que pensas assim contra o povo de Deus? Ao falar assim, o rei se condena, não fazendo voltar o seu banido. “Nós todos vamos morrendo, e corremos pela terra como águas, que não voltam mais. Deus não quer que alguma alma pereça, antes está sempre disposto a revogar a sentença.” Davi pergunta: a mão de Joab está contigo nisto? Ela confessa, elogiando a sabedoria do rei, que é como um anjo de Deus. Davi manda Joab trazer Absalão, mas não o quer ver: que vá para a sua casa. Absalão, o homem mais belo de Israel, cujo cabelo pesava duzentos siclos, vive dois anos em Jerusalém sem ver o rosto do rei. Chama Joab duas vezes, sem resposta; manda queimar-lhe o campo de cevada, e Joab vem. Absalão diz: quero ver o rosto do rei; se houver culpa em mim, que me mate. Joab leva o recado; Absalão entra, prostra-se, e o rei o beija.",
+    "alegorico": "A frase da mulher de Técua, “Deus não quer que alguma alma pereça, mas busca meios para que o banido não fique banido”, é uma das mais belas expressões da misericórdia divina no AT, cumprida em Cristo, que vem buscar os exilados do pecado. A reconciliação incompleta de Davi, que traz o filho mas não o recebe, contrasta com o Pai da parábola, que corre e abraça o filho (Lc 15,20).",
+    "moral": "Davi hesita entre a justiça e o amor e acaba numa meia reconciliação: perdoa sem acolher. O perdão pela metade não cura; Absalão, mantido à distância, alimentará ressentimento. Também nós às vezes “perdoamos” mas não deixamos o outro ver o nosso rosto. E a beleza de Absalão, descrita longamente, contrasta com o seu coração: o exterior engana.",
+    "anagogico": "“Corremos pela terra como águas que não voltam”: a vida é breve, e por isso a reconciliação é urgente. Deus quer que todos se salvem e cheguem a ver a sua face."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O coração do rei estava inclinado para Absalão.” “Querem apagar a centelha que me ficou.” “Nós todos vamos morrendo, e corremos pela terra como águas, que não voltam mais.” “Deus não quer que alguma alma pereça.” “Não viu a face do rei.” “O rei beijou Absalão.”",
+    "meditatio_perguntas": [
+      "Perdoo pela metade, sem deixar que o outro “veja o meu rosto”?",
+      "Lembro que a vida é breve e a reconciliação urgente?",
+      "Deixo-me enganar pela beleza exterior?"
+    ],
+    "oratio_guia": "Senhor, que não queres que nenhuma alma pereça e buscas os exilados, ensina-me a perdoar inteiramente, sem meias reconciliações. Que eu veja a tua face, e os outros vejam a minha com bondade. Amém.",
+    "contemplatio_foco": {
+      "texto": "Nós todos vamos morrendo, e corremos pela terra como águas, que não voltam mais. Deus não quer que alguma alma pereça",
+      "ref": "2Sm 14,14"
+    }
+  },
+  "ancoras": {
+    "14:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Técua, aldeia ao sul de Belém, será a pátria do profeta Amós.",
+        "origem": "ia"
+      }
+    },
+    "14:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Duzentos siclos “do peso do rei” equivalem a cerca de 2 a 2,3 kg; a cabeleira prepara o modo da morte de Absalão (18,9).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

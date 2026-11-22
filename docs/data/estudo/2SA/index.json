@@ -1,0 +1,432 @@
+{
+ "livro": "2SA",
+ "secoes": [
+  "Davi rei em Hebron",
+  "Davi em Jerusalém",
+  "O pecado de Davi e os seus frutos",
+  "A revolta de Absalão",
+  "Apêndices do reinado de Davi"
+ ],
+ "pericopes": [
+  {
+   "id": "2SA.1.1",
+   "titulo": "A notícia da morte de Saul",
+   "secao": "Davi rei em Hebron",
+   "referencia": "2Sm 1,1-16",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 16
+   }
+  },
+  {
+   "id": "2SA.1.17",
+   "titulo": "Como caíram os valentes: a elegia de Davi",
+   "secao": "Davi rei em Hebron",
+   "referencia": "2Sm 1,17-27",
+   "ini": {
+    "c": 1,
+    "v": 17
+   },
+   "fim": {
+    "c": 1,
+    "v": 27
+   }
+  },
+  {
+   "id": "2SA.2.1",
+   "titulo": "Davi ungido em Hebron; a guerra entre as duas casas",
+   "secao": "Davi rei em Hebron",
+   "referencia": "2Sm 2,1-32",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 32
+   }
+  },
+  {
+   "id": "2SA.3.1",
+   "titulo": "Abner passa a Davi e é morto por Joab",
+   "secao": "Davi rei em Hebron",
+   "referencia": "2Sm 3,1-39",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 39
+   }
+  },
+  {
+   "id": "2SA.4.1",
+   "titulo": "O assassinato de Isboset",
+   "secao": "Davi rei em Hebron",
+   "referencia": "2Sm 4,1-12",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 12
+   }
+  },
+  {
+   "id": "2SA.5.1",
+   "titulo": "Davi rei de todo Israel; a tomada de Sião",
+   "secao": "Davi em Jerusalém",
+   "referencia": "2Sm 5,1-25",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 25
+   }
+  },
+  {
+   "id": "2SA.6.1",
+   "titulo": "A arca sobe a Jerusalém: Davi dança diante do Senhor",
+   "secao": "Davi em Jerusalém",
+   "referencia": "2Sm 6,1-23",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 23
+   }
+  },
+  {
+   "id": "2SA.7.1",
+   "titulo": "A profecia de Natã: uma casa para sempre",
+   "secao": "Davi em Jerusalém",
+   "referencia": "2Sm 7,1-17",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 17
+   }
+  },
+  {
+   "id": "2SA.7.18",
+   "titulo": "A oração de Davi: quem sou eu, Senhor?",
+   "secao": "Davi em Jerusalém",
+   "referencia": "2Sm 7,18-29",
+   "ini": {
+    "c": 7,
+    "v": 18
+   },
+   "fim": {
+    "c": 7,
+    "v": 29
+   }
+  },
+  {
+   "id": "2SA.8.1",
+   "titulo": "As vitórias de Davi",
+   "secao": "Davi em Jerusalém",
+   "referencia": "2Sm 8,1-18",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 18
+   }
+  },
+  {
+   "id": "2SA.9.1",
+   "titulo": "Mefibaal à mesa do rei",
+   "secao": "Davi em Jerusalém",
+   "referencia": "2Sm 9,1-13",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 13
+   }
+  },
+  {
+   "id": "2SA.10.1",
+   "titulo": "A afronta aos mensageiros e a guerra contra Amon",
+   "secao": "Davi em Jerusalém",
+   "referencia": "2Sm 10,1-19",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 19
+   }
+  },
+  {
+   "id": "2SA.11.1",
+   "titulo": "Davi e Betsabé",
+   "secao": "O pecado de Davi e os seus frutos",
+   "referencia": "2Sm 11,1-27",
+   "ini": {
+    "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 27
+   }
+  },
+  {
+   "id": "2SA.12.1",
+   "titulo": "Tu és esse homem: a parábola de Natã",
+   "secao": "O pecado de Davi e os seus frutos",
+   "referencia": "2Sm 12,1-15",
+   "ini": {
+    "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 15
+   }
+  },
+  {
+   "id": "2SA.12.16",
+   "titulo": "A morte do menino e o nascimento de Salomão",
+   "secao": "O pecado de Davi e os seus frutos",
+   "referencia": "2Sm 12,16-31",
+   "ini": {
+    "c": 12,
+    "v": 16
+   },
+   "fim": {
+    "c": 12,
+    "v": 31
+   }
+  },
+  {
+   "id": "2SA.13.1",
+   "titulo": "Amnon e Tamar",
+   "secao": "O pecado de Davi e os seus frutos",
+   "referencia": "2Sm 13,1-22",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 22
+   }
+  },
+  {
+   "id": "2SA.13.23",
+   "titulo": "Absalão vinga Tamar e foge",
+   "secao": "O pecado de Davi e os seus frutos",
+   "referencia": "2Sm 13,23-39",
+   "ini": {
+    "c": 13,
+    "v": 23
+   },
+   "fim": {
+    "c": 13,
+    "v": 39
+   }
+  },
+  {
+   "id": "2SA.14.1",
+   "titulo": "A mulher de Técua e o regresso de Absalão",
+   "secao": "O pecado de Davi e os seus frutos",
+   "referencia": "2Sm 14,1-33",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 33
+   }
+  },
+  {
+   "id": "2SA.15.1",
+   "titulo": "Absalão rouba o coração de Israel",
+   "secao": "A revolta de Absalão",
+   "referencia": "2Sm 15,1-12",
+   "ini": {
+    "c": 15,
+    "v": 1
+   },
+   "fim": {
+    "c": 15,
+    "v": 12
+   }
+  },
+  {
+   "id": "2SA.15.13",
+   "titulo": "Davi foge de Jerusalém",
+   "secao": "A revolta de Absalão",
+   "referencia": "2Sm 15,13-37",
+   "ini": {
+    "c": 15,
+    "v": 13
+   },
+   "fim": {
+    "c": 15,
+    "v": 37
+   }
+  },
+  {
+   "id": "2SA.16.1",
+   "titulo": "Siba e Semei: deixai-o amaldiçoar",
+   "secao": "A revolta de Absalão",
+   "referencia": "2Sm 16,1-14",
+   "ini": {
+    "c": 16,
+    "v": 1
+   },
+   "fim": {
+    "c": 16,
+    "v": 14
+   }
+  },
+  {
+   "id": "2SA.16.15",
+   "titulo": "Os conselhos de Aquitofel e de Cusai",
+   "secao": "A revolta de Absalão",
+   "referencia": "2Sm 16,15–17,23",
+   "ini": {
+    "c": 16,
+    "v": 15
+   },
+   "fim": {
+    "c": 17,
+    "v": 23
+   }
+  },
+  {
+   "id": "2SA.17.24",
+   "titulo": "A morte de Absalão",
+   "secao": "A revolta de Absalão",
+   "referencia": "2Sm 17,24–18,18",
+   "ini": {
+    "c": 17,
+    "v": 24
+   },
+   "fim": {
+    "c": 18,
+    "v": 18
+   }
+  },
+  {
+   "id": "2SA.18.19",
+   "titulo": "Meu filho Absalão!",
+   "secao": "A revolta de Absalão",
+   "referencia": "2Sm 18,19–19,8",
+   "ini": {
+    "c": 18,
+    "v": 19
+   },
+   "fim": {
+    "c": 19,
+    "v": 8
+   }
+  },
+  {
+   "id": "2SA.19.9",
+   "titulo": "O regresso do rei",
+   "secao": "A revolta de Absalão",
+   "referencia": "2Sm 19,9-43",
+   "ini": {
+    "c": 19,
+    "v": 9
+   },
+   "fim": {
+    "c": 19,
+    "v": 43
+   }
+  },
+  {
+   "id": "2SA.20.1",
+   "titulo": "A revolta de Seba",
+   "secao": "A revolta de Absalão",
+   "referencia": "2Sm 20,1-26",
+   "ini": {
+    "c": 20,
+    "v": 1
+   },
+   "fim": {
+    "c": 20,
+    "v": 26
+   }
+  },
+  {
+   "id": "2SA.21.1",
+   "titulo": "Os gabaonitas e Resfa; os gigantes filisteus",
+   "secao": "Apêndices do reinado de Davi",
+   "referencia": "2Sm 21,1-22",
+   "ini": {
+    "c": 21,
+    "v": 1
+   },
+   "fim": {
+    "c": 21,
+    "v": 22
+   }
+  },
+  {
+   "id": "2SA.22.1",
+   "titulo": "O cântico de Davi: o Senhor é o meu rochedo",
+   "secao": "Apêndices do reinado de Davi",
+   "referencia": "2Sm 22,1-51",
+   "ini": {
+    "c": 22,
+    "v": 1
+   },
+   "fim": {
+    "c": 22,
+    "v": 51
+   }
+  },
+  {
+   "id": "2SA.23.1",
+   "titulo": "As últimas palavras de Davi e os seus valentes",
+   "secao": "Apêndices do reinado de Davi",
+   "referencia": "2Sm 23,1-39",
+   "ini": {
+    "c": 23,
+    "v": 1
+   },
+   "fim": {
+    "c": 23,
+    "v": 39
+   }
+  },
+  {
+   "id": "2SA.24.1",
+   "titulo": "O recenseamento e o altar na eira de Areúna",
+   "secao": "Apêndices do reinado de Davi",
+   "referencia": "2Sm 24,1-25",
+   "ini": {
+    "c": 24,
+    "v": 1
+   },
+   "fim": {
+    "c": 24,
+    "v": 25
+   }
+  }
+ ]
+}

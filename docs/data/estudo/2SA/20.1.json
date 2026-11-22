@@ -1,0 +1,57 @@
+{
+  "id": "2SA.20.1",
+  "livro": "2SA",
+  "titulo": "A revolta de Seba",
+  "secao": "A revolta de Absalão",
+  "referencia": "2Sm 20,1-26",
+  "ini": {
+    "c": 20,
+    "v": 1
+  },
+  "fim": {
+    "c": 20,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "A paz seja contigo, meu irmão: a revolta de Seba e o beijo de Joab",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Encontra-se ali um homem perverso, Seba, filho de Bocri, benjaminita, que toca a trombeta: “Nós não temos parte alguma com Davi, nem herança com o filho de Isaí; volta para as tuas tendas, Israel.” Todo Israel se separa de Davi e segue Seba; Judá permanece fiel ao rei. Em Jerusalém, Davi recolhe as dez concubinas que deixara e as mantém isoladas, sustentadas mas sem se aproximar delas, viúvas em vida até a morte. Davi manda Amasa convocar Judá em três dias, mas Amasa se atrasa; o rei manda então Abisai, com os homens de Joab, perseguir Seba antes que se fortifique. Junto à grande pedra de Gabaon, Amasa vem ao encontro deles. Joab lhe diz: “A paz seja contigo, meu irmão”, e com a mão direita lhe toma a barba como para beijá-lo; Amasa não repara na espada, e Joab o fere no ventre. Joab assume o comando, e o povo, depois de afastarem o cadáver do caminho, o segue. Sitiam Seba em Abel-Bet-Maaca. Uma mulher sábia chama Joab do muro: antigamente se dizia: quem quer conselho, peça-o em Abel; “eu sou uma cidade pacífica e fiel em Israel; tu queres arruinar uma cidade, que é uma mãe em Israel? Por que te afadigas em destruir a herança do Senhor?” Joab responde: não quero destruir; entregai-me só Seba. A mulher convence o povo, e lançam do muro a cabeça de Seba. Joab toca a trombeta e volta a Jerusalém. Segue a lista dos oficiais do rei.",
+    "alegorico": "O beijo traiçoeiro de Joab, com a saudação “a paz seja contigo, meu irmão”, prefigura o beijo de Judas no Getsêmani (“Salve, Mestre”, Mt 26,49). A mulher sábia de Abel, que salva a cidade com uma palavra, foi lida como figura da Igreja, “mãe em Israel”, que pela sabedoria salva os seus filhos da destruição.",
+    "moral": "O grito de Seba mostra como as divisões se alimentam de ressentimentos (a disputa entre Israel e Judá no fim do capítulo anterior). Joab mata pela segunda vez um rival com traição; a sua eficácia militar não justifica os seus crimes. E a mulher de Abel mostra que a palavra sábia, dita com coragem no momento certo, pode evitar uma catástrofe: o diálogo salvou a cidade.",
+    "anagogico": "A “herança do Senhor” não deve ser destruída: Deus quer salvar as cidades, não arruiná-las. A paz final virá pela sabedoria de Deus, não pela traição dos homens."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Nós não temos parte alguma com Davide.” “Volta para as tuas tendas, Israel.” “A paz seja contigo, meu irmão.” “Amasa não reparou na espada.” “Eu sou uma cidade pacifica e fiel em Israel.” “Por que te afadigas tu em destruir a herança do Senhor?”",
+    "meditatio_perguntas": [
+      "Há em mim palavras de paz que escondem uma espada?",
+      "Alimento divisões com ressentimentos?",
+      "Tenho a coragem de falar com sabedoria para evitar o mal?"
+    ],
+    "oratio_guia": "Senhor, livra-me do beijo falso e da paz fingida. Dá-me a sabedoria da mulher de Abel, para falar no momento certo e salvar o que é teu da destruição. Amém.",
+    "contemplatio_foco": {
+      "texto": "Por que te afadigas tu em destruir a herança do Senhor?",
+      "ref": "2Sm 20,19"
+    }
+  },
+  "ancoras": {
+    "20:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O grito de Seba será retomado palavra por palavra na divisão do reino depois de Salomão (1Rs 12,16).",
+        "origem": "ia"
+      }
+    },
+    "20:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Abel-Bet-Maaca, no extremo norte de Israel, perto de Dã, era renomada pela sabedoria dos seus habitantes.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

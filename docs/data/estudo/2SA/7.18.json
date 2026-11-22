@@ -1,0 +1,49 @@
+{
+  "id": "2SA.7.18",
+  "livro": "2SA",
+  "titulo": "A oração de Davi: quem sou eu, Senhor?",
+  "secao": "Davi em Jerusalém",
+  "referencia": "2Sm 7,18-29",
+  "ini": {
+    "c": 7,
+    "v": 18
+  },
+  "fim": {
+    "c": 7,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "Quem sou eu, ó Senhor Deus? A oração de Davi",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O rei Davi entra, senta-se diante do Senhor e diz: “Quem sou eu, ó Senhor Deus, e que casa é a minha, para tu me teres elevado a este ponto?” E ainda isto te pareceu pouco: falaste também do futuro da casa do teu servo. Que mais pode Davi dizer? Tu conheces o teu servo. Por causa da tua palavra e segundo o teu coração fizeste todas estas grandezas. “Por isso, ó Senhor Deus, mostraste a tua grandeza! Ninguém há semelhante a ti, nem há Deus fora de ti.” Que nação na terra é como o teu povo Israel, que Deus foi resgatar para fazê-lo seu povo, fazendo por ele maravilhas? Estabeleceste Israel como teu povo para sempre, e tu, Senhor, te tornaste o seu Deus. Agora, Senhor, cumpre para sempre a palavra que disseste acerca do teu servo e da sua casa, para que o teu nome seja engrandecido para sempre. Porque tu revelaste ao teu servo: eu te edificarei uma casa; por isso o teu servo encontrou coragem para te dirigir esta oração. “Agora, ó Senhor Deus, tu és Deus e as tuas palavras são verdadeiras.” Abençoa, pois, a casa do teu servo, para que subsista para sempre diante de ti.",
+    "alegorico": "A oração de Davi é modelo da resposta de Maria à Anunciação: diante de uma promessa desmedida, a humildade (“quem sou eu?”) e o acolhimento confiante da palavra (“as tuas palavras são verdadeiras”). É também o modelo da oração cristã, que pede o que Deus já prometeu, apoiada na sua fidelidade.",
+    "moral": "Davi não discute nem se gaba: senta-se diante do Senhor e se maravilha. A gratidão verdadeira começa por reconhecer a própria pequenez e a gratuidade do dom. E a sua súplica tem uma ousadia humilde: pede que Deus faça o que disse, “porque tu revelaste”. A oração mais segura é a que se apoia na promessa de Deus.",
+    "anagogico": "“Para que subsista para sempre diante de ti”: a esperança de Davi é a nossa, a de estar para sempre diante de Deus, como casa abençoada, no Reino que não passa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quem sou eu, ó Senhor Deus, e que casa é a minha?” “Tu, ó Senhor Deus, conheces o teu servo.” “Segundo o teu coração, fizeste todas estas maravilhas.” “Ninguém há semelhante a ti.” “Tu és Deus e as tuas palavras são verdadeiras.” “Abençoa a casa de teu servo.”",
+    "meditatio_perguntas": [
+      "Diante dos dons de Deus, digo “quem sou eu?”",
+      "Apoio a minha oração nas promessas de Deus?",
+      "Sento-me diante do Senhor para simplesmente agradecer?"
+    ],
+    "oratio_guia": "Quem sou eu, Senhor, para me teres trazido até aqui? Tu és Deus, e as tuas palavras são verdadeiras. Abençoa a minha casa, para que permaneça para sempre diante de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Quem sou eu, ó Senhor Deus, e que casa é a minha, para tu me teres elevado a este ponto?",
+      "ref": "2Sm 7,18"
+    }
+  },
+  "ancoras": {
+    "7:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Sentou-se diante do Senhor”: posição incomum de oração, sinal de intimidade e de contemplação, diante da arca na tenda.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

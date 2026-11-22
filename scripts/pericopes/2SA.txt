@@ -1,0 +1,37 @@
+# Divisão em perícopes (numeração Matos Soares / Vulgata). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## Davi rei em Hebron
+1:1-1:16 | A notícia da morte de Saul
+1:17-1:27 | Como caíram os valentes: a elegia de Davi
+2:1-2:32 | Davi ungido em Hebron; a guerra entre as duas casas
+3:1-3:39 | Abner passa a Davi e é morto por Joab
+4:1-4:12 | O assassinato de Isboset
+## Davi em Jerusalém
+5:1-5:25 | Davi rei de todo Israel; a tomada de Sião
+6:1-6:23 | A arca sobe a Jerusalém: Davi dança diante do Senhor
+7:1-7:17 | A profecia de Natã: uma casa para sempre
+7:18-7:29 | A oração de Davi: quem sou eu, Senhor?
+8:1-8:18 | As vitórias de Davi
+9:1-9:13 | Mefibaal à mesa do rei
+10:1-10:19 | A afronta aos mensageiros e a guerra contra Amon
+## O pecado de Davi e os seus frutos
+11:1-11:27 | Davi e Betsabé
+12:1-12:15 | Tu és esse homem: a parábola de Natã
+12:16-12:31 | A morte do menino e o nascimento de Salomão
+13:1-13:22 | Amnon e Tamar
+13:23-13:39 | Absalão vinga Tamar e foge
+14:1-14:33 | A mulher de Técua e o regresso de Absalão
+## A revolta de Absalão
+15:1-15:12 | Absalão rouba o coração de Israel
+15:13-15:37 | Davi foge de Jerusalém
+16:1-16:14 | Siba e Semei: deixai-o amaldiçoar
+16:15-17:23 | Os conselhos de Aquitofel e de Cusai
+17:24-18:18 | A morte de Absalão
+18:19-19:8 | Meu filho Absalão!
+19:9-19:43 | O regresso do rei
+20:1-20:26 | A revolta de Seba
+## Apêndices do reinado de Davi
+21:1-21:22 | Os gabaonitas e Resfa; os gigantes filisteus
+22:1-22:51 | O cântico de Davi: o Senhor é o meu rochedo
+23:1-23:39 | As últimas palavras de Davi e os seus valentes
+24:1-24:25 | O recenseamento e o altar na eira de Areúna

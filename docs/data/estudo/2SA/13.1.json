@@ -1,0 +1,57 @@
+{
+  "id": "2SA.13.1",
+  "livro": "2SA",
+  "titulo": "Amnon e Tamar",
+  "secao": "O pecado de Davi e os seus frutos",
+  "referencia": "2Sm 13,1-22",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Não faças tal loucura: Amnon e Tamar",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Amnon, primogênito de Davi, se apaixona por Tamar, sua meia-irmã, irmã de Absalão, e fica doente de desejo, pois ela é virgem e lhe parece impossível. Jonadab, seu primo, “homem muito sagaz”, lhe dá um plano: finge-te doente e pede ao rei que Tamar venha preparar-te comida. Davi, sem suspeitar, manda Tamar. Ela vai, amassa a farinha e coze os bolos diante dele. Amnon manda todos saírem e pede que ela lhe sirva na alcova. Ali a agarra: vem, deita-te comigo, minha irmã. Ela suplica: “Não, meu irmão, não me faças esta violência, pois que isto não é lícito em Israel; não faças tal loucura.” Para onde eu levaria a minha vergonha? E tu serias um insensato em Israel; fala ao rei, ele não me negará a ti. Amnon não a ouve; mais forte, violenta-a. Depois, “ganhou-lhe uma extrema aversão”, maior que o amor de antes: levanta-te, vai-te. Ela diz: expulsar-me é mal maior que o primeiro. Ele manda o criado pô-la fora e trancar a porta. Tamar rasga a túnica de princesa, põe cinza na cabeça e sai gritando. Absalão a acolhe: cala-te por agora, é teu irmão. Tamar vive desolada na casa de Absalão. Davi se irrita muito, mas não castiga Amnon, porque o amava como primogênito. Absalão não fala a Amnon nem bem nem mal, mas o odeia.",
+    "alegorico": "Começa a cumprir-se a palavra de Natã: “a espada não se afastará da tua casa”. O pecado de Davi se repete nos filhos, agravado. Tamar, inocente, humilhada e reduzida ao silêncio, foi lida como figura das vítimas inocentes cuja dor clama a Deus e que só encontrarão justiça em Cristo, o inocente humilhado.",
+    "moral": "O texto analisa a falsa paixão: o “amor” de Amnon é desejo egoísta, que depois do abuso se transforma em ódio, porque a pessoa foi usada como objeto. A voz de Tamar é a da dignidade e da razão; o conselho do “amigo sagaz” é a astúcia a serviço do mal. E a omissão de Davi, que se irrita mas não age, abre o caminho à vingança: a fraqueza paterna, talvez marcada pela própria culpa, multiplica o mal.",
+    "anagogico": "Deus vê as lágrimas de Tamar, que os homens mandaram calar. No juízo final, as vítimas silenciadas serão ouvidas, e o Senhor enxugará todas as lágrimas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Amnon… se enamorou de Tamar.” “Tinha porém Amnon um (mau) amigo, homem muito sagaz.” “Não, meu Irmão, não me faças esta violência.” “Não faças tal loucura.” “O ódio que concebeu contra ela excedia muito o amor.” “Afligiu-se muito, mas não quis contristar o ânimo de Amnon.”",
+    "meditatio_perguntas": [
+      "Distingo o amor verdadeiro do desejo que usa o outro?",
+      "Que “amigos sagazes” me aconselham o mal?",
+      "Omito-me diante de injustiças em minha casa por fraqueza ou por culpa?"
+    ],
+    "oratio_guia": "Senhor, purifica o meu coração de todo desejo que usa os outros. Dá-me amigos que me levem ao bem, coragem de corrigir e proteção para os inocentes feridos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não, meu Irmão, não me faças esta violência, pois que isto não é lícito em Israel; não faças tal loucura",
+      "ref": "2Sm 13,12"
+    }
+  },
+  "ancoras": {
+    "13:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Tamar sugere o casamento, talvez ainda possível naquela época, embora proibido por Lv 18,9.",
+        "origem": "ia"
+      }
+    },
+    "13:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “túnica talar” (kuttonet passim), a mesma de José (Gn 37,3), era o traje das princesas virgens.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

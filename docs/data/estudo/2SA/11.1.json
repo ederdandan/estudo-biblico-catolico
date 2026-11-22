@@ -1,0 +1,57 @@
+{
+  "id": "2SA.11.1",
+  "livro": "2SA",
+  "titulo": "Davi e Betsabé",
+  "secao": "O pecado de Davi e os seus frutos",
+  "referencia": "2Sm 11,1-27",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "Davi e Betsabé: o pecado do rei",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Na primavera, quando os reis saem à guerra, Davi envia Joab e todo Israel contra Amon, que sitiam Rabá; “Davi, porém, ficou em Jerusalém”. Numa tarde, levantando-se da sesta, passeia no terraço do palácio e vê uma mulher que se banha, muito bela. Informa-se: é Betsabé, filha de Eliam, mulher de Urias, o heteu. Davi a manda buscar e dorme com ela; ela volta para casa e lhe manda dizer: “Concebi.” Davi chama Urias do front, pergunta pela guerra e lhe diz: vai para tua casa e lava os pés; manda-lhe um presente. Urias dorme à porta do palácio com os servos. Davi pergunta por que não foi para casa. Urias responde: “Enquanto a arca de Deus, e Israel e Judá, habitam debaixo de tendas, e o meu senhor Joab… dorme sobre a terra dura, eu deveria ir para minha casa comer, beber e dormir com minha mulher?” Não o farei. Davi o retém mais um dia e o embriaga, mas Urias de novo não vai para casa. De manhã, Davi escreve uma carta a Joab e a envia pela mão do próprio Urias: “Ponde Urias na frente, onde for mais rijo o combate, e desamparai-o, para que seja ferido e morra.” Joab o coloca onde estão os mais valentes inimigos; Urias morre com alguns outros. Joab envia o relato, prevendo a irritação do rei; Davi responde: não te aflijas, a espada devora ora um, ora outro. Betsabé chora o marido; passado o luto, Davi a toma por esposa, e ela lhe dá um filho. “Mas isto que Davi tinha feito foi desagradável aos olhos do Senhor.”",
+    "alegorico": "Os Padres veem aqui o abismo em que até os santos podem cair. Agostinho comenta que a queda de Davi foi escrita para que os fortes temam e os caídos não desesperem. Urias, o estrangeiro fiel que leva a própria sentença de morte, é visto por alguns Padres como figura de Cristo, o justo entregue pela culpa de outro.",
+    "moral": "O pecado começa pela ociosidade (“Davi ficou em Jerusalém”) e por um olhar consentido; cresce pelo adultério, pela mentira, pela tentativa de encobrimento e chega ao assassinato. Um pecado puxa o outro quando não se volta atrás. O contraste com Urias é terrível: o estrangeiro é mais fiel à arca e aos companheiros que o rei ungido. E tudo parece resolvido, até a última frase: Deus viu.",
+    "anagogico": "“Foi desagradável aos olhos do Senhor”: nada fica oculto para Deus. O juízo final revelará o que foi feito às escondidas, e só o arrependimento pode antecipá-lo com a misericórdia."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Davide, porém, ficou em Jerusalém.” “Viu uma mulher que se banhava.” “Concebi.” “Enquanto a arca de Deus… habitam debaixo de tendas… eu deveria ir para minha casa?” “Ponde Urias na frente, onde for mais rijo o combate.” “Isto que Davide tinha feito foi desagradável aos olhos do Senhor.”",
+    "meditatio_perguntas": [
+      "A ociosidade abre portas à tentação na minha vida?",
+      "Tento encobrir um pecado com outro pecado?",
+      "Tenho a fidelidade de Urias aos compromissos e aos companheiros?"
+    ],
+    "oratio_guia": "Senhor, guarda os meus olhos e o meu coração. Livra-me da ociosidade, do primeiro consentimento e da espiral do encobrimento. Tem piedade de mim, segundo a tua grande misericórdia. Amém.",
+    "contemplatio_foco": {
+      "texto": "Isto que Davide tinha feito foi desagradável aos olhos do Senhor",
+      "ref": "2Sm 11,27"
+    }
+  },
+  "ancoras": {
+    "11:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Ela purificou-se” refere-se à purificação depois da menstruação (Lv 15,19-28), o que garante que o filho é de Davi.",
+        "origem": "ia"
+      }
+    },
+    "11:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Joab cita a morte de Abimelec, morto por uma mulher do alto da muralha de Tebes (Jz 9,53), exemplo clássico do perigo de chegar perto dos muros.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

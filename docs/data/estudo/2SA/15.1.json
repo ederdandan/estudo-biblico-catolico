@@ -1,0 +1,57 @@
+{
+  "id": "2SA.15.1",
+  "livro": "2SA",
+  "titulo": "Absalão rouba o coração de Israel",
+  "secao": "A revolta de Absalão",
+  "referencia": "2Sm 15,1-12",
+  "ini": {
+    "c": 15,
+    "v": 1
+  },
+  "fim": {
+    "c": 15,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "Absalão atraía a si o coração dos homens de Israel",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Absalão arranja carros, cavalos e cinquenta homens que correm à sua frente. Levanta-se de manhã cedo e se põe junto à porta da cidade; a cada pessoa que vem com uma causa para o rei julgar, pergunta de onde é e diz: a tua causa é boa e justa, mas não há quem te ouça da parte do rei. “Oh! quem me dera ser juiz desta terra”, para fazer justiça a todos! E quando alguém se prostra diante dele, estende a mão, abraça-o e o beija. Assim faz com todo Israel, “e atraía a si o coração dos homens de Israel”. Quatro anos depois, pede ao rei para ir a Hebron cumprir um voto feito em Gessur. Davi responde: vai em paz. Absalão envia espiões a todas as tribos: quando ouvirdes a trombeta, dizei: Absalão é rei em Hebron. Duzentos homens de Jerusalém vão com ele, convidados, sem saber de nada. Absalão chama também Aquitofel, conselheiro de Davi, de Gilo, enquanto oferece sacrifícios. A conjuração se fortalece, e o povo cresce em torno de Absalão.",
+    "alegorico": "Absalão, que rouba o coração do povo com belas palavras, beijos e promessas, é figura do sedutor e do Anticristo, que imita a realeza verdadeira e usa até o culto (o voto em Hebron) para encobrir a rebelião. O beijo de Absalão anuncia o beijo de Judas.",
+    "moral": "A demagogia é descrita com precisão: lisonjear cada um, criticar as instituições, prometer o que não se pode cumprir, fingir proximidade. Absalão explora uma fraqueza real (a justiça do rei parece negligenciada), mas para servir à própria ambição. E usa a religião como pretexto. Cuidado com quem nos diz sempre que temos razão.",
+    "anagogico": "Os corações roubados pela sedução se perdem; o Rei verdadeiro não rouba os corações, mas os conquista dando a vida. Só ele merece o nosso coração para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“As tuas pretensões parecem-me razoáveis e justas.” “Oh! quem me dera ser juiz desta terra.” “Estendia a sua mão e, abraçando-o, o beijava.” “Atraía a si o coração dos homens de Israel.” “Que o seguiam com simplicidade de coração.”",
+    "meditatio_perguntas": [
+      "Deixo-me seduzir por quem sempre me dá razão?",
+      "Uso a aparência de bondade ou de religião para fins próprios?",
+      "A quem entreguei o meu coração?"
+    ],
+    "oratio_guia": "Senhor, guarda o meu coração das seduções e da lisonja. Que eu não use a bondade nem a religião como máscara, e que o meu coração seja inteiramente teu. Amém.",
+    "contemplatio_foco": {
+      "texto": "atraía a si o coração dos homens de Israel",
+      "ref": "2Sm 15,6"
+    }
+  },
+  "ancoras": {
+    "15:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Quatro anos” segundo versões antigas; o hebraico diz “quarenta”, evidente erro de cópia.",
+        "origem": "ia"
+      }
+    },
+    "15:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Aquitofel de Gilo era talvez avô de Betsabé (cf. 11,3 e 23,34), o que explicaria a sua traição.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

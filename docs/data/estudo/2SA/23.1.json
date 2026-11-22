@@ -1,0 +1,57 @@
+{
+  "id": "2SA.23.1",
+  "livro": "2SA",
+  "titulo": "As últimas palavras de Davi e os seus valentes",
+  "secao": "Apêndices do reinado de Davi",
+  "referencia": "2Sm 23,1-39",
+  "ini": {
+    "c": 23,
+    "v": 1
+  },
+  "fim": {
+    "c": 23,
+    "v": 39
+  },
+  "liturgia": {
+    "tema_central": "Como a luz da aurora: as últimas palavras de Davi e os seus valentes",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Estas são as últimas palavras de Davi”: oráculo do filho de Isaí, do homem elevado, ungido do Deus de Jacó, suave cantor de Israel. “O espírito do Senhor falou por mim, e a sua palavra pela minha língua.” O Deus de Israel disse: quem governa os homens com justiça, governando no temor de Deus, “é como a luz da aurora que resplandece ao sair do sol, numa manhã sem nuvens”, que faz brotar a erva da terra depois da chuva. Não é assim a minha casa diante de Deus? Ele fez comigo uma aliança eterna, em tudo bem ordenada e segura; não fará germinar toda a minha salvação e todo o meu desejo? Mas os perversos são como espinhos arrancados, que não se tocam com a mão e serão queimados. Segue a lista dos valentes de Davi: os Três, Jesbaam, Eleazar, que combateu até a mão grudar na espada, e Sama, que defendeu sozinho um campo de lentilhas; e o Senhor operou grande vitória. Na caverna de Odolam, com os filisteus em Belém, Davi suspira: “Oh! se alguém me desse a beber água da cisterna que há em Belém, junto à porta!” Os Três atravessam o acampamento inimigo e trazem a água. Davi não a quer beber e a derrama diante do Senhor: “beberei eu o sangue destes homens, que foram com risco das suas vidas?” Seguem Abisai, Banaías, que matou um leão num dia de neve, e os Trinta, entre os quais Asael, e o último nome da lista: Urias, o heteu.",
+    "alegorico": "O rei justo “como a luz da aurora” é o Messias, sol nascente que nos visita do alto (Lc 1,78). A água de Belém, trazida com risco de vida e derramada como oferta, foi lida pelos Padres como figura do sangue de Cristo, nascido em Belém, e da graça que não se bebe com leviandade porque custou a vida.",
+    "moral": "Davi não bebe a água comprada com o sangue dos amigos: transforma um capricho em oferta a Deus. É uma lição de respeito pelo sacrifício dos outros. O último nome da lista, Urias, recorda silenciosamente o pecado do rei: a Escritura não deixa esquecer, mesmo no elogio, o preço que outros pagaram.",
+    "anagogico": "“Não fará germinar toda a minha salvação e todo o meu desejo?” As últimas palavras de Davi são de esperança: a aliança eterna florescerá no Messias e no Reino sem fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O espírito do Senhor falou por mim.” “Um justo dominador dos homens, dominador no temor de Deus.” “É como a luz da aurora que resplandece ao sair do sol.” “Toda a minha salvação e todo o meu desejo, Deus não os fará germinar?” “Oh! se alguém me desse a beber água da cisterna que há em Belém.” “Beberei eu o sangue destes homens?”",
+    "meditatio_perguntas": [
+      "Exerço a autoridade como luz da aurora, no temor de Deus?",
+      "Respeito o que os outros sacrificaram por mim?",
+      "Quais serão as “minhas últimas palavras”?"
+    ],
+    "oratio_guia": "Senhor, sol nascente que nos visitas do alto, faz germinar em mim a salvação que prometeste. Que eu não beba com leviandade o que outros pagaram com a vida, e saiba oferecê-lo a ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "é como a luz da aurora que resplandece ao sair do sol, numa manhã sem nuvens",
+      "ref": "2Sm 23,4"
+    }
+  },
+  "ancoras": {
+    "23:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A caverna de Odolam foi o refúgio de Davi no tempo de Saul (1Sm 22,1).",
+        "origem": "ia"
+      }
+    },
+    "23:39": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A lista termina com Urias, o heteu, e o v. 34 menciona Eliam, filho de Aquitofel, provavelmente pai de Betsabé (11,3).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

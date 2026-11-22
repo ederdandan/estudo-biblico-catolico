@@ -1,0 +1,57 @@
+{
+  "id": "2SA.15.13",
+  "livro": "2SA",
+  "titulo": "Davi foge de Jerusalém",
+  "secao": "A revolta de Absalão",
+  "referencia": "2Sm 15,13-37",
+  "ini": {
+    "c": 15,
+    "v": 13
+  },
+  "fim": {
+    "c": 15,
+    "v": 37
+  },
+  "liturgia": {
+    "tema_central": "Davi sobe chorando o Monte das Oliveiras",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Chega um mensageiro: todo Israel segue Absalão de coração. Davi diz aos servos: levantai-vos, fujamos, para não ferir a cidade ao fio da espada. Sai a pé com toda a casa, deixando dez concubinas para guardar o palácio. Os servos passam diante dele, com os cereteus, feleteus e seiscentos geteus. Davi diz a Etai, o geteu: por que vens conosco? És estrangeiro e exilado, chegaste ontem; volta, e que o Senhor te trate com misericórdia. Etai responde: “Viva o Senhor, e viva o rei meu senhor, que, em qualquer lugar em que tu te encontrares, quer seja na morte quer na vida, aí se encontrará o teu servo.” Toda a terra chora em alta voz enquanto o rei atravessa a torrente do Cedron em direção ao deserto. Sadoc e os levitas trazem a arca; Davi diz: “Torna a levar a arca de Deus para a cidade; se eu achar graça diante dos olhos do Senhor, ele me reconduzirá… Se ele porém me disser: Tu não me agradas, eu estou pronto: faça de mim o que bem lhe parecer.” Os filhos dos sacerdotes, Aquimaas e Jônatas, serão os seus mensageiros. “Davi ia subindo a encosta do Monte das Oliveiras, e subia-a chorando, caminhando com os pés descalços e a cabeça coberta”, e todo o povo chorava. Sabendo que Aquitofel está com Absalão, reza: Senhor, torna insensato o conselho de Aquitofel. No cume, onde se adora a Deus, encontra Cusai, com a túnica rasgada; Davi o envia de volta para fingir servir Absalão e frustrar o conselho de Aquitofel. Cusai chega a Jerusalém quando Absalão entra.",
+    "alegorico": "É uma das grandes figuras da Paixão: o rei rejeitado atravessa o Cedron e sobe chorando o Monte das Oliveiras, traído por um conselheiro íntimo (Aquitofel, que se enforcará como Judas). Jesus fará o mesmo caminho na noite da sua entrega (Jo 18,1). Etai, o estrangeiro fiel “na morte ou na vida”, é imagem do discípulo que segue o Senhor até a cruz.",
+    "moral": "Na humilhação, Davi mostra o melhor de si: não quer que Jerusalém seja destruída por sua causa, não usa a arca como amuleto, entrega-se a Deus (“faça de mim o que lhe parecer”), chora e reza, e ainda age com prudência. A fidelidade do estrangeiro Etai envergonha os filhos que traem. A oração diante da traição é: “torna insensato o seu conselho”.",
+    "anagogico": "O rei que sai chorando e voltará é figura de Cristo que sobe a Jerusalém para a Paixão e volta vitorioso; quem o segue “na morte e na vida” participará da sua volta."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Levantai-vos, fujamos.” “Em qualquer lugar em que tu te encontrares… quer seja na morte quer na vida, aí se encontrará o teu servo.” “Torna a levar a arca de Deus para a cidade.” “Faça de mim o que bem lhe parecer.” “Subia-a chorando, caminhando com os pés descalços.” “Tornes insensato o conselho de Aquitofel.”",
+    "meditatio_perguntas": [
+      "Sigo o Senhor “na morte e na vida”, como Etai?",
+      "Uso as coisas sagradas como amuleto, ou me entrego à vontade de Deus?",
+      "Como rezo quando sou traído?"
+    ],
+    "oratio_guia": "Senhor Jesus, que atravessaste o Cedron e subiste ao Monte das Oliveiras, onde estiveres, na morte ou na vida, ali quero estar. Faz de mim o que te parecer bem. Amém.",
+    "contemplatio_foco": {
+      "texto": "em qualquer lugar em que tu te encontrares, ó rei meu senhor, quer seja na morte quer na vida, aí se encontrará o teu servo",
+      "ref": "2Sm 15,21"
+    }
+  },
+  "ancoras": {
+    "15:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O Cedron separa Jerusalém do Monte das Oliveiras; Jesus o atravessará na noite da Paixão (Jo 18,1).",
+        "origem": "ia"
+      }
+    },
+    "15:32": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Onde se adora o Senhor”: antigo lugar de culto no cume do Monte das Oliveiras.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

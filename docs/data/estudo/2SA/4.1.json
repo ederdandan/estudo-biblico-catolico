@@ -1,0 +1,57 @@
+{
+  "id": "2SA.4.1",
+  "livro": "2SA",
+  "titulo": "O assassinato de Isboset",
+  "secao": "Davi rei em Hebron",
+  "referencia": "2Sm 4,1-12",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "Homens malvados mataram um inocente na sua cama",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ao saber da morte de Abner, Isboset perde o ânimo, e todo Israel se perturba. Dois capitães de bandos, Recab e Baana, benjaminitas de Berot, entram na casa de Isboset à hora mais quente do dia, quando ele descansa, fingindo buscar trigo; ferem-no no ventre, cortam-lhe a cabeça e fogem a noite toda pelo caminho do deserto. O texto menciona também Mefibaal, filho de Jônatas, aleijado dos pés desde os cinco anos, quando a ama, ao saber da morte de Saul e Jônatas, fugiu com ele e o deixou cair. Os assassinos levam a cabeça de Isboset a Davi, em Hebron: eis a cabeça do teu inimigo; o Senhor vingou hoje o rei. Davi responde: pela vida do Senhor, que livrou a minha alma de toda angústia: ao que me anunciou a morte de Saul, pensando trazer boa notícia, mandei matar em Siceleg; “quanto mais agora que homens malvados mataram um homem inocente dentro da sua casa, sobre o seu leito”. Manda executá-los, cortar-lhes as mãos e os pés e pendurá-los junto ao tanque de Hebron. A cabeça de Isboset é sepultada no túmulo de Abner.",
+    "alegorico": "Davi recusa receber o reino pelas mãos de assassinos, mesmo quando isso o favoreceria. O Messias não se impõe pela violência dos seus partidários; recebe o reino do Pai. A menção de Mefibaal, o aleijado, prepara a misericórdia que Davi lhe fará (cap. 9), sinal da graça de Cristo para os fracos.",
+    "moral": "Os assassinos pensam servir Davi e usam o nome de Deus (“o Senhor vingou o rei”) para justificar um crime. Davi os desmascara: nenhuma causa justa se serve de meios iníquos. Também hoje se mata e se calunia “em favor” de alguém ou de algum ideal; a justiça de Deus não aceita tais serviços.",
+    "anagogico": "“O Senhor que livrou a minha alma de toda angústia”: Davi não precisa de ajudas criminosas, porque confia em Deus. A vitória final será dada por Deus, não arrancada pelo crime."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Perdeu a força de suas mãos.” “Feriram Isboset no ventre.” “Eis a cabeça de Isboset… o Senhor vingou hoje o rei.” “Viva o Senhor, que livrou a minha alma de toda a angústia.” “Homens malvados mataram um homem inocente dentro da sua casa, sobre o seu leito.”",
+    "meditatio_perguntas": [
+      "Justifico meios injustos com fins que considero bons?",
+      "Uso o nome de Deus para dar aparência de justiça aos meus interesses?",
+      "Confio que Deus me dá o que preciso sem que eu recorra ao mal?"
+    ],
+    "oratio_guia": "Senhor, que livras a minha alma de toda angústia, livra-me também de buscar o bem por meios injustos. Que eu nunca use o teu nome para justificar o mal. Amém.",
+    "contemplatio_foco": {
+      "texto": "homens malvados mataram um homem Inocente dentro da sua casa",
+      "ref": "2Sm 4,11"
+    }
+  },
+  "ancoras": {
+    "4:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Mefibaal (Meribaal em 1Cr 8,34), alterado para Mefiboset nalgumas traduções, pela mesma razão que Isboset.",
+        "origem": "ia"
+      }
+    },
+    "4:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Mutilar e expor os corpos dos assassinos era castigo exemplar da época.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

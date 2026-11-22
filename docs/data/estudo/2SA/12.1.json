@@ -1,0 +1,57 @@
+{
+  "id": "2SA.12.1",
+  "livro": "2SA",
+  "titulo": "Tu és esse homem: a parábola de Natã",
+  "secao": "O pecado de Davi e os seus frutos",
+  "referencia": "2Sm 12,1-15",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "Tu és esse homem: Pequei contra o Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor envia Natã a Davi, que lhe conta uma parábola: numa cidade havia dois homens, um rico e um pobre. O rico tinha muitos rebanhos; o pobre só uma ovelhinha que comprara e criara, que crescia com os seus filhos, comia do seu pão, bebia do seu copo e dormia no seu colo, como uma filha. Chegou um hóspede ao rico, e ele, poupando os seus rebanhos, tomou a ovelha do pobre e a preparou. Davi se indigna: pela vida do Senhor, o homem que fez isso merece a morte, e pagará quatro vezes a ovelha. Natã lhe diz: “Tu és esse homem.” Assim diz o Senhor: eu te ungi rei, te livrei de Saul, te dei a casa do teu senhor, Israel e Judá; e se fosse pouco, eu te daria mais. “Por que desprezaste, pois, a palavra do Senhor?” Feriste Urias à espada e tomaste a sua mulher. Por isso a espada não se afastará jamais da tua casa; suscitarei o mal contra ti da tua própria casa; tu agiste em segredo, eu agirei diante de todo Israel e à luz do sol. Davi diz a Natã: “Pequei contra o Senhor.” Natã responde: “Também o Senhor perdoou o teu pecado: não morrerás.” Mas, porque deste ocasião aos inimigos do Senhor de blasfemar, o filho que te nasceu morrerá. E Natã volta para sua casa.",
+    "alegorico": "A parábola de Natã é o modelo das parábolas de Jesus, que levam o ouvinte a julgar-se a si mesmo. O Salmo 50 (Miserere), segundo o título, nasceu deste momento, e a Igreja o reza como a grande oração da penitência. Davi arrependido e perdoado é imagem do pecador reconciliado no sacramento: confissão, absolvição e reparação.",
+    "moral": "É fácil indignar-se com o pecado dos outros e não ver o próprio. A palavra profética nos alcança quando, de repente, ouvimos: “tu és esse homem”. A grandeza de Davi não está em não ter pecado, mas em não se justificar: duas palavras, “pequei contra o Senhor”, e o perdão vem logo. Mas o perdão não apaga todas as consequências: a espada na casa de Davi é o fruto do pecado que continua a agir.",
+    "anagogico": "“O Senhor perdoou o teu pecado: não morrerás”: é a palavra da salvação, que livra da morte eterna. O pecador arrependido, como Davi, vive pela misericórdia de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Havia numa cidade dois homens, um rico e outro pobre.” “Uma ovelhinha… que comia do seu pão… e dormia no seu seio.” “Um homem que tal fez é digno de morte.” “Tu és esse homem.” “Por que desprezaste, pois a palavra do Senhor?” “Pequei contra o Senhor.” “Também o Senhor perdoou o teu pecado.”",
+    "meditatio_perguntas": [
+      "Indigno-me com os pecados alheios e fico cego aos meus?",
+      "Quando a verdade me alcança, justifico-me ou digo “pequei”?",
+      "Aceito carregar as consequências do pecado já perdoado?"
+    ],
+    "oratio_guia": "Tem piedade de mim, ó Deus, segundo a tua misericórdia. Pequei contra ti, Senhor. Abre os meus olhos para eu me reconhecer quando dizes “tu és esse homem”, e dá-me a alegria do teu perdão. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tu és esse homem",
+      "ref": "2Sm 12,7"
+    }
+  },
+  "ancoras": {
+    "12:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O quádruplo corresponde à lei de Ex 22,1; a tradição judaica viu nele as quatro desgraças da casa de Davi: o menino, Amnon, Absalão e Adonias.",
+        "origem": "ia"
+      }
+    },
+    "12:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O título do Salmo 50(51) liga-o a este episódio: “quando o profeta Natã veio a ele, depois que ele tinha ido a Betsabé”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

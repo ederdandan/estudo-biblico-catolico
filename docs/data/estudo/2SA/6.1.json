@@ -1,0 +1,57 @@
+{
+  "id": "2SA.6.1",
+  "livro": "2SA",
+  "titulo": "A arca sobe a Jerusalém: Davi dança diante do Senhor",
+  "secao": "Davi em Jerusalém",
+  "referencia": "2Sm 6,1-23",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Davi dançava diante do Senhor com todas as suas forças",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Davi reúne trinta mil homens para trazer de Baala de Judá a arca de Deus, “sobre a qual é invocado o nome do Senhor dos exércitos, sentado sobre os querubins”. Põem-na num carro novo; Oza e Aio, filhos de Abinadab, conduzem-no; Davi e todo Israel dançam diante do Senhor com cítaras, harpas, tamborins, sistros e címbalos. Na eira de Nacon, os bois tropeçam, e Oza estende a mão para segurar a arca; o Senhor se irrita e o fere, e ele morre ali junto à arca. Davi se entristece e teme: como entrará a arca do Senhor em minha casa? Deixa-a na casa de Obed-Edom, de Get, por três meses, e o Senhor abençoa a sua casa. Sabendo disso, Davi vai buscá-la com alegria. A cada seis passos dos carregadores, sacrifica um boi e um carneiro. “Davi dançava diante do Senhor com todas as suas forças, cingido dum éfode de linho”, e Israel acompanhava com gritos de júbilo e trombetas. Micol, filha de Saul, olha da janela, vê o rei saltando e dançando e o despreza no seu coração. A arca é posta na tenda; Davi oferece holocaustos, abençoa o povo e dá a cada um pão, carne e passas. Ao voltar para abençoar a sua casa, Micol o recebe com sarcasmo: que bela figura fez hoje o rei, descobrindo-se diante das servas como um bufão! Davi responde: foi diante do Senhor, que me escolheu em vez de teu pai; dançarei diante do Senhor e me farei ainda mais vil, e serei humilde aos meus olhos. E Micol não teve filhos até à morte.",
+    "alegorico": "A arca que sobe a Jerusalém e abençoa a casa de Obed-Edom por três meses é uma das grandes figuras marianas: Lucas a evoca na Visitação, quando Maria, arca da nova aliança, fica três meses na casa de Isabel, e João salta de alegria como Davi diante da arca (Lc 1,39-56; cf. “como entrará a arca do Senhor em minha casa?” e “donde me vem que a mãe do meu Senhor venha a mim?”).",
+    "moral": "Duas lições opostas: Oza morre por tocar no sagrado com familiaridade irreverente; Davi dança com toda a sua força, sem vergonha de se humilhar diante de Deus. A reverência e a alegria não se excluem. Micol representa a religiosidade fria que despreza a expressão do amor a Deus e se preocupa com a dignidade e as aparências; a sua esterilidade é símbolo dessa frieza.",
+    "anagogico": "A procissão com a arca e a dança diante do Senhor antecipam a liturgia celeste, onde o povo de Deus louvará com júbilo sem fim. A alegria diante de Deus é já um gosto do céu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A arca de Deus, sobre a qual é invocado o nome do Senhor dos exércitos.” “Oza estendeu a mão para a arca de Deus.” “Como entrará a arca do Senhor em minha casa?” “O Senhor abençoou Obededom e toda a sua casa.” “Davide dançava diante do Senhor com todas as suas forças.” “Serei mais humilde aos teus olhos.”",
+    "meditatio_perguntas": [
+      "Uno reverência e alegria na minha relação com Deus?",
+      "Tenho vergonha de manifestar o meu amor a Deus?",
+      "Desprezo, como Micol, a fé expressiva dos outros?"
+    ],
+    "oratio_guia": "Senhor, que a tua presença seja para mim temor e alegria. Dá-me dançar diante de ti sem vergonha, humilde aos meus olhos, e acolher na minha casa a arca da tua presença, como Isabel acolheu Maria. Amém.",
+    "contemplatio_foco": {
+      "texto": "Davide dançava diante do Senhor com todas as suas forças",
+      "ref": "2Sm 6,14"
+    }
+  },
+  "ancoras": {
+    "6:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Só os levitas podiam transportar a arca, com varais, e ninguém devia tocá-la (Nm 4,15); o carro “à moda filisteia” já era uma irregularidade (cf. 1Cr 15,13-15).",
+        "origem": "ia"
+      }
+    },
+    "6:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Obed-Edom de Get, provavelmente um geteu (filisteu) a serviço de Davi, ou levita de Gat-Remon.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

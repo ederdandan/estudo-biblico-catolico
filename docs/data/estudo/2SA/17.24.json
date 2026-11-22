@@ -1,0 +1,65 @@
+{
+  "id": "2SA.17.24",
+  "livro": "2SA",
+  "titulo": "A morte de Absalão",
+  "secao": "A revolta de Absalão",
+  "referencia": "2Sm 17,24–18,18",
+  "ini": {
+    "c": 17,
+    "v": 24
+  },
+  "fim": {
+    "c": 18,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Poupai-me o meu filho Absalão: a batalha no bosque de Efraim",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Davi chega a Maanaim; Absalão atravessa o Jordão com todo Israel, tendo posto Amasa à frente do exército no lugar de Joab. Davi passa revista e divide o exército em três corpos, sob Joab, Abisai e Etai. Quer sair ele mesmo, mas o povo se opõe: tu vales por dez mil de nós; é melhor que nos socorras da cidade. O rei fica junto à porta, e todo o povo sai por centenas e milhares. Diante de todos, Davi ordena aos três generais: “Poupai-me o meu filho Absalão.” A batalha se trava no bosque de Efraim; Israel é derrotado, e o bosque devora mais gente do que a espada. Absalão, montado numa mula, passa sob os ramos de um grande carvalho; a cabeleira se prende, e a mula segue, deixando-o “pendurado entre o céu e a terra”. Um homem avisa Joab, que diz: por que não o mataste? Eu te daria dez siclos de prata. O homem responde: nem por mil siclos estenderia a mão contra o filho do rei; ouvimos a ordem dele; e tu mesmo te esquivarias. Joab diz: não perderei tempo contigo; toma três dardos e os crava no coração de Absalão, ainda vivo no carvalho; dez escudeiros o acabam. Joab toca a trombeta e detém a perseguição. Lançam Absalão numa grande cova do bosque e erguem sobre ele um enorme monte de pedras. Todo Israel foge. Absalão, em vida, levantara para si uma coluna no vale do Rei, porque não tinha filho para guardar o seu nome.",
+    "alegorico": "Absalão “pendurado entre o céu e a terra” pela própria cabeleira, sinal do seu orgulho, foi lido pelos Padres como o fim de quem se exalta contra Deus: preso pelo que o envaidecia. A comparação com o Cristo pendurado no madeiro é de contraste: um morre pelo próprio orgulho; o outro, pela obediência, para salvar os rebeldes.",
+    "moral": "O amor de pai de Davi é total: mesmo diante do filho rebelde, pede que o poupem. Joab representa a razão de Estado que despreza o coração. O soldado anônimo tem mais retidão que o general: obedece à ordem do rei e não se deixa comprar. E a coluna de Absalão contrasta com a cova coberta de pedras: o orgulho constrói monumentos, mas termina num monte de pedras anônimo.",
+    "anagogico": "Os monumentos que erguemos para nós mesmos não perpetuam o nosso nome; só Deus o guarda. A verdadeira memória é a do Livro da Vida."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Poupai-me o meu filho Absalão.” “Foram muito mais os que pereceram pelo bosque.” “Ficou ele pendurado entre o céu e a terra.” “Ainda que pusesses nas minhas mãos mil siclos de prata.” “Tomou, pois, na mão três lanças.” “Tinha feito levantar para si um monumento.”",
+    "meditatio_perguntas": [
+      "O meu amor pelos que me ferem é como o de Davi por Absalão?",
+      "Deixo-me comprar para agir contra a consciência?",
+      "Que “monumentos” estou levantando para o meu próprio nome?"
+    ],
+    "oratio_guia": "Pai de misericórdia, que poupas os filhos rebeldes, poupa-me também. Livra-me do orgulho que me prende como Absalão e dá-me a retidão que não se vende. Amém.",
+    "contemplatio_foco": {
+      "texto": "Poupai-me o meu filho Absalão",
+      "ref": "2Sm 18,5"
+    }
+  },
+  "ancoras": {
+    "17:27": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Maanaim, na Transjordânia, fora a capital de Isboset (2,8). Sobi era filho de Naás, rei de Amon; Maquir acolhera Mefibaal (9,4).",
+        "origem": "ia"
+      }
+    },
+    "18:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “bosque de Efraim” ficava na Transjordânia, perto de Maanaim, talvez assim chamado por uma antiga colonização efraimita.",
+        "origem": "ia"
+      }
+    },
+    "18:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O chamado “Túmulo de Absalão” no vale do Cedron é um monumento do séc. I a.C., sem relação histórica com ele.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

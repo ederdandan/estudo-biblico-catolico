@@ -1,0 +1,57 @@
+{
+  "id": "2SA.9.1",
+  "livro": "2SA",
+  "titulo": "Mefibaal à mesa do rei",
+  "secao": "Davi em Jerusalém",
+  "referencia": "2Sm 9,1-13",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Tu comerás sempre à minha mesa: Mefibaal acolhido pelo rei",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Davi pergunta: “Sabeis se ficou alguém da casa de Saul, para que eu lhe faça bem por amor de Jônatas?” Chamam Siba, servo da casa de Saul, que responde: há ainda um filho de Jônatas, aleijado dos pés; está em Lodabar, em casa de Maquir. Davi manda buscá-lo. Mefibaal chega e se prostra com o rosto em terra. Davi diz: Mefibaal! Ele responde: eis o teu servo. “Não temas, porque eu estou resolvido a fazer-te todo o bem em atenção a Jônatas, teu pai; restituir-te-ei todos os bens de Saul, teu avô, e tu comerás sempre à minha mesa.” Mefibaal se inclina: “Quem sou eu, teu servo, para tu teres olhado para um cão morto como eu sou?” O rei chama Siba e lhe confia as terras de Saul, para que as cultive com os seus quinze filhos e vinte servos e garanta o sustento da casa do seu senhor; Mefibaal, porém, comerá sempre à mesa do rei como um dos filhos do rei. Mefibaal tem um filho pequeno, Mica. Vive em Jerusalém, comendo todos os dias à mesa do rei, e era coxo de ambos os pés.",
+    "alegorico": "É uma das mais belas imagens da graça: o rei procura o herdeiro do seu antigo inimigo, aleijado, escondido em Lodabar (“sem pasto”), e o faz sentar à sua mesa como filho, por amor de outro. Assim Deus, por amor de Cristo, procura o homem ferido pelo pecado e o senta à mesa do seu Reino, a Eucaristia, como filho adotivo. O aleijão não é curado, mas fica escondido sob a mesa do rei.",
+    "moral": "Davi cumpre a promessa feita a Jônatas (1Sm 20,14-15), mesmo quando já não precisa dela. A fidelidade à palavra dada e à amizade passa às gerações seguintes. E faz o bem a alguém que não pode retribuir, aleijado e de uma casa rival. A resposta de Mefibaal, “um cão morto como eu”, é a humildade de quem recebe uma graça que não merece.",
+    "anagogico": "“Comerás sempre à minha mesa”: é a promessa do banquete eterno, onde os pobres, os coxos e os cegos serão convidados pelo Rei (Lc 14,21)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Sabeis se ficou alguém da casa de Saul, para que eu lhe faça bem por amor de Jónatas?” “Não temas.” “Tu comerás sempre à minha mesa.” “Quem sou eu, teu servo, para tu teres olhado para um cão morto como eu sou?” “Todos os dias comia à mesa do rei.”",
+    "meditatio_perguntas": [
+      "Procuro ativamente a quem posso fazer o bem, como Davi?",
+      "Sou fiel às promessas e amizades, mesmo depois de muito tempo?",
+      "Reconheço com humildade que estou à mesa de Deus por pura graça?"
+    ],
+    "oratio_guia": "Senhor, que me procuraste quando eu estava escondido e ferido, e me sentaste à tua mesa como filho por amor de Cristo: quem sou eu para que olhes para mim? Faz-me generoso com os que não podem retribuir. Amém.",
+    "contemplatio_foco": {
+      "texto": "Quem sou eu, teu servo, para tu teres olhado para um cão morto como eu sou?",
+      "ref": "2Sm 9,8"
+    }
+  },
+  "ancoras": {
+    "9:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Lodabar, na Transjordânia; o nome significa algo como “sem pasto”, lugar pobre e escondido.",
+        "origem": "ia"
+      }
+    },
+    "9:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Mifiboset (Mefibaal) é o filho de Jônatas mencionado em 4,4.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

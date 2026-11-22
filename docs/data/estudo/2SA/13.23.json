@@ -1,0 +1,57 @@
+{
+  "id": "2SA.13.23",
+  "livro": "2SA",
+  "titulo": "Absalão vinga Tamar e foge",
+  "secao": "O pecado de Davi e os seus frutos",
+  "referencia": "2Sm 13,23-39",
+  "ini": {
+    "c": 13,
+    "v": 23
+  },
+  "fim": {
+    "c": 13,
+    "v": 39
+  },
+  "liturgia": {
+    "tema_central": "Absalão vinga Tamar e foge",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Dois anos depois, Absalão celebra a tosquia das ovelhas em Baal-Hasor e convida o rei e os seus filhos. Davi se recusa a ir, para não ser pesado, mas o abençoa. Absalão insiste: ao menos venha Amnon. Por que ele? Mas Absalão insiste tanto que Davi deixa ir Amnon e todos os filhos do rei. Absalão ordena aos servos: quando Amnon estiver alegre com o vinho e eu disser: feri-o, matai-o; não temais, sou eu que vos mando. Assim fazem. Os filhos do rei montam nas mulas e fogem. Ainda no caminho, chega a Davi o boato: Absalão matou todos os filhos do rei. Davi rasga as vestes e se deita por terra. Jonadab diz: não, só Amnon morreu; Absalão tinha decidido isto desde o dia em que ele violou Tamar. A sentinela vê muita gente chegando; são os filhos do rei, que entram chorando, e o rei e todos choram amargamente. Absalão foge para Talmai, rei de Gessur, seu avô materno, e fica lá três anos. Davi chora o filho todos os dias; depois, consolado da morte de Amnon, o seu coração se volta para Absalão.",
+    "alegorico": "Um irmão mata o irmão num banquete, como Caim matou Abel no campo: a espada anunciada por Natã atravessa a casa de Davi. A festa da tosquia, que deveria ser alegria, se torna lugar de morte; é a imagem da comunhão destruída pelo ódio, que só a Eucaristia, banquete de reconciliação, pode curar.",
+    "moral": "O ódio guardado em silêncio dois anos explode na vingança. Quem não perdoa e quem não exerce a justiça a tempo (Davi) prepara tragédias maiores. Jonadab, o mesmo que aconselhou o crime de Amnon, agora sabe tudo e fala calmamente: o “sagaz” sobrevive a todos. Davi chora dois filhos ao mesmo tempo: um morto e outro exilado.",
+    "anagogico": "Só no Reino de Deus os irmãos estarão reconciliados à mesa sem ódio nem vingança. A esperança cristã é a do banquete onde não haverá mais morte."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Absalão não falou a Amnon nem mal nem bem.” “Quando Amnon estiver turvado pelo vinho… matai-o.” “Absalão matara todos os filhos do rei.” “O rei e todos os seus servos choraram.” “Davide chorava o seu filho todos os dias.”",
+    "meditatio_perguntas": [
+      "Guardo rancores em silêncio, à espera de ocasião?",
+      "A falta de justiça a tempo fez crescer males à minha volta?",
+      "Que festas da minha vida o ódio estragou?"
+    ],
+    "oratio_guia": "Senhor, arranca de mim todo rancor guardado. Que eu não deixe crescer o ódio nem a omissão, e que a tua mesa reconcilie os irmãos divididos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Absalão não falou a Amnon nem mal nem bem, mas odiava-o, por ter violado sua irmã Tamar",
+      "ref": "2Sm 13,22"
+    }
+  },
+  "ancoras": {
+    "13:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A tosquia era ocasião de grandes festas (cf. 1Sm 25,2-8).",
+        "origem": "ia"
+      }
+    },
+    "13:37": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Gessur, pequeno reino arameu a leste do lago de Genesaré; a mãe de Absalão era filha do seu rei (3,3).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

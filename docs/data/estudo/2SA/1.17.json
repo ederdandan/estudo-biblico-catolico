@@ -1,0 +1,57 @@
+{
+  "id": "2SA.1.17",
+  "livro": "2SA",
+  "titulo": "Como caíram os valentes: a elegia de Davi",
+  "secao": "Davi rei em Hebron",
+  "referencia": "2Sm 1,17-27",
+  "ini": {
+    "c": 1,
+    "v": 17
+  },
+  "fim": {
+    "c": 1,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "Como caíram os heróis! O cântico do arco",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Davi compõe uma elegia sobre Saul e Jônatas e manda ensiná-la aos filhos de Judá; é o “Cântico do Arco”, escrito no livro do Justo. “A tua glória, Israel, pereceu sobre os teus montes. Como caíram os heróis?” Não o anuncieis em Get, nem nas ruas de Ascalon, para que não se alegrem as filhas dos filisteus. Montes de Gelboé, não caia sobre vós orvalho nem chuva, porque ali foi lançado o escudo dos valentes. O arco de Jônatas nunca recuou, e a espada de Saul nunca voltou vazia. “Saul e Jônatas, amáveis e belos na sua vida, também na morte se não separaram. Eram mais ligeiros do que as águias, mais valentes do que os leões.” Filhas de Israel, chorai Saul, que vos vestia de púrpura e ouro. Como caíram os fortes no combate? Jônatas foi morto sobre os teus montes. “Choro por ti, ó meu irmão Jônatas, que eras para mim tão querido! A tua amizade era mais preciosa para mim que o amor das mulheres!” Como caíram os heróis, e pereceram as armas de guerra!",
+    "alegorico": "O lamento de Davi, que não diz uma palavra contra Saul, é uma das mais belas expressões da caridade que “tudo desculpa” (1Cor 13,7). A amizade com Jônatas, “mais preciosa que o amor das mulheres”, é para a tradição cristã imagem da caridade espiritual entre os amigos de Deus, que Cristo eleva a “dar a vida pelos amigos”.",
+    "moral": "Davi não aproveita a morte de Saul para se justificar; celebra o que havia de bom no rei e esconde as suas faltas. É uma lição de nobreza ao falar dos mortos e dos adversários. E a sua dor por Jônatas mostra que a amizade verdadeira é um dos maiores bens da vida: chorar um amigo é reconhecer o dom que Deus nos deu nele.",
+    "anagogico": "“Também na morte se não separaram”: os que se amaram em Deus permanecem unidos para além da morte. A elegia aguarda a resposta da ressurreição, em que os valentes caídos se levantarão."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A tua glória, Israel, pereceu sobre os teus montes.” “Como caíram os heróis?” “Saul e Jónatas, amáveis e belos na sua vida, também na morte se não separaram.” “Choro por ti, ó meu irmão Jónatas, que eras para mim tão querido!” “A tua amizade era mais preciosa para mim.”",
+    "meditatio_perguntas": [
+      "Sei falar com nobreza dos que me fizeram mal?",
+      "Agradeço a Deus pelos amigos que me deu?",
+      "Como vivo o luto: com desespero, ou com a esperança da comunhão?"
+    ],
+    "oratio_guia": "Senhor, recebe o meu pranto por aqueles que amei e perdi. Dá-me falar com caridade de todos, vivos e mortos, e une-nos em ti para que, também na morte, não nos separemos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Choro por ti, ó meu irmão Jónatas, que eras para mim tão querido!",
+      "ref": "2Sm 1,26"
+    }
+  },
+  "ancoras": {
+    "1:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “Cântico do Arco” talvez se chame assim por mencionar o arco de Jônatas (1,22); o “livro do Justo” é citado também em Js 10,13.",
+        "origem": "ia"
+      }
+    },
+    "1:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A maldição dos montes de Gelboé tornou-se lugar-comum da poesia; a Vulgata lê “nem haja campos de primícias”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

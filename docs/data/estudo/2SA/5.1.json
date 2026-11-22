@@ -1,0 +1,57 @@
+{
+  "id": "2SA.5.1",
+  "livro": "2SA",
+  "titulo": "Davi rei de todo Israel; a tomada de Sião",
+  "secao": "Davi em Jerusalém",
+  "referencia": "2Sm 5,1-25",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "Somos teus ossos e tua carne: Davi rei de todo Israel em Sião",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Todas as tribos de Israel vão a Hebron e dizem a Davi: “somos teus ossos e tua carne”; já no tempo de Saul eras tu quem conduzia Israel, e o Senhor te disse: “tu apascentarás o meu povo Israel e serás o chefe de Israel”. Os anciãos fazem aliança com ele diante do Senhor e o ungem rei de Israel. Davi tem trinta anos; reina quarenta: sete anos e meio em Hebron sobre Judá, trinta e três em Jerusalém sobre todo Israel e Judá. O rei vai contra os jebuseus de Jerusalém, que zombam: não entrarás aqui, os cegos e os coxos te repelirão. Mas Davi toma a fortaleza de Sião, que se torna a “cidade de Davi”. Constrói ao redor, desde o Melo. “Davi ia-se fortificando e crescendo mais e mais, e o Senhor Deus dos exércitos era com ele.” Hirão, rei de Tiro, envia cedro, carpinteiros e pedreiros, e constroem um palácio para Davi. Davi reconhece que o Senhor o confirmou rei e exaltou o seu reino por amor do seu povo. Em Jerusalém tem mais mulheres e filhos, entre eles Natã e Salomão. Os filisteus sobem contra ele no vale dos Refaim; Davi consulta o Senhor: sobe. Vence-os em Baal-Farasim: “o Senhor irrompeu sobre os meus inimigos como as águas”. Eles voltam; Davi consulta de novo, e o Senhor manda contorná-los: quando ouvires o rumor de passos nas copas das amoreiras, ataca, porque o Senhor sai à tua frente. E Davi os bate de Gabaa até Gazer.",
+    "alegorico": "Sião, conquistada por Davi e feita sua cidade, torna-se a figura de Jerusalém, da Igreja e da cidade celeste. “Apascentarás o meu povo” une realeza e pastoreio, anunciando Cristo, Rei-Pastor. “Somos teus ossos e tua carne” lembra que o Messias será um dos nossos, da nossa carne, e que a Igreja é o seu Corpo.",
+    "moral": "Davi recebe o reino como dom e reconhece para que lhe foi dado: “por amor do seu povo”. A autoridade é serviço ao povo de Deus. E mesmo rei, continua a consultar o Senhor antes de cada batalha; a segunda vez, a estratégia é diferente: Deus não se repete, é preciso escutá-lo sempre de novo.",
+    "anagogico": "O rumor de passos nas copas das árvores, sinal de que o Senhor marcha à frente, anuncia a vinda do Senhor que precede o seu povo até a vitória final na Jerusalém do alto."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Aqui nos tens, somos teus ossos e tua carne.” “Tu apascentarás o meu povo de Israel.” “Davide tomou a fortaleza de Sião, que é a cidade de Davide.” “O Senhor Deus dos exércitos era com ele.” “Exaltava o seu reino por amor do seu povo.” “Quando ouvires um rumor como de passos, entre as copas dos balsameiros.”",
+    "meditatio_perguntas": [
+      "Vejo a minha autoridade como serviço “por amor do povo”?",
+      "Continuo consultando a Deus mesmo depois dos sucessos?",
+      "Estou atento ao “rumor dos passos” do Senhor que vai à minha frente?"
+    ],
+    "oratio_guia": "Senhor, que fizeste de Sião a tua cidade, faz de mim morada tua. Que eu sirva por amor dos irmãos e esteja atento aos teus passos, para seguir-te sempre. Amém.",
+    "contemplatio_foco": {
+      "texto": "Davide ia-se fortificando e crescendo mais e mais, e o Senhor Deus dos exércitos era com ele",
+      "ref": "2Sm 5,10"
+    }
+  },
+  "ancoras": {
+    "5:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Sião era o nome da colina-fortaleza jebuseia, a sudeste da atual Cidade Velha; o nome passou depois ao monte do Templo e a toda Jerusalém.",
+        "origem": "ia"
+      }
+    },
+    "5:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O texto hebraico deste versículo é obscuro; talvez Davi tenha entrado pelo canal de água (tsinnor) que abastecia a cidade.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

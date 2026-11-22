@@ -1,0 +1,57 @@
+{
+  "id": "2SA.16.1",
+  "livro": "2SA",
+  "titulo": "Siba e Semei: deixai-o amaldiçoar",
+  "secao": "A revolta de Absalão",
+  "referencia": "2Sm 16,1-14",
+  "ini": {
+    "c": 16,
+    "v": 1
+  },
+  "fim": {
+    "c": 16,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "Deixai que amaldiçoe: Siba e Semei",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Pouco depois do cume, Siba, servo de Mefibaal, vem ao encontro de Davi com dois jumentos carregados de pães, passas, frutas e vinho: para a família do rei e para os cansados no deserto. Onde está o filho do teu senhor? Ficou em Jerusalém, diz Siba, esperando que hoje Israel lhe devolva o reino de seu pai. Davi, sem verificar, lhe dá tudo o que era de Mefibaal. Em Baurim, sai um homem da família de Saul, Semei, filho de Gera, que vai amaldiçoando e atirando pedras contra Davi e os seus servos: “Sai, sai, homem sanguinário, homem de Belial!” O Senhor te pagou o sangue da casa de Saul. Abisai diz: por que este cão morto amaldiçoa o rei? deixa-me cortar-lhe a cabeça. O rei responde: “Que importa a mim e a vós, filhos de Sárvia? Deixai que amaldiçoe, porque o Senhor lhe permitiu que amaldiçoasse Davi.” Se o meu próprio filho procura a minha vida, quanto mais este benjaminita! “Talvez o Senhor olhe para a minha aflição, e me dê bens pelas maldições deste dia.” Davi segue o caminho, e Semei vai pela encosta, amaldiçoando, atirando pedras e terra. O rei e o povo chegam cansados e descansam.",
+    "alegorico": "Davi que recebe insultos e pedras sem se vingar é figura de Cristo, que “ultrajado, não retribuía o ultraje” (1Pd 2,23), e que impediu Pedro de usar a espada. Gregório Magno vê aqui o modelo do justo que aceita as humilhações como permitidas por Deus para a sua purificação.",
+    "moral": "Davi aceita a humilhação como parte da sua penitência: lê nela a mão de Deus e espera que a aflição suportada com paciência se converta em bênção. Não discute se Semei tem razão; entrega-se. Ao mesmo tempo, o texto mostra a fragilidade do julgamento apressado: Davi crê sem verificar na calúnia de Siba contra Mefibaal. Na tribulação somos mais vulneráveis aos aproveitadores.",
+    "anagogico": "“Talvez o Senhor me dê bens pelas maldições deste dia”: a esperança cristã sabe que as humilhações suportadas por amor se transformam em glória (Mt 5,11-12)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Sai, sai, homem sanguinário.” “Por que amaldiçoa este cão morto o rei meu senhor?” “Deixai que amaldiçoe, porque o Senhor lhe permitiu.” “Se meu filho… procura tirar-me a vida.” “Talvez o Senhor olhe para a minha aflição, e me dê bens pelas maldições deste dia.”",
+    "meditatio_perguntas": [
+      "Como reajo aos insultos: com vingança ou com paciência?",
+      "Sei ler nas humilhações uma ocasião de purificação?",
+      "Julgo apressadamente com base em acusações não verificadas?"
+    ],
+    "oratio_guia": "Senhor, quando me amaldiçoarem e me atirarem pedras, dá-me a paciência de Davi e a mansidão de Cristo. Olha para a minha aflição e transforma em bênção as maldições do meu dia. Amém.",
+    "contemplatio_foco": {
+      "texto": "talvez o Senhor olhe para a minha aflição, e me dê bens pelas maldições deste dia",
+      "ref": "2Sm 16,12"
+    }
+  },
+  "ancoras": {
+    "16:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Homem de Belial”: expressão hebraica para homem vil, perverso; “Belial” será depois nome de Satanás (2Cor 6,15).",
+        "origem": "ia"
+      }
+    },
+    "16:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Semei talvez aluda à execução dos descendentes de Saul narrada em 21,1-14, que pode ser cronologicamente anterior.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

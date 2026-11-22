@@ -1,0 +1,57 @@
+{
+  "id": "2SA.10.1",
+  "livro": "2SA",
+  "titulo": "A afronta aos mensageiros e a guerra contra Amon",
+  "secao": "Davi em Jerusalém",
+  "referencia": "2Sm 10,1-19",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "Mostra-te homem de coragem: a afronta de Hanon e a guerra contra Amon",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Morre o rei dos amonitas, e sucede-lhe o filho Hanon. Davi diz: farei bondade a Hanon, como o seu pai a fez a mim; e envia servos para consolá-lo. Mas os príncipes de Amon desconfiam: pensas que Davi te honra? veio espionar a cidade para destruí-la. Hanon prende os enviados, rapa-lhes metade da barba e corta-lhes as vestes até a cintura, e os despede. Davi, sabendo da humilhação, manda dizer-lhes: ficai em Jericó até que a barba cresça. Os amonitas, vendo-se odiosos a Davi, contratam sírios de Rob, de Soba, de Maaca e de Tob. Davi envia Joab com todo o exército. Joab se vê entre dois exércitos, os amonitas diante da cidade e os sírios no campo. Escolhe os melhores contra os sírios e entrega o resto a Abisai contra os amonitas: se uns prevalecerem, socorre-me; se os outros, eu te socorrerei. “Mostra-te como homem de coragem, e pelejemos pelo nosso povo e pela cidade do nosso Deus. O Senhor fará como bem lhe parecer.” Os sírios fogem diante de Joab, e os amonitas, diante de Abisai. Os sírios se reagrupam com reforços de além do Eufrates, sob Sobac; Davi atravessa o Jordão, vence-os em Helam e mata Sobac. Os reis vassalos de Adadezer fazem paz com Israel, e os sírios não ousam mais socorrer Amon.",
+    "alegorico": "Os mensageiros de paz, ultrajados, foram lidos como figura dos apóstolos e mensageiros de Cristo, rejeitados e humilhados pelo mundo, como o próprio Senhor, cuja bondade foi interpretada como ameaça. Davi não os expõe à vergonha, mas os esconde até que se restaurem: assim Deus cobre a humilhação dos seus.",
+    "moral": "A desconfiança transforma a bondade em ofensa e leva à guerra. Quantos conflitos nascem de suspeitas e de conselheiros maliciosos! O cuidado de Davi com os seus enviados humilhados é delicadeza de líder. A palavra de Joab é um modelo de coragem cristã: fazer a nossa parte com valentia e deixar o resultado com Deus.",
+    "anagogico": "“O Senhor fará como bem lhe parecer”: o combate é nosso, a vitória é de Deus. A esperança cristã une o empenho total à entrega confiante."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu mostrarei benevolência a Hanon.” “Tu cuidas que é em honra de teu pai?” “Mandou-lhes rapar metade da barba.” “Mostra-te como homem de coragem.” “Pelejemos pelo nosso povo e pela cidade do nosso Deus.” “O Senhor fará como bem lhe parecer.”",
+    "meditatio_perguntas": [
+      "Interpreto com desconfiança a bondade dos outros?",
+      "Cuido dos que foram humilhados por minha causa?",
+      "Faço a minha parte com coragem e entrego o resultado a Deus?"
+    ],
+    "oratio_guia": "Senhor, livra-me da desconfiança que transforma o bem em ofensa. Dá-me coragem para lutar pelo teu povo e paz para deixar contigo o resultado: faze como bem te parecer. Amém.",
+    "contemplatio_foco": {
+      "texto": "Mostra-te como homem de coragem, e pelejemos pelo nosso povo e pela cidade do nosso Deus. O Senhor fará como bem lhe parecer",
+      "ref": "2Sm 10,12"
+    }
+  },
+  "ancoras": {
+    "10:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Rapar metade da barba era afronta gravíssima no Oriente; a barba era sinal de honra e virilidade.",
+        "origem": "ia"
+      }
+    },
+    "10:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jericó, então em ruínas, ficava no caminho de volta de Amon a Jerusalém.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

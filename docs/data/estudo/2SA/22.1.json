@@ -1,0 +1,57 @@
+{
+  "id": "2SA.22.1",
+  "livro": "2SA",
+  "titulo": "O cântico de Davi: o Senhor é o meu rochedo",
+  "secao": "Apêndices do reinado de Davi",
+  "referencia": "2Sm 22,1-51",
+  "ini": {
+    "c": 22,
+    "v": 1
+  },
+  "fim": {
+    "c": 22,
+    "v": 51
+  },
+  "liturgia": {
+    "tema_central": "O Senhor é o meu rochedo: o cântico de ação de graças de Davi",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Davi dirige ao Senhor este cântico no dia em que o livrou de todos os inimigos e de Saul. É quase idêntico ao Salmo 17(18). “O Senhor é o meu rochedo, a minha fortaleza, o meu Salvador.” Deus é o meu escudo e o meu refúgio. Invoquei o Senhor e fui salvo. As ondas da morte me cercavam, as torrentes de Belial me aterravam, os laços do inferno me envolviam. “Na minha tribulação invocava o Senhor… Ele, do seu templo, ouviu a minha voz.” Segue uma grande teofania: a terra treme, fumo e fogo saem da sua presença, ele inclina os céus e desce, cavalga sobre os querubins, voa sobre as asas do vento, troveja, lança setas e relâmpagos, e aparecem os fundamentos da terra. “Estendeu a sua mão do alto, e recebeu-me, e tirou-me das grandes águas.” Livrou-me porque se agradou de mim. Com o misericordioso és misericordioso, com o íntegro, íntegro; com o perverso, astuto; salvas o povo humilde e humilhas os soberbos. “Tu, Senhor, és a minha luz; tu alumias as minhas trevas.” Contigo assalto muralhas. A palavra do Senhor é provada no fogo. Quem é Deus senão o Senhor? Ele me cinge de força, torna os meus pés como os da corça, adestra as minhas mãos para a guerra. Os inimigos caem; os povos estrangeiros me servem. “Viva o Senhor! Bendito seja o meu rochedo!” Por isso te louvarei entre as nações, a ti que dás grandes vitórias ao teu rei e usas de misericórdia com o teu ungido, com Davi e a sua descendência para sempre.",
+    "alegorico": "Paulo cita o versículo 50 (“te louvarei entre as nações”) como profecia da entrada dos pagãos na Igreja (Rm 15,9): o cântico de Davi se torna o cântico de Cristo ressuscitado, tirado “das grandes águas” da morte, que louva o Pai no meio dos povos. A descida de Deus que inclina os céus foi lida como imagem da Encarnação e da Ressurreição.",
+    "moral": "No fim da vida, Davi olha para trás e vê uma só coisa: Deus o salvou. Todas as imagens (rochedo, fortaleza, escudo, luz) dizem a mesma confiança. A afirmação da própria integridade (“segui os caminhos do Senhor”) deve ser lida à luz da penitência de Davi: é a retidão de um coração reconciliado, não a pretensão de nunca ter pecado.",
+    "anagogico": "“A ti, que usas de misericórdia com o teu ungido… para sempre”: o cântico termina na promessa eterna, que se cumpre em Cristo e na qual também nós seremos tirados das grandes águas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor é o meu rochedo, a minha fortaleza, o meu Salvador.” “Na minha tribulação invocava o Senhor.” “Estendeu a sua mão do alto, e recebeu-me, e tirou-me das grandes águas.” “Tu, Senhor, és a minha luz.” “Tu, ó Senhor, alumias as minhas trevas.” “Quem é Deus senão o Senhor?”",
+    "meditatio_perguntas": [
+      "Olhando a minha vida, vejo a mão de Deus que me salvou?",
+      "Quais são as minhas “grandes águas” de onde Deus me tirou?",
+      "Que imagem de Deus (rochedo, luz, escudo) fala mais ao meu coração?"
+    ],
+    "oratio_guia": "Senhor, meu rochedo, minha fortaleza e meu Salvador: estende a tua mão do alto e tira-me das grandes águas. Tu és a minha luz, ilumina as minhas trevas, e eu te louvarei entre as nações. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tu, Senhor, és a minha luz, Tu, ó Senhor, alumias as minhas trevas",
+      "ref": "2Sm 22,29"
+    }
+  },
+  "ancoras": {
+    "22:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O cântico reaparece quase igual no Salmo 17(18), com pequenas variantes; é um dos poemas mais antigos da Bíblia.",
+        "origem": "ia"
+      }
+    },
+    "22:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os querubins são o “carro” de Deus (cf. Ez 1; 10), e o vento, as suas asas: imagens da soberania divina sobre a criação.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2SA.21.1",
+  "livro": "2SA",
+  "titulo": "Os gabaonitas e Resfa; os gigantes filisteus",
+  "secao": "Apêndices do reinado de Davi",
+  "referencia": "2Sm 21,1-22",
+  "ini": {
+    "c": 21,
+    "v": 1
+  },
+  "fim": {
+    "c": 21,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Resfa vela os seus filhos: a fome, os gabaonitas e os gigantes",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No tempo de Davi há uma fome de três anos. Davi consulta o Senhor, que responde: é por causa de Saul e da sua casa sanguinária, porque matou os gabaonitas. Os gabaonitas, restos dos amorreus a quem Israel jurara proteção (Js 9), foram atacados por Saul no seu zelo. Davi pergunta-lhes: que reparação vos darei, para que abençoeis a herança do Senhor? Não queremos ouro nem prata, respondem, mas sete descendentes de Saul, para os expor diante do Senhor em Gabaa. Davi poupa Mefibaal, por causa do juramento a Jônatas, e entrega dois filhos de Resfa, concubina de Saul, e cinco netos de Saul; os gabaonitas os expõem no monte diante do Senhor, no início da colheita da cevada. Resfa toma um saco, estende-o sobre a rocha, e desde o início da colheita até as chuvas caírem sobre os corpos não deixa que as aves os toquem de dia, nem as feras de noite. Davi, informado, manda buscar os ossos de Saul e Jônatas em Jabes, recolhe os dos executados e os sepulta todos na terra de Benjamim, no túmulo de Cis. Depois disso, Deus se aplaca com a terra. O capítulo termina com quatro combates contra gigantes filisteus da raça de Rafa: Davi, cansado, quase é morto, e Abisai o salva; os seus homens juram que ele não sairá mais à batalha, para que não se apague “a lâmpada de Israel”; Elcanã mata Golias de Get; Jônatas, sobrinho de Davi, mata um gigante de seis dedos.",
+    "alegorico": "Resfa que vela os filhos mortos durante meses, protegendo os corpos, é figura das mães junto às cruzes, e para a tradição cristã imagem de Maria aos pés da Cruz, fiel na dor até o fim. A sua piedade comove o rei e leva à sepultura digna de toda a casa de Saul: o amor perseverante de uma mãe obtém a reconciliação.",
+    "moral": "É uma página dura: a culpa de Saul, que violou um juramento, pesa sobre a terra; a justiça da época exige sangue. O texto não esconde o horror. Mas o centro afetivo é Resfa, que transforma a dor em fidelidade silenciosa e obriga o rei a fazer o que devia: dar sepultura. A fidelidade de Davi ao juramento por Mefibaal contrasta com a infidelidade de Saul.",
+    "anagogico": "“Até que a água do céu caiu sobre eles”: a chuva que põe fim à fome e à vigília de Resfa anuncia a reconciliação que vem do alto. Em Cristo, o sangue que reconcilia é o do Inocente, que torna desnecessário todo outro sacrifício."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Davide consultou o oráculo do Senhor.” “Que satisfação vos darei?” “O rei não entregou a Mifiboset… por causa do juramento.” “Resfa… tomando um pano de cilício, estendeu-o debaixo de si, sobre uma pedra.” “Não deixou que as aves os despedaçassem de dia, nem as feras de noite.”",
+    "meditatio_perguntas": [
+      "Cumpro os juramentos e compromissos, mesmo antigos?",
+      "Sei velar com fidelidade junto aos que sofrem?",
+      "Como as faltas do passado ainda pesam sobre a minha família ou comunidade?"
+    ],
+    "oratio_guia": "Senhor, recebe a fidelidade das mães que velam junto aos filhos mortos. Por intercessão de Maria, fiel aos pés da Cruz, dá-nos a reconciliação que vem do alto e o perdão das culpas antigas. Amém.",
+    "contemplatio_foco": {
+      "texto": "não deixou que as aves os despedaçassem de dia, nem as feras de noite",
+      "ref": "2Sm 21,10"
+    }
+  },
+  "ancoras": {
+    "21:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Crucificarmos” traduz a Vulgata (crucifigamus); o hebraico indica uma execução com exposição dos corpos, talvez com membros quebrados.",
+        "origem": "ia"
+      }
+    },
+    "21:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Em 1Cr 20,5 lê-se que Elcanã matou Lami, irmão de Golias; o texto de Samuel parece ter sofrido corrupção.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

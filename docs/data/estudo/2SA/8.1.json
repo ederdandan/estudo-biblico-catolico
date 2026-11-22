@@ -1,0 +1,57 @@
+{
+  "id": "2SA.8.1",
+  "livro": "2SA",
+  "titulo": "As vitórias de Davi",
+  "secao": "Davi em Jerusalém",
+  "referencia": "2Sm 8,1-18",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "O Senhor guardou Davi em todas as expedições: o reino consolidado",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O capítulo resume as vitórias de Davi. Derrota os filisteus e lhes tira o domínio; vence Moab e trata duramente os prisioneiros, e os moabitas se tornam tributários. Bate Adadezer, rei de Soba, quando este ia estender o seu domínio até o Eufrates: toma-lhe carros, cavaleiros e infantes, corta os jarretes aos cavalos, reservando cem carros. Os sírios de Damasco vêm socorrer Adadezer e são vencidos; Davi põe guarnições em Damasco, e a Síria se torna tributária. “O Senhor guardou Davi em todas as expedições que fez.” Davi leva para Jerusalém os escudos de ouro dos servos de Adadezer e muito bronze. Tou, rei de Emat, envia o filho para felicitá-lo, com vasos de prata, ouro e bronze, e Davi os consagra ao Senhor, junto com todo o despojo das nações vencidas. Põe guarnições na Idumeia. “Reinou Davi sobre todo o Israel, e julgava também e administrava justiça a todo o seu povo.” Segue a lista dos oficiais: Joab, chefe do exército; Josafat, cronista; Sadoc e Aquimelec, sacerdotes; Saraías, escriba; Banaías, chefe dos cereteus e feleteus; e os filhos de Davi, ministros.",
+    "alegorico": "O reino de Davi, que se estende sobre as nações e reúne os seus tesouros consagrados ao Senhor, é figura do reino de Cristo, a quem os reis trarão os seus dons (Sl 72,10-11). O ouro dos vencidos consagrado ao Templo anuncia que as riquezas dos povos entrarão na cidade de Deus (Ap 21,26).",
+    "moral": "O sucesso de Davi é atribuído a Deus, e o despojo é consagrado, não guardado para si. E o centro do resumo é a justiça: o rei “administrava justiça a todo o seu povo”. O poder vale pelo direito e pela justiça que serve. Os cavalos aleijados recordam a lei de não confiar no poder militar (Dt 17,16).",
+    "anagogico": "O Messias reinará com justiça sobre todas as nações, e o seu reino de paz não terá fim. As vitórias de Davi são só a sombra dessa realeza definitiva."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor guardou Davide em todas as expedições que fez.” “O rei Davide consagrou também ao Senhor.” “Reinou Davide sobre todo o Israel.” “Julgava também e administrava justiça a todo o seu povo.”",
+    "meditatio_perguntas": [
+      "Atribuo a Deus os meus sucessos?",
+      "Consagro a Deus o que conquisto, ou guardo tudo para mim?",
+      "A justiça é o centro do poder que exerço?"
+    ],
+    "oratio_guia": "Senhor, guarda-me em todos os meus caminhos. Que eu te consagre os frutos do meu trabalho e exerça com justiça qualquer autoridade que me confiares. Amém.",
+    "contemplatio_foco": {
+      "texto": "Reinou Davide sobre todo o Israel, e julgava também e administrava justiça a todo o seu povo",
+      "ref": "2Sm 8,15"
+    }
+  },
+  "ancoras": {
+    "8:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Soba, reino arameu ao norte de Damasco, na Beqa‘ libanesa; o “rio” é o Eufrates.",
+        "origem": "ia"
+      }
+    },
+    "8:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cereteus e feleteus: guarda pessoal de mercenários, provavelmente cretenses e filisteus.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

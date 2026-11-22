@@ -1,0 +1,57 @@
+{
+  "id": "2SA.12.16",
+  "livro": "2SA",
+  "titulo": "A morte do menino e o nascimento de Salomão",
+  "secao": "O pecado de Davi e os seus frutos",
+  "referencia": "2Sm 12,16-31",
+  "ini": {
+    "c": 12,
+    "v": 16
+  },
+  "fim": {
+    "c": 12,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Eu irei para junto dele: a morte do menino e o nascimento de Salomão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor fere o menino que a mulher de Urias dera a Davi, e ele adoece gravemente. Davi suplica a Deus pelo menino, jejua rigorosamente, passa as noites deitado no chão. Os anciãos da casa tentam levantá-lo, mas ele não quer e não come. Ao sétimo dia o menino morre, e os servos têm medo de lhe contar: se vivo não nos ouvia, que fará agora? Davi os vê cochichando e compreende: morreu o menino? Morreu. Então Davi se levanta da terra, lava-se, unge-se, muda de roupa, entra na casa do Senhor e adora; depois volta para casa e pede de comer. Os servos se espantam. Ele explica: “Eu jejuei e chorei pelo menino enquanto vivo, porque dizia: Quem sabe se talvez o Senhor terá pena de mim e fará viver o menino? Mas agora que ele morreu, por que hei-de jejuar? Porventura posso eu fazê-lo ainda viver? Eu irei para junto dele, mas ele não voltará mais para junto de mim.” Davi consola Betsabé, e ela dá à luz um filho, a quem chama Salomão; o Senhor o ama e envia Natã, que lhe dá o nome de Jedidias, “Amável ao Senhor”. Entretanto Joab toma a cidade das águas de Rabá e chama Davi para concluir a conquista; Davi toma Rabá, põe na cabeça a coroa do rei amonita e submete os habitantes a trabalhos forçados.",
+    "alegorico": "Do pecado nasce a morte, mas da penitência nasce Salomão, o “amado do Senhor”, ancestral de Cristo. Mateus inclui na genealogia de Jesus “a mulher de Urias” (Mt 1,6): a graça de Deus escreve a história da salvação também através dos pecados perdoados.",
+    "moral": "Davi ensina a rezar com toda a força enquanto há esperança (“quem sabe se o Senhor terá pena?”) e a aceitar a vontade de Deus quando ela se manifesta. A sua adoração após a morte do filho é um ato de fé profunda: não se revolta, adora. E retoma a vida, consola a esposa. A dor não é negada, mas também não se torna desespero.",
+    "anagogico": "“Eu irei para junto dele, mas ele não voltará para mim”: palavras de esperança diante da morte das crianças e de todos os que amamos. Não voltam a nós, mas nós iremos a eles, em Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Davide fez oração ao Senhor pelo menino, jejuou rigorosamente.” “Quem sabe se talvez o Senhor terá pena de mim?” “Davide levantou-se do chão, lavou-se… entrou na casa do Senhor.” “Eu irei para junto dele, mas ele não voltará mais para junto de mim.” “O Senhor o amou.”",
+    "meditatio_perguntas": [
+      "Rezo com perseverança enquanto há esperança?",
+      "Sei adorar a Deus mesmo quando a oração não foi atendida como eu queria?",
+      "Como vivo a esperança de reencontrar os que perdi?"
+    ],
+    "oratio_guia": "Senhor, ensina-me a suplicar com todas as forças e a adorar-te quando a tua vontade se cumpre de outro modo. Consola os que choram os seus filhos, e dá-nos a esperança de ir ao encontro deles em ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu Irei para junto dele, mas ele não voltará mais para junto de mim",
+      "ref": "2Sm 12,23"
+    }
+  },
+  "ancoras": {
+    "12:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jedidias (“amado de YHWH”) é o nome dado por Natã a Salomão, sinal de que o Senhor o escolhe apesar da origem.",
+        "origem": "ia"
+      }
+    },
+    "12:30": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A coroa pesava “um talento” (cerca de 34 kg); talvez fosse da estátua do deus Melcom (“seu rei”).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

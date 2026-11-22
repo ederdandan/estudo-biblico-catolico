@@ -1,0 +1,57 @@
+{
+  "id": "2SA.7.1",
+  "livro": "2SA",
+  "titulo": "A profecia de Natã: uma casa para sempre",
+  "secao": "Davi em Jerusalém",
+  "referencia": "2Sm 7,1-17",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "Eu serei para ele um pai, e ele será para mim um filho: a promessa a Davi",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O rei se estabelece no seu palácio, e o Senhor lhe dá paz com todos os inimigos. Davi diz ao profeta Natã: vê, eu moro numa casa de cedro, e a arca de Deus está sob uma tenda. Natã responde: faz o que tens no coração. Mas naquela noite o Senhor fala a Natã: dize ao meu servo Davi: “serás tu que me edificarás uma casa?” Desde o Egito andei numa tenda e nunca pedi casa de cedro. “Eu tirei-te das pastagens, quando seguias as ovelhas, para seres chefe do meu povo”; estive contigo, destruí os teus inimigos, farei o teu nome grande. Darei um lugar ao meu povo. E o Senhor te anuncia que ele mesmo te fará uma casa. Quando os teus dias se completarem, suscitarei depois de ti a tua descendência, que sairá das tuas entranhas, e firmarei o seu reino. “Ele edificará uma casa em meu nome, e eu estabelecerei para sempre o trono de seu reino. Eu serei para ele um pai, e ele será para mim um filho.” Se cometer iniquidade, eu o corrigirei com vara de homens, mas não retirarei dele a minha misericórdia, como a retirei de Saul. “A tua casa será estável, o teu reino se perpetuará diante do teu rosto, e o teu trono será firme para sempre.” Natã transmite tudo a Davi.",
+    "alegorico": "Esta profecia é o fundamento da esperança messiânica: o Filho de Davi cujo trono será eterno é Jesus, a quem o anjo diz: “o Senhor lhe dará o trono de Davi, seu pai, e o seu reino não terá fim” (Lc 1,32-33). “Eu serei para ele um pai, e ele será para mim um filho” é aplicado a Cristo em Hb 1,5. A “casa” que Deus edifica é a Igreja.",
+    "moral": "Davi quer fazer algo para Deus; Deus responde que é ele quem fará por Davi. É a lógica da graça: antes de darmos, recebemos. Os nossos projetos generosos devem ser submetidos ao discernimento; até o profeta precisa corrigir a sua primeira resposta. E a promessa inclui a correção paterna: Deus educa os seus filhos sem retirar a misericórdia.",
+    "anagogico": "“O teu trono será firme para sempre”: nenhum reino humano é eterno; a promessa só se cumpre no Reino de Cristo, que não terá fim e no qual seremos casa de Deus para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu habito numa casa de cedro, enquanto a arca de Deus está posta debaixo de peles.” “Porventura serás tu que me edificarás uma casa?” “Eu tirei-te das pastagens, quando seguias o rebanho.” “Eu estabelecerei para sempre o trono de seu reino.” “Eu serei para ele um pai, e ele será para mim um filho.” “Não retirarei dele a minha misericórdia.”",
+    "meditatio_perguntas": [
+      "Reconheço que Deus faz por mim mais do que eu poderia fazer por ele?",
+      "Submeto os meus projetos, mesmo bons, ao discernimento de Deus?",
+      "Aceito a correção paterna de Deus, confiando na sua misericórdia?"
+    ],
+    "oratio_guia": "Senhor, que me tiraste das pastagens e me fizeste teu filho, edifica tu a minha casa. Corrige-me como pai, mas não retires de mim a tua misericórdia, e firma em mim o reino do teu Filho. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu serei para ele um pai, e ele será para mim um filho",
+      "ref": "2Sm 7,14"
+    }
+  },
+  "ancoras": {
+    "7:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jogo de palavras: Davi quer construir uma “casa” (templo) para Deus; Deus lhe promete uma “casa” (dinastia).",
+        "origem": "ia"
+      }
+    },
+    "7:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O versículo é aplicado a Cristo em Hb 1,5; a correção “com vara de homens” refere-se a Salomão e aos reis davídicos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

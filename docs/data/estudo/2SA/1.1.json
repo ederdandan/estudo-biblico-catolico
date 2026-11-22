@@ -1,0 +1,57 @@
+{
+  "id": "2SA.1.1",
+  "livro": "2SA",
+  "titulo": "A notícia da morte de Saul",
+  "secao": "Davi rei em Hebron",
+  "referencia": "2Sm 1,1-16",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "Como não temeste estender a mão contra o ungido do Senhor?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Dois dias depois de vencer os amalecitas, Davi está em Siceleg. Chega do acampamento de Saul um homem com as vestes rasgadas e terra na cabeça, que se prostra diante dele. Conta: o povo fugiu, muitos caíram, e Saul e Jônatas morreram. Como sabes? O jovem narra uma versão diferente da do capítulo anterior: por acaso estava no Gelboé, encontrou Saul apoiado na lança, com os carros inimigos perto; Saul lhe perguntou quem era; “sou amalecita”; Saul pediu: mata-me, porque a angústia me prende; e ele o matou, sabendo que não sobreviveria, e trouxe a coroa e o bracelete ao seu senhor. Davi rasga as vestes, e todos os seus homens também; choram e jejuam até a tarde por Saul, por Jônatas, pelo povo do Senhor e pela casa de Israel. Depois Davi pergunta ao jovem de onde é: filho de um estrangeiro amalecita. “Como não temeste estender a mão para matar o ungido do Senhor?” Manda matá-lo: o teu sangue caia sobre a tua cabeça, porque a tua boca testemunhou contra ti.",
+    "alegorico": "Davi, que chora o perseguidor em vez de celebrar a sua morte, é figura de Cristo, que chora sobre Jerusalém. O respeito pelo “ungido do Senhor”, mesmo morto e mesmo inimigo, mostra que a unção pertence a Deus; Davi não aceita receber o reino por meio de um crime.",
+    "moral": "O amalecita mente para ganhar o favor do novo rei, e é a sua mentira que o condena. Quem pensa agradar aos poderosos alegrando-se com a ruína dos outros engana-se sobre o coração dos justos. Davi não se alegra com a morte do inimigo: chora, jejua e honra. A grandeza de alma se vê na forma como tratamos a queda dos adversários.",
+    "anagogico": "O luto de Davi pelo rei que o perseguiu antecipa a compaixão de Deus, que “não quer a morte do pecador”. A dignidade dos ungidos de Deus permanece até depois da morte."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O povo fugiu da batalha.” “Davide… apanhando as suas vestes, as rasgou.” “Fizeram pranto, chorando e jejuando, até a tarde.” “Como não temeste estender a mão para matar o ungido do Senhor?” “A tua própria boca falou contra ti.”",
+    "meditatio_perguntas": [
+      "Alegro-me com a queda dos meus adversários?",
+      "Busco favores alimentando o que os outros gostariam de ouvir?",
+      "Respeito a dignidade de quem Deus escolheu, mesmo quando falhou?"
+    ],
+    "oratio_guia": "Senhor, dá-me um coração que não se alegra com a desgraça dos outros, nem mesmo dos que me fizeram mal. Livra-me da bajulação e da mentira, e ensina-me a chorar com os que choram. Amém.",
+    "contemplatio_foco": {
+      "texto": "como não temeste estender a mão para matar o ungido do Senhor?",
+      "ref": "2Sm 1,14"
+    }
+  },
+  "ancoras": {
+    "1:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O relato do amalecita contradiz 1Sm 31,4-5: ele provavelmente achou o cadáver, roubou a coroa e inventou a história para ser recompensado.",
+        "origem": "ia"
+      }
+    },
+    "1:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O diadema e o bracelete eram insígnias reais; entregá-los a Davi era reconhecê-lo como sucessor.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

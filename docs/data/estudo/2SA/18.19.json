@@ -1,0 +1,57 @@
+{
+  "id": "2SA.18.19",
+  "livro": "2SA",
+  "titulo": "Meu filho Absalão!",
+  "secao": "A revolta de Absalão",
+  "referencia": "2Sm 18,19–19,8",
+  "ini": {
+    "c": 18,
+    "v": 19
+  },
+  "fim": {
+    "c": 19,
+    "v": 8
+  },
+  "liturgia": {
+    "tema_central": "Meu filho Absalão! Quem me dera ter morrido por ti",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Aquimaas, filho de Sadoc, quer correr para levar ao rei a boa notícia; Joab recusa, porque o filho do rei morreu, e manda um cusita. Aquimaas insiste e, autorizado, corre pelo caminho da planície e ultrapassa o cusita. Davi está sentado entre as duas portas; a sentinela anuncia um homem correndo sozinho, depois outro. O rei diz: se vem sozinho, traz boa notícia. A sentinela reconhece o modo de correr de Aquimaas: é homem bom, traz boa nova. Aquimaas grita: “Paz!”, prostra-se e anuncia a vitória. O rei só pergunta: está bem o jovem Absalão? Aquimaas se esquiva: vi um grande tumulto, mas não sei o que era. Chega o cusita: boa notícia, o Senhor te fez justiça. Está bem o jovem Absalão? Sejam como ele todos os teus inimigos. O rei se perturba, sobe ao quarto sobre a porta e chora, dizendo: “Meu filho Absalão! Absalão, filho meu! Quem me dera ter morrido por ti, Absalão, meu filho, filho meu!” A vitória se converte em luto; o povo entra na cidade às escondidas, como um exército envergonhado que fugiu da batalha. O rei, com o rosto coberto, grita: filho meu, Absalão! Joab entra e o repreende duramente: cobriste de vergonha os que te salvaram a vida; amas os que te odeiam e odeias os que te amam; se Absalão vivesse e todos nós morrêssemos, ficarias contente. Levanta-te, fala ao coração dos teus servos, senão esta noite ninguém ficará contigo. O rei se levanta e se senta à porta, e todo o povo vem diante dele.",
+    "alegorico": "O grito de Davi, “quem me dera ter morrido por ti”, é para os Padres a expressão do amor do Pai pelo filho rebelde, que em Cristo se cumpre de modo pleno: o que Davi desejou, o Filho de Davi realizou, morrendo pelos que lhe eram inimigos (Rm 5,10). Agostinho vê no luto de Davi o amor da Igreja que chora pelos hereges e cismáticos que perecem.",
+    "moral": "O lamento de Davi é uma das páginas mais humanas da Bíblia: o pai não consegue alegrar-se com uma vitória que lhe custou o filho. Talvez sinta também a própria culpa na tragédia. Mas Joab, duro e sem coração, tem razão num ponto: o chefe deve consolar os que lhe são fiéis. A dor pessoal, por legítima que seja, não pode fazer esquecer os outros.",
+    "anagogico": "“Quem me dera ter morrido por ti”: o desejo impossível de Davi é a realidade da Cruz. Por isso nenhum filho, por rebelde que seja, está fora do alcance do amor do Pai."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Se vem só, traz alguma boa nova.” “Está vivo o meu filho Absalão?” “Meu filho Absalão! Absalão, filho meu!” “Quem me dera ter morrido por ti.” “A vitória converteu-se em luto naquele dia.” “Amas os que te aborrecem, e aborreces os que te amam.” “Levanta-te, sai e fala com o coração a teus servos.”",
+    "meditatio_perguntas": [
+      "Amo os que me fizeram mal a ponto de querer morrer por eles?",
+      "A minha dor me faz esquecer os que estão ao meu lado?",
+      "Creio que Cristo morreu de verdade por mim, mesmo rebelde?"
+    ],
+    "oratio_guia": "Senhor Jesus, Filho de Davi, que morreste por nós quando ainda éramos teus inimigos, ensina-me a amar como amaste. Consola os pais que choram filhos perdidos e devolve-os ao teu coração. Amém.",
+    "contemplatio_foco": {
+      "texto": "Meu filho Absalão! Absalão, filho meu! Quem me dera ter morrido por ti",
+      "ref": "2Sm 18,33"
+    }
+  },
+  "ancoras": {
+    "18:33": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração hebraica este versículo é 19,1, e o capítulo 19 segue com um número a mais.",
+        "origem": "ia"
+      }
+    },
+    "18:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “cusita” era um etíope, talvez escravo de Joab; levar má notícia ao rei era perigoso (cf. 1,15; 4,10).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

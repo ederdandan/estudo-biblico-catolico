@@ -1,0 +1,57 @@
+{
+  "id": "2SA.3.1",
+  "livro": "2SA",
+  "titulo": "Abner passa a Davi e é morto por Joab",
+  "secao": "Davi rei em Hebron",
+  "referencia": "2Sm 3,1-39",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 39
+  },
+  "liturgia": {
+    "tema_central": "Não sabeis que um grande homem caiu hoje em Israel?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A guerra entre a casa de Saul e a de Davi se prolonga; Davi se fortalece e a casa de Saul se enfraquece. Em Hebron nascem os filhos de Davi: Amnon, Queleab, Absalão, Adonias, Safatias e Jetraam. Abner domina a casa de Saul e toma Resfa, concubina de Saul; Isboset o repreende, e Abner, furioso, decide passar o reino para Davi. Envia mensageiros: faz aliança comigo e trarei todo Israel a ti. Davi aceita, sob condição: devolve-me Micol. Isboset a tira do segundo marido, Faltiel, que a segue chorando até Baurim, até que Abner o manda voltar. Abner convence os anciãos de Israel e de Benjamim e vai a Hebron com vinte homens; Davi lhe dá um banquete, e Abner parte em paz. Joab chega de uma incursão, sabe disso e repreende o rei: Abner veio te espionar. Às escondidas, manda chamar Abner, leva-o para dentro da porta como para falar em particular e o apunhala no ventre, vingando o irmão Asael. Davi declara: eu e o meu reino somos inocentes para sempre do sangue de Abner; caia sobre Joab. Ordena luto público, caminha atrás do féretro, chora junto ao túmulo e canta: “Abner não morreu como costumam morrer os covardes.” Recusa comer até o pôr do sol. O povo vê e aprova: o rei não teve parte no crime. Davi diz: “Não sabeis que um chefe, um grande homem, caiu hoje em Israel?” Eu, embora ungido, sou fraco; os filhos de Sárvia são mais duros do que eu; o Senhor retribua ao malfeitor segundo a sua maldade.",
+    "alegorico": "Davi que chora sinceramente o adversário assassinado e afirma a sua inocência é imagem do Rei justo que não se impõe pela traição. A fraqueza que ele confessa diante dos “filhos de Sárvia” mostra que só o Messias reinará com plena justiça, sem precisar de homens violentos.",
+    "moral": "O capítulo é uma radiografia do poder: Abner muda de lado por despeito, Micol é tratada como peça política e arrancada do marido em lágrimas, Joab mata por vingança e por ciúme de posição. Davi reage com luto sincero e públicos sinais de inocência, mas confessa não ter força para punir os seus generais. A tolerância com os violentos próximos custará caro ao seu reino.",
+    "anagogico": "“O Senhor retribua ao que pratica o mal”: Davi entrega a Deus o juízo que ele mesmo não consegue exercer. A justiça final não depende da força dos reis."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Davide adiantando-se e fortificando-se cada vez mais.” “O seu marido a seguia chorando.” “Joab chamou-o à parte… e aí mesmo o feriu.” “Eu e o meu reino, para sempre estamos inocentes.” “Abner não morreu como costumam morrer os cobardes.” “Não sabeis que um chefe, um grande homem, caiu hoje em Israel?”",
+    "meditatio_perguntas": [
+      "Uso as pessoas como peças nos meus projetos?",
+      "Tolero injustiças dos que me são próximos por fraqueza?",
+      "Sei reconhecer a grandeza dos adversários?"
+    ],
+    "oratio_guia": "Senhor, livra-me de usar as pessoas e de tolerar a violência por fraqueza. Dá-me reconhecer a grandeza dos outros, mesmo adversários, e entregar a ti o juízo que me ultrapassa. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não sabeis que um chefe, um grande homem, caiu hoje em Israel?",
+      "ref": "2Sm 3,38"
+    }
+  },
+  "ancoras": {
+    "3:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Tomar a concubina do rei falecido era reivindicar a sua herança (cf. 16,21-22; 1Rs 2,22).",
+        "origem": "ia"
+      }
+    },
+    "3:27": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Joab mata Abner “dentro da porta”, isto é, em Hebron, cidade de refúgio (Js 20,7), o que agrava o crime.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

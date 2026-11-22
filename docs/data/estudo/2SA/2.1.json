@@ -1,0 +1,57 @@
+{
+  "id": "2SA.2.1",
+  "livro": "2SA",
+  "titulo": "Davi ungido em Hebron; a guerra entre as duas casas",
+  "secao": "Davi rei em Hebron",
+  "referencia": "2Sm 2,1-32",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "Não se saciará de sangue a tua espada? A guerra entre irmãos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Davi consulta o Senhor: devo subir a alguma cidade de Judá? Sobe; a Hebron. Vai com as mulheres e os seus homens, e os de Judá o ungem rei sobre a casa de Judá. Sabendo que os de Jabes de Galaad sepultaram Saul, Davi lhes envia uma bênção: o Senhor vos recompense a misericórdia que usastes com o vosso senhor. Mas Abner, chefe do exército de Saul, proclama rei Isboset, filho de Saul, sobre Galaad, Jezrael, Efraim, Benjamim e todo Israel; só Judá segue Davi, que reina em Hebron sete anos e seis meses. Junto ao tanque de Gabaon, os homens de Abner e os de Joab se encontram. Abner propõe um combate entre jovens; doze de cada lado se agarram pela cabeça e se trespassam, e caem todos juntos. Segue-se uma batalha dura, e Abner é vencido. Asael, irmão de Joab, veloz como uma gazela, persegue Abner sem se desviar. Abner lhe pede duas vezes que o deixe: como olharia depois para Joab? Asael insiste, e Abner o fere com o conto da lança, e ele morre. Ao pôr do sol, Abner grita a Joab: “Não se saciará de sangue a tua espada? Ignoras porventura que, no fim, vem o desespero?” Até quando não mandarás o povo parar de perseguir os seus irmãos? Joab toca a trombeta e a perseguição cessa. Asael é sepultado em Belém.",
+    "alegorico": "A guerra entre a casa de Saul e a casa de Davi é imagem da divisão que o pecado introduz no povo de Deus, que só o verdadeiro Filho de Davi pode reunir. A pergunta de Abner, “não se saciará a tua espada?”, ressoa na palavra de Jesus a Pedro: “mete a tua espada na bainha” (Mt 26,52).",
+    "moral": "Davi começa o reinado com dois gestos certos: consulta a Deus e agradece aos que foram leais a Saul. Mas a guerra civil revela como a violência entre irmãos se alimenta de si mesma: um “jogo” de jovens degenera em batalha, e a morte de Asael alimentará a vingança de Joab. A pergunta de Abner vale para todos os conflitos: onde isto vai terminar?",
+    "anagogico": "“No fim vem o desespero”: toda guerra entre irmãos acaba em amargura. Só o reino de Cristo põe fim às divisões e reúne os dispersos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Davide consultou o Senhor.” “Ungiram ali Davide, para reinar sobre a casa de Judá.” “Bem-ditos sejais do Senhor, vós que praticastes esta misericórdia.” “Asael era muito ligeiro na carreira.” “Não se saciará de sangue a tua espada?” “Ignoras porventura que, no fim, vem o desespero?”",
+    "meditatio_perguntas": [
+      "Em que conflitos estou persistindo sem pensar no fim?",
+      "Reconheço e agradeço a lealdade dos outros, mesmo a outros senhores?",
+      "Sei parar a “perseguição” contra os meus irmãos?"
+    ],
+    "oratio_guia": "Senhor, põe fim às guerras entre irmãos, a começar pelas do meu coração. Ensina-me a consultar-te, a agradecer a lealdade dos outros e a parar antes que a espada se torne amargura. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não se saciará de sangue a tua espada?",
+      "ref": "2Sm 2,26"
+    }
+  },
+  "ancoras": {
+    "2:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Isboset (“homem da vergonha”) é forma alterada de Isbaal (“homem de Baal”, cf. 1Cr 8,33): os escribas trocaram “Baal” por “vergonha”.",
+        "origem": "ia"
+      }
+    },
+    "2:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O tanque de Gabaon foi identificado em escavações em el-Jib: uma grande cisterna escavada na rocha, com escada em espiral.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
