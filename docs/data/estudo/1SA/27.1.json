@@ -1,0 +1,57 @@
+{
+  "id": "1SA.27.1",
+  "livro": "1SA",
+  "titulo": "Davi entre os filisteus",
+  "secao": "Davi e Saul",
+  "referencia": "1Sm 27,1-12",
+  "ini": {
+    "c": 27,
+    "v": 1
+  },
+  "fim": {
+    "c": 27,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "Por fim cairei nas mãos de Saul: Davi refugiado entre os filisteus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Davi pensa no seu coração: algum dia cairei nas mãos de Saul; o melhor é fugir para a terra dos filisteus, para que Saul desista de me procurar. Vai com os seus seiscentos homens a Aquis, rei de Get, e se estabelece ali com as famílias e as duas mulheres, Aquinoam e Abigail. Saul, sabendo, deixa de procurá-lo. Davi pede uma cidade no campo, e Aquis lhe dá Siceleg, que desde então pertence aos reis de Judá. Davi vive um ano e quatro meses entre os filisteus. Faz incursões contra os gessuritas, os gerzitas e os amalecitas, antigos habitantes da região até o Egito, não deixa ninguém vivo e leva o gado e as roupas. Quando Aquis pergunta onde atacou, Davi responde: contra o sul de Judá, contra os jerameelitas, contra os quenitas. Não deixa sobreviventes para que ninguém conte a verdade. Aquis confia nele: tornou-se odioso ao seu povo; será meu servo para sempre.",
+    "alegorico": "O tempo de Davi entre os filisteus, exilado da herança, foi lido como a condição dos justos no exílio deste mundo, onde devem viver no meio dos estrangeiros sem perder a fidelidade. Davi vive em Siceleg, entre os pagãos, mas combate os inimigos de Israel: é sinal de quem está no mundo sem ser do mundo.",
+    "moral": "O capítulo não esconde a ambiguidade de Davi: cansado da perseguição, toma uma decisão humana, sem consultar a Deus como antes; vive de enganos e de uma violência sem limites para manter o seu segredo. É um tempo sombrio na vida do futuro rei. O desânimo (“por fim cairei”) leva a soluções que comprometem a consciência.",
+    "anagogico": "Mesmo nos tempos de desânimo e de compromisso, Deus não abandona o seu ungido e prepara a saída. A história de Davi mostra que a promessa de Deus é maior que as nossas fraquezas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Davide disse no seu coração: Por fim, algum dia cairei nas mãos de Saul.” “Não será melhor que eu fuja?” “Aquis deu-lhe naquele dia Siceleg.” “Aquis acreditava em Davide.”",
+    "meditatio_perguntas": [
+      "Em que momentos o cansaço me leva a decidir sem consultar a Deus?",
+      "Vivo alguma situação de duplicidade para me proteger?",
+      "Creio que Deus pode tirar-me até dos compromissos em que me meti?"
+    ],
+    "oratio_guia": "Senhor, quando o cansaço e o medo me fizerem pensar que cairei, não me deixes buscar soluções que comprometem a minha consciência. Guarda-me na verdade e conduz-me de volta à tua herança. Amém.",
+    "contemplatio_foco": {
+      "texto": "Por fim, algum dia cairei nas mãos de Saul",
+      "ref": "1Sm 27,1"
+    }
+  },
+  "ancoras": {
+    "27:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Siceleg, no Negueb ocidental; a observação “até ao dia de hoje” supõe a época da monarquia de Judá.",
+        "origem": "ia"
+      }
+    },
+    "27:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O hebraico diz “um ano e quatro meses”; a Vulgata lê “quatro meses”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

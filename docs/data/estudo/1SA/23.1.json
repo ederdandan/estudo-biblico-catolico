@@ -1,0 +1,57 @@
+{
+  "id": "1SA.23.1",
+  "livro": "1SA",
+  "titulo": "Davi em Ceila e no deserto de Zif",
+  "secao": "Davi e Saul",
+  "referencia": "1Sm 23,1-28",
+  "ini": {
+    "c": 23,
+    "v": 1
+  },
+  "fim": {
+    "c": 23,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "Jônatas confortou-o em Deus: Ceila e o deserto de Zif",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os filisteus atacam Ceila e saqueiam as eiras. Davi consulta o Senhor: devo ir? Vai. Os seus homens têm medo: se já tememos aqui, quanto mais contra os filisteus. Davi consulta de novo, e o Senhor confirma. Davi salva Ceila. Abiatar chegara com o éfode. Saul sabe e se alegra: Deus o entregou nas minhas mãos, fechando-o numa cidade com portas. Davi consulta pelo éfode: os de Ceila me entregarão? Entregarão. E parte com seiscentos homens, errando de lugar em lugar. Saul o procura todos os dias, mas Deus não o entrega nas suas mãos. No deserto de Zif, num bosque, Jônatas vai encontrá-lo e “confortou-o muito em Deus”: não temas, a mão de Saul não te alcançará; tu reinarás sobre Israel, e eu serei o segundo depois de ti; até meu pai sabe disto. Os dois renovam a aliança diante do Senhor; é o último encontro deles. Os de Zif denunciam Davi a Saul, que os abençoa e pede que espiem todos os esconderijos. Davi está no deserto de Maon. Saul cerca a montanha; ele de um lado, Davi do outro, apressando-se para fugir. Quando estão quase a prendê-lo, chega um mensageiro: os filisteus invadiram o país. Saul desiste para combatê-los, e o lugar recebe o nome de “Rochedo da Separação”.",
+    "alegorico": "Jônatas que vai ao deserto “confortar Davi em Deus” é imagem do anjo que conforta Cristo no horto e de todos os que fortalecem a fé dos perseguidos. Davi, que consulta o Senhor a cada passo, contrasta com Saul, que já não recebe respostas: é o modelo do filho que nada faz sem o Pai (Jo 5,19).",
+    "moral": "Davi não decide por instinto: consulta a Deus duas vezes, mesmo contra o medo dos seus homens. Salva uma cidade que depois está pronta a entregá-lo: a ingratidão é o preço frequente do bem. E Jônatas mostra a amizade mais alta: não dá apenas apoio humano, mas conforta “em Deus”, renunciando ao próprio trono com alegria.",
+    "anagogico": "“Deus não o entregou nas suas mãos”: a proteção divina acompanha o justo perseguido. No fim, nenhum perseguidor alcança aquele que Deus guarda."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Davide consultou o Senhor.” “Vai, que desbaratarás os Filisteus e salvarás Ceila.” “Saul buscava-o todos os dias, mas Deus não o entregou nas suas mãos.” “Jónatas… confortou-o muito em Deus.” “Não temas… tu reinarás sobre Israel, e eu serei o segundo depois de ti.”",
+    "meditatio_perguntas": [
+      "Consulto a Deus antes das decisões, mesmo contra o medo?",
+      "Faço o bem mesmo sabendo que posso ser traído?",
+      "Sei confortar os outros “em Deus”, e não só com palavras humanas?"
+    ],
+    "oratio_guia": "Senhor, guia cada passo meu e dá-me consultar-te antes de agir. Guarda-me dos que me perseguem e envia-me amigos que me confortem em ti, como Jônatas. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não temas, porque não te há-de encontrar a mão de Saul, meu pai, e tu reinarás sobre Israel",
+      "ref": "1Sm 23,17"
+    }
+  },
+  "ancoras": {
+    "23:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O éfode trazido por Abiatar continha as sortes sagradas (Urim e Tumim) para consultar Deus com respostas de sim ou não.",
+        "origem": "ia"
+      }
+    },
+    "23:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Sela-Hammahleqot”, rochedo da separação ou da fuga. A Vulgata numera até 23,28; o v. 29 hebraico é 24,1 na Vulgata.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

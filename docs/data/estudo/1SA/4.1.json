@@ -1,0 +1,57 @@
+{
+  "id": "1SA.4.1",
+  "livro": "1SA",
+  "titulo": "A arca tomada: Icabod",
+  "secao": "A arca de Deus",
+  "referencia": "1Sm 4,1-22",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Foi levada a glória de Israel: a arca não é amuleto",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Israel sai à guerra contra os filisteus e é derrotado em Afec, com quatro mil mortos. Os anciãos perguntam: por que o Senhor nos feriu hoje? E decidem: tragamos de Silo a arca da aliança, para que venha entre nós e nos salve. Ofni e Fineias a acompanham. Quando a arca chega ao acampamento, Israel solta um grito tão grande que a terra treme. Os filisteus se assustam: Deus veio ao acampamento! Ai de nós! Quem nos livrará desses deuses que feriram o Egito? Mas se encorajam: sede homens. Combatem, e Israel é derrotado: trinta mil mortos; a arca de Deus é tomada; Ofni e Fineias morrem. Um homem de Benjamim corre a Silo com as vestes rasgadas e terra na cabeça. Heli, com noventa e oito anos e cego, está sentado à beira do caminho, “porque o seu coração estava tremendo pela arca de Deus”. Ao ouvir que a arca foi tomada, cai da cadeira para trás, quebra a nuca e morre; julgara Israel quarenta anos. A nora, mulher de Fineias, grávida, entra em trabalho de parto ao saber da notícia; morrendo, dá ao filho o nome de Icabod: “Foi levada a glória de Israel, porque foi tomada a arca de Deus.”",
+    "alegorico": "A arca capturada foi lida pelos Padres como figura de Cristo entregue nas mãos dos pagãos na Paixão; parece vencido, mas, como se verá, é ele quem vence os ídolos. O nome Icabod (“onde está a glória?”) expressa o vazio de um povo sem Deus, que só encontrará a glória definitiva no Verbo que “habitou entre nós, e vimos a sua glória” (Jo 1,14).",
+    "moral": "Israel trata a arca como um amuleto: pensa que a presença de um objeto sagrado obriga Deus a vencer, sem conversão. É a tentação da religiosidade mágica, que usa os sacramentos sem fé nem mudança de vida. Heli, apesar das suas falhas, morre pela arca: o que mais o fere não é a morte dos filhos, mas a perda da presença de Deus.",
+    "anagogico": "Quando parece que a glória foi levada, Deus prepara o seu retorno. A esperança cristã sabe que a presença de Deus, aparentemente perdida, voltará em glória maior."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Por que nos destroçou hoje o Senhor?” “Traze-mos a arca… para que nos salve.” “Deus chegou ao acampamento.” “A arca de Deus foi tomada.” “O seu coração estava tremendo de medo pela arca de Deus.” “Foi levada (para longe) a glória de Israel.”",
+    "meditatio_perguntas": [
+      "Uso as coisas santas como amuletos, sem conversão?",
+      "O que mais me dói: as perdas humanas ou a perda da presença de Deus?",
+      "Em que momentos me pergunto “onde está a glória”?"
+    ],
+    "oratio_guia": "Senhor, livra-me de uma fé mágica que te quer usar. Que o meu coração trema pela tua presença, mais do que por qualquer outra coisa, e devolve a glória ao teu povo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Foi levada (para longe) a glória de Israel, porque foi tomada a arca de Deus",
+      "ref": "1Sm 4,22"
+    }
+  },
+  "ancoras": {
+    "4:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Afec, perto da costa, e a Pedra do Socorro (Ebenezer), que receberá este nome só depois (7,12): o narrador antecipa.",
+        "origem": "ia"
+      }
+    },
+    "4:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Icabod: “onde está a glória?” ou “sem glória”. Kabod (glória, peso) designa a presença manifesta de Deus.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

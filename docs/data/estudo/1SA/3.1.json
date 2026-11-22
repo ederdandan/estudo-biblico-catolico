@@ -1,0 +1,57 @@
+{
+  "id": "1SA.3.1",
+  "livro": "1SA",
+  "titulo": "Fala, Senhor, que o teu servo escuta",
+  "secao": "Samuel, o profeta",
+  "referencia": "1Sm 3,1-21",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "Fala, Senhor, porque o teu servo escuta: a vocação de Samuel",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“A palavra do Senhor era rara naqueles dias, e a visão não era frequente.” Heli, quase cego, dorme no seu quarto; a lâmpada de Deus ainda não se apagou, e Samuel dorme no templo, onde está a arca. O Senhor chama: Samuel! Ele responde “Eis-me aqui” e corre a Heli: tu me chamaste. Não te chamei; volta e dorme. Acontece de novo. “Samuel ainda não conhecia o Senhor”, porque a palavra ainda não lhe fora revelada. À terceira vez, Heli compreende que é o Senhor e ensina o menino: se te chamar outra vez, dirás: “Fala, Senhor, porque o teu servo escuta.” O Senhor vem, para e chama como antes: “Samuel, Samuel.” E o menino responde: “Fala, Senhor, porque o teu servo escuta.” A primeira palavra é terrível: farei em Israel uma coisa que fará retinir os ouvidos; cumprirei contra Heli tudo o que disse, porque sabia que os filhos se tornavam malditos e não os corrigiu. Samuel dorme até de manhã e abre as portas da casa do Senhor; tem medo de contar a visão. Heli o chama: “Samuel, meu filho”, não me escondas nada. Samuel conta tudo. Heli responde: “Ele é o Senhor; faça o que for agradável aos seus olhos.” Samuel cresce, o Senhor está com ele e não deixa cair por terra nenhuma das suas palavras. Todo Israel, de Dan a Bersabeia, reconhece que Samuel é profeta do Senhor.",
+    "alegorico": "A lâmpada que ainda não se apagou é a esperança que Deus mantém acesa mesmo nos tempos de silêncio. O menino que escuta a Palavra no templo antecipa Jesus no Templo, ocupado nas coisas do Pai (Lc 2,49). A resposta de Samuel se torna, na tradição cristã, a fórmula da disponibilidade de toda vocação.",
+    "moral": "Deus chama pelo nome e insiste; muitas vezes não reconhecemos a sua voz e precisamos de quem nos ajude a discernir. Heli, falho como pai, é bom mestre espiritual: ensina a escutar. E aceita humildemente a palavra contra si. A vocação exige coragem: a primeira missão de Samuel é dizer a verdade a quem o formou.",
+    "anagogico": "Nenhuma palavra de Deus “cai no chão”: tudo o que ele diz se cumprirá. O chamado pessoal que ouvimos aqui encontrará o seu termo quando o próprio Senhor nos chamar pelo nome para a vida eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A palavra do Senhor era rara naqueles dias.” “Antes que fosse apagada a lâmpada de Deus.” “Eis-me aqui.” “Samuel ainda não conhecia o Senhor.” “Fala, Senhor, porque o teu servo escuta.” “Ele é o Senhor; faça o que for agradável aos seus olhos.” “Nenhuma das suas palavras caiu no chão.”",
+    "meditatio_perguntas": [
+      "Reconheço a voz de Deus que me chama, ou corro para outros lugares?",
+      "Quem me ajuda a discernir a voz do Senhor? A quem eu ajudo?",
+      "Tenho coragem de transmitir a verdade, mesmo quando custa?"
+    ],
+    "oratio_guia": "Fala, Senhor, porque o teu servo escuta. Mantém acesa em mim a tua lâmpada, ensina-me a reconhecer a tua voz e dá-me coragem para não deixar cair nenhuma das tuas palavras. Amém.",
+    "contemplatio_foco": {
+      "texto": "Fala, Senhor, porque o teu servo escuta",
+      "ref": "1Sm 3,10"
+    }
+  },
+  "ancoras": {
+    "3:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A lâmpada do santuário ardia durante a noite, até a madrugada (Ex 27,20-21): a cena se passa pouco antes do amanhecer.",
+        "origem": "ia"
+      }
+    },
+    "3:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“De Dan a Bersabeia”: do extremo norte ao extremo sul do país.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

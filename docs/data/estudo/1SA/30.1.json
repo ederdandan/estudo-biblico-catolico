@@ -1,0 +1,57 @@
+{
+  "id": "1SA.30.1",
+  "livro": "1SA",
+  "titulo": "Siceleg incendiada e a partilha do despojo",
+  "secao": "Davi e Saul",
+  "referencia": "1Sm 30,1-31",
+  "ini": {
+    "c": 30,
+    "v": 1
+  },
+  "fim": {
+    "c": 30,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Davi confortou-se no Senhor seu Deus: Siceleg e a partilha justa",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ao terceiro dia, Davi e os seus chegam a Siceleg e a encontram incendiada: os amalecitas a saquearam e levaram cativas as mulheres e as crianças, sem matar ninguém. Davi e os seus homens levantam a voz e choram até não terem mais forças para chorar. Também as duas mulheres de Davi foram levadas. O povo, amargurado, fala em apedrejar Davi. “Mas Davi confortou-se no Senhor seu Deus.” Pede a Abiatar o éfode e consulta o Senhor: devo perseguir? Persegue, alcançarás e libertarás. Parte com seiscentos homens; na torrente de Besor, duzentos, exaustos, ficam para trás. Encontram no campo um egípcio abandonado, doente, sem comer há três dias; dão-lhe pão, água, figos e uvas passas, e ele revive: é escravo de um amalecita, que o largou quando adoeceu. Guia-os ao acampamento inimigo, onde os amalecitas comem, bebem e dançam com o despojo. Davi os ataca da tarde até a tarde seguinte; escapam só quatrocentos jovens em camelos. Davi recupera tudo, nada falta, nem pequeno nem grande. Na volta, os homens maus querem excluir da partilha os duzentos que ficaram. Davi se opõe: não fareis assim com o que o Senhor nos deu; “tanto o que pelejou, como o que ficou guardando a bagagem, terão igual parte”. Isto se torna lei em Israel. Davi ainda envia presentes do despojo aos anciãos de Judá e às cidades onde andara.",
+    "alegorico": "A partilha igual entre os que combateram e os que ficaram com a bagagem foi aplicada pelos Padres à Igreja: os que rezam e os que agem, os fortes e os fracos, todos participam da vitória de Cristo. O egípcio abandonado, recolhido e alimentado, que se torna guia, é imagem dos pobres e dos pagãos acolhidos, por meio dos quais Deus mostra o caminho.",
+    "moral": "No momento mais baixo, quando até os seus querem apedrejá-lo, Davi não se desespera: “confortou-se no Senhor seu Deus”, e volta a consultá-lo antes de agir. A caridade com o escravo doente abre o caminho da vitória. E a sua decisão sobre o despojo revela um líder justo: o valor de cada um não se mede pela força.",
+    "anagogico": "A herança do Reino não será repartida pelos méritos de força, mas pela generosidade do Rei: os últimos e os cansados receberão a mesma recompensa (Mt 20,1-16)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Choraram até se lhes esgotarem as lágrimas.” “Davide confortou-se no Senhor seu Deus.” “Perseguirei eu estes ladrões?” “Deram-lhe pão a comer, água a beber.” “Não faltou coisa alguma.” “Tanto o que pelejou, como o que ficou guardando a bagagem, terão igual parte.”",
+    "meditatio_perguntas": [
+      "Nos momentos mais duros, sei confortar-me no Senhor?",
+      "Cuido do abandonado que encontro no caminho?",
+      "Divido com justiça e generosidade o que Deus me dá?"
+    ],
+    "oratio_guia": "Senhor, quando tudo parece perdido e até os meus se voltam contra mim, quero confortar-me em ti. Faz-me atento aos abandonados e generoso com os que ficaram para trás. Amém.",
+    "contemplatio_foco": {
+      "texto": "Davide confortou-se no Senhor seu Deus",
+      "ref": "1Sm 30,6"
+    }
+  },
+  "ancoras": {
+    "30:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A torrente de Besor (Wadi Ghazzeh) corre a sul de Gaza.",
+        "origem": "ia"
+      }
+    },
+    "30:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A partilha igual entre combatentes e guardas já aparece em Nm 31,27; aqui torna-se “estatuto e direito” em Israel.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

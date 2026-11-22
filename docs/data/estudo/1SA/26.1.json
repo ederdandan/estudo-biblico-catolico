@@ -1,0 +1,57 @@
+{
+  "id": "1SA.26.1",
+  "livro": "1SA",
+  "titulo": "Davi poupa Saul pela segunda vez",
+  "secao": "Davi e Saul",
+  "referencia": "1Sm 26,1-25",
+  "ini": {
+    "c": 26,
+    "v": 1
+  },
+  "fim": {
+    "c": 26,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "Assim como a tua vida foi preciosa aos meus olhos: a lança e a bilha",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os zifeus denunciam de novo Davi a Saul, que desce ao deserto de Zif com três mil homens. Davi sabe pelos espias e se aproxima à noite do acampamento: Saul dorme no meio das carroças, com Abner, chefe do exército, e o povo ao redor. Davi pergunta: quem descerá comigo? Abisai, irmão de Joab, responde: eu. Encontram Saul dormindo, com a lança cravada no chão à cabeceira. Abisai sussurra: Deus entregou hoje o teu inimigo; deixa-me pregá-lo à terra com um só golpe. Davi responde: “Não o mates! Quem estenderá a sua mão contra o ungido do Senhor, e ficará impune?” O Senhor o ferirá, ou chegará o seu dia, ou morrerá na batalha; mas não eu. Toma a lança e a bilha de água que estão à cabeceira, e vão. Ninguém vê, ninguém acorda, porque “um sono profundo do Senhor” caíra sobre eles. Do alto de um monte, Davi grita a Abner: não és um homem valente? por que não guardaste o teu senhor? Procura a lança e a bilha. Saul reconhece a voz: “Não é esta a tua voz, meu filho Davi?” Davi pergunta: por que persegue o meu senhor o seu servo? que fiz eu? Se é o Senhor que te incita contra mim, que aceite uma oferta; se são homens, sejam malditos, porque me expulsam da herança do Senhor dizendo: vai servir a outros deuses. Saul confessa: “Pequei; volta, meu filho”; procedi como insensato. Davi devolve a lança e diz: “Assim como a tua vida foi hoje preciosa aos meus olhos, assim a minha seja preciosa aos olhos do Senhor.” Saul o abençoa, e cada um segue o seu caminho.",
+    "alegorico": "A repetição do episódio de Engadi sublinha que a misericórdia de Davi não foi um impulso, mas uma decisão firme, como a do Senhor que perdoa “setenta vezes sete”. A bilha de água e a lança, a vida e a morte de Saul nas mãos de Davi, mostram o Ungido que tem poder sobre a vida e a usa para poupar: imagem de Cristo, que tem as chaves da morte e dá a vida.",
+    "moral": "A tentação volta, e com um argumento religioso: “Deus te entregou o inimigo”. Davi resiste de novo. A sua frase final é um princípio de vida: tratar a vida do outro como preciosa e confiar a nossa ao cuidado de Deus. A dor de Davi também é real: ser expulso da “herança do Senhor”, viver longe do seu povo e do culto, é para ele o pior exílio.",
+    "anagogico": "“A minha vida seja preciosa aos olhos do Senhor, e ele me livre de toda a tribulação”: a esperança do justo é que Deus, que vê como ele tratou os outros, o tratará com a mesma misericórdia (Mt 5,7)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Deus entregou-te hoje nas mãos o teu inimigo.” “Não o mates!” “Quem estenderá a sua mão, contra o ungido do Senhor, e ficará impune?” “Não é esta a tua voz, meu filho Davide?” “Pequei; volta, meu filho.” “Assim como a tua vida foi hoje preciosa aos meus olhos, assim a minha seja preciosa aos olhos do Senhor.”",
+    "meditatio_perguntas": [
+      "A vida dos que me fazem mal é preciosa aos meus olhos?",
+      "Resisto às tentações que vêm “com argumentos religiosos”?",
+      "Confio a minha vida ao cuidado de Deus?"
+    ],
+    "oratio_guia": "Senhor, que a vida de todos, até dos que me ferem, seja preciosa aos meus olhos. E que a minha vida seja preciosa aos teus, e tu me livres de toda tribulação. Amém.",
+    "contemplatio_foco": {
+      "texto": "Assim como a tua vida foi hoje preciosa aos meus olhos, assim a minha seja preciosa aos olhos do Senhor",
+      "ref": "1Sm 26,24"
+    }
+  },
+  "ancoras": {
+    "26:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Abisai e Joab, filhos de Sárvia, irmã de Davi, serão os seus generais impetuosos e muitas vezes violentos.",
+        "origem": "ia"
+      }
+    },
+    "26:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ser expulso de Israel era como ser forçado a servir outros deuses, pois o culto estava ligado à terra.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

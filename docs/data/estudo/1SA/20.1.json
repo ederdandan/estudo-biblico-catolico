@@ -1,0 +1,57 @@
+{
+  "id": "1SA.20.1",
+  "livro": "1SA",
+  "titulo": "A aliança de Davi e Jônatas",
+  "secao": "Davi e Saul",
+  "referencia": "1Sm 20,1-43",
+  "ini": {
+    "c": 20,
+    "v": 1
+  },
+  "fim": {
+    "c": 20,
+    "v": 43
+  },
+  "liturgia": {
+    "tema_central": "O Senhor seja testemunha entre mim e ti: a aliança de Jônatas e Davi",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Davi foge de Naiot e vai a Jônatas: que fiz eu? qual é o meu crime contra teu pai, que procura a minha vida? Jônatas não acredita: meu pai não faz nada sem me dizer. Davi responde: teu pai sabe que gozo do teu favor e te esconde; há apenas um passo entre mim e a morte. Jônatas: “Eu farei por ti tudo o que a tua alma me disser.” Combinam um plano: amanhã é lua nova, e Davi deveria sentar-se à mesa do rei; ficará escondido no campo; se Saul perguntar, Jônatas dirá que Davi foi a Belém para um sacrifício de família; se Saul se irar, ficará claro que decidiu matá-lo. No campo, Jônatas jura diante do Senhor e pede: se eu viver, usa comigo a misericórdia do Senhor; se eu morrer, nunca retires a tua bondade da minha casa. “Jônatas fez a Davi este novo juramento, pelo amor que lhe tinha, porque o amava como a sua própria alma.” O sinal serão três flechas: se disser ao rapaz que as flechas estão aquém, Davi pode voltar; se disser que estão além, deve fugir. Na festa, o lugar de Davi fica vazio dois dias. Saul pergunta. Jônatas dá a desculpa. Saul explode: filho de mulher perversa, enquanto o filho de Isaí viver, não terás reino; manda buscá-lo, porque é digno de morte. Por que há de morrer? que fez? Saul lança a lança contra o próprio filho. Jônatas se levanta furioso e não come. De manhã vai ao campo, atira a flecha e grita ao rapaz: a flecha está mais para lá de ti; depressa, não pares. Despede o rapaz. Davi sai do esconderijo, prostra-se três vezes, beijam-se e choram juntos, Davi mais. Jônatas diz: “Vai em paz”; o Senhor seja testemunha entre mim e ti, entre a minha descendência e a tua, para sempre.",
+    "alegorico": "A aliança de Jônatas e Davi, selada em nome do Senhor e estendida às descendências, é figura da aliança de amizade entre Cristo e os seus. Jônatas, filho do rei que reconhece em Davi o rei futuro e lhe pede misericórdia para a sua casa, anuncia os que, sem pertencer à linhagem, recebem a misericórdia do Filho de Davi (cumprida em Mefibaal, 2Sm 9).",
+    "moral": "A amizade de Jônatas é desinteressada: escolhe a verdade e o amigo contra o próprio interesse de herdeiro, e paga com a fúria do pai. É uma amizade com Deus no meio (“o Senhor seja testemunha”), que pede e promete fidelidade para além da morte. Também ensina que, às vezes, a amizade verdadeira passa pela separação: “vai em paz”.",
+    "anagogico": "“Para sempre”: as amizades vividas em Deus não terminam com a morte. A comunhão dos santos é a eternidade de todos os laços de amor verdadeiro."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Que fiz eu? Que iniquidade é a minha?” “Entre mim e a morte não há senão um passo.” “Eu farei por ti tudo o que a tua alma me disser.” “Não deixarás nunca de usar de compaixão com a minha casa.” “Porque o amava como a sua própria alma.” “Choraram ambos, mas Davide mais.” “Vai em paz.”",
+    "meditatio_perguntas": [
+      "Tenho amigos com quem Deus é “testemunha”?",
+      "Sou fiel ao amigo mesmo quando isso me custa?",
+      "Sei deixar partir em paz, quando a amizade exige separação?"
+    ],
+    "oratio_guia": "Senhor, sê testemunha de todas as minhas amizades. Faz-me fiel como Jônatas, capaz de amar o outro como a minha própria alma, e une-nos em ti para sempre. Amém.",
+    "contemplatio_foco": {
+      "texto": "Jónatas fez a Davide este novo juramento, pelo amor que lhe tinha, porque o amava como a sua própria alma",
+      "ref": "1Sm 20,17"
+    }
+  },
+  "ancoras": {
+    "20:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A lua nova (neomênia) era festa religiosa com refeição sagrada (Nm 10,10; 28,11-15); a ausência sem justificativa era notada.",
+        "origem": "ia"
+      }
+    },
+    "20:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Quem estava em estado de impureza ritual não podia participar da refeição sagrada; Saul pensa nisto no primeiro dia.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

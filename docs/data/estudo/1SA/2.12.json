@@ -1,0 +1,57 @@
+{
+  "id": "1SA.2.12",
+  "livro": "1SA",
+  "titulo": "Os filhos de Heli e o menino Samuel",
+  "secao": "Samuel, o profeta",
+  "referencia": "1Sm 2,12-36",
+  "ini": {
+    "c": 2,
+    "v": 12
+  },
+  "fim": {
+    "c": 2,
+    "v": 36
+  },
+  "liturgia": {
+    "tema_central": "O menino crescia diante do Senhor, enquanto os filhos de Heli desprezavam o sacrifício",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os filhos de Heli “eram filhos de Belial, não conheciam o Senhor”. Quando alguém oferecia sacrifício, o servo do sacerdote vinha com um garfo de três dentes e tirava da panela o que quisesse; e, antes mesmo de queimar a gordura reservada a Deus, exigia carne crua, à força. “Era pois muito grande o pecado destes jovens diante do Senhor, porque retraíam os homens do sacrifício do Senhor.” Em contraste, o menino Samuel servia diante do Senhor, vestido de um éfode de linho; a mãe lhe fazia cada ano uma pequena túnica. Heli abençoa Elcana e Ana, e o Senhor dá a Ana mais três filhos e duas filhas. Heli, muito velho, sabe que os filhos dormem com as mulheres que serviam à entrada da tenda; repreende-os brandamente: por que fazeis isto? não é boa a fama que ouço; se um homem pecar contra o Senhor, quem intercederá por ele? Mas eles não escutam. Um homem de Deus vem a Heli com uma palavra dura: eu escolhi a casa de teu pai para o sacerdócio; por que desprezais os meus sacrifícios e honras os teus filhos mais do que a mim? “Eu honrarei os que me honram; os que me desprezam serão desprezados.” Os dois filhos morrerão no mesmo dia, e Deus suscitará “um sacerdote fiel, que procederá segundo o meu coração”.",
+    "alegorico": "O contraste entre os sacerdotes indignos e o menino que cresce diante do Senhor anuncia a substituição de um sacerdócio corrompido pelo “sacerdote fiel” (2,35), cumprido em parte em Sadoc e plenamente em Cristo, Sumo Sacerdote fiel e misericordioso (Hb 2,17). A frase “o menino crescia e era agradável a Deus e aos homens” será retomada por Lucas sobre Jesus (Lc 2,52).",
+    "moral": "O pecado dos filhos de Heli é grave porque afasta o povo do culto: o escândalo dos ministros faz os fiéis desprezarem as coisas santas. Heli peca por omissão: repreende sem corrigir, honra os filhos mais do que a Deus. A autoridade que não corrige torna-se cúmplice. E, no meio da corrupção, Deus faz crescer em silêncio um menino fiel.",
+    "anagogico": "“Eu honrarei os que me honram”: princípio que vale para a eternidade. A glória definitiva será dada aos que, mesmo pequenos, serviram a Deus com fidelidade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Os filhos de Heli eram filhos de Belial, não conheciam o Senhor.” “Retraíam os homens do sacrifício do Senhor.” “O menino Samuel servia diante do Senhor.” “Se um homem pecar contra o Senhor quem intercederá por ele?” “Suscitarei para mim um sacerdote fiel.” “O menino Samuel crescia, e era agradável tanto ao Senhor como aos homens.”",
+    "meditatio_perguntas": [
+      "O meu modo de viver aproxima ou afasta os outros de Deus?",
+      "Sou omisso em corrigir quem está sob a minha responsabilidade?",
+      "Honro a Deus acima dos meus afetos?"
+    ],
+    "oratio_guia": "Senhor, dá à tua Igreja sacerdotes fiéis segundo o teu coração. Livra-me de ser motivo de escândalo e de omissão, e faz-me crescer diante de ti como o menino Samuel. Amém.",
+    "contemplatio_foco": {
+      "texto": "o menino Samuel crescia, e era agradável tanto ao Senhor como aos homens",
+      "ref": "1Sm 2,26"
+    }
+  },
+  "ancoras": {
+    "2:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Segundo a lei, a gordura devia ser queimada primeiro para Deus (Lv 3,16); só depois o sacerdote recebia a sua parte (Lv 7,31-34).",
+        "origem": "ia"
+      }
+    },
+    "2:35": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “sacerdote fiel” foi identificado com Sadoc, que substituirá Abiatar, descendente de Heli, no tempo de Salomão (1Rs 2,27.35).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

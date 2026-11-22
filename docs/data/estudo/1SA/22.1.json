@@ -1,0 +1,57 @@
+{
+  "id": "1SA.22.1",
+  "livro": "1SA",
+  "titulo": "A gruta de Odolam e o massacre dos sacerdotes de Nobe",
+  "secao": "Davi e Saul",
+  "referencia": "1Sm 22,1-23",
+  "ini": {
+    "c": 22,
+    "v": 1
+  },
+  "fim": {
+    "c": 22,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Os que estavam em aperto juntaram-se a ele: Odolam e o massacre de Nobe",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Davi foge para a gruta de Odolam; os irmãos e a casa do pai descem até ele. Juntam-se também “todos os que se viam em aperto e se encontravam oprimidos de dívidas e de desgostos”, uns quatrocentos homens, e Davi se torna o seu chefe. Leva os pais para Moab e os confia ao rei. O profeta Gad o aconselha a voltar para Judá. Saul, em Gabaa, sob uma tamargueira, de lança na mão, queixa-se aos servos benjaminitas: o filho de Isaí vos dará campos e vinhas? Conspirastes todos contra mim; ninguém me avisa de que meu filho fez aliança com ele. Doeg, o idumeu, fala: vi o filho de Isaí em Nobe; Aquimelec consultou o Senhor por ele e lhe deu pão e a espada de Golias. Saul manda chamar Aquimelec e todos os sacerdotes. Aquimelec responde com franqueza: quem entre os teus servos é tão fiel como Davi, genro do rei? Não sabia de nada. Saul decreta: morrerás, tu e toda a casa de teu pai. Manda os guardas matarem os sacerdotes do Senhor, mas eles “não quiseram estender as suas mãos contra os sacerdotes do Senhor”. Doeg o faz: mata oitenta e cinco homens que vestiam o éfode de linho, e passa a fio de espada Nobe, a cidade sacerdotal, homens e mulheres, crianças e bebês, bois e ovelhas. Só escapa Abiatar, filho de Aquimelec, que foge para Davi. Davi reconhece: eu sabia que Doeg contaria a Saul; sou culpado pela morte da casa de teu pai. “Fica comigo, não temas; se alguém buscar a minha vida, buscará também a tua; comigo estarás bem guardado.”",
+    "alegorico": "Davi na gruta, rodeado dos oprimidos, endividados e amargurados, é uma imagem tocante de Cristo, que acolhe os pobres, os pecadores e os cansados (Mt 11,28) e faz deles o seu povo. O massacre dos sacerdotes inocentes de Nobe antecipa a matança dos inocentes de Belém pelo rei que temia o novo Rei de Davi.",
+    "moral": "A paranoia de Saul o faz ver conspirações em toda parte e destruir inocentes; o delator Doeg serve o poder sem escrúpulo. Os guardas que se recusam a obedecer a uma ordem injusta mostram que há uma obediência maior que a devida ao rei. E Davi assume humildemente a sua parte de culpa: a sua mentira em Nobe custou vidas.",
+    "anagogico": "“Comigo estarás bem guardado”: palavra de Davi que se cumpre plenamente em Cristo, em quem todos os perseguidos encontram refúgio eterno."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Davide partiu dali e fugiu para a cova de Odolão.” “Todos os que se viam em aperto… juntaram-se a ele.” “Os criados do rei não quiseram estender as suas mãos contra os sacerdotes do Senhor.” “Eu sou culpado da morte de todas as pessoas da casa de teu pai.” “Fica comigo, não temas… comigo estarás bem guardado.”",
+    "meditatio_perguntas": [
+      "Acolho os “oprimidos e amargurados” como Davi na gruta?",
+      "Sei recusar uma ordem injusta, mesmo vinda de uma autoridade?",
+      "Assumo a minha parte de culpa no mal que os outros sofrem?"
+    ],
+    "oratio_guia": "Senhor, refúgio dos que estão em aperto, acolhe-me na tua gruta. Dá-me coragem para recusar o mal e humildade para reconhecer a minha culpa. Guarda os perseguidos e os inocentes. Amém.",
+    "contemplatio_foco": {
+      "texto": "comigo estarás bem guardado",
+      "ref": "1Sm 22,23"
+    }
+  },
+  "ancoras": {
+    "22:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Odolam (Adulam), na Sefelá de Judá. Os títulos dos Salmos 56 e 141 ligam estas orações a Davi “na caverna”.",
+        "origem": "ia"
+      }
+    },
+    "22:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O Salmo 51 (Vulgata) leva no título a menção de Doeg, o idumeu.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

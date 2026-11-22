@@ -1,0 +1,57 @@
+{
+  "id": "1SA.24.1",
+  "livro": "1SA",
+  "titulo": "Não estenderei a mão contra o ungido do Senhor: Engadi",
+  "secao": "Davi e Saul",
+  "referencia": "1Sm 24,1-23",
+  "ini": {
+    "c": 24,
+    "v": 1
+  },
+  "fim": {
+    "c": 24,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Não estenderei a mão contra o ungido do Senhor: Davi poupa Saul em Engadi",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Davi se refugia nos lugares seguros de Engadi. Saul, ao voltar da luta contra os filisteus, toma três mil homens escolhidos e vai procurá-lo pelos “rochedos das cabras-monteses”. Junto a uns currais há uma caverna, e Saul entra para fazer as suas necessidades; Davi e os seus homens estão escondidos no fundo da mesma caverna. Os homens sussurram: é o dia de que o Senhor te disse: eu te entregarei o teu inimigo. Davi se aproxima em silêncio e corta a ponta do manto de Saul. Logo depois “o coração de Davi bateu-lhe” por ter feito isso, e diz aos seus: Deus me guarde de estender a mão contra o meu senhor, o ungido do Senhor. Contém os homens. Saul sai, e Davi sai atrás e grita: ó rei, meu senhor! Prostra-se e fala: por que dás ouvidos aos que dizem que Davi procura o teu mal? Hoje o Senhor te entregou nas minhas mãos, e eu não quis matar-te, porque és o ungido do Senhor. “Vê, meu pai”, a ponta do teu manto na minha mão. O Senhor julgue entre mim e ti; o Senhor me vingue, mas a minha mão não será contra ti. A quem persegues, rei de Israel? A um cão morto, a uma pulga? Saul responde: “Porventura é esta a tua voz, ó meu filho Davi?” e chora em alta voz. “Tu és mais justo do que eu, porque tu tens-me feito bem, e eu tenho-te retribuído com mal.” Reconhece que Davi reinará e lhe pede que não extermine a sua descendência. Davi jura, e cada um segue o seu caminho.",
+    "alegorico": "Davi, que poupa o perseguidor e lhe devolve o bem pelo mal, é figura de Cristo, que reza pelos que o crucificam. O respeito pelo “ungido do Senhor”, mesmo indigno, ensina que a autoridade vem de Deus. Os Padres usaram este texto para falar do respeito devido aos pastores, mesmo pecadores.",
+    "moral": "A ocasião parece providencial: “é o dia que o Senhor te disse”. Mas Davi discerne que a oportunidade de fazer o mal não é vontade de Deus. Até o pequeno gesto de cortar o manto lhe pesa na consciência: uma consciência delicada. Ele não se vinga; entrega a Deus o juízo. E a sua mansidão consegue o que a força não conseguiria: comover o coração do inimigo, ao menos por um momento.",
+    "anagogico": "“O Senhor seja juiz”: Davi entrega a causa a Deus, certo de que haverá um juízo justo. A vingança pertence ao Senhor (Rm 12,19), e o bem feito ao inimigo será recompensado."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eis o dia, do qual o Senhor te disse: Eu te entregarei o teu inimigo.” “O coração de Davide bateu-lhe.” “Deus me guarde de que eu faça uma tal coisa ao meu senhor, ao ungido do Senhor.” “O Senhor julgue entre mim e ti.” “Porventura é esta a tua voz, ó meu filho Davide?” “Tu és mais justo do que eu.”",
+    "meditatio_perguntas": [
+      "Confundo oportunidades de vingança com “sinais de Deus”?",
+      "A minha consciência é sensível até aos pequenos gestos contra os outros?",
+      "Entrego a Deus o juízo sobre os que me fazem mal?"
+    ],
+    "oratio_guia": "Senhor, dá-me um coração que não se vinga e uma consciência delicada. Ensina-me a pagar o mal com o bem e a deixar em tuas mãos o juízo sobre os que me ferem. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não estenderei a mão contra o meu senhor, porque é o ungido do Senhor",
+      "ref": "1Sm 24,11"
+    }
+  },
+  "ancoras": {
+    "24:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Engadi, oásis na margem ocidental do Mar Morto, com muitas cavernas. Na numeração hebraica este capítulo é 24,1-23 (Vulgata 24,1 = hebraico 24,1 a partir de 23,29).",
+        "origem": "ia"
+      }
+    },
+    "24:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Cão morto” e “pulga”: expressões de extrema humildade, usadas para mostrar que Davi não é ameaça.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "1SA.10.17",
+  "livro": "1SA",
+  "titulo": "Saul aclamado rei em Masfa",
+  "secao": "A instituição da realeza",
+  "referencia": "1Sm 10,17-27",
+  "ini": {
+    "c": 10,
+    "v": 17
+  },
+  "fim": {
+    "c": 10,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "Vede o que o Senhor escolheu: Saul escondido entre as bagagens",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Samuel convoca o povo diante do Senhor em Masfa e lhes lembra: assim diz o Senhor, eu tirei Israel do Egito e vos livrei de todos os que vos oprimiam; mas vós rejeitastes hoje o vosso Deus, que vos salvou, e dissestes: põe um rei sobre nós. Agora, apresentai-vos por tribos e por famílias. A sorte cai sobre Benjamim, depois sobre a família de Metri, depois sobre Saul, filho de Cis. Procuram-no, e não o encontram. Consultam o Senhor: ele está escondido entre as bagagens. Correm a buscá-lo, e ele se põe no meio do povo, mais alto do que todos do ombro para cima. Samuel diz: “Vós bem vedes quem é aquele que o Senhor escolheu”; não há ninguém semelhante a ele em todo o povo. E o povo grita: “Viva o rei!” Samuel expõe o direito do reino, escreve-o num livro e o deposita diante do Senhor. Saul volta para Gabaa, acompanhado de homens valentes cujo coração Deus tocara. Mas alguns homens perversos dizem: “Porventura poderá este salvar-nos?” e o desprezam, sem lhe levar presentes. E ele finge não ouvir.",
+    "alegorico": "O rei escolhido escondido entre as bagagens foi visto como imagem da humildade que deve acompanhar toda autoridade, plenamente realizada em Cristo, que se esconde na humildade da carne e é desprezado pelos seus: “poderá este salvar-nos?”",
+    "moral": "Saul começa bem: esconde-se, não busca o poder, e não reage às críticas. São virtudes de um bom governante. Também é importante o livro da lei do reino, depositado diante do Senhor: o rei não está acima da lei de Deus. Mas o esconder-se também pode ser medo de assumir a missão; a humildade verdadeira obedece mesmo quando prefere esconder-se.",
+    "anagogico": "“Viva o rei!” é o grito que só será plenamente verdadeiro diante do Rei dos reis. Todas as aclamações humanas são sombras da aclamação eterna do Cordeiro."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vós rejeitastes hoje o vosso Deus, que vos salvou.” “Está escondido em casa.” “Vós bem vêdes quem é aquele que o Senhor escolheu.” “Viva o rei!” “Porventura poderá este salvar-nos?” “Ele, porém, dissimulava.”",
+    "meditatio_perguntas": [
+      "Escondo-me “entre as bagagens” quando Deus me chama?",
+      "Reconheço que a autoridade está sob a lei de Deus?",
+      "Como reajo quando me desprezam: com rancor ou com silêncio?"
+    ],
+    "oratio_guia": "Senhor, que escolhes os teus servos, dá-me humildade sem fuga e coragem sem orgulho. Que eu saiba calar diante do desprezo e servir segundo a tua lei. Amém.",
+    "contemplatio_foco": {
+      "texto": "Vós bem vêdes quem é aquele que o Senhor escolheu",
+      "ref": "1Sm 10,24"
+    }
+  },
+  "ancoras": {
+    "10:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “direito do reino” escrito por Samuel limita o poder real; é um dos primeiros testemunhos de uma monarquia sujeita a uma lei escrita.",
+        "origem": "ia"
+      }
+    },
+    "10:27": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O fim do versículo, em alguns manuscritos (e em Qumran), introduz o cerco de Jabes por Naás (cap. 11).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,516 @@
+{
+ "livro": "1SA",
+ "secoes": [
+  "Samuel, o profeta",
+  "A arca de Deus",
+  "A instituição da realeza",
+  "O reinado de Saul",
+  "Davi e Saul"
+ ],
+ "pericopes": [
+  {
+   "id": "1SA.1.1",
+   "titulo": "Ana pede um filho",
+   "secao": "Samuel, o profeta",
+   "referencia": "1Sm 1,1-28",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 28
+   }
+  },
+  {
+   "id": "1SA.2.1",
+   "titulo": "O cântico de Ana",
+   "secao": "Samuel, o profeta",
+   "referencia": "1Sm 2,1-11",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 11
+   }
+  },
+  {
+   "id": "1SA.2.12",
+   "titulo": "Os filhos de Heli e o menino Samuel",
+   "secao": "Samuel, o profeta",
+   "referencia": "1Sm 2,12-36",
+   "ini": {
+    "c": 2,
+    "v": 12
+   },
+   "fim": {
+    "c": 2,
+    "v": 36
+   }
+  },
+  {
+   "id": "1SA.3.1",
+   "titulo": "Fala, Senhor, que o teu servo escuta",
+   "secao": "Samuel, o profeta",
+   "referencia": "1Sm 3,1-21",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 21
+   }
+  },
+  {
+   "id": "1SA.4.1",
+   "titulo": "A arca tomada: Icabod",
+   "secao": "A arca de Deus",
+   "referencia": "1Sm 4,1-22",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 22
+   }
+  },
+  {
+   "id": "1SA.5.1",
+   "titulo": "A arca entre os filisteus: a queda de Dagon",
+   "secao": "A arca de Deus",
+   "referencia": "1Sm 5,1-12",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 12
+   }
+  },
+  {
+   "id": "1SA.6.1",
+   "titulo": "A volta da arca",
+   "secao": "A arca de Deus",
+   "referencia": "1Sm 6,1–7,1",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 1
+   }
+  },
+  {
+   "id": "1SA.7.2",
+   "titulo": "Até aqui nos socorreu o Senhor",
+   "secao": "A arca de Deus",
+   "referencia": "1Sm 7,2-17",
+   "ini": {
+    "c": 7,
+    "v": 2
+   },
+   "fim": {
+    "c": 7,
+    "v": 17
+   }
+  },
+  {
+   "id": "1SA.8.1",
+   "titulo": "Dá-nos um rei",
+   "secao": "A instituição da realeza",
+   "referencia": "1Sm 8,1-22",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 22
+   }
+  },
+  {
+   "id": "1SA.9.1",
+   "titulo": "Saul procura as jumentas e encontra Samuel",
+   "secao": "A instituição da realeza",
+   "referencia": "1Sm 9,1-27",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 27
+   }
+  },
+  {
+   "id": "1SA.10.1",
+   "titulo": "A unção de Saul",
+   "secao": "A instituição da realeza",
+   "referencia": "1Sm 10,1-16",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 16
+   }
+  },
+  {
+   "id": "1SA.10.17",
+   "titulo": "Saul aclamado rei em Masfa",
+   "secao": "A instituição da realeza",
+   "referencia": "1Sm 10,17-27",
+   "ini": {
+    "c": 10,
+    "v": 17
+   },
+   "fim": {
+    "c": 10,
+    "v": 27
+   }
+  },
+  {
+   "id": "1SA.11.1",
+   "titulo": "Saul liberta Jabes de Galaad",
+   "secao": "A instituição da realeza",
+   "referencia": "1Sm 11,1-15",
+   "ini": {
+    "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 15
+   }
+  },
+  {
+   "id": "1SA.12.1",
+   "titulo": "O discurso de despedida de Samuel",
+   "secao": "A instituição da realeza",
+   "referencia": "1Sm 12,1-25",
+   "ini": {
+    "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 25
+   }
+  },
+  {
+   "id": "1SA.13.1",
+   "titulo": "O sacrifício de Saul em Galgala",
+   "secao": "O reinado de Saul",
+   "referencia": "1Sm 13,1-23",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 23
+   }
+  },
+  {
+   "id": "1SA.14.1",
+   "titulo": "A façanha de Jônatas",
+   "secao": "O reinado de Saul",
+   "referencia": "1Sm 14,1-23",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 23
+   }
+  },
+  {
+   "id": "1SA.14.24",
+   "titulo": "O juramento imprudente de Saul",
+   "secao": "O reinado de Saul",
+   "referencia": "1Sm 14,24-52",
+   "ini": {
+    "c": 14,
+    "v": 24
+   },
+   "fim": {
+    "c": 14,
+    "v": 52
+   }
+  },
+  {
+   "id": "1SA.15.1",
+   "titulo": "Obedecer vale mais que sacrificar: Saul rejeitado",
+   "secao": "O reinado de Saul",
+   "referencia": "1Sm 15,1-35",
+   "ini": {
+    "c": 15,
+    "v": 1
+   },
+   "fim": {
+    "c": 15,
+    "v": 35
+   }
+  },
+  {
+   "id": "1SA.16.1",
+   "titulo": "A unção de Davi",
+   "secao": "Davi e Saul",
+   "referencia": "1Sm 16,1-13",
+   "ini": {
+    "c": 16,
+    "v": 1
+   },
+   "fim": {
+    "c": 16,
+    "v": 13
+   }
+  },
+  {
+   "id": "1SA.16.14",
+   "titulo": "Davi toca a harpa para Saul",
+   "secao": "Davi e Saul",
+   "referencia": "1Sm 16,14-23",
+   "ini": {
+    "c": 16,
+    "v": 14
+   },
+   "fim": {
+    "c": 16,
+    "v": 23
+   }
+  },
+  {
+   "id": "1SA.17.1",
+   "titulo": "O desafio de Golias",
+   "secao": "Davi e Saul",
+   "referencia": "1Sm 17,1-30",
+   "ini": {
+    "c": 17,
+    "v": 1
+   },
+   "fim": {
+    "c": 17,
+    "v": 30
+   }
+  },
+  {
+   "id": "1SA.17.31",
+   "titulo": "Em nome do Senhor dos exércitos: Davi vence Golias",
+   "secao": "Davi e Saul",
+   "referencia": "1Sm 17,31-58",
+   "ini": {
+    "c": 17,
+    "v": 31
+   },
+   "fim": {
+    "c": 17,
+    "v": 58
+   }
+  },
+  {
+   "id": "1SA.18.1",
+   "titulo": "A amizade de Jônatas e o ciúme de Saul",
+   "secao": "Davi e Saul",
+   "referencia": "1Sm 18,1-30",
+   "ini": {
+    "c": 18,
+    "v": 1
+   },
+   "fim": {
+    "c": 18,
+    "v": 30
+   }
+  },
+  {
+   "id": "1SA.19.1",
+   "titulo": "Micol salva Davi; Saul entre os profetas",
+   "secao": "Davi e Saul",
+   "referencia": "1Sm 19,1-24",
+   "ini": {
+    "c": 19,
+    "v": 1
+   },
+   "fim": {
+    "c": 19,
+    "v": 24
+   }
+  },
+  {
+   "id": "1SA.20.1",
+   "titulo": "A aliança de Davi e Jônatas",
+   "secao": "Davi e Saul",
+   "referencia": "1Sm 20,1-43",
+   "ini": {
+    "c": 20,
+    "v": 1
+   },
+   "fim": {
+    "c": 20,
+    "v": 43
+   }
+  },
+  {
+   "id": "1SA.21.1",
+   "titulo": "Davi em Nobe e em Get",
+   "secao": "Davi e Saul",
+   "referencia": "1Sm 21,1-15",
+   "ini": {
+    "c": 21,
+    "v": 1
+   },
+   "fim": {
+    "c": 21,
+    "v": 15
+   }
+  },
+  {
+   "id": "1SA.22.1",
+   "titulo": "A gruta de Odolam e o massacre dos sacerdotes de Nobe",
+   "secao": "Davi e Saul",
+   "referencia": "1Sm 22,1-23",
+   "ini": {
+    "c": 22,
+    "v": 1
+   },
+   "fim": {
+    "c": 22,
+    "v": 23
+   }
+  },
+  {
+   "id": "1SA.23.1",
+   "titulo": "Davi em Ceila e no deserto de Zif",
+   "secao": "Davi e Saul",
+   "referencia": "1Sm 23,1-28",
+   "ini": {
+    "c": 23,
+    "v": 1
+   },
+   "fim": {
+    "c": 23,
+    "v": 28
+   }
+  },
+  {
+   "id": "1SA.24.1",
+   "titulo": "Não estenderei a mão contra o ungido do Senhor: Engadi",
+   "secao": "Davi e Saul",
+   "referencia": "1Sm 24,1-23",
+   "ini": {
+    "c": 24,
+    "v": 1
+   },
+   "fim": {
+    "c": 24,
+    "v": 23
+   }
+  },
+  {
+   "id": "1SA.25.1",
+   "titulo": "Nabal e Abigail",
+   "secao": "Davi e Saul",
+   "referencia": "1Sm 25,1-44",
+   "ini": {
+    "c": 25,
+    "v": 1
+   },
+   "fim": {
+    "c": 25,
+    "v": 44
+   }
+  },
+  {
+   "id": "1SA.26.1",
+   "titulo": "Davi poupa Saul pela segunda vez",
+   "secao": "Davi e Saul",
+   "referencia": "1Sm 26,1-25",
+   "ini": {
+    "c": 26,
+    "v": 1
+   },
+   "fim": {
+    "c": 26,
+    "v": 25
+   }
+  },
+  {
+   "id": "1SA.27.1",
+   "titulo": "Davi entre os filisteus",
+   "secao": "Davi e Saul",
+   "referencia": "1Sm 27,1-12",
+   "ini": {
+    "c": 27,
+    "v": 1
+   },
+   "fim": {
+    "c": 27,
+    "v": 12
+   }
+  },
+  {
+   "id": "1SA.28.1",
+   "titulo": "Saul e a necromante de Endor",
+   "secao": "Davi e Saul",
+   "referencia": "1Sm 28,1-25",
+   "ini": {
+    "c": 28,
+    "v": 1
+   },
+   "fim": {
+    "c": 28,
+    "v": 25
+   }
+  },
+  {
+   "id": "1SA.29.1",
+   "titulo": "Davi despedido pelos filisteus",
+   "secao": "Davi e Saul",
+   "referencia": "1Sm 29,1-11",
+   "ini": {
+    "c": 29,
+    "v": 1
+   },
+   "fim": {
+    "c": 29,
+    "v": 11
+   }
+  },
+  {
+   "id": "1SA.30.1",
+   "titulo": "Siceleg incendiada e a partilha do despojo",
+   "secao": "Davi e Saul",
+   "referencia": "1Sm 30,1-31",
+   "ini": {
+    "c": 30,
+    "v": 1
+   },
+   "fim": {
+    "c": 30,
+    "v": 31
+   }
+  },
+  {
+   "id": "1SA.31.1",
+   "titulo": "A morte de Saul no Gelboé",
+   "secao": "Davi e Saul",
+   "referencia": "1Sm 31,1-13",
+   "ini": {
+    "c": 31,
+    "v": 1
+   },
+   "fim": {
+    "c": 31,
+    "v": 13
+   }
+  }
+ ]
+}

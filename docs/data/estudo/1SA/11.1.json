@@ -1,0 +1,57 @@
+{
+  "id": "1SA.11.1",
+  "livro": "1SA",
+  "titulo": "Saul liberta Jabes de Galaad",
+  "secao": "A instituição da realeza",
+  "referencia": "1Sm 11,1-15",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "Hoje o Senhor salvou Israel: Saul liberta Jabes",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Naás, rei dos amonitas, cerca Jabes de Galaad. Os habitantes pedem: faz aliança conosco e te serviremos. Naás impõe uma condição humilhante: arrancar a todos o olho direito, como opróbrio para todo Israel. Os anciãos pedem sete dias para buscar socorro. Os mensageiros chegam a Gabaa, e todo o povo chora. Saul volta do campo atrás dos seus bois e pergunta: que tem o povo que chora? Contam-lhe a notícia, e “o espírito do Senhor apoderou-se de Saul”, que se inflama de ira. Corta em pedaços uma junta de bois e manda os pedaços a todo Israel: assim será feito aos bois de quem não seguir Saul e Samuel. O temor do Senhor cai sobre o povo, que sai como um só homem: trezentos mil de Israel e trinta mil de Judá. Avisam Jabes: amanhã, quando o sol aquecer, sereis socorridos. De madrugada, Saul ataca em três colunas e derrota os amonitas até o calor do dia. O povo quer matar os que desprezaram Saul, mas ele diz: “Hoje não se matará ninguém, porque hoje o Senhor salvou Israel.” Samuel convida: vamos a Galgala renovar o reino. Ali Saul é proclamado rei diante do Senhor, com sacrifícios pacíficos e grande alegria.",
+    "alegorico": "O Espírito que desce sobre Saul para salvar o povo aflito é o mesmo que desceu sobre os juízes e repousará sobre o Messias. A recusa de vingança no dia da vitória antecipa Cristo, que no dia da sua vitória pascal oferece a paz aos que o abandonaram.",
+    "moral": "Este é o melhor momento de Saul: sensível às lágrimas do povo, corajoso na ação, e magnânimo depois da vitória. Recusa a vingança contra os que o desprezaram e atribui a vitória a Deus. É o retrato do governante segundo Deus: compassivo, decidido e humilde. Pena que não durará.",
+    "anagogico": "“Hoje o Senhor salvou Israel”: o “hoje” da salvação que culmina no “hoje” de Cristo (Lc 4,21; 23,43). No dia da salvação não há lugar para a vingança, mas para a alegria."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Que tem o povo que chora?” “O espírito do Senhor apoderou-se de Saul.” “Amanhã sereis socorridos.” “Hoje não se matará ninguém, porque hoje o Senhor salvou Israel.” “Renovemos aí a realeza.”",
+    "meditatio_perguntas": [
+      "Deixo-me tocar pelo choro dos outros?",
+      "Atribuo a Deus as minhas vitórias?",
+      "Sei renunciar à vingança no momento em que poderia exercê-la?"
+    ],
+    "oratio_guia": "Senhor, dá-me um coração sensível às lágrimas do teu povo e a coragem de agir. Nas minhas vitórias, livra-me da vingança e faz-me dizer: hoje o Senhor salvou. Amém.",
+    "contemplatio_foco": {
+      "texto": "Hoje não se matará ninguém, porque hoje o Senhor salvou Israel",
+      "ref": "1Sm 11,13"
+    }
+  },
+  "ancoras": {
+    "11:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Arrancar o olho direito tornava o guerreiro inapto para o combate, pois o escudo, na mão esquerda, cobria o olho esquerdo.",
+        "origem": "ia"
+      }
+    },
+    "11:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O gesto lembra o do levita de Jz 19,29, mas aqui serve para unir Israel, não para a vingança.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

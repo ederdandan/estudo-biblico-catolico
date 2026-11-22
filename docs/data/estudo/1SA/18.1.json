@@ -1,0 +1,57 @@
+{
+  "id": "1SA.18.1",
+  "livro": "1SA",
+  "titulo": "A amizade de Jônatas e o ciúme de Saul",
+  "secao": "Davi e Saul",
+  "referencia": "1Sm 18,1-30",
+  "ini": {
+    "c": 18,
+    "v": 1
+  },
+  "fim": {
+    "c": 18,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "Jônatas amou-o como a sua própria vida; Saul matou mil, e Davi dez mil",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quando Davi termina de falar com Saul, “a alma de Jônatas ficou intimamente ligada à alma de Davi, e Jônatas amou-o como a sua própria vida”. Saul o retém na corte. Jônatas e Davi fazem aliança, e Jônatas se despoja do seu manto e o dá a Davi, com a armadura, a espada, o arco e o cinto. Davi tem êxito em todas as missões e é amado pelo povo e pelos servos de Saul. Mas, na volta da vitória, as mulheres saem das cidades dançando e cantando: “Saul matou mil, e Davi dez mil.” Saul se irrita: deram dez mil a Davi e mil a mim; só lhe falta o reino. “Daquele dia em diante, Saul não via Davi com bons olhos.” No dia seguinte, tomado pelo espírito mau, Saul delira em casa; Davi toca a harpa, e Saul lhe arremessa a lança duas vezes; Davi se esquiva. Saul teme Davi, “porque o Senhor era com Davi, e tinha-se retirado dele”. Faz dele chefe de mil para afastá-lo, mas Davi prospera, e todo Israel e Judá o amam. Saul promete-lhe a filha mais velha, Merob, pensando: que morra pelas mãos dos filisteus; mas a dá a outro. Micol, a filha mais nova, ama Davi, e Saul pensa usá-la como armadilha: pede como dote cem prepúcios de filisteus. Davi traz duzentos e casa com Micol. Saul compreende que o Senhor está com Davi e se torna seu inimigo para sempre.",
+    "alegorico": "Jônatas, o herdeiro que se despoja do manto e das armas para dá-los a Davi, foi visto como figura de quem reconhece o reino do verdadeiro Ungido e lhe entrega o que é seu: é a atitude de João Batista (“é preciso que ele cresça e eu diminua”) e de todo cristão diante de Cristo. Saul, consumido pela inveja, é imagem do coração que se fecha à graça vendo-a nos outros.",
+    "moral": "Duas reações diante do êxito de Davi: Jônatas ama e se despoja; Saul inveja e quer matar. A inveja nasce da comparação (“mil… dez mil”) e corrói tudo, até as relações familiares; Saul usa a própria filha como instrumento. A amizade verdadeira, ao contrário, alegra-se com o bem do amigo, mesmo quando lhe custa o próprio lugar.",
+    "anagogico": "A amizade de Jônatas e Davi, “alma ligada à alma”, é imagem da comunhão dos santos e da amizade com Cristo, que nos chama amigos (Jo 15,15). A inveja, por sua vez, é a tristeza do inferno diante da glória dos outros."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A alma de Jónatas ficou intimamente ligada à alma de Davide.” “Despojou-se do manto… deu-o a Davide.” “Saul matou mil, e Davide dez mil.” “Saul não via Davide com bons olhos.” “Saul temeu Davide, porque o Senhor era com Davide.” “Todo o Israel e Judá amavam Davide.”",
+    "meditatio_perguntas": [
+      "Alegro-me com o êxito dos outros, ou me comparo e invejo?",
+      "Tenho amizades em que a alma se liga à alma em Deus?",
+      "Sou capaz de me despojar do meu “manto” em favor de outro?"
+    ],
+    "oratio_guia": "Senhor, arranca do meu coração a inveja que se compara e entristece. Dá-me amizades santas e a generosidade de Jônatas, que se alegra com o bem do outro. Amém.",
+    "contemplatio_foco": {
+      "texto": "a alma de Jónatas ficou intimamente ligada à alma de Davide",
+      "ref": "1Sm 18,1"
+    }
+  },
+  "ancoras": {
+    "18:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Entregar o manto e as armas era gesto de aliança e, aqui, de renúncia simbólica ao direito de sucessão.",
+        "origem": "ia"
+      }
+    },
+    "18:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O refrão será lembrado pelos filisteus (21,11; 29,5).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

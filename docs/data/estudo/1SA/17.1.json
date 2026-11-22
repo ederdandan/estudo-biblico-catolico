@@ -1,0 +1,57 @@
+{
+  "id": "1SA.17.1",
+  "livro": "1SA",
+  "titulo": "O desafio de Golias",
+  "secao": "Davi e Saul",
+  "referencia": "1Sm 17,1-30",
+  "ini": {
+    "c": 17,
+    "v": 1
+  },
+  "fim": {
+    "c": 17,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "Quem é este filisteu que insulta o exército do Deus vivo?",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os filisteus acampam entre Soco e Azeca; Israel, no vale do Terebinto; os dois exércitos se enfrentam de um monte a outro, com o vale entre eles. Sai das fileiras filisteias um campeão, Golias de Get, de seis côvados e um palmo, com capacete de bronze, couraça de escamas de cinco mil siclos, perneiras de bronze, lança grossa como um cilindro de tear. Ele grita: escolhei um homem que lute comigo; se ele vencer, seremos vossos escravos; se eu vencer, sereis nossos. “Eu hoje desafiei os esquadrões de Israel.” Saul e Israel ficam aterrorizados. Durante quarenta dias, de manhã e de tarde, o filisteu se apresenta. Davi, o mais novo dos oito filhos de Isaí, voltara a apascentar o rebanho em Belém; os três mais velhos estão no exército. Isaí o envia com grão torrado, pães e queijos aos irmãos, para saber notícias. Davi chega quando os exércitos se alinham; corre às fileiras, saúda os irmãos, e Golias aparece com o mesmo desafio. Os israelitas fogem com medo. Dizem: o rei enriquecerá quem o matar, dará a filha e isentará a casa do pai. Davi pergunta: “Quem é este Filisteu incircuncidado, que insultou o exército do Deus vivo?” Eliab, o irmão mais velho, irrita-se: por que desceste? com quem deixaste aquelas poucas ovelhas? conheço o teu orgulho; vieste ver a batalha. Davi responde: que fiz eu? não posso nem falar? E continua perguntando aos outros.",
+    "alegorico": "Golias foi lido pelos Padres como figura do demônio, ou do orgulho, que insulta o povo de Deus e o mantém aterrorizado, e Davi, o pastor enviado pelo pai com pão aos irmãos, como figura de Cristo, enviado pelo Pai, desprezado pelos seus (“por que desceste?”), que vem vencer o inimigo que ninguém ousava enfrentar. Os quarenta dias evocam os tempos de prova.",
+    "moral": "O medo paralisa o exército inteiro; só um jovem que vê as coisas com os olhos da fé reage, porque percebe que a ofensa é contra o “Deus vivo”. Davi é enviado para uma tarefa humilde, levar comida, e Deus a transforma em missão. A inveja do irmão mais velho tenta desanimá-lo, mas Davi não se deixa deter pelas acusações.",
+    "anagogico": "O desafio do gigante durante quarenta dias aponta para a longa espera da humanidade sob o domínio do mal, até que o Filho de Davi viesse e o vencesse."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu hoje desafiei os esquadrões de Israel.” “Estavam atônitos e temiam em extremo.” “Toma para teus irmãos… e corre.” “Quem é este Filisteu incircuncidado, que insultou o exército do Deus vivo?” “Que fiz eu?”",
+    "meditatio_perguntas": [
+      "Que “gigantes” me paralisam de medo há muito tempo?",
+      "Vejo as situações com os olhos da fé, como Davi?",
+      "Deixo que a inveja ou a crítica dos outros me desanimem?"
+    ],
+    "oratio_guia": "Senhor, Deus vivo, dá-me olhos de fé para ver os gigantes do meu medo como tu os vês. Que eu não me deixe paralisar nem desanimar pelas críticas, mas sirva onde me envias. Amém.",
+    "contemplatio_foco": {
+      "texto": "Quem é este Filisteu incircuncidado, que insultou o exército do Deus vivo?",
+      "ref": "1Sm 17,26"
+    }
+  },
+  "ancoras": {
+    "17:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Seis côvados e um palmo: cerca de 2,9 m. A Setenta e um manuscrito de Qumran dão quatro côvados e um palmo (cerca de 2 m).",
+        "origem": "ia"
+      }
+    },
+    "17:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os vv. 12-31 e 55-58 faltam na Setenta; parecem vir de outra tradição sobre a chegada de Davi à corte.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

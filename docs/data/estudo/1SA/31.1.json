@@ -1,0 +1,57 @@
+{
+  "id": "1SA.31.1",
+  "livro": "1SA",
+  "titulo": "A morte de Saul no Gelboé",
+  "secao": "Davi e Saul",
+  "referencia": "1Sm 31,1-13",
+  "ini": {
+    "c": 31,
+    "v": 1
+  },
+  "fim": {
+    "c": 31,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "Como caíram os valentes: a morte de Saul e de Jônatas no Gelboé",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os filisteus combatem contra Israel, e os israelitas fogem e caem mortos no monte Gelboé. Os filisteus alcançam Saul e os filhos e matam Jônatas, Abinadab e Melquisua. O combate pesa sobre Saul; os arqueiros o atingem e ele fica gravemente ferido. Saul diz ao escudeiro: tira a espada e atravessa-me, para que não venham estes incircuncisos zombar de mim. O escudeiro, com medo, não quer. Saul toma a espada e se lança sobre ela. O escudeiro, vendo-o morto, faz o mesmo e morre com ele. “Morreu, pois, Saul, com os seus três filhos, o seu escudeiro e todos os seus homens naquele dia.” Os israelitas do outro lado do vale e do Jordão abandonam as cidades, e os filisteus as ocupam. No dia seguinte, os filisteus encontram Saul e os filhos no Gelboé; cortam-lhe a cabeça, tiram-lhe as armas e enviam a notícia por toda a terra filisteia, aos templos dos ídolos e ao povo. Põem as armas no templo de Astarot e penduram o corpo no muro de Betsan. Os habitantes de Jabes de Galaad, a cidade que Saul salvara no início do reinado, sabem disso; os seus valentes caminham a noite toda, tiram os corpos do muro, levam-nos a Jabes, queimam-nos, enterram os ossos sob a tamargueira e jejuam sete dias.",
+    "alegorico": "A morte de Saul fecha um reinado que começou com o Espírito e terminou no desespero: é a parábola de quem recebeu tudo e o perdeu pela desobediência. Mas a fidelidade de Jabes, que arrisca a vida para honrar o corpo do rei que a salvara, mostra a gratidão que permanece. Jônatas, inocente, morre com o pai: o justo que partilha a sorte do pecador é imagem distante de Cristo.",
+    "moral": "O fim de Saul é trágico: a última decisão é ditada pelo medo da humilhação. A Igreja não aprova o suicídio, mas também não julga o coração; deixa-o à misericórdia de Deus. A lição para nós é a de toda a vida de Saul: as graças do início não garantem o fim; é preciso perseverar na obediência. E a gratidão de Jabes recorda que o bem feito não se perde.",
+    "anagogico": "O reino passa de Saul a Davi, e de Davi ao Filho de Davi, cujo reino não terá fim. A morte do primeiro rei abre o caminho ao rei segundo o coração de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Os homens de Israel fugiram diante dos Filisteus.” “Matando Jónatas, Abinadab e Melquisua.” “Desembaínha a tua espada e atravessa-me com ela.” “Morreu, pois, Saul, com os seus três filhos.” “Saíram todos os homens mais valentes, marcharam toda a noite.” “Jejuaram sete dias.”",
+    "meditatio_perguntas": [
+      "Confio que as graças do início bastam, ou persevero até o fim?",
+      "Que medos me levam a decisões desesperadas?",
+      "Sou grato aos que me fizeram bem, mesmo quando caíram?"
+    ],
+    "oratio_guia": "Senhor, dá-me a graça da perseverança final. Livra-me do desespero e do medo da humilhação, e acolhe na tua misericórdia os que morreram sem esperança. Amém.",
+    "contemplatio_foco": {
+      "texto": "Morreu, pois, Saul, com os seus três filhos, o seu escudeiro e todos os seus homens naquele dia",
+      "ref": "1Sm 31,6"
+    }
+  },
+  "ancoras": {
+    "31:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Betsan (Bet-Shean), na junção dos vales de Jezrael e do Jordão, estava então sob controle filisteu.",
+        "origem": "ia"
+      }
+    },
+    "31:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Queimar os corpos não era costume israelita; talvez para evitar nova profanação. 2Sm 21,12-14 narra a trasladação dos ossos por Davi.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "1SA.12.1",
+  "livro": "1SA",
+  "titulo": "O discurso de despedida de Samuel",
+  "secao": "A instituição da realeza",
+  "referencia": "1Sm 12,1-25",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "Longe de mim cessar de orar por vós: o testamento de Samuel",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Samuel fala a todo Israel: atendi ao vosso pedido e vos dei um rei. Eu estou velho e encanecido; andei diante de vós desde a juventude. Dai testemunho contra mim diante do Senhor e do seu ungido: tomei o boi ou o jumento de alguém? oprimi alguém? aceitei suborno? O povo responde: não nos oprimiste nem tomaste nada de ninguém. Samuel recorda então as justiças do Senhor: Moisés e Aarão, o Egito, os juízes que Deus enviou cada vez que o povo clamava; e o povo, diante de Naás, pediu um rei, “sendo que o Senhor vosso Deus era o vosso rei”. Eis o rei que pedistes. Se temerdes o Senhor e o servirdes, vós e o rei vivereis; se não, a mão do Senhor será contra vós. Para mostrar a gravidade do pedido, Samuel invoca o Senhor, e no tempo da ceifa do trigo, quando nunca chove, vêm trovões e chuva. O povo teme e pede: roga por nós, para que não morramos, porque acrescentamos este mal a todos os nossos pecados. Samuel consola: “Não temais”; fizestes mal, mas não vos afasteis do Senhor; servi-o de todo o coração; não sigais coisas vãs. O Senhor não abandonará o seu povo, por causa do seu grande nome. “Longe de mim também este pecado contra o Senhor de cessar de orar por vós”; ensinar-vos-ei o caminho bom e reto.",
+    "alegorico": "Samuel, juiz íntegro e intercessor incansável, é figura de Cristo, que não oprime ninguém e “vive sempre para interceder” pelos seus (Hb 7,25). Também anuncia os pastores da Igreja, cuja primeira tarefa é orar pelo povo e ensinar o caminho reto.",
+    "moral": "Samuel pode pedir que o acusem, porque viveu com integridade: é um exame de consciência para todos os que têm autoridade. Diante do pecado do povo, não se fecha no ressentimento: “não temais”, e promete continuar a rezar. Para ele, deixar de interceder pelos outros seria um pecado. E o essencial é simples: temer o Senhor e servi-lo de todo o coração.",
+    "anagogico": "“O Senhor não abandonará o seu povo, por causa do seu grande nome”: a fidelidade de Deus é mais forte que as infidelidades humanas, e garante a salvação final do seu povo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Tomei o boi ou o jumento de alguém?” “Tu não nos prejudicaste.” “Sendo que o Senhor vosso Deus era o vosso rei.” “Não temais.” “O Senhor por causa do seu grande nome não abandonará o seu povo.” “Longe de mim… cessar de orar por vós.”",
+    "meditatio_perguntas": [
+      "Poderia pedir, como Samuel, que me acusassem diante de Deus?",
+      "Intercedo pelos que me magoaram?",
+      "Sigo “coisas vãs” que não me livram?"
+    ],
+    "oratio_guia": "Senhor, que não abandonas o teu povo, dá-me a integridade de Samuel e um coração que não cessa de interceder pelos outros. Que eu te tema e te sirva de todo o coração. Amém.",
+    "contemplatio_foco": {
+      "texto": "Longe de mim, também este pecado contra o Senhor de cessar de orar por vós",
+      "ref": "1Sm 12,23"
+    }
+  },
+  "ancoras": {
+    "12:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Badan” é provavelmente um erro de cópia por Barac (assim a Setenta e a versão siríaca).",
+        "origem": "ia"
+      }
+    },
+    "12:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na Palestina, a ceifa do trigo (maio-junho) acontece na estação seca, quando não chove.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

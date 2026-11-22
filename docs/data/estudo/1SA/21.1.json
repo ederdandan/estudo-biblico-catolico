@@ -1,0 +1,57 @@
+{
+  "id": "1SA.21.1",
+  "livro": "1SA",
+  "titulo": "Davi em Nobe e em Get",
+  "secao": "Davi e Saul",
+  "referencia": "1Sm 21,1-15",
+  "ini": {
+    "c": 21,
+    "v": 1
+  },
+  "fim": {
+    "c": 21,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "O pão santo para o faminto: Davi em Nobe e em Get",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Davi, fugitivo, chega a Nobe, ao sacerdote Aquimelec, que se assusta ao vê-lo sozinho. Davi inventa uma missão secreta do rei e pede: dá-me cinco pães, ou o que tiveres. O sacerdote responde: não tenho pão comum, só pão consagrado, se os teus homens se abstiveram de mulheres. Davi garante que sim, e Aquimelec lhe dá os pães da proposição, retirados de diante do Senhor para serem substituídos por pães quentes. Estava ali naquele dia Doeg, o idumeu, chefe dos pastores de Saul. Davi pede uma arma, e o sacerdote lhe entrega a espada de Golias, envolta num manto atrás do éfode: “não há outra igual”. Davi foge para Get, junto de Aquis, rei filisteu. Os servos de Aquis o reconhecem: não é este Davi, de quem cantavam “Saul matou mil, e Davi dez mil”? Davi tem medo, finge-se louco, rabisca nas portas e deixa escorrer a saliva pela barba. Aquis diz: não vedes que é louco? faltam-me loucos, para me trazerdes este?",
+    "alegorico": "Jesus mesmo cita este episódio: Davi e os seus comeram os pães da proposição, que só aos sacerdotes era lícito comer (Mt 12,3-4), para ensinar que a lei existe para o homem. O pão consagrado dado ao ungido faminto prefigura a Eucaristia, pão santo dado aos que caminham. Davi fingindo loucura entre os pagãos foi lido como imagem da “loucura da cruz” (1Cor 1,23); a tradição liga este episódio aos Salmos 33 e 55.",
+    "moral": "O sacerdote coloca a necessidade do faminto acima da regra ritual, com prudência. Davi, porém, mente para obter o que precisa, e essa mentira custará a vida dos sacerdotes de Nobe. Até os santos, sob o medo, recorrem a expedientes; a Escritura não esconde as suas fraquezas. O medo leva Davi a fugir para o inimigo e a humilhar-se; Deus o guarda mesmo assim.",
+    "anagogico": "O pão consagrado dado ao ungido fugitivo anuncia o banquete preparado para os que, na peregrinação desta vida, têm fome; Deus os alimenta até chegarem ao Reino."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Se tens à mão alguma coisa… dá-ma.” “Eu não tenho à mão pães vulgares, mas sòmente o pão santo.” “O sacerdote deu-lhe, então, do pão santificado.” “Eis aqui a espada de Golias.” “Teve muito medo de Aquis.” “Fingiu ter perdido o juízo diante deles.”",
+    "meditatio_perguntas": [
+      "Coloco a necessidade dos outros acima de regras secundárias?",
+      "Que mentiras “pequenas” podem ter consequências grandes para os outros?",
+      "Como reajo quando o medo me leva a lugares onde não deveria estar?"
+    ],
+    "oratio_guia": "Senhor, que alimentas os famintos com o pão santo, dá-me o pão da tua presença no caminho. Livra-me das mentiras que ferem os outros e guarda-me quando o medo me desvia. Amém.",
+    "contemplatio_foco": {
+      "texto": "O sacerdote deu-lhe, então, do pão santificado",
+      "ref": "1Sm 21,6"
+    }
+  },
+  "ancoras": {
+    "21:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Vulgata/Matos Soares numera 21,1-15; no hebraico, 21,2-16. Marcos 2,26 menciona Abiatar, filho de Aquimelec, como sacerdote deste episódio.",
+        "origem": "ia"
+      }
+    },
+    "21:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os doze pães da proposição eram renovados cada sábado e consumidos pelos sacerdotes (Lv 24,5-9).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "1SA.2.1",
+  "livro": "1SA",
+  "titulo": "O cântico de Ana",
+  "secao": "Samuel, o profeta",
+  "referencia": "1Sm 2,1-11",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "O meu coração exulta no Senhor: o Deus que levanta o pobre do pó",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ana ora e canta. “O meu coração exulta no Senhor, e a minha força foi exaltada pelo meu Deus”; a minha boca se abre contra os meus inimigos, porque me alegrei na tua salvação. Não há santo como o Senhor, não há rocha como o nosso Deus. Cessem as palavras arrogantes, porque o Senhor é um Deus que tudo sabe e pesa as ações. O cântico celebra as inversões que Deus opera: “o arco dos fortes quebrou-se, e os fracos foram revestidos de força”; os saciados se alugam por pão, os famintos se fartam; a estéril dá à luz sete vezes, e a mãe de muitos filhos definha. “O Senhor é quem tira a vida e a dá, leva à habitação dos mortos e tira dela”; empobrece e enriquece, humilha e exalta. “Levanta o pobre do pó, e do esterco eleva o indigente, para que se sente com os príncipes.” Guarda os pés dos seus santos; os ímpios calarão nas trevas, porque não é pela força que o homem vence. O Senhor julgará os confins da terra, dará força ao seu rei e exaltará o poder do seu ungido. Elcana volta para Ramá, e o menino fica servindo o Senhor diante do sacerdote Heli.",
+    "alegorico": "O cântico de Ana é o modelo do Magnificat: Maria retoma as suas palavras para cantar o Deus que “derrubou os poderosos e exaltou os humildes” (Lc 1,46-55). A última linha, “exaltará a cabeça do seu ungido”, é a primeira menção do “Messias” (ungido) como rei na Bíblia: Ana canta, sem saber, Cristo.",
+    "moral": "A alegria de Ana não é vingança mesquinha contra Fenena: é louvor ao Deus que se inclina para os pequenos. O cântico convida a rever os critérios de sucesso: o forte não vence pela força, e ninguém deve gloriar-se diante de Deus. Quem foi levantado do pó aprende a olhar o mundo a partir dos pobres.",
+    "anagogico": "“Leva à habitação dos mortos e tira dela”: Ana proclama, sem o compreender plenamente, a ressurreição. O Deus que exalta o humilde e dá vida à estéril dará a vida eterna aos que levanta do pó da morte."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O meu coração exulta no Senhor.” “Não há quem seja santo como o Senhor.” “O arco dos fortes quebrou-se, e os fracos foram revestidos de força.” “O Senhor é quem tira a vida e a dá.” “Levanta o pobre do pó.” “Exaltará a cabeça do seu ungido.”",
+    "meditatio_perguntas": [
+      "Sei transformar em louvor as graças que recebo?",
+      "Onde confio na minha força, esquecendo que “o homem não vence pela sua robustez”?",
+      "Olho o mundo com os olhos de Deus, que levanta o pobre do pó?"
+    ],
+    "oratio_guia": "O meu coração exulta em ti, Senhor. Tu quebras o arco dos fortes e revestes de força os fracos; levanta-me do pó e faz-me cantar contigo, com Ana e com Maria, a tua salvação. Amém.",
+    "contemplatio_foco": {
+      "texto": "O meu coração exulta no Senhor",
+      "ref": "1Sm 2,1"
+    }
+  },
+  "ancoras": {
+    "2:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Ungido” (mashiah, em grego christos): primeira ocorrência do termo aplicado a um rei. O cântico é usado na Liturgia das Horas (Laudes de quarta-feira, semana II).",
+        "origem": "ia"
+      }
+    },
+    "2:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Vulgata traduz “deducit ad inferos et reducit”, texto que os Padres leram como anúncio da ressurreição.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

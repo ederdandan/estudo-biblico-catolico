@@ -1,0 +1,57 @@
+{
+  "id": "1SA.14.24",
+  "livro": "1SA",
+  "titulo": "O juramento imprudente de Saul",
+  "secao": "O reinado de Saul",
+  "referencia": "1Sm 14,24-52",
+  "ini": {
+    "c": 14,
+    "v": 24
+  },
+  "fim": {
+    "c": 14,
+    "v": 52
+  },
+  "liturgia": {
+    "tema_central": "Meu pai turbou o país: o juramento imprudente de Saul",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Naquele dia, Saul impõe ao povo um juramento: maldito o homem que comer alguma coisa até a tarde, antes que eu me vingue dos meus inimigos. Ninguém come. O povo entra num bosque onde escorre mel, mas ninguém o leva à boca, por temor do juramento. Jônatas, que não ouvira, estende a ponta do bastão, molha-a no favo e come, “e os seus olhos se iluminaram”. Avisam-no do juramento, e ele diz: “Meu pai turbou o país”; vede como recobrei a vista provando um pouco de mel; se o povo tivesse comido, a vitória teria sido maior. O povo, exausto, lança-se sobre o despojo e come carne com sangue, contra a lei. Saul manda trazer uma grande pedra para que os animais sejam degolados corretamente, e edifica o seu primeiro altar ao Senhor. Quer perseguir os filisteus à noite e consulta a Deus, mas Deus não responde. Saul conclui que há um pecado e jura: ainda que seja Jônatas, meu filho, morrerá. Lançam sortes, e a sorte cai sobre Jônatas, que confessa: provei um pouco de mel; eis-me aqui, morrerei. Saul confirma: morrerás. Mas o povo se opõe: há de morrer Jônatas, que operou esta grande libertação? Nem um cabelo da sua cabeça cairá, porque hoje agiu com Deus. E o povo livra Jônatas. Saul desiste da perseguição. O capítulo termina com um resumo das guerras de Saul contra Moab, Amon, Edom, os filisteus e Amalec, e da sua família.",
+    "alegorico": "Jônatas, salvador do povo, condenado à morte pelo pai e libertado pelo povo, foi aproximado de Cristo, inocente condenado; mas aqui o povo salva o inocente, enquanto na Paixão o povo pediu a sua morte. O mel que ilumina os olhos foi lido como a doçura da Palavra de Deus (Sl 18,11; 118,103).",
+    "moral": "O zelo de Saul é sincero, mas desordenado: impõe um jejum que enfraquece o povo, leva-o à transgressão e quase mata o próprio filho. É o retrato de uma religiosidade rígida, que multiplica obrigações sem sabedoria. O povo, com bom senso, discerne melhor que o rei: a justiça não pode condenar quem salvou. Juramentos e votos imprudentes fazem mais mal do que bem.",
+    "anagogico": "O silêncio de Deus diante de Saul revela que algo está errado no seu coração, mais do que num pecado oculto. A comunhão com Deus não se força com sortes e juramentos, mas se recebe na humildade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Maldito o homem que hoje tomar alimento.” “Viu correr o mel, mas ninguém o levou à boca.” “Se me iluminaram os olhos, logo que comi um pouco deste mel.” “Meu pai turbou o país.” “Porventura há-de morrer Jónatas que operou esta grande libertação em Israel?”",
+    "meditatio_perguntas": [
+      "Imponho aos outros obrigações que os sobrecarregam sem necessidade?",
+      "O meu zelo religioso é guiado pela sabedoria e pela caridade?",
+      "Sei reconhecer quando os outros discernem melhor do que eu?"
+    ],
+    "oratio_guia": "Senhor, livra-me de um zelo sem sabedoria que oprime os irmãos. Dá-me a doçura da tua palavra, que ilumina os olhos, e a humildade de reconhecer os meus erros. Amém.",
+    "contemplatio_foco": {
+      "texto": "vós mesmos vistes que se me iluminaram os olhos, logo que comi um pouco deste mel",
+      "ref": "1Sm 14,29"
+    }
+  },
+  "ancoras": {
+    "14:32": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Comer carne com sangue era proibido (Gn 9,4; Lv 17,10-14), porque o sangue é a vida, que pertence a Deus.",
+        "origem": "ia"
+      }
+    },
+    "14:41": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O texto hebraico abreviado; a Vulgata e a Setenta conservam a fórmula do Urim e Tumim para lançar sortes.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

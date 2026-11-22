@@ -1,0 +1,57 @@
+{
+  "id": "1SA.1.1",
+  "livro": "1SA",
+  "titulo": "Ana pede um filho",
+  "secao": "Samuel, o profeta",
+  "referencia": "1Sm 1,1-28",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "A oração de Ana: a dor que se derrama diante do Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Elcana, de Ramataim-Sofim, na montanha de Efraim, tem duas mulheres: Fenena, que tem filhos, e Ana, que não os tem. Todos os anos sobe a Silo para adorar o Senhor dos exércitos, onde são sacerdotes Ofni e Fineias, filhos de Heli. Na refeição do sacrifício, dá porções a Fenena e aos filhos, e a Ana uma só, embora a ame. A rival a provoca e humilha, ano após ano, e Ana chora e não come. Elcana a consola: “Ana, por que choras?… porventura não sou eu melhor para ti, do que dez filhos?” Depois da refeição, Ana se levanta e, “com o coração cheio de amargura, orou ao Senhor, derramando copiosas lágrimas”. Faz um voto: se olhares a aflição da tua serva e me deres um filho, eu o darei ao Senhor por todos os dias da sua vida, e navalha não passará pela sua cabeça. Ela reza em silêncio, só os lábios se movem. O sacerdote Heli a julga embriagada: até quando estarás bêbada? Ana responde: não, meu senhor, sou uma mulher muito aflita; não bebi vinho; derramei a minha alma diante do Senhor. Heli diz: “Vai em paz, e o Deus de Israel te conceda a súplica.” Ela vai, come, “e o seu rosto já não era o mesmo”. O Senhor se lembra dela; ela concebe e dá à luz um filho, a quem chama Samuel, “porque o pedi ao Senhor”. Quando o desmama, leva-o a Silo com um novilho, farinha e vinho, e o apresenta a Heli: “Eu orei por este menino, e o Senhor concedeu-me a petição que lhe fiz. Portanto eu também o dou ao Senhor.”",
+    "alegorico": "Ana, a estéril que se torna mãe pela oração, faz parte da linhagem das mães da promessa que culmina em Maria. Os Padres viram em Ana a Igreja, antes estéril entre as nações, que pela oração gera filhos para Deus. Samuel, dado ao Senhor desde a infância, anuncia Jesus apresentado no Templo (Lc 2,22).",
+    "moral": "Ana é mestra de oração: leva a Deus a sua amargura sem rodeios, reza com o coração mais do que com os lábios, persevera ano após ano, e, depois de rezar, recupera a paz antes mesmo de ver o resultado. Também é mestra de desprendimento: devolve a Deus o dom que recebeu. Tudo o que recebemos em resposta à oração é para ser oferecido.",
+    "anagogico": "“O seu rosto já não era o mesmo”: a oração transforma antes de obter. É antecipação do rosto transfigurado dos que verão a Deus, quando toda lágrima for enxugada."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ana, por que choras?” “Orou ao Senhor, derramando copiosas lágrimas.” “Se te dignares olhar para a aflição da tua serva.” “Ana falava no seu coração, e apenas se moviam os seus lábios.” “O seu rosto já não era o mesmo.” “Eu orei por este menino… Portanto eu também o dou ao Senhor.”",
+    "meditatio_perguntas": [
+      "Levo a Deus a minha amargura com sinceridade, ou a escondo?",
+      "A minha oração me devolve a paz antes mesmo da resposta?",
+      "Que dom recebido de Deus sou chamado a oferecer-lhe de volta?"
+    ],
+    "oratio_guia": "Senhor dos exércitos, olha a aflição da tua serva, do teu servo. Recebe as minhas lágrimas e a minha oração silenciosa; muda o meu rosto com a tua paz, e ensina-me a devolver-te tudo o que me dás. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu orei por este menino, e o Senhor concedeu-me a petição que lhe fiz",
+      "ref": "1Sm 1,27"
+    }
+  },
+  "ancoras": {
+    "1:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Senhor dos exércitos” (YHWH Sebaot) aparece aqui pela primeira vez na Bíblia, ligado ao santuário de Silo e à arca.",
+        "origem": "ia"
+      }
+    },
+    "1:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Samuel (Shemu’el) foi explicado popularmente como “pedido a Deus” (sha’ul me’el); o jogo de palavras com Saul (Sha’ul, “pedido”) atravessa o livro.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

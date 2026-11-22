@@ -1,0 +1,57 @@
+{
+  "id": "1SA.25.1",
+  "livro": "1SA",
+  "titulo": "Nabal e Abigail",
+  "secao": "Davi e Saul",
+  "referencia": "1Sm 25,1-44",
+  "ini": {
+    "c": 25,
+    "v": 1
+  },
+  "fim": {
+    "c": 25,
+    "v": 44
+  },
+  "liturgia": {
+    "tema_central": "Bendito o teu bom senso: Abigail detém a vingança de Davi",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Samuel morre, e todo Israel o pranteia e o sepulta em Ramá. Davi desce ao deserto de Maon. Ali vive Nabal, homem riquíssimo, com três mil ovelhas e mil cabras, mas duro e mau; a sua mulher, Abigail, é sensata e bela. Na época da tosquia, tempo de festa e generosidade, Davi envia dez jovens para saudá-lo em paz: guardamos os teus pastores no deserto e nada lhes faltou; dá-nos o que puderes. Nabal responde com desprezo: quem é Davi? Hoje há muitos servos que fogem dos seus senhores; darei o meu pão e a minha carne a gente que não sei de onde vem? Davi, furioso, manda quatrocentos homens cingirem a espada e jura não deixar vivo nenhum homem da casa de Nabal. Um servo avisa Abigail: eles foram para nós um muro de dia e de noite; considera o que fazer. Abigail prepara rapidamente duzentos pães, vinho, carneiros, grão, uvas e figos, e vai ao encontro de Davi sem avisar o marido. Desce do jumento, prostra-se e fala com sabedoria: caia sobre mim a culpa; não faças caso de Nabal, que é insensato como o seu nome; o Senhor te impediu de derramar sangue; o Senhor te fará uma casa estável, e “a vida do meu senhor será guardada no feixe dos que vivem com o Senhor”; quando fores rei, não terás no coração o remorso de ter derramado sangue inocente. Davi responde: “Bendito seja o Senhor… que te enviou hoje ao meu encontro! Bendito o teu bom senso!” que me impediste de me vingar pela minha mão. Nabal, ao saber de manhã, fica como pedra e morre dez dias depois. Davi pede Abigail em casamento, e ela vai.",
+    "alegorico": "Abigail, mediadora que se oferece para carregar a culpa e aplaca a ira do ungido com dons e palavras sábias, foi vista pela tradição como figura de Maria, medianeira que intercede, e da sabedoria que vem ao encontro do homem. O “feixe dos vivos” guardado junto de Deus tornou-se imagem da vida eterna: a fórmula aparece em inscrições funerárias judaicas.",
+    "moral": "O episódio mostra a tentação de Davi: ele, que poupou Saul, está prestes a matar por orgulho ferido. Abigail é a mulher sábia que salva os dois homens de si mesmos: reconhece o erro do marido, fala com humildade e lembra Davi da sua própria consciência. Feliz quem escuta a correção que vem de pessoas inesperadas. A ingratidão de Nabal, por sua vez, é a do rico que esquece quem o protegeu.",
+    "anagogico": "“A vida do meu senhor será guardada no feixe dos que vivem no Senhor”: é uma das expressões mais antigas da esperança na vida junto de Deus. Os justos estão guardados nele como um tesouro."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quem é Davide?” “Serviam-nos de muro, tanto de noite como de dia.” “Sobre mim caia, meu senhor, esta iniquidade.” “A vida do meu senhor será guardada no ramalhete dos que vivem no Senhor teu Deus.” “Bem-dito seja o Senhor Deus de Israel, que te enviou hoje ao meu encontro!” “Bem-dito o teu bom senso!”",
+    "meditatio_perguntas": [
+      "Em que momentos a raiva me leva perto de fazer o que condenaria noutros?",
+      "Escuto as “Abigail” que Deus coloca no meu caminho para me corrigir?",
+      "Sou agradecido aos que me protegem e servem?"
+    ],
+    "oratio_guia": "Senhor, que enviaste Abigail ao encontro de Davi, envia-me pessoas sábias que me detenham quando a ira me cega. Guarda a minha vida no feixe dos que vivem em ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Bem-dito o teu bom senso!",
+      "ref": "1Sm 25,33"
+    }
+  },
+  "ancoras": {
+    "25:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Nabal significa “insensato”: o nome é tomado como retrato do homem.",
+        "origem": "ia"
+      }
+    },
+    "25:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Feixe (ou bolsa) dos vivos”: a Vulgata traduz “fasciculus viventium”. A fórmula hebraica “que a sua alma seja atada no feixe da vida” ainda se usa nas lápides judaicas.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

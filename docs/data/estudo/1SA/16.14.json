@@ -1,0 +1,57 @@
+{
+  "id": "1SA.16.14",
+  "livro": "1SA",
+  "titulo": "Davi toca a harpa para Saul",
+  "secao": "Davi e Saul",
+  "referencia": "1Sm 16,14-23",
+  "ini": {
+    "c": 16,
+    "v": 14
+  },
+  "fim": {
+    "c": 16,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "A harpa de Davi e o tormento de Saul",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“O espírito do Senhor retirou-se de Saul, e atormentava-o um espírito maligno, por permissão do Senhor.” Os servos de Saul percebem e sugerem: procuremos um homem que saiba tocar harpa; quando o espírito te atormentar, ele tocará, e te sentirás melhor. Saul aceita. Um dos servos diz: vi um filho de Isaí, de Belém, que sabe tocar; é valente, guerreiro, prudente nas palavras, de boa aparência, “e o Senhor é com ele”. Saul manda chamar Davi, “que anda com os rebanhos”. Isaí envia o filho com um jumento carregado de pão, um odre de vinho e um cabrito. Davi se apresenta a Saul, e Saul lhe tem grande afeição e o faz seu escudeiro. Pede a Isaí: que Davi fique comigo, porque achou graça aos meus olhos. E sempre que o espírito maligno se apodera de Saul, Davi toma a harpa e toca, e Saul sente alívio e se acalma, e o espírito mau se retira.",
+    "alegorico": "A música de Davi que afasta o espírito mau foi lida pelos Padres como figura de Cristo, cuja palavra e presença expulsam os demônios, e dos Salmos, “harpa de Davi”, que a Igreja canta para afastar as trevas do coração. Davi entra no palácio como servo antes de ser rei, como o Filho que veio para servir.",
+    "moral": "O contraste é forte: o Espírito passa de Saul para Davi. Quem rejeita a palavra de Deus fica exposto à inquietação e à melancolia. A música, a beleza e a oração têm um poder real de pacificação. E Davi entra na história de Saul servindo, sem saber do futuro: Deus prepara os seus caminhos de modo escondido.",
+    "anagogico": "A música que acalma o rei atormentado antecipa o cântico novo do céu, onde nenhum espírito mau perturbará os que louvam a Deus com a harpa (Ap 14,2-3)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O espírito do Senhor retirou-se de Saul.” “Buscarão um homem que saiba tocar harpa.” “O Senhor é com ele.” “Envia-me o teu filho Davide, que anda com os rebanhos.” “Davide tomava a harpa… e Saul sentia alívio.”",
+    "meditatio_perguntas": [
+      "Que “espíritos” de inquietação me atormentam quando me afasto de Deus?",
+      "Uso a oração cantada e a beleza para pacificar o coração?",
+      "Posso ser, para alguém atormentado, a “harpa” que traz alívio?"
+    ],
+    "oratio_guia": "Senhor, quando a inquietação me atormentar, envia-me a harpa do teu Espírito. Que os salmos acalmem o meu coração e que eu seja, para os outros, instrumento da tua paz. Amém.",
+    "contemplatio_foco": {
+      "texto": "Davide tomava a harpa, tocava-a com a mão, e Saul sentia alívio",
+      "ref": "1Sm 16,23"
+    }
+  },
+  "ancoras": {
+    "16:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Bíblia atribui a Deus tudo o que ele permite; o “espírito mau” é uma perturbação que Deus não impede, consequência do afastamento de Saul. Muitos veem aqui sintomas de depressão.",
+        "origem": "ia"
+      }
+    },
+    "16:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Escudeiro: o que carregava as armas do rei; posição de confiança na corte.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

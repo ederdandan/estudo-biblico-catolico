@@ -1,0 +1,57 @@
+{
+  "id": "1SA.17.31",
+  "livro": "1SA",
+  "titulo": "Em nome do Senhor dos exércitos: Davi vence Golias",
+  "secao": "Davi e Saul",
+  "referencia": "1Sm 17,31-58",
+  "ini": {
+    "c": 17,
+    "v": 31
+  },
+  "fim": {
+    "c": 17,
+    "v": 58
+  },
+  "liturgia": {
+    "tema_central": "Venho a ti em nome do Senhor dos exércitos: a vitória do pastor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "As palavras de Davi chegam a Saul. Davi diz: “Não desfaleça o coração de ninguém por causa deste Filisteu”; o teu servo irá. Saul objeta: és um rapaz, e ele é guerreiro desde a juventude. Davi conta: quando um leão ou um urso levava uma ovelha do rebanho, eu corria atrás, arrancava-a da sua boca e, se ele me atacava, agarrava-o pela juba e o matava; assim fará a este filisteu. “O Senhor, que me livrou das garras do leão e das do urso, livrar-me-á também da mão deste Filisteu.” Saul: vai, e o Senhor seja contigo. Veste-o com as suas armas, mas Davi não consegue andar: não estou acostumado. Tira-as. Toma o cajado, escolhe cinco pedras lisas na torrente, põe-nas no alforje de pastor e, de funda na mão, vai ao encontro do filisteu. Golias o despreza: sou um cão, para vires a mim com paus? amaldiçoa-o pelos seus deuses. Davi responde: “Tu vens a mim com espada, lança e escudo, eu porém venho a ti em nome do Senhor dos Exércitos”; hoje toda a terra saberá que há um Deus em Israel, “e toda esta multidão conhecerá que o Senhor não salva pela espada, nem pela lança, porque ele é o Senhor da guerra”. Golias avança; Davi corre, lança uma pedra com a funda, que se crava na testa do gigante, e ele cai de bruços. Sem espada na mão, Davi corre, toma a espada do filisteu e lhe corta a cabeça. Os filisteus fogem, e Israel os persegue. Saul pergunta a Abner de quem é filho aquele jovem; Davi responde: “Eu sou filho do teu servo Isaí de Belém.”",
+    "alegorico": "A vitória do pastor, sem armadura, em nome do Senhor, foi lida como figura da vitória de Cristo, que vence o demônio não com armas de poder, mas com a fraqueza da cruz. Agostinho vê nas cinco pedras os cinco livros da Lei, e na única pedra que vence, Cristo, a pedra; o cajado de pastor é a cruz. A cabeça cortada com a própria espada do gigante anuncia a morte vencida pela morte.",
+    "moral": "Davi não confia nas armas de Saul, que não são suas, mas na experiência de Deus que já o socorreu na vida comum de pastor. A fidelidade nas pequenas lutas prepara para as grandes. Cada um deve combater com os meios que Deus lhe deu, sem imitar os outros. E o motivo da luta não é a recompensa, mas a glória de Deus: “para que toda a terra saiba”.",
+    "anagogico": "“O Senhor não salva pela espada nem pela lança”: no fim da história, a vitória será inteiramente de Deus. A cabeça do inimigo esmagada anuncia o cumprimento de Gn 3,15."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não desfaleça o coração de ninguém por causa deste Filisteu.” “O Senhor, que me livrou das garras do leão e das do urso, livrar-me-á também.” “Não posso andar assim, porque não estou acostumado.” “Escolheu na torrente cinco pedras bem lisas.” “Eu porém venho a ti em nome do Senhor dos Exércitos.” “O Senhor não salva pela espada, nem pela lança.”",
+    "meditatio_perguntas": [
+      "Que vitórias passadas de Deus me dão confiança para as lutas de hoje?",
+      "Tento lutar com “armaduras” que não são minhas?",
+      "Combato pela glória de Deus ou pela minha?"
+    ],
+    "oratio_guia": "Senhor dos exércitos, que me livraste do leão e do urso, livra-me também dos gigantes de hoje. Ensina-me a combater com as armas simples que me deste, em teu nome e para a tua glória. Amém.",
+    "contemplatio_foco": {
+      "texto": "eu porém venho a ti em nome do Senhor dos Exércitos",
+      "ref": "1Sm 17,45"
+    }
+  },
+  "ancoras": {
+    "17:40": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A funda era arma temível nas mãos de um perito; podia lançar pedras a mais de 30 m/s (cf. Jz 20,16).",
+        "origem": "ia"
+      }
+    },
+    "17:54": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jerusalém ainda era jebuseia; a menção antecipa a futura capital de Davi.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

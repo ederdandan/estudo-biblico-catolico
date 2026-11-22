@@ -1,0 +1,57 @@
+{
+  "id": "1SA.14.1",
+  "livro": "1SA",
+  "titulo": "A façanha de Jônatas",
+  "secao": "O reinado de Saul",
+  "referencia": "1Sm 14,1-23",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Não é difícil ao Senhor vencer com muitos ou com poucos: a fé audaz de Jônatas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jônatas, sem avisar o pai, diz ao seu escudeiro: vem, passemos à guarnição dos filisteus. Saul está em Gabaa, sob uma romãzeira, com seiscentos homens e o sacerdote Aías, que traz o éfode. Entre os dois acampamentos há uma garganta com rochedos escarpados. Jônatas diz: “Vem, passemos até ao acampamento destes incircuncidados; talvez o Senhor combaterá por nós, porque não é difícil ao Senhor vencer, quer com muitos, quer com poucos.” O escudeiro responde: faze tudo o que quiseres; eu te seguirei. Jônatas propõe um sinal: se nos disserem “esperai”, ficaremos; se disserem “subi”, subiremos, porque o Senhor os entregou. Os filisteus os veem: eis que os hebreus saem dos buracos! Subi cá, que vos ensinaremos uma coisa. Jônatas sobe de mãos e pés, com o escudeiro atrás, e matam uns vinte homens. Um pânico divino cai sobre o acampamento filisteu, e a terra treme. As sentinelas de Saul veem a multidão se dispersar. Saul conta os seus e percebe que faltam Jônatas e o escudeiro. Manda trazer a arca, mas o tumulto cresce, e ele interrompe a consulta. Saul e o povo avançam e encontram os filisteus matando-se uns aos outros. Os hebreus que serviam os filisteus e os que estavam escondidos juntam-se a Israel. “Naquele dia o Senhor salvou Israel.”",
+    "alegorico": "Jônatas e o seu escudeiro subindo de mãos e pés para vencer um exército foram vistos como imagem de Cristo e da Igreja que o segue: poucos, mas confiados em Deus, vencem o inimigo. A frase de Jônatas resume a teologia de toda a Bíblia: Deus salva com poucos, para que a vitória seja dele.",
+    "moral": "A fé de Jônatas contrasta com a impaciência ansiosa de Saul: o filho não age por medo, mas por confiança; não força Deus, pede um sinal e se dispõe a esperar ou avançar. O escudeiro é um modelo de fidelidade: “eu te seguirei a toda a parte”. Uma iniciativa corajosa de poucos pode despertar o ânimo de todo um povo.",
+    "anagogico": "“Não é difícil ao Senhor vencer, quer com muitos, quer com poucos”: a vitória final de Deus não depende do número dos fiéis. O pequeno rebanho herdará o Reino."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vem, passemos até ao acampamento destes incircuncidados.” “Talvez o Senhor combaterá por nós.” “Não é difícil ao Senhor vencer, quer com muitos, quer com poucos.” “Eu te seguirei a toda a parte.” “Subamos, segue-me, porque o Senhor os entregou.” “Naquele dia o Senhor salvou Israel.”",
+    "meditatio_perguntas": [
+      "A minha confiança em Deus me dá coragem para tomar iniciativas?",
+      "Sou fiel como o escudeiro aos que seguem a Deus?",
+      "Meço as possibilidades de Deus pelos meus números?"
+    ],
+    "oratio_guia": "Senhor, para quem não é difícil vencer com poucos, dá-me a fé audaz de Jônatas. Que eu suba confiando em ti e seja fiel aos que me guiam no teu caminho. Amém.",
+    "contemplatio_foco": {
+      "texto": "não é difícil ao Senhor vencer, quer com muitos, quer com poucos",
+      "ref": "1Sm 14,6"
+    }
+  },
+  "ancoras": {
+    "14:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Aías, bisneto de Heli: a casa sacerdotal de Silo continua junto de Saul, apesar da profecia de 2,31-36.",
+        "origem": "ia"
+      }
+    },
+    "14:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Setenta lê “éfode” em vez de “arca”, o que se encaixa melhor no contexto da consulta oracular.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

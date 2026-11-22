@@ -1,0 +1,49 @@
+{
+  "id": "1SA.5.1",
+  "livro": "1SA",
+  "titulo": "A arca entre os filisteus: a queda de Dagon",
+  "secao": "A arca de Deus",
+  "referencia": "1Sm 5,1-12",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "Dagon caído diante da arca: o Deus de Israel não é prisioneiro",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os filisteus levam a arca para Azoto e a colocam no templo de Dagon, junto à estátua do deus, como troféu. No dia seguinte, encontram Dagon caído com o rosto por terra diante da arca. Põem-no de novo no lugar. Na manhã seguinte, Dagon está outra vez caído, e agora a cabeça e as duas mãos estão cortadas, sobre o limiar; só o tronco ficou. Por isso, até hoje, os sacerdotes de Dagon não pisam o limiar do templo de Azoto. A mão do Senhor pesa sobre os de Azoto, que são feridos com tumores. Eles dizem: “Não fique conosco a arca do Deus de Israel, porque a sua mão carrega duramente sobre nós e sobre Dagon, nosso deus.” Os príncipes decidem levá-la a Get; ali também a mão do Senhor fere a cidade, pequenos e grandes. Levam-na a Acaron, e os acaronitas gritam: trouxeram-nos a arca para nos matar! Os príncipes concluem: devolvei a arca do Deus de Israel ao seu lugar. O clamor das cidades sobe até o céu.",
+    "alegorico": "A queda de Dagon diante da arca foi lida como a queda dos ídolos diante de Cristo: onde ele entra, os falsos deuses perdem a cabeça e as mãos, isto é, o poder de pensar e de agir. Uma tradição antiga contava que, na fuga ao Egito, os ídolos caíam à passagem do Menino Jesus.",
+    "moral": "Deus não precisa do exército de Israel para se defender: deixa-se capturar para revelar o vazio dos ídolos. Nenhum ídolo convive com o Deus vivo; mais cedo ou mais tarde, cai. Também no coração humano, não se pode pôr Deus ao lado dos ídolos como mais um troféu: ou ele reina, ou nos tornamos como os filisteus, que o rejeitam.",
+    "anagogico": "Diante do Deus vivo, todo joelho se dobrará e todos os ídolos cairão por terra. A vitória da arca anuncia a vitória final de Deus sobre tudo o que se opõe a ele."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Meteram-na no templo de Dagon e colocaram-na junto de Dagon.” “Dagon jazia com o rosto por terra diante da arca do Senhor.” “Só o tronco de Dagon tinha ficado.” “A mão do Senhor carregou pesadamente.” “Não fique conosco a arca do Deus de Israel.”",
+    "meditatio_perguntas": [
+      "Que ídolos tento manter ao lado de Deus no meu coração?",
+      "Creio que Deus é capaz de se defender, mesmo quando parece vencido?",
+      "Recuso a presença de Deus quando ela exige mudança?"
+    ],
+    "oratio_guia": "Senhor, Deus vivo, derruba os ídolos que pus ao teu lado em minha vida. Que eu não te rejeite quando a tua presença incomoda, mas te acolha como único Senhor. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não fique conosco a arca do Deus de Israel",
+      "ref": "1Sm 5,7"
+    }
+  },
+  "ancoras": {
+    "5:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os tumores (talvez ligados a uma epidemia de peste bubônica, transmitida por ratos) explicam os ratos de ouro de 6,4-5. A Vulgata e a Setenta acrescentam que ratos invadiram a região.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

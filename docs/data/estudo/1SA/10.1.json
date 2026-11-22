@@ -1,0 +1,57 @@
+{
+  "id": "1SA.10.1",
+  "livro": "1SA",
+  "titulo": "A unção de Saul",
+  "secao": "A instituição da realeza",
+  "referencia": "1Sm 10,1-16",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "Deus mudou-lhe o coração: a unção secreta de Saul",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Samuel toma um frasco de óleo, derrama-o sobre a cabeça de Saul, beija-o e diz: “O Senhor te ungiu príncipe sobre a sua herança.” Dá-lhe três sinais: junto ao sepulcro de Raquel, dois homens te dirão que as jumentas foram encontradas e que teu pai está aflito por ti; no carvalho do Tabor, três homens que sobem a Betel te darão dois pães; no outeiro de Deus, onde há uma guarnição filisteia, encontrarás um grupo de profetas descendo do lugar alto, com saltério, tamborim, flauta e harpa, profetizando. “O Espírito do Senhor se apoderará de ti, tu profetizarás com eles, e ficarás mudado noutro homem.” Quando acontecerem estes sinais, faz o que se apresentar, porque Deus está contigo. Depois desce a Galgala e espera-me sete dias. Quando Saul se volta para partir, “Deus mudou-lhe o coração em outro”, e os sinais se cumprem no mesmo dia. Em Gabaa, o espírito o arrebata, e ele profetiza no meio dos profetas. Os que o conhecem se espantam: que aconteceu ao filho de Cis? “Porventura também Saul está entre os profetas?”, e a frase se torna provérbio. Em casa, o tio lhe pergunta o que Samuel disse. Saul só conta que as jumentas foram encontradas e não diz nada sobre o reino.",
+    "alegorico": "A unção com óleo, que faz de Saul “ungido” (messias), é a primeira de uma série que culmina em Jesus, o Cristo, ungido pelo Espírito (Lc 4,18). Os sinais do pão e do Espírito que transforma antecipam os dons messiânicos e os sacramentos: a unção do Crisma comunica o Espírito que muda o coração.",
+    "moral": "Deus não só chama: transforma. “Deus mudou-lhe o coração”: a missão vem com a graça necessária. Mas a graça precisa ser guardada; o mesmo Saul que recebe um novo coração o perderá pela desobediência. A discrição de Saul diante do tio é sinal de humildade: não se gaba do que recebeu.",
+    "anagogico": "O coração novo prometido pelos profetas (Ez 36,26) será dado plenamente no Espírito de Cristo. A transformação começada na unção encontra a sua consumação na glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor te ungiu príncipe sobre a sua herança.” “O Espírito do Senhor se apoderará de ti… e ficarás mudado noutro homem.” “Faze tudo o que te ocorrer, porque o Senhor é contigo.” “Deus mudou-lhe o coração em outro.” “Porventura também Saul está entre os profetas?”",
+    "meditatio_perguntas": [
+      "Reconheço os “sinais” com que Deus confirma o meu caminho?",
+      "Deixo o Espírito mudar o meu coração, ou resisto?",
+      "Guardo com humildade os dons que recebo?"
+    ],
+    "oratio_guia": "Senhor, que unges e transformas, muda o meu coração em outro. Dá-me o teu Espírito para cumprir a missão que me confias e a humildade de guardar os teus dons. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus mudou-lhe o coração em outro",
+      "ref": "1Sm 10,9"
+    }
+  },
+  "ancoras": {
+    "10:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O sepulcro de Raquel, segundo esta tradição, ficava na fronteira de Benjamim, ao norte de Jerusalém; outra tradição o situa junto a Belém (Gn 35,19).",
+        "origem": "ia"
+      }
+    },
+    "10:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os “filhos dos profetas” eram grupos de extáticos que profetizavam com música; Samuel os dirigia em Ramá (19,20).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

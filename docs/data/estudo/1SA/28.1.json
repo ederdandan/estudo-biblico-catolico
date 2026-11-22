@@ -1,0 +1,57 @@
+{
+  "id": "1SA.28.1",
+  "livro": "1SA",
+  "titulo": "Saul e a necromante de Endor",
+  "secao": "Davi e Saul",
+  "referencia": "1Sm 28,1-25",
+  "ini": {
+    "c": 28,
+    "v": 1
+  },
+  "fim": {
+    "c": 28,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "Deus retirou-se de mim: Saul e a necromante de Endor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os filisteus se reúnem para guerrear contra Israel, e Aquis diz a Davi que deverá ir com ele à batalha. Davi responde de modo ambíguo, e Aquis o faz seu guarda-costas. Samuel morrera, e Saul tinha expulsado do país os necromantes e adivinhos. Os filisteus acampam em Sunam; Saul, no Gelboé. Ao ver o exército inimigo, Saul tem medo e o seu coração treme. Consulta o Senhor, “o qual não lhe respondeu nem por sonhos, nem por sacerdotes, nem por profetas”. Então diz aos servos: procurai-me uma mulher que evoque os mortos. Há uma em Endor. Saul se disfarça e vai de noite com dois homens: evoca para mim quem eu te disser. A mulher teme: sabes o que Saul fez aos adivinhos. Saul jura pelo Senhor, contra a lei do Senhor, que nada lhe acontecerá. Faze subir Samuel. A mulher vê Samuel, grita e reconhece Saul. Ela diz: vejo um deus subindo da terra, um ancião envolto num manto. Saul se prostra. Samuel diz: por que me perturbaste? Saul responde: “Estou em grande angústia… Deus retirou-se de mim e não me responde mais.” Samuel: para que me perguntas, se o Senhor se afastou de ti? O Senhor arrancou o reino da tua mão e o deu a Davi, porque não obedeceste no caso de Amalec; amanhã tu e os teus filhos estareis comigo. Saul cai por terra, aterrorizado e sem forças, pois não comera nada. A mulher e os servos insistem que coma; ela mata um novilho e coze pães, e eles comem e partem na mesma noite.",
+    "alegorico": "A tradição debateu se foi realmente Samuel que apareceu (Agostinho admite a possibilidade, por permissão divina; Eclo 46,23 diz que Samuel profetizou depois de morto). O sentido espiritual é claro: quem fecha os ouvidos à palavra de Deus enquanto ele fala acaba buscando-a por caminhos proibidos, e encontra apenas a confirmação do juízo. A última refeição de Saul, de noite, antes da morte, é o contrário da Ceia do Senhor: não há aliança, só desespero.",
+    "moral": "Saul expulsara os necromantes, mas, no desespero, recorre a eles: quando a fé se apaga, a superstição ocupa o lugar. O silêncio de Deus não é crueldade: é consequência de uma vida que recusou ouvir quando ele falava. A Igreja proíbe toda forma de evocação dos mortos e adivinhação (Dt 18,10-12). A compaixão da mulher, que alimenta o rei abatido, é um toque de humanidade no meio da tragédia.",
+    "anagogico": "“Amanhã tu e os teus filhos estareis comigo”: a morte é certa para todos; o que importa é ir ao encontro dela com Deus. Saul vai para a última batalha sem consolo, porque perdeu a esperança."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Teve medo, e agitou-se muito o seu coração.” “O Senhor… não lhe respondeu nem por sonhos, nem por sacerdotes, nem por profetas.” “Buscai-me uma mulher que tenha o espírito de Piton.” “Deus retirou-se de mim, não me quis ouvir.” “Para que me interrogas, quando o Senhor se afastou de ti?”",
+    "meditatio_perguntas": [
+      "Escuto Deus enquanto ele fala, ou espero o desespero?",
+      "Que superstições ocupam o lugar da fé quando tenho medo?",
+      "Como vivo os silêncios de Deus: com confiança ou com desespero?"
+    ],
+    "oratio_guia": "Senhor, não te afastes de mim. Que eu te escute enquanto falas, que não busque em caminhos proibidos o que só tu podes dar, e que na hora da angústia encontre em ti a esperança. Amém.",
+    "contemplatio_foco": {
+      "texto": "Consultou o Senhor, o qual não lhe respondeu nem por sonhos, nem por sacerdotes, nem por profetas",
+      "ref": "1Sm 28,6"
+    }
+  },
+  "ancoras": {
+    "28:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Espírito de Píton”: termo da Vulgata (pythonem) para a necromante (ba‘alat ’ob, “senhora do espírito”); Píton era o oráculo de Delfos.",
+        "origem": "ia"
+      }
+    },
+    "28:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Um deus” (’elohim) designa aqui um ser do além, não Deus.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

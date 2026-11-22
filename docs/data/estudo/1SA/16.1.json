@@ -1,0 +1,57 @@
+{
+  "id": "1SA.16.1",
+  "livro": "1SA",
+  "titulo": "A unção de Davi",
+  "secao": "Davi e Saul",
+  "referencia": "1Sm 16,1-13",
+  "ini": {
+    "c": 16,
+    "v": 1
+  },
+  "fim": {
+    "c": 16,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "O homem vê a aparência, mas o Senhor olha o coração: a unção de Davi",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor diz a Samuel: “Até quando chorarás tu Saul?” Enche o teu chifre de óleo e vai a Isaí, o belemita, porque escolhi entre os seus filhos um rei. Samuel teme: Saul me matará. O Senhor manda levar um novilho e dizer que vai oferecer sacrifício. Em Belém, os anciãos o recebem com temor: vens em paz? Em paz. Samuel convida Isaí e os filhos ao sacrifício. Ao ver Eliab, o primogênito, pensa: certamente está diante do Senhor o seu ungido. Mas o Senhor diz: “Não olhes para o seu vulto, nem para a altura da sua estatura, porque eu o rejeitei. Eu não julgo do homem pelo que aparece à vista: o homem vê o rosto, mas o Senhor olha para o coração.” Passam Abinadab, Sama e os sete filhos: o Senhor não escolheu nenhum. “Não tens mais filhos?” Falta o menor, que está apascentando as ovelhas. Mandam buscá-lo. Ele é ruivo, de belos olhos e boa aparência. “Levanta-te, unge-o, porque é esse mesmo.” Samuel toma o chifre de óleo e o unge no meio dos irmãos, e daquele dia em diante o espírito do Senhor repousa sobre Davi. Samuel volta para Ramá.",
+    "alegorico": "Davi, o mais novo, pastor de ovelhas, ungido em Belém, é a grande figura de Cristo, Filho de Davi, nascido em Belém, Bom Pastor, ungido pelo Espírito. A escolha do menor entre os irmãos é a lógica de Deus que culmina no Menino da manjedoura. O Espírito que repousa sobre Davi “daquele dia em diante” anuncia o Espírito que desce e permanece sobre Jesus (Jo 1,32).",
+    "moral": "Até o profeta se engana pela aparência. Deus corrige: o seu critério é o coração. Muitas vezes julgamos os outros, e a nós mesmos, pelo tamanho, pelo sucesso e pela imagem. Deus escolhe quem nem foi chamado para a festa, o que estava cuidando das ovelhas. E Deus tira Samuel do luto: há um tempo para chorar o que se perdeu e um tempo para encher o chifre de óleo.",
+    "anagogico": "No juízo final, Deus verá os corações, e muitos últimos serão os primeiros. A unção de Davi anuncia a do Messias, cujo reino não terá fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Até quando chorarás tu Saul?” “Enche de óleo o teu chifre e vem.” “Não olhes para o seu vulto.” “O homem vê o rosto, mas o Senhor olha para o coração.” “Ainda falta um pequeno, que anda apascentando as ovelhas.” “Levanta-te, unge-o, porque é esse mesmo.” “Comunicou-se o espírito do Senhor a Davide.”",
+    "meditatio_perguntas": [
+      "Julgo os outros pela aparência?",
+      "Que “luto” Deus me pede para deixar e encher o chifre de óleo?",
+      "Valorizo os “pequenos” que ninguém chama?"
+    ],
+    "oratio_guia": "Senhor, que olhas o coração, purifica o meu e ensina-me a olhar os outros com os teus olhos. Tira-me do luto que paralisa e unge-me com o teu Espírito para servir. Amém.",
+    "contemplatio_foco": {
+      "texto": "o homem vê o rosto, mas o Senhor olha para o coração",
+      "ref": "1Sm 16,7"
+    }
+  },
+  "ancoras": {
+    "16:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Isaí (Jessé), neto de Rute e Booz (Rt 4,17-22). O “tronco de Jessé” de Is 11,1 alude a esta família.",
+        "origem": "ia"
+      }
+    },
+    "16:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Loiro” (admoni): ruivo, de tez avermelhada; o mesmo termo se aplica a Esaú (Gn 25,25).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

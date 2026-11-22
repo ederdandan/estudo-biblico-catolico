@@ -1,0 +1,57 @@
+{
+  "id": "1SA.15.1",
+  "livro": "1SA",
+  "titulo": "Obedecer vale mais que sacrificar: Saul rejeitado",
+  "secao": "O reinado de Saul",
+  "referencia": "1Sm 15,1-35",
+  "ini": {
+    "c": 15,
+    "v": 1
+  },
+  "fim": {
+    "c": 15,
+    "v": 35
+  },
+  "liturgia": {
+    "tema_central": "A obediência vale mais que as vítimas: Saul rejeitado",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Samuel transmite a Saul a ordem do Senhor: lembrei o que Amalec fez a Israel no caminho, quando saía do Egito; vai e consagra ao anátema tudo o que lhe pertence. Saul reúne o exército, avisa os quenitas para se afastarem, porque foram bondosos com Israel, e derrota Amalec. Mas poupa Agag, o rei, e o melhor das ovelhas e dos bois; destrói só o que não presta. O Senhor diz a Samuel: “Arrependo-me de ter feito rei a Saul.” Samuel se entristece e clama ao Senhor a noite toda. Pela manhã, sabe que Saul ergueu um monumento em sua própria honra no Carmelo e desceu a Galgala. Saul o recebe: bendito sejas; cumpri a palavra do Senhor. Samuel pergunta: “E que balidos são estes de rebanhos que ressoam aos meus ouvidos?” Saul se desculpa: o povo poupou o melhor para sacrificar ao Senhor. Samuel lembra: quando eras pequeno aos teus olhos, não foste feito chefe de Israel? Por que não obedeceste? Saul insiste: obedeci; o povo é que tomou o despojo para o sacrifício. Então Samuel proclama: “Porventura quer o Senhor holocaustos e vítimas e não quer antes que se obedeça à sua voz? A obediência vale mais que as vítimas”; a rebelião é como a feitiçaria, a obstinação como a idolatria. Porque rejeitaste a palavra do Senhor, ele te rejeitou como rei. Saul confessa: pequei, temi o povo; mas pede: honra-me diante dos anciãos. Ao virar-se Samuel, Saul agarra o seu manto, que se rasga: hoje o Senhor rasgou de ti o reino. Samuel mata Agag e não vê mais Saul, mas chora por ele.",
+    "alegorico": "A frase de Samuel é retomada pelos profetas (Os 6,6) e por Jesus (Mt 9,13): “misericórdia quero, e não sacrifício”. Cristo realiza a síntese perfeita: o seu sacrifício é a sua obediência (Hb 10,5-10). O manto rasgado anuncia o reino tirado de Saul, e o véu do Templo rasgado na morte de Cristo, que abre um culto novo.",
+    "moral": "Saul é mestre em desculpas: obedece pela metade, culpa o povo, alega intenções religiosas, e, quando confessa, preocupa-se sobretudo com a própria honra. O monumento “em sua própria honra” revela o coração. “Quando eras pequeno aos teus olhos”: a humildade perdida é a raiz da queda. A obediência a Deus não se substitui por práticas religiosas, por mais generosas que pareçam.",
+    "anagogico": "Samuel chora por Saul: até o fim, Deus e os seus servos não se alegram com a perdição de ninguém. Mas a palavra de Deus não volta atrás; o que conta, no fim, é ter obedecido à sua voz."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu já cumpri a ordem do Senhor.” “Que balidos são estes de rebanhos?” “Porventura quando tu eras pequeno aos teus olhos…?” “A obediência vale mais que as vítimas.” “Pequei… temendo o povo.” “Honra-me nesta ocasião.” “Samuel chorava Saul.”",
+    "meditatio_perguntas": [
+      "Obedeço a Deus pela metade e chamo isso de obediência?",
+      "Culpo os outros pelas minhas desobediências?",
+      "Quando confesso, preocupo-me mais com a minha honra do que com a verdade?"
+    ],
+    "oratio_guia": "Senhor, ensina-me que a obediência vale mais que todos os sacrifícios. Livra-me das desculpas e da busca da minha honra, e conserva-me pequeno aos meus olhos. Amém.",
+    "contemplatio_foco": {
+      "texto": "A obediência vale mais que as vítimas",
+      "ref": "1Sm 15,22"
+    }
+  },
+  "ancoras": {
+    "15:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Amalec atacara Israel no deserto (Ex 17,8-16; Dt 25,17-19).",
+        "origem": "ia"
+      }
+    },
+    "15:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os vv. 11 e 29 se completam: Deus “se arrepende” no sentido de mudar a sua relação diante da conduta humana, mas não volta atrás na sua palavra como um homem inconstante.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

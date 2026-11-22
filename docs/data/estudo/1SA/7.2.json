@@ -1,0 +1,57 @@
+{
+  "id": "1SA.7.2",
+  "livro": "1SA",
+  "titulo": "Até aqui nos socorreu o Senhor",
+  "secao": "A arca de Deus",
+  "referencia": "1Sm 7,2-17",
+  "ini": {
+    "c": 7,
+    "v": 2
+  },
+  "fim": {
+    "c": 7,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "Até aqui nos socorreu o Senhor: Samuel em Masfa",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A arca fica em Cariatiarim muito tempo, vinte anos, e toda a casa de Israel suspira pelo Senhor. Samuel fala ao povo: se voltais ao Senhor de todo o coração, tirai do meio de vós os deuses estranhos, os baalins e as astartes, preparai o coração para o Senhor e servi só a ele, e ele vos livrará dos filisteus. Israel tira os ídolos e serve só ao Senhor. Samuel convoca o povo a Masfa: “orarei por vós ao Senhor”. Ali tiram água e a derramam diante do Senhor, jejuam e confessam: “Pecamos contra o Senhor.” Samuel julga Israel em Masfa. Os filisteus, sabendo da reunião, sobem contra Israel. O povo, com medo, pede a Samuel: não cesses de clamar por nós ao Senhor. Samuel oferece um cordeiro em holocausto e clama, e o Senhor o ouve. Enquanto oferece o sacrifício, os filisteus atacam; mas o Senhor troveja com grande estrondo sobre eles, e são desbaratados. Israel os persegue. Samuel toma uma pedra, coloca-a entre Masfa e Sen e lhe dá o nome de Ebenezer, “Pedra do Socorro”, dizendo: “Até aqui nos socorreu o Senhor.” Os filisteus são humilhados, as cidades são devolvidas, e há paz também com os amorreus. Samuel julga Israel toda a vida, percorrendo cada ano Betel, Galgala e Masfa, e volta a Ramá, onde ergue um altar.",
+    "alegorico": "Samuel, que intercede oferecendo um cordeiro enquanto Deus vence os inimigos, é figura de Cristo, mediador que se oferece como Cordeiro e intercede sem cessar por nós (Hb 7,25). A água derramada diante do Senhor foi lida como imagem do coração que se derrama em arrependimento, e do Batismo.",
+    "moral": "O caminho da vitória passa pela conversão concreta: tirar os ídolos, preparar o coração, servir só a Deus. A confissão “pecamos” e o jejum precedem a libertação. O povo pede a Samuel que não cesse de orar: a intercessão dos santos e dos pastores é força real. E a pedra de Ebenezer ensina a marcar a memória das ajudas de Deus.",
+    "anagogico": "“Até aqui” nos socorreu o Senhor: a gratidão pelo passado é penhor da esperança para o que falta. O mesmo Deus que nos trouxe até aqui nos levará até o fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Se vós tornais de todo o vosso coração para o Senhor.” “Preparai os vossos corações para o Senhor; servi a ele só.” “Pecamos contra o Senhor.” “Não cesses de clamar por nós ao Senhor nosso Deus.” “Até aqui nos socorreu o Senhor.”",
+    "meditatio_perguntas": [
+      "Que “pedras do socorro” marco na minha vida para recordar a ajuda de Deus?",
+      "Preparo o meu coração e sirvo só a Deus?",
+      "Peço a intercessão dos outros e intercedo por eles?"
+    ],
+    "oratio_guia": "Senhor, até aqui me socorreste. Ajuda-me a tirar os ídolos, a preparar o meu coração e a servir só a ti. Que eu confie que o teu socorro não faltará até o fim. Amém.",
+    "contemplatio_foco": {
+      "texto": "Até aqui nos socorreu o Senhor",
+      "ref": "1Sm 7,12"
+    }
+  },
+  "ancoras": {
+    "7:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Derramar água diante do Senhor é rito raro, talvez de penitência ou purificação (cf. Lm 2,19: “derrama o teu coração como água”).",
+        "origem": "ia"
+      }
+    },
+    "7:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ebenezer, “pedra do socorro”. O hino “Come, Thou Fount” e outros popularizaram a expressão entre os cristãos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

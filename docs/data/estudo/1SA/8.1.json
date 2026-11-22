@@ -1,0 +1,57 @@
+{
+  "id": "1SA.8.1",
+  "livro": "1SA",
+  "titulo": "Dá-nos um rei",
+  "secao": "A instituição da realeza",
+  "referencia": "1Sm 8,1-22",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Dá-nos um rei, como todas as nações: não é a ti que rejeitaram, mas a mim",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Samuel, velho, constitui os filhos juízes em Bersabeia; mas Joel e Abias não seguem os seus passos: deixam-se levar pela avareza, aceitam presentes e pervertem a justiça. Os anciãos de Israel vão a Ramá e pedem: estás velho, e os teus filhos não andam nos teus caminhos; “dá-nos um rei, que nos julgue, como o têm todas as nações”. O pedido desagrada a Samuel, que ora ao Senhor. O Senhor responde: “Ouve a voz do povo… porque não é a ti que eles rejeitaram mas a mim, para eu não reinar sobre eles.” É o que sempre fizeram desde o Egito. Ouve-os, mas adverte-os sobre o “direito do rei”. Samuel descreve: o rei tomará os vossos filhos para os seus carros e cavalos, para lavrar os seus campos e fabricar as suas armas; tomará as vossas filhas como perfumistas, cozinheiras e padeiras; tomará os melhores campos, vinhas e olivais para os seus servos; cobrará o dízimo das colheitas e dos rebanhos, e vós sereis seus escravos. Naquele dia clamareis por causa do rei que escolhestes, e o Senhor não vos ouvirá. O povo não quer ouvir: “Não; há-de haver um rei sobre nós, e seremos também como todas as nações”, que nos julgue e combata as nossas guerras. O Senhor diz a Samuel: ouve-os e dá-lhes um rei.",
+    "alegorico": "Deus concede o rei pedido com más intenções, e, por meio dessa concessão, preparará a linhagem de Davi e o Messias. A realeza que começa como rejeição de Deus será assumida por ele: o verdadeiro Rei será Deus feito homem, em quem a realeza divina e a humana coincidem.",
+    "moral": "O pedido parece razoável (os filhos de Samuel eram corruptos), mas o motivo é errado: “ser como todas as nações”. É a tentação permanente do povo de Deus: copiar o mundo e confiar em estruturas de poder em vez de Deus. Samuel, ferido, leva tudo à oração; Deus o consola: a rejeição é contra mim. E a descrição do “direito do rei” é uma das críticas mais lúcidas do poder absoluto na Antiguidade.",
+    "anagogico": "O povo que quis um rei “como as nações” aprenderá que só o Reino de Deus traz justiça verdadeira. A história caminha para o dia em que o Senhor reinará sobre todas as nações, e não as nações sobre o povo de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Dá-nos um rei, que nos julgue, como o têm todas as nações.” “Esta linguagem desagradou a Samuel… Samuel fez oração ao Senhor.” “Não é a ti que eles rejeitaram mas a mim.” “Vós próprios sereis seus servos.” “Seremos também como todas as nações.”",
+    "meditatio_perguntas": [
+      "Em que desejo “ser como todos”, deixando de lado o modo de Deus?",
+      "Quando sou rejeitado, levo a dor à oração como Samuel?",
+      "Que poderes humanos coloco no lugar de Deus?"
+    ],
+    "oratio_guia": "Senhor, meu Rei, perdoa-me as vezes em que quis ser como todos e te rejeitei. Reina sobre mim e livra-me de buscar em poderes humanos a segurança que só tu dás. Amém.",
+    "contemplatio_foco": {
+      "texto": "não é a ti que eles rejeitaram mas a mim",
+      "ref": "1Sm 8,7"
+    }
+  },
+  "ancoras": {
+    "8:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “direito do rei” (mishpat ha-melek) descreve práticas reais da época, documentadas em textos de Ugarit e Alalakh, e antecipa os abusos de Salomão (1Rs 4–5; 12,4).",
+        "origem": "ia"
+      }
+    },
+    "8:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Dt 17,14-20 já previa um rei, mas sujeito à lei e sem multiplicar cavalos, mulheres e riquezas.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

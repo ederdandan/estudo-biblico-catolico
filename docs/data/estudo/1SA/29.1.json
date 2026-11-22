@@ -1,0 +1,49 @@
+{
+  "id": "1SA.29.1",
+  "livro": "1SA",
+  "titulo": "Davi despedido pelos filisteus",
+  "secao": "Davi e Saul",
+  "referencia": "1Sm 29,1-11",
+  "ini": {
+    "c": 29,
+    "v": 1
+  },
+  "fim": {
+    "c": 29,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "És bom como um anjo de Deus, mas não agradas aos príncipes: Deus livra Davi",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os filisteus se reúnem em Afec, e Israel acampa junto à fonte de Jezrael. Os príncipes filisteus passam em revista as tropas, e Davi e os seus homens marcham na retaguarda com Aquis. Os príncipes protestam: que fazem aqui estes hebreus? Aquis defende Davi: está comigo há muito tempo e não encontrei nele culpa alguma. Mas os príncipes se irritam: manda-o embora; não desça conosco à batalha, para que não se torne nosso inimigo; com que melhor ele se reconciliaria com o seu senhor do que com as cabeças dos nossos homens? Não é este o Davi de quem cantavam: Saul matou mil, e Davi dez mil? Aquis chama Davi: tu és reto e bom aos meus olhos, mas não agradas aos príncipes; volta em paz. Davi protesta: que fiz eu, para não ir combater contra os inimigos do meu senhor o rei? Aquis insiste: “eu sei que és bom aos meus olhos, como um anjo de Deus”, mas os príncipes não querem; parte de madrugada. Davi e os seus homens voltam para a terra dos filisteus, e os filisteus sobem a Jezrael.",
+    "alegorico": "Deus livra Davi da situação impossível de combater contra o seu povo, usando a desconfiança dos próprios inimigos. A Providência guarda o ungido mesmo quando ele se meteu num caminho errado, como Cristo guarda a sua Igreja até dos seus próprios erros.",
+    "moral": "Davi se meteu numa armadilha: ou trairia Aquis, ou lutaria contra Israel. Deus o tira dela de modo inesperado. Às vezes, uma rejeição humana é a forma de Deus nos libertar. O protesto de Davi (“que fiz eu?”) talvez seja mais uma dissimulação; o texto deixa o leitor ver a mão de Deus por trás dos acontecimentos.",
+    "anagogico": "A Providência trabalha mesmo nas decisões dos inimigos. No fim, tudo concorre para o bem dos que Deus escolheu (Rm 8,28)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A que fim vêm aqui esses Hebreus?” “Não encontrei em ti nada que me desgostasse.” “Tu não agradas aos príncipes.” “Retira-te, pois, e vai em paz.” “Eu sei que és bom aos meus olhos, como um anjo de Deus.”",
+    "meditatio_perguntas": [
+      "Reconheço a mão de Deus nas portas que se fecham?",
+      "Em que armadilhas me meti das quais só Deus pode me livrar?",
+      "Aceito as rejeições como possível proteção de Deus?"
+    ],
+    "oratio_guia": "Senhor, que guardas os teus mesmo quando se desviam, livra-me das armadilhas em que entrei. Ensina-me a ver a tua mão até nas rejeições e nas portas fechadas. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu sei que és bom aos meus olhos, como um anjo de Deus",
+      "ref": "1Sm 29,9"
+    }
+  },
+  "ancoras": {
+    "29:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Afec, na planície costeira, era o ponto de reunião dos filisteus antes de subir à planície de Jezrael (cf. 4,1).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

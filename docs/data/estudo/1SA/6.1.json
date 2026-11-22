@@ -1,0 +1,57 @@
+{
+  "id": "1SA.6.1",
+  "livro": "1SA",
+  "titulo": "A volta da arca",
+  "secao": "A arca de Deus",
+  "referencia": "1Sm 6,1–7,1",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 1
+  },
+  "liturgia": {
+    "tema_central": "Quem poderá subsistir diante deste Deus santo? A volta da arca",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A arca fica sete meses na terra dos filisteus. Os sacerdotes e adivinhos aconselham: não a devolvais vazia, mas com uma oferta de reparação: cinco tumores de ouro e cinco ratos de ouro, segundo o número dos príncipes, e dai glória ao Deus de Israel; não endureçais o coração como o Faraó. Façam um carro novo, atrelem duas vacas que estejam amamentando e nunca tenham levado jugo, e prendam os bezerros em casa. Se as vacas subirem para Bet-Sames, contra o instinto que as chama aos bezerros, saberemos que foi o Deus de Israel quem nos feriu; se não, foi acaso. As vacas vão direto pela estrada de Bet-Sames, mugindo, sem se desviar. Os de Bet-Sames, que estão ceifando o trigo no vale, levantam os olhos, veem a arca e se alegram. O carro para junto de uma grande pedra; fazem lenha do carro e oferecem as vacas em holocausto. Mas alguns de Bet-Sames olham para dentro da arca com irreverência, e o Senhor os fere. Dizem então: “Quem poderá subsistir na presença do Senhor, deste Deus santo?” e pedem aos de Cariatiarim que a levem. Estes a colocam na casa de Abinadab, na colina, e consagram o seu filho Eleazar para guardá-la.",
+    "alegorico": "As vacas que deixam os bezerros e levam a arca por caminho reto, mugindo, foram vistas como imagem dos que deixam afetos naturais para levar Cristo ao mundo, com dor mas sem desviar. A arca que volta ao seu povo anuncia o retorno de Cristo ressuscitado aos seus.",
+    "moral": "Os próprios pagãos reconhecem que não se brinca com Deus: “não endureçais o coração como o Faraó”. E os israelitas de Bet-Sames aprendem que a familiaridade com as coisas santas não dispensa o respeito. A alegria pela presença de Deus deve vir acompanhada de reverência.",
+    "anagogico": "“Quem poderá subsistir na presença deste Deus santo?”: só os que forem purificados poderão ver a Deus (Mt 5,8). A santidade de Deus é ao mesmo tempo atração e temor, e o céu será a harmonia perfeita de ambos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não a remetais vazia.” “Por que endureceis os vossos corações, como o Egipto e Faraó?” “As vacas foram diretamente pela estrada… mugindo.” “Viram a arca, e alegraram-se.” “Quem poderá subsistir na presença do Senhor, deste Deus santo?”",
+    "meditatio_perguntas": [
+      "Trato as coisas santas com familiaridade sem reverência?",
+      "Alegro-me quando Deus se aproxima da minha vida?",
+      "Que afetos preciso deixar, mesmo com dor, para levar Cristo?"
+    ],
+    "oratio_guia": "Senhor, Deus santo, dá-me alegria e reverência diante da tua presença. Não permitas que eu endureça o coração nem que trate com leviandade o que é teu. Amém.",
+    "contemplatio_foco": {
+      "texto": "Quem poderá subsistir na presença do Senhor, deste Deus santo?",
+      "ref": "1Sm 6,20"
+    }
+  },
+  "ancoras": {
+    "6:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O número de mortos na Vulgata (“setenta homens e cinquenta mil do povo”) parece resultado de uma glosa; vários manuscritos têm só setenta.",
+        "origem": "ia"
+      }
+    },
+    "7:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cariatiarim (Quiriat-Jearim) guardará a arca por cerca de vinte anos, até Davi levá-la a Jerusalém (2Sm 6).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "1SA.19.1",
+  "livro": "1SA",
+  "titulo": "Micol salva Davi; Saul entre os profetas",
+  "secao": "Davi e Saul",
+  "referencia": "1Sm 19,1-24",
+  "ini": {
+    "c": 19,
+    "v": 1
+  },
+  "fim": {
+    "c": 19,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "Não peques contra sangue inocente: Micol salva Davi; Saul entre os profetas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Saul ordena a Jônatas e aos servos que matem Davi. Jônatas avisa o amigo e intercede junto ao pai: “Não peques, ó rei, contra Davi, teu servo”, que arriscou a vida, matou o filisteu e por meio de quem o Senhor salvou Israel; “por que queres pecar contra sangue inocente?” Saul se aplaca e jura: ele não morrerá. Davi volta à corte. Recomeça a guerra, Davi vence, e o espírito mau volta a Saul, que, enquanto Davi toca, tenta cravá-lo na parede com a lança; Davi foge naquela noite. Saul manda vigiar a casa para matá-lo de manhã. Micol, sua mulher, avisa: se não fugires esta noite, amanhã morrerás. Fá-lo descer pela janela, e ele escapa. Depois põe um ídolo na cama, com uma pele de cabra na cabeça e coberto com um manto. Aos mensageiros diz que Davi está doente. Saul manda trazê-lo na cama; descobrem o engano. Saul repreende Micol, que mente: ele ameaçou matar-me. Davi foge para junto de Samuel, em Ramá, e ambos vão para Naiot. Saul envia três grupos de mensageiros para prendê-lo, e todos, ao verem os profetas profetizando com Samuel, começam também a profetizar. Saul vai pessoalmente, e o espírito de Deus o toma também; ele profetiza pelo caminho, despe-se e fica caído o dia e a noite diante de Samuel. Daí o provérbio: “Também Saul está entre os profetas?”",
+    "alegorico": "Davi descido pela janela, como os espiões de Raab e como Paulo em Damasco (At 9,25), é imagem do justo protegido por Deus por meios humildes. O Espírito que desarma os perseguidores e os faz profetizar mostra que nenhum poder humano pode deter o Ungido de Deus, como na Paixão nenhum poder pôde reter Cristo no sepulcro.",
+    "moral": "Jônatas é exemplo de lealdade corajosa: defende o inocente diante do próprio pai e rei, com argumentos e respeito. Micol ama e salva, mas recorre à mentira e tem um ídolo em casa: o amor humano, mesmo verdadeiro, precisa ser purificado. E Saul, tocado pelo Espírito, não se converte: as experiências religiosas não bastam se o coração não muda.",
+    "anagogico": "Deus protege os seus de modos imprevisíveis: o Espírito que desarma o perseguidor anuncia o dia em que todo inimigo se prostrará diante do Senhor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Jónatas… amava extremosamente Davide.” “Não peques, ó rei, contra Davide, teu servo.” “Por que queres, pois, pecar contra sangue inocente?” “Ela fê-lo descer por uma janela.” “Apoderou-se também dele o Espírito do Senhor.” “Porventura também Saul está entre os profetas?”",
+    "meditatio_perguntas": [
+      "Tenho a coragem de defender um inocente diante de quem tem poder?",
+      "Uso meios desonestos mesmo para fins bons?",
+      "As minhas experiências espirituais mudam de fato o meu coração?"
+    ],
+    "oratio_guia": "Senhor, dá-me a coragem de Jônatas para defender o inocente e a verdade. Purifica os meus afetos e não permitas que as tuas visitas passem por mim sem me converter. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não peques, ó rei, contra Davide, teu servo",
+      "ref": "1Sm 19,4"
+    }
+  },
+  "ancoras": {
+    "19:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “estátua” é um terafim, ídolo doméstico (cf. Gn 31,19.34): Micol o tinha em casa.",
+        "origem": "ia"
+      }
+    },
+    "19:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Nu” pode significar apenas sem o manto exterior, em estado de êxtase.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "1SA.13.1",
+  "livro": "1SA",
+  "titulo": "O sacrifício de Saul em Galgala",
+  "secao": "O reinado de Saul",
+  "referencia": "1Sm 13,1-23",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Obrigado pela necessidade: a impaciência que custa o reino",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Saul escolhe três mil homens; Jônatas, seu filho, ataca a guarnição filisteia de Gabaa. Os filisteus reúnem um exército imenso, com carros e cavaleiros “como a areia do mar”, e acampam em Macmas. Os israelitas, apertados, escondem-se em cavernas, buracos, rochedos e cisternas; alguns fogem para além do Jordão. Saul está em Galgala, e o povo que o segue treme. Ele espera sete dias, como Samuel ordenara (10,8), mas Samuel não chega, e o povo começa a dispersar-se. Então Saul diz: trazei-me o holocausto e os sacrifícios pacíficos, e ele mesmo oferece o holocausto. Acaba de oferecê-lo quando Samuel chega. “Que fizeste?” Saul se justifica: o povo debandava, tu não vinhas no prazo, os filisteus se reuniam; pensei: virão contra mim e eu não aplaquei o Senhor; “obrigado pela necessidade, ofereci o holocausto”. Samuel responde: “Procedeste nesciamente”; se tivesses obedecido, o Senhor teria confirmado para sempre o teu reino; agora não subsistirá. “O Senhor buscará para si um homem, segundo o seu coração.” Samuel parte. Saul fica com seiscentos homens. Os filisteus enviam saqueadores pelo país. E um detalhe mostra a fraqueza de Israel: não havia ferreiro em toda a terra, para que os hebreus não fizessem espadas; para afiar as ferramentas tinham de descer aos filisteus; no dia da batalha, só Saul e Jônatas tinham espada.",
+    "alegorico": "A rejeição de Saul abre caminho ao “homem segundo o coração de Deus”, Davi (At 13,22), e, através dele, ao Filho de Davi, que obedeceu ao Pai até a morte. Saul, que usurpa o sacrifício por medo, contrasta com Cristo, sacerdote e rei, que se oferece em obediência perfeita.",
+    "moral": "O pecado de Saul parece pequeno e razoável: o povo se dispersava, o perigo era real, e ele fez um ato religioso. Mas é desobediência, e nasce do medo e da impaciência. A fé se prova na espera: aguentar até o fim do sétimo dia quando tudo parece desmoronar. “Obrigado pela necessidade” é a desculpa de muitas infidelidades. Deus busca um coração que obedeça, mais que gestos religiosos.",
+    "anagogico": "“O Senhor buscará para si um homem segundo o seu coração”: a história da salvação caminha para o Coração de Cristo, totalmente conforme ao Pai. Esperar o tempo de Deus é aprender a viver segundo esse Coração."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Esconderam-se em cavernas, em subterrâneos, entre rochedos.” “Esperou sete dias… mas Samuel não chegava.” “Trazei-me o holocausto.” “Que fizeste?” “Obrigado pela necessidade, ofereci o holocausto.” “O Senhor buscará para si um homem, segundo o seu coração.”",
+    "meditatio_perguntas": [
+      "Em que situação a impaciência me leva a agir sem esperar Deus?",
+      "Uso a “necessidade” como desculpa para desobedecer?",
+      "O meu coração é “segundo o coração de Deus”?"
+    ],
+    "oratio_guia": "Senhor, dá-me a paciência de esperar a tua hora, mesmo quando tudo parece desmoronar. Livra-me das desculpas que justificam a desobediência e faz o meu coração semelhante ao teu. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor buscará para si um homem, segundo o seu coração",
+      "ref": "1Sm 13,14"
+    }
+  },
+  "ancoras": {
+    "13:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O texto hebraico está danificado (“Saul tinha... anos... e reinou dois anos”); a Vulgata e o Matos Soares conservam as lacunas.",
+        "origem": "ia"
+      }
+    },
+    "13:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os filisteus dominavam a metalurgia do ferro, o que lhes dava vantagem militar; Israel estava na Idade do Ferro inicial.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

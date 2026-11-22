@@ -1,0 +1,57 @@
+{
+  "id": "1SA.9.1",
+  "livro": "1SA",
+  "titulo": "Saul procura as jumentas e encontra Samuel",
+  "secao": "A instituição da realeza",
+  "referencia": "1Sm 9,1-27",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "Procurando as jumentas, Saul encontra o seu destino",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Cis, benjaminita rico, tem um filho chamado Saul, jovem e belo: não havia em Israel outro mais belo, e era mais alto do que todos do ombro para cima. Perdem-se as jumentas de Cis, e ele envia Saul com um servo para procurá-las. Percorrem a montanha de Efraim, Salisa, Salim e Benjamim, sem encontrá-las. Na terra de Suf, Saul quer voltar, para que o pai não se preocupe com eles. O servo sugere: nesta cidade há um homem de Deus; tudo o que ele diz acontece; vamos lá. Não temos o que lhe oferecer, diz Saul; o servo tem um quarto de siclo de prata. Sobem e encontram moças que vão buscar água: o vidente chegou hoje, há um sacrifício no lugar alto. Na véspera, o Senhor revelara a Samuel: amanhã te enviarei um homem de Benjamim; tu o ungirás chefe do meu povo, e ele o salvará dos filisteus, porque ouvi o clamor do meu povo. Quando Samuel vê Saul, o Senhor lhe diz: “Eis o homem de quem te falei, este reinará sobre o meu povo.” Saul pergunta pela casa do vidente. Sou eu; sobe comigo, come comigo hoje; quanto às jumentas, já foram encontradas. “E de quem será tudo o que há de melhor em Israel, senão teu?” Saul se espanta: sou de Benjamim, a menor tribo, e a minha família é a menor. Samuel o põe no lugar de honra entre trinta convidados e lhe serve a porção reservada. Na manhã seguinte, ao despedi-lo, pede que o servo passe adiante: para um pouco, para que te faça ouvir a palavra de Deus.",
+    "alegorico": "Saul sai a procurar animais perdidos e encontra a sua vocação; os Padres veem aqui o modo de Deus, que nos busca quando pensamos estar buscando outra coisa. A porção reservada e o lugar de honra no banquete apontam para a eleição gratuita, que culmina no banquete do Reino.",
+    "moral": "A vocação de Saul nasce no meio de uma tarefa comum e de um aparente fracasso. Deus conduz os passos através de detalhes: o conselho de um servo, umas moças junto ao poço. Saul começa com humildade (“a menor das famílias”) e com preocupação pelo pai; são boas qualidades, que ele não saberá conservar. A beleza e a estatura impressionam os homens, mas não serão suficientes.",
+    "anagogico": "“Ouvi o clamor do meu povo”: Deus continua a responder ao clamor dos seus, enviando pastores. E reserva para cada um um lugar no seu banquete, preparado antes de chegarmos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Toma contigo um dos criados, levanta-te e vai procurar as jumentas.” “Nesta cidade há um homem de Deus.” “Eis o homem de quem te falei, este reinará sobre o meu povo.” “Não sou eu filho de Jemini, da mais pequena tribo de Israel?” “Esta é a porção reservada para ti.” “Para um pouco, para eu te fazer ouvir a palavra do Senhor.”",
+    "meditatio_perguntas": [
+      "Reconheço que Deus me encontra no meio das minhas tarefas comuns?",
+      "Escuto os conselhos simples que me levam a Deus?",
+      "Paro um pouco, cada dia, para ouvir a palavra de Deus?"
+    ],
+    "oratio_guia": "Senhor, que me buscas quando eu busco outras coisas, guia os meus passos para ti. Dá-me humildade para receber o lugar que me reservaste e silêncio para ouvir a tua palavra. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eis o homem de quem te falei, este reinará sobre o meu povo",
+      "ref": "1Sm 9,17"
+    }
+  },
+  "ancoras": {
+    "9:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Glosa antiga explicando que o “profeta” (nabi) de então chamava-se antes “vidente” (ro’eh).",
+        "origem": "ia"
+      }
+    },
+    "9:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “lugar alto” (bamah) era um santuário local no topo de uma colina, legítimo antes da construção do Templo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
