@@ -1,0 +1,57 @@
+{
+  "id": "BAR.5.1",
+  "livro": "BAR",
+  "titulo": "Tira, ó Jerusalém, os vestidos do teu luto",
+  "secao": "Consolação de Jerusalém",
+  "referencia": "Br 5,1-9",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "“Tira, ó Jerusalém, os vestidos do teu luto”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Tira, ó Jerusalém, os vestidos do teu luto e da tua aflição, e reveste-te para sempre da beleza da glória que te vem de Deus, cobre-te do manto da justiça de Deus e põe sobre a tua cabeça o diadema da glória do Eterno. Deus mostrará o teu resplendor a todos os que estão debaixo do céu. O nome, que Deus te imporá para sempre, será: Paz da justiça e glória da piedade. Levanta-te, ó Jerusalém, põe-te no alto e olha para o oriente! Vê teus filhos congregados… Quando partiram de ti, iam a pé, levados pelos inimigos; mas Deus os traz a ti conduzidos com honra, como príncipes reais. Deus determinou abaixar todos os montes altos… e encher os vales… a fim de que Israel ande com segurança… Sim, Deus conduzirá Israel com júbilo, à luz da sua majestade, com a misericórdia e a justiça que dele procedem.”",
+    "alegorico": "Leitura do 2º Domingo do Advento (ano C), junto com o anúncio de João Batista: “todo vale será aterrado, todo monte será abaixado” (Lc 3,4-6). Jerusalém revestida de glória e justiça é a Igreja, esposa adornada para o Esposo (Ap 21,2), e a alma batizada, revestida de Cristo (Gl 3,27).",
+    "moral": "Deus convida a tirar o luto: há um tempo de chorar, mas há também o tempo de vestir a alegria que vem dele. Quem foi levado “a pé, pelos inimigos” volta “como príncipe real”: a graça não só restaura, eleva. E o caminho de volta é preparado por Deus, que aplana montes e enche vales; cabe a nós caminhar.",
+    "anagogico": "“Reveste-te para sempre da beleza da glória que te vem de Deus”: a glória eterna da Jerusalém celeste, cujo nome é “Paz da justiça e glória da piedade”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Tira, ó Jerusalém, os vestidos do teu luto.” “Reveste-te para sempre da beleza da glória que te vem de Deus.” “Cobre-te do manto da justiça de Deus.” “Paz da justiça e glória da piedade.” “Levanta-te, ó Jerusalém, põe-te no alto.” “Conduzidos com honra, como príncipes reais.” “Deus conduzirá Israel com júbilo.”",
+    "meditatio_perguntas": [
+      "Que “luto” Deus me convida hoje a tirar?",
+      "Deixo-me revestir da justiça e da glória de Deus?",
+      "Preparo o caminho do Senhor no meu Advento?"
+    ],
+    "oratio_guia": "Senhor, tira de mim os vestidos do luto e reveste-me da tua glória e da tua justiça. Aplana os meus caminhos e conduz-me com júbilo à luz da tua majestade. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tira, ó Jerusalém, os vestidos do teu luto e da tua aflição",
+      "ref": "Br 5,1"
+    }
+  },
+  "ancoras": {
+    "5:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Leitura do 2º Domingo do Advento, ano C.",
+        "origem": "ia"
+      }
+    },
+    "5:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Is 40,4; Lc 3,5.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

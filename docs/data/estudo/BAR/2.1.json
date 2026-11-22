@@ -1,40 +1,57 @@
 {
   "id": "BAR.2.1",
   "livro": "BAR",
-  "titulo": "Oração dos exilados: escuta, Senhor, e tem piedade",
+  "titulo": "Oração dos exilados: ao Senhor a justiça, a nós a confusão",
   "secao": "Confissão dos exilados",
-  "referencia": "Br 2,1–3,8",
+  "referencia": "Br 2,1-35",
   "ini": {
     "c": 2,
     "v": 1
   },
   "fim": {
-    "c": 3,
-    "v": 8
+    "c": 2,
+    "v": 35
   },
   "liturgia": {
-    "tema_central": "Oração dos exilados: olha, Senhor, e ouve",
+    "tema_central": "“Ao Senhor nosso Deus pertence a justiça”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "O povo continua a confissão: Deus cumpriu a sua palavra; Israel foi entregue às nações por não ouvir a voz do Senhor. Mas suplica: “Senhor, Deus de Israel, que tiraste o teu povo do Egito com mão forte… pecamos, fomos ímpios; afaste-se de nós a tua ira”. “Olha, Senhor, da tua santa casa, pensa em nós, inclina o teu ouvido e ouve.” Não pelos méritos dos pais, mas pela misericórdia. Deus prometera que no exílio o povo voltaria a si e lhe daria um coração e ouvidos atentos, e uma aliança eterna. “Senhor todo-poderoso, Deus de Israel, uma alma angustiada clama a ti: ouve, Senhor, e tem piedade, porque pecamos.”",
-    "alegorico": "A súplica “olha da tua santa casa” é atendida quando Deus envia o Filho; a aliança eterna prometida é a Nova Aliança no sangue de Cristo.",
-    "moral": "A oração dos pecadores não se apoia em méritos, mas na misericórdia e na memória das obras de Deus. O exílio pode ser lugar de “voltar a si”, como o filho pródigo.",
-    "anagogico": "A aliança eterna, “para serem meu povo e eu o seu Deus”, aponta à comunhão definitiva da vida eterna."
+    "literal": "A oração dos exilados continua: Deus cumpriu a palavra anunciada pela Lei de Moisés; o povo foi entregue “sob a mão de todos os reinos” e ficou “escravo, não senhor, porque pecámos contra o Senhor nosso Deus não obedecendo à sua voz. Ao Senhor nosso Deus pertence a justiça, mas a nós e a nossos pais a confusão de rosto.” “Nós pecámos, procedemos com impiedade, fizemos mal.” “Ouve, Senhor, as nossas preces… livra-nos por amor de ti mesmo… Olha, Senhor, para nós da tua santa casa… inclina o teu ouvido e ouve-nos.” “Os mortos… não dão honra nem justiça ao Senhor; mas a alma que está triste… encurvada e abatida… a alma faminta, é que te dá, ó Senhor, glória e justiça.” “Não é apoiados na justiça de nossos pais… que derramamos os nossos rogos diante da tua face.” Recordam a promessa de Moisés: no cativeiro “reentrarão em si mesmos… Dar-lhes-ei um novo coração… Farei com eles uma aliança eterna, para que eu seja o seu Deus, e eles sejam o meu povo”.",
+    "alegorico": "A “aliança eterna” e o “coração novo” prometidos no exílio cumprem-se na Nova Aliança selada no sangue de Cristo (Jr 31,31-33; Lc 22,20) e no dom do Espírito que muda o coração (Ez 36,26). A oração que não se apoia nos méritos dos pais, mas só na misericórdia, é a do publicano: “tem piedade de mim, pecador” (Lc 18,13).",
+    "moral": "É um modelo de confissão comunitária: reconhecer sem desculpas (“ao Senhor a justiça, a nós a confusão”), não invocar méritos próprios, apelar à misericórdia “por amor de ti mesmo”. E uma consolação: a alma “triste, encurvada e abatida” é a que dá glória a Deus. A humildade da dor arrependida agrada mais a Deus que muitas obras.",
+    "anagogico": "“Para que eu seja o seu Deus, e eles sejam o meu povo”: a fórmula da aliança, plenamente realizada na Jerusalém celeste (Ap 21,3)."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Olha, Senhor, para nós da tua santa casa, pensa em nós, inclina o teu ouvido e ouve-nos.” “Não é em atenção à justiça de nossos pais que fazemos as nossas súplicas.” “Ouve, Senhor, tem compaixão, porque pecamos na tua presença.”",
+    "lectio_resumo": "“Ficámos escravos, não senhores, porque pecámos.” “Ao Senhor nosso Deus pertence a justiça, mas a nós… a confusão de rosto.” “Livra-nos por amor de ti mesmo.” “Inclina o teu ouvido e ouve-nos.” “A alma que está triste… é que te dá, ó Senhor, glória e justiça.” “Reentrarão em si mesmos.” “Dar-lhes-ei um novo coração.” “Uma aliança eterna.”",
     "meditatio_perguntas": [
-      "Em que “exílio” posso voltar a mim mesmo?",
+      "Reconheço os meus pecados sem desculpas?",
       "Rezo apoiado nos meus méritos ou na misericórdia de Deus?",
-      "Recordo as obras de Deus na minha história ao rezar?"
+      "Peço a Deus o coração novo da aliança?"
     ],
-    "oratio_guia": "Senhor todo-poderoso, uma alma angustiada clama a ti: ouve e tem piedade, porque pequei. Olha da tua santa casa e faze comigo a aliança eterna. Amém.",
+    "oratio_guia": "Senhor, a ti a justiça, a mim a confusão. Não me apoio nos meus méritos: livra-me por amor de ti mesmo, dá-me um coração novo e faz comigo uma aliança eterna. Amém.",
     "contemplatio_foco": {
-      "texto": "Ouve, Senhor, tem compaixão, porque pecamos na tua presença",
-      "ref": "Br 3,2"
+      "texto": "Ao Senhor nosso Deus pertence a justiça, mas a nós e a nossos pais a confusão de rosto",
+      "ref": "Br 2,6"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "2:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Dt 28,53; Lm 4,10.",
+        "origem": "ia"
+      }
+    },
+    "2:35": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Jr 31,31-33; 32,40.",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }

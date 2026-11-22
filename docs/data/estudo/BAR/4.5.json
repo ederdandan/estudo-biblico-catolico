@@ -1,40 +1,57 @@
 {
   "id": "BAR.4.5",
   "livro": "BAR",
-  "titulo": "Coragem, meu povo: tira, Jerusalém, os vestidos do luto",
+  "titulo": "Tem bom ânimo, ó povo meu: Jerusalém chora e consola os filhos",
   "secao": "Consolação de Jerusalém",
-  "referencia": "Br 4,5–5,9",
+  "referencia": "Br 4,5-37",
   "ini": {
     "c": 4,
     "v": 5
   },
   "fim": {
-    "c": 5,
-    "v": 9
+    "c": 4,
+    "v": 37
   },
   "liturgia": {
-    "tema_central": "Coragem: Jerusalém, veste a glória que vem de Deus",
+    "tema_central": "“Tem bom ânimo, ó povo meu”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "“Tende confiança, meu povo.” Fostes vendidos às nações não para a perdição, mas porque irritastes Deus sacrificando aos demônios. Jerusalém fala como mãe: vi o cativeiro dos meus filhos; criei-os com alegria e os despedi com lágrimas. “Tende bom ânimo, filhos, clamai ao Senhor, e ele vos livrará.” Como vos afastastes de Deus, voltai-vos a buscá-lo com dez vezes mais ardor. O poeta consola: “Olha, Jerusalém, para o Oriente, e vê a alegria que te vem de Deus”. No capítulo 5: “Tira, Jerusalém, o vestido do luto e da aflição e reveste-te para sempre da beleza da glória que vem de Deus”. Deus abaixará os montes e conduzirá Israel com alegria, à luz da sua glória.",
-    "alegorico": "Jerusalém mãe que despede e recebe os filhos é figura da Igreja; a luz do Oriente é Cristo, Sol nascente. O texto é lido no Advento: preparar o caminho do Senhor, aplainar os montes.",
-    "moral": "A volta a Deus deve ser mais ardente que o afastamento: “dez vezes mais”. A esperança se exprime em gestos concretos: tirar a roupa do luto, revestir-se de glória.",
-    "anagogico": "O manto da justiça e a coroa de glória do Eterno descrevem a Igreja glorificada, conduzida por Deus à luz da sua glória."
+    "literal": "Começa a consolação: “Tem bom ânimo, ó povo meu, memória de Israel. Fostes vendidos às nações, mas não para perdição.” O povo esqueceu “o Deus eterno que vos sustentou, e contristastes Jerusalém, vossa nutrice”. Jerusalém fala como mãe viúva: “Eu tinha-os criado com alegria, e vi-os partir com lágrimas e tristeza… Andai, filhos, andai, que eu fico só. Tirei o manto da paz, e vesti-me com o saco da oração; clamarei ao Altíssimo todos os dias da minha vida. Tende bom ânimo, filhos, clamai ao Senhor… Com choro e pranto vos vi partir; mas Deus vos fará voltar a mim com gozo e alegria para sempre.” “Assim como a vossa vontade vos levou a que vos desviásseis de Deus, assim também, com um ardor dez vezes maior, o buscareis, quando de novo vos converterdes.” “Tem bom ânimo, ó Jerusalém!… Olha, ó Jerusalém, para o oriente, e vê o regozijo que te vem de Deus. Pois eis aí vêm os teus filhos.”",
+    "alegorico": "Jerusalém, mãe que chora os filhos levados e reza por eles, é figura da Igreja, mãe que intercede pelos pecadores, e de Maria, que no Calvário viu partir o Filho “com choro e pranto” e o recebeu de volta na alegria da Páscoa. O retorno dos filhos “do oriente até ao ocidente” anuncia a reunião dos povos na Igreja (Mt 8,11).",
+    "moral": "O exílio não é “para perdição”: Deus castiga para converter. A mãe que troca “o manto da paz” pelo “saco da oração” ensina a interceder pelos que se afastaram. E há uma promessa para todo convertido: o ardor com que se afastou pode tornar-se “dez vezes maior” na busca de Deus, como em Agostinho ou Paulo.",
+    "anagogico": "“Deus vos fará voltar a mim com gozo e alegria para sempre”: a reunião final dos filhos de Deus na Jerusalém celeste."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Tende confiança, meu povo.” “Tende bom ânimo, filhos, clamai ao Senhor.” “Olha, ó Jerusalém, para o oriente, e vê o regozijo que te vem de Deus.” “Tira, ó Jerusalém, os vestidos do teu luto.”",
+    "lectio_resumo": "“Tem bom ânimo, ó povo meu.” “Fostes vendidos às nações, mas não para perdição.” “Vi-os partir com lágrimas e tristeza.” “Vesti-me com o saco da oração.” “Deus vos fará voltar a mim com gozo e alegria para sempre.” “Com um ardor dez vezes maior, o buscareis.” “Olha, ó Jerusalém, para o oriente.”",
     "meditatio_perguntas": [
-      "Busco a Deus com mais ardor do que aquele com que me afastei?",
-      "Que “vestido de luto” preciso tirar?",
-      "Olho para o Oriente, para Cristo que vem?"
+      "Rezo pelos que se afastaram, como a mãe Jerusalém?",
+      "Creio que o castigo de Deus não é “para perdição”?",
+      "Busco a Deus com o ardor que antes pus no pecado?"
     ],
-    "oratio_guia": "Senhor, que conduzes o teu povo com alegria, dá-me coragem. Tira de mim o vestido do luto e reveste-me da beleza da glória que vem de ti. Amém.",
+    "oratio_guia": "Senhor, que não nos entregas para a perdição, faz voltar os teus filhos com alegria. Dá-me interceder por eles e buscar-te com um ardor dez vezes maior. Amém.",
     "contemplatio_foco": {
-      "texto": "Tira, ó Jerusalém, os vestidos do teu luto e da tua aflição",
-      "ref": "Br 5,1"
+      "texto": "Fostes vendidos às nações, mas não para perdição",
+      "ref": "Br 4,6"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "4:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Br 4,5–5,9: poema de consolação, próximo de Is 40–66.",
+        "origem": "ia"
+      }
+    },
+    "4:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Lc 7,47: a quem muito se perdoa, muito ama.",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }

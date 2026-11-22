@@ -23,11 +23,25 @@
   },
   {
    "id": "BAR.2.1",
-   "titulo": "Oração dos exilados: escuta, Senhor, e tem piedade",
+   "titulo": "Oração dos exilados: ao Senhor a justiça, a nós a confusão",
    "secao": "Confissão dos exilados",
-   "referencia": "Br 2,1–3,8",
+   "referencia": "Br 2,1-35",
    "ini": {
     "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 35
+   }
+  },
+  {
+   "id": "BAR.3.1",
+   "titulo": "Uma alma angustiada clama a ti",
+   "secao": "Confissão dos exilados",
+   "referencia": "Br 3,1-8",
+   "ini": {
+    "c": 3,
     "v": 1
    },
    "fim": {
@@ -51,12 +65,26 @@
   },
   {
    "id": "BAR.4.5",
-   "titulo": "Coragem, meu povo: tira, Jerusalém, os vestidos do luto",
+   "titulo": "Tem bom ânimo, ó povo meu: Jerusalém chora e consola os filhos",
    "secao": "Consolação de Jerusalém",
-   "referencia": "Br 4,5–5,9",
+   "referencia": "Br 4,5-37",
    "ini": {
     "c": 4,
     "v": 5
+   },
+   "fim": {
+    "c": 4,
+    "v": 37
+   }
+  },
+  {
+   "id": "BAR.5.1",
+   "titulo": "Tira, ó Jerusalém, os vestidos do teu luto",
+   "secao": "Consolação de Jerusalém",
+   "referencia": "Br 5,1-9",
+   "ini": {
+    "c": 5,
+    "v": 1
    },
    "fim": {
     "c": 5,

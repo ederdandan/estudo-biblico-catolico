@@ -2,10 +2,12 @@
 # Linhas "## " abrem uma seção.
 ## Confissão dos exilados
 1:1-1:22 | A leitura do livro em Babilônia: ao Senhor a justiça, a nós a vergonha
-2:1-3:8 | Oração dos exilados: escuta, Senhor, e tem piedade
+2:1-2:35 | Oração dos exilados: ao Senhor a justiça, a nós a confusão
+3:1-3:8 | Uma alma angustiada clama a ti
 ## Elogio da Sabedoria
 3:9-4:4 | Ouve, Israel: a sabedoria é o livro dos mandamentos
 ## Consolação de Jerusalém
-4:5-5:9 | Coragem, meu povo: tira, Jerusalém, os vestidos do luto
+4:5-4:37 | Tem bom ânimo, ó povo meu: Jerusalém chora e consola os filhos
+5:1-5:9 | Tira, ó Jerusalém, os vestidos do teu luto
 ## Carta de Jeremias
 6:1-6:72 | A vaidade dos ídolos de Babilônia

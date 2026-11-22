@@ -1,0 +1,57 @@
+{
+  "id": "BAR.3.1",
+  "livro": "BAR",
+  "titulo": "Uma alma angustiada clama a ti",
+  "secao": "Confissão dos exilados",
+  "referencia": "Br 3,1-8",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 8
+  },
+  "liturgia": {
+    "tema_central": "“Uma alma angustiada clama a ti”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A oração termina com um clamor: “Senhor todo poderoso, Deus de Israel, uma alma angustiada, um espírito aflito clama a ti. Ouve, Senhor, tem compaixão, porque pecamos na tua presença. Tu permaneces eternamente; nós perecemos para sempre.” “Não te lembres das iniquidades dos nossos pais; lembra-te, sim, nesta ocasião, do teu poder e do teu nome. Sim, tu és o Senhor nosso Deus, e nós, Senhor, te louvaremos. Para isto é que puseste o teu temor em nossos corações: para que invoquemos o teu nome. Louvar-te-emos no nosso cativeiro.” Reconhecem que estão dispersos “para sentirmos a pena do pecado, segundo todas as maldades de nossos pais”.",
+    "alegorico": "O contraste “tu permaneces eternamente; nós perecemos” é a base de toda oração humilde e será superado em Cristo, que dá a vida eterna aos que perecem (Jo 10,28). O louvor “no cativeiro” prefigura a Igreja peregrina, que canta o seu Deus mesmo no exílio deste mundo (cf. Sl 137; Hb 13,14).",
+    "moral": "O temor de Deus foi posto no coração “para que invoquemos o teu nome”: o santo temor não afasta, aproxima; leva à oração. E o louvor não espera o fim do cativeiro: “louvar-te-emos no nosso cativeiro”. Louvar a Deus na prova é um ato de fé. A alma angustiada que clama já está a caminho da cura.",
+    "anagogico": "“Tu permaneces eternamente”: o Deus eterno chamará os que perecem a participar da sua vida sem fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Uma alma angustiada, um espírito aflito clama a ti.” “Ouve, Senhor, tem compaixão.” “Tu permaneces eternamente; nós perecemos.” “Lembra-te… do teu poder e do teu nome.” “Puseste o teu temor em nossos corações: para que invoquemos o teu nome.” “Louvar-te-emos no nosso cativeiro.”",
+    "meditatio_perguntas": [
+      "O meu temor de Deus leva-me a invocá-lo?",
+      "Consigo louvar a Deus no meu “cativeiro”?",
+      "Apresento a Deus a minha angústia com confiança?"
+    ],
+    "oratio_guia": "Senhor todo-poderoso, a minha alma angustiada clama a ti: ouve e tem compaixão. Tu permaneces para sempre; eu te louvarei mesmo no meu cativeiro. Amém.",
+    "contemplatio_foco": {
+      "texto": "uma alma angustiada, um espírito aflito clama a ti",
+      "ref": "Br 3,1"
+    }
+  },
+  "ancoras": {
+    "3:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Br 1,15–3,8: oração penitencial, próxima de Dn 9,4-19.",
+        "origem": "ia"
+      }
+    },
+    "3:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Oração dos mortos de Israel”: os exilados, como mortos para a sua terra.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
