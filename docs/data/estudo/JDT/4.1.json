@@ -1,0 +1,57 @@
+{
+  "id": "JDT.4.1",
+  "livro": "JDT",
+  "titulo": "Israel recorre ao jejum e à oração",
+  "secao": "A ameaça de Holofernes",
+  "referencia": "Jt 4,1-17",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "“Não combatendo com ferro, mas suplicando com santas orações”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os filhos de Israel em Judá têm “muito medo”, temendo pelo templo do Senhor. Ocupam os cumes dos montes, muram as aldeias, fazem provisões. O sumo sacerdote Eliaquim manda guardar os desfiladeiros. Mas a principal defesa é outra: “Todo o povo clamou ao Senhor com grande instância. Humilharam suas almas com jejuns e orações, eles e suas mulheres. Os sacerdotes vestiram-se de cilício, os meninos prostraram-se diante do templo do Senhor, e cobriu-se de cilício o altar do Senhor.” Eliaquim percorre Israel: “Sabei que o Senhor ouvirá as vossas súplicas, se permanecerdes constantes nos jejuns e nas orações… Lembrai-vos de Moisés, servo do Senhor, o qual, não combatendo com ferro, mas suplicando com santas orações, destroçou Amalec.” Até os que oferecem holocaustos o fazem vestidos de cilício e com cinza na cabeça. “Todos rogavam a Deus, de todo o seu coração, que visitasse o seu povo.”",
+    "alegorico": "Moisés com os braços erguidos contra Amalec (Ex 17,11) é figura de Cristo com os braços estendidos na cruz, que vence o inimigo pela oração e pelo sacrifício. O povo que jejua e reza, das crianças aos sacerdotes, é imagem da Igreja em oração unânime, como a de At 12,5 enquanto Pedro estava preso.",
+    "moral": "Israel faz o que deve: organiza a defesa. Mas sabe que a vitória vem de Deus e recorre ao jejum e à oração, todos juntos. A condição posta por Eliaquim é a perseverança: “se permanecerdes constantes”. O jejum e a penitência não são devoções antigas; são armas espirituais que Jesus recomenda (Mt 17,21).",
+    "anagogico": "O povo que roga “que Deus visite o seu povo” anuncia a visita definitiva de Deus em Cristo (Lc 1,68) e a sua vinda gloriosa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Todo o povo clamou ao Senhor com grande instância.” “Humilharam suas almas com jejuns e orações.” “Cobriu-se de cilício o altar do Senhor.” “Se permanecerdes constantes nos jejuns e nas orações.” “Não combatendo com ferro, mas suplicando com santas orações.” “Que visitasse o seu povo.”",
+    "meditatio_perguntas": [
+      "Diante das ameaças, recorro primeiro à oração?",
+      "Uso o jejum como arma espiritual?",
+      "Persevero, ou desisto quando a resposta demora?"
+    ],
+    "oratio_guia": "Senhor, ensina-me a combater não com ferro, mas com santas orações. Dá-me constância no jejum e na súplica, e visita o teu povo. Amém.",
+    "contemplatio_foco": {
+      "texto": "não combatendo com ferro, mas suplicando com santas orações",
+      "ref": "Jt 4,13"
+    }
+  },
+  "ancoras": {
+    "4:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Ex 17,8-13.",
+        "origem": "ia"
+      }
+    },
+    "4:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Eliaquim (no grego, Joaquim): sumo sacerdote; o livro não menciona rei em Judá.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

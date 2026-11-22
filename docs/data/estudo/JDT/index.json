@@ -8,11 +8,25 @@
  "pericopes": [
   {
    "id": "JDT.1.1",
-   "titulo": "Nabucodonosor quer ser deus: a campanha de Holofernes",
+   "titulo": "Arfaxad e Nabucodonosor: o coração ensoberbecido",
    "secao": "A ameaça de Holofernes",
-   "referencia": "Jt 1,1–2,18",
+   "referencia": "Jt 1,1-12",
    "ini": {
     "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 12
+   }
+  },
+  {
+   "id": "JDT.2.1",
+   "titulo": "Holofernes parte para sujeitar toda a terra",
+   "secao": "A ameaça de Holofernes",
+   "referencia": "Jt 2,1-18",
+   "ini": {
+    "c": 2,
     "v": 1
    },
    "fim": {
@@ -22,11 +36,25 @@
   },
   {
    "id": "JDT.3.1",
-   "titulo": "As nações se rendem; Israel recorre ao jejum e à oração",
+   "titulo": "As nações se rendem: só Nabucodonosor seja chamado deus",
    "secao": "A ameaça de Holofernes",
-   "referencia": "Jt 3,1–4,17",
+   "referencia": "Jt 3,1-15",
    "ini": {
     "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 15
+   }
+  },
+  {
+   "id": "JDT.4.1",
+   "titulo": "Israel recorre ao jejum e à oração",
+   "secao": "A ameaça de Holofernes",
+   "referencia": "Jt 4,1-17",
+   "ini": {
+    "c": 4,
     "v": 1
    },
    "fim": {
@@ -36,11 +64,25 @@
   },
   {
    "id": "JDT.5.1",
-   "titulo": "Aquior: o Deus de Israel defende o seu povo",
+   "titulo": "Aquior: o seu Deus os defenderá",
    "secao": "A ameaça de Holofernes",
-   "referencia": "Jt 5,1–6,21",
+   "referencia": "Jt 5,1-29",
    "ini": {
     "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 29
+   }
+  },
+  {
+   "id": "JDT.6.1",
+   "titulo": "Aquior entregue a Betúlia: o Deus do céu é o seu defensor",
+   "secao": "A ameaça de Holofernes",
+   "referencia": "Jt 6,1-21",
+   "ini": {
+    "c": 6,
     "v": 1
    },
    "fim": {
@@ -92,11 +134,25 @@
   },
   {
    "id": "JDT.10.1",
-   "titulo": "Judite no acampamento de Holofernes",
+   "titulo": "Judite parte para o acampamento: o Deus de nossos pais te dê graça",
    "secao": "Judite, a viúva fiel",
-   "referencia": "Jt 10,1–11,21",
+   "referencia": "Jt 10,1-20",
    "ini": {
     "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 20
+   }
+  },
+  {
+   "id": "JDT.11.1",
+   "titulo": "Judite diante de Holofernes",
+   "secao": "Judite, a viúva fiel",
+   "referencia": "Jt 11,1-21",
+   "ini": {
+    "c": 11,
     "v": 1
    },
    "fim": {
@@ -106,11 +162,25 @@
   },
   {
    "id": "JDT.12.1",
-   "titulo": "Senhor, dá-me força: a vitória pela mão de uma mulher",
+   "titulo": "Judite no acampamento: oração de noite e o banquete",
    "secao": "Judite, a viúva fiel",
-   "referencia": "Jt 12,1–13,31",
+   "referencia": "Jt 12,1-20",
    "ini": {
     "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 20
+   }
+  },
+  {
+   "id": "JDT.13.1",
+   "titulo": "Senhor, dá-me força: a vitória pela mão de uma mulher",
+   "secao": "Judite, a viúva fiel",
+   "referencia": "Jt 13,1-31",
+   "ini": {
+    "c": 13,
     "v": 1
    },
    "fim": {
@@ -120,11 +190,25 @@
   },
   {
    "id": "JDT.14.1",
-   "titulo": "A fuga dos assírios: tu és a glória de Jerusalém",
+   "titulo": "Aquior crê; o pânico no acampamento assírio",
    "secao": "A vitória e o cântico",
-   "referencia": "Jt 14,1–15,15",
+   "referencia": "Jt 14,1-18",
    "ini": {
     "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 18
+   }
+  },
+  {
+   "id": "JDT.15.1",
+   "titulo": "A fuga dos assírios: tu és a glória de Jerusalém",
+   "secao": "A vitória e o cântico",
+   "referencia": "Jt 15,1-15",
+   "ini": {
+    "c": 15,
     "v": 1
    },
    "fim": {

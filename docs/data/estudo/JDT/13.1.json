@@ -1,0 +1,57 @@
+{
+  "id": "JDT.13.1",
+  "livro": "JDT",
+  "titulo": "Senhor, dá-me força: a vitória pela mão de uma mulher",
+  "secao": "Judite, a viúva fiel",
+  "referencia": "Jt 13,1-31",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "“Senhor Deus, dá-me força neste momento”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quando todos se retiram, embriagados, Judite fica só na câmara; Holofernes dorme profundamente. Ela põe a criada de guarda à porta e, “em pé diante do leito, orando com lágrimas, movendo os lábios em silêncio”, reza: “Senhor Deus de Israel, dá-me força e favorece neste momento a empresa das minhas mãos.” Pega no alfange de Holofernes e, “dizendo: Senhor Deus, dá-me força neste momento”, corta-lhe a cabeça. As duas saem como para a oração e chegam a Betúlia: “Abri as portas, porque Deus é connosco.” Diante do povo reunido à luz das luminárias, Judite mostra a cabeça: “Louvai o Senhor nosso Deus, que não desamparou os que esperavam nele… o Senhor nosso Deus o degolou pela mão duma mulher.” E jura que o anjo do Senhor a guardou “sem nenhuma mácula de pecado”. Ozias abençoa-a: “Ó filha, tu és bendita do Senhor Deus Altíssimo, sobre todas as mulheres que há na terra.” Aquior, ao ver a cabeça, cai por terra e depois exclama: “O Deus de Israel será glorificado em ti.”",
+    "alegorico": "A bênção de Ozias, “bendita… sobre todas as mulheres”, é retomada por Isabel para Maria (Lc 1,42), e a liturgia aplica a Maria todo este louvor: ela é a mulher pela qual Deus esmagou a cabeça do inimigo (Gn 3,15). A vitória “pela mão duma mulher” mostra que Deus vence pela fraqueza e pela humildade, como na cruz (1Cor 1,27).",
+    "moral": "O texto deve ser lido segundo Dei Verbum 15: a violência da cena pertence à linguagem de guerra do seu tempo; o que a Escritura ensina é a força da fé e da oração diante de um mal que ameaçava todo o povo. O centro do momento decisivo é a oração: Judite reza com lágrimas e pede força. A vitória não lhe sobe à cabeça: ela atribui tudo a Deus (“louvai o Senhor”) e guarda a sua pureza.",
+    "anagogico": "“Louvai-o todos, porque é bom, porque a sua misericórdia é eterna”: o cântico dos redimidos pela vitória definitiva de Deus sobre o inimigo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Orando com lágrimas, movendo os lábios em silêncio.” “Senhor Deus, dá-me força neste momento.” “Abri as portas, porque Deus é connosco.” “Louvai o Senhor nosso Deus, que não desamparou os que esperavam nele.” “Pela mão duma mulher.” “Sem nenhuma mácula de pecado.” “Tu és bendita do Senhor Deus Altíssimo, sobre todas as mulheres.”",
+    "meditatio_perguntas": [
+      "No momento decisivo, peço força a Deus?",
+      "Atribuo a Deus as vitórias, sem me envaidecer?",
+      "Como honro Maria, a “bendita entre as mulheres”?"
+    ],
+    "oratio_guia": "Senhor Deus, dá-me força neste momento. Que, em todas as lutas, eu reze com lágrimas e te atribua toda a vitória. Com Maria, bendita entre as mulheres, louvo a tua misericórdia eterna. Amém.",
+    "contemplatio_foco": {
+      "texto": "Senhor Deus, dá-me força neste momento",
+      "ref": "Jt 13,9"
+    }
+  },
+  "ancoras": {
+    "13:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Lc 1,42. A liturgia mariana aplica a Maria Jt 13,23-25 e 15,10.",
+        "origem": "ia"
+      }
+    },
+    "13:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Sublinhado da Vulgata: Judite voltou intacta.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

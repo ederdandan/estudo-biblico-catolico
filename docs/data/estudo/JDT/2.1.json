@@ -1,0 +1,57 @@
+{
+  "id": "JDT.2.1",
+  "livro": "JDT",
+  "titulo": "Holofernes parte para sujeitar toda a terra",
+  "secao": "A ameaça de Holofernes",
+  "referencia": "Jt 2,1-18",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "“Sujeitar ao seu império toda a terra”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No décimo terceiro ano, Nabucodonosor reúne em conselho secreto os anciãos e os chefes e declara “que era sua intenção sujeitar ao seu império toda a terra”. Chama Holofernes, “chefe supremo das suas tropas”: “Vai atacar os reinos do Ocidente, principalmente aqueles que desprezaram as minhas ordens. O teu olho não perdoará a nenhum reino.” Holofernes parte com cento e vinte mil soldados de pé, doze mil frecheiros a cavalo, camelos, bois e ovelhas sem número, ouro e prata, e o exército cobre “a face da terra como gafanhotos”. Atravessa a Cilícia, destrói Melitene, saqueia os filhos de Tarsis e de Ismael, força as cidades da Mesopotâmia e de Madian, e desce aos campos de Damasco “no tempo da ceifa”, queimando as searas e cortando as vinhas. “O terror invadiu todos os habitantes da terra.”",
+    "alegorico": "Holofernes, braço do rei que se quer deus, é figura do poder do mal que avança como praga de gafanhotos (cf. Ap 9,3-7). A destruição das searas e das vinhas no tempo da ceifa mostra que o mal destrói a vida e o fruto do trabalho humano. Diante dele, a Escritura vai mostrar a força escondida da oração e da fé.",
+    "moral": "O projeto de “sujeitar toda a terra” nasce num conselho secreto e é aprovado por todos: o mal se fortalece quando ninguém tem coragem de dizer não. A ordem “o teu olho não perdoará” é o contrário do olhar misericordioso de Deus. Os grandes impérios espalham o terror; os cristãos são chamados a não se deixar dominar pelo medo.",
+    "anagogico": "O exército que cobre a terra como gafanhotos será vencido: nenhum poder, por maior que pareça, pode subsistir contra Deus no fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Sujeitar ao seu império toda a terra.” “Vai atacar os reinos do Ocidente.” “O teu olho não perdoará a nenhum reino.” “Cobriam a face da terra como gafanhotos.” “Queimou todas as searas.” “O terror invadiu todos os habitantes da terra.”",
+    "meditatio_perguntas": [
+      "Sei dizer não quando todos aprovam um projeto injusto?",
+      "O meu olhar sobre os outros é implacável ou misericordioso?",
+      "Deixo-me paralisar pelo terror diante do mal?"
+    ],
+    "oratio_guia": "Senhor, diante dos poderes que espalham o terror, guarda-me na confiança. Dá-me coragem de dizer não ao mal e um olhar que perdoa. Amém.",
+    "contemplatio_foco": {
+      "texto": "O teu olho não perdoará a nenhum reino",
+      "ref": "Jt 2,6"
+    }
+  },
+  "ancoras": {
+    "2:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Holofernes: nome de origem persa, conhecido no séc. IV a.C.",
+        "origem": "ia"
+      }
+    },
+    "2:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Destruir árvores e vinhas era proibido mesmo na guerra pela Lei de Israel (Dt 20,19).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

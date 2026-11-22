@@ -1,38 +1,38 @@
 {
   "id": "JDT.1.1",
   "livro": "JDT",
-  "titulo": "Nabucodonosor quer ser deus: a campanha de Holofernes",
+  "titulo": "Arfaxad e Nabucodonosor: o coração ensoberbecido",
   "secao": "A ameaça de Holofernes",
-  "referencia": "Jt 1,1–2,18",
+  "referencia": "Jt 1,1-12",
   "ini": {
     "c": 1,
     "v": 1
   },
   "fim": {
-    "c": 2,
-    "v": 18
+    "c": 1,
+    "v": 12
   },
   "liturgia": {
-    "tema_central": "Nabucodonosor quer ser deus: a campanha de Holofernes",
+    "tema_central": "“O seu coração ensoberbeceu-se”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Nabucodonosor, rei dos assírios em Nínive, vence Arfaxad, rei dos medos, e o seu coração se ensoberbece. Exige submissão dos povos do Ocidente, da Cilícia à Judeia; eles recusam e despedem os mensageiros com desprezo. O rei jura vingança e, em conselho, decide submeter toda a terra. Encarrega Holofernes, chefe do exército, com cento e vinte mil soldados e doze mil arqueiros, de não poupar nenhum reino. O exército cobre a terra como gafanhotos, destrói cidades, queima colheitas e espalha terror.",
-    "alegorico": "O livro de Judite é uma narrativa de caráter didático, que reúne nomes e épocas para ensinar uma verdade de fé. Nabucodonosor, que quer ser “deus da terra”, é figura de todo poder que se ergue contra Deus, e Holofernes, do mal que parece invencível. A história anuncia a vitória de Deus por meio dos pequenos.",
-    "moral": "O orgulho do poder não conhece limites: quem se faz deus destrói tudo à sua volta. O texto convida a reconhecer, em nós e na sociedade, a tentação de dominar e de ocupar o lugar de Deus.",
-    "anagogico": "Todo poder que se ergue contra Deus terá fim; a história caminha para o juízo em que só Deus reinará."
+    "literal": "Arfaxad, rei dos Medos, edifica Ecbatana, cidade “poderosíssima”, com muros de setenta côvados e torres de cem, e “gloriava-se da invencível força do seu exército”. Mas Nabucodonosor, “rei dos Assírios, que reinava na grande cidade de Nínive”, vence-o na planície de Ragau. “Então elevou-se o reino de Nabucodonosor, e o seu coração ensoberbeceu-se.” Envia mensageiros a todos os povos do Ocidente, da Cilícia à Samaria, a Jerusalém e até aos confins da Etiópia, exigindo submissão. “Mas todos, de comum acordo, protestaram, despediram-nos de mãos vazias.” Indignado, o rei “jurou, pelo seu trono e pelo seu reino, que se havia de vingar de todas elas”.",
+    "alegorico": "O livro de Judite é uma narrativa didática: os nomes e as datas misturam épocas (Nabucodonosor é chamado rei dos Assírios, em Nínive) para mostrar que o inimigo é a soma de todos os poderes que se erguem contra Deus. Nabucodonosor é a figura do orgulho do mundo; as cidades fortificadas que caem anunciam que nenhuma torre humana resiste. É a mesma lição de Babel (Gn 11).",
+    "moral": "Duas soberbas se enfrentam: a de Arfaxad, que confia nos muros, e a de Nabucodonosor, que a vitória torna mais orgulhoso. O sucesso é perigoso: “elevou-se o reino… e o seu coração ensoberbeceu-se”. Quem se sente forte começa a querer que todos se curvem diante dele. A vingança jurada “pelo seu trono” mostra um poder que já não conhece limite.",
+    "anagogico": "Os reinos que se gloriam da própria força passam; permanece só o Reino de Deus, que não será destruído (Dn 2,44)."
   },
   "lectio_divina": {
-    "lectio_resumo": "Nabucodonosor venceu Arfaxad, e o seu coração ensoberbeceu-se. Declarou que era sua intenção sujeitar ao seu império toda a terra. Chamou Holofernes e disse-lhe: “O teu olho não perdoará a nenhum reino”. O exército cobria a face da terra como gafanhotos, e o terror invadiu todos os habitantes.",
+    "lectio_resumo": "“Gloriava-se da invencível força do seu exército.” “Elevou-se o reino de Nabucodonosor, e o seu coração ensoberbeceu-se.” “Despediram-nos de mãos vazias.” “Jurou, pelo seu trono e pelo seu reino, que se havia de vingar.”",
     "meditatio_perguntas": [
-      "Onde vejo hoje poderes que querem ocupar o lugar de Deus?",
-      "Há em mim uma vontade de dominar que precisa ser convertida?",
-      "Como mantenho a esperança quando o mal parece invencível?"
+      "Em que “muros” e torres ponho a minha segurança?",
+      "O sucesso torna o meu coração mais soberbo?",
+      "Quando sou contrariado, reajo com desejo de vingança?"
     ],
-    "oratio_guia": "Senhor, só tu és Deus. Livra o mundo dos poderes que se fazem deuses e livra-me do orgulho de querer dominar. Quando o mal parecer invencível, sustenta a minha esperança. Amém.",
+    "oratio_guia": "Senhor, guarda o meu coração da soberba que nasce do sucesso. Que eu não confie nos meus muros, mas em ti, e que não me deixe dominar pela vingança. Amém.",
     "contemplatio_foco": {
-      "texto": "Declarou que era sua intenção sujeitar ao seu império toda a terra.",
-      "ref": "Jt 2,3"
+      "texto": "Então elevou-se o reino de Nabucodonosor, e o seu coração ensoberbeceu-se",
+      "ref": "Jt 1,7"
     }
   },
   "ancoras": {
@@ -40,7 +40,15 @@
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "Os nomes e datas do livro não correspondem à história conhecida (Nabucodonosor foi rei da Babilônia, não da Assíria); o autor sagrado constrói um relato exemplar para ensinar a fé.",
+        "texto": "Livro deuterocanônico; a Vulgata de S. Jerônimo segue um texto aramaico mais breve que o grego.",
+        "origem": "ia"
+      }
+    },
+    "1:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Nabucodonosor foi rei da Babilônia, não da Assíria: o anacronismo é intencional na narrativa didática.",
         "origem": "ia"
       }
     }

@@ -1,0 +1,57 @@
+{
+  "id": "JDT.15.1",
+  "livro": "JDT",
+  "titulo": "A fuga dos assírios: tu és a glória de Jerusalém",
+  "secao": "A vitória e o cântico",
+  "referencia": "Jt 15,1-15",
+  "ini": {
+    "c": 15,
+    "v": 1
+  },
+  "fim": {
+    "c": 15,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "“Tu és a glória de Jerusalém, tu a alegria de Israel”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ao saber da morte de Holofernes, o exército assírio “perdeu a razão e o conselho” e foge “pelos caminhos dos campos e pelas veredas dos outeiros”. Os israelitas perseguem-no ao som das trombetas; Ozias chama todas as cidades, e os de Betúlia recolhem os despojos: “todos, desde o mais pequeno até ao maior, ficaram ricos”. O sumo sacerdote Joaquim vem de Jerusalém com os anciãos para ver Judite, e todos a abençoam: “Tu és a glória de Jerusalém, tu a alegria de Israel, tu a honra do nosso povo. Procedeste varonilmente e o teu coração foi cheio de força. Porque amaste a castidade… por isso a mão do Senhor te fortaleceu, e serás bendita eternamente.” “Assim seja, assim seja.” Os despojos de Holofernes são dados a Judite, e o povo rejubila “ao som de harpas e cítaras”.",
+    "alegorico": "A Igreja canta na liturgia de Nossa Senhora: “Tu és a glória de Jerusalém, tu a alegria de Israel, tu a honra do nosso povo” (Tota pulchra). Judite, viúva casta fortalecida pela mão do Senhor, é figura de Maria, a Virgem por quem veio a vitória. A fuga do inimigo sem chefe anuncia a dispersão do mal diante de Cristo vitorioso.",
+    "moral": "O louvor dado a Judite liga a sua força à sua castidade: “porque amaste a castidade… a mão do Senhor te fortaleceu”. A pureza não é fraqueza; é fonte de fortaleza interior. E a vitória de uma pessoa fiel enriquece todo o povo, “do mais pequeno ao maior”. A santidade de um beneficia a todos.",
+    "anagogico": "“Serás bendita eternamente”: a glória eterna dos que venceram com a força de Deus, celebrada com harpas e cítaras na Jerusalém do céu (Ap 15,2-3)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Perderam a razão e o conselho.” “Ficaram ricos com os seus despojos.” “Tu és a glória de Jerusalém, tu a alegria de Israel, tu a honra do nosso povo.” “Procedeste varonilmente e o teu coração foi cheio de força.” “Porque amaste a castidade… a mão do Senhor te fortaleceu.” “Serás bendita eternamente.”",
+    "meditatio_perguntas": [
+      "Vejo a pureza como fonte de força?",
+      "A minha fidelidade enriquece a comunidade?",
+      "Honro Maria como glória e alegria do povo de Deus?"
+    ],
+    "oratio_guia": "Senhor, que fortaleceste Judite porque amou a castidade, dá-me um coração puro e forte. Com Maria, glória de Jerusalém e alegria de Israel, que eu seja bendito por ti eternamente. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tu és a glória de Jerusalém, tu a alegria de Israel, tu a honra do nosso povo",
+      "ref": "Jt 15,10"
+    }
+  },
+  "ancoras": {
+    "15:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto usado na liturgia mariana (Tota pulchra es, Maria).",
+        "origem": "ia"
+      }
+    },
+    "15:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Joaquim: o mesmo sumo sacerdote chamado Eliaquim em Jt 4.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

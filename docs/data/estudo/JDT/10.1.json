@@ -1,35 +1,35 @@
 {
   "id": "JDT.10.1",
   "livro": "JDT",
-  "titulo": "Judite no acampamento de Holofernes",
+  "titulo": "Judite parte para o acampamento: o Deus de nossos pais te dê graça",
   "secao": "Judite, a viúva fiel",
-  "referencia": "Jt 10,1–11,21",
+  "referencia": "Jt 10,1-20",
   "ini": {
     "c": 10,
     "v": 1
   },
   "fim": {
-    "c": 11,
-    "v": 21
+    "c": 10,
+    "v": 20
   },
   "liturgia": {
-    "tema_central": "Judite no acampamento de Holofernes",
+    "tema_central": "“O Deus de nossos pais te dê graça”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Judite tira o cilício e as vestes de viúva, lava-se, unge-se e se adorna; o texto diz que o Senhor aumentou a sua beleza porque o adorno vinha da virtude. Leva alimentos puros e sai com a serva; os anciãos a abençoam: “Assim seja”. Capturada pelos guardas assírios, diz que vem revelar a Holofernes um caminho para tomar a cidade. Diante dele, prostra-se. Holofernes a acolhe. Ela fala com astúcia: Deus está irado com o povo, que vai comer as coisas consagradas, e por isso será entregue; ela sairá todas as noites para rezar, e Deus lhe dirá quando atacar. Holofernes e os seus admiram a sua beleza e sabedoria.",
-    "alegorico": "Os Padres leram na astúcia de Judite a sabedoria com que Deus confunde o inimigo, que cai na própria armadilha. A sua beleza a serviço da libertação foi aplicada a Maria, “toda bela”, que vence o inimigo pela pureza.",
-    "moral": "O texto não propõe a mentira como modelo, mas narra, no estilo da época, a coragem de uma mulher que arrisca tudo pelo seu povo. Judite mantém a fidelidade em território inimigo: come só os seus alimentos, sai para rezar. A beleza e a inteligência são dons a serviço do bem.",
-    "anagogico": "Judite que atravessa o território inimigo sem se manchar anuncia a Igreja que caminha no mundo guardada por Deus até a vitória final."
+    "literal": "Acabada a oração, Judite levanta-se, tira o cilício e as vestes de viúva, lava-se, unge-se “da mais fina mirra”, veste os vestidos de gala e põe todos os seus enfeites. “O Senhor aumentou-lhe ainda a gentileza, porque todo este adorno procedia, não de algum mau desejo, mas de virtude.” Leva com a criada vinho, azeite, farinha, passas, pão e queijo. À porta, Ozias e os anciãos, maravilhados, não lhe perguntam nada e abençoam-na: “O Deus de nossos pais te dê graça, e corrobore com a sua fortaleza todas as resoluções do teu coração, para que Jerusalém se glorie em ti.” Todos respondem: “Assim seja, assim seja.” “Judit, orando ao Senhor, passou as portas.” Ao amanhecer, as sentinelas assírias prendem-na; ela diz que vem revelar a Holofernes o caminho para tomar a cidade. Levam-na à tenda do general, e “logo Holofernes ficou cativo de seus olhos”. Judite prostra-se diante dele, sentado sob um docel de púrpura, ouro e esmeraldas.",
+    "alegorico": "Os Padres viram em Judite, viúva casta que sai sozinha contra o inimigo do povo, uma figura da Igreja e de Maria, que vence a antiga serpente pela pureza e pela humildade. A sua beleza, que “procedia de virtude”, é imagem da beleza da alma em graça. A bênção dos anciãos antecipa a que será dada a Maria: “bendita entre as mulheres”.",
+    "moral": "Judite parte depois de rezar, e reza enquanto passa as portas. A ação nasce da oração e é acompanhada por ela. O texto insiste que o seu adorno vinha da virtude, não de mau desejo: a intenção dá o sentido aos gestos. Há também uma lição de prudência: ela leva os seus próprios alimentos para não se contaminar. A comunidade, por sua vez, abençoa sem exigir explicações: confia.",
+    "anagogico": "“Que o teu nome seja colocado no número dos santos e justos”: o desejo da comunidade é o destino dos que lutam por Deus, inscritos no livro da vida."
   },
   "lectio_divina": {
-    "lectio_resumo": "Judite tirou o cilício e se adornou. O Senhor aumentou-lhe a beleza, porque todo este adorno procedia não de mau desejo, mas de virtude. Os anciãos disseram: “O Deus de nossos pais te dê graça e fortaleça todas as resoluções do teu coração”. E todos responderam: “Assim seja, assim seja”.",
+    "lectio_resumo": "“Tirou o cilício, despiu-se dos hábitos da sua viuvez.” “Todo este adorno procedia, não de algum mau desejo, mas de virtude.” “O Deus de nossos pais te dê graça.” “Assim seja, assim seja.” “Judit, orando ao Senhor, passou as portas.” “Holofernes ficou cativo de seus olhos.”",
     "meditatio_perguntas": [
-      "Uso os meus dons (beleza, inteligência, recursos) para o bem?",
-      "Mantenho a fidelidade a Deus em ambientes hostis?",
-      "Apoio com a oração os que arriscam a vida pelos outros?"
+      "As minhas ações nascem da oração e são acompanhadas por ela?",
+      "Qual é a intenção profunda dos meus gestos e da minha aparência?",
+      "Sei abençoar e confiar em quem parte numa missão difícil?"
     ],
-    "oratio_guia": "Senhor, que todos os meus dons estejam a serviço do bem e da tua glória. Guarda-me fiel em território hostil e fortalece as resoluções do meu coração. Amém.",
+    "oratio_guia": "Senhor, que deste graça a Judite, fortalece as resoluções do meu coração. Que eu parta sempre a partir da oração e que as minhas ações procedam de virtude. Amém.",
     "contemplatio_foco": {
       "texto": "O Deus de nossos pais te dê graça, e corrobore com a sua fortaleza todas as resoluções do teu coração",
       "ref": "Jt 10,8"
@@ -40,7 +40,15 @@
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "O texto da Vulgata sublinha a intenção virtuosa de Judite.",
+        "texto": "Comentário próprio da Vulgata, que sublinha a pureza da intenção de Judite.",
+        "origem": "ia"
+      }
+    },
+    "10:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Judite leva os seus próprios alimentos para observar as leis de pureza (cf. Dn 1,8; Tb 1,12).",
         "origem": "ia"
       }
     }

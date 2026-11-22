@@ -1,40 +1,57 @@
 {
   "id": "JDT.14.1",
   "livro": "JDT",
-  "titulo": "A fuga dos assírios: tu és a glória de Jerusalém",
+  "titulo": "Aquior crê; o pânico no acampamento assírio",
   "secao": "A vitória e o cântico",
-  "referencia": "Jt 14,1–15,15",
+  "referencia": "Jt 14,1-18",
   "ini": {
     "c": 14,
     "v": 1
   },
   "fim": {
-    "c": 15,
-    "v": 15
+    "c": 14,
+    "v": 18
   },
   "liturgia": {
-    "tema_central": "A fuga dos assírios: tu és a glória de Jerusalém",
+    "tema_central": "Aquior crê; o pânico no acampamento",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Judite manda pendurar a cabeça de Holofernes nos muros e simular um ataque ao amanhecer. Aquior, vendo a maravilha, crê em Deus e é incorporado a Israel. Os assírios correm à tenda de Holofernes; o eunuco Vagao encontra o corpo decapitado e grita: “Uma mulher hebreia pôs a confusão na casa do rei”. O pânico toma o exército, que foge; os israelitas o perseguem e recolhem despojos por trinta dias. O sumo sacerdote Joaquim vem de Jerusalém com os anciãos e abençoa Judite: “Tu és a glória de Jerusalém, a alegria de Israel, a honra do nosso povo”. O povo canta com harpas e cítaras.",
-    "alegorico": "As aclamações “Tu és a glória de Jerusalém, tu a alegria de Israel, tu a honra do nosso povo” são cantadas pela Igreja em honra de Maria (antífona “Tota pulchra”). A conversão de Aquior anuncia a entrada dos pagãos na Igreja ao verem as maravilhas de Deus.",
-    "moral": "O temor que paralisa o inimigo mostra que o mal, sem a sua “cabeça”, se desfaz. A conversão de Aquior nasce de ver a obra de Deus. A castidade e a fidelidade de Judite são apresentadas como fonte da sua força.",
-    "anagogico": "A alegria e os despojos repartidos anunciam a festa eterna dos redimidos depois da vitória final sobre o mal."
+    "literal": "Judite dá as ordens: pendurar a cabeça de Holofernes nos muros e, ao nascer do sol, sair com as armas “como querendo acometê-los”; os capitães correrão à tenda e, encontrando o general decapitado, “cairá sobre eles o temor”. “Então Aquior, vendo a maravilha que o Deus de Israel tinha feito, deixadas as superstições da gentilidade, creu em Deus, circuncidou-se e foi incorporado no povo de Israel.” De manhã os israelitas saem com estrondo. No acampamento ninguém ousa acordar o general; os oficiais insistem: “saíram os ratos das suas cavernas”. Vagao entra, levanta a cortina e vê o cadáver sem cabeça; grita e rasga as vestes: “Uma mulher hebreia pôs a confusão na casa do rei Nabucodonosor.” “Um receio e um pavor extremos os invadiram… E levantou-se um clamor espantoso no meio do seu acampamento.”",
+    "alegorico": "A conversão de Aquior, o amonita que proclamou a verdade e agora “creu em Deus” e é incorporado ao povo, é figura da entrada dos gentios na Igreja (At 10,44-48). O exército sem cabeça que se desfaz anuncia o que acontece ao reino do mal quando Cristo lhe esmaga a cabeça: sem chefe, perde a força (Cl 2,15).",
+    "moral": "O que convence Aquior não é um argumento, mas “a maravilha que o Deus de Israel tinha feito”: o testemunho da ação de Deus converte. E há uma ironia: o exército que fazia tremer o mundo desmorona porque perdeu a cabeça; os israelitas, chamados “ratos das cavernas”, vencem. Deus confunde a soberba com o que é pequeno.",
+    "anagogico": "O inimigo sem cabeça e o clamor do seu acampamento anunciam a derrota final do mal; a fé de Aquior, a entrada de todos os povos na Jerusalém celeste."
   },
   "lectio_divina": {
-    "lectio_resumo": "O sumo pontífice foi de Jerusalém a Betúlia para ver Judite, e todos a abençoaram a uma voz, dizendo: “Tu és a glória de Jerusalém, tu a alegria de Israel, tu a honra do nosso povo. Procedeste varonilmente e o teu coração foi cheio de força; por isso a mão do Senhor te fortaleceu, e serás bendita eternamente”.",
+    "lectio_resumo": "“Pendurai esta cabeça no alto dos nossos muros.” “O Senhor os pisará debaixo dos vossos pés.” “Vendo a maravilha que o Deus de Israel tinha feito… creu em Deus.” “Saíram os ratos das suas cavernas.” “Uma mulher hebreia pôs a confusão na casa do rei.” “Um receio e um pavor extremos os invadiram.”",
     "meditatio_perguntas": [
-      "Que “maravilhas de Deus” já me levaram a crer mais?",
-      "Vejo em Maria a “glória de Jerusalém” e a honra do nosso povo?",
-      "Onde a minha fidelidade se torna força?"
+      "Que “maravilhas de Deus” na minha vida podem levar outros à fé?",
+      "Sinto-me pequeno diante dos poderes do mundo?",
+      "Confio que Deus confunde os soberbos com o que é fraco?"
     ],
-    "oratio_guia": "Senhor, tu és a força dos fiéis. Obrigado por Maria, glória de Jerusalém e alegria de Israel. Que, vendo as tuas maravilhas, muitos se convertam como Aquior. Amém.",
+    "oratio_guia": "Senhor, que converteste Aquior pelas tuas maravilhas, faz da minha vida um testemunho da tua ação. Confunde o orgulho do inimigo e pisa-o debaixo dos nossos pés. Amém.",
     "contemplatio_foco": {
-      "texto": "Tu és a glória de Jerusalém, tu a alegria de Israel, tu a honra do nosso povo.",
-      "ref": "Jt 15,10"
+      "texto": "vendo a maravilha que o Deus de Israel tinha feito, deixadas as superstições da gentilidade, creu em Deus",
+      "ref": "Jt 14,6"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "14:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Contraste com Dt 23,3, que excluía os amonitas: a fé abre a porta do povo de Deus.",
+        "origem": "ia"
+      }
+    },
+    "14:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 1Sm 14,11: os filisteus chamam os hebreus de gente que sai “dos buracos”.",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }

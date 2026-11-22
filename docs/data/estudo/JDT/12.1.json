@@ -1,46 +1,54 @@
 {
   "id": "JDT.12.1",
   "livro": "JDT",
-  "titulo": "Senhor, dá-me força: a vitória pela mão de uma mulher",
+  "titulo": "Judite no acampamento: oração de noite e o banquete",
   "secao": "Judite, a viúva fiel",
-  "referencia": "Jt 12,1–13,31",
+  "referencia": "Jt 12,1-20",
   "ini": {
     "c": 12,
     "v": 1
   },
   "fim": {
-    "c": 13,
-    "v": 31
+    "c": 12,
+    "v": 20
   },
   "liturgia": {
-    "tema_central": "Senhor, dá-me força: a vitória pela mão de uma mulher",
+    "tema_central": "“Permanecia pura na sua tenda”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Judite não come da mesa de Holofernes, mas dos alimentos que trouxe. Durante três dias sai à noite para se purificar e rezar, pedindo a Deus que a guie para libertar o povo. No quarto dia, Holofernes oferece um banquete e manda chamá-la, desejando-a; ele bebe vinho como nunca. Todos se retiram, e Judite fica só com ele, adormecido e embriagado. Rezando em silêncio, com lágrimas, pede: “Senhor, dá-me força neste momento”, e lhe corta a cabeça com a espada dele. Volta a Betúlia com a serva e grita: “Abri as portas, porque Deus está conosco”. Mostra a cabeça e afirma que o anjo do Senhor a guardou sem mancha. Ozias a proclama: “Bendita és tu do Senhor Deus Altíssimo, sobre todas as mulheres da terra”.",
-    "alegorico": "As palavras “bendita sobre todas as mulheres” e “nunca o teu louvor se apartará da boca dos que se lembrarem” são aplicadas pela liturgia a Maria (Lc 1,42). A cabeça cortada do inimigo evoca a serpente esmagada (Gn 3,15). Holofernes morto com a própria espada mostra o mal que se destrói a si mesmo.",
-    "moral": "A vitória vem da oração: Judite reza antes, durante e depois. A sua força não é dela: “dá-me força neste momento”. Ela volta pura, louvando a Deus e não a si mesma. O texto, de linguagem forte própria da época, ensina que Deus salva por meio dos fracos que confiam nele.",
-    "anagogico": "A vitória sobre o inimigo pela mão de uma mulher anuncia a vitória definitiva de Cristo, nascido de Maria, sobre o mal e a morte."
+    "literal": "Holofernes quer servi-la da sua mesa, mas Judite recusa: “Eu não posso agora comer dessas coisas… comerei daquelas coisas que trouxe comigo.” “Juro… que a tua serva não gastará todas estas coisas, sem que Deus faça pela minha mão o que tenho na mente.” Pede licença para sair de noite a rezar, e durante três dias “saía de noite ao vale de Betúlia, e lavava-se numa fonte de água. Ao voltar, orava ao Senhor Deus de Israel que a guiasse no seu caminho… e permanecia pura na sua tenda.” Ao quarto dia, Holofernes dá uma ceia e manda o eunuco Vagao persuadi-la a vir. Judite responde com palavras ambíguas: “Quem sou eu para contradizer o meu senhor?” Apresenta-se adornada; “o coração de Holofernes estremeceu, porque ardia de paixão por ela”. Ela come e bebe do que a criada lhe preparou, e Holofernes “bebeu vinho em demasia, tanto quanto nunca tinha bebido em sua vida”.",
+    "alegorico": "Judite que se purifica nas águas e reza cada noite no campo inimigo é figura da Igreja que, no meio do mundo, se alimenta do seu próprio alimento (a Palavra e a Eucaristia) e se purifica pelas águas do Batismo. Holofernes, vencido pela própria paixão e pela embriaguez, mostra como o pecado escraviza e cega o poderoso.",
+    "moral": "No meio do perigo, Judite tem uma regra de vida: não come da mesa do inimigo, reza de noite, purifica-se, guarda-se pura. É uma lição para viver em ambientes hostis: fidelidade nas pequenas coisas, oração regular, pureza. Holofernes, ao contrário, é escravo das paixões: a luxúria e a bebida o perdem. Quem não se domina é derrotado por si mesmo.",
+    "anagogico": "A fidelidade guardada “dia após dia” no campo inimigo prepara a vitória de Deus, que chegará na hora marcada."
   },
   "lectio_divina": {
-    "lectio_resumo": "Judite, em pé diante do leito, orando com lágrimas, disse: “Senhor Deus de Israel, dá-me força neste momento”. Voltou a Betúlia e gritou: “Abri as portas, porque Deus está conosco. Louvai o Senhor nosso Deus, que não desamparou os que esperavam nele”. Ozias disse-lhe: “Ó filha, tu és bendita do Senhor Deus Altíssimo, sobre todas as mulheres da terra”.",
+    "lectio_resumo": "“Comerei daquelas coisas que trouxe comigo.” “Sem que Deus faça pela minha mão o que tenho na mente.” “Saía de noite… e lavava-se numa fonte de água.” “Orava ao Senhor… que a guiasse no seu caminho.” “Permanecia pura na sua tenda.” “Ardia de paixão por ela.” “Bebeu vinho em demasia.”",
     "meditatio_perguntas": [
-      "Peço a Deus força “neste momento” quando enfrento uma prova?",
-      "Quando venço, dou glória a Deus ou a mim mesmo?",
-      "Como Maria e Judite me ensinam a confiar na força de Deus?"
+      "Tenho uma regra de oração que guardo também nos dias difíceis?",
+      "Como me alimento espiritualmente num ambiente hostil?",
+      "Que paixões poderiam “embriagar-me” e vencer-me?"
     ],
-    "oratio_guia": "Senhor Deus de Israel, dá-me força neste momento. Tu não abandonas os que esperam em ti. Por intercessão de Maria, bendita entre as mulheres, livra-me do mal. Amém.",
+    "oratio_guia": "Senhor, guia-me no meu caminho. Dá-me alimentar-me do teu pão, rezar fielmente e permanecer puro no meio do mundo, sem me deixar vencer pelas paixões. Amém.",
     "contemplatio_foco": {
-      "texto": "Ó filha, tu és bendita do Senhor Deus Altíssimo, sobre todas as mulheres que há na terra.",
-      "ref": "Jt 13,23"
+      "texto": "Ao voltar, orava ao Senhor Deus de Israel que a guiasse no seu caminho",
+      "ref": "Jt 12,8"
     }
   },
   "ancoras": {
-    "13:23": {
+    "12:7": {
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "Cf. Lc 1,42. A liturgia aplica estas palavras a Nossa Senhora.",
+        "texto": "Banhos rituais de purificação antes da oração.",
+        "origem": "ia"
+      }
+    },
+    "12:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Nota explicativa própria da Vulgata.",
         "origem": "ia"
       }
     }

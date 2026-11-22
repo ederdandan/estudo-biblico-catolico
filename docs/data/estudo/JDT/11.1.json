@@ -1,0 +1,57 @@
+{
+  "id": "JDT.11.1",
+  "livro": "JDT",
+  "titulo": "Judite diante de Holofernes",
+  "secao": "Judite, a viúva fiel",
+  "referencia": "Jt 11,1-21",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "“Eu, tua serva, adoro a Deus, ainda mesmo agora”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Holofernes tranquiliza-a e pergunta por que deixou o seu povo. Judite fala com astúcia: louva Nabucodonosor e a sabedoria de Holofernes, e explica que Israel pecou: pela fome e pela sede, os israelitas resolveram comer as coisas “consagradas ao Senhor seu Deus… pão, vinho e azeite”, e por isso “serão abandonados à perdição”. “Eu, tua serva, adoro a Deus, ainda mesmo agora estando diante de ti, e a tua serva sairá do campo para orar a Deus; ele me dirá quando os hás-de castigar.” Promete conduzi-lo até Jerusalém, onde o povo estará “como ovelhas que não têm pastor”. Holofernes e os servos admiram-na: “Não há sobre a terra mulher semelhante a esta, no aspecto, na formosura e no acerto das palavras.” E Holofernes diz: “Se o teu Deus me fizer isto, será ele também o meu Deus.”",
+    "alegorico": "As palavras de Judite têm duplo sentido: ela diz que Israel será entregue se pecar, o que é verdade, e que Deus “chegará aos seus fins” por Holofernes, o que se cumprirá contra ele. É a ironia do livro: o soberbo é vencido pela própria arrogância. Os Padres viram aqui como o demônio é enganado pela humildade, como na cruz, onde pensou vencer e foi vencido.",
+    "moral": "O texto deve ser lido segundo Dei Verbum 15: Judite usa a astúcia de guerra própria do seu tempo, e a Escritura a louva pela fé e pela coragem, não por cada meio usado. Santo Agostinho e Santo Tomás lembram que a mentira nunca é lícita em si. A lição permanente é outra: Judite não deixa de adorar a Deus nem no campo inimigo (“ainda mesmo agora estando diante de ti”) e guarda o tempo da oração.",
+    "anagogico": "O soberbo que pensa ter tudo nas mãos será surpreendido; os humildes que guardam a fé no meio do campo inimigo verão a salvação de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ouve as palavras da tua serva.” “O nosso Deus está de tal sorte irritado pelos pecados.” “Eu, tua serva, adoro a Deus, ainda mesmo agora estando diante de ti.” “A tua serva sairá do campo para orar a Deus.” “Não há sobre a terra mulher semelhante a esta.” “Será ele também o meu Deus.”",
+    "meditatio_perguntas": [
+      "Mantenho a oração mesmo em ambientes hostis à fé?",
+      "Uso a inteligência a serviço do bem, sem trair a verdade?",
+      "Lembro que o pecado é a verdadeira fraqueza do povo de Deus?"
+    ],
+    "oratio_guia": "Senhor, que eu te adore em todo lugar, até no campo do inimigo. Dá-me prudência e sabedoria nas palavras, sempre a serviço da verdade e do teu povo. Amém.",
+    "contemplatio_foco": {
+      "texto": "eu, tua serva, adoro a Deus, ainda mesmo agora estando diante de ti",
+      "ref": "Jt 11,14"
+    }
+  },
+  "ancoras": {
+    "11:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As primícias de trigo, vinho e azeite eram reservadas aos sacerdotes (Nm 18,12).",
+        "origem": "ia"
+      }
+    },
+    "11:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Ovelhas que não têm pastor”: cf. Nm 27,17; Mt 9,36.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

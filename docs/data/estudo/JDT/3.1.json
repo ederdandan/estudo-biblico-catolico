@@ -1,40 +1,57 @@
 {
   "id": "JDT.3.1",
   "livro": "JDT",
-  "titulo": "As nações se rendem; Israel recorre ao jejum e à oração",
+  "titulo": "As nações se rendem: só Nabucodonosor seja chamado deus",
   "secao": "A ameaça de Holofernes",
-  "referencia": "Jt 3,1–4,17",
+  "referencia": "Jt 3,1-15",
   "ini": {
     "c": 3,
     "v": 1
   },
   "fim": {
-    "c": 4,
-    "v": 17
+    "c": 3,
+    "v": 15
   },
   "liturgia": {
-    "tema_central": "As nações se rendem; Israel recorre ao jejum e à oração",
+    "tema_central": "“A fim de que só ele fosse chamado deus”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Os reis da Síria, da Mesopotâmia e de outras regiões se rendem a Holofernes, oferecendo cidades, rebanhos e famílias; mesmo assim ele destrói as cidades e os bosques sagrados, porque Nabucodonosor mandou exterminar todos os deuses para que só ele fosse adorado. Os israelitas da Judeia temem pelo Templo; ocupam os montes e fortificam as aldeias. O sumo sacerdote Eliaquim manda guardar os desfiladeiros. Todo o povo clama ao Senhor com jejuns e orações; os sacerdotes vestem-se de cilício, as crianças se prostram, e até o altar é coberto de saco. Eliaquim os exorta: lembrai-vos de Moisés, que venceu Amalec não com o ferro, mas com santas orações.",
-    "alegorico": "A resposta de Israel ao perigo, oração, jejum e penitência de todo o povo, é a resposta da Igreja nas grandes provações. Moisés com as mãos erguidas (Ex 17) é figura de Cristo de braços abertos na Cruz, que vence o inimigo.",
-    "moral": "Diante da ameaça, outros povos se rendem; Israel se prepara com prudência humana (fortificações) e, sobretudo, com oração perseverante. A fé não dispensa a ação, mas confia mais em Deus do que nas próprias forças. A penitência é comunitária: ninguém fica de fora.",
-    "anagogico": "A perseverança na oração “nesta obra que começastes” anuncia a vitória final reservada aos que vigiam e rezam até o fim."
+    "literal": "Os reis da Síria, da Mesopotâmia, da Líbia e da Cilícia enviam embaixadores a Holofernes: “Cesse a tua indignação contra nós, porque é melhor que vivamos sendo vassalos… Todas as nossas cidades… todas as nossas riquezas e famílias estão diante de ti… Nós e nossos filhos somos teus escravos. Vem a nós como um senhor pacífico.” Holofernes, sem fazer caso, desce dos montes e toma todas as cidades e os seus homens para o exército. Os principais saem-lhe ao encontro “com coroas e com archotes, dançando ao som de tambores e de flautas. Todavia, nem mesmo fazendo isto, puderam abrandar a ferocidade daquele coração, porque não só lhes destruiu as suas cidades, mas também lhes cortou os seus bosques sagrados. Efectivamente o rei Nabucodonosor tinha-lhe mandado que exterminasse todos os deuses da terra, a fim de que só ele fosse chamado deus.” Holofernes chega à Idumeia e espera trinta dias que se junte todo o exército.",
+    "alegorico": "Aqui se revela o fundo do drama: o rei quer ser adorado como único deus. É a tentação de Babel e de todo poder totalitário, e a que o Apocalipse descreve na Besta que exige ser adorada (Ap 13,4-8). Israel será o único povo que não se curva, porque adora o Deus vivo.",
+    "moral": "A rendição sem resistência não salvou os povos: mesmo dançando e coroando o invasor, foram destruídos. O mal não se aplaca com concessões. Quem se faz “escravo” para ganhar paz perde tudo. A lição atinge também a vida espiritual: as concessões ao pecado não compram paz. E por trás do projeto de domínio aparece a pretensão de ocupar o lugar de Deus.",
+    "anagogico": "Todo o que quis ser “chamado deus” cairá; no fim, “ao nome de Jesus se dobrará todo joelho” (Fl 2,10)."
   },
   "lectio_divina": {
-    "lectio_resumo": "Todo o povo clamou ao Senhor com grande instância e humilharam as suas almas com jejuns e orações. Eliaquim disse ao povo: “Sabei que o Senhor ouvirá as vossas súplicas, se permanecerdes constantes nos jejuns e nas orações. Lembrai-vos de Moisés, que, não combatendo com ferro, mas suplicando com santas orações, destroçou Amalec”.",
+    "lectio_resumo": "“É melhor que vivamos sendo vassalos.” “Nós e nossos filhos somos teus escravos.” “Vem a nós como um senhor pacífico.” “Nem mesmo fazendo isto, puderam abrandar a ferocidade daquele coração.” “A fim de que só ele fosse chamado deus.”",
     "meditatio_perguntas": [
-      "Diante de uma ameaça, rendo-me, ou recorro à oração?",
-      "A minha comunidade sabe rezar e jejuar junta nas provações?",
-      "Persevero na oração ou desisto logo?"
+      "Tento comprar a paz fazendo concessões ao mal?",
+      "Que poderes de hoje pretendem ocupar o lugar de Deus?",
+      "Estou disposto a não me curvar, como Israel?"
     ],
-    "oratio_guia": "Senhor, diante das ameaças, ensina-nos a recorrer a ti com jejum e oração perseverante. Que, como Moisés, vençamos não com o ferro, mas com santas orações. Amém.",
+    "oratio_guia": "Senhor, só tu és Deus. Não me deixes curvar diante dos ídolos do poder nem comprar uma falsa paz com concessões ao mal. Amém.",
     "contemplatio_foco": {
-      "texto": "Sabei que o Senhor ouvirá as vossas súplicas, se permanecerdes constantes nos jejuns e nas orações diante do Senhor.",
-      "ref": "Jt 4,12"
+      "texto": "a fim de que só ele fosse chamado deus",
+      "ref": "Jt 3,13"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "3:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Dn 3 e 6: a mesma tentação de culto ao rei.",
+        "origem": "ia"
+      }
+    },
+    "3:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Coroas e archotes: o cerimonial de recepção de um vencedor.",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }

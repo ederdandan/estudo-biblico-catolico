@@ -1,0 +1,57 @@
+{
+  "id": "JDT.6.1",
+  "livro": "JDT",
+  "titulo": "Aquior entregue a Betúlia: o Deus do céu é o seu defensor",
+  "secao": "A ameaça de Holofernes",
+  "referencia": "Jt 6,1-21",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "“O Deus do céu é o seu defensor”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Holofernes responde a Aquior: “vou-te mostrar que não há outro deus, senão Nabucodonosor”; e, para que partilhe a sorte de Israel, manda levá-lo a Betúlia. Os servos, atacados pelos fundibulários, deixam-no amarrado a uma árvore. Os israelitas descem, soltam-no e levam-no a Betúlia, governada por Ozias. Aquior conta tudo diante dos anciãos e do povo, e como Holofernes o queria matar “por ter dito: O Deus do céu é o seu defensor”. Então “todo o povo se prostrou com o rosto por terra adorando o Senhor”, rezando: “Senhor Deus do céu e da terra, lança os olhos para a soberba destes e considera o nosso abatimento… mostra que não desamparas os que confiam em ti, mas que humilhas os que presumem de si mesmos e se gloriam do seu poder.” Depois consolam Aquior, Ozias recebe-o em sua casa para uma ceia, e o povo passa toda a noite em oração.",
+    "alegorico": "Aquior, rejeitado pelos seus e acolhido no meio de Israel, é figura dos gentios acolhidos no povo de Deus (Ef 2,19). A oração do povo, que pede a Deus que humilhe os soberbos e não desampare os que confiam, ecoa no Magnificat: “derrubou os poderosos dos seus tronos e exaltou os humildes” (Lc 1,52).",
+    "moral": "O pagão que confessou a verdade é acolhido, consolado e convidado à mesa. A comunidade crente deve acolher quem sofre por causa da verdade. E a resposta à ameaça é a oração: o povo reza o dia inteiro e a noite inteira. A oração de Betúlia é modelo: põe diante de Deus a soberba do inimigo e a própria pequenez.",
+    "anagogico": "Deus “humilha os que presumem de si mesmos” e exalta os que nele confiam: assim será no juízo final."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não há outro deus, senão Nabucodonosor.” “O Deus do céu é o seu defensor.” “Lança os olhos para a soberba destes e considera o nosso abatimento.” “Mostra que não desamparas os que confiam em ti.” “Humilhas os que presumem de si mesmos.” “Fizeram durante toda a noite oração.”",
+    "meditatio_perguntas": [
+      "Acolho quem sofre por ter dito a verdade?",
+      "A minha oração apresenta a Deus a minha pequenez?",
+      "Confio que Deus não desampara os que nele esperam?"
+    ],
+    "oratio_guia": "Senhor Deus do céu e da terra, olha para o nosso abatimento. Mostra que não desamparas os que confiam em ti e humilhas os soberbos. Amém.",
+    "contemplatio_foco": {
+      "texto": "mostra que não desamparas os que confiam em ti",
+      "ref": "Jt 6,15"
+    }
+  },
+  "ancoras": {
+    "6:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Betúlia: cidade não identificada; o nome pode evocar “casa de Deus” ou “virgem”.",
+        "origem": "ia"
+      }
+    },
+    "6:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Lc 1,51-52.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

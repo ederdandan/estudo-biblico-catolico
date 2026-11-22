@@ -1,40 +1,57 @@
 {
   "id": "JDT.5.1",
   "livro": "JDT",
-  "titulo": "Aquior: o Deus de Israel defende o seu povo",
+  "titulo": "Aquior: o seu Deus os defenderá",
   "secao": "A ameaça de Holofernes",
-  "referencia": "Jt 5,1–6,21",
+  "referencia": "Jt 5,1-29",
   "ini": {
     "c": 5,
     "v": 1
   },
   "fim": {
-    "c": 6,
-    "v": 21
+    "c": 5,
+    "v": 29
   },
   "liturgia": {
-    "tema_central": "Aquior: o Deus de Israel defende o seu povo",
+    "tema_central": "Aquior: “o seu Deus os defenderá”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Holofernes pergunta aos chefes de Moab e Amon quem é esse povo que resiste. Aquior, chefe dos amonitas, faz um resumo da história de Israel: deixaram os deuses da Caldeia para adorar o Deus do céu; desceram ao Egito, foram libertados pelas pragas e pela travessia do mar; no deserto beberam águas tornadas doces e comeram pão do céu; venceram sem armas. Sempre que pecaram foram entregues; quando se converteram, Deus os defendeu. Conclui: se pecaram, vencê-los-ás; se não, o seu Deus os defenderá. Furioso, Holofernes manda amarrá-lo perto de Betúlia para que morra com Israel. Os israelitas o acolhem; o povo se prostra e reza o dia todo: “Mostra que não abandonas os que confiam em ti e humilhas os que presumem de si mesmos”.",
-    "alegorico": "Aquior, pagão que proclama a verdade sobre Deus e é acolhido por Israel, é figura dos gentios que reconhecem o Deus verdadeiro e entram no povo de Deus. Rejeitado pelos seus por causa da verdade, prefigura os que sofrem por anunciar Cristo.",
-    "moral": "O resumo de Aquior ensina uma chave de leitura da história: o pecado enfraquece, a conversão fortalece. Aquior paga caro por dizer a verdade aos poderosos. O povo de Betúlia acolhe o estrangeiro perseguido e reza com ele.",
-    "anagogico": "“Tu verás a ruína deles”: a esperança de que a verdade triunfará e de que os que confiam em Deus não serão abandonados se cumpre plenamente no fim."
+    "literal": "Holofernes, furioso por Israel ter fechado as passagens dos montes, pergunta aos chefes de Moab e de Amon: “Que povo é este?” Aquior, chefe dos amonitas, responde com verdade: este povo veio dos Caldeus; abandonou os muitos deuses e adorou “um só Deus do céu”, que o levou a Canaã. No Egito multiplicou-se; Deus feriu o Egito com pragas, abriu-lhes o mar “de modo que… as águas tornaram-se sólidas como um muro”, alimentou-os do céu quarenta anos. “Em toda a parte onde entraram sem arco e sem frecha… o seu Deus pelejou a favor deles e venceu. Não houve ninguém que insultasse este povo, senão quando ele se apartou do culto do Senhor.” E aconselha: “Informa-te se este povo cometeu algum pecado na presença do seu Deus… mas se este povo não ofendeu o seu Deus, nós não lhe poderemos resistir, porque o seu Deus os defenderá.” Os oficiais querem matá-lo, “a fim de que toda a gente saiba que Nabucodonosor é o deus da terra e que, fora ele, não há outro.”",
+    "alegorico": "Aquior, um pagão que proclama a história da salvação diante do inimigo, é figura dos gentios que reconhecem o Deus verdadeiro, como Raab (Js 2,9-11) e o centurião romano (Mt 27,54). O seu discurso resume a fé de Israel: a força do povo está só na fidelidade a Deus.",
+    "moral": "A lição de Aquior é simples e decisiva: Israel só é vencido quando peca. A verdadeira defesa do povo de Deus não são as armas, mas a fidelidade. E Aquior mostra coragem: diz a verdade a quem não a quer ouvir, mesmo arriscando a vida. Às vezes Deus fala pela boca de um estrangeiro.",
+    "anagogico": "O povo fiel, que Deus defende, alcançará a vitória definitiva; o pecado é o único inimigo que pode separá-lo de Deus."
   },
   "lectio_divina": {
-    "lectio_resumo": "Aquior disse: “Enquanto não pecaram contra o seu Deus, eram felizes. Se este povo não ofendeu o seu Deus, não lhe poderemos resistir, porque o seu Deus os defenderá”. O povo orou: “Senhor Deus do céu e da terra, mostra que não desamparas os que confiam em ti, mas que humilhas os que presumem de si mesmos”.",
+    "lectio_resumo": "“Que povo é este?” “Adoraram um só Deus do céu.” “O seu Deus pelejou a favor deles e venceu.” “Não houve ninguém que insultasse este povo, senão quando ele se apartou do culto do Senhor.” “Se este povo não ofendeu o seu Deus… o seu Deus os defenderá.” “Nabucodonosor é o deus da terra.”",
     "meditatio_perguntas": [
-      "Tenho coragem de dizer a verdade diante dos poderosos?",
-      "Vejo na minha vida a ligação entre pecado e fraqueza, conversão e força?",
-      "Acolho os que são perseguidos por causa da verdade?"
+      "Creio que a minha maior defesa é a fidelidade a Deus?",
+      "Tenho coragem de dizer a verdade a quem não quer ouvi-la?",
+      "Reconheço a voz de Deus também em quem não é “dos nossos”?"
     ],
-    "oratio_guia": "Senhor, mostra que não abandonas os que confiam em ti. Dá-me a coragem de Aquior para dizer a verdade, e a generosidade de Betúlia para acolher o perseguido. Amém.",
+    "oratio_guia": "Senhor, Deus do céu, que pelejas pelos que te são fiéis, guarda-me do pecado, minha única fraqueza. Dá-me a coragem de Aquior para proclamar a tua verdade. Amém.",
     "contemplatio_foco": {
-      "texto": "mostra que não desamparas os que confiam em ti, mas que humilhas os que presumem de si mesmos e se gloriam do seu poder.",
-      "ref": "Jt 6,15"
+      "texto": "o seu Deus os defenderá",
+      "ref": "Jt 5,25"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "5:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Aquior: amonita; segundo Jt 14,6, converte-se e é circuncidado.",
+        "origem": "ia"
+      }
+    },
+    "5:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Resumo da teologia deuteronomista: fidelidade traz bênção, infidelidade traz castigo.",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }
