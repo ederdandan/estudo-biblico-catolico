@@ -1,0 +1,57 @@
+{
+  "id": "1KI.12.1",
+  "livro": "1KI",
+  "titulo": "Roboão e a divisão do reino",
+  "secao": "O cisma",
+  "referencia": "1Rs 12,1-24",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "O meu dedo mínimo é mais grosso: Roboão e a divisão do reino",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Roboão vai a Siquém, onde todo Israel se reuniu para proclamá-lo rei. Jeroboão, que estava no Egito, volta, e com toda a assembleia fala a Roboão: “Teu pai impôs-nos um jugo duríssimo; tu, pois, agora, suaviza alguma coisa a dureza do governo de teu pai… e nós te serviremos.” Roboão pede três dias. Consulta os anciãos que serviram Salomão: “Se hoje fores amável com este povo e cederes, se lhe falares com brandura, eles serão teus servos para sempre.” Mas ele abandona o conselho dos anciãos e consulta os jovens que cresceram com ele, que lhe dizem: responde-lhes: “O meu dedo mínimo é mais grosso do que o costado de meu pai”; meu pai vos castigou com açoites, eu vos castigarei com escorpiões. Ao terceiro dia, Roboão responde duramente ao povo, segundo o conselho dos jovens; o Senhor assim o permitia, para cumprir a palavra de Aías. O povo responde: “Que parte temos nós com Davi? Que herança com o filho de Isaí? Às tuas tendas, ó Israel! E tu, Davi, cuida agora da tua casa.” Roboão envia Aduram, o chefe dos trabalhos forçados, e o povo o apedreja; o rei foge às pressas para Jerusalém. “E Israel separou-se da casa de Davi, até ao dia de hoje.” Proclamam Jeroboão rei de Israel; só Judá (e Benjamim) segue a casa de Davi. Roboão reúne cento e oitenta mil guerreiros para reconquistar o reino, mas a palavra de Deus vem ao homem de Deus Semeías: “Não façais guerra contra os filhos de Israel, que são vossos irmãos… porque eu é que fiz isto.” Eles obedecem e voltam.",
+    "alegorico": "O reino dividido é imagem das divisões entre os cristãos. A palavra “são vossos irmãos” ressoa em todo esforço ecumênico: a divisão, mesmo permitida por Deus como castigo, não autoriza a guerra entre irmãos. Cristo, “manso e humilde de coração”, oferece o contrário do jugo de Roboão: “o meu jugo é suave e o meu fardo é leve” (Mt 11,29-30).",
+    "moral": "O conselho dos anciãos é a regra de ouro do poder: “se hoje fores servo deste povo, ele será teu servo para sempre”. A autoridade que serve é amada; a que esmaga é rejeitada. Roboão prefere a arrogância dos companheiros que lhe dizem o que quer ouvir. E o único gesto sensato do episódio é a obediência à palavra de Semeías: renunciar à guerra fratricida.",
+    "anagogico": "O Rei messiânico reunirá as duas casas num só povo (Ez 37,15-22), e o seu jugo será leve. A unidade perdida será dom do fim dos tempos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Suaviza alguma coisa a dureza do governo de teu pai.” “Se hoje fores amável com este povo e cederes… eles serão teus servos para sempre.” “Abandonou o conselho que lhe tinham dado os anciães.” “O meu dedo mínimo é mais grosso do que o costado de meu pai.” “Que parte temos nós com Davide?” “São vossos irmãos.”",
+    "meditatio_perguntas": [
+      "Exerço a autoridade como serviço ou como domínio?",
+      "Ouço os conselhos sábios ou os que me agradam?",
+      "Trato como irmãos os cristãos separados?"
+    ],
+    "oratio_guia": "Senhor Jesus, de jugo suave e fardo leve, faz-me servo dos que me confiaste. Livra-me da arrogância e dos maus conselheiros, e reúne os teus filhos divididos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Se hoje fores amável com este povo e cederes, se lhe falares com brandura, eles serão teus servos para sempre",
+      "ref": "1Rs 12,7"
+    }
+  },
+  "ancoras": {
+    "12:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Siquém, centro tradicional das tribos do Norte, lugar da renovação da aliança (Js 24).",
+        "origem": "ia"
+      }
+    },
+    "12:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Escorpiões” designa provavelmente açoites com pontas de metal.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

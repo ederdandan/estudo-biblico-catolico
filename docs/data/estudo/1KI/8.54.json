@@ -1,0 +1,57 @@
+{
+  "id": "1KI.8.54",
+  "livro": "1KI",
+  "titulo": "A bênção e a festa da dedicação",
+  "secao": "O Templo",
+  "referencia": "1Rs 8,54-66",
+  "ini": {
+    "c": 8,
+    "v": 54
+  },
+  "fim": {
+    "c": 8,
+    "v": 66
+  },
+  "liturgia": {
+    "tema_central": "Que o vosso coração seja todo para o Senhor: a bênção e a festa",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Acabada a oração, Salomão se levanta de diante do altar, onde estava de joelhos com as mãos estendidas para o céu, põe-se de pé e abençoa toda a assembleia em alta voz: “Bendito seja o Senhor, que deu descanso ao seu povo de Israel, conforme todas as promessas que tinha feito: não falhou nem sequer numa palavra” do que prometeu por Moisés. O Senhor nosso Deus esteja conosco como esteve com os nossos pais; não nos abandone nem nos rejeite; incline os nossos corações para ele, para que andemos nos seus caminhos. Que estas minhas palavras estejam presentes diante do Senhor dia e noite, para que faça justiça ao seu servo e ao seu povo, e todos os povos da terra saibam que o Senhor é Deus e não há outro. “Que o vosso coração seja todo para o Senhor, nosso Deus.” O rei e todo Israel oferecem sacrifícios: vinte e dois mil bois e cento e vinte mil ovelhas; o rei consagra o meio do átrio, porque o altar de bronze era pequeno demais. Celebram a festa sete dias, e mais sete, com uma multidão vinda desde a entrada de Emat até a torrente do Egito. No oitavo dia, Salomão despede o povo, que abençoa o rei e volta para as suas tendas “alegre, com o coração contente, por todos os bens que o Senhor tinha feito a Davi, seu servo, e a Israel, seu povo”.",
+    "alegorico": "A bênção do rei sobre o povo reunido prefigura a bênção de Cristo ressuscitado sobre os discípulos (Lc 24,50) e a bênção final da liturgia. A festa de sete dias, coroada no oitavo, foi lida como figura da vida presente e do “oitavo dia” da ressurreição.",
+    "moral": "A bênção de Salomão pede o essencial: que Deus incline os nossos corações para ele. Sozinhos não conseguimos ser fiéis. O desejo “que o vosso coração seja todo para o Senhor” é o programa de toda a vida espiritual, e é a frase que Salomão mesmo, no fim, não cumprirá (11,4). A liturgia termina em alegria: quem recorda os bens de Deus volta para casa com o coração contente.",
+    "anagogico": "“Não falhou nem uma palavra”: a fidelidade de Deus, já experimentada, garante a esperança das promessas futuras, até a festa sem fim do oitavo dia."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não falhou, nem sequer numa palavra.” “O Senhor nosso Deus seja conosco, como foi com nossos pais.” “Que incline os nossos corações para ele.” “Que o vosso coração seja todo para o Senhor, nosso Deus.” “Alegres, com o coração contente, por todos os bens que o Senhor tinha feito.”",
+    "meditatio_perguntas": [
+      "O meu coração é “todo” para o Senhor ou está dividido?",
+      "Peço a Deus que incline o meu coração para ele?",
+      "Saio da liturgia com o coração contente pelos bens de Deus?"
+    ],
+    "oratio_guia": "Senhor, que não falhaste nenhuma das tuas promessas, inclina o meu coração para ti e não me abandones. Que o meu coração seja inteiramente teu, e eu volte para casa alegre pelos teus bens. Amém.",
+    "contemplatio_foco": {
+      "texto": "Que o vosso coração seja todo para o Senhor, nosso Deus",
+      "ref": "1Rs 8,61"
+    }
+  },
+  "ancoras": {
+    "8:65": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "De Emat (no norte da Síria) até a torrente do Egito (Wadi el-Arish): as fronteiras ideais da terra prometida.",
+        "origem": "ia"
+      }
+    },
+    "8:63": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os números grandiosos exprimem a magnificência da dedicação; 2Cr 7 reproduz o relato com acréscimos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

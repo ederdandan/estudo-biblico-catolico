@@ -1,0 +1,57 @@
+{
+  "id": "1KI.8.1",
+  "livro": "1KI",
+  "titulo": "A arca entra no Templo: a glória enche a casa",
+  "secao": "O Templo",
+  "referencia": "1Rs 8,1-21",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "A glória do Senhor encheu a casa do Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Salomão reúne em Jerusalém os anciãos, os chefes das tribos e todo Israel, no mês de Etanim, na festa, para fazer subir a arca da aliança da cidade de Davi, Sião. Os sacerdotes levam a arca, e com ela a tenda da reunião e os objetos sagrados. O rei e todo o povo sacrificam ovelhas e bois em número incontável. Os sacerdotes colocam a arca no santuário, o Santo dos Santos, sob as asas dos querubins, que cobrem a arca e os varais. “Na arca não havia senão as duas tábuas de pedra, que Moisés tinha metido nela em Horeb”, quando o Senhor fez aliança com Israel. Quando os sacerdotes saem do santuário, “uma névoa encheu a casa do Senhor, e os sacerdotes não podiam ter-se em pé nem fazer as funções do seu ministério, por causa da névoa, porque a glória do Senhor tinha enchido a casa do Senhor”. Salomão diz: o Senhor declarou que habitaria na obscuridade; eu edifiquei esta casa para tua morada, para teu trono para sempre. Volta-se, abençoa a assembleia de Israel e diz: bendito o Senhor, que cumpriu com a sua mão o que prometera com a sua boca a Davi; não escolhi cidade para edificar a casa, mas escolhi Davi; o teu pai quis edificá-la e fez bem, mas o teu filho a edificará. O Senhor cumpriu a sua palavra; e aqui pus um lugar para a arca, onde está a aliança do Senhor.",
+    "alegorico": "A nuvem que enche o Templo, como encheu a tenda no deserto (Ex 40,34), anuncia a sombra do Espírito que cobre Maria na Anunciação (Lc 1,35) e a nuvem da Transfiguração. A arca com as tábuas da lei, colocada no santuário, é figura de Maria, que traz em si o Verbo, e da Eucaristia no tabernáculo.",
+    "moral": "O centro do Templo não é o ouro, mas as tábuas da aliança: a palavra de Deus. A presença de Deus é tão grande que os sacerdotes não podem cumprir o seu ofício: a liturgia verdadeira é obra de Deus, não nossa. E Deus habita na “obscuridade”: a fé o encontra no mistério, não na evidência.",
+    "anagogico": "A glória que enche a casa é antecipação da glória que encherá a terra inteira e da visão face a face, quando Deus for tudo em todos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Os sacerdotes tomaram a arca.” “Na arca não havia senão as duas tábuas de pedra.” “Uma névoa encheu a casa do Senhor.” “A glória do Senhor tinha enchido a casa do Senhor.” “O Senhor declarou que habitaria na obscuridade.” “Eu edifiquei esta casa para tua morada.”",
+    "meditatio_perguntas": [
+      "Deixo que a glória de Deus “encha” a minha oração, sem querer controlar tudo?",
+      "A palavra de Deus está no centro da minha vida?",
+      "Sei encontrar Deus na “obscuridade” da fé?"
+    ],
+    "oratio_guia": "Senhor, que habitas na nuvem e encheste o teu templo de glória, enche o meu coração com a tua presença. Que a tua palavra esteja no centro de mim, como as tábuas na arca. Amém.",
+    "contemplatio_foco": {
+      "texto": "a glória do Senhor tinha enchido a casa do Senhor",
+      "ref": "1Rs 8,11"
+    }
+  },
+  "ancoras": {
+    "8:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Etanim, sétimo mês, no outono, quando se celebrava a festa das Tendas.",
+        "origem": "ia"
+      }
+    },
+    "8:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Hb 9,4 menciona também a urna do maná e a vara de Aarão na arca; aqui o texto insiste em que só as tábuas estavam ali.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

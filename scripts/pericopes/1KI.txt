@@ -1,0 +1,37 @@
+# Divisão em perícopes (numeração Matos Soares / Vulgata: 3 Reis). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## A sucessão de Davi
+1:1-1:53 | Salomão ungido rei
+2:1-2:12 | O testamento e a morte de Davi
+2:13-2:46 | Salomão consolida o reino
+## A sabedoria de Salomão
+3:1-3:15 | O sonho de Gabaon: um coração dócil
+3:16-3:28 | O julgamento das duas mães
+4:1-4:34 | A prosperidade e a sabedoria de Salomão
+## O Templo
+5:1-5:18 | A aliança com Hirão e os preparativos
+6:1-6:38 | A construção do Templo
+7:1-7:51 | O palácio e as obras de bronze
+8:1-8:21 | A arca entra no Templo: a glória enche a casa
+8:22-8:53 | A oração de Salomão na dedicação
+8:54-8:66 | A bênção e a festa da dedicação
+9:1-9:28 | A segunda aparição e as obras de Salomão
+## Glória e queda de Salomão
+10:1-10:29 | A rainha de Sabá
+11:1-11:13 | O coração de Salomão desviado
+11:14-11:43 | Os adversários; Aías e Jeroboão; a morte de Salomão
+## O cisma
+12:1-12:24 | Roboão e a divisão do reino
+12:25-12:33 | Os bezerros de ouro de Jeroboão
+13:1-13:34 | O homem de Deus de Judá e o velho profeta
+14:1-14:20 | Aías anuncia a ruína de Jeroboão
+14:21-15:24 | Roboão, Abiam e Asa em Judá
+15:25-16:34 | Os reis de Israel: de Nadab a Acab
+## O ciclo de Elias
+17:1-17:24 | Elias, os corvos e a viúva de Sarepta
+18:1-18:46 | O sacrifício do Carmelo
+19:1-19:21 | Elias no Horeb e a vocação de Eliseu
+20:1-20:43 | As guerras de Acab contra Benadad
+21:1-21:29 | A vinha de Nabot
+22:1-22:40 | Miqueias e a morte de Acab
+22:41-22:54 | Josafat e Ocozias

@@ -1,0 +1,57 @@
+{
+  "id": "1KI.13.1",
+  "livro": "1KI",
+  "titulo": "O homem de Deus de Judá e o velho profeta",
+  "secao": "O cisma",
+  "referencia": "1Rs 13,1-34",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 34
+  },
+  "liturgia": {
+    "tema_central": "Altar, altar! O homem de Deus de Judá e o velho profeta",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Enquanto Jeroboão está junto ao altar de Betel queimando incenso, chega de Judá um homem de Deus, por ordem do Senhor, e clama contra o altar: “Altar, altar! Assim diz o Senhor: na casa de Davi nascerá um filho, chamado Josias, que imolará sobre ti os sacerdotes dos lugares altos.” Dá um sinal: o altar se partirá e a cinza se derramará. O rei estende a mão: prendei-o! E a mão lhe seca, sem que a possa recolher; o altar se parte. O rei pede: reza ao Senhor por mim; o homem de Deus reza, e a mão é restituída. O rei o convida para comer e receber um presente; ele recusa: ainda que me desses metade da tua casa, não comeria pão nem beberia água aqui, porque o Senhor mo proibiu, e mandou voltar por outro caminho. Um velho profeta de Betel, sabendo pelos filhos, monta o jumento, alcança-o sob um terebinto e o convida; ele recusa; o velho mente: também eu sou profeta, e um anjo me disse que te levasse a comer. O homem de Deus volta e come com ele. À mesa, a palavra do Senhor vem ao velho profeta, que clama: porque desobedeceste, o teu cadáver não entrará no sepulcro de teus pais. No caminho, um leão o mata; o corpo fica estendido, com o jumento e o leão ao lado, sem que o leão o coma nem ataque o jumento. O velho profeta vai buscá-lo, chora-o — “Ai, meu irmão!” — e o sepulta no seu próprio túmulo, pedindo aos filhos que o enterrem ao lado dele, porque a palavra contra o altar de Betel se cumprirá. Mesmo depois disto, Jeroboão não se converte.",
+    "alegorico": "Os Padres meditaram muito este enigma: o profeta fiel diante do rei cai pela mentira de outro profeta. Gregório Magno aplica-o aos pregadores que resistem aos poderosos mas cedem aos “irmãos” que os desviam da palavra de Deus. Paulo o diria: “ainda que um anjo do céu vos anuncie outro evangelho, seja anátema” (Gl 1,8).",
+    "moral": "A palavra de Deus recebida diretamente não pode ser trocada por uma pretensa revelação posterior, por mais piedosa que pareça. O homem de Deus resistiu ao rei e às riquezas, mas cedeu ao colega e ao cansaço. As tentações mais perigosas vêm, às vezes, de dentro da comunidade religiosa e com linguagem espiritual. E o velho profeta mostra o arrependimento tardio de quem fez cair um irmão.",
+    "anagogico": "A palavra contra o altar de Betel se cumprirá três séculos depois, com Josias (2Rs 23,15-18), que poupará o túmulo dos dois profetas: a palavra de Deus nunca cai no vazio, e a morte não tem a última palavra."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Altar, altar! Eis o que diz o Senhor.” “Ainda que tu me desses metade da tua casa, eu não iria contigo.” “Eu também sou profeta como tu, e um anjo falou-me.” “Porque não obedeceste à palavra do Senhor.” “Ai, ai, meu irmão!” “Jeroboão não se converteu da sua péssima vida.”",
+    "meditatio_perguntas": [
+      "Mantenho-me fiel à palavra de Deus mesmo quando “irmãos” me propõem outra coisa?",
+      "Em que momentos de cansaço baixo a guarda?",
+      "Já fiz alguém cair com conselhos falsamente espirituais?"
+    ],
+    "oratio_guia": "Senhor, dá-me fidelidade à tua palavra diante dos poderosos e diante dos irmãos. Que eu não troque o que me disseste por nenhuma voz contrária, ainda que piedosa, e não seja ocasião de queda para ninguém. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ainda que tu me desses metade da tua casa, eu não iria contigo",
+      "ref": "1Rs 13,8"
+    }
+  },
+  "ancoras": {
+    "13:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Josias, rei de Judá (640-609 a.C.), cumprirá a profecia ao profanar o altar de Betel (2Rs 23,15-16).",
+        "origem": "ia"
+      }
+    },
+    "13:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O leão que não come o cadáver nem ataca o jumento é sinal de que a morte veio como juízo de Deus, não por acaso.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

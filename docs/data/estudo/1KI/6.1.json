@@ -1,0 +1,57 @@
+{
+  "id": "1KI.6.1",
+  "livro": "1KI",
+  "titulo": "A construção do Templo",
+  "secao": "O Templo",
+  "referencia": "1Rs 6,1-38",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 38
+  },
+  "liturgia": {
+    "tema_central": "Habitarei no meio dos filhos de Israel: a construção do Templo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No ano quatrocentos e oitenta depois da saída do Egito, no quarto ano de Salomão, no mês de Zio, começa a construção da casa do Senhor. O templo tem sessenta côvados de comprimento, vinte de largura e trinta de altura, com um vestíbulo à frente, janelas gradeadas e andares de câmaras laterais em volta. “Na construção do templo, apenas se empregaram pedras lavradas na pedreira, de modo que não se ouviu martelo nem cinzel nem instrumento algum de ferro, enquanto ela se edificava.” No meio da obra, a palavra do Senhor vem a Salomão: quanto a esta casa que edificas, se andares nos meus preceitos, cumprirei a palavra dada a Davi; “habitarei no meio dos filhos de Israel, e não desampararei o meu povo de Israel”. O interior é todo revestido de cedro esculpido com colocíntidas e flores, de modo que nenhuma pedra se vê. No fundo, prepara o santuário (o Santo dos Santos), um cubo de vinte côvados, para colocar a arca da aliança, todo revestido de ouro. Ali faz dois querubins de oliveira, de dez côvados, cobertos de ouro, cujas asas se tocam no meio e alcançam as paredes. Paredes, portas e pavimento são revestidos de ouro e esculpidos com querubins, palmas e flores. No undécimo ano, no mês de Bul, a casa fica pronta em todas as suas partes: Salomão a edificou em sete anos.",
+    "alegorico": "O Templo é figura do Corpo de Cristo (“destruí este templo e em três dias o levantarei”, Jo 2,19-21), da Igreja e de cada fiel, “templo do Espírito Santo” (1Cor 6,19). As pedras preparadas fora e assentadas em silêncio foram lidas pelos Padres (Beda, “Sobre o Templo”) como os eleitos, talhados pelas provações deste mundo e reunidos sem ruído na paz da Jerusalém celeste.",
+    "moral": "A promessa central não é o edifício, mas a presença: “habitarei no meio de vós”, condicionada à fidelidade. O mais belo templo de nada vale sem a obediência. E o silêncio da construção ensina que a obra de Deus em nós se faz no recolhimento; o barulho e o atrito ficam “na pedreira”, nas provações que nos preparam.",
+    "anagogico": "O Santo dos Santos, cubo perfeito revestido de ouro, anuncia a Jerusalém celeste, também cúbica e de ouro puro (Ap 21,16-18), onde Deus habitará com os homens para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Se começou a edificar a casa do Senhor.” “Não se ouviu martelo nem cinzel nem instrumento algum de ferro.” “Habitarei no meio dos filhos de Israel.” “Não desampararei o meu povo de Israel.” “Nada havia no templo que não estivesse coberto de ouro.” “Salomão edificou-a em sete anos.”",
+    "meditatio_perguntas": [
+      "Deixo que Deus me “talhe” nas provações para ser pedra do seu templo?",
+      "Cuido do meu corpo e da minha alma como templo de Deus?",
+      "Que lugar tem o silêncio na construção da minha vida interior?"
+    ],
+    "oratio_guia": "Senhor, que prometeste habitar no meio do teu povo, faz de mim o teu templo. Talha-me nas provações e coloca-me em silêncio na tua casa, para que nunca me desampares. Amém.",
+    "contemplatio_foco": {
+      "texto": "Habitarei no meio dos filhos de Israel, e não desampararei o meu povo de Israel",
+      "ref": "1Rs 6,13"
+    }
+  },
+  "ancoras": {
+    "6:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os 480 anos (12 gerações de 40) são número simbólico, que faz do Templo o ponto de chegada do Êxodo.",
+        "origem": "ia"
+      }
+    },
+    "6:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cerca de 30 m de comprimento, 10 de largura e 15 de altura (côvado ≈ 0,45 m): pequeno edifício, mas revestido com esplendor.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

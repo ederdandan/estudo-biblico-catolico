@@ -1,0 +1,57 @@
+{
+  "id": "1KI.20.1",
+  "livro": "1KI",
+  "titulo": "As guerras de Acab contra Benadad",
+  "secao": "O ciclo de Elias",
+  "referencia": "1Rs 20,1-43",
+  "ini": {
+    "c": 20,
+    "v": 1
+  },
+  "fim": {
+    "c": 20,
+    "v": 43
+  },
+  "liturgia": {
+    "tema_central": "O Senhor não é só Deus dos montes: as guerras de Acab contra Ben-Hadad",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ben-Hadad, rei da Síria, com trinta e dois reis aliados, sitia Samaria e manda dizer a Acab: a tua prata e o teu ouro são meus, e as tuas mulheres e filhos também. Acab aceita. Mas Ben-Hadad exige mais: amanhã os meus servos revistarão a tua casa e levarão tudo o que te é caro. Os anciãos aconselham resistir. Ben-Hadad jura reduzir Samaria a pó, e Acab responde: “Dizei-lhe que não cante vitória antes da batalha”. Um profeta vem a Acab: viste esta multidão? Hoje a entregarei nas tuas mãos, para que saibas que eu sou o Senhor; por meio dos jovens dos chefes das províncias. Ao meio-dia, enquanto Ben-Hadad se embriaga nas tendas com os reis, os jovens atacam, e os sírios fogem. O profeta avisa: no próximo ano o rei da Síria voltará. Os servos de Ben-Hadad lhe dizem: os deuses deles são deuses dos montes; combatamos na planície. No ano seguinte, em Afec, o homem de Deus diz a Acab: porque os sírios disseram que o Senhor é Deus dos montes e não dos vales, entregarei toda esta multidão, e sabereis que eu sou o Senhor. Israel vence; a muralha de Afec cai sobre os sobreviventes. Ben-Hadad se esconde; os seus servos, com sacos nos rins e cordas ao pescoço, vão pedir clemência, e Acab o chama “meu irmão”, faz aliança com ele e o deixa ir. Então um dos filhos dos profetas pede ao companheiro que o fira; este recusa e é morto por um leão; outro o fere. Disfarçado com uma faixa, espera o rei e lhe conta uma parábola: guardava um prisioneiro sob pena de vida e o deixou fugir. O rei sentencia: tu mesmo te condenaste. O profeta tira a faixa: assim diz o Senhor: porque deixaste escapar o homem que eu votara ao extermínio, a tua vida responderá pela dele. Acab volta a Samaria sombrio e irritado.",
+    "alegorico": "O Deus de Israel não é um deus local, dos montes ou dos vales: é o Senhor de toda a terra. Os Padres viram aqui a universalidade de Deus, que Cristo revelará: nem neste monte nem em Jerusalém, mas em espírito e verdade (Jo 4,21-23). A parábola do profeta ferido, que leva o rei a condenar-se a si mesmo, repete o método de Natã com Davi.",
+    "moral": "Deus salva Acab duas vezes, sem que ele o mereça, “para que saibas que eu sou o Senhor”. Mas Acab não aprende: em vez de obedecer, faz alianças políticas com o inimigo de Deus por cálculo e vaidade (“meu irmão”). O orgulho de Ben-Hadad, que canta vitória antes da batalha, é derrotado. E o rei termina “sombrio e irritado”: quem recusa a correção não se converte, só se aborrece.",
+    "anagogico": "Deus dos montes e dos vales, dos momentos altos e baixos da vida: em todo lugar ele é Senhor, e no fim todos saberão “que eu sou o Senhor”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Dizei-lhe que não cante vitória antes da batalha.” “Para que tu saibas que eu sou o Senhor.” “Os deuses dos montes são seus deuses.” “O Senhor é Deus dos montes e não Deus dos vales.” “Os reis da casa de Israel são clementes.” “Voltou para sua casa, sombrio e enfurecido.”",
+    "meditatio_perguntas": [
+      "Reduzo Deus a certos “lugares” da minha vida?",
+      "Agradeço as vitórias que Deus me dá sem eu merecer?",
+      "Como reajo quando a palavra de Deus me corrige: converto-me ou me irrito?"
+    ],
+    "oratio_guia": "Senhor, Deus dos montes e dos vales, sê o Senhor de toda a minha vida. Que eu não cante vitória antes da hora, e que a tua correção me converta em vez de me irritar. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor é Deus dos montes e não Deus dos vales eu te entregarei nas mãos toda esta grande multidão",
+      "ref": "1Rs 20,28"
+    }
+  },
+  "ancoras": {
+    "20:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ben-Hadad (“filho de Hadad”, o deus da tempestade) era título dinástico dos reis arameus de Damasco.",
+        "origem": "ia"
+      }
+    },
+    "20:35": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Filhos dos profetas”: comunidades de discípulos em torno de um profeta, que aparecerão sobretudo no ciclo de Eliseu.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

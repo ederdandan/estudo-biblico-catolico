@@ -1,0 +1,57 @@
+{
+  "id": "1KI.22.1",
+  "livro": "1KI",
+  "titulo": "Miqueias e a morte de Acab",
+  "secao": "O ciclo de Elias",
+  "referencia": "1Rs 22,1-40",
+  "ini": {
+    "c": 22,
+    "v": 1
+  },
+  "fim": {
+    "c": 22,
+    "v": 40
+  },
+  "liturgia": {
+    "tema_central": "Não direi senão o que o Senhor me disser: Miqueias e a morte de Acab",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Três anos sem guerra. Josafat, rei de Judá, visita Acab, que propõe: vamos retomar Ramot de Galaad dos sírios. Josafat aceita, mas pede: consulta primeiro a palavra do Senhor. Acab reúne quatrocentos profetas: sobe, o Senhor a entregará. Josafat pergunta: não há aqui outro profeta do Senhor? Há Miqueias, filho de Jemla, “mas eu aborreço-o, porque ele não me profetiza o bem, mas o mal”. Mandam chamá-lo; os reis estão nos tronos, à porta de Samaria, e os profetas profetizam diante deles; Sedecias faz chifres de ferro: com isto ferirás os sírios. O mensageiro pede a Miqueias que fale como os outros. Ele responde: “Viva o Senhor, que eu não direi senão o que o Senhor me disser.” Diante do rei, primeiro ironiza: sobe e vencerás. O rei o conjura a dizer a verdade. Miqueias diz: “vi todo o Israel disperso pelos montes, como ovelhas que não têm pastor”. E conta a visão: vi o Senhor no trono, com todo o exército do céu; o Senhor perguntou: quem enganará Acab para que suba e caia em Ramot? Um espírito disse: serei espírito de mentira na boca dos seus profetas. O Senhor pôs um espírito de mentira na boca de todos estes profetas. Sedecias lhe dá uma bofetada. Acab manda prendê-lo a pão e água até voltar em paz. Miqueias: se voltares em paz, o Senhor não falou por mim. Os dois reis sobem; Acab se disfarça e manda Josafat vestir as vestes reais. Os sírios perseguem Josafat, que grita, e o deixam. Um homem atira uma flecha ao acaso e fere Acab entre as juntas da armadura. O rei fica no carro diante dos sírios até a tarde, o sangue escorrendo no fundo do carro, e morre. Levam-no a Samaria; lavam o carro no tanque, e os cães lambem o seu sangue, segundo a palavra do Senhor.",
+    "alegorico": "Miqueias, sozinho contra quatrocentos, esbofeteado e preso por dizer a verdade, é figura de Cristo, esbofeteado diante do sumo sacerdote (Jo 18,22). A imagem do povo “como ovelhas sem pastor” será retomada por Jesus, que tem compaixão das multidões (Mc 6,34): ele é o Pastor que falta.",
+    "moral": "Acab quer profetas que digam o que ele quer ouvir; odeia o único que diz a verdade. É a tentação de todos os poderes e de cada um de nós: cercar-se de vozes que confirmam. Miqueias é modelo de liberdade profética: não diz senão o que Deus lhe diz, mesmo sozinho, mesmo preso. E a flecha “ao acaso” mostra que nenhum disfarce escapa à palavra de Deus.",
+    "anagogico": "A visão de Miqueias, do Senhor no trono rodeado pelo exército do céu, lembra que a história é governada lá do alto. Os disfarces dos poderosos caem diante do juízo de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu aborreço-o, porque ele não me profetiza o bem, mas o mal.” “Viva o Senhor, que eu não direi senão o que o Senhor me disser.” “Eu vi todo o Israel disperso pelos montes, como ovelhas que não têm pastor.” “Eu vi o Senhor sentado sobre o seu trono.” “Sustentai-o com pão de tribulação e água de angústia.” “Se tu voltares em paz, não falou o Senhor por mim.”",
+    "meditatio_perguntas": [
+      "Cerco-me de vozes que só dizem o que quero ouvir?",
+      "Tenho a coragem de Miqueias de dizer a verdade, mesmo sozinho?",
+      "Tento “disfarçar-me” para escapar das consequências?"
+    ],
+    "oratio_guia": "Senhor, dá-me amor à verdade, mesmo quando incomoda. Livra-me dos falsos profetas que me agradam, e faz-me dizer somente o que tu me disseres. Pastor das ovelhas dispersas, reúne-nos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Viva o Senhor, que eu não direi senão o que o Senhor me disser",
+      "ref": "1Rs 22,14"
+    }
+  },
+  "ancoras": {
+    "22:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ramot de Galaad, fortaleza da Transjordânia, disputada entre Israel e os arameus; ali Jeú será ungido rei (2Rs 9).",
+        "origem": "ia"
+      }
+    },
+    "22:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “espírito de mentira” exprime, em linguagem antiga, que Deus permite o engano dos que preferem a mentira (cf. 2Ts 2,11).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

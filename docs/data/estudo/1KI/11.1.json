@@ -1,0 +1,57 @@
+{
+  "id": "1KI.11.1",
+  "livro": "1KI",
+  "titulo": "O coração de Salomão desviado",
+  "secao": "Glória e queda de Salomão",
+  "referencia": "1Rs 11,1-13",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "O seu coração não era perfeito diante do Senhor: a queda de Salomão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O rei Salomão ama muitas mulheres estrangeiras, além da filha do Faraó: moabitas, amonitas, idumeias, sidônias e heteias, das nações de que o Senhor dissera: não vos uníeis a elas, porque certamente perverterão o vosso coração para os seus deuses. “A estas nações se uniu Salomão, por causa dos seus amores.” Tem setecentas mulheres princesas e trezentas concubinas, e as mulheres lhe pervertem o coração. “Sendo já velho, o seu coração foi pervertido pelas mulheres, para seguir os deuses alheios; o seu coração não era perfeito diante do Senhor, seu Deus, como fora o coração de Davi, seu pai.” Salomão presta culto a Astarte, deusa dos sidônios, e a Melcom, abominação dos amonitas; edifica no monte defronte de Jerusalém um santuário a Camos, ídolo de Moab, e a Moloc, ídolo de Amon; e faz o mesmo para todas as suas mulheres estrangeiras, que queimavam incenso e sacrificavam aos seus deuses. “O Senhor irou-se contra Salomão, por se ter o seu espírito apartado do Senhor, Deus de Israel, que lhe tinha aparecido duas vezes.” Diz-lhe: porque não guardaste a minha aliança, rasgarei o teu reino e o darei a um dos teus servos; mas, por amor de Davi, não o farei nos teus dias; arrancá-lo-ei da mão do teu filho; e não tirarei todo o reino: deixarei uma tribo ao teu filho, por amor de Davi e de Jerusalém, que escolhi.",
+    "alegorico": "Salomão, que começou pedindo sabedoria e terminou na idolatria, é para os Padres o exemplo mais terrível de que os dons de Deus não garantem a perseverança. Agostinho e Jerônimo discutiram a sua salvação, sem conclusão. A promessa, porém, permanece “por amor de Davi”: a fidelidade de Deus não depende da do rei, e se cumprirá no verdadeiro Filho de Davi, cujo coração é perfeito diante do Pai.",
+    "moral": "A queda de Salomão é gradual: alianças políticas, depois afetos desordenados, depois tolerância, depois participação no culto idólatra. “Sendo já velho”: a velhice não protege; a fidelidade se renova cada dia. O coração dividido (“não era perfeito”, isto é, inteiro) é o centro do pecado. O homem mais sábio caiu por não guardar o coração (Pr 4,23).",
+    "anagogico": "O reino rasgado anuncia o exílio, mas a lâmpada deixada “por amor de Davi” mantém acesa a esperança messiânica até a vinda de Cristo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O rei Salomão… amou apaixonadamente muitas mulheres estrangeiras.” “Elas certissimamente vos perverterão os vossos corações.” “Sendo já velho, o seu coração foi pervertido.” “O seu coração não era perfeito diante do Senhor.” “Que lhe tinha aparecido duas vezes.” “Em atenção a meu servo Davide.”",
+    "meditatio_perguntas": [
+      "Que afetos desordenados podem dividir o meu coração?",
+      "Confio nos dons recebidos como se garantissem a perseverança?",
+      "Peço a graça de um coração inteiro até o fim da vida?"
+    ],
+    "oratio_guia": "Senhor, não permitas que o meu coração se divida. Que os dons que me deste não me tornem presunçoso, e que até a velhice eu te sirva com um coração inteiro. Amém.",
+    "contemplatio_foco": {
+      "texto": "o seu coração não era perfeito diante do Senhor, seu Deus, como fora o coração de Davide, seu pai",
+      "ref": "1Rs 11,4"
+    }
+  },
+  "ancoras": {
+    "11:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “monte defronte de Jerusalém” é o Monte das Oliveiras, cuja parte sul foi chamada depois “monte da corrupção” (2Rs 23,13).",
+        "origem": "ia"
+      }
+    },
+    "11:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os números (700 e 300) indicam um harém de proporções reais, fruto sobretudo de alianças diplomáticas.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

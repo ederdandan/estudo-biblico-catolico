@@ -1,0 +1,57 @@
+{
+  "id": "1KI.17.1",
+  "livro": "1KI",
+  "titulo": "Elias, os corvos e a viúva de Sarepta",
+  "secao": "O ciclo de Elias",
+  "referencia": "1Rs 17,1-24",
+  "ini": {
+    "c": 17,
+    "v": 1
+  },
+  "fim": {
+    "c": 17,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "A farinha não faltou na panela: Elias, os corvos e a viúva de Sarepta",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Elias, o tesbita, de Galaad, diz a Acab: “Viva o Senhor Deus de Israel, em cuja presença estou, que nestes anos não cairá nem orvalho nem chuva, senão conforme as palavras da minha boca.” A palavra do Senhor o manda esconder-se junto à torrente de Carit, a leste do Jordão: “beberás da torrente, e eu mandei aos corvos que te sustentem”. Os corvos lhe trazem pão e carne de manhã e de tarde, e ele bebe da torrente. Quando a torrente seca, o Senhor o envia a Sarepta, terra dos sidônios: ordenei a uma viúva que te sustente. À porta da cidade, encontra a viúva apanhando lenha e lhe pede água e um pedaço de pão. Ela responde: pela vida do Senhor teu Deus, não tenho pão, só um punhado de farinha na panela e um pouco de azeite na almotolia; estou apanhando lenha para cozer para mim e para o meu filho; comeremos e depois morreremos. Elias diz: “Não temas… porém faze primeiro para mim desse pouco de farinha um pãozinho… para ti e para teu filho farás depois.” Porque assim diz o Senhor: a farinha não faltará na panela nem o azeite na almotolia até o dia em que o Senhor mandar chuva. Ela faz assim, e comem ela, ele e a família por muitos dias. Depois, o filho dela adoece e morre. Ela diz: que te fiz eu, homem de Deus? vieste recordar os meus pecados e matar o meu filho? Elias o toma, leva-o ao quarto de cima, deita-o na sua cama, clama ao Senhor, estende-se três vezes sobre o menino e reza: “faze que a alma deste menino volte às suas entranhas”. O Senhor ouve, e o menino revive. Elias o entrega à mãe: vê, o teu filho vive. Ela diz: “Agora conheço que és um homem de Deus, e que a palavra do Senhor na tua boca é verdade.”",
+    "alegorico": "Jesus cita a viúva de Sarepta em Nazaré: Elias foi enviado não a Israel, mas a uma estrangeira (Lc 4,25-26), anúncio da salvação dos gentios. A farinha e o azeite que não acabam foram lidos como figura da Eucaristia e da graça que nunca se esgota. A ressurreição do filho da viúva prefigura a de Naim (Lc 7,11-17), onde Jesus faz o mesmo gesto: “entregou-o à sua mãe”.",
+    "moral": "A viúva dá do pouco que tem, e primeiro ao profeta: é a fé que arrisca o último punhado. Deus prova a fé pedindo o que parece impossível, e responde com abundância. O profeta também aprende a depender: dos corvos, de uma viúva pobre e estrangeira. E quando a dor chega, a viúva acusa e lembra os seus pecados; Elias não discute, reza.",
+    "anagogico": "“O teu filho vive”: a ressurreição do menino é sinal do poder de Deus sobre a morte, que se manifestará plenamente na ressurreição de Cristo e na nossa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Viva o Senhor Deus de Israel, em cuja presença estou.” “Eu mandei aos corvos que te sustentem.” “Não tenho pão, senão sòmente um pouco de farinha na panela.” “Não temas.” “Faze primeiro para mim.” “A farinha que está na panela não faltará.” “Faze… que a alma deste menino volte às suas entranhas.” “A palavra do Senhor na tua boca é verdade.”",
+    "meditatio_perguntas": [
+      "Dou a Deus do meu pouco, mesmo quando parece o último?",
+      "Aceito depender de meios humildes e inesperados que Deus usa?",
+      "Na dor, acuso ou rezo?"
+    ],
+    "oratio_guia": "Senhor, que alimentaste Elias pelos corvos e a viúva com a farinha que não acaba, ensina-me a dar do meu pouco com confiança. Não deixes faltar em minha casa o pão da tua graça, e dá vida aos que estão mortos. Amém.",
+    "contemplatio_foco": {
+      "texto": "A farinha que está na panela não faltará, nem se diminuirá na almotolia o azeite, até ao dia em que o Senhor faça cair chuva sobre a terra",
+      "ref": "1Rs 17,14"
+    }
+  },
+  "ancoras": {
+    "17:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Elias (“o meu Deus é YHWH”): o próprio nome é um programa contra o culto de Baal, deus da chuva e da fertilidade; a seca mostra que só o Senhor dá a chuva.",
+        "origem": "ia"
+      }
+    },
+    "17:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Sarepta, entre Tiro e Sidônia, na terra de Jezabel e de Baal.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "1KI.1.1",
+  "livro": "1KI",
+  "titulo": "Salomão ungido rei",
+  "secao": "A sucessão de Davi",
+  "referencia": "1Rs 1,1-53",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 53
+  },
+  "liturgia": {
+    "tema_central": "Viva o rei Salomão! A unção do filho de Davi",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Davi está velho; cobrem-no de roupas e não se aquece. Os servos procuram uma jovem que o sirva e o aqueça, e trazem Abisag de Sunam, muito bela; ela o serve, mas o rei não a conhece. Adonias, filho de Hagit, o mais velho dos filhos vivos, se exalta: “Eu reinarei”; arranja carros, cavaleiros e cinquenta homens que correm à sua frente. “Nunca seu pai o repreendeu, nem disse: Por que fazes isto?” Joab e o sacerdote Abiatar o apoiam; mas Sadoc, Banaías, o profeta Natã e os valentes de Davi não. Adonias oferece um banquete junto à pedra de Zoelet e convida os irmãos e os homens de Judá, mas não Natã, Banaías, os valentes, nem Salomão. Natã diz a Betsabé: vai ao rei e lembra-lhe o juramento de que Salomão reinaria; eu entrarei depois e confirmarei. Betsabé fala ao rei, e Natã entra e pergunta: foste tu que disseste: reine Adonias? Davi chama Betsabé e jura: “Aquilo que te jurei… Salomão, teu filho, reinará depois de mim… isso cumprirei hoje.” Ordena que Sadoc, Natã e Banaías ponham Salomão na mula do rei, o levem a Gion e o unjam. “O pontífice Sadoc tomou do tabernáculo o vaso de óleo e ungiu Salomão. Tocaram a trombeta, e disse todo o povo: Viva o rei Salomão!” O povo sobe atrás dele tocando flautas com tal alegria que a terra estremece. Adonias e os seus convidados ouvem o barulho; Jônatas, filho de Abiatar, conta tudo. Os convidados fogem; Adonias se refugia agarrado aos cornos do altar. Salomão diz: se for homem de bem, nenhum cabelo lhe cairá; se houver nele maldade, morrerá. E o manda para casa.",
+    "alegorico": "Salomão, filho de Davi, montado na mula do rei, ungido e aclamado pelo povo que sobe a Jerusalém com alegria, é figura de Cristo, Filho de Davi, que entra em Jerusalém montado num jumento, aclamado: “Hosana ao Filho de Davi!” (Mt 21,9). O nome Salomão (“pacífico”) anuncia o Príncipe da paz.",
+    "moral": "O capítulo mostra o fruto da omissão de Davi com os filhos: “nunca o repreendeu”. Adonias cresceu sem limites e acha que tudo lhe é devido. A educação exige correção. E mostra como Deus se serve das mediações humanas (Natã, Betsabé) para cumprir a sua palavra: a intervenção prudente no momento certo evita a desgraça.",
+    "anagogico": "O povo que sobe atrás do rei ungido com júbilo é imagem do povo de Deus que seguirá o Rei messiânico até a Jerusalém celeste, cantando a sua vitória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu reinarei.” “Nunca seu pai o repreendeu, nem disse: Por que fazes isto?” “Salomão, teu filho, reinará depois de mim.” “O pontífice Sadoc tomou do tabernáculo o vaso de óleo e ungiu Salomão.” “Viva o rei Salomão!” “Se ele se houver como homem de bem, não cairá em terra nem um só cabelo.”",
+    "meditatio_perguntas": [
+      "Corrijo com amor os que estão sob a minha responsabilidade?",
+      "Em que me exalto dizendo “eu reinarei”?",
+      "Sei intervir com prudência quando a verdade está em risco?"
+    ],
+    "oratio_guia": "Senhor, que ungiste Salomão filho de Davi, faz-me seguir com alegria o teu Ungido, Jesus. Livra-me da ambição que se exalta e dá-me a humildade de aceitar a correção. Amém.",
+    "contemplatio_foco": {
+      "texto": "O pontífice Sadoc tomou do tabernáculo o vaso de óleo e ungiu Salomão. Tocaram a trombeta, e disse todo o povo: Viva o rei Salomão!",
+      "ref": "1Rs 1,39"
+    }
+  },
+  "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na Vulgata, 1-2 Reis são 3-4 Reis (1-2 Samuel = 1-2 Reis); a numeração aqui segue o livro atual de 1 Reis.",
+        "origem": "ia"
+      }
+    },
+    "1:33": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Gion, a fonte de Jerusalém no vale do Cedron; a unção junto à água viva legitimava o rei diante do povo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

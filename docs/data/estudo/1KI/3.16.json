@@ -1,0 +1,49 @@
+{
+  "id": "1KI.3.16",
+  "livro": "1KI",
+  "titulo": "O julgamento das duas mães",
+  "secao": "A sabedoria de Salomão",
+  "referencia": "1Rs 3,16-28",
+  "ini": {
+    "c": 3,
+    "v": 16
+  },
+  "fim": {
+    "c": 3,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "Dai àquela o menino vivo: o julgamento de Salomão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Duas mulheres de má vida se apresentam ao rei. Uma diz: eu e esta mulher morávamos na mesma casa; dei à luz um filho, e três dias depois ela também deu à luz; estávamos sós. Uma noite o filho dela morreu, porque ela se deitou sobre ele. Ela se levantou à meia-noite, tirou o meu filho do meu lado enquanto eu dormia, e pôs no meu colo o seu filho morto. De manhã, ao amamentar, vi que estava morto; mas, olhando bem à luz do dia, vi que não era o meu filho. A outra diz: não, o meu filho é o vivo; o teu é o morto. E discutem diante do rei. Salomão resume: uma diz “o meu está vivo”, a outra diz o mesmo. Trazei-me uma espada. “Dividi em duas partes o menino que está vivo, e dai metade a uma, e metade a outra.” A mulher cujo filho estava vivo, com as entranhas comovidas, diz: “Senhor, peço-te que dês a ela o menino vivo, que não o mates.” A outra diz: não seja nem meu nem teu; divida-se. O rei sentencia: “Dai àquela o menino vivo, não se mate, porque é ela a sua mãe.” Todo Israel ouve a sentença e teme o rei, “vendo que estava nele a sabedoria de Deus para fazer justiça”.",
+    "alegorico": "Os Padres leram as duas mulheres como a Igreja e a Sinagoga, ou a Igreja e a heresia: a verdadeira mãe prefere perder o filho a vê-lo dividido; a falsa aceita a divisão. Agostinho aplica-o ao cisma donatista: quem aceita dividir a Igreja mostra que não é mãe. O rei que descobre a verdade é Cristo, que conhece os corações.",
+    "moral": "A sabedoria de Salomão não está num conhecimento técnico, mas na compreensão do coração humano: o amor verdadeiro se reconhece por estar disposto a renunciar para que o outro viva. A falsa mãe prefere que ninguém tenha a ceder. O amor autêntico sacrifica-se; a inveja prefere destruir. Isto vale para as famílias, para as comunidades e para a Igreja.",
+    "anagogico": "O juízo final revelará as entranhas de cada um, como o rei revelou a verdadeira mãe. Deus conhece quem ama de verdade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O meu filho é o que vive.” “Trazei-me cá uma espada.” “Dividi em duas partes o menino.” “As suas entranhas se enterneceram por seu filho.” “Dá a ela o menino vivo, que não o mates.” “Não seja nem para mim, nem para ti, mas divida-se.” “É ela a sua mãe.” “Estava nele a sabedoria de Deus para fazer justiça.”",
+    "meditatio_perguntas": [
+      "O meu amor está disposto a renunciar para que o outro viva?",
+      "Prefiro, por orgulho ou inveja, que “ninguém tenha” a ceder?",
+      "Contribuo para a unidade ou para a divisão da Igreja?"
+    ],
+    "oratio_guia": "Senhor, dá-me entranhas de mãe, que preferem renunciar a ver o outro morrer. Livra-me da inveja que prefere dividir, e guarda a unidade da tua Igreja. Amém.",
+    "contemplatio_foco": {
+      "texto": "Dai àquela o menino vivo, não se mate, porque é ela a sua mãe",
+      "ref": "1Rs 3,27"
+    }
+  },
+  "ancoras": {
+    "3:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Mesmo as pessoas marginalizadas tinham acesso direto ao tribunal do rei, que era a última instância de justiça.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

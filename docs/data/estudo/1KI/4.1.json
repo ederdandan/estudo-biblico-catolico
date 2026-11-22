@@ -1,0 +1,57 @@
+{
+  "id": "1KI.4.1",
+  "livro": "1KI",
+  "titulo": "A prosperidade e a sabedoria de Salomão",
+  "secao": "A sabedoria de Salomão",
+  "referencia": "1Rs 4,1-34",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 34
+  },
+  "liturgia": {
+    "tema_central": "Cada um debaixo da sua videira e da sua figueira: a paz e a sabedoria de Salomão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Salomão reina sobre todo Israel. Segue a lista dos seus ministros: sacerdotes, secretários, cronista, chefe do exército, chefe dos intendentes, mordomo e superintendente dos trabalhos forçados. Tem doze intendentes sobre todo Israel, que provêm a casa do rei, cada um durante um mês do ano, e o texto enumera os seus nomes e distritos. Judá e Israel são numerosos como a areia do mar, comem, bebem e se alegram. Salomão domina todos os reinos desde o rio Eufrates até a terra dos filisteus e a fronteira do Egito. A casa real consome cada dia grandes quantidades de farinha, bois, carneiros e caça. “Judá e Israel viviam sem temor algum, cada qual debaixo da sua parreira, e debaixo da sua figueira, desde Dã até Bersabeia, durante todo o tempo que Salomão reinou.” Salomão tem muitos cavalos e carros. “Deus deu a Salomão a sabedoria, um grandíssimo entendimento, e uma magnanimidade imensa, como a areia que há na praia do mar.” A sua sabedoria supera a de todos os orientais e egípcios. Compõe três mil provérbios e mil e cinco cânticos; fala das árvores, desde o cedro do Líbano até o hissopo que brota da parede, dos animais, das aves, dos répteis e dos peixes. Vêm pessoas de todos os povos ouvir a sua sabedoria.",
+    "alegorico": "A paz do reino de Salomão, com cada um debaixo da sua videira e figueira, torna-se nos profetas a imagem do reino messiânico (Mq 4,4; Zc 3,10). A sabedoria que abraça toda a criação, do cedro ao hissopo, prefigura Cristo, por quem tudo foi feito e em quem tudo subsiste (Cl 1,16-17).",
+    "moral": "A sabedoria de Salomão não é só religiosa: estende-se à natureza, à poesia, à administração. Toda a criação é lugar de conhecimento e de louvor a Deus. A organização justa do reino e a paz do povo são frutos da sabedoria. Mas a lista dos cavalos e do consumo da corte já deixa entrever o peso que esse esplendor impõe ao povo.",
+    "anagogico": "“Cada um debaixo da sua videira”: é a imagem da paz final, em que ninguém terá medo e todos repousarão em Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Comiam, bebiam, e se alegravam.” “Viviam sem temor algum, cada qual debaixo da sua parreira, e debaixo da sua figueira.” “Deus deu a Salomão a sabedoria… e uma magnanimidade imensa.” “Desde o cedro, que há no Líbano, até ao hissopo, que brota da parede.”",
+    "meditatio_perguntas": [
+      "Vejo a criação inteira, do cedro ao hissopo, como lugar de sabedoria?",
+      "Contribuo para que os outros vivam “sem temor”?",
+      "Peço a Deus um coração magnânimo?"
+    ],
+    "oratio_guia": "Senhor, dá-me a sabedoria que contempla a tua obra, do cedro ao hissopo, e um coração largo como a areia do mar. Concede ao teu povo a paz, para que cada um repouse sob a sua videira. Amém.",
+    "contemplatio_foco": {
+      "texto": "Judá e Israel viviam sem temor algum, cada qual debaixo da sua parreira, e debaixo da sua figueira",
+      "ref": "1Rs 4,25"
+    }
+  },
+  "ancoras": {
+    "4:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os doze distritos não coincidiam com as tribos; Judá parece isento, o que alimentará o ressentimento do Norte (cap. 12).",
+        "origem": "ia"
+      }
+    },
+    "4:32": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A tradição atribuiu a Salomão Provérbios, Eclesiastes, Cântico e Sabedoria, além dos Salmos 71 e 126.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

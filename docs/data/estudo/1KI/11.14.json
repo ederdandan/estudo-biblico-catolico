@@ -1,0 +1,57 @@
+{
+  "id": "1KI.11.14",
+  "livro": "1KI",
+  "titulo": "Os adversários; Aías e Jeroboão; a morte de Salomão",
+  "secao": "Glória e queda de Salomão",
+  "referencia": "1Rs 11,14-43",
+  "ini": {
+    "c": 11,
+    "v": 14
+  },
+  "fim": {
+    "c": 11,
+    "v": 43
+  },
+  "liturgia": {
+    "tema_central": "Toma para ti dez retalhos: Aías e Jeroboão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor suscita adversários contra Salomão. Adad, o idumeu, de sangue real, que fugira criança para o Egito quando Joab exterminou os homens de Edom, casou-se com a cunhada do Faraó; ao saber da morte de Davi e de Joab, volta à sua terra. Razon, que fugira do rei de Soba, reúne um bando, se faz rei em Damasco e é inimigo de Israel durante todo o reinado de Salomão. Também Jeroboão, filho de Nabat, efraimita de Sareda, cuja mãe era viúva, se levanta contra o rei. Salomão, vendo-o jovem, valente e ativo, o pusera à frente dos trabalhos forçados da casa de José. Um dia, saindo Jeroboão de Jerusalém, encontra-o no caminho o profeta Aías de Silo, coberto com uma capa nova; estão sós no campo. Aías toma a capa, rasga-a em doze pedaços e diz: “Toma para ti dez retalhos, porque isto é o que diz o Senhor Deus de Israel: Eu rasgarei o reino das mãos de Salomão e dar-te-ei dez tribos.” Uma tribo ficará ao filho de Salomão, por amor de Davi e de Jerusalém, para que haja sempre uma lâmpada diante de mim. Se ouvires a minha voz e andares nos meus caminhos como Davi, edificarei para ti uma casa estável. Mas humilharei a descendência de Davi, não para sempre. Salomão procura matar Jeroboão, que foge para o Egito, para o faraó Sesac, até a morte de Salomão. O resto dos feitos e da sabedoria de Salomão está escrito no livro dos Atos de Salomão. Reinou quarenta anos em Jerusalém; adormece com os pais, é sepultado na cidade de Davi, e Roboão, seu filho, reina em seu lugar.",
+    "alegorico": "A capa rasgada em doze pedaços é a imagem do povo de Deus dividido pelo pecado. Os Padres opunham a ela a túnica inconsútil de Cristo, que os soldados não rasgaram (Jo 19,23-24): o Filho de Davi não divide, mas reúne. A promessa de humilhar a casa de Davi “não para sempre” mantém aberta a esperança messiânica.",
+    "moral": "Deus dá a Jeroboão uma oportunidade real, com a mesma promessa feita a Davi, sob condição de fidelidade. O dom é graça, mas exige resposta. A divisão é castigo do pecado de Salomão, mas também consequência das suas injustiças: o chefe da corveia conhece o descontentamento do povo. O pecado dos governantes divide os povos.",
+    "anagogico": "“Para que haja sempre uma lâmpada diante de mim em Jerusalém”: a lâmpada de Davi, que nunca se apaga, é Cristo, luz que brilha nas trevas e que as trevas não venceram."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Suscitou-lhe Deus também por inimigo.” “Um jovem de boa índole e ativo.” “Aias, tomando a sua capa nova… rasgou-a em doze partes.” “Toma para ti dez retalhos.” “Se tu ouvires tudo o que eu te ordenar… eu serei contigo.” “Afligirei… a descendência de Davide, mas não para sempre.”",
+    "meditatio_perguntas": [
+      "Contribuo para a unidade ou para a divisão do povo de Deus?",
+      "Respondo com fidelidade às oportunidades que Deus me dá?",
+      "Creio que as humilhações de Deus não são para sempre?"
+    ],
+    "oratio_guia": "Senhor Jesus, cuja túnica não foi rasgada, reúne o teu povo dividido. Mantém acesa a lâmpada da tua presença e dá-me corresponder às graças que me ofereces. Amém.",
+    "contemplatio_foco": {
+      "texto": "Toma para ti dez retalhos, porque isto é o que diz o Senhor Deus de Israel: Eu rasgarei o reino das mãos de Salomão e dar-te-ei dez tribos",
+      "ref": "1Rs 11,31"
+    }
+  },
+  "ancoras": {
+    "11:36": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “lâmpada” (nir) de Davi é imagem da continuidade da dinastia (cf. 15,4; 2Rs 8,19; Sl 131,17).",
+        "origem": "ia"
+      }
+    },
+    "11:40": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Sesac (Sheshonq I), fundador da 22ª dinastia egípcia, invadirá Judá no quinto ano de Roboão (14,25).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

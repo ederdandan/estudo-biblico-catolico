@@ -1,0 +1,57 @@
+{
+  "id": "1KI.9.1",
+  "livro": "1KI",
+  "titulo": "A segunda aparição e as obras de Salomão",
+  "secao": "O Templo",
+  "referencia": "1Rs 9,1-28",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "Nela estarão sempre os meus olhos e o meu coração: a segunda aparição",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Concluídos o templo e o palácio, o Senhor aparece pela segunda vez a Salomão, como em Gabaon: “Eu ouvi a tua oração… santifiquei esta casa que me edificaste, a fim de nela estabelecer para sempre o meu nome: nela estarão sempre os meus olhos e o meu coração.” Se andares diante de mim como Davi, com simplicidade e retidão de coração, firmarei para sempre o teu trono. Mas se vós e os vossos filhos vos desviardes de mim e servirdes outros deuses, exterminarei Israel da terra, rejeitarei este templo, e Israel será motivo de zombaria entre os povos; esta casa será um monte de ruínas, e quem passar perguntará: por que o Senhor fez isto? Responderão: porque abandonaram o Senhor seu Deus. Segue o relato das obras de Salomão: ao fim de vinte anos, dá a Hirão vinte cidades na Galileia, que não lhe agradam, e Hirão as chama “terra de Cabul”, terra de nada. Salomão recruta trabalhos forçados para construir o Melo, os muros de Jerusalém, Hasor, Meguido e Gazer, que o Faraó conquistara e dera como dote à filha; e cidades de armazéns, de carros e de cavaleiros. Os restos dos cananeus são escravos; os israelitas são soldados e oficiais. Três vezes por ano Salomão oferece holocaustos no altar. Constrói uma frota em Asiongaber, no mar Vermelho, e com os marinheiros de Hirão vai a Ofir buscar ouro.",
+    "alegorico": "“Os meus olhos e o meu coração estarão ali para sempre”: a promessa se cumpre plenamente em Cristo, novo Templo, e na Eucaristia, presença real e permanente de Deus no meio do seu povo. A ameaça de ruína recorda que a pedra não salva; Jesus chorará sobre o Templo que será destruído (Lc 19,41-44).",
+    "moral": "Deus responde à oração, mas lembra a condição: a fidelidade. Nenhuma instituição sagrada está garantida se o coração se afasta. As obras de Salomão, grandiosas, começam a revelar sombras: trabalhos forçados, alianças com o Egito, acumulação de carros e de ouro, exatamente o que Dt 17,16-17 proibia ao rei.",
+    "anagogico": "O único templo indestrutível é o que Deus edifica: o Corpo ressuscitado de Cristo e a Jerusalém celeste. Nela os olhos e o coração de Deus estarão sobre nós para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu ouvi a tua oração.” “Santifiquei esta casa.” “Nela estarão sempre os meus olhos e o meu coração.” “Se andares na minha presença… em simplicidade e retidão de coração.” “Por que tratou o Senhor assim esta terra e este templo?” “Porque estes povos deixaram o Senhor.”",
+    "meditatio_perguntas": [
+      "Confio nas instituições religiosas mais que na fidelidade do coração?",
+      "Ando diante de Deus com simplicidade e retidão?",
+      "Que sombras começam a aparecer nas minhas obras bem-sucedidas?"
+    ],
+    "oratio_guia": "Senhor, que os teus olhos e o teu coração estejam sempre sobre mim. Dá-me andar diante de ti com simplicidade e retidão, para que a tua casa em mim nunca se torne ruína. Amém.",
+    "contemplatio_foco": {
+      "texto": "nela estarão sempre os meus olhos e o meu coração",
+      "ref": "1Rs 9,3"
+    }
+  },
+  "ancoras": {
+    "9:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Cabul” soa em hebraico como “como nada”: jogo de palavras sobre o valor das cidades.",
+        "origem": "ia"
+      }
+    },
+    "9:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Hasor, Meguido e Gazer: escavações revelaram portas monumentais de seis câmaras atribuídas, por muitos arqueólogos, à época de Salomão.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

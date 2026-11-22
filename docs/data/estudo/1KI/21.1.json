@@ -1,0 +1,57 @@
+{
+  "id": "1KI.21.1",
+  "livro": "1KI",
+  "titulo": "A vinha de Nabot",
+  "secao": "O ciclo de Elias",
+  "referencia": "1Rs 21,1-29",
+  "ini": {
+    "c": 21,
+    "v": 1
+  },
+  "fim": {
+    "c": 21,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "Deus me livre de te dar a herança de meus pais: a vinha de Nabot",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Nabot de Jezrael tem uma vinha junto ao palácio de Acab. O rei lhe diz: dá-me a tua vinha para eu fazer uma horta, e te darei outra melhor ou o seu preço em dinheiro. Nabot responde: “Deus me livre de te dar a herança de meus pais!” Acab volta para casa sombrio e irritado, deita-se, volta o rosto para a parede e não come. Jezabel pergunta o motivo e diz: “Não és tu o rei de Israel? Levanta-te, come… eu te darei a vinha de Nabot.” Escreve cartas em nome de Acab, seladas com o seu selo, aos anciãos e notáveis de Jezrael: proclamai um jejum, ponde Nabot à frente do povo, e subornai dois homens de Belial que testemunhem: blasfemou contra Deus e contra o rei; e apedrejai-o. Eles fazem assim; Nabot é apedrejado e morre. Jezabel diz a Acab: levanta-te, toma posse da vinha; Nabot está morto. Acab desce à vinha. A palavra do Senhor vem a Elias: vai ao encontro de Acab, que está na vinha de Nabot; dize-lhe: “Mataste, e além disso tomas posse?” No lugar onde os cães lamberam o sangue de Nabot, lamberão também o teu. Acab diz: “Encontraste-me, inimigo meu?” Elias: encontrei-te, porque te vendeste para fazer o mal aos olhos do Senhor. Anuncia a ruína da casa de Acab e que os cães comerão Jezabel junto ao muro de Jezrael. Não houve outro como Acab, que se vendeu para fazer o mal, instigado por Jezabel. Ao ouvir isto, Acab rasga as vestes, veste um saco, jejua, dorme no saco e anda cabisbaixo. O Senhor diz a Elias: “Não viste Acab humilhado diante de mim?” Porque se humilhou, não trarei o mal enquanto ele viver, mas nos dias do seu filho.",
+    "alegorico": "Nabot, o justo condenado por falsas testemunhas sob acusação de blasfêmia, em nome da lei e com um jejum hipócrita, e executado fora da cidade, é figura de Cristo, condenado por blasfêmia com falsos testemunhos (Mc 14,55-64). Ambrósio escreveu um tratado (“De Nabuthae”) contra a cobiça dos ricos que devoram os bens dos pobres.",
+    "moral": "A cobiça do poderoso não se contenta com o que tem; deseja até a pequena herança do pobre. Nabot defende a fidelidade à terra recebida de Deus, que não é mercadoria. Jezabel mostra como a injustiça pode usar as formas da lei e da religião. Acab, que não matou com as próprias mãos, é culpado por consentir. E, no entanto, ao humilhar-se, obtém misericórdia: até o pior pecador pode mover o coração de Deus pela penitência.",
+    "anagogico": "“Não viste Acab humilhado diante de mim?”: Deus está atento ao menor gesto de arrependimento. A misericórdia final pertence aos que se humilham."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Deus me livre de te dar a herança de meus pais!” “Voltou o rosto para a parede e não quis comer.” “Não és tu o rei de Israel?” “Mataste-lo e, além disso, tomas agora posse.” “Porque te vendeste, para fazeres o mal.” “Não viste Acab humilhado diante de mim?”",
+    "meditatio_perguntas": [
+      "Cobiço o que pertence aos outros, mesmo pouco?",
+      "Consinto em injustiças que outros fazem por mim?",
+      "Creio que a humilhação sincera move o coração de Deus?"
+    ],
+    "oratio_guia": "Senhor, livra-me da cobiça que devora os pequenos e da cumplicidade com a injustiça. Defende os pobres que guardam a herança que lhes deste, e acolhe-me quando me humilho diante de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não viste Acab humilhado diante mim?",
+      "ref": "1Rs 21,29"
+    }
+  },
+  "ancoras": {
+    "21:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A terra era herança inalienável de Deus a cada família (Lv 25,23); vendê-la definitivamente era infidelidade à aliança.",
+        "origem": "ia"
+      }
+    },
+    "21:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A lei exigia duas testemunhas para a condenação à morte (Dt 17,6); Jezabel usa a forma legal para cometer o crime.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

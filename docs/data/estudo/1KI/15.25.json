@@ -1,0 +1,57 @@
+{
+  "id": "1KI.15.25",
+  "livro": "1KI",
+  "titulo": "Os reis de Israel: de Nadab a Acab",
+  "secao": "O cisma",
+  "referencia": "1Rs 15,25–16,34",
+  "ini": {
+    "c": 15,
+    "v": 25
+  },
+  "fim": {
+    "c": 16,
+    "v": 34
+  },
+  "liturgia": {
+    "tema_central": "Fez o mal diante do Senhor: de Nadab a Acab",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O reino do Norte entra num ciclo de violência. Nadab, filho de Jeroboão, reina dois anos e faz o mal; Baasa, de Issacar, conspira e o mata durante o cerco de Gebeton, e reina em Tersa; extermina toda a casa de Jeroboão, cumprindo a palavra de Aías. Baasa reina vinte e quatro anos e anda no caminho de Jeroboão. O profeta Jeú, filho de Hanani, lhe anuncia: eu te levantei do pó e te fiz chefe do meu povo, e tu andaste no caminho de Jeroboão; varrerei a tua casa como a de Jeroboão. Elá, seu filho, reina dois anos; enquanto se embriaga em Tersa, o seu servo Zambri, chefe de metade dos carros, o mata e extermina a casa de Baasa. Zambri reina sete dias: o exército, que sitiava Gebeton, proclama rei Amri, seu chefe, e sitia Tersa; Zambri, vendo a cidade tomada, entra no palácio, põe-lhe fogo e morre nas chamas. O povo se divide entre Tebni e Amri; o partido de Amri prevalece, Tebni morre, e Amri reina doze anos. Compra o monte de Samaria de Semer por dois talentos de prata, constrói ali a cidade e a chama Samaria. Amri faz o mal mais que todos os antecessores. Sucede-lhe Acab, que reina vinte e dois anos em Samaria e “fez o mal diante do Senhor, mais que todos”: não contente com os pecados de Jeroboão, casa com Jezabel, filha de Etbaal, rei dos sidônios, serve e adora Baal, ergue-lhe um altar no templo que construiu em Samaria e planta uma asera. No seu tempo, Hiel de Betel reconstrói Jericó, à custa do primogênito e do filho mais novo, segundo a palavra de Josué.",
+    "alegorico": "A sucessão de reis que se matam uns aos outros mostra a instabilidade de um reino separado de Deus: sem a promessa a Davi, o poder passa de mão em mão pela espada. É a imagem da “cidade terrena” de Agostinho, fundada no amor de si e na dominação, que contrasta com a cidade de Deus.",
+    "moral": "O texto repete como um refrão: “fez o mal diante do Senhor, andou no caminho de Jeroboão”. Um mau exemplo inicial marca gerações. Quem toma o poder pela violência acaba vítima da violência. E o mal cresce: Amri pior que os antecessores, Acab pior que todos. Quando não há conversão, o pecado não fica parado; aprofunda-se.",
+    "anagogico": "Os reinos fundados na violência passam rapidamente; só o reino de Deus permanece. A história, mesmo confusa, caminha sob o juízo da palavra profética que sempre se cumpre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Fez o mal diante do Senhor, seguiu as pisadas de seu pai.” “Eu te levantei do pó e te constituí chefe sobre o meu povo.” “Reinou Zambri em Tersa durante sete dias.” “Deu à cidade… o nome de Samaria.” “Fez o mal diante do Senhor, mais que todos.” “Foi servir a Baal e adorá-lo.”",
+    "meditatio_perguntas": [
+      "Que maus exemplos herdei e ainda sigo sem perceber?",
+      "Percebo como o mal, sem conversão, se aprofunda em mim?",
+      "Lembro que Deus me “levantou do pó”?"
+    ],
+    "oratio_guia": "Senhor, que me levantaste do pó, livra-me dos caminhos herdados que me afastam de ti. Rompe em mim a cadeia do pecado e da violência, e firma-me no teu reino que não passa. Amém.",
+    "contemplatio_foco": {
+      "texto": "Acab, filho de Anri, fez o mal diante do Senhor, mais que todos os que tinha havido antes dele",
+      "ref": "1Rs 16,30"
+    }
+  },
+  "ancoras": {
+    "16:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Samaria, fundada por Amri c. 880 a.C., será a capital do Norte até 722; os assírios chamavam Israel “casa de Amri”.",
+        "origem": "ia"
+      }
+    },
+    "16:34": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cumpre-se a maldição de Josué sobre quem reconstruísse Jericó (Js 6,26).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

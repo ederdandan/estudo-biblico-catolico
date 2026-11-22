@@ -1,0 +1,57 @@
+{
+  "id": "1KI.14.1",
+  "livro": "1KI",
+  "titulo": "Aías anuncia a ruína de Jeroboão",
+  "secao": "O cisma",
+  "referencia": "1Rs 14,1-20",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "Lançaste-me para trás das costas: Aías anuncia a ruína de Jeroboão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Adoece Abias, filho de Jeroboão. O rei diz à mulher: disfarça-te, vai a Silo ao profeta Aías, que me disse que eu seria rei; leva-lhe pães, bolos e mel; ele te dirá o que acontecerá ao menino. Aías está cego pela velhice, mas o Senhor o avisa. Ao ouvir os passos dela à porta, diz: “Entra, mulher de Jeroboão; para que finges tu ser outra? Eu fui enviado para te dar uma triste nova.” Dize a Jeroboão: eu te exaltei do meio do povo, rasguei o reino da casa de Davi e to dei; mas não foste como Davi, que guardou os meus mandamentos e me seguiu de todo o coração; fizeste o mal mais do que todos os que te precederam, fabricaste deuses estrangeiros e fundidos para me irritar, “e a mim lançaste-me para trás das costas”. Por isso trarei a desgraça sobre a casa de Jeroboão e a varrerei como se varre o lixo; quem morrer na cidade, os cães o comerão; no campo, as aves. E tu, volta; quando puseres o pé na cidade, o menino morrerá; todo Israel o chorará e o sepultará, porque só ele, da casa de Jeroboão, terá sepultura, por se ter achado nele algo de bom diante do Senhor. O Senhor sacudirá Israel como a cana na água e o arrancará desta boa terra, dispersando-o além do rio, por causa dos pecados de Jeroboão, que pecou e fez pecar Israel. A mulher volta a Tersa; ao chegar ao limiar da casa, morre o menino. Todo Israel o chora. Jeroboão reina vinte e dois anos e adormece com os seus pais; Nadab, seu filho, reina em seu lugar.",
+    "alegorico": "O disfarce da mulher de Jeroboão diante do profeta cego, que vê o que ela esconde, é imagem da inutilidade de se disfarçar diante de Deus, que “perscruta os corações”. O menino em quem “se achou algo de bom” e que morre cedo foi lido como a criança arrebatada para que a malícia não lhe mudasse o coração (Sb 4,11).",
+    "moral": "Jeroboão quer a ajuda do profeta, mas não quer a conversão: manda a esposa disfarçada, como se pudesse enganar Deus. “Lançaste-me para trás das costas”: é a descrição exata do pecado, que não nega Deus, mas o põe de lado. E a influência do líder é enorme: o seu pecado “fez pecar Israel”. Quem tem responsabilidade arrasta outros consigo.",
+    "anagogico": "Nada fica oculto diante de Deus; mas também nenhum bem escondido se perde: no menino, “algo de bom” foi visto e honrado. No juízo, o bem mais pequeno será reconhecido."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Muda de trajo, para que não conheçam que tu és mulher de Jeroboão.” “Entra, mulher de Jeroboão; para que finges tu ser outra?” “Tu não foste como meu servo Davide.” “A mim lançaste-me para trás das costas.” “Sòmente a ele olhou com agrado.” “Jeroboão, que pecou e fez pecar Israel.”",
+    "meditatio_perguntas": [
+      "Tento disfarçar-me diante de Deus?",
+      "Em que áreas da vida “lancei Deus para trás das costas”?",
+      "Que influência o meu exemplo tem sobre os outros?"
+    ],
+    "oratio_guia": "Senhor, que vês através de todos os disfarces, não permitas que eu te lance para trás das costas. Olha o pouco de bom que há em mim e faz que o meu exemplo leve os outros a ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Entra, mulher de Jeroboão; para que finges tu ser outra? Eu fui enviado para te dar uma triste nova",
+      "ref": "1Rs 14,6"
+    }
+  },
+  "ancoras": {
+    "14:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Tersa tornou-se a capital do reino do Norte até Amri fundar Samaria (16,24).",
+        "origem": "ia"
+      }
+    },
+    "14:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Para além do rio” (o Eufrates): primeira menção do exílio assírio, que virá em 722 a.C. (2Rs 17).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

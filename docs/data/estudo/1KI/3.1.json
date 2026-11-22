@@ -1,0 +1,57 @@
+{
+  "id": "1KI.3.1",
+  "livro": "1KI",
+  "titulo": "O sonho de Gabaon: um coração dócil",
+  "secao": "A sabedoria de Salomão",
+  "referencia": "1Rs 3,1-15",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "Concede ao teu servo um coração dócil: o sonho de Gabaon",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Salomão se aparenta com o Faraó, tomando por mulher a filha dele. O povo ainda sacrifica nos lugares altos, porque o templo não fora construído. “Salomão amava o Senhor”, seguindo os preceitos de Davi, embora também sacrificasse nos lugares altos. Vai a Gabaon, o principal lugar alto, e oferece mil holocaustos. Ali o Senhor lhe aparece em sonho, de noite: “Pede-me o que quiseres que eu te dê.” Salomão responde: usaste de grande misericórdia com Davi, meu pai, porque andou diante de ti com fidelidade e retidão; e lhe deste um filho sentado no seu trono. Agora, Senhor, fizeste reinar o teu servo; “mas eu sou como um menino, que não se sabe ainda dirigir”; estou no meio do teu povo, tão numeroso que não se pode contar. “Concede ao teu servo um coração inteligente, para poder julgar o teu povo e discernir entre o bem e o mal.” Agrada ao Senhor este pedido. Deus lhe diz: porque não pediste longa vida, nem riquezas, nem a vida dos teus inimigos, mas sabedoria para fazer justiça, dou-te um coração sábio e inteligente como nenhum antes de ti nem depois; e dou-te também o que não pediste, riqueza e glória; e se andares nos meus caminhos, prolongarei os teus dias. Salomão desperta: era um sonho. Volta a Jerusalém, põe-se diante da arca, oferece holocaustos e faz um banquete para todos os servos.",
+    "alegorico": "Salomão pede o “coração que escuta” (lev shomea‘), e recebe a sabedoria que o faz figura de Cristo, Sabedoria de Deus, “maior que Salomão” (Mt 12,42). A promessa de dar o que não foi pedido ecoa na palavra de Jesus: “buscai primeiro o Reino de Deus e a sua justiça, e todas estas coisas vos serão dadas por acréscimo” (Mt 6,33).",
+    "moral": "A oração de Salomão é modelo: começa pela gratidão, reconhece a própria pequenez (“sou como um menino”) e pede o que é necessário para servir os outros, não para si mesmo. Quem pede a Deus aquilo que agrada a Deus recebe mais do que pediu. A sabedoria começa pela docilidade: o coração que escuta.",
+    "anagogico": "O dom da sabedoria antecipa o conhecimento pleno de Deus que teremos na glória, quando “conheceremos como somos conhecidos” (1Cor 13,12)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Salomão amava o Senhor.” “Pede-me o que quiseres que eu te dê.” “Eu sou como um menino, que não se sabe ainda dirigir.” “Concede ao teu servo um coração inteligente.” “Para… discernir entre o bem e o mal.” “Agradou ao Senhor esta oração.” “Dou-te também o que me não pediste.”",
+    "meditatio_perguntas": [
+      "Se Deus me dissesse “pede o que quiseres”, o que pediria?",
+      "Reconheço que sou “como um menino” diante das minhas responsabilidades?",
+      "Busco em primeiro lugar o Reino e a sabedoria de Deus?"
+    ],
+    "oratio_guia": "Senhor, sou como um menino que não sabe dirigir-se. Dá-me um coração que escuta, para discernir o bem e o mal e servir com justiça os que me confiaste. Amém.",
+    "contemplatio_foco": {
+      "texto": "concede ao teu servo um coração inteligente, para poder julgar o teu povo e discernir entre o bem e o mal",
+      "ref": "1Rs 3,9"
+    }
+  },
+  "ancoras": {
+    "3:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Gabaon, a 10 km a noroeste de Jerusalém, onde estavam a tenda e o altar de Moisés (1Cr 16,39; 2Cr 1,3).",
+        "origem": "ia"
+      }
+    },
+    "3:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O hebraico diz literalmente “um coração que escuta” (lev shomea‘): a sabedoria bíblica é docilidade à palavra.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "1KI.12.25",
+  "livro": "1KI",
+  "titulo": "Os bezerros de ouro de Jeroboão",
+  "secao": "O cisma",
+  "referencia": "1Rs 12,25-33",
+  "ini": {
+    "c": 12,
+    "v": 25
+  },
+  "fim": {
+    "c": 12,
+    "v": 33
+  },
+  "liturgia": {
+    "tema_central": "Eis os teus deuses, ó Israel: os bezerros de ouro de Jeroboão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jeroboão reconstrói Siquém e reside ali; depois fortifica Fanuel. Mas pensa no seu coração: agora o reino voltará à casa de Davi; se este povo subir a Jerusalém para oferecer sacrifícios no templo do Senhor, o seu coração voltará para Roboão, rei de Judá, e me matarão. Depois de refletir, faz dois bezerros de ouro e diz ao povo: não subais mais a Jerusalém; “eis aqui, ó Israel, os teus deuses, que te tiraram da terra do Egito”. Põe um em Betel e o outro em Dã. Isto se torna ocasião de pecado: o povo ia adorar o bezerro até Dã. Constrói templos nos lugares altos e faz sacerdotes tirados do povo, que não eram filhos de Levi. Institui uma festa no oitavo mês, no dia quinze, semelhante à festa de Judá, e sobe ao altar em Betel para oferecer sacrifícios aos bezerros, e estabelece ali os sacerdotes dos lugares altos. No mês que escolhera por capricho, sobe ao altar para queimar incenso.",
+    "alegorico": "O pecado de Jeroboão repete o de Aarão no deserto (“eis os teus deuses, ó Israel”, Ex 32,4). É o pecado da religião manipulada pelo poder político: um culto criado para garantir o trono. Os Padres viram nele o tipo do cisma que, para se manter, inventa uma liturgia e um sacerdócio próprios, separados da Jerusalém onde Deus pôs o seu nome.",
+    "moral": "Jeroboão recebera a promessa de Deus, mas não confia nela: o medo de perder o poder o leva a fabricar uma religião conveniente. É a tentação de usar Deus em vez de servi-lo, de adaptar o culto às próprias necessidades, de escolher “por capricho” as datas, os ministros e as formas. Este será, para o resto do livro, “o pecado de Jeroboão, que fez pecar Israel”.",
+    "anagogico": "O culto verdadeiro é o que Deus institui, não o que o homem inventa. Na Jerusalém celeste, a adoração será perfeita, “em espírito e verdade” (Jo 4,23)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Jeroboão disse em seu coração: Agora o reino tornará para a casa de Davide.” “Fez dois bezerros de ouro.” “Não torneis mais a Jerusalém.” “Eis aqui, ó Israel, os teus deuses.” “Fez sacerdotes de toda a classe do povo.” “Que ele, por seu capricho, tinha escolhido.”",
+    "meditatio_perguntas": [
+      "Uso a religião para garantir os meus interesses?",
+      "Adapto a fé às minhas conveniências, “por capricho”?",
+      "Confio nas promessas de Deus ou no que eu mesmo fabrico?"
+    ],
+    "oratio_guia": "Senhor, livra-me de fabricar ídolos que me sirvam, em vez de servir-te. Que eu te adore como tu queres ser adorado, em espírito e verdade, e confie nas tuas promessas mais do que no meu medo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eis aqui, ó Israel, os teus deuses, que te tiraram da terra do Egipto",
+      "ref": "1Rs 12,28"
+    }
+  },
+  "ancoras": {
+    "12:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Betel, no sul do reino do Norte, e Dã, no extremo norte: santuários antigos ligados aos patriarcas e à tribo de Dã (Jz 18).",
+        "origem": "ia"
+      }
+    },
+    "12:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os bezerros talvez fossem concebidos como pedestais do Deus invisível, como os querubins; mas o povo os adorou como deuses.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

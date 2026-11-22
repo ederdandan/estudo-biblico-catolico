@@ -1,0 +1,57 @@
+{
+  "id": "1KI.19.1",
+  "livro": "1KI",
+  "titulo": "Elias no Horeb e a vocação de Eliseu",
+  "secao": "O ciclo de Elias",
+  "referencia": "1Rs 19,1-21",
+  "ini": {
+    "c": 19,
+    "v": 1
+  },
+  "fim": {
+    "c": 19,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "O murmúrio de uma brisa leve: Elias no Horeb",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Acab conta a Jezabel o que Elias fez, e ela lhe manda dizer: os deuses me façam o mesmo se amanhã a esta hora eu não fizer da tua vida o que fizeste da deles. “Elias teve medo” e foge por causa da vida; chega a Bersabeia, deixa ali o servo e caminha um dia pelo deserto. Senta-se debaixo de um junípero e deseja a morte: “Basta, Senhor; tira-me a vida, porque não sou melhor do que meus pais.” Deita-se e adormece. Um anjo o toca: “Levanta-te e come.” Ao lado da cabeça há um pão cozido nas brasas e uma bilha de água; come, bebe e volta a dormir. O anjo volta: “Levanta-te e come, porque te resta um longo caminho.” Com a força daquela comida caminha quarenta dias e quarenta noites até o Horeb, o monte de Deus. Passa a noite numa caverna. O Senhor lhe diz: “Que fazes aqui, Elias?” Responde: consumo-me de zelo pelo Senhor; os filhos de Israel abandonaram a tua aliança, derrubaram os teus altares, mataram os teus profetas; fiquei só, e procuram tirar-me a vida. Sai e fica no monte diante do Senhor, porque o Senhor vai passar. Um vento forte fende os montes e quebra as rochas, mas o Senhor não está no vento; depois um terremoto, e o Senhor não está no terremoto; depois um fogo, e o Senhor não está no fogo; “depois do fogo, ouviu-se o murmúrio duma branda viração”. Elias cobre o rosto com o manto e sai à entrada da caverna. A voz pergunta de novo, e ele repete. O Senhor o envia: unge Hazael rei da Síria, Jeú rei de Israel e Eliseu profeta em teu lugar; e reservarei para mim sete mil em Israel que não dobraram o joelho diante de Baal. Elias parte e encontra Eliseu lavrando com doze juntas de bois; lança sobre ele o seu manto. Eliseu corre atrás dele: deixa-me beijar meu pai e minha mãe. Vai e volta. Eliseu mata a junta de bois, coze a carne com a madeira do arado, dá ao povo e segue Elias para servi-lo.",
+    "alegorico": "O pão e a água que dão força para quarenta dias de caminho até o monte de Deus são, para toda a tradição, figura da Eucaristia, viático da peregrinação cristã. Elias no Horeb, onde Moisés viu a glória (Ex 33), encontrará Moisés de novo no Tabor, com Cristo transfigurado. A vocação de Eliseu, que deixa tudo, prefigura a dos apóstolos (Lc 9,61-62).",
+    "moral": "O grande profeta, depois da vitória, cai no medo e na depressão: deseja a morte. Deus não o repreende; manda-o comer e dormir, e lhe dá tempo. Depois o leva ao encontro: Deus não está no espetacular, mas no “sussurro de um silêncio suave”. E corrige a ilusão de Elias: “fiquei só” não é verdade; há sete mil fiéis. E dá-lhe uma nova missão. Eliseu, por sua vez, responde sem voltar atrás: queima o arado.",
+    "anagogico": "“Levanta-te e come, porque te resta um longo caminho”: o pão da Eucaristia nos sustenta até chegarmos ao monte de Deus, onde o veremos face a face."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Elias teve medo.” “Basta-me de vida, Senhor, tirai-ma.” “Levanta-te e come, porque te resta um longo caminho.” “Com o vigor daquela comida, caminhou quarenta dias e quarenta noites.” “Que fazes aqui, Elias?” “O Senhor não estava no fogo.” “O murmúrio duma branda viração.” “Eu reservarei para mim em Israel sete mil homens.” “Pôs a sua capa sobre ele.”",
+    "meditatio_perguntas": [
+      "Nos momentos de esgotamento, aceito ser cuidado por Deus?",
+      "Procuro Deus no espetacular ou no silêncio?",
+      "Penso que “fiquei só”? Quem são os “sete mil” à minha volta?"
+    ],
+    "oratio_guia": "Senhor, quando eu disser “basta”, toca-me com o teu anjo e dá-me o pão do caminho. Ensina-me a ouvir-te no murmúrio da brisa leve, e a seguir-te sem olhar para trás. Amém.",
+    "contemplatio_foco": {
+      "texto": "Levanta-te e come, porque te resta um longo caminho",
+      "ref": "1Rs 19,7"
+    }
+  },
+  "ancoras": {
+    "19:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os quarenta dias e noites evocam os de Moisés no Sinai (Ex 34,28) e anunciam os de Jesus no deserto (Mt 4,2).",
+        "origem": "ia"
+      }
+    },
+    "19:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O hebraico diz literalmente “uma voz de silêncio fino” (qol demamá daqqá), expressão de difícil tradução.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

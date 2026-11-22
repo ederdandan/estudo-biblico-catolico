@@ -1,0 +1,57 @@
+{
+  "id": "1KI.7.1",
+  "livro": "1KI",
+  "titulo": "O palácio e as obras de bronze",
+  "secao": "O Templo",
+  "referencia": "1Rs 7,1-51",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 51
+  },
+  "liturgia": {
+    "tema_central": "Jaquim e Booz: o palácio e as obras de bronze",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Salomão constrói o seu próprio palácio em treze anos: a casa do Bosque do Líbano, com quarenta e cinco colunas de cedro; o pórtico das colunas; o pórtico do trono, onde julgava, revestido de cedro; a sua casa e a casa da filha do Faraó, tudo de pedras preciosas e talhadas. Depois manda vir de Tiro Hirão, filho de uma viúva da tribo de Neftali e de pai tírio, artífice do bronze, “cheio de sabedoria, de inteligência e de ciência”. Ele funde duas colunas de bronze de dezoito côvados, com capitéis em forma de lírio, redes e romãs, e as levanta no vestíbulo do templo: a da direita chama Jaquim, a da esquerda, Booz. Faz o “mar” de bronze, uma enorme bacia redonda de dez côvados de diâmetro, assente sobre doze bois, três voltados para cada ponto cardeal. Faz dez bases móveis de bronze, decoradas com leões, bois e querubins, com rodas, e dez bacias sobre elas; e caldeiras, pás e taças. Salomão faz também os objetos de ouro do interior: o altar de ouro, a mesa dos pães da proposição, dez candelabros, flores, lâmpadas, taças e incensórios. Concluída a obra, traz os tesouros consagrados por Davi e os deposita no tesouro da casa do Senhor.",
+    "alegorico": "Os nomes das colunas, Jaquim (“ele estabelece”) e Booz (“nele está a força”), foram lidos como a firmeza e a força que vêm de Deus, sobre as quais a Igreja se apoia; Paulo chama os apóstolos “colunas” (Gl 2,9). O “mar” de bronze para a purificação dos sacerdotes, sobre doze bois, foi visto como figura do batismo, sustentado pelos doze apóstolos que o levam aos quatro cantos do mundo.",
+    "moral": "Salomão gastou treze anos no próprio palácio e sete no templo: o texto, discretamente, sugere a sombra de um rei que começa a cuidar mais da própria glória. A arte é posta a serviço do culto: Deus merece o melhor do talento humano. Hirão, filho de uma viúva, mostra que Deus se serve de dons de todas as origens.",
+    "anagogico": "A purificação na água e a luz dos candelabros apontam para a cidade celeste, onde haverá o rio da água da vida e o Cordeiro será a lâmpada (Ap 21,23; 22,1)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Edificou-a e completou-a dentro do espaço de treze anos.” “Cheio de sabedoria, de inteligência e de ciência.” “Deu-lhe o nome de Jaquim… e deu-lhe o nome de Booz.” “Fez também o mar de bronze.” “Salomão concluiu toda a obra.”",
+    "meditatio_perguntas": [
+      "Gasto mais tempo e cuidado com a minha casa do que com a casa de Deus?",
+      "Ponho os meus talentos a serviço do culto e da beleza da fé?",
+      "Em que “colunas” se apoia a minha vida?"
+    ],
+    "oratio_guia": "Senhor, tu és a minha firmeza e a minha força. Purifica-me nas águas do batismo e ilumina-me com a tua luz, para que o melhor de mim seja para a tua glória. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tendo levantado a coluna direita, deu-lhe o nome de Jaquim: levantou do mesmo modo a segunda coluna, e deu-lhe o nome de Booz",
+      "ref": "1Rs 7,21"
+    }
+  },
+  "ancoras": {
+    "7:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “casa do Bosque do Líbano” recebia este nome pela floresta de colunas de cedro; servia de arsenal e sala de cerimônias (10,17).",
+        "origem": "ia"
+      }
+    },
+    "7:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A proporção dada (diâmetro 10, circunferência 30) usa o valor aproximado de π = 3.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

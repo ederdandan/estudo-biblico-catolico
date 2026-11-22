@@ -1,0 +1,57 @@
+{
+  "id": "1KI.8.22",
+  "livro": "1KI",
+  "titulo": "A oração de Salomão na dedicação",
+  "secao": "O Templo",
+  "referencia": "1Rs 8,22-53",
+  "ini": {
+    "c": 8,
+    "v": 22
+  },
+  "fim": {
+    "c": 8,
+    "v": 53
+  },
+  "liturgia": {
+    "tema_central": "Ouve do céu e perdoa: a oração de Salomão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Salomão se põe diante do altar, na presença de todo Israel, estende as mãos para o céu e diz: Senhor Deus de Israel, não há Deus semelhante a ti, que guardas a aliança e a misericórdia com os teus servos que andam diante de ti de todo o coração; cumpriste hoje a promessa a Davi; cumpre também o resto. “Mas é crível que Deus habite verdadeiramente sobre a terra? Com efeito, se o céu e o céu dos céus te não podem conter, quanto menos esta casa que eu edifiquei?” Todavia, atende à oração do teu servo; tenham os teus olhos abertos noite e dia sobre esta casa, da qual disseste: o meu nome estará ali. Ouve a súplica do teu povo quando orar neste lugar; “ouvirás do lugar da tua morada no céu, e, tendo ouvido, lhes serás propício”. Seguem sete casos: quando alguém jurar diante do altar, julga; quando o povo for vencido por ter pecado e voltar a ti, perdoa; quando o céu se fechar e não houver chuva, perdoa e manda a chuva; quando vier fome, peste ou guerra, ouve cada um que conhecer a chaga do seu coração e estender as mãos para esta casa, e perdoa, “porque só tu conheces o coração de todos os filhos dos homens”; até o estrangeiro que vier de longe por causa do teu nome, ouve-o, para que todos os povos te conheçam; quando o povo sair à guerra, ouve; e quando pecarem — pois não há homem que não peque — e fores levados cativos, se no país do exílio se converterem de todo o coração e rezarem voltados para esta terra, esta cidade e esta casa, ouve-os e perdoa, porque são o teu povo e a tua herança.",
+    "alegorico": "Salomão reconhece que o céu dos céus não contém Deus, e no entanto Deus quer pôr o seu nome numa casa: é a lógica da Encarnação, em que o Infinito se faz presente num corpo. O pedido de que Deus ouça também o estrangeiro abre o Templo a todos os povos, e Jesus o recordará: “a minha casa será chamada casa de oração para todos os povos” (Mc 11,17).",
+    "moral": "A oração de Salomão é a grande escola da súplica: realista (“não há homem que não peque”), humilde, universal. O Templo é antes de tudo lugar de perdão. Cada desgraça é ocasião de conversão: o que Deus espera é que o homem “conheça a chaga do seu coração” e estenda as mãos. Até no exílio, longe de tudo, a oração voltada para Deus é ouvida.",
+    "anagogico": "“Ouvirás do céu, do lugar da tua morada”: a oração da terra sobe ao santuário celeste, onde Cristo, sumo sacerdote, intercede por nós sem cessar (Hb 7,25)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não há Deus semelhante a ti.” “O céu e o céu dos céus te não podem conter.” “Tendo os teus olhos abertos de noite e de dia sobre esta casa.” “Ouvirás do lugar da tua morada no céu, e, tendo ouvido, lhes serás propício.” “Só tu conheces o interior dos corações.” “Se fizerem penitência do íntimo do seu coração.”",
+    "meditatio_perguntas": [
+      "Conheço “a chaga do meu coração” e a apresento a Deus?",
+      "Vejo a igreja como lugar de perdão e de súplica?",
+      "Rezo também pelos estrangeiros e pelos que estão longe?"
+    ],
+    "oratio_guia": "Senhor, que os céus não podem conter e que quiseste habitar entre nós, ouve do céu a minha oração e perdoa. Tu conheces o meu coração; vê a sua chaga e cura-a. Amém.",
+    "contemplatio_foco": {
+      "texto": "se o céu e o céu dos céus te não podem conter, quanto menos esta casa que eu edifiquei?",
+      "ref": "1Rs 8,27"
+    }
+  },
+  "ancoras": {
+    "8:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Rezar de pé com as mãos estendidas para o céu era a atitude comum da oração em Israel e na Igreja antiga (orante).",
+        "origem": "ia"
+      }
+    },
+    "8:46": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Não há homem que não peque”: frase citada pela tradição contra a pretensão de impecabilidade (cf. Ecl 7,20; 1Jo 1,8).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

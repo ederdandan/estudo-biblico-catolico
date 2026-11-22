@@ -1,0 +1,57 @@
+{
+  "id": "1KI.10.1",
+  "livro": "1KI",
+  "titulo": "A rainha de Sabá",
+  "secao": "Glória e queda de Salomão",
+  "referencia": "1Rs 10,1-29",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "Não me tinham dito metade: a rainha de Sabá",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A rainha de Sabá ouve falar da fama de Salomão “no nome do Senhor” e vai pô-lo à prova com enigmas. Chega a Jerusalém com grande comitiva, camelos carregados de aromas, ouro em abundância e pedras preciosas, e conversa com Salomão sobre tudo o que tem no coração. Salomão responde a todas as perguntas; nada lhe é oculto. Ao ver a sabedoria de Salomão, o palácio que construiu, os manjares da sua mesa, os aposentos dos servos, os uniformes, os copeiros e os holocaustos na casa do Senhor, a rainha fica fora de si e diz: era verdade o que ouvi na minha terra; “eu não dava crédito aos que mo diziam, até que eu mesma vim, vi com os meus olhos e reconheci que não me tinham dito metade”; a tua sabedoria supera a fama. Felizes os teus servos que estão sempre na tua presença e ouvem a tua sabedoria! “Bendito seja o Senhor, teu Deus, a quem agradaste… a fim de governares com equidade e justiça.” Dá ao rei cento e vinte talentos de ouro, muitíssimos aromas e pedras preciosas; e Salomão lhe dá tudo o que ela deseja. Ela volta para a sua terra. Segue a descrição da riqueza de Salomão: seiscentos e sessenta e seis talentos de ouro por ano, escudos de ouro, o trono de marfim com seis degraus e doze leões, os vasos de ouro, a frota de Társis, cavalos e carros comprados no Egito. Toda a terra deseja ver Salomão para ouvir a sabedoria que Deus lhe pôs no coração.",
+    "alegorico": "Jesus cita a rainha do Sul, que veio dos confins da terra ouvir a sabedoria de Salomão: “e aqui está quem é maior do que Salomão” (Mt 12,42). Ela é figura da Igreja dos gentios que vem a Cristo com os seus dons, como os Magos com ouro e incenso (Mt 2,11; Sl 71,10). “Não me disseram a metade” é a experiência de quem encontra Cristo pessoalmente.",
+    "moral": "A rainha não se contenta com o que ouviu dizer: vai ver por si mesma, faz perguntas, abre o coração. A fé de segunda mão precisa tornar-se encontro pessoal. E ela vê a fonte da sabedoria: bendiz o Deus de Salomão. Mas a enumeração das riquezas, com o número 666, deixa uma sombra: a glória de Salomão começa a tornar-se acumulação.",
+    "anagogico": "“Felizes os que estão sempre na tua presença”: é a bem-aventurança dos santos que contemplam a sabedoria de Deus no céu, onde verão que não lhes disseram nem a metade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Foi experimentá-lo com enigmas.” “Ficou fora de si.” “Eu mesma vim, vi com os meus olhos e reconheci que me não tinham dito metade.” “Bem-aventurados… os que gozam sempre da tua presença.” “A fim de governares com equidade e justiça.”",
+    "meditatio_perguntas": [
+      "A minha fé é de “ouvir dizer” ou de encontro pessoal com Cristo?",
+      "Levo a Cristo as perguntas do meu coração?",
+      "Que dons ofereço Àquele que é maior que Salomão?"
+    ],
+    "oratio_guia": "Senhor Jesus, maior que Salomão, quero vir a ti com todas as perguntas do meu coração. Que eu experimente que não me disseram nem a metade da tua sabedoria, e seja feliz na tua presença. Amém.",
+    "contemplatio_foco": {
+      "texto": "eu não dava crédito aos que mo diziam, até que eu mesma vim, vi com os meus olhos e reconheci que me não tinham dito metade do que era",
+      "ref": "1Rs 10,7"
+    }
+  },
+  "ancoras": {
+    "10:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Sabá, reino do sudoeste da Arábia (atual Iêmen), rico em incenso e aromas, que controlava as rotas das caravanas.",
+        "origem": "ia"
+      }
+    },
+    "10:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "666 talentos: número que reaparece em Ap 13,18; a coincidência foi notada pelos intérpretes como sinal do perigo da riqueza.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "1KI.14.21",
+  "livro": "1KI",
+  "titulo": "Roboão, Abiam e Asa em Judá",
+  "secao": "O cisma",
+  "referencia": "1Rs 14,21–15,24",
+  "ini": {
+    "c": 14,
+    "v": 21
+  },
+  "fim": {
+    "c": 15,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "Uma lâmpada em Jerusalém: Roboão, Abiam e Asa",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Roboão, filho de Salomão e de Naama, amonita, reina dezessete anos em Jerusalém, a cidade que o Senhor escolheu. Judá faz o mal diante do Senhor, mais do que os pais: levantam lugares altos, estelas e aserás em todo outeiro e sob toda árvore frondosa, e há até prostituição sagrada. No quinto ano de Roboão, Sesac, rei do Egito, sobe contra Jerusalém e leva os tesouros do templo e do palácio, até os escudos de ouro de Salomão; Roboão os substitui por escudos de bronze. Há guerra contínua entre Roboão e Jeroboão. Sucede-lhe Abiam, que reina três anos e comete os pecados do pai; “o seu coração não era perfeito diante do Senhor”. “Todavia o Senhor seu Deus, em atenção a Davi, deu-lhe uma lâmpada em Jerusalém”, porque Davi fizera o que era reto, exceto no caso de Urias. Sucede-lhe Asa, que reina quarenta e um anos e “fez o que era reto aos olhos do Senhor, como Davi seu pai”: expulsa os prostitutos sagrados, destrói os ídolos, tira à própria mãe (avó) Maaca a dignidade de rainha-mãe por ter feito um ídolo de Asera, que queima no Cedron. Não tira os lugares altos, mas “o coração de Asa foi perfeito toda a sua vida para com o Senhor”. Em guerra com Baasa de Israel, que fortifica Ramá, Asa compra com os tesouros do templo a aliança de Ben-Hadad de Damasco, que ataca o norte de Israel; Baasa recua, e Asa usa as pedras de Ramá para fortificar Gabaa e Masfa. Na velhice, sofre dos pés. Sucede-lhe Josafat.",
+    "alegorico": "A “lâmpada” que Deus mantém em Jerusalém “por amor de Davi”, mesmo quando os reis são infiéis, é a fidelidade de Deus à promessa messiânica, que atravessa as gerações até Cristo, “luz do mundo”. Os escudos de ouro trocados por bronze foram lidos como a glória perdida pelo pecado, substituída por uma aparência.",
+    "moral": "Asa mostra que a reforma começa em casa: depõe a própria mãe para servir a Deus. Mas o seu coração “perfeito” não o impede de confiar mais na aliança com um rei pagão, comprada com os tesouros do Templo, do que no Senhor (2Cr 16,7 o censura). Mesmo os bons reis têm zonas de desconfiança. E Roboão ilustra o pecado que empobrece: o ouro se torna bronze.",
+    "anagogico": "A lâmpada que não se apaga em Jerusalém é sinal de esperança: Deus não abandona a promessa, e no fim a luz de Davi brilhará para todas as nações."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Judá fez o mal diante do Senhor.” “Levou os tesouros da casa do Senhor.” “O Senhor… em atenção a Davide, deu-lhe uma lâmpada em Jerusalém.” “Asa fez o que era recto aos olhos do Senhor.” “Tirou a dignidade de rainha a Maaca, sua mãe.” “O coração de Asa foi perfeito toda a sua vida.”",
+    "meditatio_perguntas": [
+      "Troquei o “ouro” da minha fé por “bronze” de aparências?",
+      "Tenho coragem de reformar, começando pelos mais próximos?",
+      "Confio mais nas alianças humanas do que no Senhor?"
+    ],
+    "oratio_guia": "Senhor, que mantiveste a lâmpada de Davi acesa mesmo na infidelidade dos reis, não deixes apagar-se a luz da fé em mim. Dá-me um coração perfeito como o de Asa, e confiança somente em ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "o coração de Asa foi perfeito toda a sua vida para com Senhor",
+      "ref": "1Rs 15,14"
+    }
+  },
+  "ancoras": {
+    "14:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A campanha de Sesac (c. 925 a.C.) está registrada numa inscrição no templo de Karnak, no Egito.",
+        "origem": "ia"
+      }
+    },
+    "15:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Maaca era avó de Asa (mãe de Abiam); o termo “mãe” designa aqui a rainha-mãe oficial.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

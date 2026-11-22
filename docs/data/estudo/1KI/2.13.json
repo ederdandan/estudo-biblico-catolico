@@ -1,0 +1,57 @@
+{
+  "id": "1KI.2.13",
+  "livro": "1KI",
+  "titulo": "Salomão consolida o reino",
+  "secao": "A sucessão de Davi",
+  "referencia": "1Rs 2,13-46",
+  "ini": {
+    "c": 2,
+    "v": 13
+  },
+  "fim": {
+    "c": 2,
+    "v": 46
+  },
+  "liturgia": {
+    "tema_central": "O trono de Davi será estável: Salomão consolida o reino",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Adonias vai a Betsabé, mãe de Salomão: vens em paz? Em paz. Sabes que o reino era meu e todo Israel me queria como rei; mas o reino passou ao meu irmão, porque lhe veio do Senhor. Peço uma só coisa: pede ao rei Salomão que me dê por mulher Abisag, a sunamita. Betsabé fala ao rei, que se levanta, se inclina diante dela e manda pôr um trono para a mãe à sua direita. Ela faz o pedido. Salomão responde: por que pedes Abisag para Adonias? Pede-lhe também o reino, pois é meu irmão mais velho! E jura: Adonias falou contra a própria vida. Manda Banaías matá-lo. Ao sacerdote Abiatar, que apoiou Adonias, Salomão diz: vai para os teus campos em Anatot; mereces a morte, mas não te matarei, porque levaste a arca diante de Davi e sofreste com ele. Assim se cumpre a palavra sobre a casa de Eli. Joab, sabendo, foge para a tenda do Senhor e agarra os cornos do altar; recusa-se a sair: morrerei aqui. Salomão ordena: mata-o ali e sepulta-o, e afasta de mim e da casa de meu pai o sangue inocente que Joab derramou. Banaías o mata, e é feito chefe do exército; Sadoc substitui Abiatar. Salomão manda Semei construir uma casa em Jerusalém e não sair dela, sob pena de morte se atravessar o Cedron. Três anos depois, Semei vai a Get atrás de dois escravos fugidos. Salomão o recorda do juramento e o manda matar. “O rei Salomão será abençoado, e o trono de Davi será para sempre estável diante do Senhor.” E o reino se firma nas mãos de Salomão.",
+    "alegorico": "Betsabé sentada num trono à direita do rei, que se levanta e se inclina diante dela, é na tradição a figura da Rainha-Mãe (gebirá) e de Maria, Rainha à direita do Filho, que intercede junto a ele (Sl 44,10). Mas aqui o seu pedido não é atendido: Maria, ao contrário, só pede o que o Filho quer dar (Jo 2,3-5).",
+    "moral": "A consolidação do reino passa por decisões duras: Salomão elimina os que ameaçam a paz. O texto mostra a lógica política da época, sem a idealizar. A lição está no destino de Semei: quem viola o próprio juramento por um motivo pequeno (dois escravos) perde tudo. A fidelidade à palavra dada é questão de vida.",
+    "anagogico": "“O trono de Davi será para sempre estável diante do Senhor”: a estabilidade só será definitiva no reino de Cristo, onde não haverá mais inimigos a eliminar, mas só a paz."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vens em paz?” “O reino passou ao meu irmão, porque lhe veio do Senhor.” “O rei levantou-se… e pôs um trono para a mãe do rei.” “Pede-lhe também o reino!” “Não te matarei, porque levaste a arca.” “O trono de Davide será para sempre estável diante do Senhor.”",
+    "meditatio_perguntas": [
+      "Busco pela porta de trás o que não me foi dado?",
+      "Sou fiel aos juramentos e compromissos, mesmo nas pequenas coisas?",
+      "Recorro a Maria, Rainha-Mãe, como intercessora?"
+    ],
+    "oratio_guia": "Senhor, firma em mim o reino do teu Filho e afasta tudo o que ameaça a paz. Maria, Mãe do Rei, sentada à sua direita, intercede por mim. Amém.",
+    "contemplatio_foco": {
+      "texto": "O rei Salomão será abençoado, e o trono de Davide será para sempre estável diante do Senhor",
+      "ref": "1Rs 2,45"
+    }
+  },
+  "ancoras": {
+    "2:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “mãe do rei” (gebirá) tinha posição oficial na corte de Judá; os livros dos Reis mencionam o nome da mãe de cada rei.",
+        "origem": "ia"
+      }
+    },
+    "2:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Pedir uma mulher do harém do rei anterior equivalia a reivindicar o trono (cf. 2Sm 16,21).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

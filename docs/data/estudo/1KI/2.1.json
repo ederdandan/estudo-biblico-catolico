@@ -1,0 +1,49 @@
+{
+  "id": "1KI.2.1",
+  "livro": "1KI",
+  "titulo": "O testamento e a morte de Davi",
+  "secao": "A sucessão de Davi",
+  "referencia": "1Rs 2,1-12",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "Sê forte e porta-te como homem: o testamento e a morte de Davi",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Aproximando-se o dia da morte, Davi instrui Salomão: “Eis que vou para o lugar onde vão parar todos os mortais; sê forte, e porta-te como homem.” Observa tudo o que o Senhor teu Deus te mandou, andando nos seus caminhos, guardando os seus preceitos, como está escrito na lei de Moisés, para que tenhas êxito em tudo; para que o Senhor confirme a palavra que me disse: se os teus filhos andarem diante de mim em verdade, de todo o coração e de toda a alma, não te faltará descendente no trono de Israel. Depois, Davi fala das contas pendentes: Joab, que matou Abner e Amasa em tempo de paz, derramando sangue de guerra; não deixes que as suas cãs desçam em paz ao sepulcro. Aos filhos de Berzelai, mostra gratidão: comam à tua mesa, porque me acolheram quando fugia de Absalão. Semei, que me amaldiçoou e a quem jurei que não o mataria: não o deixes impune, és sábio para saber o que fazer. Davi adormece com os seus pais e é sepultado na cidade de Davi. Reinou quarenta anos: sete em Hebron, trinta e três em Jerusalém. Salomão se senta no trono de seu pai, e o seu reino se firma muito.",
+    "alegorico": "O testamento de Davi une a fidelidade à lei e a promessa dinástica, que se cumprirá no Filho de Davi. A morte do grande rei, que “vai pelo caminho de toda a terra”, recorda que mesmo os ungidos passam; só o Messias reinará para sempre.",
+    "moral": "A primeira parte do testamento é admirável: a fidelidade a Deus como fundamento do êxito. A segunda revela a sombra de Davi: guarda contas a ajustar e as transfere ao filho. O texto não esconde o contraste: o mesmo homem que perdoou Semei pede que não o deixe impune. Os santos do AT não são perfeitos; a plenitude do perdão virá com Cristo.",
+    "anagogico": "“Vou para o lugar onde vão todos os mortais”: Davi encara a morte com serenidade, preocupado em transmitir a fé. Que a nossa última herança seja a fidelidade a Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eis que vou para o lugar onde vão parar todos os mortais.” “Sê forte, e porta-te como homem.” “Observa tudo o que o Senhor teu Deus te mandou.” “Andarem diante de mim em verdade, de todo o seu coração.” “Adormeceu, pois, Davide com seus pais.” “O seu reino consolidou-se sobremaneira.”",
+    "meditatio_perguntas": [
+      "Que herança espiritual quero deixar aos que vêm depois de mim?",
+      "Guardo contas a ajustar que deveria entregar a Deus?",
+      "Ando diante de Deus “de todo o coração”?"
+    ],
+    "oratio_guia": "Senhor, quando chegar a minha hora de ir pelo caminho de todos, que eu possa deixar aos meus a fidelidade à tua lei e não ressentimentos. Faz-me forte e fiel até o fim. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eis que vou para o lugar onde vão parar todos os mortais; sê forte, e porta-te com o homem",
+      "ref": "1Rs 2,2"
+    }
+  },
+  "ancoras": {
+    "2:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “cidade de Davi” é a antiga Sião; o “túmulo de Davi” era conhecido ainda no tempo dos apóstolos (At 2,29).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

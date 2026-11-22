@@ -1,0 +1,57 @@
+{
+  "id": "1KI.5.1",
+  "livro": "1KI",
+  "titulo": "A aliança com Hirão e os preparativos",
+  "secao": "O Templo",
+  "referencia": "1Rs 5,1-18",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Edificarei um templo ao nome do Senhor: a aliança com Hirão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Hirão, rei de Tiro, sempre amigo de Davi, envia embaixadores a Salomão. Salomão lhe manda dizer: sabes que Davi, meu pai, não pôde edificar uma casa ao nome do Senhor por causa das guerras que o cercavam; agora o Senhor me deu repouso por todos os lados, sem adversário nem calamidade. “Por isso penso em edificar um templo ao nome do Senhor meu Deus”, como o Senhor disse a Davi: teu filho edificará a casa ao meu nome. Manda, pois, cortar cedros do Líbano; os meus servos trabalharão com os teus, e eu pagarei o salário; ninguém entre nós sabe cortar madeira como os sidônios. Hirão se alegra muito: “Bendito seja o Senhor, que deu a Davi um filho sapientíssimo.” Envia cedros e ciprestes por mar, em jangadas, até onde Salomão indicar; em troca, Salomão lhe dá trigo e azeite todos os anos. “O Senhor deu a sabedoria a Salomão, conforme lhe tinha prometido”, e há paz e aliança entre Hirão e Salomão. Salomão recruta trinta mil operários de Israel, que se revezam no Líbano dez mil por mês; tem setenta mil carregadores, oitenta mil cortadores de pedra nas montanhas e três mil e trezentos capatazes. Tiram grandes pedras preciosas para os alicerces, e os canteiros de Salomão, de Hirão e de Biblos as preparam.",
+    "alegorico": "Um rei pagão, Hirão, colabora na construção da casa de Deus e bendiz o Senhor: imagem dos povos que trazem as suas riquezas para a edificação da Igreja. Os Padres viram nas pedras talhadas fora e colocadas no templo os fiéis preparados no mundo pela graça para serem “pedras vivas” da casa espiritual (1Pd 2,5).",
+    "moral": "Salomão constrói na paz: a obra de Deus precisa de tempos de repouso, não só de guerras. Também sabe reconhecer a competência dos outros (“ninguém entre nós sabe cortar madeira como os sidônios”) e colaborar com quem não é do seu povo. O trabalho imenso, porém, recai sobre o povo; a corveia de Salomão será uma das causas do cisma.",
+    "anagogico": "O Templo que se começa a preparar é sombra da Jerusalém celeste, onde não haverá templo, porque o Senhor e o Cordeiro serão o seu templo (Ap 21,22)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor meu Deus concedeu-me repouso por toda a parte.” “Penso em edificar um templo ao nome do Senhor meu Deus.” “Bem-dito seja o Senhor Deus, que deu a Davide um filho sapientíssimo.” “Deu o Senhor a sabedoria a Salomão, conforme lhe tinha prometido.” “Pedras grandes, pedras de valor, para os alicerces do templo.”",
+    "meditatio_perguntas": [
+      "Uso os tempos de paz para construir algo para Deus?",
+      "Reconheço e valorizo os dons dos que não são “dos meus”?",
+      "Que pedras preciosas Deus está talhando em mim para a sua casa?"
+    ],
+    "oratio_guia": "Senhor, no repouso que me dás, quero edificar uma casa ao teu nome. Talha-me como pedra viva para o teu templo e faz-me colaborar com todos os que te servem. Amém.",
+    "contemplatio_foco": {
+      "texto": "Por isso penso em edificar um templo ao nome do Senhor meu Deus",
+      "ref": "1Rs 5,5"
+    }
+  },
+  "ancoras": {
+    "5:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração hebraica, 1Rs 5,1-14 corresponde a 4,21-34 da Vulgata, e 5,1-18 da Vulgata a 5,15-32 do hebraico.",
+        "origem": "ia"
+      }
+    },
+    "5:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Gíblios”: os habitantes de Biblos (Gebal), cidade fenícia famosa pelos seus artesãos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

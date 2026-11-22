@@ -1,0 +1,57 @@
+{
+  "id": "1KI.22.41",
+  "livro": "1KI",
+  "titulo": "Josafat e Ocozias",
+  "secao": "O ciclo de Elias",
+  "referencia": "1Rs 22,41-54",
+  "ini": {
+    "c": 22,
+    "v": 41
+  },
+  "fim": {
+    "c": 22,
+    "v": 54
+  },
+  "liturgia": {
+    "tema_central": "Fez o que era reto diante do Senhor: Josafat e Ocozias",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Josafat, filho de Asa, começa a reinar sobre Judá no quarto ano de Acab; tem trinta e cinco anos e reina vinte e cinco em Jerusalém. “Andou em todos os caminhos de Asa, seu pai, e não se desviou deles: fez o que era reto diante do Senhor.” Contudo, não suprime os lugares altos, onde o povo ainda sacrifica e queima incenso. Faz paz com o rei de Israel. Elimina do país o resto dos prostitutos sagrados que ficara do tempo de Asa. Edom não tem rei, mas um governador. Josafat constrói navios de Társis para ir a Ofir buscar ouro, mas eles naufragam em Asiongaber. Ocozias, filho de Acab, propõe: vão os meus servos com os teus nos navios; Josafat recusa. Josafat adormece com os pais e é sepultado na cidade de Davi; Jorão, seu filho, reina em seu lugar. Ocozias, filho de Acab, começa a reinar sobre Israel em Samaria e reina dois anos; faz o mal diante do Senhor, anda no caminho do pai, da mãe e de Jeroboão, que fez Israel pecar; serve Baal, adora-o e irrita o Senhor Deus de Israel, como o pai fizera.",
+    "alegorico": "Os dois reis, lado a lado, encerram o livro: Josafat, que anda no caminho de Davi, e Ocozias, que segue Acab e Jezabel. São os dois caminhos de Sl 1, o dos justos e o dos ímpios. A frota que naufraga foi lida como a vaidade das riquezas buscadas longe, enquanto o tesouro está na fidelidade.",
+    "moral": "Josafat é elogiado, mas com uma reserva: “não tirou os lugares altos”. Mesmo uma vida boa pode tolerar zonas de compromisso. A sua recusa da sociedade comercial com Ocozias, depois do naufrágio, mostra que aprendeu: as alianças com quem serve aos ídolos não prosperam (2Cr 20,37). Ocozias, por sua vez, herda os pecados do pai e da mãe: a educação marca as gerações.",
+    "anagogico": "O livro termina sem fechar a história: a fidelidade de uns e a infidelidade de outros continuam. Só no fim dos tempos a separação será completa, e os retos verão o Senhor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Andou em todos os caminhos de Asa, seu pai, e não se desviou deles.” “Fez o que era recto diante do Senhor.” “Não destruiu contudo os lugares altos.” “Os navios naufragaram.” “Andou no caminho de seu pai e de sua mãe.” “Serviu também Baal e o adorou.”",
+    "meditatio_perguntas": [
+      "Que “lugares altos” tolero ainda na minha vida boa?",
+      "Aprendo com os “naufrágios” a evitar alianças erradas?",
+      "Que caminho deixo como herança aos que vêm depois?"
+    ],
+    "oratio_guia": "Senhor, dá-me andar nos caminhos dos justos sem me desviar. Tira de mim os lugares altos que ainda tolero e faz que a minha herança aos que me seguem seja a fidelidade a ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Andou em todos os caminhos de Asa, seu pai, e não se desviou deles: fez o que era recto diante do Senhor",
+      "ref": "1Rs 22,43"
+    }
+  },
+  "ancoras": {
+    "22:48": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Edom, governado por um prefeito, estava então submetido a Judá, o que dava acesso ao porto de Asiongaber, no golfo de Ácaba.",
+        "origem": "ia"
+      }
+    },
+    "22:41": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "2Cr 17-20 narra amplamente o reinado de Josafat, incluindo a sua reforma judicial.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "1KI.18.1",
+  "livro": "1KI",
+  "titulo": "O sacrifício do Carmelo",
+  "secao": "O ciclo de Elias",
+  "referencia": "1Rs 18,1-46",
+  "ini": {
+    "c": 18,
+    "v": 1
+  },
+  "fim": {
+    "c": 18,
+    "v": 46
+  },
+  "liturgia": {
+    "tema_central": "O Senhor é o Deus! O sacrifício do Carmelo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No terceiro ano, o Senhor diz a Elias: vai e apresenta-te a Acab; mandarei chuva. A fome é grande em Samaria. Acab e o mordomo Abdias, que temia muito o Senhor e escondera cem profetas em cavernas, alimentando-os, saem à procura de pasto. Elias encontra Abdias e o manda anunciar a Acab: Elias está aqui. Abdias tem medo; Elias jura que se apresentará hoje. Acab o vê: “és tu aquele que trazes perturbado Israel?” Elias: “Não sou eu que perturbei Israel, mas és tu e a casa de teu pai, por terdes deixado os mandamentos do Senhor e por terdes seguido Baal.” Reúne no Carmelo todo Israel e os quatrocentos e cinquenta profetas de Baal. Elias diz ao povo: “Até quando claudicareis para os dois lados? Se o Senhor é Deus, segui-o; se é Baal, segui-o.” O povo não responde. Propõe: preparemos dois novilhos, sem fogo; o Deus que responder pelo fogo, esse é Deus. Os profetas de Baal invocam o seu deus da manhã ao meio-dia, dançando em volta do altar. Elias zomba: gritai mais alto; talvez esteja ocupado, ou viajando, ou dormindo. Eles gritam, se ferem com espadas e lanças até sangrar, e ninguém responde. À hora da oblação da tarde, Elias reconstrói o altar do Senhor com doze pedras, conforme as tribos, faz um rego em volta, põe a lenha e o novilho e manda derramar água três vezes, até encher o rego. Reza: “Senhor Deus de Abraão, de Isaac e de Israel, mostra hoje que és o Deus de Israel… Ouve-me, Senhor, ouve-me, para que este povo aprenda que tu és o Senhor Deus, e que converteste novamente o seu coração.” Cai o fogo do Senhor e consome o holocausto, a lenha, as pedras, o pó e a água. Todo o povo se prostra: “O Senhor é o Deus, o Senhor é o Deus!” Os profetas de Baal são mortos na torrente de Quison. Elias sobe ao cume do Carmelo, curva-se até a terra, com o rosto entre os joelhos, e manda o servo olhar para o mar sete vezes; à sétima, sobe uma nuvenzinha como a palma da mão. O céu escurece, vem uma grande chuva, e Elias, com a força do Senhor, corre diante do carro de Acab até Jezrael.",
+    "alegorico": "O fogo que desce do céu sobre o sacrifício molhado foi lido como figura do Espírito Santo em Pentecostes e do batismo “na água e no fogo”. A nuvenzinha que sobe do mar e traz a chuva sobre a terra seca é, na tradição carmelita, figura de Maria, de quem nasce Cristo, chuva de graça sobre o mundo.",
+    "moral": "“Até quando claudicareis para os dois lados?” É a pergunta decisiva para todos os tempos: não se pode servir a dois senhores. O silêncio do povo é o da indecisão. E Elias reza com confiança e perseverança: pede o fogo uma vez, a chuva sete vezes. A oração verdadeira busca que o povo “aprenda que tu és Deus” e que o coração se converta.",
+    "anagogico": "“O Senhor é o Deus!”: é a confissão que um dia toda a criação fará, quando todo joelho se dobrar e toda língua proclamar que Jesus Cristo é o Senhor (Fl 2,10-11)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“És tu aquele que trazes perturbado Israel?” “Não sou eu que perturbei Israel, mas és tu.” “Até quando claudicareis vós para os dois lados?” “Se o Senhor é Deus, segui-o.” “Gritai mais alto.” “Ouve-me, Senhor, ouve-me.” “O fogo do Senhor baixou do céu.” “O Senhor é o Deus, o Senhor é o Deus.” “Uma pequena nuvem, como a palma da mão.”",
+    "meditatio_perguntas": [
+      "Em que áreas da minha vida “claudico para os dois lados”?",
+      "Persevero na oração como Elias, até a sétima vez?",
+      "Quais são os “baais” que prometem e não respondem?"
+    ],
+    "oratio_guia": "Senhor, tu és Deus, só tu! Não me deixes claudicar entre ti e os ídolos. Manda o teu fogo sobre o meu sacrifício, converte o meu coração, e faz chover a tua graça sobre a terra seca. Amém.",
+    "contemplatio_foco": {
+      "texto": "Até quando claudicareis vós para os dois lados (inclinando-vos umas vezes para o Senhor e outras para Baal)? Se o Senhor é Deus, segui-o",
+      "ref": "1Rs 18,21"
+    }
+  },
+  "ancoras": {
+    "18:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O Carmelo, promontório sobre o Mediterrâneo, era lugar sagrado disputado entre Israel e Fenícia; ali nasceu a Ordem do Carmo, que tem Elias como pai espiritual.",
+        "origem": "ia"
+      }
+    },
+    "18:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ferir-se em transe era rito cananeu; a Lei o proíbe (Dt 14,1).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
