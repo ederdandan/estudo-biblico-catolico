@@ -1,0 +1,57 @@
+{
+  "id": "1CH.11.10",
+  "livro": "1CH",
+  "titulo": "Os valentes de Davi e a água de Belém",
+  "secao": "O reinado de Davi",
+  "referencia": "1Cr 11,10-46",
+  "ini": {
+    "c": 11,
+    "v": 10
+  },
+  "fim": {
+    "c": 11,
+    "v": 46
+  },
+  "liturgia": {
+    "tema_central": "A água de Belém: “o sangue destes homens”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "São registrados “os principais entre os homens fortes de Davide, que o ajudaram no seu reinado”. Jesbaão, chefe dos trinta, abateu trezentos de uma só vez; Eleazar ficou firme com Davi num campo de cevada quando o povo fugia, “e deu o Senhor uma grande vitória”. Um episódio se destaca: Davi está na caverna de Odolão, e os filisteus ocupam Belém. “Davide teve então um desejo e disse: Oh! quem me dera água da cisterna de Belém, que está junto da porta!” Três valentes atravessam o acampamento inimigo, tiram a água e a trazem. “Ele não a quis beber, mas antes a ofereceu em libação ao Senhor, dizendo: Longe de mim que eu tal faça na presença do meu Deus, que beba o sangue destes homens! De facto trouxeram-me água com perigo das suas vidas.” Seguem outros heróis, como Banaias, que “desceu e matou um leão no meio duma cisterna em tempo de neve”, e a lista dos trinta, entre eles “Urias Heteu”.",
+    "alegorico": "A água de Belém, trazida com risco de vida e derramada diante de Deus, lembra a água viva que Cristo, nascido em Belém, dá à samaritana (Jo 4,14), e o sangue derramado na cruz, oferecido ao Pai. Davi não bebe o “sangue” dos seus homens: Cristo, ao contrário, dá o seu sangue a beber aos seus.",
+    "moral": "Davi recebe um gesto heroico de amor e não o consome para si: transforma-o em oferta a Deus. É uma lição para quem tem autoridade: o sacrifício dos outros não é um direito a ser desfrutado, mas algo sagrado. E a lista dos valentes inclui Urias, o hitita, lembrando silenciosamente o pecado de Davi, que o cronista não narra.",
+    "anagogico": "A água desejada da cisterna de Belém é imagem da sede da alma por Deus, saciada no fim com a água da vida que brota do trono (Ap 22,1)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Oh! quem me dera água da cisterna de Belém.” “Atravessaram pelo meio do acampamento dos Filisteus.” “A ofereceu em libação ao Senhor.” “Que beba o sangue destes homens!” “Trouxeram-me água com perigo das suas vidas.”",
+    "meditatio_perguntas": [
+      "Reconheço o sacrifício dos outros por mim, ou o consumo como um direito?",
+      "Que gestos de amor que recebo posso oferecer a Deus?",
+      "Tenho sede de Deus como Davi da água de Belém?"
+    ],
+    "oratio_guia": "Senhor, que me deste a beber o teu sangue, faz-me grato pelo sacrifício dos outros e capaz de oferecer-te tudo o que recebo. Sacia a minha sede com a tua água viva. Amém.",
+    "contemplatio_foco": {
+      "texto": "Longe de mim que eu tal faça na presença do meu Deus, que beba o sangue destes homens!",
+      "ref": "1Cr 11,19"
+    }
+  },
+  "ancoras": {
+    "11:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 2Sm 23,13-17.",
+        "origem": "ia"
+      }
+    },
+    "11:41": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Urias, marido de Betsabé (2Sm 11).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "1CH.23.1",
+  "livro": "1CH",
+  "titulo": "Os levitas e os turnos dos sacerdotes",
+  "secao": "A preparação do Templo",
+  "referencia": "1Cr 23,1–24,31",
+  "ini": {
+    "c": 23,
+    "v": 1
+  },
+  "fim": {
+    "c": 24,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Os levitas e os turnos dos sacerdotes: louvar de manhã e à tarde",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Achando-se, pois, Davide velho, cheio de dias, constituiu rei sobre Israel a seu filho Salomão.” Reúne os chefes, sacerdotes e levitas. Os levitas são contados: trinta e oito mil, distribuídos em funções: vinte e quatro mil para o serviço da casa do Senhor, seis mil magistrados e juízes, quatro mil porteiros e quatro mil cantores. Davi diz: “O Senhor Deus de Israel deu paz ao seu povo e habitação em Jerusalém para sempre. Para o futuro, os levitas não terão mais que levar o tabernáculo.” A sua nova missão é ajudar os sacerdotes, cuidar do pão, das ofertas, dos pesos e medidas, e “apresentar-se pela manhã a cantar os louvores do Senhor, e do mesmo modo à tarde”. Depois os sacerdotes, filhos de Aarão, são divididos em vinte e quatro turnos, tirados à sorte, “tanto os mais velhos como os mais novos, colocados no mesmo pé de igualdade”.",
+    "alegorico": "Zacarias, pai de João Batista, era “da turma de Abias” (Lc 1,5), o oitavo destes turnos (24,10): foi durante o seu turno que o anjo anunciou o Precursor. O louvor da manhã e da tarde passa à Igreja nas Laudes e Vésperas, e o turno sorteado lembra a escolha de Matias “por sorte” (At 1,26).",
+    "moral": "Quando o povo se fixa, o ministério muda: os levitas já não carregam a tenda, mas recebem novas funções. Fidelidade não é rigidez: é adaptar o serviço às necessidades. E a distribuição por sorte, sem privilégio de idade, mostra que no serviço de Deus não deve haver favoritismo.",
+    "anagogico": "Os vinte e quatro turnos de sacerdotes que servem dia e noite são lembrados nos vinte e quatro anciãos que rodeiam o trono no céu (Ap 4,4)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Davide velho, cheio de dias, constituiu rei… a seu filho Salomão.” “Deu paz ao seu povo.” “Pela manhã a cantar os louvores do Senhor, e do mesmo modo à tarde.” “Continuamente na presença do Senhor.” “Tanto os mais velhos como os mais novos, colocados no mesmo pé de igualdade.”",
+    "meditatio_perguntas": [
+      "Louvo a Deus pela manhã e à tarde?",
+      "Estou disposto a mudar o modo de servir quando a missão o exige?",
+      "Trato com igualdade os que servem comigo?"
+    ],
+    "oratio_guia": "Senhor, que eu te louve de manhã e à tarde, e te sirva com fidelidade no lugar que me confias, sem buscar privilégios. Amém.",
+    "contemplatio_foco": {
+      "texto": "Os Levitas deviam apresentar-se nela pela manhã a cantar os louvores do Senhor, e do mesmo modo à tarde",
+      "ref": "1Cr 23,30"
+    }
+  },
+  "ancoras": {
+    "24:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A oitava turma, de Abias, é a de Zacarias (Lc 1,5).",
+        "origem": "ia"
+      }
+    },
+    "23:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A idade mínima varia: trinta anos (23,3; Nm 4,3), vinte e cinco (Nm 8,24) ou vinte (23,24).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

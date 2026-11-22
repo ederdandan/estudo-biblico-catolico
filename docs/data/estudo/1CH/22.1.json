@@ -1,0 +1,57 @@
+{
+  "id": "1CH.22.1",
+  "livro": "1CH",
+  "titulo": "Davi prepara o templo e instrui Salomão",
+  "secao": "A preparação do Templo",
+  "referencia": "1Cr 22,1-19",
+  "ini": {
+    "c": 22,
+    "v": 1
+  },
+  "fim": {
+    "c": 22,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "“Levanta-te e mete mãos à obra, que o Senhor será contigo”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Davi declara: “Esta é a casa de Deus, e este é o altar para os holocaustos que Israel há-de oferecer.” Começa a preparar o templo: reúne os estrangeiros para cortar pedras, junta ferro, bronze e cedro em grande quantidade. “Meu filho Salomão é um moço pequeno e tenro; a casa, porém… deve ser tal que seja nomeada em todos os países. Preparar-lhe-ei, pois… o necessário.” Chama Salomão: “Meu filho, tive vontade de edificar uma casa ao nome do Senhor… O Senhor, porém, falou-me, dizendo: Tu tens derramado muito sangue… tu não poderás edificar uma casa ao meu nome… Nascer-te-á um filho, que será um homem de paz… será chamado o Pacífico… Ele edificará uma casa ao meu nome.” E exorta: “O Senhor te dê também prudência e siso… arma-te de fortaleza e procede varonilmente; não temas nada… Levanta-te, pois, e mete mãos à obra, que o Senhor será contigo.” Aos chefes: “Disponde, pois, os vossos corações e as vossas almas, para buscardes o Senhor vosso Deus; levantai-vos e edificai o santuário.”",
+    "alegorico": "Davi, homem de guerra, prepara; Salomão, o Pacífico, constrói: assim a obra de Deus passa de uma geração a outra. Salomão, “homem de paz” que edifica a casa de Deus, é figura de Cristo, “Príncipe da paz” (Is 9,6), que edifica a sua Igreja (Mt 16,18) e de quem se diz: “ele é a nossa paz” (Ef 2,14).",
+    "moral": "Davi aceita não ser ele a construir o templo e, em vez de desistir, prepara tudo para o filho. É grande quem trabalha para uma obra que não verá terminada. A exortação a Salomão vale para todo jovem: prudência, fidelidade à Lei, coragem, e mãos à obra. Mas, antes das pedras, o primeiro material do templo são os corações dispostos a buscar o Senhor.",
+    "anagogico": "A casa que deve ser “nomeada em todos os países” anuncia a Igreja universal e o templo eterno, edificado com “pedras vivas” (1Pd 2,5)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Esta é a casa de Deus.” “Meu filho Salomão é um moço pequeno e tenro.” “Preparar-lhe-ei, pois, o necessário.” “Será um homem de paz.” “Arma-te de fortaleza e procede varonilmente; não temas nada.” “Levanta-te, pois, e mete mãos à obra, que o Senhor será contigo.” “Disponde… os vossos corações… para buscardes o Senhor.”",
+    "meditatio_perguntas": [
+      "Aceito preparar uma obra que outros vão concluir?",
+      "O que estou preparando para a geração que vem?",
+      "Disponho o coração para buscar o Senhor, antes de agir?"
+    ],
+    "oratio_guia": "Senhor, dá-me alegria em preparar o caminho para outros, sem precisar ver o fim. Dispõe o meu coração para te buscar e dá-me coragem para meter mãos à obra contigo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Levanta-te, pois, e mete mãos à obra, que o Senhor será contigo",
+      "ref": "1Cr 22,16"
+    }
+  },
+  "ancoras": {
+    "22:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O lugar é a eira de Ornan, onde Deus respondeu com fogo (21,26). Na numeração hebraica este versículo conclui o capítulo 21.",
+        "origem": "ia"
+      }
+    },
+    "22:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Salomão” evoca a palavra hebraica shalom, “paz”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

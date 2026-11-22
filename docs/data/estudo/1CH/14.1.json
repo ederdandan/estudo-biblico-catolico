@@ -1,0 +1,57 @@
+{
+  "id": "1CH.14.1",
+  "livro": "1CH",
+  "titulo": "A casa de Davi e as vitórias sobre os filisteus",
+  "secao": "O reinado de Davi",
+  "referencia": "1Cr 14,1-17",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "“Quando ouvires um rumor de passos entre as copas”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Hirão, rei de Tiro, envia a Davi madeira de cedro e operários para construir a sua casa. “Davide reconheceu que o Senhor o tinha confirmado rei sobre Israel e que o seu reino se tinha elevado por amor de Israel, seu povo.” Nascem-lhe mais filhos em Jerusalém. Os filisteus sobem para atacá-lo; “Davide consultou o Senhor, dizendo: Irei eu contra os Filisteus…? O Senhor respondeu-lhe: Vai”. Davi os vence em Baal-Farasim, dizendo: “O Senhor dividiu, por meio da minha mão, os meus inimigos, assim como se dividem as águas.” Os filisteus deixam ali os seus deuses, e Davi os manda queimar. Eles voltam; Davi consulta de novo, e Deus responde: “Não vás atrás deles… E, quando ouvires um rumor como de passos, entre as copas dos balsameiros, então sairás à peleja; porque Deus saiu diante de ti.” Davi faz assim e os derrota. “A fama de Davide espalhou-se por todos os povos.”",
+    "alegorico": "O “rumor de passos” nas copas das árvores é sinal de que o próprio Deus marcha à frente: os Padres viram nele o vento do Espírito, que sopra onde quer (Jo 3,8) e precede a ação da Igreja, como no rumor de vento impetuoso de Pentecostes (At 2,2).",
+    "moral": "Davi entende que o seu reino foi elevado “por amor de Israel, seu povo”: o poder é para servir. E consulta a Deus duas vezes, mesmo depois de uma vitória: o êxito anterior não dispensa de procurar a vontade de Deus no momento presente. Às vezes a resposta é “vai”, outras vezes é “espera o sinal”.",
+    "anagogico": "“Deus saiu diante de ti”: no combate final, é o próprio Senhor que vai à frente e dá a vitória ao seu povo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O seu reino se tinha elevado por amor de Israel, seu povo.” “Davide consultou o Senhor.” “Assim como se dividem as águas.” “Davide consultou segunda vez a Deus.” “Quando ouvires um rumor como de passos, entre as copas dos balsameiros.” “Deus saiu diante de ti.”",
+    "meditatio_perguntas": [
+      "Uso o que tenho para o bem dos outros?",
+      "Depois de um sucesso, continuo a consultar a Deus?",
+      "Sei esperar o “rumor de passos” de Deus antes de agir?"
+    ],
+    "oratio_guia": "Senhor, que vais à minha frente, ensina-me a consultar-te sempre e a esperar o teu sinal. Que tudo o que me dás seja para servir o teu povo. Amém.",
+    "contemplatio_foco": {
+      "texto": "quando ouvires um rumor como de passos, entre as copas dos balsameiros, então sairás à peleja",
+      "ref": "1Cr 14,15"
+    }
+  },
+  "ancoras": {
+    "14:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 2Sm 5,11-25. O cronista coloca este capítulo entre as duas etapas da trasladação da arca.",
+        "origem": "ia"
+      }
+    },
+    "14:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Em 2Sm 5,21 Davi leva os ídolos; aqui manda queimá-los, conforme Dt 7,5.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

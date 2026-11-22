@@ -1,0 +1,49 @@
+{
+  "id": "1CH.8.1",
+  "livro": "1CH",
+  "titulo": "Benjamim e a casa de Saul",
+  "secao": "As genealogias de Israel",
+  "referencia": "1Cr 8,1-40",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 40
+  },
+  "liturgia": {
+    "tema_central": "Benjamim e a casa de Saul",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A tribo de Benjamim é apresentada de novo, com mais pormenores: os seus clãs, as cidades de Geba e de Ono, as famílias que habitaram em Jerusalém. Chega-se então à casa do primeiro rei: “Ner gerou Cis, Cis gerou Saul, Saul gerou Jônatas, Melquisua, Abinadab e Esbaal.” A linhagem continua por Jônatas e Meribaal, filho de Jônatas, até muitas gerações depois. O capítulo termina com os descendentes de Ulão: “homens robustíssimos e hábeis no atirar do arco; tiveram muitos filhos e netos, cento e cinquenta. Todos estes foram descendentes de Benjamim.”",
+    "alegorico": "Paulo dirá com orgulho: “eu também sou israelita, da descendência de Abraão, da tribo de Benjamim” (Rm 11,1), e o seu nome de nascimento era Saulo, como o rei. O rei rejeitado deu nome ao apóstolo escolhido: a graça transforma a história de uma tribo.",
+    "moral": "A casa de Saul não é apagada, apesar da sua queda: os descendentes de Jônatas, o amigo fiel de Davi, permanecem. A amizade e a fidelidade de Jônatas deram fruto por gerações (cf. 2Sm 9).",
+    "anagogico": "A descendência que não se extingue, apesar do fracasso de Saul, aponta para a misericórdia que guarda até o fim os que Deus ama."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ner gerou Cis, Cis gerou Saul.” “Saul gerou Jônatas.” “Jônatas teve por filho a Meribaal.” “Todos estes foram descendentes de Benjamim.”",
+    "meditatio_perguntas": [
+      "Que frutos deixarão a minha fidelidade e as minhas amizades?",
+      "Vejo os fracassos dos outros com misericórdia?",
+      "Creio que Deus pode transformar uma história marcada pela queda?"
+    ],
+    "oratio_guia": "Senhor, que guardaste a descendência de Jônatas e chamaste Saulo de Tarso, transforma também as minhas quedas em caminho de graça. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ner gerou Cis, Cis gerou Saul, Saul gerou Jonatas",
+      "ref": "1Cr 8,33"
+    }
+  },
+  "ancoras": {
+    "8:33": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Esbaal é o Isboset de 2Sm 2; Meribaal (8,34) é o Mifiboset de 2Sm 9.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

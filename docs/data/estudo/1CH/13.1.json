@@ -1,0 +1,57 @@
+{
+  "id": "1CH.13.1",
+  "livro": "1CH",
+  "titulo": "A arca e a morte de Oza",
+  "secao": "O reinado de Davi",
+  "referencia": "1Cr 13,1-14",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "A arca no carro novo e a morte de Oza",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Davi consulta os chefes e todo o povo: “Se vos parece bem e se o que vos vou propor vem do Senhor nosso Deus… reconduzamos para nós a arca do nosso Deus, já que a não buscamos no tempo de Saul.” Todo o povo aprova, e Davi reúne Israel inteiro para trazer de Cariatiarim “a arca do Senhor Deus, que está sentado sobre os querubins”. Põem a arca “em cima dum carro novo”, guiado por Oza e seu irmão, e “Davide e todo o Israel manifestavam a sua alegria diante de Deus com toda a sua força em cânticos”. Na eira de Quidon, um boi faz a arca inclinar e Oza estende a mão para segurá-la. “Irritou-se o Senhor contra Oza e feriu-o… Oza morreu ali diante do Senhor.” Davi se aflige e teme: “Como poderei eu levar para minha casa a arca de Deus?” Deixa-a na casa de Obededom de Get, e ali fica três meses; “e o Senhor abençoou a sua casa e tudo o que lhe pertencia”.",
+    "alegorico": "A arca, presença de Deus no meio do povo, prefigura Maria, “arca da nova aliança”: Lucas narra a Visitação com ecos deste episódio (“como me é dado que venha a mim a mãe do meu Senhor?”, Lc 1,43; Maria fica três meses com Isabel, Lc 1,56). Como a casa de Obededom, a casa de Zacarias é abençoada pela presença do Senhor.",
+    "moral": "A intenção de Davi é boa e a alegria sincera, mas a arca é transportada num carro, como faziam os filisteus, e não aos ombros dos levitas, como mandava a Lei. O zelo sem obediência e a familiaridade sem reverência são perigosos. A santidade de Deus não é manipulável. Mas a mesma presença que fere a irreverência abençoa a casa que a acolhe.",
+    "anagogico": "A arca que abençoa a casa que a recebe anuncia a promessa: “se alguém me ama… viremos a ele e faremos nele a nossa morada” (Jo 14,23), e o tabernáculo de Deus com os homens no fim (Ap 21,3)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Se o que vos vou propor vem do Senhor nosso Deus.” “A não buscamos no tempo de Saul.” “Manifestavam a sua alegria diante de Deus com toda a sua força.” “Oza estendeu a mão para suster a arca.” “Como poderei eu levar para minha casa a arca de Deus?” “O Senhor abençoou a sua casa.”",
+    "meditatio_perguntas": [
+      "O meu zelo pelas coisas de Deus é também obediente ao modo de Deus?",
+      "Trato o sagrado com reverência ou com familiaridade descuidada?",
+      "A presença do Senhor traz bênção à minha casa?"
+    ],
+    "oratio_guia": "Senhor, que habitas sobre os querubins, dá-me reverência e alegria diante da tua presença. Vem habitar na minha casa e abençoa-a, como a de Obededom. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ficou, pois, a arca de Deus em casa de Obededom durante três meses; e o Senhor abençoou a sua casa",
+      "ref": "1Cr 13,14"
+    }
+  },
+  "ancoras": {
+    "13:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Lei mandava levar a arca aos ombros dos levitas (Nm 4,15; 7,9). Cf. 2Sm 6,1-11.",
+        "origem": "ia"
+      }
+    },
+    "13:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O cronista contrapõe Davi a Saul: um busca a arca, o outro a esqueceu.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

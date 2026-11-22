@@ -1,0 +1,57 @@
+{
+  "id": "1CH.15.1",
+  "livro": "1CH",
+  "titulo": "A arca sobe a Jerusalém",
+  "secao": "O reinado de Davi",
+  "referencia": "1Cr 15,1-29",
+  "ini": {
+    "c": 15,
+    "v": 1
+  },
+  "fim": {
+    "c": 15,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "A arca sobe a Jerusalém: o som da alegria até ao céu",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Davi prepara um lugar para a arca e levanta-lhe uma tenda. Agora diz: “Não é permitido que a arca de Deus seja levada por alguém senão pelos Levitas, aos quais o Senhor escolheu para a levarem.” Convoca os sacerdotes e os chefes levitas: “purificai-vos com vossos irmãos… Com efeito, da primeira vez, porque não estáveis presentes, nos feriu o Senhor, porque não fomos buscar a arca segundo as determinações da lei.” “Os filhos de Levi tomaram a arca de Deus aos ombros pelos varais, como Moisés tinha ordenado.” Davi manda organizar cantores com cítaras, harpas e címbalos, “a fim de que ressoasse até ao céu o som da alegria”. Davi, os anciãos e os chefes vão “com alegria” buscar a arca da casa de Obededom; Davi, vestido de linho, com um éfode de linho, segue com todo Israel, “com vozes de júbilo, ao som de clarins, trombetas, címbalos, harpas e cítaras”. Quando a arca chega à cidade de Davi, Micol, filha de Saul, vê da janela o rei saltar e dançar, “e desprezou-o no seu coração”.",
+    "alegorico": "A arca que sobe a Jerusalém entre cânticos é figura da Ascensão de Cristo: “Deus subiu entre aclamações” (Sl 46,6); e de Maria, Arca da Aliança, assunta ao céu, que a liturgia celebra com o Salmo 131: “levanta-te, Senhor… tu e a arca da tua santidade”. Davi, rei e vestido de linho como os levitas, dançando diante de Deus, prefigura Cristo, Rei e Sacerdote.",
+    "moral": "Davi aprende com o erro: reconhece publicamente que falhou por não seguir a Lei, e agora faz tudo “como Moisés tinha ordenado”. Humildade para corrigir-se é sinal de grandeza. A liturgia pede preparação (purificar-se) e alegria (cantar até ao céu). E o desprezo de Micol mostra o coração que não entende a alegria simples diante de Deus.",
+    "anagogico": "“Que ressoasse até ao céu o som da alegria”: a procissão da arca anuncia a entrada do povo de Deus na Jerusalém celeste, entre cânticos de júbilo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não fomos buscar a arca segundo as determinações da lei.” “Tomaram a arca de Deus aos ombros pelos varais.” “A fim de que ressoasse até ao céu o som da alegria.” “Foram com alegria.” “O rei Davide saltava e dançava.” “Desprezou-o no seu coração.”",
+    "meditatio_perguntas": [
+      "Sei reconhecer os meus erros e corrigir o caminho?",
+      "Preparo-me para a liturgia e participo dela com alegria?",
+      "Desprezo, como Micol, a fé simples e expansiva dos outros?"
+    ],
+    "oratio_guia": "Senhor, que recebeste a alegria de Davi diante da tua arca, dá-me humildade para corrigir os meus erros e alegria para te louvar sem medo do julgamento dos outros. Amém.",
+    "contemplatio_foco": {
+      "texto": "a fim de que ressoasse até ao céu o som da alegria",
+      "ref": "1Cr 15,16"
+    }
+  },
+  "ancoras": {
+    "15:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Dt 10,8.",
+        "origem": "ia"
+      }
+    },
+    "15:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 2Sm 6,16-23.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

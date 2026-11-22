@@ -1,0 +1,49 @@
+{
+  "id": "1CH.18.1",
+  "livro": "1CH",
+  "titulo": "As vitórias de Davi",
+  "secao": "O reinado de Davi",
+  "referencia": "1Cr 18,1-17",
+  "ini": {
+    "c": 18,
+    "v": 1
+  },
+  "fim": {
+    "c": 18,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "“O Senhor ajudou-o em tudo aquilo que empreendeu”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Davi derrota os filisteus e toma Get; vence Moab, que lhe paga tributo; vence Adarezer, rei de Soba, até ao Eufrates, e os sírios de Damasco que vieram em seu socorro. “Pôs guarnição em Damasco… O Senhor ajudou-o em tudo aquilo que empreendeu.” Toma os escudos de ouro e grande quantidade de bronze, com o qual Salomão fará depois o “mar de bronze” e as colunas do templo. Tou, rei de Emat, envia-lhe presentes; Davi consagra ao Senhor a prata e o ouro tomados aos povos. Põe guarnições na Idumeia: “O Senhor salvou Davide em todas as expedições que fez. Davide reinou sobre todo o Israel, e julgava e fazia justiça a todo o seu povo.” Segue a lista dos seus oficiais: Joab no exército, Josafá como cronista, Sadoc e Abimelec como sacerdotes, e os filhos de Davi como os primeiros junto do rei.",
+    "alegorico": "As vitórias de Davi que alargam o reino até ao Eufrates prefiguram o reino do Messias, que dominará “de mar a mar, e desde o rio até aos confins da terra” (Sl 71,8). Os despojos consagrados ao templo lembram que as riquezas das nações serão levadas para a Jerusalém nova (Ap 21,26).",
+    "moral": "O cronista sublinha duas coisas: a vitória vem do Senhor, e o rei deve “julgar e fazer justiça a todo o seu povo”. O poder só se justifica pela justiça. Davi consagra os despojos ao Senhor: o que se ganha deve servir a Deus e à comunidade, não só ao próprio enriquecimento.",
+    "anagogico": "O reinado de justiça sobre “todo o Israel” anuncia o reino definitivo de Cristo, “rei de justiça e de paz” (Hb 7,2)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor ajudou-o em tudo aquilo que empreendeu.” “Consagrou o rei Davide ao Senhor todos os vasos de ouro.” “O Senhor salvou Davide em todas as expedições que fez.” “Julgava e fazia justiça a todo o seu povo.”",
+    "meditatio_perguntas": [
+      "Reconheço que os meus êxitos vêm do Senhor?",
+      "Consagro a Deus parte do que ganho?",
+      "Sou justo com os que dependem de mim?"
+    ],
+    "oratio_guia": "Senhor, que ajudaste Davi em tudo o que empreendeu, ajuda-me no que faço e faz-me justo com todos. Que eu te consagre os frutos do meu trabalho. Amém.",
+    "contemplatio_foco": {
+      "texto": "Davide reinou sobre todo o Israel, e julgava e fazia justiça a todo o seu povo",
+      "ref": "1Cr 18,14"
+    }
+  },
+  "ancoras": {
+    "18:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O bronze usado no “mar de bronze” do templo: cf. 2Cr 4,2. Cf. 2Sm 8.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "1CH.2.1",
+  "livro": "1CH",
+  "titulo": "Os filhos de Israel e a casa de Judá",
+  "secao": "As genealogias de Israel",
+  "referencia": "1Cr 2,1-55",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 55
+  },
+  "liturgia": {
+    "tema_central": "Judá: dos pecados à linhagem de Davi",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Os filhos de Israel foram: Ruben, Simeão, Levi, Judá, Issacar, Zabulon, Dan, José, Benjamin, Neftali, Gad e Aser.” O cronista começa por Judá, a tribo real. Não esconde as sombras: “Her, primogênito de Judá, foi mau diante do Senhor, e o Senhor fê-lo morrer”; “Tamar, nora de Judá, deu-lhe à luz Farés e Zara”; e Acar, “que turbou Israel e pecou num furto de coisa votada anátema”. Pela linha de Farés chega-se a Booz, Obed e Isaí, que teve sete filhos: “Isaí teve por primogênito a Eliab… sétimo Davide.” Seguem os clãs de Caleb e de Jerameel, com suas cidades e famílias.",
+    "alegorico": "Mateus abre o Evangelho com esta mesma linha: “Judá gerou Farés e Zara, de Tamar… Booz gerou Obed, de Rute; Obed gerou Jessé; Jessé gerou o rei Davi” (Mt 1,3-6). O Messias assume uma história marcada pelo pecado, para salvá-la por dentro. Davi, o sétimo e menor dos filhos, prefigura o Filho que Deus escolhe entre os pequenos.",
+    "moral": "A Escritura não apaga as falhas dos antepassados: Her, Tamar, Acar estão registrados. Deus escreve direito por linhas tortas. Também a nossa história familiar, com feridas e pecados, pode ser lugar da graça. E Deus escolhe o último, o sétimo filho, para ser rei.",
+    "anagogico": "Da linhagem de Judá nasce “o Leão da tribo de Judá, a raiz de Davi” (Ap 5,5), que venceu e abrirá o livro da história no fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Os filhos de Israel foram: Ruben, Simeão, Levi, Judá…” “Foi mau diante do Senhor.” “Tamar… deu-lhe à luz Farés e Zara.” “Acar, que turbou Israel.” “Sexto Asom, sétimo Davide.”",
+    "meditatio_perguntas": [
+      "Aceito a minha história familiar, com luzes e sombras, como lugar onde Deus age?",
+      "Acredito que Deus escolhe os pequenos e os últimos?",
+      "Como posso “perturbar” a minha comunidade com o pecado, como Acar?"
+    ],
+    "oratio_guia": "Senhor, que fizeste nascer o teu Filho de uma linhagem de pecadores, entra também na minha história e na da minha família, e transforma as nossas sombras em caminho de salvação. Amém.",
+    "contemplatio_foco": {
+      "texto": "sexto Asom, sétimo Davide",
+      "ref": "1Cr 2,15"
+    }
+  },
+  "ancoras": {
+    "2:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Acar é o Acã de Js 7; o nome “Acar” significa “perturbação”.",
+        "origem": "ia"
+      }
+    },
+    "2:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Em 1Sm 16,10-11 Isaí tem oito filhos; o cronista conta sete.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

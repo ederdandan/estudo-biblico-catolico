@@ -1,0 +1,57 @@
+{
+  "id": "1CH.12.1",
+  "livro": "1CH",
+  "titulo": "Os que se juntaram a Davi",
+  "secao": "O reinado de Davi",
+  "referencia": "1Cr 12,1-40",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 40
+  },
+  "liturgia": {
+    "tema_central": "“Nós somos teus, ó Davi”: os que vieram com um só coração",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Registram-se os que se juntaram a Davi quando ele ainda fugia de Saul: primeiro, benjamitas, “parentes de Saul”, hábeis com a funda e o arco “com ambas as mãos”; depois, gaditas cujo “aspecto era como de leões, e a sua agilidade como das gazelas das montanhas”. Quando vieram homens de Benjamim e de Judá, Davi saiu-lhes ao encontro: “Se vindes pacificamente a socorrer-me, o meu coração se unirá ao vosso; mas se me armais ciladas… o Deus de nossos pais seja disto testemunha.” Amasai, “revestido do espírito”, responde: “Nós somos teus, ó Davide, e estamos contigo, ó filho de Isaí. A paz, a paz seja contigo, a paz seja com teus defensores, porque o teu Deus te protege.” “Assim cada dia concorria gente a Davide… até que se fez um grande número, como um exército de Deus.” Segue a lista das tribos que vieram a Hebron, entre elas os de Issacar, “homens inteligentes, que sabiam notar todos os tempos”. “Todos estes… foram com um coração sincero a Hebron”; ficaram três dias comendo e bebendo, “porque havia regozijo em Israel”.",
+    "alegorico": "“Nós somos teus… estamos contigo”: é a profissão de fé dos discípulos que deixam tudo para seguir o Filho de Davi. A saudação “a paz seja contigo” antecipa a do Ressuscitado (Jo 20,19). A multidão que cresce “cada dia” lembra a Igreja nascente: “o Senhor acrescentava cada dia ao seu número” (At 2,47).",
+    "moral": "Até parentes de Saul passam para o lado de Davi: a adesão é escolha pessoal, não sangue. Davi pede sinceridade e não lealdade aparente. Os homens de Issacar sabiam “notar os tempos”: o discernimento dos sinais dos tempos é dom precioso. E a unidade termina em festa partilhada.",
+    "anagogico": "O exército que cresce até ser “como um exército de Deus” e a festa de três dias em Hebron anunciam a multidão incontável reunida em torno do Cordeiro no banquete eterno."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O meu coração se unirá ao vosso.” “Nós somos teus, ó Davide, e estamos contigo.” “A paz, a paz seja contigo.” “Como um exército de Deus.” “Sabiam notar todos os tempos.” “Com um coração sincero.” “Havia regozijo em Israel.”",
+    "meditatio_perguntas": [
+      "Posso dizer a Cristo com sinceridade: “sou teu, estou contigo”?",
+      "Sei discernir os sinais dos tempos, como os de Issacar?",
+      "Contribuo para a unidade e a alegria da comunidade?"
+    ],
+    "oratio_guia": "Senhor Jesus, Filho de Davi, eu sou teu e estou contigo. Dá-me um coração sincero, discernimento dos tempos e o dom de construir a paz. Amém.",
+    "contemplatio_foco": {
+      "texto": "Nós somos teus, ó Davide, e estamos contigo, ó filho de Isaí",
+      "ref": "1Cr 12,18"
+    }
+  },
+  "ancoras": {
+    "12:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Revestido do espírito”: literalmente “o espírito revestiu Amasai”, expressão usada também para Gedeão (Jz 6,34).",
+        "origem": "ia"
+      }
+    },
+    "12:32": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os de Issacar são lembrados como modelo de discernimento político e espiritual.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

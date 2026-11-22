@@ -1,0 +1,57 @@
+{
+  "id": "1CH.3.1",
+  "livro": "1CH",
+  "titulo": "A descendência de Davi",
+  "secao": "As genealogias de Israel",
+  "referencia": "1Cr 3,1-24",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "A casa de Davi, do esplendor ao exílio",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Davide teve estes filhos, que lhe nasceram em Hebron: o primogênito Amnon… o terceiro, Absalão… o quarto, Adonias.” Reinou sete anos e seis meses em Hebron e trinta e três em Jerusalém, onde lhe nasceram Simaa, Sobab, Natan e Salomão, “todos quatro de Betsabé”, e outros filhos, além de Tamar, sua filha. Segue a lista dos reis de Judá, de Salomão até Josias e seus filhos, e chega ao exílio: “Filhos de Jeconias foram: Asir, Salatiel…”; “De Fadaia nasceram Zorobabel e Semei.” A genealogia continua depois do exílio, por várias gerações da descendência de Zorobabel.",
+    "alegorico": "Mateus segue esta linha: “depois da transmigração de Babilônia, Jeconias gerou Salatiel; Salatiel gerou Zorobabel” (Mt 1,12). A casa de Davi parecia extinta no exílio, mas a lista continua: a promessa de Deus não foi interrompida, e dela nascerá Jesus, Filho de Davi. Lucas segue a linha de Natan (Lc 3,31).",
+    "moral": "A lista atravessa o pecado (Amnon, Absalão), a glória (Salomão) e a ruína (o exílio), e não para. Deus é fiel mesmo quando a família de Davi é infiel. Diante das quedas, a fidelidade de Deus é a nossa esperança.",
+    "anagogico": "A descendência de Davi que continua depois do exílio aponta para o reino que “não terá fim” (Lc 1,33)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Davide teve estes filhos.” “Em Jerusalém reinou durante trinta e três anos.” “Salomão, todos quatro de Betsabé.” “Filhos de Jeconias foram: Asir, Salatiel.” “De Fadaia nasceram Zorobabel.”",
+    "meditatio_perguntas": [
+      "Creio na fidelidade de Deus mesmo quando parece que tudo acabou?",
+      "Que “exílios” da minha vida Deus atravessou comigo?",
+      "Sou um elo fiel na transmissão da fé à próxima geração?"
+    ],
+    "oratio_guia": "Deus fiel, que guardaste a casa de Davi através do pecado e do exílio, guarda também a minha família e faz que a fé passe de geração em geração. Amém.",
+    "contemplatio_foco": {
+      "texto": "Em Jerusalém reinou durante trinta e três anos",
+      "ref": "1Cr 3,4"
+    }
+  },
+  "ancoras": {
+    "3:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jeconias (Joaquin) foi levado para a Babilônia em 597 a.C. (2Rs 24,15).",
+        "origem": "ia"
+      }
+    },
+    "3:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Em Esd 3,2 e Mt 1,12 Zorobabel é chamado filho de Salatiel; aqui, filho de Fadaia (talvez por levirato).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

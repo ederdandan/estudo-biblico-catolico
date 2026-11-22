@@ -1,0 +1,57 @@
+{
+  "id": "1CH.6.1",
+  "livro": "1CH",
+  "titulo": "Levi: sacerdotes, cantores e cidades levíticas",
+  "secao": "As genealogias de Israel",
+  "referencia": "1Cr 6,1-81",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 81
+  },
+  "liturgia": {
+    "tema_central": "Levi: os que oram por Israel e cantam diante do Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A genealogia de Levi é a mais longa. “Filhos de Amrão: Arão, Moisés” e Maria. “Filhos de Arão: Nadab e Abiu, Eleazar e Itamar.” Segue a linha dos sumos sacerdotes, de Eleazar até Josedec, que “foi para o cativeiro”. Depois os cantores: “Eis aqueles que Davide constituiu sobre os cantores da casa do Senhor… cantando, ministraram diante do tabernáculo do testemunho, até que Salomão edificou a casa do Senhor.” Os três chefes de coro são Heman, Asaf e Etã. “Os Levitas, seus irmãos, foram destinados para todo o serviço do tabernáculo… Porém Aarão e seus filhos queimavam as vítimas sobre o altar dos holocaustos e sobre o altar dos perfumes… e oravam por Israel.” O capítulo termina com as cidades dadas aos levitas em todas as tribos, incluídas as cidades de refúgio.",
+    "alegorico": "O sacerdócio de Aarão, que “orava por Israel”, prefigura o de Cristo, que “vive sempre para interceder por nós” (Hb 7,25). Os cantores do templo, Asaf, Heman e Etã, cujos nomes aparecem nos títulos dos Salmos, anunciam a Igreja em oração, que continua o louvor dia e noite na Liturgia das Horas.",
+    "moral": "O serviço de Deus tem várias formas: o altar, o canto, a guarda, o cuidado das coisas. Todos são necessários. E a missão do sacerdote é dupla: oferecer e interceder. Os levitas não tinham território próprio, mas moravam no meio de todas as tribos: o ministério está ao serviço de todo o povo.",
+    "anagogico": "Os cantores que ministram “diante do tabernáculo” anunciam a liturgia celeste, em que os redimidos cantam diante do trono o cântico novo (Ap 14,3)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Filhos de Arão: Nadab e Abiu, Eleazar e Itamar.” “Cantando, ministraram diante do tabernáculo do testemunho.” “Foram destinados para todo o serviço do tabernáculo.” “E oravam por Israel.”",
+    "meditatio_perguntas": [
+      "Rezo pelos outros, como os sacerdotes oravam por Israel?",
+      "Qual é o meu serviço na “casa do Senhor”?",
+      "Valorizo o canto e a beleza da liturgia?"
+    ],
+    "oratio_guia": "Senhor, que escolheste Levi para te servir e orar pelo povo, abençoa os teus sacerdotes e ministros, e faz de mim também um intercessor pelos meus irmãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "cantando, ministraram diante do tabernáculo do testemunho",
+      "ref": "1Cr 6,32"
+    }
+  },
+  "ancoras": {
+    "6:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração hebraica, 1Cr 6,1-15 corresponde a 1Cr 5,27-41, e o restante do capítulo está deslocado.",
+        "origem": "ia"
+      }
+    },
+    "6:33": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Heman era neto do profeta Samuel.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "1CH.21.1",
+  "livro": "1CH",
+  "titulo": "O recenseamento e a eira de Ornan",
+  "secao": "O reinado de Davi",
+  "referencia": "1Cr 21,1-30",
+  "ini": {
+    "c": 21,
+    "v": 1
+  },
+  "fim": {
+    "c": 21,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "“É melhor cair nas mãos do Senhor”: o recenseamento e a eira de Ornan",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Levantou-se, pois, Satanás contra Israel, e incitou Davide a fazer o recenseamento de Israel.” Joab resiste: “Porventura, ó rei, meu senhor, não são todos servos teus? Por que procura o meu senhor fazer uma coisa que será imputada como pecado a Israel?” Mas a ordem prevalece. Deus fere Israel, e Davi confessa: “Eu cometi um grande pecado… peço-te que perdoes a culpa ao teu servo.” O profeta Gad lhe oferece três castigos à escolha; Davi responde: “para mim é melhor cair nas mãos do Senhor, porque é de muita misericórdia, do que cair nas mãos dos homens.” Vem a peste. Quando o anjo estende a mão sobre Jerusalém, “o Senhor olhou e compadeceu-se… e mandou ao anjo exterminador: Basta”. Davi vê o anjo com a espada entre o céu e a terra e se prostra: “Fui eu que pequei… mas este rebanho, que mereceu ele? Volte-se, pois… a tua mão contra mim.” Por ordem do anjo, Davi vai à eira de Ornan, o jebuseu. Ornan oferece tudo de graça, mas Davi responde: “eu não devo… oferecer assim ao Senhor holocaustos que não me custam nada.” Compra o terreno, levanta um altar, e o Senhor responde “mandando do céu fogo sobre o altar”. O anjo embainha a espada.",
+    "alegorico": "A eira de Ornan será o lugar do templo (2Cr 3,1), no monte Moriá onde Abraão ofereceu Isaac. Davi, o pastor que se oferece pelo rebanho, “que mereceu ele?”, prefigura o Bom Pastor que dá a vida pelas ovelhas (Jo 10,11). O sacrifício que detém a espada do anjo anuncia o sacrifício da cruz, que afasta a ira e traz a reconciliação.",
+    "moral": "O pecado de Davi é o orgulho de contar a própria força, como se o povo fosse seu. Mas a sua conversão é exemplar: confessa sem desculpas, prefere confiar na misericórdia de Deus, oferece-se em lugar do povo e recusa um sacrifício “que não custa nada”. O amor verdadeiro a Deus custa algo.",
+    "anagogico": "“Basta, retira já a tua mão”: a misericórdia de Deus tem a última palavra sobre o castigo; no fim, o altar onde Deus responde com fogo é o lugar onde ele habitará com o seu povo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não são todos servos teus?” “Eu cometi um grande pecado.” “É melhor cair nas mãos do Senhor, porque é de muita misericórdia.” “O Senhor olhou e compadeceu-se.” “Fui eu que pequei… mas este rebanho, que mereceu ele?” “Holocaustos que não me custam nada.”",
+    "meditatio_perguntas": [
+      "Em que confio: nos meus números e forças, ou no Senhor?",
+      "Assumo os meus pecados sem os atribuir aos outros?",
+      "A minha oferta a Deus custa-me alguma coisa?"
+    ],
+    "oratio_guia": "Senhor de muita misericórdia, prefiro cair nas tuas mãos. Perdoa a minha soberba e aceita a oferta que te faço, não do que me sobra, mas do que me custa. Amém.",
+    "contemplatio_foco": {
+      "texto": "para mim é melhor cair nas mãos do Senhor, porque é de muita misericórdia, do que cair nas mãos dos homens",
+      "ref": "1Cr 21,13"
+    }
+  },
+  "ancoras": {
+    "21:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Em 2Sm 24,1 é “a ira do Senhor” que incita Davi; o cronista atribui a tentação a Satanás, distinguindo a permissão de Deus da ação do tentador.",
+        "origem": "ia"
+      }
+    },
+    "21:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "2Sm 24,24 fala de cinquenta siclos de prata pela eira e pelos bois; o cronista pensa no terreno inteiro do futuro templo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "1CH.1.1",
+  "livro": "1CH",
+  "titulo": "De Adão a Esaú: a família das nações",
+  "secao": "As genealogias de Israel",
+  "referencia": "1Cr 1,1-54",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 54
+  },
+  "liturgia": {
+    "tema_central": "De Adão a Israel: uma só família humana",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O livro começa sem introdução, só com nomes: “Adão, Set, Enós, Cainan, Malaleel, Jared, Henoc, Matusalém, Lamec, Noé, Sem, Cam e Jafet.” Segue a descendência dos três filhos de Noé, que formam os povos da terra (a “tábua das nações” do Gênesis); entre eles, Nemrod, “o qual começou a ser poderoso na terra”. Da linhagem de Sem chega-se a “Abrão, o mesmo que Abraão”. Os filhos de Abraão são Isaac e Ismael; os de Quetura também são registrados. “Abraão gerou Isaac, que teve por filhos Esaú e Israel.” O capítulo termina com os descendentes de Esaú e com os reis e chefes de Edom, que reinaram “antes que os filhos de Israel tivessem rei”.",
+    "alegorico": "O cronista, escrevendo depois do exílio, começa por Adão: a história de Israel está inserida na história de toda a humanidade. Lucas fará o mesmo com a genealogia de Jesus, que remonta “a Adão, que foi de Deus” (Lc 3,38): Cristo é o novo Adão, que recapitula toda a família humana.",
+    "moral": "Uma lista de nomes ensina que cada pessoa conta para Deus. Os povos vizinhos, até Edom, o rival, estão registrados: Deus não esquece ninguém. A eleição de Israel não anula a pertença de todos à mesma família, nascida de Adão.",
+    "anagogico": "Os nomes escritos na genealogia prefiguram os nomes “escritos no livro da vida” (Ap 21,27): no fim, Deus reunirá a família humana inteira que criou."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Adão, Set, Enós.” “Noé, Sem, Cam e Jafet.” “Nemrod, o qual começou a ser poderoso na terra.” “Abrão, o mesmo que Abraão.” “Abraão gerou Isaac, que teve por filhos Esaú e Israel.”",
+    "meditatio_perguntas": [
+      "Sinto-me parte de uma única família humana, criada por Deus?",
+      "Agradeço pelos que me precederam na fé e na vida?",
+      "Creio que o meu nome é conhecido por Deus?"
+    ],
+    "oratio_guia": "Deus de Adão, de Noé e de Abraão, que conheces todos os povos e todos os nomes, faz-me reconhecer em cada pessoa um irmão. Escreve o meu nome no livro da vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "Abraão gerou Isaac, que teve por filhos Esaú e Israel",
+      "ref": "1Cr 1,34"
+    }
+  },
+  "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os capítulos 1–9 resumem em genealogias a história de Gênesis a Reis.",
+        "origem": "ia"
+      }
+    },
+    "1:43": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Reis de Edom: cf. Gn 36,31-43.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

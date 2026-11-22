@@ -1,0 +1,57 @@
+{
+  "id": "1CH.27.1",
+  "livro": "1CH",
+  "titulo": "Os chefes do exército e do reino",
+  "secao": "A preparação do Templo",
+  "referencia": "1Cr 27,1-34",
+  "ini": {
+    "c": 27,
+    "v": 1
+  },
+  "fim": {
+    "c": 27,
+    "v": 34
+  },
+  "liturgia": {
+    "tema_central": "A organização do reino",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O exército é organizado em doze turmas de vinte e quatro mil homens, cada uma servindo um mês por ano, com seu comandante, entre eles os valentes de Davi como Banaias e Asael. Seguem os chefes das tribos. O cronista acrescenta: “Não quis, porém, Davide contar os que tinha menos de vinte anos, porque o Senhor tinha dito que multiplicaria Israel como as estrelas do céu”; e o recenseamento de Joab, interrompido pela ira de Deus, nem foi registrado nos anais. Depois, os administradores dos bens do rei: tesouros, campos, vinhas, olivais, gado, camelos e jumentas. E os conselheiros: “Jonatan, tio paterno de Davide, homem prudente e letrado, era seu conselheiro… Aquitofel era conselheiro do rei; Ousai Araquita era amigo do rei.”",
+    "alegorico": "O reino organizado, em que cada um tem a sua tarefa e o seu tempo, é figura da Igreja, corpo com muitos membros e funções (1Cor 12,12-28). O “amigo do rei” lembra as palavras de Jesus: “já não vos chamo servos… chamei-vos amigos” (Jo 15,15).",
+    "moral": "Governar bem exige organização, turnos justos e boa administração dos bens. O serviço é distribuído para que ninguém seja sobrecarregado. Entre os conselheiros, um era o “amigo do rei”: todo responsável precisa não só de técnicos, mas de amigos sinceros.",
+    "anagogico": "A ordem do reino de Davi anuncia o Reino em que “Deus não é Deus de confusão, mas de paz” (1Cor 14,33), e onde cada um terá o seu lugar."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Entrando e saindo todos os meses do ano.” “O Senhor tinha dito que multiplicaria Israel como as estrelas do céu.” “Homem prudente e letrado, era seu conselheiro.” “Ousai Araquita era amigo do rei.”",
+    "meditatio_perguntas": [
+      "Administro com ordem e honestidade o que me é confiado?",
+      "Distribuo as tarefas de modo justo?",
+      "Tenho, e sou, um amigo verdadeiro que aconselha com sinceridade?"
+    ],
+    "oratio_guia": "Senhor, que és Deus de ordem e de paz, dá-me sabedoria para administrar bem o que me confias e amigos sinceros no caminho. Faz-me teu amigo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Jonatan, tio paterno de Davide, homem prudente e letrado, era seu conselheiro",
+      "ref": "1Cr 27,32"
+    }
+  },
+  "ancoras": {
+    "27:33": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cusai, o “amigo do rei”, ajudou Davi contra Absalão (2Sm 15,32-37); Aquitofel o traiu (2Sm 17,23).",
+        "origem": "ia"
+      }
+    },
+    "27:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 21,1-7.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "1CH.28.1",
+  "livro": "1CH",
+  "titulo": "Davi entrega a Salomão o modelo do templo",
+  "secao": "A preparação do Templo",
+  "referencia": "1Cr 28,1-21",
+  "ini": {
+    "c": 28,
+    "v": 1
+  },
+  "fim": {
+    "c": 28,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "“Se tu o buscares, ele se deixará encontrar por ti”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Davi convoca em Jerusalém todos os chefes de Israel e, de pé, diz: “Ouvi-me, irmãos meus e povo meu: Eu tinha intenção de edificar uma casa de repouso para a arca da aliança do Senhor e o escabelo dos pés do nosso Deus… Deus, porém, disse-me: Tu não edificarás uma casa ao meu nome, porque és um homem guerreiro.” Recorda que Deus o escolheu entre os irmãos, e Salomão entre os filhos, “para se sentar no trono do reino do Senhor sobre Israel”. Exorta o povo: “Guardai e estudai todos os mandamentos do Senhor.” E a Salomão: “E tu, meu filho Salomão, conhece o Deus de teu pai, serve-o com um coração perfeito e uma plena vontade, porque o Senhor sonda todos os corações e penetra todos os pensamentos do espírito. Se tu o buscares, ele se deixará encontrar por ti, mas, se o deixares, ele te rejeitará para sempre.” Entrega-lhe o modelo de todo o templo: o pórtico, as salas, a “casa da propiciação”, os átrios, os utensílios de ouro e prata com o seu peso, e o carro dos querubins sobre a arca. “Todas estas coisas… me foram dadas escritas pela mão de Deus.” E repete: “Procede varonilmente, anima-te e mete mãos à obra; não temas nada… o Senhor meu Deus será contigo, não te abandonará, nem te desamparará.”",
+    "alegorico": "O trono de Salomão é chamado “trono do reino do Senhor”: o rei de Israel é apenas lugar-tenente do verdadeiro Rei. Isso se cumpre em Cristo, a quem o Pai deu “o trono de Davi” (Lc 1,32). O modelo do templo “escrito pela mão de Deus” lembra o tabernáculo feito segundo o modelo mostrado a Moisés no monte, figura do santuário celeste (Hb 8,5).",
+    "moral": "O testamento de Davi ao filho é o essencial da vida espiritual: conhecer a Deus, servi-lo com coração inteiro e alma generosa, saber que ele sonda os corações. E uma promessa: quem busca a Deus o encontra. O que um pai pode deixar de melhor ao filho não é um palácio, é este conselho.",
+    "anagogico": "“Se tu o buscares, ele se deixará encontrar por ti”: a busca de Deus nesta vida termina no encontro face a face, quando o veremos como ele é."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ouvi-me, irmãos meus e povo meu.” “O escabelo dos pés do nosso Deus.” “Guardai e estudai todos os mandamentos do Senhor.” “Conhece o Deus de teu pai, serve-o com um coração perfeito.” “O Senhor sonda todos os corações.” “Se tu o buscares, ele se deixará encontrar por ti.” “Não te abandonará, nem te desamparará.”",
+    "meditatio_perguntas": [
+      "Sirvo a Deus com coração inteiro ou dividido?",
+      "Que herança espiritual estou deixando aos mais jovens?",
+      "Busco a Deus com a certeza de que ele se deixa encontrar?"
+    ],
+    "oratio_guia": "Deus de meus pais, que sondas os corações, dá-me conhecer-te e servir-te com um coração perfeito. Eu te busco: deixa-te encontrar por mim, e não me abandones até que a obra esteja concluída. Amém.",
+    "contemplatio_foco": {
+      "texto": "Se tu o buscares, ele se deixará encontrar por ti",
+      "ref": "1Cr 28,9"
+    }
+  },
+  "ancoras": {
+    "28:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Davi fala de pé, como numa assembleia solene; o “escabelo dos pés” de Deus é a arca (cf. Sl 131,7).",
+        "origem": "ia"
+      }
+    },
+    "28:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Ex 25,9.40.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

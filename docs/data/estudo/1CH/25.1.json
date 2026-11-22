@@ -1,0 +1,57 @@
+{
+  "id": "1CH.25.1",
+  "livro": "1CH",
+  "titulo": "Os cantores, os porteiros e os tesoureiros",
+  "secao": "A preparação do Templo",
+  "referencia": "1Cr 25,1–26,32",
+  "ini": {
+    "c": 25,
+    "v": 1
+  },
+  "fim": {
+    "c": 26,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "Os cantores que profetizam e os porteiros da casa do Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Davide e os chefes do exército escolheram para o ministério os filhos de Asaf, de Heman e de Iditun, a fim de tocarem harpa, cítara e címbalos.” Asaf “cantava junto do rei”; Iditun “cantava ao som da cítara, presidindo aos que cantavam e louvavam ao Senhor”; Heman era “vidente do rei, para cantar louvores de Deus”, e “Deus tinha dado a Heman quatorze filhos e três filhas”. Eram duzentos e oitenta e oito, “todos exercitados em cantar ao Senhor”. “Deitaram sortes pelas suas classes, tanto o maior como o menor, tanto o mestre como o discípulo.” Depois são organizados os porteiros, coritas e outros, que “serviam sempre na casa do Senhor”; para cada porta “deitaram-se sortes… sem distinção nem de pequenos nem de grandes”. Outros levitas “tinham a guarda dos tesouros da casa de Deus e dos vasos sagrados”, e alguns são nomeados oficiais e juízes em Israel.",
+    "alegorico": "O canto do templo é chamado “profecia” (25,1-3 no hebraico): a música litúrgica anuncia e celebra as obras de Deus. Os Salmos de Asaf e dos filhos de Coré passaram à oração da Igreja. Os porteiros lembram que Cristo é a porta e que a Igreja deve guardar e abrir a casa de Deus.",
+    "moral": "O canto litúrgico é um ministério que exige formação: eram “exercitados em cantar”. Mestres e discípulos, grandes e pequenos, estão no mesmo sorteio. Guardar portas e tesouros também é serviço sagrado. Cada um tem o seu lugar na casa de Deus.",
+    "anagogico": "Os coros que se sucedem dia e noite no templo prefiguram o coro dos santos que cantam diante de Deus “harpas de Deus” nas mãos (Ap 15,2)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A fim de tocarem harpa, cítara e címbalos.” “Presidindo aos que cantavam e louvavam ao Senhor.” “Para cantar louvores de Deus, para exaltar o seu poder.” “Todos exercitados em cantar ao Senhor.” “Tanto o mestre como o discípulo.” “Serviam sempre na casa do Senhor.”",
+    "meditatio_perguntas": [
+      "Valorizo a música e o canto como serviço a Deus?",
+      "Preparo-me para o serviço que exerço na comunidade?",
+      "Considero sagrados também os serviços “de porta”, humildes e ocultos?"
+    ],
+    "oratio_guia": "Senhor, que recebes o louvor dos teus cantores, aceita o meu canto e o meu serviço humilde. Que eu sirva sempre na tua casa, grande ou pequeno, mestre ou discípulo. Amém.",
+    "contemplatio_foco": {
+      "texto": "todos exercitados em cantar ao Senhor, que ensinavam os cânticos do Senhor",
+      "ref": "1Cr 25,7"
+    }
+  },
+  "ancoras": {
+    "25:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O hebraico diz que eles “profetizavam” com harpas, cítaras e címbalos.",
+        "origem": "ia"
+      }
+    },
+    "25:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Heman, neto de Samuel (6,33), é o autor atribuído do Sl 87.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

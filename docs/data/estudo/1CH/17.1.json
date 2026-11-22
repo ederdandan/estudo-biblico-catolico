@@ -1,0 +1,57 @@
+{
+  "id": "1CH.17.1",
+  "livro": "1CH",
+  "titulo": "A promessa de uma casa para sempre",
+  "secao": "O reinado de Davi",
+  "referencia": "1Cr 17,1-27",
+  "ini": {
+    "c": 17,
+    "v": 1
+  },
+  "fim": {
+    "c": 17,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "“Eu serei seu pai, e ele será meu filho”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Davi, já instalado no palácio, diz ao profeta Natã: “Eu habito numa casa de cedro, e a arca da aliança do Senhor está sob uma tenda.” Natã aprova, mas naquela noite o Senhor lhe fala: “Tu não me edificarás uma casa para eu habitar.” Deus recorda: “Quando tu conduzias os rebanhos a pastar, eu te escolhi… fui contigo, por onde quer que andavas.” E promete: “o Senhor há-de fundar para ti uma casa… eu suscitarei um do teu sangue… Esse me edificará uma casa, e firmarei o seu trono para sempre. Eu serei seu pai, e ele será meu filho; não tirarei dele a minha misericórdia… e o seu trono será imóvel perpetuamente.” Davi vai diante do Senhor e reza: “Quem sou eu, Senhor Deus, e que casa é a minha, para que me faças tais coisas?… Senhor, não há outro semelhante a ti… Tu mesmo, Senhor meu Deus, revelaste ao ouvido do teu servo que lhe edificarias uma casa, e, por isso, o teu servo se encheu de confiança, para orar em tua presença… Abençoa a casa do teu servo, para que subsista sempre diante de ti.”",
+    "alegorico": "É a profecia messiânica central: “Eu serei seu pai, e ele será meu filho” é aplicada a Cristo em Hb 1,5. O anjo a retoma na Anunciação: “o Senhor Deus lhe dará o trono de Davi, seu pai… e o seu reino não terá fim” (Lc 1,32-33). O cronista omite a menção ao castigo pelos pecados (2Sm 7,14), deixando o filho prometido como figura pura do Messias.",
+    "moral": "Davi quer fazer algo para Deus, mas Deus responde que é ele quem fará uma casa para Davi. A iniciativa é sempre de Deus: a graça precede as nossas obras. A resposta de Davi é a humildade agradecida, “quem sou eu?”, e uma oração confiante, que pede apenas que Deus cumpra o que prometeu.",
+    "anagogico": "O trono “imóvel perpetuamente” é o reino eterno de Cristo, e a “casa” que Deus edifica é a Igreja, que no fim será a morada definitiva de Deus com os homens."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu habito numa casa de cedro, e a arca… está sob uma tenda.” “Eu te escolhi.” “Fui contigo, por onde quer que andavas.” “Eu serei seu pai, e ele será meu filho.” “Quem sou eu, Senhor Deus?” “O teu servo se encheu de confiança, para orar em tua presença.” “Abençoa a casa do teu servo.”",
+    "meditatio_perguntas": [
+      "Deixo que Deus tome a iniciativa na minha vida?",
+      "Sei dizer com gratidão: “quem sou eu, Senhor”?",
+      "A minha oração se apoia nas promessas de Deus?"
+    ],
+    "oratio_guia": "Senhor Deus, quem sou eu para que me faças tais coisas? Tu me escolheste e foste comigo por onde andei. Cumpre a tua palavra e abençoa a minha casa, para que subsista sempre diante de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu serei seu pai, e ele será meu filho",
+      "ref": "1Cr 17,13"
+    }
+  },
+  "ancoras": {
+    "17:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em Hb 1,5. Cf. 2Sm 7,14, que acrescenta a correção “com vara de homens”.",
+        "origem": "ia"
+      }
+    },
+    "17:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “casa” é ao mesmo tempo dinastia e templo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

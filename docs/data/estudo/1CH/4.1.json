@@ -1,0 +1,49 @@
+{
+  "id": "1CH.4.1",
+  "livro": "1CH",
+  "titulo": "Judá e Simeão: a oração de Jabes",
+  "secao": "As genealogias de Israel",
+  "referencia": "1Cr 4,1-43",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 43
+  },
+  "liturgia": {
+    "tema_central": "A oração de Jabes",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Seguem os clãs de Judá, com os nomes das cidades e dos ofícios. No meio dos nomes, uma pequena história: “Jabes foi mais ilustre do que seus irmãos, e sua mãe pôs-lhe o nome de Jabes, dizendo: Porque o dei à luz com dor. Jabes invocou o Deus de Israel, dizendo: Oh! Se tu me cumulasses de bênçãos e dilatasses os meus limites, se a tua mão fosse comigo, e não permitisses que eu fosse oprimido pela malícia!… E Deus concedeu-lhe o que ele pediu.” Registram-se também os artesãos e “os oleiros que habitavam nas hortas e nos cercados, nas casas do rei”. Depois vem a tribo de Simeão, com suas cidades; alguns dos seus clãs, multiplicados, saem em busca de pastagens e se estabelecem em Gador e no monte Seir.",
+    "alegorico": "O filho nascido “com dor” que se torna o mais ilustre lembra a palavra de Jesus: “a mulher, quando dá à luz, está triste… mas depois que deu à luz o menino, já se não lembra da aflição” (Jo 16,21). Cristo, o “homem das dores”, tornou-se fonte de bênção.",
+    "moral": "O nome de Jabes lembrava a dor, mas ele não se deixou definir por ela: rezou. A sua oração é simples e confiante: bênção, horizontes maiores, a mão de Deus, proteção contra o mal. Lembra o Pai-nosso: “livrai-nos do mal”. E Deus o atendeu. Também o trabalho humilde dos oleiros fica registrado: nenhum ofício é pequeno.",
+    "anagogico": "A oração de Jabes pelos “limites dilatados” encontra a sua resposta final na herança sem fronteiras do Reino."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Porque o dei à luz com dor.” “Jabes invocou o Deus de Israel.” “Se tu me cumulasses de bênçãos e dilatasses os meus limites.” “Se a tua mão fosse comigo.” “E Deus concedeu-lhe o que ele pediu.”",
+    "meditatio_perguntas": [
+      "Deixo que as dores do meu passado definam quem eu sou?",
+      "Peço a Deus com confiança que a sua mão esteja comigo?",
+      "Valorizo o trabalho escondido e humilde, meu e dos outros?"
+    ],
+    "oratio_guia": "Deus de Israel, cumula-me de bênçãos e dilata os meus horizontes; que a tua mão esteja comigo e me livre do mal. Amém.",
+    "contemplatio_foco": {
+      "texto": "Se tu me cumulasses de bênçãos e dilatasses os meus limites, se a tua mão fosse comigo",
+      "ref": "1Cr 4,10"
+    }
+  },
+  "ancoras": {
+    "4:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Jabes” soa em hebraico como a palavra “dor”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

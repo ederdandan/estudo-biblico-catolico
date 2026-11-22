@@ -1,0 +1,57 @@
+{
+  "id": "1CH.16.1",
+  "livro": "1CH",
+  "titulo": "O cântico de ação de graças diante da arca",
+  "secao": "O reinado de Davi",
+  "referencia": "1Cr 16,1-43",
+  "ini": {
+    "c": 16,
+    "v": 1
+  },
+  "fim": {
+    "c": 16,
+    "v": 43
+  },
+  "liturgia": {
+    "tema_central": "“Dai glória ao Senhor, porque a sua misericórdia é eterna”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Colocam a arca no meio da tenda e oferecem holocaustos e sacrifícios pacíficos. Davi “abençoou o povo em nome do Senhor” e distribuiu a todos, “tanto a homens como a mulheres, uma torta de pão, um pedaço de carne… e flor de farinha frita em azeite”. Estabelece levitas “para servir diante da arca do Senhor, fazer comemoração das suas obras, glorificar e louvar o Senhor”, com Asaf como chefe. Naquele dia confia a Asaf um cântico: “Louvai o Senhor, e invocai o seu nome: tornai conhecidas as suas obras entre os povos… Buscai o Senhor e a sua fortaleza; buscai sempre a sua face… Cantai ao Senhor, ó habitantes de toda a terra; anunciai de dia em dia a salvação… Alegrem-se os céus, e exulte a terra! Diga-se entre as nações: O Senhor é o rei… Dai glória ao Senhor, porque é bom, porque a sua misericórdia é eterna. Dizei: Salva-nos, ó Deus nosso Salvador.” “Todo o povo diga: Amen! e: Louvai o Senhor.” Davi deixa Asaf diante da arca para servir “continuamente”, e Sadoc com os sacerdotes no santuário de Gabaon para os holocaustos “de manhã e de tarde”.",
+    "alegorico": "O cântico une partes dos Salmos 104, 95 e 105 (Vulgata), mostrando que a oração de Israel se faz com as palavras dos salmos. O pão distribuído a todos após o sacrifício anuncia a Eucaristia, em que Cristo, Filho de Davi, depois de oferecer-se, reparte o pão ao seu povo. O “Amém” e o “Aleluia” do povo passam à liturgia da Igreja e à do céu (Ap 19,4).",
+    "moral": "O louvor tem três movimentos: fazer memória das obras de Deus, anunciá-las aos povos e pedir: “salva-nos, junta-nos”. Davi organiza um culto contínuo: a oração não é só para os grandes dias. E o rei partilha o pão com todos, homens e mulheres: a festa diante de Deus é também caridade.",
+    "anagogico": "“Alegrem-se os céus… porque ele vem julgar a terra”: o louvor de Israel olha para a vinda do Senhor, quando toda a criação exultará diante dele."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Abençoou o povo em nome do Senhor.” “Fazer comemoração das suas obras.” “Buscai sempre a sua face.” “Anunciai de dia em dia a salvação.” “Diga-se entre as nações: O Senhor é o rei.” “Porque a sua misericórdia é eterna.” “Todo o povo diga: Amen!”",
+    "meditatio_perguntas": [
+      "Faço memória das obras de Deus na minha vida?",
+      "Busco sempre a sua face, ou só nas dificuldades?",
+      "Anuncio aos outros a salvação que recebi?"
+    ],
+    "oratio_guia": "Senhor, eu te dou graças porque és bom, porque a tua misericórdia é eterna. Que eu busque sempre a tua face e anuncie de dia em dia a tua salvação. Amém. Aleluia.",
+    "contemplatio_foco": {
+      "texto": "Dai glória ao Senhor, porque é bom, porque a sua misericórdia é eterna",
+      "ref": "1Cr 16,34"
+    }
+  },
+  "ancoras": {
+    "16:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os vv. 8-22 = Sl 104,1-15; vv. 23-33 = Sl 95; vv. 34-36 = Sl 105,1.47-48 (numeração da Vulgata).",
+        "origem": "ia"
+      }
+    },
+    "16:39": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O altar dos holocaustos e o tabernáculo de Moisés continuavam em Gabaon (cf. 2Cr 1,3).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

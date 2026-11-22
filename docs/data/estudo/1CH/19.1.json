@@ -1,0 +1,57 @@
+{
+  "id": "1CH.19.1",
+  "livro": "1CH",
+  "titulo": "A guerra contra os amonitas e os gigantes",
+  "secao": "O reinado de Davi",
+  "referencia": "1Cr 19,1–20,7",
+  "ini": {
+    "c": 19,
+    "v": 1
+  },
+  "fim": {
+    "c": 20,
+    "v": 7
+  },
+  "liturgia": {
+    "tema_central": "A gentileza mal-entendida e a guerra contra Amon",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Morre Naás, rei dos amonitas. Davi diz: “Quero mostrar o meu afeto a Hanon, filho de Naas, pois que recebi favores de seu pai”, e envia mensageiros para consolá-lo. Mas os chefes amonitas desconfiam: “Não vês que os servos vieram para explorar…?” Hanon manda rapar-lhes a cabeça e a barba e cortar-lhes as túnicas até à cintura. Davi, sabendo do ultraje, manda dizer-lhes que fiquem em Jericó “até lhes crescer a barba”. Os amonitas contratam carros e soldados da Síria. Joab divide o exército com seu irmão Abisai: “Se os Sírios prevalecerem contra mim, tu virás socorrer-me; se os Amonitas prevalecerem contra ti, eu te socorrerei. Esforça-te e pelejemos valorosamente pelo nosso povo e pelas cidades do nosso Deus; e o Senhor fará o que bem lhe parecer.” Sírios e amonitas fogem. No ano seguinte, “no tempo em que os reis costumam ir para a guerra”, Joab cerca Raba; Davi toma a coroa do rei. Por fim, em guerras contra os filisteus, são mortos gigantes da raça de Rafa, entre eles “um irmão de Golias” e um homem com seis dedos em cada mão e pé.",
+    "alegorico": "A bondade de Davi mal interpretada e o ultraje aos seus mensageiros lembram os servos enviados pelo rei na parábola, maltratados e mortos (Mt 22,6), e os discípulos enviados por Cristo, que nem sempre são recebidos (Lc 10,10). A vitória sobre os gigantes, descendentes de Rafa, lembra que o Filho de Davi vence o “forte armado” (Lc 11,21).",
+    "moral": "A desconfiança transforma um gesto de consolo em guerra. Quantos conflitos nascem de interpretar mal a intenção dos outros! Davi cuida da dignidade dos seus homens humilhados. E Joab dá uma lição de coragem e confiança: fazer a nossa parte com valor e ajuda mútua, “e o Senhor fará o que bem lhe parecer”.",
+    "anagogico": "Os gigantes vencidos um a um anunciam a vitória final sobre todos os inimigos, quando “o último inimigo a ser destruído será a morte” (1Cor 15,26)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quero mostrar o meu afeto a Hanon.” “Mandou mensageiros para o consolarem.” “Que ficassem em Jericó, até lhes crescer a barba.” “Tu virás socorrer-me… eu te socorrerei.” “Pelejemos valorosamente… e o Senhor fará o que bem lhe parecer.”",
+    "meditatio_perguntas": [
+      "Interpreto mal as boas intenções dos outros?",
+      "Cuido da dignidade dos que foram humilhados?",
+      "Faço a minha parte com coragem e deixo o resultado nas mãos de Deus?"
+    ],
+    "oratio_guia": "Senhor, livra-me da desconfiança que vê inimigos nos que me querem bem. Dá-me coragem para lutar o bom combate e confiança para deixar o resultado nas tuas mãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "pelejemos valorosamente pelo nosso povo e pelas cidades do nosso Deus; e o Senhor fará o que bem lhe parecer",
+      "ref": "1Cr 19,13"
+    }
+  },
+  "ancoras": {
+    "20:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Davide, porém, ficou em Jerusalém”: é o momento do pecado com Betsabé (2Sm 11), que o cronista não narra.",
+        "origem": "ia"
+      }
+    },
+    "20:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 2Sm 21,19, onde o texto parece atribuir a Elcanã a morte do próprio Golias.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

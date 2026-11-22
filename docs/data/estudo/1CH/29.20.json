@@ -1,0 +1,57 @@
+{
+  "id": "1CH.29.20",
+  "livro": "1CH",
+  "titulo": "Salomão rei e a morte de Davi",
+  "secao": "A preparação do Templo",
+  "referencia": "1Cr 29,20-30",
+  "ini": {
+    "c": 29,
+    "v": 20
+  },
+  "fim": {
+    "c": 29,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "“Morreu numa ditosa velhice, cheio de dias, de bens e de glória”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Davi diz à assembleia: “Bendizei o Senhor nosso Deus.” E todo o povo bendiz o Senhor, prostrando-se e adorando. No dia seguinte oferecem mil touros, mil carneiros e mil cordeiros, “e comeram e beberam naquele dia diante do Senhor, com grande regozijo”. Ungem segunda vez Salomão como rei, e Sadoc como sacerdote. “Salomão sentou-se no trono do Senhor, como rei em lugar de Davide, seu pai; agradou a todos, e todo o Israel lhe rendeu obediência.” Todos os chefes, e até os filhos de Davi, juram fidelidade. “O Senhor elevou Salomão sobre todo o Israel e deu-lhe… tal glória, qual antes dele não teve nenhum rei de Israel.” Davi reinou quarenta anos, sete em Hebron e trinta e três em Jerusalém. “Morreu numa ditosa velhice, cheio de dias, de bens e de glória. Salomão seu filho reinou em lugar dele.” As suas ações estão escritas nos livros de Samuel, de Natã e de Gad.",
+    "alegorico": "Salomão senta-se “no trono do Senhor”: o reino de Israel é reino de Deus confiado a um homem, figura do Filho que se senta “à direita do trono de Deus” (Hb 12,2). A transmissão pacífica do reino, com a unção do rei e do sacerdote, anuncia Cristo, Rei e Sacerdote.",
+    "moral": "O cronista apresenta uma sucessão serena, sem as intrigas de 1 Reis 1–2: interessa-lhe mostrar o projeto de Deus que continua. Davi termina a vida “cheio de dias, de bens e de glória”: não sem pecados, mas reconciliado e com a obra entregue. Uma boa morte é a de quem preparou bem os que vêm depois.",
+    "anagogico": "A morte de Davi “numa ditosa velhice” aponta para a esperança da vida eterna, em que os que adormecem no Senhor recebem a glória que não passa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Bendizei o Senhor nosso Deus.” “Comeram e beberam naquele dia diante do Senhor, com grande regozijo.” “Salomão sentou-se no trono do Senhor.” “Morreu numa ditosa velhice, cheio de dias, de bens e de glória.”",
+    "meditatio_perguntas": [
+      "Como desejo terminar a minha vida?",
+      "Preparo a sucessão nas responsabilidades que tenho?",
+      "Bendigo o Senhor com o povo, na alegria da comunidade?"
+    ],
+    "oratio_guia": "Senhor, que deste a Davi uma ditosa velhice, concede-me terminar os meus dias em paz contigo, tendo entregue bem o que me confiaste. Bendito sejas para sempre. Amém.",
+    "contemplatio_foco": {
+      "texto": "Morreu numa ditosa velhice, cheio de dias, de bens e de glória",
+      "ref": "1Cr 29,28"
+    }
+  },
+  "ancoras": {
+    "29:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Segunda vez”: a primeira unção é lembrada em 23,1 (cf. 1Rs 1,39).",
+        "origem": "ia"
+      }
+    },
+    "29:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os livros “de Samuel, de Natã e de Gad” são fontes proféticas que o cronista cita.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

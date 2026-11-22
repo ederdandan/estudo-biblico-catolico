@@ -1,0 +1,57 @@
+{
+  "id": "1CH.10.1",
+  "livro": "1CH",
+  "titulo": "A morte de Saul",
+  "secao": "O reinado de Davi",
+  "referencia": "1Cr 10,1-14",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "“Não consultou o Senhor”: a morte de Saul",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os filisteus combatem contra Israel, e os israelitas fogem e caem mortos no monte Gelboé. Os filisteus matam Jônatas, Abinadab e Melquisua, filhos de Saul; os arqueiros alcançam Saul e o ferem. Saul pede ao escudeiro: “Desembainha a tua espada e mata-me, não suceda virem estes incircuncidados zombar de mim.” O escudeiro não ousa; “então Saul pegou na sua espada e lançou-se sobre ela”, e o escudeiro faz o mesmo. “Morreu Saul e três filhos seus, e toda a sua família pereceu juntamente.” No dia seguinte, os filisteus cortam-lhe a cabeça e penduram-na no templo de Dagon. Os homens de Jabes de Galaad recolhem os corpos, sepultam os ossos debaixo do carvalho e jejuam sete dias. E o cronista conclui: “Morreu Saul por causa das suas iniquidades, por ter desobedecido ao mandamento que o Senhor lhe tinha imposto, e consultado os evocadores dos mortos. Não consultou o Senhor, por isso ele o matou, e transferiu o seu reino para Davide, filho de Isaí.”",
+    "alegorico": "O cronista começa a narrativa pela queda de Saul para mostrar que o reino de Davi não é conquista humana, mas dom de Deus. O rei que “não consultou o Senhor” é o contrário do Filho de Davi, que diz: “a minha comida é fazer a vontade daquele que me enviou” (Jo 4,34).",
+    "moral": "O pecado de Saul é resumido numa frase: “não consultou o Senhor”, e procurou respostas nos evocadores dos mortos. Quando deixamos de buscar a Deus, buscamos outras vozes. O desespero termina no suicídio: a morte de Saul é a de quem perdeu a esperança. Os homens de Jabes, ao contrário, mostram gratidão e piedade: dão sepultura ao rei que um dia os salvou.",
+    "anagogico": "A obra de misericórdia de sepultar os mortos, feita pelos homens de Jabes, aponta para a esperança da ressurreição, que dá sentido à piedade com os corpos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Desembainha a tua espada e mata-me.” “Toda a sua família pereceu juntamente.” “Enterraram os seus ossos debaixo do carvalho… e jejuaram sete dias.” “Não consultou o Senhor.” “Transferiu o seu reino para Davide.”",
+    "meditatio_perguntas": [
+      "Consulto o Senhor nas minhas decisões, ou procuro outras vozes?",
+      "Onde busco respostas quando Deus parece calar?",
+      "Sou grato aos que me fizeram bem, como os homens de Jabes?"
+    ],
+    "oratio_guia": "Senhor, livra-me de buscar respostas longe de ti e do desespero que fecha o coração. Ensina-me a consultar-te sempre e a esperar em ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não consultou o Senhor, por isso ele o matou, e transferiu o seu reino para Davide, filho de Isaí",
+      "ref": "1Cr 10,14"
+    }
+  },
+  "ancoras": {
+    "10:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 1Sm 28: Saul consulta a necromante de Endor.",
+        "origem": "ia"
+      }
+    },
+    "10:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Toda a sua família” no sentido da casa reinante; Isboset e Mifiboset sobreviveram (2Sm 2–4; 9).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

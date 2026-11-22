@@ -1,0 +1,57 @@
+{
+  "id": "1CH.5.1",
+  "livro": "1CH",
+  "titulo": "As tribos do outro lado do Jordão",
+  "secao": "As genealogias de Israel",
+  "referencia": "1Cr 5,1-26",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "Rúben, Gad e Manassés: confiaram e foram ouvidos; abandonaram e foram levados",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Eis os filhos de Ruben, primogênito de Israel (porque este foi o seu primogênito, embora, por ter manchado o tálamo de seu pai, fosse o seu direito de primogenitura dado aos filhos de José…); quanto a Judá, que era o mais valente de todos os seus irmãos, da sua estirpe saíram príncipes.” Seguem as famílias de Rúben, de Gad e da meia tribo de Manassés, a leste do Jordão. Na guerra contra os agareus, foram vencedores “porque invocaram a Deus quando pelejavam, e ele ouviu-os, porque tinham confiado nele”. Mas depois “abandonaram, porém, o Deus de seus pais, e prostituíram-se seguindo os deuses dos povos da terra”; por isso Deus “suscitou o espírito de Ful, rei dos Assírios”, que levou essas tribos para o exílio, “até ao dia de hoje”.",
+    "alegorico": "A primogenitura que passa de Rúben a José e o principado que vai para Judá mostram que a bênção não é automática: segue a fidelidade. Em Cristo, o “primogênito de toda a criatura” (Cl 1,15), a primogenitura é dada a todos os que creem.",
+    "moral": "Duas atitudes em poucos versículos: confiar e invocar a Deus no combate, e ser ouvido; abandonar a Deus na prosperidade, e perder tudo. A mesma gente, em dois momentos. A fidelidade de ontem não garante a de amanhã.",
+    "anagogico": "“Ele ouviu-os, porque tinham confiado nele”: é a lei de toda a vida espiritual, que culmina na confiança final de quem entrega a vida nas mãos do Pai."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Por ter manchado o tálamo de seu pai.” “Invocaram a Deus quando pelejavam.” “Ele ouviu-os, porque tinham confiado nele.” “Abandonaram, porém, o Deus de seus pais.”",
+    "meditatio_perguntas": [
+      "Invoco a Deus nas minhas lutas?",
+      "Na prosperidade, continuo fiel?",
+      "Que deuses dos “povos da terra” me atraem hoje?"
+    ],
+    "oratio_guia": "Senhor, que ouves os que confiam em ti, guarda-me fiel nas lutas e na prosperidade, para que nunca te abandone. Amém.",
+    "contemplatio_foco": {
+      "texto": "porque invocaram a Deus quando pelejavam, e ele ouviu-os, porque tinham confiado nele",
+      "ref": "1Cr 5,20"
+    }
+  },
+  "ancoras": {
+    "5:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Gn 35,22; 49,3-4.",
+        "origem": "ia"
+      }
+    },
+    "5:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ful é Teglat-Falasar III, que deportou as tribos da Transjordânia por volta de 733 a.C. (2Rs 15,29).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "1CH.29.1",
+  "livro": "1CH",
+  "titulo": "As ofertas do povo e a oração de Davi",
+  "secao": "A preparação do Templo",
+  "referencia": "1Cr 29,1-19",
+  "ini": {
+    "c": 29,
+    "v": 1
+  },
+  "fim": {
+    "c": 29,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "“Tudo é teu, e o que recebemos da tua mão, isso mesmo te oferecemos”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Davi diz à assembleia: “a empresa é grande, porque não se prepara a morada para um homem, mas para Deus.” Conta o que preparou e oferece ainda do seu próprio tesouro; e convida: “Se alguém, por sua vontade, oferecer alguma coisa ao Senhor, encha hoje as suas mãos.” Os chefes fazem ofertas generosas de ouro, prata, bronze, ferro e pedras preciosas. “O povo alegrou-se, ao fazer estas oferendas voluntárias, porque as fazia de todo o seu coração ao Senhor.” Então Davi louva a Deus diante de todos: “Bendito és tu, ó Senhor Deus de Israel, nosso pai, de eternidade em eternidade. Tua é, Senhor, a grandeza, o poder, honra, majestade… Tuas são as riquezas, tua é a glória… Quem sou eu, e quem é o meu povo, para te podermos oferecer todas estas coisas? Tudo é teu, e o que recebemos da tua mão, isso mesmo te oferecemos. Nós somos peregrinos e estrangeiros diante de ti… Os nossos dias são como a sombra sobre a terra… Eu sei, Deus meu, que sondas os corações e que amas a simplicidade… conserva eternamente este afeto no coração do teu povo, e encaminha para ti o seu coração. Dá também a meu filho Salomão um coração perfeito.”",
+    "alegorico": "A oração de Davi ecoa na doxologia do Pai-nosso, “porque teu é o reino, o poder e a glória”, que nasce deste versículo. E “o que recebemos da tua mão, isso mesmo te oferecemos” é a lógica do ofertório da Missa: oferecemos o pão “que recebemos da vossa bondade”, e o Pai no-lo devolve como Corpo de Cristo.",
+    "moral": "Tudo o que damos a Deus já é dele: a generosidade é só devolver. Por isso a oferta deve ser voluntária, alegre e simples, “Deus ama quem dá com alegria” (2Cor 9,7). E a consciência de sermos “peregrinos”, com dias “como a sombra”, liberta do apego às riquezas. Davi pede no fim o mais importante: que Deus conserve esse afeto no coração do povo e dê ao filho um coração inteiro.",
+    "anagogico": "“Nós somos peregrinos e estrangeiros diante de ti”: os patriarcas confessaram que buscavam uma pátria melhor, a celeste (Hb 11,13-16); a casa que Davi prepara é sinal da morada eterna que Deus prepara para nós."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não se prepara a morada para um homem, mas para Deus.” “Encha hoje as suas mãos.” “As fazia de todo o seu coração ao Senhor.” “Tua é, Senhor, a grandeza, o poder.” “Tudo é teu, e o que recebemos da tua mão, isso mesmo te oferecemos.” “Nós somos peregrinos e estrangeiros diante de ti.” “Amas a simplicidade.” “Encaminha para ti o seu coração.”",
+    "meditatio_perguntas": [
+      "Reconheço que tudo o que tenho é de Deus?",
+      "Ofereço a Deus com alegria e simplicidade, ou por obrigação?",
+      "Vivo como peregrino, ou agarrado ao que passa?"
+    ],
+    "oratio_guia": "Bendito és tu, Senhor, nosso Pai, de eternidade em eternidade. Teu é o reino, o poder e a glória. Tudo é teu, e eu te devolvo o que recebi da tua mão. Conserva no meu coração este afeto, e encaminha-o para ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tudo é teu, e o que recebemos da tua mão, isso mesmo te oferecemos",
+      "ref": "1Cr 29,14"
+    }
+  },
+  "ancoras": {
+    "29:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Daqui deriva a doxologia “porque teu é o reino, o poder e a glória”, acrescentada ao Pai-nosso na tradição litúrgica.",
+        "origem": "ia"
+      }
+    },
+    "29:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O dárico era uma moeda persa: o cronista escreve na época persa.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

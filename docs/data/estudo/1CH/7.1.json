@@ -1,0 +1,57 @@
+{
+  "id": "1CH.7.1",
+  "livro": "1CH",
+  "titulo": "As tribos do norte",
+  "secao": "As genealogias de Israel",
+  "referencia": "1Cr 7,1-40",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 40
+  },
+  "liturgia": {
+    "tema_central": "As tribos do norte e a dor de Efraim",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Registram-se, com os números de guerreiros, as famílias de Issacar, Benjamim, Neftali, a outra meia tribo de Manassés, Efraim e Aser. Na genealogia de Efraim aparece uma história de dor: dois filhos de Efraim, Ezer e Elad, foram mortos pelos habitantes de Get quando invadiram as suas terras. “Chorou-os Efraim, seu pai, durante muitos dias, e seus irmãos foram para o consolar. Depois juntou-se com sua mulher, e ela concebeu e deu à luz um filho, a que pôs o nome de Béria, por ter nascido no meio das aflições da sua família.” E uma mulher construtora: “A sua filha foi Sara, que reedificou a alta e a baixa Betoron.” Da linha de Efraim vem Josué, filho de Nun. O capítulo termina com Aser: “homens distintos e valorosíssimos”.",
+    "alegorico": "O pai que chora os filhos e é consolado pelos irmãos lembra Raquel, que “chora os seus filhos e não quer ser consolada” (Mt 2,18), e o Pai que dá o seu Filho. O nascimento de Béria “no meio das aflições” anuncia que Deus faz nascer vida nova do luto.",
+    "moral": "Mesmo numa lista de guerreiros, a Escritura registra o luto de um pai e o consolo dos irmãos. Consolar é obra de misericórdia. Depois da dor, a vida recomeça. E a Escritura lembra uma mulher que construiu cidades: Deus age também pelas mulheres de iniciativa.",
+    "anagogico": "A vida que nasce no meio da aflição é sinal da ressurreição, quando Deus “enxugará toda lágrima” (Ap 21,4)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Chorou-os Efraim, seu pai, durante muitos dias.” “Seus irmãos foram para o consolar.” “Por ter nascido no meio das aflições da sua família.” “Reedificou a alta e a baixa Betoron.”",
+    "meditatio_perguntas": [
+      "Visito e consolo os que estão de luto?",
+      "Creio que Deus pode fazer nascer vida nova depois da dor?",
+      "Reconheço o papel das mulheres que constroem e sustentam a comunidade?"
+    ],
+    "oratio_guia": "Deus de toda consolação, consola os que choram os seus filhos e faz nascer vida nova no meio das aflições. Faz-me consolador dos meus irmãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Chorou-os Efraim, seu pai, durante muitos dias, e seus irmãos foram para o consolar",
+      "ref": "1Cr 7,22"
+    }
+  },
+  "ancoras": {
+    "7:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Béria” soa em hebraico como “na desgraça”.",
+        "origem": "ia"
+      }
+    },
+    "7:27": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Josué é da tribo de Efraim (cf. Nm 13,8).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

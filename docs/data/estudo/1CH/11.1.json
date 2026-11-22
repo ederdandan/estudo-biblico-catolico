@@ -1,0 +1,57 @@
+{
+  "id": "1CH.11.1",
+  "livro": "1CH",
+  "titulo": "Davi rei de todo Israel e a conquista de Sião",
+  "secao": "O reinado de Davi",
+  "referencia": "1Cr 11,1-9",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "“Nós somos teus ossos e tua carne”: Davi rei e a conquista de Sião",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Congregou-se todo o Israel com Davide em Hebron, dizendo: Nós somos teus ossos e tua carne. Já antes, quando ainda reinava Saul, eras tu que conduzias Israel, porque a ti disse o Senhor teu Deus: Tu apascentarás o meu povo de Israel, tu serás o seu príncipe.” Davi faz aliança com os anciãos diante do Senhor, e eles o ungem rei, “em conformidade com a palavra que o Senhor tinha proferido por meio de Samuel”. Davi marcha sobre Jerusalém, a Jebus dos jebuseus, que lhe dizem: “Tu não entrarás aqui.” Mas Davi toma a fortaleza de Sião; Joab, o primeiro a subir, torna-se chefe. Davi habita na fortaleza, que se chama “cidade de Davi”, e edifica ao redor. “Davide fazia progressos, adiantando-se e fortalecendo-se, e o Senhor dos exércitos era com ele.”",
+    "alegorico": "“Nós somos teus ossos e tua carne”: a união do povo com o rei anuncia a união da Igreja com Cristo, de quem somos “membros do seu corpo, da sua carne e dos seus ossos” (Ef 5,30). O pastor que apascenta o povo é figura do Bom Pastor. Sião, conquistada por Davi, torna-se imagem da Igreja e da Jerusalém celeste (Hb 12,22).",
+    "moral": "O cronista omite os sete anos de divisão e mostra todo Israel unido em torno do rei: a unidade é dom e tarefa. A autoridade de Davi é a de um pastor: “tu apascentarás o meu povo”. E o segredo do seu crescimento não é a força: “o Senhor dos exércitos era com ele”.",
+    "anagogico": "Sião, a fortaleza que parecia inexpugnável, torna-se a cidade de Davi: assim a Jerusalém celeste será a morada definitiva do Rei e do seu povo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Nós somos teus ossos e tua carne.” “Tu apascentarás o meu povo de Israel.” “Tu não entrarás aqui.” “Davide tomou a fortaleza de Sião.” “O Senhor dos exércitos era com ele.”",
+    "meditatio_perguntas": [
+      "Sinto-me unido a Cristo e aos irmãos como “osso e carne”?",
+      "Exerço a autoridade que tenho como pastor, servindo?",
+      "Que “fortalezas” Deus quer conquistar em mim?"
+    ],
+    "oratio_guia": "Senhor Jesus, Filho de Davi e Pastor do teu povo, une-nos a ti como membros do teu corpo e conquista a fortaleza do meu coração. Amém.",
+    "contemplatio_foco": {
+      "texto": "Davide fazia progressos, adiantando-se e fortalecendo-se, e o Senhor dos exércitos era com ele",
+      "ref": "1Cr 11,9"
+    }
+  },
+  "ancoras": {
+    "11:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 2Sm 5,1-10.",
+        "origem": "ia"
+      }
+    },
+    "11:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A subida de Joab não é narrada em 2Sm 5.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

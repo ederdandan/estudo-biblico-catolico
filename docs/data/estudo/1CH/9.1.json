@@ -1,0 +1,57 @@
+{
+  "id": "1CH.9.1",
+  "livro": "1CH",
+  "titulo": "Os que voltaram a Jerusalém e os guardas do templo",
+  "secao": "As genealogias de Israel",
+  "referencia": "1Cr 9,1-44",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 44
+  },
+  "liturgia": {
+    "tema_central": "Os que voltaram e os guardas da casa do Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Foi, assim, contado todo o Israel, e o seu número foi escrito no livro dos reis de Israel e de Judá. Depois Judá foi transportado a Babilônia, por causa dos seus pecados.” Seguem os primeiros que voltaram a habitar em Jerusalém: israelitas de Judá, Benjamim, Efraim e Manassés, sacerdotes, levitas e natineus. Os porteiros, “escolhidos para guardar as portas”, foram estabelecidos “por Davide e Samuel, o Vidente, por causa da sua fidelidade”; moravam à roda do templo “e, chegada a hora, abriam as portas pela manhã”. Uns cuidavam dos vasos, outros da farinha, do vinho, do azeite, do incenso e dos aromas; outros dos pães da proposição. Os cantores moravam nas dependências do templo “para de contínuo, de dia e de noite, exercerem o seu ministério”. O capítulo termina repetindo a genealogia de Saul, como ponte para a narrativa.",
+    "alegorico": "Os porteiros que “abriam as portas pela manhã” lembram Cristo, que diz: “Eu sou a porta” (Jo 10,9), e a Igreja, que abre as portas da casa de Deus a todos. O louvor “de dia e de noite” anuncia a oração contínua da Igreja.",
+    "moral": "O exílio veio “por causa dos seus pecados”, mas a volta recomeça pelo culto: o primeiro cuidado dos que retornam é a casa de Deus. Os serviços humildes (abrir portas, contar vasos, preparar pão e aromas) são confiados “por causa da sua fidelidade”. A fidelidade nas pequenas coisas é a qualificação do serviço.",
+    "anagogico": "O louvor ininterrupto, dia e noite, prefigura a liturgia dos que “não cessam de dizer dia e noite: Santo, Santo, Santo” (Ap 4,8)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Judá foi transportado a Babilônia, por causa dos seus pecados.” “Por causa da sua fidelidade.” “Chegada a hora, abriam as portas pela manhã.” “De contínuo, de dia e de noite, exercerem o seu ministério.”",
+    "meditatio_perguntas": [
+      "Depois das minhas quedas, recomeço pela oração e pela casa de Deus?",
+      "Sou fiel nos serviços pequenos que me confiam?",
+      "Que espaço dou ao louvor de Deus no meu dia?"
+    ],
+    "oratio_guia": "Senhor, que reconduziste o teu povo do exílio, faz-me fiel nos pequenos serviços e perseverante no louvor, dia e noite. Amém.",
+    "contemplatio_foco": {
+      "texto": "chegada a hora, abriam as portas pela manhã",
+      "ref": "1Cr 9,27"
+    }
+  },
+  "ancoras": {
+    "9:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os natineus (“dados”) eram servidores do templo, provavelmente de origem estrangeira (cf. Js 9,27; Esd 8,20).",
+        "origem": "ia"
+      }
+    },
+    "9:35": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A genealogia de Saul repete 8,29-38 e introduz a sua morte no capítulo 10.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

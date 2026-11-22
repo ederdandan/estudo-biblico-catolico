@@ -1,0 +1,402 @@
+{
+ "livro": "1CH",
+ "secoes": [
+  "As genealogias de Israel",
+  "O reinado de Davi",
+  "A preparação do Templo"
+ ],
+ "pericopes": [
+  {
+   "id": "1CH.1.1",
+   "titulo": "De Adão a Esaú: a família das nações",
+   "secao": "As genealogias de Israel",
+   "referencia": "1Cr 1,1-54",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 54
+   }
+  },
+  {
+   "id": "1CH.2.1",
+   "titulo": "Os filhos de Israel e a casa de Judá",
+   "secao": "As genealogias de Israel",
+   "referencia": "1Cr 2,1-55",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 55
+   }
+  },
+  {
+   "id": "1CH.3.1",
+   "titulo": "A descendência de Davi",
+   "secao": "As genealogias de Israel",
+   "referencia": "1Cr 3,1-24",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 24
+   }
+  },
+  {
+   "id": "1CH.4.1",
+   "titulo": "Judá e Simeão: a oração de Jabes",
+   "secao": "As genealogias de Israel",
+   "referencia": "1Cr 4,1-43",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 43
+   }
+  },
+  {
+   "id": "1CH.5.1",
+   "titulo": "As tribos do outro lado do Jordão",
+   "secao": "As genealogias de Israel",
+   "referencia": "1Cr 5,1-26",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 26
+   }
+  },
+  {
+   "id": "1CH.6.1",
+   "titulo": "Levi: sacerdotes, cantores e cidades levíticas",
+   "secao": "As genealogias de Israel",
+   "referencia": "1Cr 6,1-81",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 81
+   }
+  },
+  {
+   "id": "1CH.7.1",
+   "titulo": "As tribos do norte",
+   "secao": "As genealogias de Israel",
+   "referencia": "1Cr 7,1-40",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 40
+   }
+  },
+  {
+   "id": "1CH.8.1",
+   "titulo": "Benjamim e a casa de Saul",
+   "secao": "As genealogias de Israel",
+   "referencia": "1Cr 8,1-40",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 40
+   }
+  },
+  {
+   "id": "1CH.9.1",
+   "titulo": "Os que voltaram a Jerusalém e os guardas do templo",
+   "secao": "As genealogias de Israel",
+   "referencia": "1Cr 9,1-44",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 44
+   }
+  },
+  {
+   "id": "1CH.10.1",
+   "titulo": "A morte de Saul",
+   "secao": "O reinado de Davi",
+   "referencia": "1Cr 10,1-14",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 14
+   }
+  },
+  {
+   "id": "1CH.11.1",
+   "titulo": "Davi rei de todo Israel e a conquista de Sião",
+   "secao": "O reinado de Davi",
+   "referencia": "1Cr 11,1-9",
+   "ini": {
+    "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 9
+   }
+  },
+  {
+   "id": "1CH.11.10",
+   "titulo": "Os valentes de Davi e a água de Belém",
+   "secao": "O reinado de Davi",
+   "referencia": "1Cr 11,10-46",
+   "ini": {
+    "c": 11,
+    "v": 10
+   },
+   "fim": {
+    "c": 11,
+    "v": 46
+   }
+  },
+  {
+   "id": "1CH.12.1",
+   "titulo": "Os que se juntaram a Davi",
+   "secao": "O reinado de Davi",
+   "referencia": "1Cr 12,1-40",
+   "ini": {
+    "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 40
+   }
+  },
+  {
+   "id": "1CH.13.1",
+   "titulo": "A arca e a morte de Oza",
+   "secao": "O reinado de Davi",
+   "referencia": "1Cr 13,1-14",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 14
+   }
+  },
+  {
+   "id": "1CH.14.1",
+   "titulo": "A casa de Davi e as vitórias sobre os filisteus",
+   "secao": "O reinado de Davi",
+   "referencia": "1Cr 14,1-17",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 17
+   }
+  },
+  {
+   "id": "1CH.15.1",
+   "titulo": "A arca sobe a Jerusalém",
+   "secao": "O reinado de Davi",
+   "referencia": "1Cr 15,1-29",
+   "ini": {
+    "c": 15,
+    "v": 1
+   },
+   "fim": {
+    "c": 15,
+    "v": 29
+   }
+  },
+  {
+   "id": "1CH.16.1",
+   "titulo": "O cântico de ação de graças diante da arca",
+   "secao": "O reinado de Davi",
+   "referencia": "1Cr 16,1-43",
+   "ini": {
+    "c": 16,
+    "v": 1
+   },
+   "fim": {
+    "c": 16,
+    "v": 43
+   }
+  },
+  {
+   "id": "1CH.17.1",
+   "titulo": "A promessa de uma casa para sempre",
+   "secao": "O reinado de Davi",
+   "referencia": "1Cr 17,1-27",
+   "ini": {
+    "c": 17,
+    "v": 1
+   },
+   "fim": {
+    "c": 17,
+    "v": 27
+   }
+  },
+  {
+   "id": "1CH.18.1",
+   "titulo": "As vitórias de Davi",
+   "secao": "O reinado de Davi",
+   "referencia": "1Cr 18,1-17",
+   "ini": {
+    "c": 18,
+    "v": 1
+   },
+   "fim": {
+    "c": 18,
+    "v": 17
+   }
+  },
+  {
+   "id": "1CH.19.1",
+   "titulo": "A guerra contra os amonitas e os gigantes",
+   "secao": "O reinado de Davi",
+   "referencia": "1Cr 19,1–20,7",
+   "ini": {
+    "c": 19,
+    "v": 1
+   },
+   "fim": {
+    "c": 20,
+    "v": 7
+   }
+  },
+  {
+   "id": "1CH.21.1",
+   "titulo": "O recenseamento e a eira de Ornan",
+   "secao": "O reinado de Davi",
+   "referencia": "1Cr 21,1-30",
+   "ini": {
+    "c": 21,
+    "v": 1
+   },
+   "fim": {
+    "c": 21,
+    "v": 30
+   }
+  },
+  {
+   "id": "1CH.22.1",
+   "titulo": "Davi prepara o templo e instrui Salomão",
+   "secao": "A preparação do Templo",
+   "referencia": "1Cr 22,1-19",
+   "ini": {
+    "c": 22,
+    "v": 1
+   },
+   "fim": {
+    "c": 22,
+    "v": 19
+   }
+  },
+  {
+   "id": "1CH.23.1",
+   "titulo": "Os levitas e os turnos dos sacerdotes",
+   "secao": "A preparação do Templo",
+   "referencia": "1Cr 23,1–24,31",
+   "ini": {
+    "c": 23,
+    "v": 1
+   },
+   "fim": {
+    "c": 24,
+    "v": 31
+   }
+  },
+  {
+   "id": "1CH.25.1",
+   "titulo": "Os cantores, os porteiros e os tesoureiros",
+   "secao": "A preparação do Templo",
+   "referencia": "1Cr 25,1–26,32",
+   "ini": {
+    "c": 25,
+    "v": 1
+   },
+   "fim": {
+    "c": 26,
+    "v": 32
+   }
+  },
+  {
+   "id": "1CH.27.1",
+   "titulo": "Os chefes do exército e do reino",
+   "secao": "A preparação do Templo",
+   "referencia": "1Cr 27,1-34",
+   "ini": {
+    "c": 27,
+    "v": 1
+   },
+   "fim": {
+    "c": 27,
+    "v": 34
+   }
+  },
+  {
+   "id": "1CH.28.1",
+   "titulo": "Davi entrega a Salomão o modelo do templo",
+   "secao": "A preparação do Templo",
+   "referencia": "1Cr 28,1-21",
+   "ini": {
+    "c": 28,
+    "v": 1
+   },
+   "fim": {
+    "c": 28,
+    "v": 21
+   }
+  },
+  {
+   "id": "1CH.29.1",
+   "titulo": "As ofertas do povo e a oração de Davi",
+   "secao": "A preparação do Templo",
+   "referencia": "1Cr 29,1-19",
+   "ini": {
+    "c": 29,
+    "v": 1
+   },
+   "fim": {
+    "c": 29,
+    "v": 19
+   }
+  },
+  {
+   "id": "1CH.29.20",
+   "titulo": "Salomão rei e a morte de Davi",
+   "secao": "A preparação do Templo",
+   "referencia": "1Cr 29,20-30",
+   "ini": {
+    "c": 29,
+    "v": 20
+   },
+   "fim": {
+    "c": 29,
+    "v": 30
+   }
+  }
+ ]
+}
