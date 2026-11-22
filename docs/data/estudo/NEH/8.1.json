@@ -1,0 +1,57 @@
+{
+  "id": "NEH.8.1",
+  "livro": "NEH",
+  "titulo": "Esdras lê a Lei: “a alegria do Senhor é a nossa força”",
+  "secao": "A Lei e a aliança",
+  "referencia": "Ne 8,1-18",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "“A alegria do Senhor é a nossa fortaleza”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No sétimo mês, “congregou-se, então, todo o povo como um só homem na praça que está diante da porta das Águas, e disseram a Esdras, o escriba, que trouxesse o livro da lei de Moisés”. Esdras lê “desde manhã até ao meio-dia, na presença dos homens, das mulheres e dos que já a podiam entender, e todo o povo tinha os ouvidos atentos à leitura do livro”. De pé sobre um estrado de madeira, “Esdras abriu o livro à vista de todo o povo… e, logo que o abriu, todo o povo se pôs em pé. Esdras bendisse ao Senhor, o Deus grande, e todo o povo, levantando as mãos, respondeu: Amen, Amen”, e prostrados adoraram. Os levitas “leram o livro da lei de Deus distinta e claramente para se entender, e o povo entendia”. Todo o povo chorava ao ouvir a Lei; mas Neemias, Esdras e os levitas dizem: “Este dia é consagrado ao Senhor nosso Deus; não estejais tristes, nem choreis… Ide, comei carnes gordas, bebei vinho… e mandai quinhões aos que não têm nada preparado para si… não estejais tristes, porque a alegria do Senhor é a nossa fortaleza.” O povo celebra “porque tinham entendido as palavras”. No dia seguinte descobrem na Lei a festa das Tendas e a celebram com ramos, como não se fazia desde Josué: “a alegria foi extraordinária”.",
+    "alegorico": "Esta é a primeira “liturgia da Palavra” descrita na Bíblia: assembleia reunida, livro aberto, povo de pé, bênção, “Amém”, leitura, explicação, festa. A Missa conserva este esquema. Jesus na sinagoga de Nazaré abre o livro, lê e explica (Lc 4,16-21); e no caminho de Emaús explica as Escrituras antes de partir o pão (Lc 24,27-30).",
+    "moral": "O povo pede a Palavra: a renovação nasce do desejo de ouvir. A Palavra deve ser lida “claramente para se entender”: é preciso explicá-la. Diante da Palavra, o povo chora pelos pecados; mas os líderes os conduzem à alegria, porque o dia é santo. A alegria em Deus é força, não fraqueza. E a festa inclui os pobres: “mandai quinhões aos que não têm”.",
+    "anagogico": "As tendas de ramos, morada provisória de um povo peregrino, anunciam a festa definitiva em que Deus “armará a sua tenda” entre os homens (Ap 21,3), e a alegria será plena."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Que trouxesse o livro da lei de Moisés.” “Todo o povo tinha os ouvidos atentos.” “Logo que o abriu, todo o povo se pôs em pé.” “Amen, Amen.” “Distinta e claramente para se entender.” “Não estejais tristes, nem choreis.” “Mandai quinhões aos que não têm nada preparado para si.” “A alegria do Senhor é a nossa fortaleza.”",
+    "meditatio_perguntas": [
+      "Desejo ouvir a Palavra de Deus e procuro entendê-la?",
+      "Escuto a Palavra na liturgia com atenção e reverência?",
+      "A minha fé gera alegria que se partilha com os pobres?"
+    ],
+    "oratio_guia": "Senhor, abre o livro da tua Palavra diante de mim e dá-me entendê-la. Que as minhas lágrimas de arrependimento se tornem alegria, porque a tua alegria é a minha força. Amém.",
+    "contemplatio_foco": {
+      "texto": "não estejais tristes, porque a alegria do Senhor é a nossa fortaleza",
+      "ref": "Ne 8,10"
+    }
+  },
+  "ancoras": {
+    "8:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Distinta e claramente”: pode indicar também tradução para o aramaico, língua corrente do povo.",
+        "origem": "ia"
+      }
+    },
+    "8:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Lv 23,39-43.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

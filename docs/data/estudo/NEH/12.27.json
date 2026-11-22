@@ -1,0 +1,49 @@
+{
+  "id": "NEH.12.27",
+  "livro": "NEH",
+  "titulo": "A dedicação dos muros",
+  "secao": "A Lei e a aliança",
+  "referencia": "Ne 12,27-46",
+  "ini": {
+    "c": 12,
+    "v": 27
+  },
+  "fim": {
+    "c": 12,
+    "v": 46
+  },
+  "liturgia": {
+    "tema_central": "“A alegria de Jerusalém ouviu-se de longe”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Para a dedicação dos muros, buscam-se os levitas de todos os lugares, “para virem a Jerusalém celebrar a dedicação com alegria, com ações de graças, cânticos, ao toque de címbalos, de saltérios e de cítaras”. Sacerdotes e levitas se purificam, e purificam também o povo, as portas e os muros. Neemias faz subir os chefes sobre o muro e forma dois grandes coros, que caminham em direções opostas sobre a muralha, um com Esdras à frente, o outro com Neemias, até se encontrarem diante do templo. “Naquele dia, ofereceram grandes sacrifícios e alegraram-se, porque Deus tinha dado ao povo um grande motivo de alegria. Também suas mulheres e filhos se encheram de gozo, e a alegria de Jerusalém ouviu-se de longe.” São escolhidos responsáveis pelos tesouros, primícias e dízimos, e “Judá se alegrou por causa dos sacerdotes e dos Levitas” que serviam segundo a ordem de Davi e de Salomão.",
+    "alegorico": "A procissão sobre os muros, com dois coros que se encontram diante do templo, prefigura as procissões da Igreja e a Jerusalém celeste, cujos muros são louvor: “chamarás aos teus muros Salvação, e às tuas portas Louvor” (Is 60,18).",
+    "moral": "A obra termina em festa: o trabalho feito por Deus se oferece a Deus com alegria. Antes da festa, a purificação: do povo e até das pedras. A alegria envolve todos, mulheres e crianças, e “ouve-se de longe”: a alegria de uma comunidade fiel é o seu melhor testemunho.",
+    "anagogico": "“Deus tinha dado ao povo um grande motivo de alegria”: assim será o dia da dedicação da Jerusalém nova, quando a alegria dos redimidos ressoará para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Celebrar a dedicação com alegria, com ações de graças, cânticos.” “Purificaram também o povo, as portas e os muros.” “Formei dois grandes coros dos que cantavam louvores.” “Deus tinha dado ao povo um grande motivo de alegria.” “A alegria de Jerusalém ouviu-se de longe.”",
+    "meditatio_perguntas": [
+      "Celebro com alegria e ação de graças as obras que Deus conclui na minha vida?",
+      "A alegria da minha comunidade “se ouve de longe”?",
+      "Preparo-me, purificando-me, para as festas de Deus?"
+    ],
+    "oratio_guia": "Senhor, que deste ao teu povo um grande motivo de alegria, faz que a nossa alegria em ti se ouça de longe e atraia muitos à tua casa. Amém.",
+    "contemplatio_foco": {
+      "texto": "a alegria de Jerusalém ouviu-se de longe",
+      "ref": "Ne 12,42"
+    }
+  },
+  "ancoras": {
+    "12:31": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os dois coros percorrem os muros em direções opostas e se encontram no templo (vv. 31-40).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

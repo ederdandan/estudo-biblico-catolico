@@ -1,0 +1,57 @@
+{
+  "id": "NEH.3.1",
+  "livro": "NEH",
+  "titulo": "Cada um edifica diante da sua casa",
+  "secao": "A reconstrução dos muros",
+  "referencia": "Ne 3,1-31",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Cada um edifica diante da sua casa",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O capítulo registra quem reconstrói cada parte do muro e cada porta. Começa o sumo sacerdote: “O sumo pontífice Eliasib e os sacerdotes seus irmãos puseram mãos à obra e reedificaram a porta do Rebanho; eles mesmos a consagraram.” Seguem-se os homens de Jericó, os ourives, os perfumistas, os chefes de distritos, os levitas, os comerciantes. “Ao lado destes, trabalharam nas reparações os de Tecua, mas os seus principais não se sujeitaram a trabalhar na obra do seu Senhor.” “Ao lado deles, trabalhou Selum… chefe da outra metade do distrito de Jerusalém, com suas filhas.” “Os sacerdotes trabalharam nas reparações mais acima, desde a porta dos cavalos, cada um defronte de sua casa.” Os nomes das portas marcam o caminho: a porta do Rebanho, dos Peixes, a Velha, do Vale, da Esterqueira, da Fonte, das Águas, dos Cavalos, até voltar à porta do Rebanho.",
+    "alegorico": "A muralha reconstruída por todos, cada um no seu trecho, é imagem da Igreja, edificada com “pedras vivas” (1Pd 2,5), em que cada membro tem a sua parte (1Cor 12). A obra começa e termina na porta do Rebanho, por onde passavam as ovelhas do sacrifício: Cristo é a porta das ovelhas (Jo 10,7).",
+    "moral": "Todos trabalham: sacerdotes, ourives, perfumistas, chefes, mulheres. Ninguém é dispensado por ser importante; e a Escritura registra com tristeza os nobres de Tecua que não quiseram “sujeitar-se”. A maneira de reconstruir é simples: cada um diante da sua casa. A renovação da Igreja e da sociedade começa pelo trecho que nos toca.",
+    "anagogico": "O muro completo, cujas portas levam os nomes do trabalho humano, anuncia a cidade santa cujas portas trazem os nomes das tribos e cujos alicerces trazem os nomes dos apóstolos (Ap 21,12-14)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Puseram mãos à obra.” “Eles mesmos a consagraram.” “Os seus principais não se sujeitaram a trabalhar na obra do seu Senhor.” “Com suas filhas.” “Cada um defronte de sua casa.”",
+    "meditatio_perguntas": [
+      "Qual é o “trecho do muro” diante da minha casa que Deus me confia?",
+      "Considero-me importante demais para certas tarefas?",
+      "Trabalho ao lado dos outros com espírito de equipe?"
+    ],
+    "oratio_guia": "Senhor, que edificas a tua Igreja com pedras vivas, mostra-me o trecho que me cabe e dá-me humildade para trabalhar ao lado dos irmãos, diante da minha casa. Amém.",
+    "contemplatio_foco": {
+      "texto": "Os sacerdotes trabalharam nas reparações mais acima, desde a porta dos cavalos, cada um defronte de sua casa",
+      "ref": "Ne 3,28"
+    }
+  },
+  "ancoras": {
+    "3:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A porta do Rebanho ficava perto do templo; cf. Jo 5,2 (a piscina junto à porta das Ovelhas).",
+        "origem": "ia"
+      }
+    },
+    "3:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Tecua é a terra do profeta Amós.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

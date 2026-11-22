@@ -1,0 +1,57 @@
+{
+  "id": "NEH.9.1",
+  "livro": "NEH",
+  "titulo": "A grande confissão do povo",
+  "secao": "A Lei e a aliança",
+  "referencia": "Ne 9,1-38",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 38
+  },
+  "liturgia": {
+    "tema_central": "“Tu, ó Deus propício, clemente e misericordioso, não os desamparaste”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No dia vinte e quatro do mesmo mês, os filhos de Israel se reúnem para um jejum, vestidos de saco e com pó na cabeça; “confessaram os seus pecados e as iniquidades de seus pais”. Durante um quarto do dia leem a Lei, e durante outro quarto confessam e adoram. Os levitas rezam em nome de todos, percorrendo a história: “Foste tu, Senhor, tu só que fizeste o céu… tu dás vida a todas estas coisas.” Recordam Abraão, “achaste o seu coração fiel”, o Egito, o mar, o Sinai, o maná e a água da rocha. “Porém eles e nossos pais procederam com soberba… mas tu, ó Deus propício, clemente e misericordioso, sempre paciente, e de muita compaixão, tu não os desamparaste, ainda mesmo quando eles fizeram para si um bezerro fundido.” “Deste-lhes o teu bom espírito, que os ensinasse… Tu os sustentaste durante quarenta anos no deserto, e não lhes faltou nada.” Na terra, o ciclo se repete: pecado, opressão, clamor, salvação. “Durante muitos anos, tiveste paciência com eles… Mesmo assim, pela tua grande misericórdia, não os confundiste de todo… Tu és justo em todas as coisas que têm vindo sobre nós… Nós mesmos hoje somos escravos… Em atenção a todas estas coisas, nós mesmos celebramos uma aliança, que escrevemos.”",
+    "alegorico": "Esta grande oração é um resumo da história da salvação, como os discursos de Estêvão (At 7) e de Paulo (At 13,16-41), que a levam até Cristo. O “bom espírito” dado para ensinar anuncia o Espírito Santo, que “vos ensinará todas as coisas” (Jo 14,26). O maná e a água da rocha são figuras da Eucaristia (Jo 6,31-35; 1Cor 10,3-4).",
+    "moral": "Confessar os pecados começa por recordar o amor de Deus: a confissão verdadeira é memória da misericórdia. A história de Israel, como a nossa, repete-se: Deus dá, nós esquecemos, ele espera, nós voltamos. Mas o refrão é sempre o mesmo: “tu não os desamparaste”. Reconhecer que Deus é justo e nós infiéis é o início da liberdade.",
+    "anagogico": "O Deus que sustentou o povo quarenta anos sem que nada lhe faltasse conduz a Igreja até à terra prometida, onde não haverá mais fome nem sede (Ap 7,16)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Confessaram os seus pecados e as iniquidades de seus pais.” “Tu dás vida a todas estas coisas.” “Achaste o seu coração fiel.” “Tu, ó Deus propício, clemente e misericordioso, sempre paciente.” “Deste-lhes o teu bom espírito, que os ensinasse.” “Não lhes faltou nada.” “Tu és justo… nós procedemos impiamente.”",
+    "meditatio_perguntas": [
+      "A minha confissão nasce da memória do amor de Deus?",
+      "Reconheço na minha história o ciclo de esquecimento e de misericórdia?",
+      "Agradeço a Deus por nunca me ter desamparado?"
+    ],
+    "oratio_guia": "Deus propício, clemente e misericordioso, sempre paciente e de muita compaixão: tu não me desamparaste. Recebe a confissão dos meus pecados e dá-me o teu bom espírito para me ensinar. Amém.",
+    "contemplatio_foco": {
+      "texto": "tu, ó Deus propício, clemente e misericordioso, sempre paciente, e de muita compaixão, tu não os desamparaste",
+      "ref": "Ne 9,17"
+    }
+  },
+  "ancoras": {
+    "9:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Ex 34,6: a revelação do nome misericordioso de Deus a Moisés.",
+        "origem": "ia"
+      }
+    },
+    "9:38": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração hebraica, Ne 9,38 é 10,1, e o capítulo 10 está deslocado de um versículo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

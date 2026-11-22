@@ -1,0 +1,49 @@
+{
+  "id": "NEH.7.1",
+  "livro": "NEH",
+  "titulo": "A guarda da cidade e o registro dos que voltaram",
+  "secao": "A reconstrução dos muros",
+  "referencia": "Ne 7,1-73",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 73
+  },
+  "liturgia": {
+    "tema_central": "As portas, os guardas e o povo que precisava ser contado",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Restaurados os muros e postas as portas, Neemias organiza os porteiros, cantores e levitas. Confia Jerusalém a seu irmão Hanani e a Ananias, “o qual me parecia homem sincero e temente a Deus, mais do que os outros”. Ordena: “Não se abram as portas de Jerusalém, até que o sol esteja alto… de noite, farão a guarda os habitantes de Jerusalém, cada um por seu turno, cada um diante da sua casa.” “A cidade, porém, era muito larga e grande, e dentro dela era pouco o povo.” “Deus, pois, inspirou no meu coração o juntar os grandes, os magistrados e o povo, para fazer o seu recenseamento.” Neemias encontra o registro dos primeiros que voltaram e o transcreve: as famílias, os sacerdotes, os levitas, os cantores, os porteiros, os natineus. “Toda esta multidão, como se fosse um só homem, era de quarenta e duas mil trezentas e sessenta pessoas.” Muitos fazem ofertas para a obra, e todos ficam habitando nas suas cidades.",
+    "alegorico": "Uma cidade com muros, mas quase vazia, mostra que os muros não bastam: é preciso um povo. A Igreja não é feita de pedras, mas de pessoas. Os critérios para escolher os responsáveis, sinceridade e temor de Deus, são os mesmos que os apóstolos usam para escolher os sete diáconos (At 6,3).",
+    "moral": "Neemias confia a cidade a quem é “sincero e temente a Deus”: na escolha dos líderes, o caráter vale mais que a influência. A segurança de todos depende de cada um vigiar “diante da sua casa”. E diante de uma cidade grande e vazia, Neemias não inventa: busca na memória do povo, no registro dos que vieram primeiro.",
+    "anagogico": "A cidade “larga e grande” e ainda pouco povoada é imagem da casa do Pai, onde “há muitas moradas” (Jo 14,2) à espera de serem habitadas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Homem sincero e temente a Deus, mais do que os outros.” “Cada um por seu turno, cada um diante da sua casa.” “A cidade, porém, era muito larga e grande, e dentro dela era pouco o povo.” “Deus, pois, inspirou no meu coração.” “Como se fosse um só homem.”",
+    "meditatio_perguntas": [
+      "Escolho as pessoas pela sinceridade e pelo temor de Deus?",
+      "Vigio “diante da minha casa”, na parte que me toca?",
+      "Ajudo a “povoar” a comunidade, para que não sejam só muros?"
+    ],
+    "oratio_guia": "Senhor, que inspiras os corações, dá-nos responsáveis sinceros e tementes a ti, e povoa a tua Igreja de pessoas vivas. Que eu vigie fielmente diante da minha casa. Amém.",
+    "contemplatio_foco": {
+      "texto": "A cidade, porém, era muito larga e grande, e dentro dela era pouco o povo",
+      "ref": "Ne 7,4"
+    }
+  },
+  "ancoras": {
+    "7:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A lista retoma Esd 2,1-70, com pequenas variantes.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

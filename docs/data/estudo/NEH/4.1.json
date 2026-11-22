@@ -1,0 +1,49 @@
+{
+  "id": "NEH.4.1",
+  "livro": "NEH",
+  "titulo": "Com uma mão trabalhavam, com a outra seguravam a arma",
+  "secao": "A reconstrução dos muros",
+  "referencia": "Ne 4,1-23",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Com uma mão trabalhavam, com a outra seguravam a espada",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Sanabalat se enfurece e zomba: “Que podem fazer estes pobres Judeus?… Farão ressuscitar as pedras sepultadas em montões de pó?” E Tobias: “se vier uma raposa, derrubará o seu muro de pedras.” Neemias reza: “Ouve, Deus nosso, como estamos em desprezo.” “Nós reedificamos o muro… até metade da altura, tanto era o ânimo do povo para trabalhar.” Os inimigos planejam um ataque. “Nós fizemos oração ao nosso Deus, e pusemos guardas de dia e de noite.” O povo de Judá desanima: “As forças dos que acarretam estão enfraquecidas.” Neemias arma o povo e diz: “Não temais diante deles. Lembrai-vos do Senhor grande e terrível, e pelejai pelos vossos irmãos, pelos vossos filhos… e pelas vossas casas.” Deus frustra o plano dos inimigos, e todos voltam ao muro. A partir de então, metade trabalha e metade monta guarda; “com uma das mãos faziam a obra, e com a outra pegavam na espada”. Um homem com a trombeta fica junto de Neemias: “em qualquer lugar que ouvirdes o som da trombeta, correi ali… o nosso Deus pelejará por nós.” Trabalham da aurora até ao sair das estrelas, sem tirar a roupa.",
+    "alegorico": "Os Padres viram aqui a imagem do cristão, que constrói o bem e combate o mal ao mesmo tempo: “tomai a espada do Espírito, que é a palavra de Deus” (Ef 6,17). A zombaria de Sanabalat, “farão ressuscitar as pedras?”, recebe a resposta da fé: Deus pode “destas pedras suscitar filhos a Abraão” (Mt 3,9).",
+    "moral": "Neemias une oração e vigilância: “fizemos oração… e pusemos guardas”. Não é falta de fé, é responsabilidade. Contra o desânimo, recorda o motivo: Deus e a família. E organiza a solidariedade: ao som da trombeta, todos correm a ajudar o ponto mais ameaçado. Trabalhar e vigiar, construir e defender: é o ritmo da vida espiritual.",
+    "anagogico": "“O nosso Deus pelejará por nós”: a vigilância de hoje prepara o dia em que a trombeta anunciará a vitória definitiva (1Ts 4,16)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Que podem fazer estes pobres Judeus?” “Ouve, Deus nosso, como estamos em desprezo.” “Tanto era o ânimo do povo para trabalhar.” “Fizemos oração ao nosso Deus, e pusemos guardas.” “Lembrai-vos do Senhor grande e terrível.” “Com uma das mãos faziam a obra, e com a outra pegavam na espada.” “O nosso Deus pelejará por nós.”",
+    "meditatio_perguntas": [
+      "Uno oração e vigilância na minha vida espiritual?",
+      "Quando desanimo, lembro-me do Senhor e daqueles por quem luto?",
+      "Corro em socorro do irmão quando ouço a “trombeta”?"
+    ],
+    "oratio_guia": "Senhor, ensina-me a construir com uma mão e combater o mal com a outra. Quando eu desanimar, lembra-me de ti e dos meus irmãos. Peleja por nós. Amém.",
+    "contemplatio_foco": {
+      "texto": "com uma das mãos faziam a obra, e com a outra pegavam na espada",
+      "ref": "Ne 4,17"
+    }
+  },
+  "ancoras": {
+    "4:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração hebraica, Ne 4,1-6 corresponde a 3,33-38, e o restante do capítulo está deslocado.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

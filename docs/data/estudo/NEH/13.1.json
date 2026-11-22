@@ -1,0 +1,57 @@
+{
+  "id": "NEH.13.1",
+  "livro": "NEH",
+  "titulo": "As últimas reformas: “Lembra-te de mim, meu Deus”",
+  "secao": "A Lei e a aliança",
+  "referencia": "Ne 13,1-31",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "“Lembra-te de mim, Deus meu, para meu bem”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Lê-se na Lei que amonitas e moabitas não devem entrar na assembleia de Deus, porque contrataram Balaão para amaldiçoar Israel, “maldição que o nosso Deus converteu em bênção”, e separam-se os estrangeiros. Neemias volta à corte e, ao retornar a Jerusalém, encontra abusos: o sacerdote Eliasib cedera a Tobias, o amonita, um aposento nos átrios do templo; Neemias joga fora os seus móveis e purifica o lugar. Os levitas, sem receber o seu sustento, tinham abandonado o templo: “Por que abandonamos nós a casa de Deus?”, e os reconduz. Vê o sábado profanado com comércio: “Que maldade é esta que cometeis, profanando o dia de sábado?”, e manda fechar as portas na véspera. Encontra judeus casados com mulheres de Azoto, Amon e Moab, cujos filhos já não sabem falar a língua do povo; repreende-os com dureza, lembrando Salomão: “as mulheres estrangeiras fizeram-no cair no pecado”. Restabelece o serviço dos sacerdotes e levitas e as ofertas. E o livro termina: “Lembra-te de mim, Deus meu, para meu bem.”",
+    "alegorico": "Neemias, que expulsa Tobias dos átrios do templo, lembra Jesus que expulsa os vendedores: “não façais da casa de meu Pai uma casa de comércio” (Jo 2,16). A sua defesa do sábado é retomada e superada por Cristo, que ensina que “o sábado foi feito para o homem” (Mc 2,27) e o transforma no Dia do Senhor.",
+    "moral": "A reforma não se faz de uma vez: depois de doze anos, tudo parecia ter recaído. Neemias volta a corrigir, com zelo e às vezes com dureza própria do seu tempo, que o Evangelho ensina a moderar com mansidão. O essencial permanece: não abandonar a casa de Deus, guardar o dia do Senhor, transmitir a fé e a língua da fé aos filhos. E ele termina com humildade: não pede reconhecimento dos homens, mas que Deus se lembre dele.",
+    "anagogico": "“Lembra-te de mim, Deus meu”: é a oração do bom ladrão, “lembra-te de mim quando entrares no teu reino” (Lc 23,42), que recebe a resposta: “hoje estarás comigo no paraíso”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Maldição que o nosso Deus converteu em bênção.” “O mal pareceu-me muito grande.” “Por que abandonamos nós a casa de Deus?” “Que maldade é esta que cometeis, profanando o dia de sábado?” “Não sabiam falar hebreu.” “Perdoa-me segundo a multidão das tuas misericórdias.” “Lembra-te de mim, Deus meu, para meu bem.”",
+    "meditatio_perguntas": [
+      "Persevero quando o bem que construí parece desfazer-se?",
+      "Abandono a casa de Deus e o dia do Senhor?",
+      "Transmito aos meus filhos a “língua” da fé?"
+    ],
+    "oratio_guia": "Senhor, quando o bem parecer desfazer-se, dá-me perseverança para recomeçar. Que eu não abandone a tua casa nem o teu dia. Perdoa-me segundo a multidão das tuas misericórdias e lembra-te de mim, Deus meu, para meu bem. Amém.",
+    "contemplatio_foco": {
+      "texto": "Lembra-te de mim, Deus meu, para meu bem",
+      "ref": "Ne 13,31"
+    }
+  },
+  "ancoras": {
+    "13:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O trigésimo segundo ano de Artaxerxes é 433 a.C.",
+        "origem": "ia"
+      }
+    },
+    "13:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A dureza de Neemias reflete o seu tempo; o NT pede correção com mansidão (Gl 6,1; 2Tm 2,24-25). Cf. Dei Verbum 15.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

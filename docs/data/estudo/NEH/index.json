@@ -1,0 +1,191 @@
+{
+ "livro": "NEH",
+ "secoes": [
+  "A reconstrução dos muros",
+  "A Lei e a aliança"
+ ],
+ "pericopes": [
+  {
+   "id": "NEH.1.1",
+   "titulo": "A oração de Neemias por Jerusalém",
+   "secao": "A reconstrução dos muros",
+   "referencia": "Ne 1,1-11",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 11
+   }
+  },
+  {
+   "id": "NEH.2.1",
+   "titulo": "Diante do rei e a inspeção dos muros",
+   "secao": "A reconstrução dos muros",
+   "referencia": "Ne 2,1-20",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 20
+   }
+  },
+  {
+   "id": "NEH.3.1",
+   "titulo": "Cada um edifica diante da sua casa",
+   "secao": "A reconstrução dos muros",
+   "referencia": "Ne 3,1-31",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 31
+   }
+  },
+  {
+   "id": "NEH.4.1",
+   "titulo": "Com uma mão trabalhavam, com a outra seguravam a arma",
+   "secao": "A reconstrução dos muros",
+   "referencia": "Ne 4,1-23",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 23
+   }
+  },
+  {
+   "id": "NEH.5.1",
+   "titulo": "O clamor dos pobres e a generosidade de Neemias",
+   "secao": "A reconstrução dos muros",
+   "referencia": "Ne 5,1-19",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 19
+   }
+  },
+  {
+   "id": "NEH.6.1",
+   "titulo": "As ciladas e a conclusão do muro",
+   "secao": "A reconstrução dos muros",
+   "referencia": "Ne 6,1-19",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 19
+   }
+  },
+  {
+   "id": "NEH.7.1",
+   "titulo": "A guarda da cidade e o registro dos que voltaram",
+   "secao": "A reconstrução dos muros",
+   "referencia": "Ne 7,1-73",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 73
+   }
+  },
+  {
+   "id": "NEH.8.1",
+   "titulo": "Esdras lê a Lei: “a alegria do Senhor é a nossa força”",
+   "secao": "A Lei e a aliança",
+   "referencia": "Ne 8,1-18",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 18
+   }
+  },
+  {
+   "id": "NEH.9.1",
+   "titulo": "A grande confissão do povo",
+   "secao": "A Lei e a aliança",
+   "referencia": "Ne 9,1-38",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 38
+   }
+  },
+  {
+   "id": "NEH.10.1",
+   "titulo": "O compromisso escrito",
+   "secao": "A Lei e a aliança",
+   "referencia": "Ne 10,1-39",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 39
+   }
+  },
+  {
+   "id": "NEH.11.1",
+   "titulo": "Os que habitaram Jerusalém e as famílias sacerdotais",
+   "secao": "A Lei e a aliança",
+   "referencia": "Ne 11,1–12,26",
+   "ini": {
+    "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 26
+   }
+  },
+  {
+   "id": "NEH.12.27",
+   "titulo": "A dedicação dos muros",
+   "secao": "A Lei e a aliança",
+   "referencia": "Ne 12,27-46",
+   "ini": {
+    "c": 12,
+    "v": 27
+   },
+   "fim": {
+    "c": 12,
+    "v": 46
+   }
+  },
+  {
+   "id": "NEH.13.1",
+   "titulo": "As últimas reformas: “Lembra-te de mim, meu Deus”",
+   "secao": "A Lei e a aliança",
+   "referencia": "Ne 13,1-31",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 31
+   }
+  }
+ ]
+}

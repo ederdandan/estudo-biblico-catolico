@@ -1,0 +1,57 @@
+{
+  "id": "NEH.6.1",
+  "livro": "NEH",
+  "titulo": "As ciladas e a conclusão do muro",
+  "secao": "A reconstrução dos muros",
+  "referencia": "Ne 6,1-19",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "“Tenho entre mãos uma obra grande, e não posso ir”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quando os inimigos sabem que o muro está quase pronto, Sanabalat e Gossem convidam Neemias para um encontro no vale de Ono, “eles, porém, intentavam fazer-me mal”. Neemias responde: “Tenho entre mãos uma obra grande, e não posso ir, para que não suceda que se pare com ela.” Insistem quatro vezes, e ele responde sempre igual. Depois mandam uma carta aberta acusando-o de querer fazer-se rei. Neemias nega tudo. “Todos estes procuravam aterrar-nos… porém, eu por isso mesmo cobrei mais ânimo.” O falso profeta Semaías, subornado, aconselha-o a esconder-se no templo; Neemias responde: “Porventura um homem como eu há-de fugir?… Não entrarei. Conheci que não era Deus quem o tinha enviado.” “Acabaram-se de reedificar os muros no dia vinte e cinco do mês de Elul, em cinquenta e dois dias.” Os povos vizinhos se atemorizam “e reconheceram que esta obra era obra de Deus”.",
+    "alegorico": "Neemias, que não desce do muro para dialogar com os que tramam a sua morte, lembra Jesus, que “tomou a firme decisão de ir a Jerusalém” (Lc 9,51) e não se deixou desviar. As acusações de querer ser rei anunciam as acusações contra Cristo diante de Pilatos (Jo 19,12).",
+    "moral": "O inimigo tenta de várias formas: convites, calúnias, medo, falsos conselhos religiosos. Neemias resiste com uma convicção: a obra é grande e não se interrompe. Saber dizer “não posso ir” é sabedoria. E ele discerne a voz falsa, mesmo vinda de um “profeta”: o conselho que leva a fugir e a pecar não vem de Deus. A intimidação, em vez de enfraquecê-lo, o fortalece.",
+    "anagogico": "“Reconheceram que esta obra era obra de Deus”: no fim, todos reconhecerão que a construção do Reino foi obra de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Tenho entre mãos uma obra grande, e não posso ir.” “Procuravam aterrar-nos.” “Eu por isso mesmo cobrei mais ânimo.” “Porventura um homem como eu há-de fugir?” “Conheci que não era Deus quem o tinha enviado.” “Em cinquenta e dois dias.” “Esta obra era obra de Deus.”",
+    "meditatio_perguntas": [
+      "Sei dizer “não posso ir” às distrações e ciladas?",
+      "Discirno os conselhos que parecem religiosos, mas levam ao medo e ao pecado?",
+      "O medo me paralisa ou me fortalece na fé?"
+    ],
+    "oratio_guia": "Senhor, fortalece as minhas mãos. Dá-me firmeza para não descer do muro da tua obra, discernimento para reconhecer as vozes falsas e coragem para não fugir. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tenho entre mãos uma obra grande, e não posso ir",
+      "ref": "Ne 6,3"
+    }
+  },
+  "ancoras": {
+    "6:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Elul é o sexto mês (agosto-setembro); os muros foram concluídos em 444 a.C.",
+        "origem": "ia"
+      }
+    },
+    "6:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A profetisa Noadias é mencionada só aqui.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

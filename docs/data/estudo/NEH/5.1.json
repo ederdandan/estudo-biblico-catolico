@@ -1,0 +1,57 @@
+{
+  "id": "NEH.5.1",
+  "livro": "NEH",
+  "titulo": "O clamor dos pobres e a generosidade de Neemias",
+  "secao": "A reconstrução dos muros",
+  "referencia": "Ne 5,1-19",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "“Porventura sois usurários para vossos irmãos?”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Levantou-se um grande clamor do povo e de suas mulheres contra os Judeus seus irmãos.” Por causa da fome e dos impostos, uns penhoram campos e casas, outros vendem os filhos: “Apesar de a nossa carne ser como a carne dos nossos irmãos, os nossos filhos como os deles, contudo reduzimos os nossos filhos e as nossas filhas à escravidão.” Neemias se indigna, reflete e repreende os nobres: “Porventura sois usurários para vossos irmãos?… nós… resgatamos os Judeus nossos irmãos, que tinham sido vendidos aos gentios; e vós vendereis agora vossos irmãos?” Eles se calam. “Não é bem o que fazeis… Também eu, meus irmãos e meus criados temos emprestado… concordemos todos em não lhes pedir nada… Restituí-lhes hoje os seus campos, as suas vinhas.” Os nobres prometem; Neemias os faz jurar diante dos sacerdotes, sacode o manto e diz: “Assim sacuda Deus… todo aquele que não cumprir a sua palavra.” O povo responde: “Amém.” Neemias conta que, em doze anos como governador, nunca cobrou o que lhe era devido, “porque temo a Deus”; trabalhou no muro, não comprou terras e sustentou à sua mesa cento e cinquenta pessoas, “porque o povo estava extremamente empobrecido. Lembra-te de mim, Deus meu, para usares comigo de misericórdia, segundo a medida de todo o bem que eu fiz a este povo.”",
+    "alegorico": "Neemias, que perdoa as dívidas e devolve as terras, anuncia o Jubileu proclamado por Jesus: “anunciar a libertação aos cativos… proclamar o ano da graça do Senhor” (Lc 4,18-19), e o Pai-nosso: “perdoai-nos as nossas dívidas, assim como nós perdoamos aos nossos devedores” (Mt 6,12). A mesa aberta do governador lembra a mesa de Cristo com todos.",
+    "moral": "A reconstrução dos muros não serve de nada se os irmãos se exploram dentro deles. Neemias ensina que a justiça social é parte da fidelidade a Deus. E ele dá o exemplo primeiro: renuncia ao que lhe é devido, trabalha com as próprias mãos, partilha a mesa. Quem tem autoridade deve ser o primeiro a perdoar e a servir.",
+    "anagogico": "“Lembra-te de mim, Deus meu”: o bem feito aos pobres é lembrado por Deus e será a medida do juízo (Mt 25,40)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Levantou-se um grande clamor do povo.” “A nossa carne é como a carne dos nossos irmãos.” “Porventura sois usurários para vossos irmãos?” “Não é bem o que fazeis.” “Restituí-lhes hoje os seus campos.” “Eu, porém, não procedi assim, porque temo a Deus.” “Lembra-te de mim, Deus meu.”",
+    "meditatio_perguntas": [
+      "Ouço o clamor dos pobres ao meu redor?",
+      "Exploro, de algum modo, os mais fracos?",
+      "Renuncio a direitos meus para aliviar os outros?"
+    ],
+    "oratio_guia": "Deus de justiça, que ouves o clamor dos pobres, dá-me um coração que perdoe as dívidas, partilhe a mesa e não explore ninguém. Lembra-te de mim segundo a tua misericórdia. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu, porém, não procedi assim, porque temo a Deus",
+      "ref": "Ne 5,15"
+    }
+  },
+  "ancoras": {
+    "5:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Ex 22,25; Lv 25,35-37; Dt 23,19-20 sobre a usura.",
+        "origem": "ia"
+      }
+    },
+    "5:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Sacudir o manto: gesto profético de maldição sobre quem quebrar o juramento (cf. At 18,6).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "NEH.10.1",
+  "livro": "NEH",
+  "titulo": "O compromisso escrito",
+  "secao": "A Lei e a aliança",
+  "referencia": "Ne 10,1-39",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 39
+  },
+  "liturgia": {
+    "tema_central": "“Não seremos descuidados para com a casa do nosso Deus”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os chefes, os levitas e os sacerdotes assinam a aliança: Neemias, o governador, encabeça a lista. “O resto do povo… e todos os que se tinham separado dos povos das terras para abraçarem a lei de Deus, as suas mulheres, os seus filhos, as suas filhas, todos os que tinham discernimento… prometeram, sob juramento, que andariam na lei de Deus.” Os compromissos são concretos: não casar com os povos idólatras; não comprar nem vender no sábado; deixar a terra em repouso no sétimo ano “e perdoaremos todas as dívidas”; dar cada ano a terça parte de um siclo para as obras e os sacrifícios do templo; levar a lenha para o altar, por turnos; oferecer as primícias e os primogênitos; pagar o dízimo aos levitas. E concluem: “Assim não seremos descuidados para com a casa do nosso Deus.”",
+    "alegorico": "A aliança escrita e assinada anuncia a nova aliança, escrita não em pergaminho, mas nos corações pelo Espírito (2Cor 3,3; Jr 31,33). Os compromissos com o templo, o sábado e o perdão das dívidas encontram a sua plenitude em Cristo, Senhor do sábado (Mc 2,28), que perdoa as nossas dívidas.",
+    "moral": "A conversão se traduz em compromissos concretos e verificáveis: o tempo (o sábado), o dinheiro (o dízimo, as ofertas), as relações (o casamento), a justiça (o perdão das dívidas), o culto (a lenha, as primícias). Uma fé que não toca a agenda e o bolso é uma fé abstrata. E todos se comprometem, homens, mulheres e filhos, “os que tinham discernimento”.",
+    "anagogico": "O compromisso de “não ser descuidados com a casa de Deus” prepara a morada eterna, onde estaremos sempre na casa do Senhor (Sl 22,6)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Para abraçarem a lei de Deus.” “Todos os que tinham discernimento.” “Que andariam na lei de Deus.” “Nós não lhos compraremos, nem no sábado.” “Perdoaremos todas as dívidas.” “Prometemos levar todos os anos à casa do Senhor as primícias.” “Assim não seremos descuidados para com a casa do nosso Deus.”",
+    "meditatio_perguntas": [
+      "A minha conversão se traduz em compromissos concretos?",
+      "Santifico o domingo, o tempo de Deus?",
+      "Sou descuidado com a casa de Deus e com o sustento da Igreja?"
+    ],
+    "oratio_guia": "Senhor, aceita o meu compromisso: andar na tua lei, santificar o teu dia, partilhar os meus bens e perdoar as dívidas. Que eu não seja descuidado com a tua casa. Amém.",
+    "contemplatio_foco": {
+      "texto": "Assim não seremos descuidados para com a casa do nosso Deus",
+      "ref": "Ne 10,39"
+    }
+  },
+  "ancoras": {
+    "10:31": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Ex 23,10-11; Dt 15,1-2: o ano sabático e a remissão das dívidas.",
+        "origem": "ia"
+      }
+    },
+    "10:32": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Origem do imposto do templo, que Jesus pagou (Mt 17,24-27).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

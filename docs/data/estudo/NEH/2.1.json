@@ -1,0 +1,57 @@
+{
+  "id": "NEH.2.1",
+  "livro": "NEH",
+  "titulo": "Diante do rei e a inspeção dos muros",
+  "secao": "A reconstrução dos muros",
+  "referencia": "Ne 2,1-20",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "Uma oração rápida diante do rei e a inspeção noturna",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No mês de Nisã, Neemias serve o vinho ao rei, e pela primeira vez aparece triste. O rei pergunta: “Por que está triste o teu rosto, não te vendo eu doente? Não pode ser outra coisa senão algum desgosto que haja em teu coração.” Neemias, com grande temor, responde: “como não há-de estar o meu rosto amargurado, quando a cidade, que é a casa dos sepulcros de meus pais, está deserta…?” “O rei disse-me: Que queres tu pedir? Eu, encomendando-me ao Deus do céu, disse ao rei: … peço-te que me mandes à Judeia… que eu a reedificarei.” O rei concede tudo, cartas e madeira, “porque a mão favorável do meu Deus era comigo”. Em Jerusalém, Neemias espera três dias e sai de noite, com poucos homens, “sem dizer a ninguém o que Deus me tinha inspirado no meu coração”, e inspeciona os muros derrubados e as portas queimadas. Depois diz aos chefes: “Vós vedes a aflição em que estamos… vinde e restauremos os muros de Jerusalém.” “Vamos e empreendamos a obra. Eles puseram, com coragem, as suas mãos a esta boa obra.” Sanabalat, Tobias e Gossem zombam; Neemias responde: “O Deus do céu é o que nos ajuda. Nós somos seus servos; levantemo-nos e reedifiquemos.”",
+    "alegorico": "A oração silenciosa de Neemias entre a pergunta e a resposta ao rei é modelo da oração jaculatória, a “oração contínua” recomendada por Paulo (1Ts 5,17). O homem que sai de noite para ver as ruínas lembra o Bom Pastor que vai em busca do que se perdeu (Lc 15,4).",
+    "moral": "Neemias reza num instante, entre duas frases: Deus está presente também nas conversas difíceis. Depois mostra prudência: espera, observa de noite, cala o projeto até conhecer a realidade. Só então convoca, com uma palavra simples: “vinde e restauremos”. E diante da zombaria não discute: afirma a sua confiança e convida a levantar-se.",
+    "anagogico": "“Levantemo-nos e reedifiquemos”: a obra de Deus na história caminha para a cidade definitiva, edificada pelo próprio Deus (Hb 11,10)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Por que está triste o teu rosto?” “Que queres tu pedir? Eu, encomendando-me ao Deus do céu.” “A mão favorável do meu Deus era comigo.” “O que Deus me tinha inspirado no meu coração.” “Vinde e restauremos os muros de Jerusalém.” “O Deus do céu é o que nos ajuda… levantemo-nos e reedifiquemos.”",
+    "meditatio_perguntas": [
+      "Rezo, mesmo num instante, antes de falar ou decidir?",
+      "Conheço bem a realidade antes de lançar um projeto?",
+      "Diante da zombaria, desanimo ou me levanto?"
+    ],
+    "oratio_guia": "Deus do céu, encomendo-me a ti em cada conversa e decisão. Inspira no meu coração o que queres que eu faça e dá-me coragem para dizer: levantemo-nos e reedifiquemos. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Deus do céu é o que nos ajuda. Nós somos seus servos; levantemo-nos e reedifiquemos",
+      "ref": "Ne 2,20"
+    }
+  },
+  "ancoras": {
+    "2:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Nisã (março-abril de 444 a.C.), quatro meses depois de 1,1.",
+        "origem": "ia"
+      }
+    },
+    "2:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Sanabalat era governador da Samaria; Tobias, provavelmente um funcionário amonita.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

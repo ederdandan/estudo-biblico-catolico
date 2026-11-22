@@ -1,0 +1,57 @@
+{
+  "id": "NEH.11.1",
+  "livro": "NEH",
+  "titulo": "Os que habitaram Jerusalém e as famílias sacerdotais",
+  "secao": "A Lei e a aliança",
+  "referencia": "Ne 11,1–12,26",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "Os que se ofereceram para habitar na cidade santa",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Os príncipes do povo habitaram em Jerusalém, mas o resto do povo deitou sortes, para tirarem uma parte de dez, a qual habitaria em Jerusalém, cidade santa, ficando as restantes nove partes nas outras cidades. O povo abençoou todos os homens que se ofereceram voluntariamente para habitar em Jerusalém.” Segue a lista das famílias de Judá e de Benjamim, dos sacerdotes, levitas e porteiros que habitaram em Jerusalém, e das aldeias de Judá e Benjamim. O capítulo 12 registra os sacerdotes e levitas que voltaram com Zorobabel e Josué, e as famílias sacerdotais nas gerações seguintes, até ao tempo “de Neemias, governador, e de Esdras, sacerdote e escriba”.",
+    "alegorico": "Jerusalém, “cidade santa”, precisava de habitantes: figura da Igreja, que precisa de pessoas que se ofereçam para viver no coração da missão. A lista das famílias sacerdotais através das gerações lembra a sucessão apostólica, que guarda a continuidade do ministério na Igreja.",
+    "moral": "Morar em Jerusalém era perigoso e menos rentável; por isso o povo abençoou os voluntários. Há sempre necessidade de quem se ofereça para os lugares difíceis. A Igreja vive da generosidade dos que dizem “eu vou”. E as longas listas lembram a fidelidade de gerações que transmitiram o serviço de Deus.",
+    "anagogico": "Os que se oferecem para habitar a cidade santa anunciam os que habitarão a Jerusalém celeste, onde Deus mesmo morará com eles (Ap 21,2-3)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Jerusalém, cidade santa.” “Uma parte de dez.” “O povo abençoou todos os homens que se ofereceram voluntariamente.” “Para habitar em Jerusalém.”",
+    "meditatio_perguntas": [
+      "Ofereço-me para os serviços difíceis na Igreja?",
+      "Abençoo e apoio os que se oferecem voluntariamente?",
+      "Agradeço pelas gerações que me transmitiram a fé?"
+    ],
+    "oratio_guia": "Senhor, abençoa os que se oferecem para servir nos lugares difíceis e dá-me um coração disponível para dizer: eis-me aqui. Amém.",
+    "contemplatio_foco": {
+      "texto": "O povo abençoou todos os homens que se ofereceram voluntariamente para habitar em Jerusalém",
+      "ref": "Ne 11,2"
+    }
+  },
+  "ancoras": {
+    "11:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “décima parte” lembra o dízimo: o povo “dá” a Deus um décimo das suas famílias para a cidade santa.",
+        "origem": "ia"
+      }
+    },
+    "12:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Esta lista encerra a primeira parte e liga as gerações de Zorobabel às de Neemias e Esdras.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

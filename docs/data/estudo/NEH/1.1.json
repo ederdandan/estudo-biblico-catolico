@@ -1,0 +1,57 @@
+{
+  "id": "NEH.1.1",
+  "livro": "NEH",
+  "titulo": "A oração de Neemias por Jerusalém",
+  "secao": "A reconstrução dos muros",
+  "referencia": "Ne 1,1-11",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "“Sentei-me, chorei… jejuei e orei”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Neemias, copeiro do rei Artaxerxes, está em Susa quando chega seu irmão Hanani com homens de Judá. Pergunta pelos que voltaram e por Jerusalém, e ouve: “Os que ficaram… estão numa grande aflição e em ignomínia; os muros de Jerusalém foram destruídos, e as suas portas consumidas pelo fogo.” “Quando ouvi estas palavras, sentei-me, chorei e estive como em luto muitos dias. Jejuei e orei, na presença do Deus do céu, dizendo: Peço-te, Senhor Deus do céu, forte, grande e terrível, que guardas o teu pacto e a tua misericórdia para com aqueles que te amam… que os teus ouvidos estejam atentos… para ouvires a oração que eu, teu servo, estou fazendo… de noite e de dia, pelos filhos de Israel… Em realidade, eu e a casa de meu pai pecamos.” Recorda a promessa feita a Moisés: “se vos converterdes a mim… ainda que tenhais sido espalhados até às extremidades do mundo, eu vos juntarei.” “Estes são teus servos e teu povo, que tu resgataste… Digna-te, agora, fazer que seja bem sucedido o teu servo, faze-o achar misericórdia diante deste homem.”",
+    "alegorico": "Neemias, que mora no palácio e chora pelas ruínas da sua cidade, lembra Jesus que chora sobre Jerusalém (Lc 19,41). Como Esdras e Daniel, ele intercede incluindo-se entre os pecadores: figura de Cristo intercessor. A promessa de reunir os dispersos “das extremidades do mundo” cumpre-se na Igreja, que reúne os filhos de Deus dispersos (Jo 11,52).",
+    "moral": "Neemias tem uma vida confortável na corte, mas não é indiferente: pergunta, escuta, chora. A compaixão começa por interessar-se. Depois reza muito tempo antes de agir, e sabe o que pedir: uma oportunidade diante do rei. A oração não substitui a ação, prepara-a. E a confissão é humilde: “eu e a casa de meu pai pecamos”.",
+    "anagogico": "As muralhas em ruínas que Neemias deseja reconstruir apontam para a Jerusalém celeste, com muros de jaspe e portas de pérola (Ap 21,18-21), onde nada estará destruído."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Perguntei pelos Judeus que tinham ficado.” “Os muros de Jerusalém foram destruídos.” “Sentei-me, chorei e estive como em luto muitos dias.” “Jejuei e orei, na presença do Deus do céu.” “Eu e a casa de meu pai pecamos.” “Estes são teus servos e teu povo, que tu resgataste.” “Faze-o achar misericórdia diante deste homem.”",
+    "meditatio_perguntas": [
+      "Interesso-me pelas “ruínas” dos outros, mesmo vivendo bem?",
+      "Rezo longamente antes de agir?",
+      "Intercedo pelo meu povo reconhecendo-me também pecador?"
+    ],
+    "oratio_guia": "Senhor Deus do céu, que guardas a tua aliança e a tua misericórdia, inclina os teus ouvidos à minha oração pelas ruínas do teu povo. Eu também pequei. Abre-me o caminho para servir. Amém.",
+    "contemplatio_foco": {
+      "texto": "Quando ouvi estas palavras, sentei-me, chorei e estive como em luto muitos dias. Jejuei e orei",
+      "ref": "Ne 1,4"
+    }
+  },
+  "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Casleu, no vigésimo ano de Artaxerxes I: novembro-dezembro de 445 a.C.",
+        "origem": "ia"
+      }
+    },
+    "1:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O copeiro tinha acesso direto ao rei e gozava da sua confiança.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
