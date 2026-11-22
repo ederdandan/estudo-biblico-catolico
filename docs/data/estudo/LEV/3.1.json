@@ -1,0 +1,49 @@
+{
+  "id": "LEV.3.1",
+  "livro": "LEV",
+  "titulo": "O sacrifício pacífico",
+  "secao": "A lei dos sacrifícios",
+  "referencia": "Lv 3,1-17",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "O sacrifício pacífico: comunhão à mesa com Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O sacrifício pacífico, ou de comunhão, pode ser de gado graúdo, cordeiro ou cabra, macho ou fêmea, sempre sem defeito. O ofertante põe a mão sobre a cabeça da vítima e a imola à entrada do tabernáculo; os sacerdotes derramam o sangue ao redor do altar. Ao contrário do holocausto, aqui não se queima a vítima inteira: oferece-se ao Senhor, pelo fogo, a gordura que cobre as vísceras, os rins, o redanho do fígado e, no carneiro, a cauda; o resto da carne será comido, como o capítulo 7 explicará. O sacerdote queima a gordura “em alimento do fogo, e em oblação ao Senhor”. A lei conclui com uma regra perpétua: “Toda a gordura será do Senhor”, e jamais comereis sangue ou gordura.",
+    "alegorico": "O sacrifício pacífico, em que Deus, o sacerdote e o ofertante participam da mesma vítima, é figura da Eucaristia, sacrifício e banquete de comunhão. Cristo “é a nossa paz” (Ef 2,14): nele Deus e o homem se sentam à mesma mesa. A gordura, considerada a parte melhor, reservada a Deus, lembra que o primeiro lugar na comunhão pertence sempre ao Senhor.",
+    "moral": "A paz com Deus não é um sentimento vago, mas comunhão celebrada e partilhada. O sacrifício pacífico ensina que a ação de graças termina numa refeição: a alegria verdadeira é partilhada com Deus e com os irmãos. E ensina também que o melhor é do Senhor: “toda a gordura será do Senhor”, não o que sobra.",
+    "anagogico": "A mesa de comunhão do sacrifício pacífico antecipa o banquete das núpcias do Cordeiro (Ap 19,9), em que a paz entre Deus e os homens será plena e eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Apresentará diante do Senhor um macho ou fêmea sem defeito.” “Porá a mão sobre a cabeça da sua vítima.” “Em oblação de suavíssimo odor ao Senhor.” “Toda a gordura será do Senhor.” “Jamais comereis sangue ou gordura.”",
+    "meditatio_perguntas": [
+      "Vivo a Missa como refeição de comunhão com Deus e com os irmãos?",
+      "Reservo a Deus o melhor, ou lhe deixo as sobras?",
+      "A minha ação de graças se transforma em partilha?"
+    ],
+    "oratio_guia": "Senhor, que nos convidas à tua mesa e fazes a paz pelo sangue de teu Filho, dá-me viver em comunhão contigo e com os irmãos, e reservar-te sempre o melhor. Amém.",
+    "contemplatio_foco": {
+      "texto": "Toda a gordura será do Senhor",
+      "ref": "Lv 3,16"
+    }
+  },
+  "ancoras": {
+    "3:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O sangue, sede da vida, pertence a Deus; daí a proibição de comê-lo (cf. Lv 17,11; At 15,20).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

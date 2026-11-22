@@ -1,0 +1,57 @@
+{
+  "id": "LEV.6.8",
+  "livro": "LEV",
+  "titulo": "O ritual dos sacrifícios para os sacerdotes",
+  "secao": "A lei dos sacrifícios",
+  "referencia": "Lv 6,8–7,38",
+  "ini": {
+    "c": 6,
+    "v": 8
+  },
+  "fim": {
+    "c": 7,
+    "v": 38
+  },
+  "liturgia": {
+    "tema_central": "O fogo perpétuo e a porção dos sacerdotes",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Agora a lei se dirige a Aarão e a seus filhos, regulando cada sacrifício do ponto de vista dos sacerdotes. O holocausto arde sobre o altar toda a noite até à manhã; o sacerdote, vestido de linho, recolhe as cinzas e, trocando de vestes, leva-as para fora do acampamento. “O fogo arderá sempre sobre o altar… Este é o fogo perpétuo, que nunca faltará sobre o altar.” Da oblação, os sacerdotes comem o resto, sem fermento, no lugar santo. No dia da sua unção, o sacerdote oferece a farinha frita, inteiramente queimada. A vítima pelo pecado é santíssima: quem tocar a sua carne fica santificado, o vaso de barro onde foi cozida é quebrado; mas a vítima cujo sangue entrou no santuário não se come, queima-se. Seguem as regras do sacrifício de reparação, a pele do holocausto para o sacerdote, e o sacrifício pacífico: com pães ázimos e fermentados, se for de ação de graças, a carne comida no mesmo dia. Ninguém impuro pode comer dela; não se come gordura nem sangue. O peito e a espádua direita ficam para os sacerdotes.",
+    "alegorico": "O fogo que nunca se apaga sobre o altar foi lido como figura da caridade que o Espírito acende no coração e da oração perpétua da Igreja. A lâmpada sempre acesa junto ao sacrário conserva esta lembrança. O sacrifício de ação de graças, com pão e partilha, é o nome que a Igreja dará à Missa: Eucaristia.",
+    "moral": "O sacerdote alimenta o fogo “todos os dias pela manhã”: a vida espiritual não se sustenta com um único fervor, mas com a fidelidade cotidiana. Há trabalhos humildes, como levar as cinzas, que também são serviço do altar. E a santidade das coisas de Deus pede respeito: não se aproxima delas quem está impuro.",
+    "anagogico": "O fogo perpétuo do altar anuncia o louvor sem fim do céu, onde os santos “não cessam de dizer dia e noite: Santo, santo, santo” (Ap 4,8)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O holocausto arderá sobre o altar toda a noite até de manhã.” “O fogo arderá sempre sobre o altar.” “Este é o fogo perpétuo, que nunca faltará sobre o altar.” “Se a oferta for em acção de graças…”",
+    "meditatio_perguntas": [
+      "Que lenha ponho cada manhã no fogo da minha oração?",
+      "Aceito os serviços humildes da vida de fé, como levar as cinzas?",
+      "A minha vida é uma ação de graças, uma eucaristia?"
+    ],
+    "oratio_guia": "Senhor, acende no meu coração o fogo perpétuo da tua caridade e dá-me a fidelidade de alimentá-lo a cada manhã. Que toda a minha vida seja ação de graças. Amém.",
+    "contemplatio_foco": {
+      "texto": "Este é o fogo perpétuo, que nunca faltará sobre o altar",
+      "ref": "Lv 6,13"
+    }
+  },
+  "ancoras": {
+    "6:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Lv 6,8-30 da Vulgata corresponde a Lv 6,1-23 das edições hebraicas.",
+        "origem": "ia"
+      }
+    },
+    "7:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O sacrifício de ação de graças (todah) era acompanhado de pão; a tradição judaica dizia que, nos tempos messiânicos, só ele permaneceria.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

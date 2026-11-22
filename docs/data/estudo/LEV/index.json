@@ -1,0 +1,418 @@
+{
+ "livro": "LEV",
+ "secoes": [
+  "A lei dos sacrifícios",
+  "A consagração dos sacerdotes",
+  "O puro e o impuro",
+  "O Dia da Expiação",
+  "A lei de santidade"
+ ],
+ "pericopes": [
+  {
+   "id": "LEV.1.1",
+   "titulo": "O holocausto",
+   "secao": "A lei dos sacrifícios",
+   "referencia": "Lv 1,1-17",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 17
+   }
+  },
+  {
+   "id": "LEV.2.1",
+   "titulo": "A oblação de flor de farinha",
+   "secao": "A lei dos sacrifícios",
+   "referencia": "Lv 2,1-16",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 16
+   }
+  },
+  {
+   "id": "LEV.3.1",
+   "titulo": "O sacrifício pacífico",
+   "secao": "A lei dos sacrifícios",
+   "referencia": "Lv 3,1-17",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 17
+   }
+  },
+  {
+   "id": "LEV.4.1",
+   "titulo": "O sacrifício pelo pecado",
+   "secao": "A lei dos sacrifícios",
+   "referencia": "Lv 4,1-35",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 35
+   }
+  },
+  {
+   "id": "LEV.5.1",
+   "titulo": "Faltas ocultas e o sacrifício de reparação",
+   "secao": "A lei dos sacrifícios",
+   "referencia": "Lv 5,1–6,7",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 7
+   }
+  },
+  {
+   "id": "LEV.6.8",
+   "titulo": "O ritual dos sacrifícios para os sacerdotes",
+   "secao": "A lei dos sacrifícios",
+   "referencia": "Lv 6,8–7,38",
+   "ini": {
+    "c": 6,
+    "v": 8
+   },
+   "fim": {
+    "c": 7,
+    "v": 38
+   }
+  },
+  {
+   "id": "LEV.8.1",
+   "titulo": "A consagração de Aarão e de seus filhos",
+   "secao": "A consagração dos sacerdotes",
+   "referencia": "Lv 8,1-36",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 36
+   }
+  },
+  {
+   "id": "LEV.9.1",
+   "titulo": "O primeiro sacrifício e a glória do Senhor",
+   "secao": "A consagração dos sacerdotes",
+   "referencia": "Lv 9,1-24",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 24
+   }
+  },
+  {
+   "id": "LEV.10.1",
+   "titulo": "Nadab e Abiú: o fogo estranho",
+   "secao": "A consagração dos sacerdotes",
+   "referencia": "Lv 10,1-20",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 20
+   }
+  },
+  {
+   "id": "LEV.11.1",
+   "titulo": "Animais puros e impuros: sede santos",
+   "secao": "O puro e o impuro",
+   "referencia": "Lv 11,1-47",
+   "ini": {
+    "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 47
+   }
+  },
+  {
+   "id": "LEV.12.1",
+   "titulo": "A purificação da mãe depois do parto",
+   "secao": "O puro e o impuro",
+   "referencia": "Lv 12,1-8",
+   "ini": {
+    "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 8
+   }
+  },
+  {
+   "id": "LEV.13.1",
+   "titulo": "A lepra: diagnóstico e separação",
+   "secao": "O puro e o impuro",
+   "referencia": "Lv 13,1-59",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 59
+   }
+  },
+  {
+   "id": "LEV.14.1",
+   "titulo": "A purificação do leproso e da casa",
+   "secao": "O puro e o impuro",
+   "referencia": "Lv 14,1-57",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 57
+   }
+  },
+  {
+   "id": "LEV.15.1",
+   "titulo": "As impurezas do corpo",
+   "secao": "O puro e o impuro",
+   "referencia": "Lv 15,1-33",
+   "ini": {
+    "c": 15,
+    "v": 1
+   },
+   "fim": {
+    "c": 15,
+    "v": 33
+   }
+  },
+  {
+   "id": "LEV.16.1",
+   "titulo": "O grande Dia da Expiação",
+   "secao": "O Dia da Expiação",
+   "referencia": "Lv 16,1-34",
+   "ini": {
+    "c": 16,
+    "v": 1
+   },
+   "fim": {
+    "c": 16,
+    "v": 34
+   }
+  },
+  {
+   "id": "LEV.17.1",
+   "titulo": "O lugar do sacrifício e o sangue",
+   "secao": "A lei de santidade",
+   "referencia": "Lv 17,1-16",
+   "ini": {
+    "c": 17,
+    "v": 1
+   },
+   "fim": {
+    "c": 17,
+    "v": 16
+   }
+  },
+  {
+   "id": "LEV.18.1",
+   "titulo": "A santidade da família",
+   "secao": "A lei de santidade",
+   "referencia": "Lv 18,1-30",
+   "ini": {
+    "c": 18,
+    "v": 1
+   },
+   "fim": {
+    "c": 18,
+    "v": 30
+   }
+  },
+  {
+   "id": "LEV.19.1",
+   "titulo": "Sede santos: amarás o teu próximo",
+   "secao": "A lei de santidade",
+   "referencia": "Lv 19,1-18",
+   "ini": {
+    "c": 19,
+    "v": 1
+   },
+   "fim": {
+    "c": 19,
+    "v": 18
+   }
+  },
+  {
+   "id": "LEV.19.19",
+   "titulo": "Sede santos: o estrangeiro e a justiça",
+   "secao": "A lei de santidade",
+   "referencia": "Lv 19,19-37",
+   "ini": {
+    "c": 19,
+    "v": 19
+   },
+   "fim": {
+    "c": 19,
+    "v": 37
+   }
+  },
+  {
+   "id": "LEV.20.1",
+   "titulo": "As penas contra Moloc e as uniões ilícitas",
+   "secao": "A lei de santidade",
+   "referencia": "Lv 20,1-27",
+   "ini": {
+    "c": 20,
+    "v": 1
+   },
+   "fim": {
+    "c": 20,
+    "v": 27
+   }
+  },
+  {
+   "id": "LEV.21.1",
+   "titulo": "A santidade dos sacerdotes",
+   "secao": "A lei de santidade",
+   "referencia": "Lv 21,1-24",
+   "ini": {
+    "c": 21,
+    "v": 1
+   },
+   "fim": {
+    "c": 21,
+    "v": 24
+   }
+  },
+  {
+   "id": "LEV.22.1",
+   "titulo": "As coisas santas e as vítimas sem defeito",
+   "secao": "A lei de santidade",
+   "referencia": "Lv 22,1-33",
+   "ini": {
+    "c": 22,
+    "v": 1
+   },
+   "fim": {
+    "c": 22,
+    "v": 33
+   }
+  },
+  {
+   "id": "LEV.23.1",
+   "titulo": "As festas: sábado, Páscoa e Pentecostes",
+   "secao": "A lei de santidade",
+   "referencia": "Lv 23,1-22",
+   "ini": {
+    "c": 23,
+    "v": 1
+   },
+   "fim": {
+    "c": 23,
+    "v": 22
+   }
+  },
+  {
+   "id": "LEV.23.23",
+   "titulo": "As festas: Trombetas, Expiação e Tabernáculos",
+   "secao": "A lei de santidade",
+   "referencia": "Lv 23,23-44",
+   "ini": {
+    "c": 23,
+    "v": 23
+   },
+   "fim": {
+    "c": 23,
+    "v": 44
+   }
+  },
+  {
+   "id": "LEV.24.1",
+   "titulo": "A lâmpada, os pães e o blasfemo",
+   "secao": "A lei de santidade",
+   "referencia": "Lv 24,1-23",
+   "ini": {
+    "c": 24,
+    "v": 1
+   },
+   "fim": {
+    "c": 24,
+    "v": 23
+   }
+  },
+  {
+   "id": "LEV.25.1",
+   "titulo": "O ano sabático e o jubileu",
+   "secao": "A lei de santidade",
+   "referencia": "Lv 25,1-22",
+   "ini": {
+    "c": 25,
+    "v": 1
+   },
+   "fim": {
+    "c": 25,
+    "v": 22
+   }
+  },
+  {
+   "id": "LEV.25.23",
+   "titulo": "O resgate da terra e do irmão pobre",
+   "secao": "A lei de santidade",
+   "referencia": "Lv 25,23-55",
+   "ini": {
+    "c": 25,
+    "v": 23
+   },
+   "fim": {
+    "c": 25,
+    "v": 55
+   }
+  },
+  {
+   "id": "LEV.26.1",
+   "titulo": "Bênçãos e maldições",
+   "secao": "A lei de santidade",
+   "referencia": "Lv 26,1-45",
+   "ini": {
+    "c": 26,
+    "v": 1
+   },
+   "fim": {
+    "c": 26,
+    "v": 45
+   }
+  },
+  {
+   "id": "LEV.27.1",
+   "titulo": "Os votos e os dízimos",
+   "secao": "A lei de santidade",
+   "referencia": "Lv 27,1-34",
+   "ini": {
+    "c": 27,
+    "v": 1
+   },
+   "fim": {
+    "c": 27,
+    "v": 34
+   }
+  }
+ ]
+}

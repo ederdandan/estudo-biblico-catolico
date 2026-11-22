@@ -1,0 +1,57 @@
+{
+  "id": "LEV.16.1",
+  "livro": "LEV",
+  "titulo": "O grande Dia da Expiação",
+  "secao": "O Dia da Expiação",
+  "referencia": "Lv 16,1-34",
+  "ini": {
+    "c": 16,
+    "v": 1
+  },
+  "fim": {
+    "c": 16,
+    "v": 34
+  },
+  "liturgia": {
+    "tema_central": "Uma vez por ano, o sumo sacerdote entra além do véu",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Depois da morte de Nadab e Abiú, o Senhor diz a Moisés que Aarão não entre a qualquer tempo no santuário além do véu, “porque eu aparecerei na nuvem sobre o oráculo”. Eis o rito: Aarão, lavado e vestido só de linho, oferece um novilho pelo seu pecado e pelo da sua casa. Do povo recebe dois bodes e lança sortes sobre eles: um “pelo Senhor”, outro “por Azazel”. Entra além do véu com o turíbulo cheio de brasas e incenso, para que a nuvem do perfume cubra o propiciatório, e asperge sete vezes com o sangue do novilho; depois faz o mesmo com o sangue do bode do povo, e expia o santuário, o tabernáculo e o altar “das impurezas dos filhos de Israel”. Então põe as duas mãos sobre a cabeça do bode vivo, confessa todas as iniquidades do povo e o envia para o deserto, levando “todas as iniquidades deles para uma terra solitária”. É lei perpétua: no décimo dia do sétimo mês, Israel “afligirá as almas” e não trabalhará, porque “neste dia se fará a vossa expiação… diante do Senhor”.",
+    "alegorico": "A Carta aos Hebreus faz deste dia a chave da obra de Cristo: o sumo sacerdote entrava uma vez por ano com sangue alheio; Cristo, “pelo seu próprio sangue, entrou uma só vez no santuário, tendo obtido uma redenção eterna” (Hb 9,12). Ele é o bode imolado e também aquele que leva os pecados para longe: “o Cordeiro de Deus, que tira o pecado do mundo” (Jo 1,29). Na sua morte, o véu do templo se rasgou (Mc 15,38).",
+    "moral": "O Dia da Expiação ensina que o pecado não é só pessoal: contamina o santuário e a comunidade, e precisa ser confessado. “Afligir a alma” pelo jejum e pela penitência é a resposta humana ao perdão. O cristão tem acesso ao Santo dos Santos não uma vez por ano, mas sempre, pela confiança no sangue de Cristo (Hb 10,19-22).",
+    "anagogico": "O sumo sacerdote que sai do santuário e abençoa o povo é figura de Cristo, que, tendo entrado no céu, aparecerá “uma segunda vez, sem pecado, para a salvação dos que o esperam” (Hb 9,28)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Para que não morra, porque eu aparecerei na nuvem sobre o oráculo.” “Uma pelo Senhor e outra por Azazel.” “Confesse todas as iniquidades dos filhos de Israel.” “Quando o bode tiver levado todas as iniquidades deles para uma terra solitária.” “Neste dia se fará a vossa expiação.”",
+    "meditatio_perguntas": [
+      "Creio que Cristo levou os meus pecados para longe, para não mais voltar?",
+      "Confesso também os pecados que ferem a comunidade?",
+      "Aproximo-me de Deus com a confiança de quem tem acesso pelo sangue de Cristo?"
+    ],
+    "oratio_guia": "Senhor Jesus, sumo sacerdote que entraste no santuário com o teu próprio sangue, leva para longe os meus pecados e os do teu povo, e dá-me entrar contigo na presença do Pai. Amém.",
+    "contemplatio_foco": {
+      "texto": "Neste dia se fará a vossa expiação e a purificação de todos os vossos pecados",
+      "ref": "Lv 16,30"
+    }
+  },
+  "ancoras": {
+    "16:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Azazel: provavelmente nome de um ser do deserto; a Vulgata entendeu “bode emissário”.",
+        "origem": "ia"
+      }
+    },
+    "16:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "É o Yom Kippur, o dia mais solene do calendário judaico.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

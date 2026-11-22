@@ -1,0 +1,57 @@
+{
+  "id": "LEV.27.1",
+  "livro": "LEV",
+  "titulo": "Os votos e os dízimos",
+  "secao": "A lei de santidade",
+  "referencia": "Lv 27,1-34",
+  "ini": {
+    "c": 27,
+    "v": 1
+  },
+  "fim": {
+    "c": 27,
+    "v": 34
+  },
+  "liturgia": {
+    "tema_central": "Os votos e os dízimos: o que é consagrado ao Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O livro termina com um apêndice sobre os votos. Quem consagra uma pessoa ao Senhor pode resgatá-la pagando um valor fixado segundo a idade e o sexo: de cinquenta siclos de prata para o homem adulto a três para uma menina pequena; “se for um pobre”, o sacerdote avalia o que ele pode dar. O animal prometido em voto, se é próprio para o sacrifício, torna-se santo e não pode ser trocado; o impuro é avaliado e pode ser resgatado com um quinto a mais. O mesmo para a casa e o campo consagrados, cujo valor se calcula pelos anos até o jubileu. Os primogênitos já pertencem ao Senhor e não podem ser objeto de voto. O que é consagrado por anátema não se vende nem se resgata. “Todos os dízimos da terra, ou sejam de grão, ou de frutas das árvores, são do Senhor”; e do gado, cada décimo animal que passa sob o cajado do pastor, sem escolher bom ou mau. “Estes são os mandamentos que o Senhor deu a Moisés para os filhos de Israel no monte Sinai.”",
+    "alegorico": "A consagração de pessoas ao Senhor prefigura a vida consagrada e, antes, a consagração de Cristo: “por eles me santifico a mim mesmo” (Jo 17,19). Samuel, consagrado pela mãe (1Sm 1,11), e Maria, a quem a tradição apresenta no Templo, são figuras desta oferta.",
+    "moral": "Fazer um voto é coisa séria: “é melhor não fazer votos do que fazê-los e não cumpri-los” (Ecl 5,4). O que se promete a Deus não se troca por algo pior. O dízimo ensina que uma parte de tudo pertence ao Senhor, e a Igreja conserva o dever de ajudar às necessidades do culto e dos pobres. E de novo a Lei se adapta ao pobre: o sacerdote avalia “o que ele pode dar”.",
+    "anagogico": "O que foi consagrado ao Senhor “não se venderá, nem se poderá resgatar”: é figura da pertença definitiva a Deus dos que se entregaram a ele, que nada poderá arrancar da sua mão (Jo 10,28)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Se um homem fizer um voto a Deus.” “Se for um pobre… dará o que este avaliar e vir que ele pode dar.” “Tudo o que uma vez foi consagrado, será uma das coisas santíssimas.” “Todos os dízimos da terra… são do Senhor.”",
+    "meditatio_perguntas": [
+      "Cumpro as promessas que fiz a Deus?",
+      "Contribuo com generosidade para a Igreja e para os pobres?",
+      "Vivo a minha vida como algo consagrado ao Senhor?"
+    ],
+    "oratio_guia": "Senhor, a quem pertencem os primogênitos e os dízimos, recebe a minha vida como coisa consagrada a ti. Dá-me fidelidade às promessas e generosidade nas ofertas. Amém.",
+    "contemplatio_foco": {
+      "texto": "Todos os dízimos da terra, ou sejam de grão, ou de frutas das árvores, são do Senhor",
+      "ref": "Lv 27,30"
+    }
+  },
+  "ancoras": {
+    "27:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Mais uma vez, a Lei prevê uma avaliação proporcional à pobreza do ofertante.",
+        "origem": "ia"
+      }
+    },
+    "27:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O anátema (herem) é a consagração irrevogável, muitas vezes por destruição, de uma coisa ao Senhor.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

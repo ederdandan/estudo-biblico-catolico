@@ -1,0 +1,57 @@
+{
+  "id": "LEV.5.1",
+  "livro": "LEV",
+  "titulo": "Faltas ocultas e o sacrifício de reparação",
+  "secao": "A lei dos sacrifícios",
+  "referencia": "Lv 5,1–6,7",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 7
+  },
+  "liturgia": {
+    "tema_central": "Confessar a falta e reparar o dano",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A lei trata de faltas concretas: quem, chamado como testemunha, cala o que viu; quem toca algo impuro sem perceber; quem jura levianamente e depois esquece. Ao reconhecer a culpa, “faça penitência pelo pecado” e ofereça uma cordeira ou uma cabra. Se não puder, duas rolas ou dois pombinhos; se nem isso, a décima parte de um efá de flor de farinha, sem azeite nem incenso, “porque é um sacrifício pelo pecado”. Depois vem o sacrifício de reparação: quem lesar as coisas santas oferece um carneiro e “ressarcirá o dano que fez, e juntará mais uma quinta parte”. O mesmo vale para quem peca contra o próximo, negando um depósito, roubando com violência, cometendo fraude, ou negando, com juramento, ter encontrado uma coisa perdida: restituirá por inteiro ao dono, com um quinto a mais, e oferecerá um carneiro sem defeito; o sacerdote orará por ele, “e será perdoada por qualquer coisa que fez pecando”.",
+    "alegorico": "Isaías dirá do Servo sofredor que “deu a sua vida como sacrifício de reparação” (Is 53,10): Cristo é o carneiro que repara o que nós roubamos a Deus e aos irmãos. A gradação das ofertas, até a simples farinha do mais pobre, mostra que a misericórdia de Deus não deixa ninguém sem acesso ao perdão.",
+    "moral": "O perdão exige duas coisas: confessar (5,5) e reparar. Não basta o rito; quem roubou deve restituir, e com acréscimo. É a lição de Zaqueu: “se defraudei alguém em alguma coisa, restituo-lhe o quádruplo” (Lc 19,8). A Igreja conserva esta exigência no sacramento da Penitência: a satisfação inclui, quando possível, reparar o dano feito ao próximo. Note-se que a ofensa ao próximo é chamada “desprezar o Senhor” (6,2).",
+    "anagogico": "A restituição com acréscimo prefigura a ordem nova em que tudo será restaurado, e cada injustiça reparada com sobra, pelo juízo de Deus que “restituirá a cada um segundo as suas obras”."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Faça penitência pelo pecado.” “Se não tiver posses…, oferecerá pelo seu pecado a décima parte dum efi de flor de farinha.” “Ressarcirá o dano que fez, e juntará mais uma quinta parte.” “Restituirá por inteiro… e uma quinta parte a mais.”",
+    "meditatio_perguntas": [
+      "Calei alguma verdade que devia testemunhar?",
+      "Há algum dano que causei e ainda não reparei?",
+      "Sei que ofender o próximo é também desprezar o Senhor?"
+    ],
+    "oratio_guia": "Senhor, dá-me a humildade de confessar as minhas faltas e a justiça de reparar o mal que fiz. Que eu restitua com generosidade, como quem recebeu de ti perdão sem medida. Amém.",
+    "contemplatio_foco": {
+      "texto": "ressarcirá o dano que fez, e juntará mais uma quinta parte",
+      "ref": "Lv 5,16"
+    }
+  },
+  "ancoras": {
+    "5:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Primeira menção explícita da confissão do pecado como parte do rito (cf. Nm 5,7).",
+        "origem": "ia"
+      }
+    },
+    "6:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Matos Soares segue a Vulgata: Lv 6,1-7 corresponde a Lv 5,20-26 das edições hebraicas.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "LEV.18.1",
+  "livro": "LEV",
+  "titulo": "A santidade da família",
+  "secao": "A lei de santidade",
+  "referencia": "Lv 18,1-30",
+  "ini": {
+    "c": 18,
+    "v": 1
+  },
+  "fim": {
+    "c": 18,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "“O homem que os observa, viverá por eles”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor diz: “Eu sou o Senhor vosso Deus”: Israel não seguirá os costumes do Egito, de onde saiu, nem os de Canaã, para onde vai, mas os preceitos do Senhor: “o homem que os observa, viverá por eles”. Seguem as proibições das uniões entre parentes próximos: com a mãe ou a madrasta, a irmã, a neta, a tia, a nora, a cunhada, a mulher e a filha dela, a irmã da esposa enquanto esta vive. Proíbe-se a união com a mulher durante a menstruação, o adultério com a mulher do próximo, o sacrifício dos filhos a Moloc, a união homossexual, “porque é uma abominação”, e a união com animais. Com estas práticas as nações contaminaram a terra, e “a terra vomitará seus habitantes”. Israel não deve fazer o mesmo, para que a terra não o vomite também.",
+    "alegorico": "Paulo cita este versículo, “o homem que os cumprir, viverá por eles” (Rm 10,5; Gl 3,12), para mostrar que a Lei promete a vida, mas só Cristo dá a força de cumpri-la. A família protegida por estas leis é figura da Igreja, família de Deus, cuja unidade e pureza Cristo guarda como Esposo.",
+    "moral": "A Lei protege a família e o corpo: a sexualidade não é terreno sem regras, mas lugar de santidade e de respeito à ordem da criação. A Igreja ensina que estas proibições exprimem a lei moral natural, e acolhe cada pessoa com respeito e delicadeza, chamando todos à castidade segundo o seu estado. A comparação com o Egito e Canaã lembra que o povo de Deus não pode tomar os costumes do ambiente como norma.",
+    "anagogico": "A terra que “vomita” os habitantes injustos e acolhe os fiéis aponta para a terra nova, herança dos que vivem segundo Deus, onde “habita a justiça” (2Pd 3,13)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vós não procedereis conforme os costumes do país do Egipto.” “Guardai as minhas leis e os meus mandamentos; o homem que os observa, viverá por eles.” “Eu sou o Senhor.” “A terra vomitará seus habitantes.”",
+    "meditatio_perguntas": [
+      "Tomo como norma os costumes do ambiente ou a palavra de Deus?",
+      "Vivo a sexualidade como lugar de santidade e respeito?",
+      "Protejo a dignidade da minha família?"
+    ],
+    "oratio_guia": "Senhor, que dás a vida a quem guarda os teus preceitos, guarda as nossas famílias na pureza e no respeito. Dá-me a força de viver segundo a tua palavra e não segundo os costumes do mundo. Amém.",
+    "contemplatio_foco": {
+      "texto": "o homem que os observa, viverá por eles",
+      "ref": "Lv 18,5"
+    }
+  },
+  "ancoras": {
+    "18:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em Ez 20,11; Ne 9,29; Rm 10,5; Gl 3,12.",
+        "origem": "ia"
+      }
+    },
+    "18:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Moloc: divindade cananeia a quem se sacrificavam crianças pelo fogo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

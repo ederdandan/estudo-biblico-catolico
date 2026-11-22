@@ -1,0 +1,57 @@
+{
+  "id": "LEV.22.1",
+  "livro": "LEV",
+  "titulo": "As coisas santas e as vítimas sem defeito",
+  "secao": "A lei de santidade",
+  "referencia": "Lv 22,1-33",
+  "ini": {
+    "c": 22,
+    "v": 1
+  },
+  "fim": {
+    "c": 22,
+    "v": 33
+  },
+  "liturgia": {
+    "tema_central": "“Oferecerá um animal perfeito, para que seja agradável”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor manda que Aarão e seus filhos tratem com respeito as coisas santas oferecidas pelos filhos de Israel. O sacerdote impuro, por lepra, fluxo, contato com morto ou outra impureza, não come delas até se lavar e o sol se pôr. Nenhum estrangeiro, hóspede ou jornaleiro come das coisas santas; o escravo comprado pelo sacerdote e o nascido em sua casa, sim. A filha do sacerdote casada com leigo não come delas, mas, se voltar viúva e sem filhos, come como antes. Quem comer por ignorância restitui com um quinto a mais. As vítimas devem ser perfeitas: “Se tiver qualquer defeito, não oferecereis nem será aceite.” Nada cego, estropiado, mutilado ou sarnento. A cria fica sete dias com a mãe e só no oitavo pode ser oferecida; não se imola no mesmo dia a mãe e a cria. “Não profaneis o meu santo nome, para que eu seja santificado no meio dos filhos de Israel. Eu sou o Senhor que vos santifico.”",
+    "alegorico": "A vítima perfeita, sem defeito, anuncia Cristo, que “se ofereceu a si mesmo imaculado a Deus” (Hb 9,14). Malaquias denunciará os sacerdotes que ofereciam animais cegos e coxos (Ml 1,8) e anunciará a “oblação pura” oferecida em todo lugar (Ml 1,11), que a tradição viu cumprida na Eucaristia.",
+    "moral": "Não se oferece a Deus o que não serve: as sobras, o tempo cansado, o que não custa nada. A delicadeza de deixar a cria com a mãe e de não imolar os dois no mesmo dia mostra que a Lei educa também para a compaixão. E as coisas santas pedem preparação: quem está impuro espera, lava-se e só então se aproxima, como o cristão que se confessa antes de comungar quando tem consciência de pecado grave.",
+    "anagogico": "“Para que eu seja santificado no meio dos filhos de Israel”: o fim de toda oferta é a santificação do nome de Deus, que se consumará quando todos o reconhecerem como Santo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não profanem o nome das coisas santificadas.” “Oferecerá um animal perfeito, para que seja agradável.” “Estarão sete dias mamando debaixo da mãe.” “Não profaneis o meu santo nome, para que eu seja santificado no meio dos filhos de Israel.”",
+    "meditatio_perguntas": [
+      "Ofereço a Deus o melhor, ou o que já não me serve?",
+      "Preparo-me para receber as coisas santas, especialmente a Eucaristia?",
+      "Tenho compaixão também para com as criaturas?"
+    ],
+    "oratio_guia": "Senhor, que recebeste de teu Filho a oferta perfeita, faz que eu te ofereça o melhor de mim e me aproxime das coisas santas com o coração preparado. Santificado seja o teu nome. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não profaneis o meu santo nome, para que eu seja santificado no meio dos filhos de Israel",
+      "ref": "Lv 22,32"
+    }
+  },
+  "ancoras": {
+    "22:27": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O oitavo dia para a oferta do animal recém-nascido corresponde ao oitavo dia da circuncisão (Lv 12,3).",
+        "origem": "ia"
+      }
+    },
+    "22:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Dt 22,6-7: a Lei mostra cuidado com a mãe e a cria.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

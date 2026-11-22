@@ -1,0 +1,36 @@
+# Divisão em perícopes (numeração Matos Soares / Vulgata). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## A lei dos sacrifícios
+1:1-1:17 | O holocausto
+2:1-2:16 | A oblação de flor de farinha
+3:1-3:17 | O sacrifício pacífico
+4:1-4:35 | O sacrifício pelo pecado
+5:1-6:7 | Faltas ocultas e o sacrifício de reparação
+6:8-7:38 | O ritual dos sacrifícios para os sacerdotes
+## A consagração dos sacerdotes
+8:1-8:36 | A consagração de Aarão e de seus filhos
+9:1-9:24 | O primeiro sacrifício e a glória do Senhor
+10:1-10:20 | Nadab e Abiú: o fogo estranho
+## O puro e o impuro
+11:1-11:47 | Animais puros e impuros: sede santos
+12:1-12:8 | A purificação da mãe depois do parto
+13:1-13:59 | A lepra: diagnóstico e separação
+14:1-14:57 | A purificação do leproso e da casa
+15:1-15:33 | As impurezas do corpo
+## O Dia da Expiação
+16:1-16:34 | O grande Dia da Expiação
+## A lei de santidade
+17:1-17:16 | O lugar do sacrifício e o sangue
+18:1-18:30 | A santidade da família
+19:1-19:18 | Sede santos: amarás o teu próximo
+19:19-19:37 | Sede santos: o estrangeiro e a justiça
+20:1-20:27 | As penas contra Moloc e as uniões ilícitas
+21:1-21:24 | A santidade dos sacerdotes
+22:1-22:33 | As coisas santas e as vítimas sem defeito
+23:1-23:22 | As festas: sábado, Páscoa e Pentecostes
+23:23-23:44 | As festas: Trombetas, Expiação e Tabernáculos
+24:1-24:23 | A lâmpada, os pães e o blasfemo
+25:1-25:22 | O ano sabático e o jubileu
+25:23-25:55 | O resgate da terra e do irmão pobre
+26:1-26:45 | Bênçãos e maldições
+27:1-27:34 | Os votos e os dízimos

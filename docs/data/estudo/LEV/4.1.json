@@ -1,0 +1,57 @@
+{
+  "id": "LEV.4.1",
+  "livro": "LEV",
+  "titulo": "O sacrifício pelo pecado",
+  "secao": "A lei dos sacrifícios",
+  "referencia": "Lv 4,1-35",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 35
+  },
+  "liturgia": {
+    "tema_central": "O sacrifício pelo pecado: o sangue que purifica",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor dá a lei para quem “pecar por ignorância”, fazendo o que o Senhor proibiu. O rito varia conforme a pessoa. Se pecou o sacerdote ungido, “fazendo assim pecar o povo”, oferece um novilho sem defeito; põe a mão sobre ele, imola-o, leva o sangue dentro do tabernáculo, faz sete aspersões diante do véu, põe sangue nas pontas do altar dos perfumes e derrama o resto ao pé do altar dos holocaustos; queima a gordura, e o resto do novilho é queimado fora do acampamento, num lugar limpo. O mesmo se faz quando toda a multidão de Israel peca: os anciãos impõem as mãos. Se peca um chefe, oferece um bode; se peca alguém do povo, uma cabra ou uma cordeira. Em cada caso, o sacerdote unta com sangue as pontas do altar, queima a gordura “e orará por ele e pelo seu pecado, e lhe será perdoado”.",
+    "alegorico": "A Carta aos Hebreus vê aqui a figura de Cristo: os corpos das vítimas cujo sangue era levado ao santuário eram queimados fora do acampamento; “por isso também Jesus, para santificar o povo pelo seu sangue, padeceu fora da porta” (Hb 13,11-12). As sete aspersões diante do véu anunciam o sangue de Cristo que nos abre o santuário (Hb 10,19-20).",
+    "moral": "A lei leva a sério até os pecados de ignorância: o mal objetivo fere a comunhão, mesmo sem plena consciência. Quanto maior a responsabilidade, maior a vítima: o pecado do sacerdote “faz pecar o povo”. Quem guia os outros deve vigiar mais. E o fim do rito é sempre o mesmo, cheio de esperança: “e lhe será perdoado”.",
+    "anagogico": "O sangue levado diante do véu prefigura a entrada de Cristo, com o seu próprio sangue, no santuário do céu, “tendo obtido uma redenção eterna” (Hb 9,12), onde intercede por nós até à consumação."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quando alguém pecar por ignorância.” “Fará com ele sete aspersões diante do Senhor, em frente do véu do santuário.” “Depois de conhecer o seu pecado.” “O sacerdote orará por ele e pelo seu pecado, e (este) lhe será perdoado.”",
+    "meditatio_perguntas": [
+      "Peço perdão também das faltas que cometi sem perceber?",
+      "Tenho consciência de que a minha responsabilidade agrava ou atenua o mal que faço aos outros?",
+      "Confio no sangue de Cristo que me purifica, especialmente no sacramento da Penitência?"
+    ],
+    "oratio_guia": "Senhor, purifica-me dos pecados que não conheço e daqueles que conheço. Pelo sangue de teu Filho, que padeceu fora da porta, perdoa-me e restitui-me à tua comunhão. Amém.",
+    "contemplatio_foco": {
+      "texto": "orará por aquele homem e pelo seu pecado, e lhe será perdoado",
+      "ref": "Lv 4,35"
+    }
+  },
+  "ancoras": {
+    "4:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O pecado do sumo sacerdote atinge o povo, porque ele o representa diante de Deus.",
+        "origem": "ia"
+      }
+    },
+    "4:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Queimar a vítima fora do acampamento é aplicado a Cristo crucificado fora de Jerusalém (Hb 13,11-13).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

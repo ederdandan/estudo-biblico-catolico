@@ -1,0 +1,57 @@
+{
+  "id": "LEV.12.1",
+  "livro": "LEV",
+  "titulo": "A purificação da mãe depois do parto",
+  "secao": "O puro e o impuro",
+  "referencia": "Lv 12,1-8",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 8
+  },
+  "liturgia": {
+    "tema_central": "A purificação da mãe e a oferta dos pobres",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor fala sobre a mulher que dá à luz. Se nasce um menino, ela fica impura sete dias, como no tempo da menstruação; no oitavo dia o menino é circuncidado; e ela permanece mais trinta e três dias purificando-se do seu sangue, sem tocar coisa santa nem entrar no santuário. Se nasce uma menina, os prazos dobram: duas semanas e sessenta e seis dias. Completados os dias da purificação, a mãe leva à porta do tabernáculo um cordeiro de um ano para holocausto e um pombinho ou uma rola pelo pecado; o sacerdote oferece-os e ora por ela. “Se ela, porém, não tiver com que possa oferecer um cordeiro, tomará duas rolas ou dois pombinhos.”",
+    "alegorico": "Esta lei se cumpre de modo único em Maria: quarenta dias depois do nascimento de Jesus, ela sobe ao Templo “segundo a lei de Moisés” e oferece “um par de rolas ou dois pombinhos” (Lc 2,22-24), a oferta dos pobres. Aquela que deu à luz o Santo dos Santos submete-se humildemente ao rito; e no Templo é o próprio Cordeiro que é apresentado ao Pai.",
+    "moral": "A impureza ritual não é pecado nem desprezo da maternidade: exprime o mistério da vida e do sangue, que pertencem a Deus, e o respeito diante do santo. A Sagrada Família ensina a obediência humilde e a pobreza. A Igreja conservou por séculos a bênção das mães depois do parto, como ação de graças pelo dom da vida.",
+    "anagogico": "A apresentação no Templo, que esta lei prepara, anuncia o encontro definitivo do Senhor com o seu povo: “Agora, Senhor, deixas ir em paz o teu servo” (Lc 2,29)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“No oitavo dia será o menino circuncidado.” “Até se completarem os dias da sua purificação.” “Levará à porta do tabernáculo… um cordeiro.” “Se ela, porém, não tiver com que possa oferecer um cordeiro, tomará duas rolas ou dois pombinhos.”",
+    "meditatio_perguntas": [
+      "Agradeço a Deus o dom da vida, a minha e a dos meus filhos?",
+      "Aprendo com Maria a obediência humilde à lei de Deus?",
+      "Acolho a pobreza da Sagrada Família como um caminho?"
+    ],
+    "oratio_guia": "Senhor, que quiseste ser apresentado no Templo com a oferta dos pobres, abençoa as mães e os filhos, e dá-me a humildade de Maria e de José. Amém.",
+    "contemplatio_foco": {
+      "texto": "tomará duas rolas ou dois pombinhos",
+      "ref": "Lv 12,8"
+    }
+  },
+  "ancoras": {
+    "12:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A circuncisão no oitavo dia: Jesus a recebeu (Lc 2,21).",
+        "origem": "ia"
+      }
+    },
+    "12:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Lucas cita esta disposição ao narrar a Apresentação do Senhor (Lc 2,24).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

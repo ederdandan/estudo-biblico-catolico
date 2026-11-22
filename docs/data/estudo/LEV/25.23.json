@@ -1,0 +1,57 @@
+{
+  "id": "LEV.25.23",
+  "livro": "LEV",
+  "titulo": "O resgate da terra e do irmão pobre",
+  "secao": "A lei de santidade",
+  "referencia": "Lv 25,23-55",
+  "ini": {
+    "c": 25,
+    "v": 23
+  },
+  "fim": {
+    "c": 25,
+    "v": 55
+  },
+  "liturgia": {
+    "tema_central": "“A terra é minha, e vós sois como estrangeiros e peregrinos”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“A terra também não se venderá para sempre, porque é minha, e vós sois como estrangeiros e peregrinos.” Por isso todo campo vendido pode ser resgatado. Se um irmão empobrecido vende a sua propriedade, o parente mais próximo pode resgatá-la; se ele mesmo conseguir o preço, recompra-a; senão, ela volta a ele no jubileu. As casas nas cidades muradas têm um ano para o resgate; as das aldeias seguem a regra dos campos; as dos levitas podem ser sempre resgatadas. “Se teu irmão se tornou pobre e cair em indigência… não recebas usuras dele”; não lhe emprestes dinheiro com juros, nem cobres mais grão do que deste. Se o irmão, por pobreza, se vende a ti, “não o oprimirás com a servidão de escravo”: será como jornaleiro e hóspede e, no jubileu, voltará livre com os filhos. Se se vender a um estrangeiro rico, pode ser resgatado por um irmão, tio, primo ou parente próximo, calculando os anos até o jubileu. “Com efeito, os filhos de Israel são meus servos, que eu tirei da terra do Egipto.”",
+    "alegorico": "A figura do parente próximo que resgata, o go’el, é central: Booz resgata a herança de Rute (Rt 4), e os Padres viram nele figura de Cristo, que se fez nosso parente pela Encarnação para nos resgatar. Ninguém pode ser escravo de outro homem para sempre, porque todos pertencem a Deus: Cristo nos “resgatou não com ouro ou prata, mas com o seu precioso sangue” (1Pd 1,18-19).",
+    "moral": "A Lei proíbe explorar a pobreza do irmão: nada de usura, nada de servidão perpétua, nada de opressão. O pobre não é mercadoria, é irmão. A Igreja retomou esta doutrina na condenação da usura e na defesa da dignidade do trabalhador. Somos todos “estrangeiros e peregrinos” na terra de Deus, e isso nos faz solidários.",
+    "anagogico": "O resgate do parente e o retorno à herança no jubileu prefiguram a redenção final, quando Cristo, o nosso Redentor, nos devolverá a herança incorruptível guardada nos céus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A terra também não se venderá para sempre, porque é minha, e vós sois como estrangeiros e peregrinos.” “O parente mais próximo… pode remir.” “Não recebas usuras dele.” “Não o oprimirás com a servidão de escravo.” “Os filhos de Israel são meus servos.”",
+    "meditatio_perguntas": [
+      "Aproveito-me da necessidade alheia em algum negócio ou relação?",
+      "Sou para alguém o “parente próximo” que resgata?",
+      "Vivo como peregrino em terra que é de Deus?"
+    ],
+    "oratio_guia": "Senhor, meu Redentor, que te fizeste meu parente para me resgatar, ensina-me a não explorar ninguém e a resgatar os irmãos que caíram na pobreza. Tudo é teu, e eu sou peregrino. Amém.",
+    "contemplatio_foco": {
+      "texto": "a terra também não se venderá para sempre, porque é minha, e vós sois como estrangeiros e peregrinos",
+      "ref": "Lv 25,23"
+    }
+  },
+  "ancoras": {
+    "25:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O parente resgatador (go’el) é aplicado a Deus em Is 41,14 e Jó 19,25 (“eu sei que o meu Redentor vive”).",
+        "origem": "ia"
+      }
+    },
+    "25:36": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Proibição da usura entre irmãos; cf. Ex 22,25; Dt 23,19.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "LEV.8.1",
+  "livro": "LEV",
+  "titulo": "A consagração de Aarão e de seus filhos",
+  "secao": "A consagração dos sacerdotes",
+  "referencia": "Lv 8,1-36",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 36
+  },
+  "liturgia": {
+    "tema_central": "Ungidos e consagrados para o serviço do Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Moisés reúne toda a multidão à entrada do tabernáculo e diz: “Eis o que o Senhor ordenou que se faça.” Lava Aarão e seus filhos com água e reveste Aarão das vestes do sumo sacerdote: túnica de linho, cíngulo, manto, éfode, o peitoral com “Doutrina e verdade”, a tiara e a lâmina de ouro, o diadema sagrado. Unge com óleo o tabernáculo, o altar e os utensílios, e derrama óleo sobre a cabeça de Aarão, “ungiu-o e consagrou-o”. Reveste também os filhos. Seguem três sacrifícios: um novilho pelo pecado, um carneiro em holocausto e o carneiro da inauguração. Com o sangue deste, Moisés toca a orelha direita, o polegar da mão direita e o do pé direito de Aarão e de seus filhos. Põe-lhes nas mãos as porções e os pães, que eles elevam diante do Senhor. Asperge-os com óleo e sangue. Durante sete dias não sairão da entrada do tabernáculo, velando ao serviço do Senhor. E Aarão e seus filhos fizeram tudo o que o Senhor ordenara.",
+    "alegorico": "A unção de Aarão prefigura Cristo, o Ungido por excelência, “sumo sacerdote dos bens futuros” (Hb 9,11). Os ritos de lavar, revestir e ungir anunciam os sacramentos do Batismo e da Crisma, que fazem dos fiéis “sacerdócio real” (1Pd 2,9), e de modo próprio a Ordem sacerdotal. O sangue na orelha, na mão e no pé significa que todo o homem é consagrado: ouvir, agir e caminhar para Deus.",
+    "moral": "Quem serve a Deus deve ser consagrado por inteiro: ouvidos para escutar a sua palavra, mãos para fazer a sua obra, pés para seguir os seus caminhos. As vestes do sacerdote levam escrito “Doutrina e verdade”: o ministério não é poder, mas serviço da verdade. A obediência é exata: tudo “como o Senhor tinha ordenado”.",
+    "anagogico": "Os sete dias da consagração apontam para a plenitude, quando os eleitos, lavados no sangue do Cordeiro e vestidos de branco, servirem a Deus “dia e noite no seu templo” (Ap 7,14-15)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eis o que o Senhor ordenou que se faça.” “Derramando óleo sobre a cabeça de Aarão, ungiu-o e consagrou-o.” “Tocou com ele a extremidade da orelha direita de Aarão, e o dedo polegar da sua mão direita, e igualmente do pé.” “De dia e de noite estareis no tabernáculo velando ao serviço do Senhor.”",
+    "meditatio_perguntas": [
+      "Vivo como alguém ungido e consagrado pelo Batismo e pela Crisma?",
+      "Os meus ouvidos, mãos e pés estão a serviço de Deus?",
+      "Rezo pelos sacerdotes, para que sejam servidores da “doutrina e verdade”?"
+    ],
+    "oratio_guia": "Senhor, que me ungiste no Batismo, consagra os meus ouvidos para escutar-te, as minhas mãos para servir-te e os meus pés para seguir-te. Santifica os teus sacerdotes na verdade. Amém.",
+    "contemplatio_foco": {
+      "texto": "Derramando óleo sobre a cabeça de Aarão, ungiu-o e consagrou-o",
+      "ref": "Lv 8,12"
+    }
+  },
+  "ancoras": {
+    "8:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Doutrina e verdade” é a tradução da Vulgata para Urim e Tummim, objetos de consulta do peitoral.",
+        "origem": "ia"
+      }
+    },
+    "8:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O sangue na orelha, na mão e no pé direitos significa a consagração da pessoa inteira.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

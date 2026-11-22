@@ -1,0 +1,65 @@
+{
+  "id": "LEV.23.1",
+  "livro": "LEV",
+  "titulo": "As festas: sábado, Páscoa e Pentecostes",
+  "secao": "A lei de santidade",
+  "referencia": "Lv 23,1-22",
+  "ini": {
+    "c": 23,
+    "v": 1
+  },
+  "fim": {
+    "c": 23,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "As festas do Senhor: Páscoa, primícias e Pentecostes",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor estabelece “as festas do Senhor, que chamareis santas”. Primeiro o sábado: seis dias de trabalho, e o sétimo, “dia de descanso e de santa assembleia”. Depois, no primeiro mês: no dia catorze, ao entardecer, “é a Páscoa do Senhor”; no dia quinze começa a solenidade dos Ázimos, sete dias de pão sem fermento, com assembleia santa no primeiro e no sétimo. Ao entrar na terra, na colheita, leva-se ao sacerdote um molho de espigas, primícias da seara, que ele eleva diante do Senhor “ao outro dia depois do sábado”, com um cordeiro em holocausto; antes disso não se come do grão novo. Contam-se então sete semanas, cinquenta dias, e oferecem-se ao Senhor dois pães de farinha nova, fermentados, com sacrifícios: é a festa das Semanas, com assembleia santa. E, ao ceifar, não se corta a seara até ao chão: deixa-se “para os pobres e para os forasteiros”.",
+    "alegorico": "Este calendário se cumpre em Cristo com precisão admirável. Ele é a nossa Páscoa imolada (1Cor 5,7); ressuscitou “ao outro dia depois do sábado”, como primícias dos que dormem (1Cor 15,20), o molho de espigas oferecido ao Pai. Cinquenta dias depois, no Pentecostes, o Espírito desce e a Igreja nasce: os dois pães, judeus e gentios, oferecidos como primícias da colheita.",
+    "moral": "O tempo pertence a Deus: o sábado e as festas ensinam a parar, reunir-se e louvar. O domingo cristão herda este sentido: é o dia do Senhor, de descanso e assembleia santa. E toda festa tem uma dimensão social: as espigas deixadas aos pobres. Não há festa verdadeira que esqueça os pobres.",
+    "anagogico": "As primícias anunciam a colheita completa: se Cristo ressuscitou como primícias, todos os que são dele ressuscitarão na sua vinda (1Cor 15,23), e a festa se tornará eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Estas são as festas do Senhor, que chamareis Santas.” “O sétimo dia… é dia de descanso e de santa assembleia.” “É a Páscoa do Senhor.” “Ao outro dia depois do sábado, elevará um molho diante do Senhor.” “Contareis cinquenta dias.” “Deixá-las-eis para os pobres e para os forasteiros.”",
+    "meditatio_perguntas": [
+      "Vivo o domingo como dia do Senhor, de descanso e de assembleia?",
+      "Ofereço a Deus as primícias do meu tempo e do meu trabalho?",
+      "As minhas festas lembram-se dos pobres?"
+    ],
+    "oratio_guia": "Senhor, que fizeste de Cristo a nossa Páscoa e as primícias da ressurreição, santifica o meu tempo, dá-me viver o domingo com alegria e enche-me do teu Espírito, como no Pentecostes. Amém.",
+    "contemplatio_foco": {
+      "texto": "Estas são as festas do Senhor, que chamareis Santas",
+      "ref": "Lv 23,2"
+    }
+  },
+  "ancoras": {
+    "23:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Páscoa e os Ázimos: cf. Ex 12.",
+        "origem": "ia"
+      }
+    },
+    "23:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Ao outro dia depois do sábado” é o primeiro dia da semana, dia da Ressurreição.",
+        "origem": "ia"
+      }
+    },
+    "23:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Pentecostes, em grego “quinquagésimo”, é a festa das Semanas.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

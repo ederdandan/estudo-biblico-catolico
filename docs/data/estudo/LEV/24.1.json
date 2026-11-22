@@ -1,0 +1,57 @@
+{
+  "id": "LEV.24.1",
+  "livro": "LEV",
+  "titulo": "A lâmpada, os pães e o blasfemo",
+  "secao": "A lei de santidade",
+  "referencia": "Lv 24,1-23",
+  "ini": {
+    "c": 24,
+    "v": 1
+  },
+  "fim": {
+    "c": 24,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "A lâmpada perpétua, os pães da proposição e o blasfemo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor ordena que se traga azeite de oliveira puríssimo “para manter continuamente acesas as lâmpadas” diante do véu do testemunho, desde a tarde até à manhã, em culto perpétuo. Cozem-se doze pães de flor de farinha, postos em duas fileiras sobre a mesa puríssima diante do Senhor, com incenso; a cada sábado são trocados, “aliança perpétua”, e comidos pelos sacerdotes no lugar santo. Segue um episódio: o filho de uma israelita, Salumite, e de um egípcio briga no acampamento e blasfema o nome do Senhor. Põem-no em prisão até saberem a vontade do Senhor. O Senhor manda que seja levado para fora do arraial, que as testemunhas lhe ponham as mãos na cabeça e todo o povo o apedreje. Estabelece-se que “o que blasfemar o nome do Senhor, será punido de morte”, natural ou estrangeiro, e a lei de talião: quem mata, morre; “olho por olho, dente por dente”; “seja entre vós igual a justiça, quer delinquisse o forasteiro, quer o indígena”.",
+    "alegorico": "A lâmpada sempre acesa e os pães sempre expostos são figura da presença eucarística: a lâmpada do sacrário e o Pão da vida guardado diante do Senhor. Os doze pães são as doze tribos, e depois a Igreja dos Doze. Jesus cita a lei de talião para superá-la: “Eu, porém, digo-vos: não resistais ao mau” (Mt 5,38-39).",
+    "moral": "O nome de Deus é santo; a blasfêmia é pecado grave, e o segundo mandamento conserva esta exigência. A lei de talião, que parece dura, era na origem um limite à vingança: não mais do que o dano sofrido, e justiça igual para todos. Cristo leva mais longe: o perdão. E a lâmpada que nunca se apaga pede a nossa fidelidade na oração.",
+    "anagogico": "A luz perpétua diante do Senhor anuncia a cidade que “não precisa de sol nem de lua… porque a glória de Deus a ilumina, e a sua lâmpada é o Cordeiro” (Ap 21,23)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Azeite de oliveira puríssimo e claro, para manter continuamente acesas as lâmpadas.” “Os porás sobre a mesa puríssima do Senhor.” “É uma aliança perpétua.” “O que blasfemar o nome do Senhor, seja punido de morte.” “Seja entre vós igual a justiça.”",
+    "meditatio_perguntas": [
+      "Respeito o nome de Deus nas minhas palavras?",
+      "Visito o Senhor presente no sacrário, junto à lâmpada que nunca se apaga?",
+      "Ainda pago “olho por olho” ou aprendi o perdão de Cristo?"
+    ],
+    "oratio_guia": "Senhor, presente no Pão da vida, que a lâmpada da minha fé nunca se apague diante de ti. Que eu santifique o teu nome e saiba perdoar como tu me perdoas. Amém.",
+    "contemplatio_foco": {
+      "texto": "para manter continuamente acesas as lâmpadas",
+      "ref": "Lv 24,2"
+    }
+  },
+  "ancoras": {
+    "24:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os pães da proposição foram comidos por Davi em necessidade (1Sm 21,6), episódio citado por Jesus (Mc 2,26).",
+        "origem": "ia"
+      }
+    },
+    "24:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A lei de talião limitava a vingança; Jesus a supera em Mt 5,38-42.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "LEV.17.1",
+  "livro": "LEV",
+  "titulo": "O lugar do sacrifício e o sangue",
+  "secao": "A lei de santidade",
+  "referencia": "Lv 17,1-16",
+  "ini": {
+    "c": 17,
+    "v": 1
+  },
+  "fim": {
+    "c": 17,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "“O sangue expia, por ser vida”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Começa a chamada lei de santidade. O Senhor ordena que todo boi, ovelha ou cabra abatido por um israelita seja levado à porta do tabernáculo e oferecido ali como sacrifício pacífico; quem o matar em outro lugar “será réu de sangue”. O motivo é afastar o povo da idolatria: “nunca mais imolarão as suas hóstias aos demônios”. Também o holocausto, feito por israelita ou estrangeiro, só se oferece no tabernáculo. Segue a proibição solene de comer sangue, que vale também para os estrangeiros: “porque a vida da carne está no sangue, e eu dei-o a vós, para que com ele façais expiações sobre o altar pelas vossas almas: o sangue expia, por ser vida.” O caçador deve derramar o sangue do animal e cobri-lo com terra. Quem comer animal morto por si ou despedaçado por fera lava as vestes e o corpo e fica impuro até à tarde.",
+    "alegorico": "Este versículo é a chave de toda a teologia do sacrifício: a vida está no sangue, e é a vida entregue que expia. Por isso “sem efusão de sangue não há remissão” (Hb 9,22). O que era proibido ao homem, beber o sangue, torna-se em Cristo o dom supremo: “quem bebe o meu sangue tem a vida eterna” (Jo 6,55). O sangue que era dado a Deus no altar é agora dado por Deus ao homem no cálice.",
+    "moral": "A vida pertence a Deus; ninguém dispõe dela como dono. O respeito pelo sangue, até do animal caçado, educa para o respeito pela vida humana. A exigência de um só lugar de culto protege da idolatria: o coração precisa de um centro, e esse centro é Deus. O cristão, que recebe o Sangue de Cristo, é chamado a viver com a vida dele.",
+    "anagogico": "O sangue que expia sobre o altar terreno aponta para o sangue do Cordeiro, pelo qual os santos “lavaram as suas vestes” (Ap 7,14) e vivem para sempre com a vida de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Será réu de sangue.” “Nunca mais imolarão as suas hóstias aos demônios.” “Porque a vida da carne está no sangue.” “O sangue expia, por ser vida.” “Derrame o seu sangue, e cubra-o com terra.”",
+    "meditatio_perguntas": [
+      "Respeito a vida, minha e dos outros, como pertencente a Deus?",
+      "Comungo o Sangue de Cristo consciente de que recebo a vida dele?",
+      "Há algum “altar” fora do lugar de Deus onde eu ofereço o meu coração?"
+    ],
+    "oratio_guia": "Senhor, que nos deste o sangue para a expiação e, em teu Filho, nos dás o teu próprio sangue como bebida de vida, ensina-me a respeitar toda vida e a viver da tua. Amém.",
+    "contemplatio_foco": {
+      "texto": "o sangue expia, por ser vida",
+      "ref": "Lv 17,11"
+    }
+  },
+  "ancoras": {
+    "17:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Texto fundamental para entender o valor expiatório do sangue no AT e na Carta aos Hebreus.",
+        "origem": "ia"
+      }
+    },
+    "17:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A proibição de comer sangue foi mantida provisoriamente pelo Concílio de Jerusalém para os gentios (At 15,29).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

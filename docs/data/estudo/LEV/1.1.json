@@ -1,0 +1,57 @@
+{
+  "id": "LEV.1.1",
+  "livro": "LEV",
+  "titulo": "O holocausto",
+  "secao": "A lei dos sacrifícios",
+  "referencia": "Lv 1,1-17",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "O holocausto: tudo se queima em suave odor ao Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor chama Moisés e lhe fala desde o tabernáculo da reunião. Começa a lei dos sacrifícios pelo holocausto, a oferta em que a vítima é inteiramente queimada. Se for de gado graúdo, oferece-se um macho sem defeito à porta do tabernáculo, “para que o Senhor lhe seja propício”. O ofertante põe a mão sobre a cabeça da vítima, “e ela será aceita, e aproveitará para sua expiação”; imola o novilho diante do Senhor, e os sacerdotes, filhos de Aarão, derramam o sangue ao redor do altar. A vítima é esfolada e cortada em pedaços; os intestinos e as patas são lavados, e o sacerdote queima tudo sobre o altar, “em holocausto e em suave odor ao Senhor”. O mesmo rito vale para o gado miúdo, ovelha ou cabra, imolado ao lado norte do altar. Quem não tem posses oferece rolas ou pombinhos: o sacerdote separa a cabeça, faz correr o sangue sobre a borda do altar, lança o papo e as penas no lugar das cinzas e queima a ave inteira, sem a dividir com ferro.",
+    "alegorico": "O holocausto, em que nada se reserva para o homem, é figura da oblação total de Cristo, que “se entregou a si mesmo por nós, como oferenda e vítima a Deus, em odor de suavidade” (Ef 5,2). A vítima sem defeito anuncia o Cordeiro imaculado (1Pd 1,19). A mão posta sobre a cabeça do animal exprime a identificação do ofertante com a vítima: na Missa, o fiel se une ao sacrifício de Cristo e oferece-se com ele. As rolas dos pobres lembram a oferta de Maria e José na apresentação de Jesus (Lc 2,24).",
+    "moral": "Deus não exige de todos a mesma oferta: aceita o novilho do rico e as rolas do pobre, porque olha o coração. Mas pede sempre o melhor, “sem defeito”, e pede a totalidade: o holocausto ensina a não dar a Deus as sobras, e sim a vida inteira. São Paulo traduz este rito para o cristão: “oferecei os vossos corpos como hóstia viva, santa, agradável a Deus” (Rm 12,1).",
+    "anagogico": "O fogo que consome o holocausto e sobe como odor suave prefigura a consumação de toda a criação em Deus, quando o que foi oferecido na terra subir inteiramente purificado diante dele, e os santos forem eles mesmos oferta eterna de louvor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Oferecerá um macho sem defeito.” “Porá a mão sobre a cabeça da vítima, e ela será aceita.” “Em holocausto e em suave odor ao Senhor.” “Se, porém, a oferta ao Senhor é um holocausto de aves, (será) de rolas ou de pombinhos.”",
+    "meditatio_perguntas": [
+      "Dou a Deus o melhor do meu tempo e das minhas forças, ou só o que sobra?",
+      "Na Missa, uno-me interiormente ao sacrifício de Cristo, como quem põe a mão sobre a vítima?",
+      "Desprezo a oferta pequena, minha ou dos outros, que Deus aceita com amor?"
+    ],
+    "oratio_guia": "Senhor, que aceitas o novilho do rico e as rolas do pobre, recebe a minha vida inteira como holocausto unido ao de teu Filho. Que nada eu reserve para mim, e que tudo suba a ti em suave odor. Amém.",
+    "contemplatio_foco": {
+      "texto": "Isto é um holocausto e uma oferta de suave odor ao Senhor",
+      "ref": "Lv 1,17"
+    }
+  },
+  "ancoras": {
+    "1:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A imposição da mão indica que o animal é oferecido em lugar e em nome de quem o apresenta.",
+        "origem": "ia"
+      }
+    },
+    "1:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A permissão de oferecer aves torna o culto acessível aos pobres; foi a oferta da Sagrada Família (Lc 2,24).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

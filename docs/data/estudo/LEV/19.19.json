@@ -1,0 +1,57 @@
+{
+  "id": "LEV.19.19",
+  "livro": "LEV",
+  "titulo": "Sede santos: o estrangeiro e a justiça",
+  "secao": "A lei de santidade",
+  "referencia": "Lv 19,19-37",
+  "ini": {
+    "c": 19,
+    "v": 19
+  },
+  "fim": {
+    "c": 19,
+    "v": 37
+  },
+  "liturgia": {
+    "tema_central": "“Amai-o como a vós mesmos, porque também vós fostes estrangeiros”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A segunda parte do capítulo continua a santidade da vida diária. Não misturar espécies de animais, de sementes ou de fios no tecido. Quem se une a uma escrava prometida a outro não é morto, porque ela não era livre, mas oferece um carneiro de reparação. Das árvores plantadas na terra, os frutos dos três primeiros anos não se comem; no quarto são consagrados ao Senhor; no quinto, comem-se. Proíbe-se a adivinhação, a magia, as incisões no corpo e as marcas por causa dos mortos, a prostituição das filhas. “Guardai os meus sábados, e reverenciai o meu santuário.” “Levanta-te diante duma cabeça encanecida, e honra a pessoa do velho.” O estrangeiro que mora na terra não será maltratado: “esteja entre vós como um natural, e amai-o como a vós mesmos, porque também vós fostes estrangeiros na terra do Egipto”. Exige-se justiça nas medidas: balanças, pesos, efá e hin justos. “Eu sou o Senhor vosso Deus, que vos tirei da terra do Egipto.”",
+    "alegorico": "O estrangeiro amado como um natural anuncia a Igreja, onde “não há judeu nem grego” (Gl 3,28) e os que eram “estrangeiros e adventícios” se tornam “concidadãos dos santos e da família de Deus” (Ef 2,19). As primícias do quarto ano, consagradas ao Senhor, lembram que os primeiros frutos de toda obra pertencem a Deus.",
+    "moral": "A memória da própria história, “também vós fostes estrangeiros”, gera compaixão pelos que hoje são migrantes. Honrar os idosos, levantar-se diante deles, é respeito pela sabedoria e pela vida. A justiça nas balanças, no comércio, no trabalho, é parte da santidade. E a recusa da magia e da adivinhação protege a confiança só em Deus.",
+    "anagogico": "O povo que foi estrangeiro no Egito e peregrino no deserto é imagem dos cristãos, “estrangeiros e peregrinos sobre a terra”, que procuram uma pátria melhor, a celeste (Hb 11,13-16)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Guardai os meus sábados, e reverenciai o meu santuário.” “Levanta-te diante duma cabeça encanecida, e honra a pessoa do velho.” “Amai-o como a vós mesmos, porque também vós fostes estrangeiros.” “Sejam justas as balanças.”",
+    "meditatio_perguntas": [
+      "Como trato o estrangeiro e o migrante que vivem perto de mim?",
+      "Honro os idosos da minha família e da comunidade?",
+      "Sou justo nas “balanças” do meu trabalho e dos meus negócios?"
+    ],
+    "oratio_guia": "Senhor, que fizeste de nós, estrangeiros, a tua família, dá-me acolher o migrante como irmão, honrar os idosos e ser justo em tudo. Que eu recorde sempre de onde me tiraste. Amém.",
+    "contemplatio_foco": {
+      "texto": "amai-o como a vós mesmos, porque também vós fostes estrangeiros na terra do Egipto",
+      "ref": "Lv 19,34"
+    }
+  },
+  "ancoras": {
+    "19:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A proibição das incisões e marcas no corpo está ligada a ritos fúnebres pagãos.",
+        "origem": "ia"
+      }
+    },
+    "19:32": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Fundamento bíblico do respeito aos idosos, ligado ao temor de Deus.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

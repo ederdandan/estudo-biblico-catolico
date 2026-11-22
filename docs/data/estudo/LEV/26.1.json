@@ -1,0 +1,57 @@
+{
+  "id": "LEV.26.1",
+  "livro": "LEV",
+  "titulo": "Bênçãos e maldições",
+  "secao": "A lei de santidade",
+  "referencia": "Lv 26,1-45",
+  "ini": {
+    "c": 26,
+    "v": 1
+  },
+  "fim": {
+    "c": 26,
+    "v": 45
+  },
+  "liturgia": {
+    "tema_central": "“Andarei entre vós, e serei o vosso Deus”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A lei de santidade termina com bênçãos e maldições. O Senhor proíbe os ídolos e manda guardar os sábados e tremer diante do santuário. Se Israel andar nos seus preceitos, virão as chuvas a seu tempo, a terra dará fruto, a colheita se prolongará até à vindima, haverá paz e sono sem temor; cinco perseguirão cem inimigos. “Porei o meu tabernáculo no meio de vós… Andarei entre vós, e serei o vosso Deus e vós sereis o meu povo… quebrei as cadeias dos vossos pescoços, para andardes direitos.” Mas, se desprezarem as leis, virão a febre, a derrota, um céu como ferro e uma terra como bronze, as feras, a espada, a peste, a fome, as cidades desertas e o exílio entre as nações; a terra então descansará os sábados que não guardou, e os sobreviventes fugirão do ruído de uma folha. Mesmo assim, se confessarem a sua iniquidade e humilharem o coração incircunciso, o Senhor se lembrará da aliança com Jacó, Isaac e Abraão: “eu não os rejeitei de todo… Com efeito, sou o Senhor seu Deus.”",
+    "alegorico": "A promessa “andarei entre vós” cumpre-se na Encarnação e na Igreja: Paulo a cita para dizer que “nós somos o templo de Deus vivo” (2Cor 6,16). A promessa de não rejeitar de todo o povo é retomada em Romanos 11: “Deus não rejeitou o seu povo”.",
+    "moral": "Deus não é indiferente às nossas escolhas: a fidelidade traz paz; a infidelidade traz ruína, porque nos afasta da fonte da vida. Mas a última palavra não é o castigo: é a confissão do pecado e a memória da aliança. O castigo é medicinal: “se então humilharem o seu coração”. A imagem de Deus que quebra o jugo “para andardes direitos” é belíssima: Deus quer o homem livre e de cabeça erguida.",
+    "anagogico": "“Serei o vosso Deus e vós sereis o meu povo”: é a fórmula da aliança que o Apocalipse anuncia consumada na Jerusalém celeste (Ap 21,3)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Porei o meu tabernáculo no meio de vós.” “Andarei entre vós, e serei o vosso Deus e vós sereis o meu povo.” “Quebrei as cadeias dos vossos pescoços, para andardes direitos.” “Se então humilharem o seu coração incircunciso…” “Lembrar-me-ei da minha antiga aliança.”",
+    "meditatio_perguntas": [
+      "Vejo a minha vida como caminho com Deus que anda comigo?",
+      "Ando “direito”, livre, ou ainda curvado sob algum jugo?",
+      "Na hora da provação, humilho o coração e confio na aliança?"
+    ],
+    "oratio_guia": "Senhor, que andas no meio do teu povo e quebras as nossas cadeias, faz-me andar direito na tua presença. Quando eu me afastar, humilha o meu coração e lembra-te da tua aliança. Amém.",
+    "contemplatio_foco": {
+      "texto": "Andarei entre vós, e serei o vosso Deus e vós sereis o meu povo",
+      "ref": "Lv 26,12"
+    }
+  },
+  "ancoras": {
+    "26:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em 2Cor 6,16 a respeito da Igreja como templo de Deus.",
+        "origem": "ia"
+      }
+    },
+    "26:34": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Este texto é retomado em 2Cr 36,21 para interpretar os setenta anos do exílio.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

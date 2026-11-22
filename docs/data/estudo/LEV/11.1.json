@@ -1,0 +1,49 @@
+{
+  "id": "LEV.11.1",
+  "livro": "LEV",
+  "titulo": "Animais puros e impuros: sede santos",
+  "secao": "O puro e o impuro",
+  "referencia": "Lv 11,1-47",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 47
+  },
+  "liturgia": {
+    "tema_central": "“Sede santos, porque eu sou santo”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor ensina a Moisés e a Aarão quais animais se podem comer. Dos quadrúpedes, os que têm a unha fendida e ruminam; não o camelo, o coelho, a lebre, nem o porco, que tem a unha fendida mas não rumina. Dos aquáticos, os que têm barbatanas e escamas. Das aves, a lei enumera as proibidas: águia, abutre, corvo, avestruz, coruja, cegonha, morcego e outras. Dos insetos alados, só os que saltam, como o gafanhoto. Tocar o cadáver de um animal impuro torna impuro até à tarde; o vaso de barro contaminado é quebrado; as fontes e cisternas, porém, ficam puras. Todo réptil é abominável. E a razão de tudo: “Eu sou o Senhor vosso Deus; sêde santos, porque eu sou santo… Porque eu sou o Senhor, que vos tirei da terra do Egipto para ser o vosso Deus.” Assim Israel aprende a conhecer “a diferença entre o puro e o impuro”.",
+    "alegorico": "Jesus “declarou puros todos os alimentos” (Mc 7,19), e Pedro viu em visão que o que Deus purificou não deve ser chamado impuro (At 10,15): as leis alimentares cumpriram a sua função de separar Israel até a vinda dos gentios. Os Padres liam os animais como símbolos: o que rumina é quem medita a Palavra; a unha fendida, quem sabe discernir.",
+    "moral": "O sentido permanente está no princípio: “sede santos, porque eu sou santo”, que Pedro repete aos cristãos (1Pd 1,16). A santidade alcança a vida cotidiana: o comer, o tocar, o que se admite à mesa. Não somos mais obrigados a estas regras, mas somos chamados a discernir o que alimenta e o que contamina a alma: “o que sai do coração é o que torna o homem impuro” (Mc 7,20).",
+    "anagogico": "A separação entre puro e impuro aponta para a cidade santa, onde “não entrará nada de impuro” (Ap 21,27), e Deus será tudo em todos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Estes são os animais que deveis comer.” “Eu sou o Senhor vosso Deus; sêde santos, porque eu sou santo.” “Eu sou o Senhor, que vos tirei da terra do Egipto para ser o vosso Deus.” “A fim de que vós conheçais a diferença entre o puro e o impuro.”",
+    "meditatio_perguntas": [
+      "Minha santidade alcança a vida cotidiana, ou fica restrita ao templo?",
+      "De que me alimento: o que leio, vejo e escuto edifica ou contamina?",
+      "Medito a Palavra, “ruminando-a”, como o animal puro?"
+    ],
+    "oratio_guia": "Senhor santo, que me tiraste da escravidão para seres o meu Deus, ensina-me a discernir o que me aproxima e o que me afasta de ti, e faz-me santo como tu és santo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Vós sereis santos, porque eu sou santo",
+      "ref": "Lv 11,45"
+    }
+  },
+  "ancoras": {
+    "11:44": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Primeira formulação do princípio da santidade que dará nome a Lv 17–26, citado em 1Pd 1,16.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

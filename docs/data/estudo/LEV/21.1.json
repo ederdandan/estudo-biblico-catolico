@@ -1,0 +1,49 @@
+{
+  "id": "LEV.21.1",
+  "livro": "LEV",
+  "titulo": "A santidade dos sacerdotes",
+  "secao": "A lei de santidade",
+  "referencia": "Lv 21,1-24",
+  "ini": {
+    "c": 21,
+    "v": 1
+  },
+  "fim": {
+    "c": 21,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "“Serão santos para o seu Deus”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor dá normas aos sacerdotes, filhos de Aarão. Não se contaminam com os mortos, salvo os parentes mais próximos: pai, mãe, filho, filha, irmão e irmã virgem. Não rapam a cabeça nem a barba, nem fazem incisões. “Serão santos para o seu Deus, e não profanarão o seu nome, porquanto oferecem o holocausto do Senhor e os pães do seu Deus.” Não se casam com mulher desonrada, prostituta ou repudiada. O sumo sacerdote tem exigências maiores: não descobre a cabeça nem rasga as vestes, não se aproxima de nenhum morto, nem do pai ou da mãe, “porque o óleo da sagrada unção do seu Deus está sobre ele”, e toma por esposa uma virgem do seu povo. O descendente de Aarão que tiver defeito corporal, cego, coxo, deformado, não oferece os pães no altar, mas come dos pães santos. Tudo isto porque “eu sou o Senhor que os santifico”.",
+    "alegorico": "As exigências de pureza do sumo sacerdote encontram plenitude em Cristo, “santo, inocente, imaculado, separado dos pecadores” (Hb 7,26). A integridade exigida dos ministros da antiga lei era figura da integridade interior pedida ao sacerdócio da nova aliança, cuja exigência não é corporal, mas moral e espiritual.",
+    "moral": "Quem se aproxima mais de Deus deve viver de modo mais coerente: o ministério sagrado pede uma vida que não “profane o nome”. A Igreja não exclui os que têm deficiência física; ao contrário, Cristo curou e chamou os coxos e os cegos à mesa do banquete (Lc 14,21). Mas permanece a lição: a santidade do altar pede santidade de vida. E o sacerdote, mesmo excluído do altar por defeito, “comerá dos pães”: ninguém é excluído da mesa do Senhor.",
+    "anagogico": "O sumo sacerdote que não sai do santuário, consagrado inteiramente ao culto, anuncia Cristo, que vive sempre para interceder por nós diante do Pai (Hb 7,25)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Serão santos para o seu Deus, e não profanarão o seu nome.” “Porque o óleo da sagrada unção do seu Deus está sobre ele.” “Comerá, todavia, dos pães que se oferecem no santuário.” “Eu sou o Senhor que os santifico.”",
+    "meditatio_perguntas": [
+      "Rezo pela santidade dos sacerdotes?",
+      "A minha vida, como cristão ungido, honra o nome de Deus ou o profana?",
+      "Acolho os que têm deficiência como Cristo os acolhe?"
+    ],
+    "oratio_guia": "Senhor, santifica os teus sacerdotes, para que sejam santos e não profanem o teu nome. E a mim, ungido no Batismo, dá-me viver segundo a unção que recebi. Amém.",
+    "contemplatio_foco": {
+      "texto": "Serão santos para o seu Deus, e não profanarão o seu nome",
+      "ref": "Lv 21,6"
+    }
+  },
+  "ancoras": {
+    "21:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A exigência de integridade física se aplicava às vítimas e aos sacerdotes como sinal da perfeição devida a Deus.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

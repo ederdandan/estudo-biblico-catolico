@@ -1,0 +1,57 @@
+{
+  "id": "LEV.19.1",
+  "livro": "LEV",
+  "titulo": "Sede santos: amarás o teu próximo",
+  "secao": "A lei de santidade",
+  "referencia": "Lv 19,1-18",
+  "ini": {
+    "c": 19,
+    "v": 1
+  },
+  "fim": {
+    "c": 19,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "“Amarás o teu próximo como a ti mesmo”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor manda dizer a toda a assembleia: “Sede santos, porque eu, o Senhor vosso Deus, sou santo.” E a santidade desce aos detalhes da vida: respeitar pai e mãe, guardar os sábados, não se voltar para os ídolos, comer o sacrifício pacífico no tempo certo. Ao ceifar, não cortar a seara até ao chão nem apanhar as espigas caídas; na vinha, deixar o rabisco “aos pobres e forasteiros”. Não furtar, não mentir, não enganar, não jurar falso. Não oprimir o próximo; “o salário do teu jornaleiro não ficará em teu poder até ao dia seguinte”. Não amaldiçoar o surdo, nem pôr tropeço diante do cego. Julgar com justiça, sem favorecer o pobre nem o poderoso. Não ser maldizente. “Não odiarás o teu irmão no teu coração, mas repreendê-lo-ás.” E o cume: “Não procurarás a vingança, nem conservarás a lembrança da injúria dos teus concidadãos. Amarás o teu próximo como a ti mesmo. Eu sou o Senhor.”",
+    "alegorico": "Jesus toma Lv 19,18 e o une a Dt 6,5 como os dois mandamentos de que “dependem toda a Lei e os Profetas” (Mt 22,40). E dá-lhe medida nova: “amai-vos uns aos outros como eu vos amei” (Jo 13,34). Na parábola do bom samaritano (Lc 10,29-37), “próximo” passa a ser todo homem, até o estrangeiro e o inimigo.",
+    "moral": "A santidade de Deus não se vive só no culto, mas no salário pago a tempo, nas espigas deixadas aos pobres, no respeito ao cego e ao surdo, na justiça imparcial, na correção fraterna e no perdão. Repetido como refrão, “Eu sou o Senhor” fundamenta cada preceito: amar o próximo é responder a Deus. A correção fraterna é um dever de amor; guardar o ódio no coração, um pecado.",
+    "anagogico": "O amor ao próximo é a única realidade que passa desta vida para a eterna: “a caridade jamais acabará” (1Cor 13,8). No céu, a lei inteira será amor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Sede santos, porque eu, o Senhor vosso Deus, sou santo.” “Deixarás que os apanhem os pobres e forasteiros.” “Não porás tropeço diante do cego.” “Não odiarás o teu irmão no teu coração.” “Amarás o teu próximo como a ti mesmo. Eu sou o Senhor.”",
+    "meditatio_perguntas": [
+      "Pago com justiça e prontidão a quem trabalha para mim?",
+      "Guardo rancor ou lembrança de injúrias que deveria perdoar?",
+      "Tenho coragem e caridade para corrigir o irmão em vez de odiá-lo em silêncio?"
+    ],
+    "oratio_guia": "Senhor santo, ensina-me a santidade das coisas pequenas: o salário justo, as espigas deixadas, a palavra verdadeira. Arranca do meu coração o ódio e a vingança, e dá-me amar o próximo como a mim mesmo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Amarás o teu próximo como a ti mesmo. Eu sou o Senhor",
+      "ref": "Lv 19,18"
+    }
+  },
+  "ancoras": {
+    "19:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "É o versículo que dá nome à “lei de santidade” (Lv 17–26).",
+        "origem": "ia"
+      }
+    },
+    "19:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado por Jesus (Mt 22,39), por Paulo (Rm 13,9; Gl 5,14) e por Tiago, que o chama “lei régia” (Tg 2,8).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "LEV.10.1",
+  "livro": "LEV",
+  "titulo": "Nadab e Abiú: o fogo estranho",
+  "secao": "A consagração dos sacerdotes",
+  "referencia": "Lv 10,1-20",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "“Eu serei santificado naqueles que se aproximam de mim”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Logo depois da glória, a tragédia. Nadab e Abiú, filhos de Aarão, tomam os turíbulos e oferecem “diante do Senhor um fogo estranho, o que não lhes tinha sido ordenado. Um fogo vindo do Senhor devorou-os e morreram diante do Senhor.” Moisés diz a Aarão: “Eu serei santificado naqueles que se aproximam de mim, e serei glorificado em presença de todo o povo.” E Aarão cala-se. Os primos levam os corpos para fora do acampamento. Moisés proíbe a Aarão e aos filhos restantes os sinais de luto, porque o óleo da unção está sobre eles. O Senhor ordena a Aarão que os sacerdotes não bebam vinho quando entrarem no tabernáculo, “para que tenhais a ciência de saber discernir entre o santo e o profano” e ensineis as leis ao povo. Moisés repreende Eleazar e Itamar por terem queimado o bode pelo pecado em vez de comê-lo; Aarão responde que, no dia daquela dor, não podia agradar ao Senhor “com o espírito entristecido”. Moisés aceita a desculpa.",
+    "alegorico": "O “fogo estranho” foi entendido como figura de todo culto inventado pelo homem, à margem do que Deus estabelece, e das doutrinas estranhas à fé. Cristo traz o fogo verdadeiro, o Espírito, que não destrói quem se aproxima com humildade, mas o transforma.",
+    "moral": "A proximidade de Deus é graça, não direito. Quem serve no altar deve fazê-lo com temor e fidelidade, não por iniciativa vaidosa. O silêncio de Aarão diante da dor ensina a aceitar o mistério. E a resposta de Aarão a Moisés mostra que Deus olha o coração: um rito cumprido com a alma dilacerada vale menos que a sinceridade. A sobriedade é condição para discernir o santo do profano.",
+    "anagogico": "“O nosso Deus é um fogo devorador” (Hb 12,29): no fim, a santidade de Deus consumirá tudo o que é estranho a ela, e só subsistirá o que foi oferecido segundo a sua vontade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Oferecendo diante do Senhor um fogo estranho, o que não lhes tinha sido ordenado.” “Eu serei santificado naqueles que se aproximam de mim.” “Aarão, ouvindo isto, calou-se.” “Para que tenhais a ciência de saber discernir entre o santo e o profano.”",
+    "meditatio_perguntas": [
+      "Trato as coisas de Deus com reverência, ou com leviandade?",
+      "Há “fogo estranho” na minha devoção, nascido mais da vaidade que da obediência?",
+      "Sei calar-me diante do mistério da dor?"
+    ],
+    "oratio_guia": "Senhor, santo e temível, dá-me aproximar-me de ti com reverência e humildade. Livra-me de todo fogo estranho e acende em mim somente o fogo do teu Espírito. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu serei santificado naqueles que se aproximam de mim",
+      "ref": "Lv 10,3"
+    }
+  },
+  "ancoras": {
+    "10:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A proibição de vinho durante o serviço foi aplicada pela tradição à sobriedade exigida dos ministros (cf. 1Tm 3,3).",
+        "origem": "ia"
+      }
+    },
+    "10:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Aarão explica que o luto o impedia de comer a vítima com a alegria que o rito supõe.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

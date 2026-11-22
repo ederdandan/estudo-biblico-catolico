@@ -1,0 +1,57 @@
+{
+  "id": "LEV.14.1",
+  "livro": "LEV",
+  "titulo": "A purificação do leproso e da casa",
+  "secao": "O puro e o impuro",
+  "referencia": "Lv 14,1-57",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 57
+  },
+  "liturgia": {
+    "tema_central": "A purificação do leproso: reintegrado na comunidade",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quando o leproso fica curado, o sacerdote sai do acampamento para examiná-lo. Manda trazer duas aves vivas, madeira de cedro, escarlate e hissopo. Uma ave é imolada sobre um vaso de barro com água viva; a outra, molhada no sangue com o cedro, o escarlate e o hissopo, serve para aspergir sete vezes o purificado e depois é solta no campo. O homem lava as vestes, rapa os pelos, banha-se e volta ao acampamento, mas fica sete dias fora da tenda. No oitavo dia, oferece dois cordeiros e uma ovelha, flor de farinha e um sextário de azeite. Com o sangue do sacrifício de reparação, o sacerdote toca a orelha direita, o polegar da mão e do pé direitos do purificado; faz o mesmo com o azeite e derrama o resto sobre a sua cabeça. O pobre pode oferecer um cordeiro e duas rolas. Segue a lei da “lepra” das casas: o sacerdote examina as manchas das paredes, manda arrancar pedras, raspar e rebocar, ou demolir a casa; se a casa sarou, purifica-a com o mesmo rito das duas aves.",
+    "alegorico": "Jesus manda o leproso curado apresentar-se ao sacerdote e oferecer “o que Moisés prescreveu, para lhes servir de testemunho” (Mc 1,44). As duas aves foram lidas como figura de Cristo: uma morre, a outra, molhada no sangue, voa livre: a morte e a ressurreição. A água viva e o sangue lembram o lado aberto de Cristo, de onde brotaram sangue e água (Jo 19,34).",
+    "moral": "A cura não termina no corpo: o leproso precisa voltar à comunidade e ao culto. Assim o pecador perdoado é reintegrado à comunhão da Igreja. O sangue e o óleo na orelha, na mão e no pé, como na consagração dos sacerdotes, mostram que o curado é como reconsagrado: ouvidos, obras e caminhos renovados.",
+    "anagogico": "A ave solta no campo é imagem da alma liberta, que voa para Deus; e a casa purificada anuncia a terra nova onde nada mais estará manchado."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Esta é a lei do leproso, quando houver de ser purificado.” “O sacerdote, saindo fora dos acampamentos.” “Soltará a ave viva no campo.” “O resto do azeite… derramá-lo-á sobre a cabeça do homem que se purifica para lhe tornar propício o Senhor.”",
+    "meditatio_perguntas": [
+      "Depois de perdoado, volto à comunhão da Igreja com alegria?",
+      "Ajudo os que se afastaram a voltar para a comunidade?",
+      "A minha casa precisa ser purificada de alguma “mancha”?"
+    ],
+    "oratio_guia": "Senhor, sacerdote que sai ao encontro do leproso, purifica-me com o teu sangue e unge-me com o teu Espírito. Faz-me voltar à tua casa e voar livre para ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "soltará a ave viva no campo",
+      "ref": "Lv 14,7"
+    }
+  },
+  "ancoras": {
+    "14:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O sacerdote sai do acampamento: a iniciativa da reintegração vem de quem tem autoridade para declarar puro.",
+        "origem": "ia"
+      }
+    },
+    "14:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "De novo, a lei prevê uma oferta menor para o pobre.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

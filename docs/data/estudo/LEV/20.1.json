@@ -1,0 +1,57 @@
+{
+  "id": "LEV.20.1",
+  "livro": "LEV",
+  "titulo": "As penas contra Moloc e as uniões ilícitas",
+  "secao": "A lei de santidade",
+  "referencia": "Lv 20,1-27",
+  "ini": {
+    "c": 20,
+    "v": 1
+  },
+  "fim": {
+    "c": 20,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "“Santificai-vos e sede santos”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor estabelece as penas para os crimes já proibidos no capítulo 18. Quem oferecer os filhos a Moloc será apedrejado pelo povo; e se o povo fechar os olhos, o próprio Senhor porá o seu rosto contra esse homem e a sua família. O mesmo para quem consulta magos e adivinhos. “Santificai-vos e sede santos, porque eu sou o Senhor vosso Deus… Eu sou o Senhor que vos santifico.” Quem amaldiçoar pai ou mãe é punido de morte. Seguem as penas para o adultério, o incesto, as uniões homossexuais e com animais, e outras uniões proibidas. O Senhor recorda que as nações foram expulsas por estes costumes; a Israel promete “esta terra… onde corre o leite e o mel”, porque “vos separei de todos os outros povos”. “Sereis para mim santos, porque Eu, o Senhor, sou santo, e vos separei de todos os outros povos, para serdes meus.” O capítulo termina condenando os que têm espírito de adivinhação.",
+    "alegorico": "A separação de Israel “para serdes meus” prepara a vocação da Igreja, “povo adquirido”, chamado “das trevas para a sua luz admirável” (1Pd 2,9). As penas severas da Lei mostram a gravidade do pecado; em Cristo, que levou sobre si a maldição (Gl 3,13), o pecador encontra perdão e conversão: “Nem eu te condeno; vai, e não peques mais” (Jo 8,11).",
+    "moral": "A Igreja não aplica as penas civis da lei mosaica, mas conserva o juízo moral sobre a gravidade destes atos, especialmente o sacrifício de crianças, o adultério e a profanação da família. A frase “Eu sou o Senhor que vos santifico” lembra que a santidade é antes dom que conquista: Deus santifica, e nós correspondemos. Ser “separado” não é desprezar os outros, mas pertencer a Deus.",
+    "anagogico": "“Para serdes meus”: o fim da vocação é a pertença total a Deus, que se consumará quando ele disser: “Eles serão o meu povo, e o próprio Deus estará com eles” (Ap 21,3)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Santificai-vos e sede santos, porque eu sou o Senhor vosso Deus.” “Eu sou o Senhor que vos santifico.” “Terra onde corre o leite e o mel.” “E vos separei de todos os outros povos, para serdes meus.”",
+    "meditatio_perguntas": [
+      "Vivo a minha fé como pertença a Deus, “para ser dele”?",
+      "Deixo Deus santificar-me, ou confio só nas minhas forças?",
+      "Defendo a vida das crianças e a santidade da família?"
+    ],
+    "oratio_guia": "Senhor que me santificas, eu sou teu. Separa-me de tudo o que me afasta de ti e dá-me corresponder à tua graça com uma vida santa. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu sou o Senhor que vos santifico",
+      "ref": "Lv 20,8"
+    }
+  },
+  "ancoras": {
+    "20:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Lv 20 repete as proibições de Lv 18 acrescentando as penas.",
+        "origem": "ia"
+      }
+    },
+    "20:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A santidade de Israel consiste em pertencer exclusivamente ao Senhor.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

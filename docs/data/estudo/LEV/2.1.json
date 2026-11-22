@@ -1,0 +1,57 @@
+{
+  "id": "LEV.2.1",
+  "livro": "LEV",
+  "titulo": "A oblação de flor de farinha",
+  "secao": "A lei dos sacrifícios",
+  "referencia": "Lv 2,1-16",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "A oblação: farinha, azeite, incenso e o sal da aliança",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A segunda forma de oferta é a oblação, sem derramamento de sangue: flor de farinha sobre a qual se derrama azeite e se põe incenso. O sacerdote toma um punhado com o azeite e todo o incenso e queima-o sobre o altar “como um memorial”, em suave odor ao Senhor; o resto pertence a Aarão e a seus filhos, “coisa santíssima”. A oblação pode ser cozida no forno, frita na sertã ou feita na grelha, sempre de flor de farinha com azeite e sem fermento. No altar não se queima fermento nem mel; podem ser oferecidos como primícias, mas não queimados. E uma regra para todas: “Temperarás com sal toda a oblação que fizeres; não deixarás que falte à tua oferenda o sal da aliança do teu Deus.” As primícias de espigas verdes são torradas, moídas, ungidas com azeite e cobertas de incenso, e uma parte é queimada em memória.",
+    "alegorico": "A flor de farinha, o azeite e o incenso foram lidos como figura de Cristo: o trigo moído, ungido pelo Espírito, cuja oração sobe como incenso. A oblação de pão sem fermento prepara a Eucaristia, o “pão de vida” oferecido sobre o altar. O sal da aliança, que conserva e não se corrompe, significa a fidelidade de Deus, que nunca falha; Jesus dirá aos discípulos: “vós sois o sal da terra” (Mt 5,13).",
+    "moral": "A ausência de fermento e de mel no altar foi entendida pelos Padres como exclusão da malícia que incha e da sensualidade que adoça: Paulo pede que celebremos “com os ázimos da sinceridade e da verdade” (1Cor 5,8). O sal pede que nenhuma oferta nossa seja insípida ou sem fidelidade: “tende sal em vós e paz uns com os outros” (Mc 9,49). Também o trabalho humilde, o pão de cada dia, pode tornar-se oferta.",
+    "anagogico": "O “memorial” queimado no altar recorda a Deus o ofertante: é imagem da oração que sobe e é guardada diante dele (At 10,4), até o banquete eterno em que o pão oferecido se torna comunhão plena."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A sua oferta será de flor de farinha: derramará sobre ela azeite, porá incenso.” “Como um memorial sobre o altar.” “Toda a oferta, que se fizer ao Senhor, será sem fermento.” “Não deixarás que falte à tua oferenda o sal da aliança do teu Deus.”",
+    "meditatio_perguntas": [
+      "Ofereço a Deus o trabalho comum de cada dia, como o pão da oblação?",
+      "Que “fermento” de malícia ou vaidade se mistura às minhas ofertas?",
+      "A minha fé tem o sabor e a firmeza do sal, ou ficou insípida?"
+    ],
+    "oratio_guia": "Senhor, recebe o pão simples da minha vida, ungido pelo teu Espírito e perfumado pela oração. Tira de mim o fermento da malícia e conserva-me no sal da tua aliança. Amém.",
+    "contemplatio_foco": {
+      "texto": "não deixarás que falte à tua oferenda o sal da aliança do teu Deus",
+      "ref": "Lv 2,13"
+    }
+  },
+  "ancoras": {
+    "2:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Memorial” traduz o termo hebraico azkarah: a parte queimada “recorda” o ofertante diante de Deus.",
+        "origem": "ia"
+      }
+    },
+    "2:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O sal, usado nas refeições de aliança, simbolizava a durabilidade do pacto (cf. Nm 18,19).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

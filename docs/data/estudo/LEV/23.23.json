@@ -1,0 +1,57 @@
+{
+  "id": "LEV.23.23",
+  "livro": "LEV",
+  "titulo": "As festas: Trombetas, Expiação e Tabernáculos",
+  "secao": "A lei de santidade",
+  "referencia": "Lv 23,23-44",
+  "ini": {
+    "c": 23,
+    "v": 23
+  },
+  "fim": {
+    "c": 23,
+    "v": 44
+  },
+  "liturgia": {
+    "tema_central": "Trombetas, Expiação e Tabernáculos: alegrai-vos diante do Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "As festas do sétimo mês completam o calendário. No primeiro dia, um solene repouso “ao som das trombetas”, com assembleia santa. No dia dez, “o dia das expiações”: assembleia santa, mortificação e holocausto; nenhum trabalho, “porque é um dia de propiciação”, desde a tarde do dia nove até a tarde seguinte. Do dia quinze, por sete dias, a festa dos Tabernáculos, com assembleia no primeiro dia e no oitavo. Ao fim da colheita, Israel toma “dos frutos de árvores formosas, folhas de palmeira, ramos de árvores frondosas, salgueiros da torrente, e alegrar-vos-eis diante do Senhor vosso Deus”. Durante sete dias todos habitam em tendas de ramos, “para que os vossos descendentes saibam que eu fiz habitar em tendas os filhos de Israel, depois de os ter tirado da terra do Egipto”. E Moisés falou ao povo sobre as festas do Senhor.",
+    "alegorico": "Na festa dos Tabernáculos, Jesus proclama: “Se alguém tem sede, venha a mim e beba” e “Eu sou a luz do mundo” (Jo 7,37; 8,12), cumprindo os ritos da água e da luz da festa. Os ramos de palmeira anunciam a entrada de Cristo em Jerusalém e a multidão dos eleitos “com palmas nas mãos” (Ap 7,9). O dia da expiação aponta para a cruz.",
+    "moral": "A fé tem tempo de penitência e tempo de alegria: o dia da expiação e, cinco dias depois, a festa mais alegre do ano. A Igreja conserva este ritmo: Quaresma e Páscoa, Advento e Natal. Morar em tendas lembra que somos peregrinos e que a segurança vem de Deus, não da casa de pedra. Alegrar-se diante do Senhor é um mandamento.",
+    "anagogico": "As tendas do deserto anunciam a morada definitiva: “Eis o tabernáculo de Deus com os homens” (Ap 21,3). A festa da colheita final será a alegria eterna dos ceifeiros diante do Senhor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Um solene repouso… ao som das trombetas.” “Será o dia das expiações.” “Alegrar-vos-eis diante do Senhor vosso Deus.” “Habitareis à sombra dos ramos durante sete dias.” “Eu fiz habitar em tendas os filhos de Israel.”",
+    "meditatio_perguntas": [
+      "Sei alternar o tempo da penitência e o tempo da alegria na fé?",
+      "Vivo como peregrino, ou instalado como se esta fosse a morada definitiva?",
+      "A minha alegria é “diante do Senhor”?"
+    ],
+    "oratio_guia": "Senhor, que habitaste em tenda no meio do teu povo, dá-me viver como peregrino, fazer penitência no tempo da expiação e alegrar-me diante de ti na festa. Amém.",
+    "contemplatio_foco": {
+      "texto": "alegrar-vos-eis diante do Senhor vosso Deus",
+      "ref": "Lv 23,40"
+    }
+  },
+  "ancoras": {
+    "23:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A festa das Trombetas tornou-se o Ano Novo judaico (Rosh Hashaná).",
+        "origem": "ia"
+      }
+    },
+    "23:34": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os Tabernáculos (Sucot): cf. Jo 7,2.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "LEV.9.1",
+  "livro": "LEV",
+  "titulo": "O primeiro sacrifício e a glória do Senhor",
+  "secao": "A consagração dos sacerdotes",
+  "referencia": "Lv 9,1-24",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "“Hoje o Senhor vos aparecerá”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No oitavo dia, terminada a consagração, Moisés manda Aarão oferecer um novilho pelo seu pecado e um carneiro em holocausto, e o povo, um bode pelo pecado, um novilho e um cordeiro em holocausto, um boi e um carneiro em sacrifício pacífico, com oblação, porque “hoje o Senhor vos aparecerá”. Diante de toda a multidão, Moisés diz: “Fazei-o, e a sua glória vos aparecerá.” Aarão aproxima-se do altar e oferece primeiro por si, depois pelo povo, cumprindo cada rito. Terminados os sacrifícios, estende as mãos para o povo e o abençoa. Moisés e Aarão entram no tabernáculo, saem e abençoam o povo. “E a glória do Senhor apareceu a toda a multidão: um fogo saído do Senhor devorou o holocausto e as gorduras que estavam sobre o altar.” O povo, vendo isto, louva o Senhor, lançando-se com o rosto por terra.",
+    "alegorico": "O oitavo dia, depois dos sete da consagração, é o dia da manifestação da glória: os Padres viram nele figura do domingo, o “oitavo dia” da Ressurreição. Aarão que oferece primeiro por si e depois pelo povo é imagem imperfeita de Cristo, que, sem pecado, ofereceu-se de uma vez por todos (Hb 7,27). O fogo vindo do Senhor anuncia o Espírito descendo em Pentecostes.",
+    "moral": "A glória de Deus aparece quando se faz o que ele mandou: “Fazei-o, e a sua glória vos aparecerá.” A obediência precede a experiência. E a resposta à manifestação de Deus é a adoração: o povo cai com o rosto por terra. Quem serve ao altar começa reconhecendo o próprio pecado.",
+    "anagogico": "A glória que aparece a toda a multidão antecipa a manifestação final, quando “a glória do Senhor” encherá a terra e todos o verão face a face, prostrados em louvor diante do trono."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Hoje o Senhor vos aparecerá.” “Fazei-o, e a sua glória vos aparecerá.” “Estendendo a mão para o povo, abençoou-o.” “A glória do Senhor apareceu a toda a multidão.” “O povo, vendo isto, louvou o Senhor, lançando-se com o rosto por terra.”",
+    "meditatio_perguntas": [
+      "Espero ver a glória de Deus sem antes fazer o que ele me pede?",
+      "Reconheço, como Aarão, o meu pecado antes de interceder pelos outros?",
+      "Diante de Deus, sei adorar em silêncio, com o rosto por terra?"
+    ],
+    "oratio_guia": "Senhor, que manifestaste a tua glória ao povo reunido, dá-me obedecer à tua palavra para ver a tua face. Que eu saiba adorar-te e abençoar em teu nome. Amém.",
+    "contemplatio_foco": {
+      "texto": "A glória do Senhor apareceu a toda a multidão",
+      "ref": "Lv 9,23"
+    }
+  },
+  "ancoras": {
+    "9:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O gesto de Aarão de estender as mãos para abençoar é a origem da bênção sacerdotal (cf. Nm 6,22-27).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

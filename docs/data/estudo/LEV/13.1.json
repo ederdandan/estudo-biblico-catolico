@@ -1,0 +1,57 @@
+{
+  "id": "LEV.13.1",
+  "livro": "LEV",
+  "titulo": "A lepra: diagnóstico e separação",
+  "secao": "O puro e o impuro",
+  "referencia": "Lv 13,1-59",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 59
+  },
+  "liturgia": {
+    "tema_central": "“Impuro, impuro!”: o leproso fora do acampamento",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor dá a Moisés e a Aarão as normas para examinar as doenças da pele chamadas lepra. Quem tiver mancha, pústula ou mancha branca luzente é levado ao sacerdote. Se o pelo ficou branco e a parte afetada está mais funda que a pele, o sacerdote declara-o impuro; em caso duvidoso, isola-o sete dias e examina de novo, e mais sete dias, até declará-lo limpo ou leproso. A lei distingue cuidadosamente: carne viva, cicatriz de úlcera, queimadura, chaga na cabeça ou na barba, manchas brancas inofensivas, calvície, que é pura. O leproso declarado “terá as vestes rasgadas, a cabeça descoberta, a boca coberta, e clamará: Impuro, impuro! Durante todo o tempo que estiver leproso e impuro, habitará só, fora dos acampamentos.” O capítulo termina com a “lepra” das vestes de lã, linho e couro: mofo ou mancha que, se se alastra, obriga a queimar o objeto.",
+    "alegorico": "Os Padres viram na lepra a imagem do pecado, que corrói por dentro e separa da comunidade. Cristo, que toca o leproso e o cura (Mc 1,41), é o sacerdote que não só declara puro, mas purifica. Ele mesmo, “contado entre os malfeitores”, foi lançado fora do acampamento para trazer de volta os excluídos.",
+    "moral": "A lei ensina prudência no juízo: examinar com cuidado, esperar, distinguir o que é grave do que não é. Não se condena à pressa. Ensina também que o pecado não é assunto privado: contamina a comunidade. Mas o cristão olha o leproso com os olhos de Cristo: São Francisco beijou um leproso, e a Igreja sempre cuidou dos marginalizados.",
+    "anagogico": "O leproso que clama “impuro, impuro!” à distância espera o dia em que Cristo o chamará para dentro: na cidade santa não há mais exclusão, porque tudo foi purificado."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Será levado ao sacerdote Aarão.” “O isolará durante sete dias.” “Terá as vestes rasgadas, a cabeça descoberta, a boca coberta, e clamará: Impuro, impuro!” “Habitará só, fora dos acampamentos.”",
+    "meditatio_perguntas": [
+      "Reconheço o pecado como uma lepra que me separa de Deus e dos irmãos?",
+      "Julgo os outros com prudência, ou condeno à pressa?",
+      "Quem são hoje os que vivem “fora do acampamento”, e como me aproximo deles?"
+    ],
+    "oratio_guia": "Senhor Jesus, que tocaste o leproso e o curaste, toca a lepra do meu pecado e purifica-me. Dá-me olhar os excluídos com a tua compaixão. Amém.",
+    "contemplatio_foco": {
+      "texto": "e clamará: Impuro, impuro!",
+      "ref": "Lv 13,45"
+    }
+  },
+  "ancoras": {
+    "13:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “lepra” bíblica abrange várias doenças da pele, não só a hanseníase moderna.",
+        "origem": "ia"
+      }
+    },
+    "13:46": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Daí a cena evangélica dos leprosos que gritam de longe a Jesus (Lc 17,12-13).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

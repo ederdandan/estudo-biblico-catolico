@@ -1,0 +1,49 @@
+{
+  "id": "LEV.15.1",
+  "livro": "LEV",
+  "titulo": "As impurezas do corpo",
+  "secao": "O puro e o impuro",
+  "referencia": "Lv 15,1-33",
+  "ini": {
+    "c": 15,
+    "v": 1
+  },
+  "fim": {
+    "c": 15,
+    "v": 33
+  },
+  "liturgia": {
+    "tema_central": "As impurezas do corpo e a santidade do tabernáculo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor fala das impurezas ligadas aos fluxos do corpo. O homem que padece de fluxo é impuro, e tudo o que toca, o leito, a sela, o assento, torna-se impuro; quem os toca lava as vestes e fica impuro até à tarde. Curado, conta sete dias, lava-se em água viva e no oitavo dia oferece duas rolas ou dois pombinhos. A emissão seminal torna impuro até à tarde o homem e a mulher com quem se uniu. A mulher, no tempo da menstruação, fica separada sete dias; quem a toca ou toca o seu leito fica impuro até à tarde. A mulher que sofre fluxo de sangue por muitos dias, fora do tempo, é impura enquanto dura o mal; ao parar, conta sete dias e oferece duas rolas ou dois pombinhos. A razão: “Ensinareis, pois, aos filhos de Israel que se guardem da impureza, para não morrerem nas suas imundícies, quando profanarem o meu tabernáculo que está no meio deles.”",
+    "alegorico": "A mulher que padecia fluxo de sangue havia doze anos, impura segundo esta lei, toca a orla do manto de Jesus e é curada (Mc 5,25-34). O contato que, pela lei, tornaria Jesus impuro, torna-a pura: em Cristo a santidade é mais forte que a impureza e se comunica.",
+    "moral": "A lei não chama pecado à sexualidade nem à menstruação, mas reconhece nelas o mistério da vida, que pede respeito e pudor. O corpo está ligado à santidade de Deus que habita no meio do povo. São Paulo dirá: “o vosso corpo é templo do Espírito Santo” (1Cor 6,19): o cuidado com a pureza do corpo é forma de culto.",
+    "anagogico": "Os corpos sujeitos à fragilidade e à corrupção serão revestidos de incorruptibilidade (1Cor 15,53): na ressurreição, nenhuma fraqueza nos afastará da presença de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Será impuro.” “Lavará as suas vestes, e… será impuro até à tarde.” “Contará sete dias e depois ficará pura.” “Que se guardem da impureza… quando profanarem o meu tabernáculo que está no meio deles.”",
+    "meditatio_perguntas": [
+      "Respeito o meu corpo como templo do Espírito Santo?",
+      "Aproximo-me de Cristo, como a mulher do fluxo, com a minha fragilidade?",
+      "Cultivo o pudor e o respeito pelo mistério da vida?"
+    ],
+    "oratio_guia": "Senhor, que habitas no meio do teu povo, santifica o meu corpo e a minha alma. Como a mulher que tocou o teu manto, eu me aproximo de ti com a minha fraqueza: cura-me. Amém.",
+    "contemplatio_foco": {
+      "texto": "para não morrerem nas suas imundices, quando profanarem o meu tabernáculo que está no meio deles",
+      "ref": "Lv 15,31"
+    }
+  },
+  "ancoras": {
+    "15:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "É a condição da mulher curada por Jesus (Mc 5,25).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

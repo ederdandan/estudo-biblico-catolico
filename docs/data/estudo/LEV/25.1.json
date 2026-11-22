@@ -1,0 +1,57 @@
+{
+  "id": "LEV.25.1",
+  "livro": "LEV",
+  "titulo": "O ano sabático e o jubileu",
+  "secao": "A lei de santidade",
+  "referencia": "Lv 25,1-22",
+  "ini": {
+    "c": 25,
+    "v": 1
+  },
+  "fim": {
+    "c": 25,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "O ano sabático e o jubileu: “anunciarás a remissão”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No monte Sinai, o Senhor manda que a terra também guarde o seu sábado. Seis anos semeia-se o campo e poda-se a vinha; “o sétimo ano, porém, será o sábado de completo descanso para a terra”: não se semeia nem se vindima; o que a terra der espontaneamente é alimento para o dono, o servo, o jornaleiro, o estrangeiro e até os animais. Contam-se sete semanas de anos, quarenta e nove anos, e no dia da expiação do sétimo mês toca-se a trombeta por toda a terra: “Santificarás o ano quinquagésimo, anunciarás a remissão a todos os habitantes da terra, porque é jubileu. Voltará o homem à posse das suas propriedades, e cada um tornará para a sua primeira família.” Por isso, nas vendas, o preço se calcula pelos anos que faltam até o jubileu: vende-se só o número de colheitas. Não se engane o irmão. E à pergunta “que comeremos no sétimo ano?”, o Senhor responde: “Eu vos darei a minha bênção no ano sexto, e a terra produzirá frutos para três anos.”",
+    "alegorico": "Jesus, em Nazaré, lê Isaías e proclama “o ano da graça do Senhor” (Lc 4,19): ele é o jubileu em pessoa, que anuncia a libertação aos cativos e a remissão das dívidas. A Igreja celebra Anos Santos jubilares, em que oferece a remissão das penas e chama à reconciliação.",
+    "moral": "A terra é de Deus, e o homem não é seu dono absoluto: o descanso da terra e a devolução das propriedades impedem a acumulação sem fim e a miséria sem saída. É a raiz bíblica da doutrina social da Igreja sobre o destino universal dos bens. O ano sabático pede confiança: Deus abençoa o sexto ano para que se possa descansar no sétimo.",
+    "anagogico": "O jubileu, “ano quinquagésimo”, é figura do repouso eterno, quando cada um voltará à herança verdadeira e todas as dívidas serão perdoadas na casa do Pai."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O sétimo ano, porém, será o sábado de completo descanso para a terra.” “Santificarás o ano quinquagésimo, anunciarás a remissão a todos os habitantes da terra.” “Cada um tornará para a sua primeira família.” “Não agraves o teu irmão.” “Eu vos darei a minha bênção no ano sexto.”",
+    "meditatio_perguntas": [
+      "Uso os bens como dono absoluto ou como administrador de Deus?",
+      "Confio em Deus a ponto de descansar e parar?",
+      "A quem posso “anunciar a remissão”, perdoando uma dívida ou uma ofensa?"
+    ],
+    "oratio_guia": "Senhor, que és o dono da terra e o Senhor do tempo, ensina-me a confiar na tua bênção, a descansar em ti e a partilhar os bens com justiça. Que a minha vida seja um ano de graça. Amém.",
+    "contemplatio_foco": {
+      "texto": "anunciarás a remissão a todos os habitantes da terra, porque é jubileu",
+      "ref": "Lv 25,10"
+    }
+  },
+  "ancoras": {
+    "25:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Jubileu” vem do hebraico yobel, o chifre de carneiro tocado como trombeta.",
+        "origem": "ia"
+      }
+    },
+    "25:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A promessa da bênção do sexto ano responde ao medo de quem descansa.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
