@@ -1,0 +1,57 @@
+{
+  "id": "EST.8.1",
+  "livro": "EST",
+  "titulo": "O novo decreto: uma nova luz para os judeus",
+  "secao": "A rainha Ester e a salvação do povo",
+  "referencia": "Est 8,1-17",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "“Aos Judeus parecia ter-lhes nascido uma nova luz”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O rei dá a Ester a casa de Amã e a Mardoqueu o anel real. Mas Ester não se contenta: “lançou-se aos pés do rei, e com lágrimas suplicou-lhe que frustrasse o mau desígnio de Aman”. O rei estende-lhe o cetro de ouro, e ela pede: “como poderei eu suportar a matança, o extermínio do meu povo?” Como as cartas seladas com o anel do rei são irrevogáveis, Assuero autoriza Mardoqueu a escrever novas cartas, enviadas a cento e vinte e sete províncias, “desde a Índia até à Etiópia… a cada povo em sua própria língua”, permitindo aos judeus defenderem-se no dia treze de Adar. Mardoqueu sai do palácio “com vestes reais, azuis e brancas… com uma coroa de ouro na cabeça. Toda a cidade se encheu de festa e de alegria. Aos Judeus parecia ter-lhes nascido uma nova luz, alegria, honra e júbilo”, e muitos de outros povos abraçam a sua religião.",
+    "alegorico": "O decreto de morte que não pode ser revogado, mas é vencido por um decreto novo, foi lido como figura da Lei antiga e da graça: Cristo não anula a sentença por um ato arbitrário, mas a vence com uma nova lei, a do Espírito que dá vida (Rm 8,2). A “nova luz” para o povo condenado anuncia a luz da Páscoa, e as cartas levadas a cada povo “em sua própria língua” lembram o Pentecostes (At 2,6).",
+    "moral": "Ester não se dá por satisfeita com a própria segurança: chora aos pés do rei pelo povo. A verdadeira intercessão não para quando nós estamos salvos. E a alegria que nasce da libertação torna-se testemunho: muitos de outros povos se aproximam da fé ao ver a ação de Deus. O texto termina com o “grande terror” dos inimigos, linguagem própria daquele tempo (Dei Verbum 15).",
+    "anagogico": "“Uma nova luz, alegria, honra e júbilo”: o dia em que o povo de Deus, condenado à morte, se verá vestido de glória na festa eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Com lágrimas suplicou-lhe que frustrasse o mau desígnio.” “Como poderei eu suportar… o extermínio do meu povo?” “A cada povo em sua própria língua.” “Resplandecia com vestes reais.” “Toda a cidade se encheu de festa e de alegria.” “Aos Judeus parecia ter-lhes nascido uma nova luz.”",
+    "meditatio_perguntas": [
+      "A minha intercessão continua depois que eu estou a salvo?",
+      "Vivo a alegria da salvação como testemunho para os outros?",
+      "Agradeço a “lei nova” da graça que venceu a sentença contra mim?"
+    ],
+    "oratio_guia": "Senhor, que venceste a sentença de morte com a lei da graça, faz nascer em mim uma nova luz. Que eu interceda pelos meus irmãos e que a minha alegria atraia outros a ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Aos Judeus parecia ter-lhes nascido uma nova luz, alegria, honra e júbilo",
+      "ref": "Est 8,16"
+    }
+  },
+  "ancoras": {
+    "8:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Dn 6,8: as leis dos medos e persas não podiam ser revogadas.",
+        "origem": "ia"
+      }
+    },
+    "8:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Primeira menção bíblica de prosélitos que se juntam a Israel na diáspora.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

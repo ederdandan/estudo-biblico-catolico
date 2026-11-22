@@ -1,0 +1,57 @@
+{
+  "id": "EST.11.1",
+  "livro": "EST",
+  "titulo": "O sonho de Mardoqueu: a pequena fonte que se torna rio",
+  "secao": "Os acréscimos gregos",
+  "referencia": "Est 11,1-12",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "O sonho de Mardoqueu: “uma pequena fonte tornou-se um rio”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Uma nota final informa que a “carta de Purim” foi trazida ao Egito no tempo de Ptolomeu e Cleópatra, traduzida em Jerusalém por Lisímaco. Depois, o sonho com que o livro grego começava: Mardoqueu, judeu de Susa, da tribo de Benjamim, um dos cativos levados com Jeconias, sonha: “Pareceu-lhe ouvir vozes, estrondos, trovões, terremotos e perturbações sobre a terra. Depois, subitamente, apareceram dois grandes dragões, prontos para combater… alvoroçaram-se todas as nações para combater o povo dos justos. Foi aquele um dia de trevas e de perigo… Conturbou-se a nação dos justos… e preparou-se para a morte. Clamaram a Deus, e, quando levantaram o grito, uma pequena fonte tornou-se um rio muito grande… A luz e o sol brilharam, e os humildes foram exaltados e devoraram os grandes.” Mardoqueu acorda e fica a pensar “no que Deus quereria fazer”.",
+    "alegorico": "O sonho tem linguagem apocalíptica: o combate dos dragões e o dia de trevas lembram o Apocalipse (Ap 12). A pequena fonte que se torna grande rio, quando o povo clama, foi aplicada a Maria e, mais profundamente, à graça de Deus que nasce pequena e se torna rio de água viva (Ez 47; Jo 7,38). “Os humildes foram exaltados” antecipa o Magnificat (Lc 1,52).",
+    "moral": "Diante do “dia de trevas e de perigo”, o povo dos justos não luta primeiro: clama a Deus. A resposta começa pequena, como uma fonte, e cresce. Deus costuma agir assim, a partir de pouco. E Mardoqueu ensina uma atitude: guardar no coração o que não compreende, “desejando saber o que significaria”, como Maria que “guardava todas estas coisas” (Lc 2,19).",
+    "anagogico": "“A luz e o sol brilharam, e os humildes foram exaltados”: depois do combate final, a luz eterna em que os pequenos serão glorificados."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vozes, estrondos, trovões, terremotos.” “Dois grandes dragões.” “Um dia de trevas e de perigo.” “Clamaram a Deus.” “Uma pequena fonte tornou-se um rio muito grande.” “A luz e o sol brilharam, e os humildes foram exaltados.” “Pôs-se a pensar no que Deus quereria fazer.”",
+    "meditatio_perguntas": [
+      "No “dia de trevas”, a minha primeira reação é clamar a Deus?",
+      "Creio que Deus pode fazer grandes coisas a partir do pouco?",
+      "Guardo no coração o que ainda não compreendo?"
+    ],
+    "oratio_guia": "Senhor, nos dias de trevas e de perigo eu clamo a ti. Faz da pequena fonte da minha fé um grande rio, e exalta os humildes com a tua luz. Amém.",
+    "contemplatio_foco": {
+      "texto": "uma pequena fonte tornou-se um rio muito grande",
+      "ref": "Est 11,10"
+    }
+  },
+  "ancoras": {
+    "11:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Colofão: nota sobre a tradução grega, levada ao Egito c. 114 a.C. (ou 78 a.C.).",
+        "origem": "ia"
+      }
+    },
+    "11:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "No grego, o sonho abre o livro (antes de Est 1,1).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

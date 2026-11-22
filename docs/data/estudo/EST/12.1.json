@@ -1,0 +1,57 @@
+{
+  "id": "EST.12.1",
+  "livro": "EST",
+  "titulo": "Mardoqueu descobre a conspiração contra o rei",
+  "secao": "Os acréscimos gregos",
+  "referencia": "Est 12,1-6",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 6
+  },
+  "liturgia": {
+    "tema_central": "Mardoqueu salva o rei",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Mardoqueu estava na corte do rei com dois eunucos porteiros do palácio, Ragata e Tara. “Tendo entendido os seus pensamentos e reconhecido exactamente os seus desígnios, descobriu que intentavam pôr a mão na pessoa do rei Artaxerxes; avisou disso o rei”. Os dois confessam e são executados. O rei manda escrever o fato nas Crônicas, e Mardoqueu também o põe por escrito “para conservar a sua memória”. O rei dá-lhe um lugar no palácio e presentes. “Mas Aman, filho de Amadati, o Agagita, gozava de grande crédito junto do rei, e quis perder Mardoqueu e o seu povo.”",
+    "alegorico": "Este episódio prepara toda a trama (cf. Est 2,21-23; 6,1-3): o bem feito em silêncio, registrado nas Crônicas, será lembrado na noite de insônia do rei. É figura de como nada do que é feito por amor se perde diante de Deus, que “vê no segredo” (Mt 6,4). Amã, o agagita, descendente de Agag, inimigo de Israel (1Sm 15), representa a inimizade antiga contra o povo de Deus.",
+    "moral": "Mardoqueu é leal mesmo a um rei estrangeiro: o cristão também é chamado a ser cidadão honesto e a procurar o bem de quem governa (Jr 29,7; Rm 13,1). E o justo atrai a inveja: Amã quer perdê-lo justamente por ter feito o bem. Fazer o bem não garante aplauso, mas Deus guarda a memória.",
+    "anagogico": "O bem escrito “para conservar a sua memória” anuncia o livro da vida, onde Deus guarda todas as obras dos justos (Ap 20,12)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Descobriu que intentavam pôr a mão na pessoa do rei.” “Avisou disso o rei.” “Mandou escrever nas Crônicas o que se tinha passado.” “Para conservar a sua memória.” “Quis perder Mardoqueu e o seu povo.”",
+    "meditatio_perguntas": [
+      "Sou leal e honesto também com autoridades que não partilham a minha fé?",
+      "Faço o bem sem esperar reconhecimento imediato?",
+      "Como reajo quando o bem que faço desperta inveja?"
+    ],
+    "oratio_guia": "Senhor, que guardas a memória de todo o bem, dá-me ser fiel e leal, fazer o bem no silêncio e confiar a ti a minha defesa contra a inveja. Amém.",
+    "contemplatio_foco": {
+      "texto": "O rei mandou escrever nas Crônicas o que se tinha passado",
+      "ref": "Est 12,4"
+    }
+  },
+  "ancoras": {
+    "12:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Paralelo grego de Est 2,21-23.",
+        "origem": "ia"
+      }
+    },
+    "12:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Agagita: descendente de Agag, rei amalecita (1Sm 15,8).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

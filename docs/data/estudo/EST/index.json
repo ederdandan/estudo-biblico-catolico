@@ -91,11 +91,25 @@
   },
   {
    "id": "EST.7.1",
-   "titulo": "Amã desmascarado; o novo decreto",
+   "titulo": "Amã desmascarado no banquete de Ester",
    "secao": "A rainha Ester e a salvação do povo",
-   "referencia": "Est 7,1–8,17",
+   "referencia": "Est 7,1-10",
    "ini": {
     "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 10
+   }
+  },
+  {
+   "id": "EST.8.1",
+   "titulo": "O novo decreto: uma nova luz para os judeus",
+   "secao": "A rainha Ester e a salvação do povo",
+   "referencia": "Est 8,1-17",
+   "ini": {
+    "c": 8,
     "v": 1
    },
    "fim": {
@@ -119,12 +133,40 @@
   },
   {
    "id": "EST.10.4",
-   "titulo": "O sonho de Mardoqueu e a sua explicação",
+   "titulo": "Deus é quem fez isto: a explicação do sonho",
    "secao": "Os acréscimos gregos",
-   "referencia": "Est 10,4–12,6",
+   "referencia": "Est 10,4-13",
    "ini": {
     "c": 10,
     "v": 4
+   },
+   "fim": {
+    "c": 10,
+    "v": 13
+   }
+  },
+  {
+   "id": "EST.11.1",
+   "titulo": "O sonho de Mardoqueu: a pequena fonte que se torna rio",
+   "secao": "Os acréscimos gregos",
+   "referencia": "Est 11,1-12",
+   "ini": {
+    "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 12
+   }
+  },
+  {
+   "id": "EST.12.1",
+   "titulo": "Mardoqueu descobre a conspiração contra o rei",
+   "secao": "Os acréscimos gregos",
+   "referencia": "Est 12,1-6",
+   "ini": {
+    "c": 12,
+    "v": 1
    },
    "fim": {
     "c": 12,

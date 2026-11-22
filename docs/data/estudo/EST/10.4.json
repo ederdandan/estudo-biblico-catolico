@@ -1,38 +1,38 @@
 {
   "id": "EST.10.4",
   "livro": "EST",
-  "titulo": "O sonho de Mardoqueu e a sua explicação",
+  "titulo": "Deus é quem fez isto: a explicação do sonho",
   "secao": "Os acréscimos gregos",
-  "referencia": "Est 10,4–12,6",
+  "referencia": "Est 10,4-13",
   "ini": {
     "c": 10,
     "v": 4
   },
   "fim": {
-    "c": 12,
-    "v": 6
+    "c": 10,
+    "v": 13
   },
   "liturgia": {
-    "tema_central": "O sonho de Mardoqueu e a sua explicação",
+    "tema_central": "“Deus é quem fez isto”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Começam os acréscimos gregos, que a Vulgata reúne no final. Mardoqueu afirma: “Deus é quem fez isto”, e explica um sonho que tivera: uma pequena fonte que se torna um grande rio (Ester); dois dragões (Mardoqueu e Amã); as nações reunidas contra os justos; o povo que clamou e foi salvo. Deus estabeleceu duas sortes, uma para o seu povo e outra para as nações. Segue o relato do sonho (cap. 11): vozes, trovões, terremotos; dois dragões prontos a lutar; as nações contra o povo dos justos; um dia de trevas e angústia; o povo clama, e uma pequena fonte se torna um rio, a luz e o sol brilham, os humildes são exaltados. O cap. 12 narra como Mardoqueu descobriu a conspiração contra o rei.",
-    "alegorico": "A pequena fonte que se torna rio é imagem de Maria, humilde, de quem nasce Cristo, rio de graça; e da Igreja, que cresce de pequenos começos. Os dois dragões em luta evocam o combate entre o bem e o mal descrito no Apocalipse (Ap 12).",
-    "moral": "O acréscimo dá uma leitura explícita de fé: “Deus é quem fez isto”. Ensina a reler a própria história e ver nela a mão de Deus. A salvação começa com o clamor do povo humilhado.",
-    "anagogico": "O dia de trevas que se transforma em luz, e os humildes exaltados, anunciam o fim da história, quando o Senhor vencer definitivamente o dragão."
+    "literal": "Começam aqui os acréscimos gregos, conservados na Vulgata no fim do livro. Mardoqueu, olhando para tudo o que aconteceu, diz: “Deus é quem fez isto. Lembro-me de um sonho que tive, o qual significava isto mesmo; nada do que sonhei ficou por cumprir.” E explica: “a pequena fonte, que cresceu até se tornar um rio… O rio é Ester, a qual o rei tomou por mulher… Os dois dragões sou eu e Aman… O meu povo é Israel, que clamou ao Senhor e que foi salvo. O Senhor salvou o seu povo, livrou-nos de todos os males e fez grandes milagres.” Deus fez “duas sortes, uma para o povo de Deus e outra para todas as gentes”, que saíram “no dia marcado por Deus”. “O Senhor lembrou-se do seu povo, teve compaixão da sua herança.” Os dias 14 e 15 de Adar serão celebrados “perpetuamente, em todas as gerações”.",
+    "alegorico": "No texto hebraico de Ester o nome de Deus não aparece; os acréscimos gregos tornam explícito o que estava escondido: “Deus é quem fez isto”. É uma chave para ler toda a história, também a nossa: Deus age por meio de acontecimentos aparentemente comuns. A pequena fonte que se torna rio foi vista como figura de Maria, humilde, por meio de quem veio a salvação.",
+    "moral": "Mardoqueu relê a própria vida e reconhece a mão de Deus: “Deus é quem fez isto”. É o exercício da memória agradecida. As “sortes” (purim) que pareciam acaso estavam nas mãos de Deus. E a salvação deve ser celebrada e transmitida a todas as gerações: a festa guarda a memória.",
+    "anagogico": "As duas sortes, decididas “no dia marcado por Deus”, anunciam o juízo final, quando ficará claro que Deus guiou toda a história."
   },
   "lectio_divina": {
-    "lectio_resumo": "Mardoqueu disse: “Deus é quem fez isto. A pequena fonte que cresceu até se tornar um rio é Ester. O meu povo é Israel, que clamou ao Senhor e foi salvo. O Senhor lembrou-se do seu povo e teve compaixão da sua herança”.",
+    "lectio_resumo": "“Deus é quem fez isto.” “Nada do que sonhei ficou por cumprir.” “A pequena fonte, que cresceu até se tornar um rio.” “O meu povo é Israel, que clamou ao Senhor e que foi salvo.” “O Senhor lembrou-se do seu povo, teve compaixão da sua herança.”",
     "meditatio_perguntas": [
-      "Consigo dizer, olhando a minha história: “Deus é quem fez isto”?",
-      "Que “pequena fonte” Deus fez crescer na minha vida?",
-      "Clamo a Deus nos dias de trevas?"
+      "Sei reler a minha história e dizer “Deus é quem fez isto”?",
+      "Vejo a mão de Deus nos acontecimentos que parecem acaso?",
+      "Como celebro e transmito as graças recebidas?"
     ],
-    "oratio_guia": "Senhor, és tu que fazes todas as coisas. Lembra-te do teu povo e tem compaixão da tua herança. Faz crescer em mim a pequena fonte da tua graça até se tornar um rio. Amém.",
+    "oratio_guia": "Senhor, que te lembras do teu povo e tens compaixão da tua herança, ensina-me a ver a tua mão na minha vida e a dizer com gratidão: foste tu que fizeste isto. Amém.",
     "contemplatio_foco": {
-      "texto": "O Senhor lembrou-se do seu povo, teve compaixão da sua herança.",
-      "ref": "Est 10,12"
+      "texto": "Deus é quem fez isto",
+      "ref": "Est 10,4"
     }
   },
   "ancoras": {
@@ -40,7 +40,15 @@
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "Os capítulos 10,4–16,24 da Vulgata são os acréscimos do texto grego, que S. Jerônimo colocou no fim do livro; a Igreja os recebe como canônicos.",
+        "texto": "Est 10,4–16,24 são os acréscimos gregos (deuterocanônicos), que S. Jerônimo pôs no fim do livro.",
+        "origem": "ia"
+      }
+    },
+    "10:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Sortes” traduz purim, que dá nome à festa.",
         "origem": "ia"
       }
     }

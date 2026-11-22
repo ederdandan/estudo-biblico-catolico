@@ -1,40 +1,57 @@
 {
   "id": "EST.7.1",
   "livro": "EST",
-  "titulo": "Amã desmascarado; o novo decreto",
+  "titulo": "Amã desmascarado no banquete de Ester",
   "secao": "A rainha Ester e a salvação do povo",
-  "referencia": "Est 7,1–8,17",
+  "referencia": "Est 7,1-10",
   "ini": {
     "c": 7,
     "v": 1
   },
   "fim": {
-    "c": 8,
-    "v": 17
+    "c": 7,
+    "v": 10
   },
   "liturgia": {
-    "tema_central": "Amã desmascarado; o novo decreto",
+    "tema_central": "“Concede-me a minha vida… e do meu povo”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "No segundo banquete, o rei pergunta de novo o pedido de Ester. Ela suplica pela sua vida e pela do seu povo, condenado ao extermínio. O rei pergunta quem ousou tal coisa. “O nosso inimigo é este perverso Amã.” O rei sai furioso para o jardim; Amã se lança sobre o leito de Ester para suplicar, e o rei, ao voltar, pensa que ele quer violentá-la. Um eunuco menciona a forca preparada para Mardoqueu: Amã é enforcado nela. Ester recebe a casa de Amã; Mardoqueu recebe o anel do rei. Ester suplica com lágrimas que o decreto seja anulado; o rei autoriza um novo edito, que permite aos judeus defender-se. Mardoqueu sai com vestes reais; para os judeus “nasceu uma nova luz, alegria e honra”.",
-    "alegorico": "Ester que intercede pelo povo é figura de Maria, Rainha que intercede junto ao Rei pelos seus filhos. Amã enforcado na forca que preparou é imagem do mal que cai na própria armadilha (Sl 7,16). A “nova luz” anuncia a luz da Páscoa.",
-    "moral": "Ester fala no momento oportuno, com clareza e coragem, e nomeia o mal. A intercessão não é só para si, mas para todo o povo. A justiça chega, mas o texto nos lembra que o mal é derrotado sobretudo pela verdade dita com coragem.",
-    "anagogico": "A nova luz, alegria e honra dos judeus antecipa a alegria eterna dos redimidos, quando todo luto for transformado em festa."
+    "literal": "No segundo banquete, o rei pergunta de novo: “Que petição é a tua, ó Ester?… Ainda que peças metade do meu reino, a terás.” Ester fala enfim: “Ó rei, se eu achei graça aos teus olhos… concede-me a minha vida, pela qual te rogo, e do meu povo, pelo qual intercedo. Eu e o meu povo estamos condenados a ser destroçados, degolados, exterminados.” “Quem é e onde está esse?” “O nosso inimigo e perseguidor é este perverso Aman.” Amã fica aturdido; o rei sai irado para o jardim. Amã lança-se sobre o leito da rainha a pedir a vida, e o rei, ao voltar, julga que ele quer fazer-lhe violência. O eunuco Harbona lembra o madeiro de cinquenta côvados que Amã preparara para Mardoqueu: “Pendurai-o nele.” “Foi, pois, Aman pendurado no patíbulo que ele tinha preparado para Mardoqueu. E a ira do rei aplacou-se.”",
+    "alegorico": "Ester, que arrisca a vida e intercede “pela minha vida e pelo meu povo” diante do rei, é figura de Maria, intercessora junto do Rei, e de Cristo, que se oferece pelo seu povo. A queda de Amã no patíbulo que preparou para o justo ilustra o salmo: “cavou uma cova… e caiu na fossa que fez” (Sl 7,16); e, de modo mais profundo, a cruz, onde o inimigo que preparou a morte do Justo foi vencido.",
+    "moral": "Ester escolhe o momento e as palavras: paciência, prudência e coragem unidas. Não pede só por si, mas pelo seu povo. A queda de Amã mostra a lei moral inscrita na história: o mal preparado para outros volta-se contra quem o trama. Não há necessidade de vingança pessoal: Deus faz justiça.",
+    "anagogico": "O perseguidor cai no laço que armou: no juízo final, o mal se voltará contra si mesmo, e os justos serão salvos."
   },
   "lectio_divina": {
-    "lectio_resumo": "Ester respondeu: “Ó rei, se achei graça aos teus olhos, concede-me a minha vida e a do meu povo, pelo qual intercedo”. O rei disse: “Quem é esse?” Ester disse: “O nosso inimigo é este perverso Amã”. E Amã foi pendurado no patíbulo que tinha preparado para Mardoqueu. Aos judeus pareceu ter nascido uma nova luz, alegria e júbilo.",
+    "lectio_resumo": "“Que petição é a tua, ó Ester?” “Concede-me a minha vida, pela qual te rogo, e do meu povo, pelo qual intercedo.” “Estamos condenados a ser destroçados.” “O nosso inimigo e perseguidor é este perverso Aman.” “Pendurai-o nele.” “No patíbulo que ele tinha preparado para Mardoqueu.”",
     "meditatio_perguntas": [
-      "Por quem intercedo diante de Deus?",
-      "Tenho coragem de nomear o mal quando é preciso?",
-      "Que “nova luz” Deus já fez nascer na minha vida?"
+      "Intercedo não só por mim, mas pelo meu povo?",
+      "Sei esperar o momento certo para falar?",
+      "Deixo a Deus a justiça contra quem me faz mal?"
     ],
-    "oratio_guia": "Senhor, por intercessão de Maria, Rainha, concede-nos a vida e a salvação do teu povo. Que o mal caia nas suas próprias armadilhas e que nasça para nós uma nova luz. Amém.",
+    "oratio_guia": "Senhor, Rei dos reis, concede-me a vida e a do teu povo. Dá-me a coragem e a prudência de Ester, e que, pela intercessão de Maria, nos livres de todo o inimigo. Amém.",
     "contemplatio_foco": {
-      "texto": "concede-me a minha vida, pela qual te rogo, e do meu povo, pelo qual intercedo.",
+      "texto": "concede-me a minha vida, pela qual te rogo, e do meu povo, pelo qual intercedo",
       "ref": "Est 7,3"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "7:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cobrir o rosto: sinal de condenação à morte.",
+        "origem": "ia"
+      }
+    },
+    "7:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Sl 7,16; Pr 26,27.",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }
