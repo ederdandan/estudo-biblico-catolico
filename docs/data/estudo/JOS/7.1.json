@@ -1,0 +1,57 @@
+{
+  "id": "JOS.7.1",
+  "livro": "JOS",
+  "titulo": "O pecado de Acã",
+  "secao": "A conquista",
+  "referencia": "Js 7,1-26",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "O anátema no meio de ti: o pecado escondido de um só atinge todo o povo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Depois de Jericó, um pecado oculto: Acã, da tribo de Judá, tomou para si algo do que estava consagrado ao Senhor, e a ira de Deus se acende contra Israel. Josué envia homens a Hai; confiantes, aconselham que subam só dois ou três mil. Mas os de Hai os derrotam, matam trinta e seis, e “o coração do povo desmaiou”. Josué rasga as vestes e fica prostrado diante da arca até à tarde, com os anciãos, cinza sobre a cabeça: por que nos fizeste passar o Jordão? que farás tu ao teu grande nome? O Senhor responde: “Levanta-te; por que jazes tu prostrado por terra? Israel pecou”: tomaram do anátema, roubaram, mentiram, esconderam-no entre as bagagens. Não estarei convosco enquanto o anátema estiver no meio de vós. No dia seguinte, por sorteio, tribo a tribo, família a família, casa a casa, a sorte cai sobre Acã. Josué lhe diz com ternura: “Ó meu filho, dá glória ao Senhor Deus de Israel, e confessa-me.” Acã confessa: vi uma capa de escarlate, duzentos siclos de prata e uma barra de ouro, “cobicei, tirei, escondi”. Tudo é achado na sua tenda. Acã e tudo o que é seu são levados ao vale de Acor, apedrejados e queimados, e sobre ele se ergue um montão de pedras.",
+    "alegorico": "O pecado de Acã, que “perturba” Israel, mostra o mistério da solidariedade no mal, que tem o seu reverso na solidariedade em Cristo, o Justo que tomou sobre si o pecado de todos. O vale de Acor, “vale da perturbação”, será transformado por Deus em “porta de esperança” (Os 2,15): o lugar do castigo torna-se, em Cristo, lugar de reconciliação.",
+    "moral": "A sequência “vi, cobicei, tirei, escondi” descreve a anatomia de toda tentação, como em Eva (Gn 3,6) e em Davi. Nenhum pecado é puramente privado: enfraquece o corpo inteiro. A resposta de Deus à oração de Josué é um chamado à ação: não basta lamentar-se, é preciso arrancar o mal. E a confissão sincera “dá glória a Deus”.",
+    "anagogico": "Nada oculto deixará de ser revelado (Lc 12,2). No juízo, aquilo que escondemos “entre as bagagens” virá à luz; feliz quem o confessou antes, dando glória a Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Os filhos de Israel violaram o mandamento, a respeito do anátema.” “O coração do povo desmaiou.” “Levanta-te; por que jazes tu prostrado por terra?” “Israel pecou.” “Ó meu filho, dá glória ao Senhor Deus de Israel, e confessa-me.” “Vi… e, cobiçando, tirei, escondi.”",
+    "meditatio_perguntas": [
+      "O que estou escondendo “na minha tenda” que enfraquece a mim e aos outros?",
+      "Reconheço no meu coração a sequência “vi, cobicei, tomei, escondi”?",
+      "Tenho a coragem de confessar, dando glória a Deus?"
+    ],
+    "oratio_guia": "Senhor, que vês o que escondo, dá-me a graça de uma confissão sincera. Arranca de mim a cobiça e não permitas que o meu pecado perturbe os meus irmãos. Faz do vale de Acor uma porta de esperança. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ó meu filho, dá glória ao Senhor Deus de Israel, e confessa-me",
+      "ref": "Js 7,19"
+    }
+  },
+  "ancoras": {
+    "7:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O siclo pesava cerca de 11 g: a prata pesava uns 2,3 kg e a barra de ouro, cerca de 570 g. A “capa de Senaar” (hebraico) era um manto babilônico de luxo.",
+        "origem": "ia"
+      }
+    },
+    "7:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Acor significa “perturbação”; o texto joga com o nome de Acã (em 1Cr 2,7 chamado Acar, “o que perturba”).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

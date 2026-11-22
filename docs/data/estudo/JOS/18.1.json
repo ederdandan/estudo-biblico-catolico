@@ -1,0 +1,49 @@
+{
+  "id": "JOS.18.1",
+  "livro": "JOS",
+  "titulo": "O tabernáculo em Silo e a herança de Benjamim",
+  "secao": "A partilha da terra",
+  "referencia": "Js 18,1-28",
+  "ini": {
+    "c": 18,
+    "v": 1
+  },
+  "fim": {
+    "c": 18,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "Até quando sereis negligentes? O tabernáculo em Silo e a sorte de Benjamim",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Toda a assembleia se reúne em Silo, e ali se ergue a tenda da reunião; a terra está submetida. Mas sete tribos ainda não receberam a sua parte. Josué as repreende: “Até quando vos consumirá o ócio, até quando sereis negligentes em tomar posse da terra?” Manda escolher três homens por tribo para percorrerem o país e descrevê-lo em sete partes; Judá fica ao sul, a casa de José ao norte, Levi não tem parte porque o sacerdócio do Senhor é a sua herança. Os homens percorrem a terra, descrevem-na num livro e voltam a Silo. Josué lança as sortes “diante do Senhor”. A primeira cai a Benjamim, entre Judá e José. Suas fronteiras: do Jordão, ao norte de Jericó, para o deserto de Betaven, Luza (Betel), Atarot-Adar, até Cariatiarim; ao sul, pela fonte de Neftoa e pelo vale de Enom, ao sul do Jebuseu, até a pedra de Boen e a foz do Jordão. Segue a lista das cidades: Jericó, Betel, Gabaon, Ramá, Masfa, o Jebuseu, isto é, Jerusalém, e outras.",
+    "alegorico": "Silo, onde a tenda repousa no centro da terra repartida, é imagem de Cristo no meio da Igreja: é a partir da presença de Deus que cada um recebe a sua parte. A terra descrita “num livro” e repartida por sorte diante do Senhor lembra que a herança dos santos está escrita no livro da vida.",
+    "moral": "O perigo depois das grandes vitórias é a acomodação: as sete tribos já não lutam, mas também não tomam posse. A preguiça espiritual impede de receber o que Deus já deu. Josué não faz por elas: manda-as percorrer e descrever a terra. Cada um precisa conhecer e assumir a sua herança.",
+    "anagogico": "A tenda em Silo é ainda provisória; a morada definitiva de Deus com os homens será a Jerusalém celeste, onde cada um terá o seu lugar preparado (Jo 14,2)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Todos os filhos de Israel se juntaram em Silo, e levantaram ali o tabernáculo da reunião.” “Até quando vos consumirá o ócio?” “Os Levitas não têm entre vós parte alguma, mas a sua herança é o sacerdócio do Senhor.” “Ele lançou as sortes diante do Senhor, em Silo.”",
+    "meditatio_perguntas": [
+      "Em que área da minha vida estou negligente em tomar posse do que Deus me deu?",
+      "A minha vida está organizada em torno da presença de Deus?",
+      "Conheço a “herança” que recebi: os meus dons e a minha vocação?"
+    ],
+    "oratio_guia": "Senhor, sacode a minha preguiça e ensina-me a tomar posse dos dons que me deste. Que a tua presença esteja no centro de tudo, e que eu receba de ti a minha parte. Amém.",
+    "contemplatio_foco": {
+      "texto": "Até quando vos consumirá o ócio, até quando sereis negligentes",
+      "ref": "Js 18,3"
+    }
+  },
+  "ancoras": {
+    "18:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Silo (Khirbet Seilun), na montanha de Efraim, será o principal santuário de Israel até o tempo de Eli e Samuel (1Sm 1–4).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

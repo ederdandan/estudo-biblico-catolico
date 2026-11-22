@@ -1,0 +1,33 @@
+# Divisão em perícopes (numeração Matos Soares / Vulgata). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## A entrada na terra
+1:1-1:18 | Sê forte e corajoso: a missão de Josué
+2:1-2:24 | Raab e os espiões em Jericó
+3:1-3:17 | A arca abre caminho no Jordão
+4:1-4:25 | As doze pedras do memorial
+5:1-5:12 | A circuncisão em Galgala e a Páscoa na terra
+5:13-5:16 | O príncipe do exército do Senhor
+6:1-6:27 | Os muros de Jericó
+## A conquista
+7:1-7:26 | O pecado de Acã
+8:1-8:29 | A tomada de Hai
+8:30-8:35 | O altar do monte Ebal e a leitura da Lei
+9:1-9:27 | O ardil dos gabaonitas
+10:1-10:27 | Sol, não te movas de sobre Gabaon
+10:28-10:43 | A conquista do sul
+11:1-11:23 | A vitória de Merom e a conquista do norte
+12:1-12:24 | Os reis vencidos
+## A partilha da terra
+13:1-13:33 | A terra que resta e a herança da Transjordânia
+14:1-14:15 | Caleb recebe Hebron
+15:1-15:63 | A herança de Judá; Axa pede as fontes
+16:1-17:18 | A herança dos filhos de José
+18:1-18:28 | O tabernáculo em Silo e a herança de Benjamim
+19:1-19:51 | As outras tribos e a herança de Josué
+20:1-20:9 | As cidades de refúgio
+21:1-21:43 | As cidades dos levitas; nenhuma promessa falhou
+## Testamento de Josué
+22:1-22:34 | O altar do testemunho junto ao Jordão
+23:1-23:16 | O discurso de despedida de Josué
+24:1-24:28 | Eu e minha casa serviremos ao Senhor: a aliança de Siquém
+24:29-24:33 | A morte de Josué

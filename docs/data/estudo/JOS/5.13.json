@@ -1,0 +1,49 @@
+{
+  "id": "JOS.5.13",
+  "livro": "JOS",
+  "titulo": "O príncipe do exército do Senhor",
+  "secao": "A entrada na terra",
+  "referencia": "Js 5,13-16",
+  "ini": {
+    "c": 5,
+    "v": 13
+  },
+  "fim": {
+    "c": 5,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "Tira o calçado: Josué diante do príncipe do exército do Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Perto de Jericó, Josué levanta os olhos e vê diante de si um homem de pé, com uma espada desembainhada. Aproxima-se e pergunta, como faria qualquer chefe militar: “Tu és dos nossos ou dos inimigos?” A resposta desloca a pergunta: “Não; sou o príncipe do exército do Senhor, que agora venho.” Josué cai com o rosto por terra, prostra-se e diz: “Que diz o meu Senhor ao seu servo?” A ordem que recebe é a mesma que Moisés ouviu na sarça ardente: “Tira o calçado de teus pés, porque o lugar, em que estás, é santo.” E Josué obedece. A cena, brevíssima, é o limiar da conquista: antes de Jericó, Josué é lembrado de que não é ele o verdadeiro comandante.",
+    "alegorico": "Muitos Padres viram no príncipe do exército do Senhor uma manifestação do Verbo antes da Encarnação, a quem Josué adora; outros, o arcanjo Miguel, chefe das milícias celestes. Em ambos os casos, a guerra de Israel é sinal do combate espiritual de Cristo e da Igreja contra o mal. A cena paralela da sarça une as duas vocações: Moisés tira o povo do Egito, Josué o introduz na terra.",
+    "moral": "“És dos nossos ou dos inimigos?”: queremos um Deus do nosso lado; a resposta de Deus é que nós devemos estar do lado dele. A adoração precede o combate. Tirar o calçado é deixar a autossuficiência e reconhecer que pisamos terra santa quando Deus se manifesta.",
+    "anagogico": "O príncipe com a espada desembainhada anuncia a vitória final do Senhor dos exércitos sobre todo mal (Ap 19,11-16). Diante dele, só os que se prostram e perguntam “que diz o meu Senhor?” estarão do lado vencedor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Tu és dos nossos ou dos inimigos?” “Não; sou o príncipe do exército do Senhor.” “Josué caiu com o rosto por terra.” “Que diz o meu Senhor ao seu servo?” “Tira o calçado de teus pés, porque o lugar, em que estás, é santo.”",
+    "meditatio_perguntas": [
+      "Quero que Deus esteja do meu lado, ou procuro estar do lado de Deus?",
+      "Adoro antes de agir?",
+      "Onde preciso “tirar o calçado” para reconhecer a presença de Deus?"
+    ],
+    "oratio_guia": "Senhor dos exércitos, diante de ti me prostro. Não quero usar-te para as minhas batalhas, mas servir-te nas tuas. Que diz o meu Senhor ao seu servo? Fala, que eu escuto. Amém.",
+    "contemplatio_foco": {
+      "texto": "Que diz o meu Senhor ao seu servo?",
+      "ref": "Js 5,15"
+    }
+  },
+  "ancoras": {
+    "5:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A ordem repete literalmente Ex 3,5; a Vulgata numera aqui 16 versículos (a cena termina em 5,16, que no hebraico é 5,15).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "JOS.14.1",
+  "livro": "JOS",
+  "titulo": "Caleb recebe Hebron",
+  "secao": "A partilha da terra",
+  "referencia": "Js 14,1-15",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "Dá-me este monte: a fé intacta de Caleb aos oitenta e cinco anos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Começa a partilha de Canaã: o sacerdote Eleázaro, Josué e os chefes das famílias distribuem a terra por sorte às nove tribos e meia, como o Senhor ordenara por Moisés; os levitas recebem só cidades para habitar. Em Galgala, os filhos de Judá se apresentam, e Caleb, filho de Jefone, o cenezeu, toma a palavra. Recorda a Josué o episódio de Cades Barne: tinha quarenta anos quando Moisés o enviou a explorar a terra, e ele referiu o que lhe parecia verdade, enquanto os irmãos fizeram desanimar o povo; “não obstante isto, segui o Senhor meu Deus”. Moisés então lhe jurou: a terra que o teu pé pisou será tua. Passaram quarenta e cinco anos; Caleb tem oitenta e cinco e diz-se tão robusto como então, para combater e para andar. E pede: “Dá-me, pois, este monte, que o Senhor me prometeu”, onde ainda há enacins e cidades fortificadas; se o Senhor estiver comigo, os exterminarei. Josué o abençoa e lhe dá Hebron, que pertence a Caleb “até ao dia de hoje, por ter seguido o Senhor Deus de Israel”. Hebron chamava-se antes Cariat-Arbe, de Arbe, o maior dos enacins. E a terra repousou das guerras.",
+    "alegorico": "Caleb, cujo nome se aproxima de “coração” (kol-leb, “todo coração”), é figura do fiel que segue o Senhor por inteiro e recebe por herança a montanha. Hebron, onde estão sepultados os patriarcas, é a terra da promessa original: a fidelidade a Cristo leva à comunhão com os pais na fé.",
+    "moral": "O que chama a atenção é a juventude interior de Caleb: aos 85 anos não pede descanso, mas a parte mais difícil, a montanha dos gigantes. A fidelidade de quarenta e cinco anos não envelheceu a sua fé. Ele também sabe lembrar a promessa de Deus e reclamá-la com santa ousadia.",
+    "anagogico": "A promessa de Deus pode tardar, mas não falha. A herança de Caleb, guardada durante décadas, anuncia a herança eterna reservada no céu para os que seguem o Senhor até o fim (1Pd 1,4)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu referi-lhe o que me parecia verdade.” “Não obstante isto, segui o Senhor meu Deus.” “O vigor, que eu tinha então, dura em mim até hoje.” “Dá-me, pois, este monte, que o Senhor me prometeu.” “Por ter seguido o Senhor Deus de Israel.”",
+    "meditatio_perguntas": [
+      "Sigo o Senhor por inteiro, mesmo quando os outros desanimam?",
+      "A minha fé envelhece com a idade, ou se renova?",
+      "Que promessa de Deus ainda espero e posso reclamar com confiança?"
+    ],
+    "oratio_guia": "Senhor, dá-me um coração inteiro como o de Caleb, que te segue sem medo. Renova a minha juventude interior e concede-me não fugir das montanhas difíceis que me reservaste. Amém.",
+    "contemplatio_foco": {
+      "texto": "Dá-me, pois, este monte, que o Senhor me prometeu",
+      "ref": "Js 14,12"
+    }
+  },
+  "ancoras": {
+    "14:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cenezeu: Caleb pertencia a um clã de origem edomita integrado em Judá; a sua fidelidade mostra que a pertença a Israel é antes de tudo questão de fé.",
+        "origem": "ia"
+      }
+    },
+    "14:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cariat-Arbe significa “cidade de Arba” ou “cidade dos quatro”. Ali estava a gruta de Macpela, sepulcro de Abraão e Sara.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

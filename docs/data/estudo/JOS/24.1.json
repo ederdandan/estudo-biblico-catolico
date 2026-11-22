@@ -1,0 +1,57 @@
+{
+  "id": "JOS.24.1",
+  "livro": "JOS",
+  "titulo": "Eu e minha casa serviremos ao Senhor: a aliança de Siquém",
+  "secao": "Testamento de Josué",
+  "referencia": "Js 24,1-28",
+  "ini": {
+    "c": 24,
+    "v": 1
+  },
+  "fim": {
+    "c": 24,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "Escolhei hoje a quem servir: eu e minha casa serviremos ao Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Josué reúne todas as tribos em Siquém, diante do Senhor. Fala em nome de Deus e recita a história da salvação: vossos pais, Taré, pai de Abraão, serviam a outros deuses além do rio; eu tomei Abraão, dei-lhe Isaac, a Isaac dei Jacó e Esaú; enviei Moisés e Aarão, feri o Egito, fiz-vos passar o mar; destruí os amorreus; transformei em bênção a maldição de Balaão; passastes o Jordão e vos entreguei Jericó; mandei vespas adiante de vós: “Não foi a tua espada, não foi o teu arco.” Dei-vos uma terra que não lavrastes, cidades que não edificastes, vinhas e olivais que não plantastes. Agora, temei o Senhor e servi-o com sinceridade; tirai os deuses de vossos pais. E se vos parece mal, escolhei hoje a quem quereis servir, “que eu e minha casa havemos de servir ao Senhor”. O povo responde: longe de nós abandonar o Senhor; ele nos tirou do Egito. Josué provoca: “Vós não podereis servir ao Senhor, porque ele é um Deus santo, fortemente zeloso.” O povo insiste: serviremos ao Senhor. Sois testemunhas contra vós mesmos? Somos testemunhas. Josué renova a aliança, dá leis em Siquém, escreve as palavras no livro da lei e ergue uma grande pedra sob o carvalho do santuário: ela ouviu tudo e será testemunha.",
+    "alegorico": "A assembleia de Siquém, onde o povo escolhe livremente o Senhor depois de ouvir a história da salvação, é modelo da renovação das promessas batismais: renuncio aos ídolos, creio, sirvo. A pedra-testemunha lembra Cristo, pedra angular, e a Palavra escrita que permanece. Siquém é também o lugar onde Jesus falará com a samaritana sobre a verdadeira adoração (Jo 4,5).",
+    "moral": "A fé não se herda automaticamente; cada geração e cada família precisa escolher. Josué dá testemunho pessoal e familiar antes de pedir a decisão dos outros. E a sua provocação, “vós não podereis servir”, desmascara o entusiasmo fácil: servir a Deus exige tirar os ídolos concretos. Tudo começa com a gratidão: recebemos o que não plantamos.",
+    "anagogico": "A escolha feita “hoje” decide o destino. A aliança renovada em Siquém antecipa a aliança eterna, quando o povo dirá definitivamente: o Senhor é o nosso Deus, e ele habitará no meio de nós."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu tirei pois vosso pai Abraão dos confins da Mesopotâmia.” “Não foi a tua espada, não foi o teu arco.” “Dei-vos uma terra que não lavrastes.” “Escolhei hoje o que vos agrada.” “Eu e minha casa havemos de servir ao Senhor.” “Ele é um Deus santo, fortemente zeloso.” “Nós serviremos ao Senhor nosso Deus.”",
+    "meditatio_perguntas": [
+      "Que “terra que não lavrei” recebi de Deus e dos que vieram antes de mim?",
+      "Já escolhi pessoalmente, e com a minha casa, servir ao Senhor?",
+      "Que deuses dos meus “pais” ainda preciso tirar do meu meio?"
+    ],
+    "oratio_guia": "Senhor, que me deste o que não plantei, eu te escolho hoje. Arranca os ídolos do meu coração e da minha casa. Eu e a minha casa serviremos ao Senhor, porque tu és o nosso Deus. Amém.",
+    "contemplatio_foco": {
+      "texto": "eu e minha casa havemos de servir ao Senhor",
+      "ref": "Js 24,15"
+    }
+  },
+  "ancoras": {
+    "24:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “rio” é o Eufrates. É raro que a Bíblia reconheça tão claramente a idolatria dos antepassados de Abraão.",
+        "origem": "ia"
+      }
+    },
+    "24:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O carvalho de Siquém é o mesmo junto ao qual Abraão ergueu o primeiro altar em Canaã (Gn 12,6-7) e Jacó enterrou os ídolos da sua casa (Gn 35,4).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

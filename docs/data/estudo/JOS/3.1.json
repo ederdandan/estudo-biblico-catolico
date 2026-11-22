@@ -1,0 +1,57 @@
+{
+  "id": "JOS.3.1",
+  "livro": "JOS",
+  "titulo": "A arca abre caminho no Jordão",
+  "secao": "A entrada na terra",
+  "referencia": "Js 3,1-17",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "Santificai-vos, porque amanhã o Senhor fará maravilhas: a arca à frente do povo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Josué levanta o acampamento de Setim e chega ao Jordão. Três dias depois, os pregoeiros anunciam: quando virdes a arca da aliança levada pelos sacerdotes, segui-a, mas a dois mil côvados de distância, para poderdes vê-la e conhecer o caminho, “porque não andastes antes por ele”. Josué ordena ao povo: “Santificai-vos, porque amanhã o Senhor fará entre vós maravilhas.” Deus promete exaltar Josué diante de Israel, como fez com Moisés. A arca do Senhor de toda a terra irá à frente; doze homens, um de cada tribo, são escolhidos. O sinal é anunciado: quando os pés dos sacerdotes tocarem a água, as águas de cima pararão. E assim acontece. Era o tempo da ceifa, e o rio transbordava; mal os pés dos sacerdotes se molham, as águas de cima se detêm como um monte, longe, junto à cidade de Adom, e as de baixo correm para o Mar Morto até se esgotarem. Os sacerdotes ficam de pé, em terra seca, no meio do leito, enquanto todo o povo passa a pé enxuto, diante de Jericó.",
+    "alegorico": "A arca à frente do povo é Cristo, que entra primeiro nas águas e abre o caminho. A passagem do Jordão é figura do Batismo, que o próprio Senhor quis receber nesse rio: as águas que se detêm diante da arca anunciam o pecado e a morte vencidos por ele. A distância respeitosa diante da arca ensina a santidade de Deus, que, no entanto, caminha à frente para ser visto e seguido.",
+    "moral": "“Não andastes antes por este caminho”: diante do desconhecido, o crente não precisa conhecer o trajeto, mas não perder de vista a arca. Os sacerdotes precisaram molhar os pés antes de ver o milagre: a fé dá o primeiro passo na água. E toda grande obra de Deus pede preparação do coração: santificai-vos.",
+    "anagogico": "O povo que atravessa o rio para entrar na terra prometida é imagem da passagem pela morte para a vida eterna. Quem segue Cristo, que permanece no meio do rio até que todos passem, atravessará a pé enxuto."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Logo que virdes a arca da aliança… ide atrás dela.” “Porque não andastes antes por ele.” “Santificai-vos, porque amanhã o Senhor fará entre vós maravilhas.” “Assim como fui com Moisés, assim sou contigo.” “Todo o povo ia passando pelo leito do rio, a pé enxuto.”",
+    "meditatio_perguntas": [
+      "Em que caminho novo preciso não perder de vista a “arca”?",
+      "Que passo de fé preciso dar antes de ver a água se abrir?",
+      "Como me preparo, me “santifico”, para as maravilhas que Deus quer fazer?"
+    ],
+    "oratio_guia": "Senhor, que vais à frente do teu povo, ensina-me a seguir-te por caminhos que não conheço. Dá-me a coragem de pôr os pés na água e santifica-me para as tuas maravilhas. Amém.",
+    "contemplatio_foco": {
+      "texto": "Santificai-vos, porque amanhã o Senhor fará entre vós maravilhas",
+      "ref": "Js 3,5"
+    }
+  },
+  "ancoras": {
+    "3:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Dois mil côvados equivalem a cerca de 900 metros; a medida serviu depois para definir o “caminho de um sábado” (At 1,12).",
+        "origem": "ia"
+      }
+    },
+    "3:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Adom (Adam) fica a uns 25 km ao norte de Jericó. Há registros de deslizamentos de barrancos nessa região que represaram o Jordão por horas (ex.: 1927).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

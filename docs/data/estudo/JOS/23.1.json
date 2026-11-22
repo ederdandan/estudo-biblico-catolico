@@ -1,0 +1,49 @@
+{
+  "id": "JOS.23.1",
+  "livro": "JOS",
+  "titulo": "O discurso de despedida de Josué",
+  "secao": "Testamento de Josué",
+  "referencia": "Js 23,1-16",
+  "ini": {
+    "c": 23,
+    "v": 1
+  },
+  "fim": {
+    "c": 23,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "Tende grandíssimo cuidado em amar o Senhor: o testamento de Josué",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Muito tempo depois, já velho, Josué convoca todo Israel, anciãos, chefes, juízes e oficiais. Recorda: vistes o que o Senhor fez às nações; ele mesmo combateu por vós. Reparti a terra, e o Senhor expulsará as nações que restam. Mas uma coisa é necessária: sede fortes para observar tudo o que está escrito no livro da lei de Moisés, sem desviar para a direita ou para a esquerda. Não vos mistureis com esses povos, não jureis pelos seus deuses, não os sirvais; permanecei unidos ao Senhor, como até hoje. Um só de vós porá em fuga mil, porque o Senhor combate por vós. E o centro de tudo: “Sòmente tende grandíssimo cuidado em amar o Senhor vosso Deus.” Se, porém, vos unirdes a esses povos, casando e fazendo amizade com eles, eles serão para vós uma cova e um laço, um aguilhão nos flancos e espinhos nos olhos, até que pereçais desta terra. “Eis que hoje entro no caminho de toda a terra”: reconhecei que nenhuma das promessas do Senhor falhou; mas, assim como cumpriu as boas, cumprirá as ameaças se violardes a aliança e servirdes a outros deuses.",
+    "alegorico": "O discurso de despedida de Josué antecipa o de Jesus na Última Ceia: o chefe que vai partir resume tudo no amor e na permanência. “Permanecei unidos ao Senhor” ecoa em “permanecei em mim” (Jo 15,4). A advertência contra a mistura com os ídolos se torna, no Novo Testamento, apelo a não se conformar com este mundo (Rm 12,2).",
+    "moral": "O testamento de Josué aponta o essencial: tudo depende de amar a Deus, e isto exige vigilância (“grandíssimo cuidado”). O amor a Deus não se conserva sozinho; precisa ser guardado das alianças que lentamente afastam. Os laços e espinhos não vêm de inimigos declarados, mas de concessões aparentemente inofensivas.",
+    "anagogico": "“Hoje entro no caminho de toda a terra”: o justo encara a morte com serenidade, porque viu a fidelidade de Deus. Quem amou o Senhor até o fim entra no repouso que Josué não pôde dar."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vós vedes tudo o que o Senhor vosso Deus fez.” “Permanecei unidos ao Senhor vosso Deus.” “Um só de vós porá em fuga mil homens.” “Sòmente tende grandíssimo cuidado em amar o Senhor vosso Deus.” “Eis que hoje entro no caminho de toda a terra.”",
+    "meditatio_perguntas": [
+      "Cuido do meu amor a Deus com vigilância, ou o dou por garantido?",
+      "Que alianças ou costumes se estão tornando “laços e espinhos” para mim?",
+      "Com que serenidade penso no dia em que entrarei “no caminho de toda a terra”?"
+    ],
+    "oratio_guia": "Senhor, que eu tenha grandíssimo cuidado em amar-te. Guarda-me unido a ti, livra-me das concessões que me afastam e dá-me, no fim da vida, a serenidade de quem viu a tua fidelidade. Amém.",
+    "contemplatio_foco": {
+      "texto": "Sòmente tende grandíssimo cuidado em amar o Senhor vosso Deus",
+      "ref": "Js 23,11"
+    }
+  },
+  "ancoras": {
+    "23:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Caminho de toda a terra”: expressão para a morte, repetida por Davi no seu testamento (1Rs 2,2).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

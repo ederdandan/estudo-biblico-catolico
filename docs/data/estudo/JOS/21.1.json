@@ -1,0 +1,57 @@
+{
+  "id": "JOS.21.1",
+  "livro": "JOS",
+  "titulo": "As cidades dos levitas; nenhuma promessa falhou",
+  "secao": "A partilha da terra",
+  "referencia": "Js 21,1-43",
+  "ini": {
+    "c": 21,
+    "v": 1
+  },
+  "fim": {
+    "c": 21,
+    "v": 43
+  },
+  "liturgia": {
+    "tema_central": "Nem uma só palavra ficou sem efeito: as cidades levíticas e o cumprimento das promessas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os chefes dos levitas vão a Silo e lembram a Eleázaro e a Josué a ordem de Moisés: cidades para habitar e pastagens para os seus animais. Os filhos de Israel lhes dão, das suas próprias heranças, cidades com os seus arrabaldes, por sorte. Os filhos de Aarão, os sacerdotes, recebem treze cidades em Judá, Simeão e Benjamim, entre elas Hebron e Anatot; os outros caatitas, dez em Efraim, Dan e Manassés; os gersonitas, treze no norte; os meraritas, doze em Rúben, Gad e Zabulon. Ao todo, quarenta e oito cidades espalhadas no meio de todas as tribos. O capítulo termina com uma confissão solene que fecha a primeira parte do livro: o Senhor deu a Israel toda a terra que jurara aos pais; deu-lhes paz com todas as nações ao redor; nenhum inimigo lhes resistiu. “Nem uma só palavra do que tinha prometido dar-lhes ficou sem efeito, mas tudo se cumpriu.”",
+    "alegorico": "Os levitas espalhados por todas as tribos são figura do sacerdócio cristão, presente no meio do povo para que em toda parte haja quem ensine a Lei e sirva a Deus. A promessa cumprida “sem faltar uma palavra” anuncia Cristo, em quem todas as promessas de Deus são “sim” (2Cor 1,20).",
+    "moral": "Cada tribo dá algo da própria herança para que os servos de Deus tenham onde viver: sustentar o culto e os ministros é responsabilidade de todos. E a declaração final é um convite à memória agradecida: olhar para trás e reconhecer que Deus cumpriu.",
+    "anagogico": "A paz e o repouso da terra são apenas um começo; Hebreus lembra que “se Josué lhes tivesse dado o repouso, não se falaria depois de outro dia” (Hb 4,8). O cumprimento total das promessas ainda nos espera."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor ordenou, por meio de Moisés, que nos fossem dadas cidades.” “E os filhos de Israel deram das suas possessões cidades.” “O Senhor Deus deu a Israel toda a terra que tinha prometido.” “Nem uma só palavra do que tinha prometido dar-lhes ficou sem efeito, mas tudo se cumpriu.”",
+    "meditatio_perguntas": [
+      "Que promessas de Deus já vi cumpridas na minha vida?",
+      "Dou algo do que é meu para que Deus seja servido no meio do povo?",
+      "Confio que as promessas ainda não cumpridas também se cumprirão?"
+    ],
+    "oratio_guia": "Senhor fiel, nenhuma das tuas palavras cai por terra. Obrigado por tudo o que já cumpriste em minha vida; dá-me esperar com confiança o que ainda prometes, e generosidade para sustentar o teu serviço. Amém.",
+    "contemplatio_foco": {
+      "texto": "Nem uma só palavra do que tinha prometido dar-lhes ficou sem efeito, mas tudo se cumpriu",
+      "ref": "Js 21,43"
+    }
+  },
+  "ancoras": {
+    "21:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Anatot, cidade sacerdotal de Benjamim, será a pátria de Jeremias (Jr 1,1).",
+        "origem": "ia"
+      }
+    },
+    "21:41": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os vv. 41-43 da Vulgata correspondem a 21,43-45 do hebraico, cuja numeração é dois versículos maior neste capítulo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

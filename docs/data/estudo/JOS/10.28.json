@@ -1,0 +1,49 @@
+{
+  "id": "JOS.10.28",
+  "livro": "JOS",
+  "titulo": "A conquista do sul",
+  "secao": "A conquista",
+  "referencia": "Js 10,28-43",
+  "ini": {
+    "c": 10,
+    "v": 28
+  },
+  "fim": {
+    "c": 10,
+    "v": 43
+  },
+  "liturgia": {
+    "tema_central": "O Senhor Deus de Israel combateu por ele: a campanha do sul",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No mesmo dia Josué toma Maceda; depois, numa sequência de frases quase idênticas, passa a Lebna, Laquis, Eglon, Hebron e Dabir. De cada cidade se diz que o Senhor a entregou nas mãos de Israel e que foi passada ao fio da espada, sem deixar ninguém, “como tinha feito” à anterior. Horão, rei de Gazer, que sobe em socorro de Laquis, também é derrotado. O resumo abrange todo o sul: as montanhas, o Negueb, a Sefelá e as encostas, de Cades Barne até Gaza, de Gosen até Gabaon. Todos esses reis e terras Josué tomou numa só campanha, “porque o Senhor Deus de Israel combateu por ele”. E voltou com todo o Israel para Galgala.",
+    "alegorico": "A conquista sistemática, cidade após cidade, foi lida espiritualmente por Orígenes como a luta da alma que, guiada por Jesus, vai expulsando um por um os vícios que ocupavam o seu território, até que Cristo reine inteiramente nela.",
+    "moral": "O texto repetitivo e duro reflete a mentalidade guerreira do seu tempo; não é um modelo para os nossos combates contra pessoas. O que permanece é a lição espiritual: o pecado não se tolera pela metade, e a conversão alcança todos os setores da vida. E a fonte da vitória é sempre a mesma: o Senhor combate por nós.",
+    "anagogico": "A volta a Galgala, o santuário de onde partiram, lembra que toda a luta termina no repouso junto a Deus. O combate é passageiro; o descanso na terra prometida é a meta."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor entregou-a com o seu rei nas mãos de Israel.” “Como tinha feito a Lebna.” “Os tomou e devastou duma só expedição.” “Porque o Senhor Deus de Israel combateu por ele.” “Voltou com todo o Israel para o lugar onde estava o acampamento em Galgala.”",
+    "meditatio_perguntas": [
+      "Que “territórios” da minha vida ainda resistem à graça?",
+      "Combato os meus vícios de modo perseverante, um por um?",
+      "Atribuo a Deus as minhas vitórias interiores?"
+    ],
+    "oratio_guia": "Senhor, combate por mim nas lutas da minha alma. Reina em todo o meu território, sem que nada fique fora do teu domínio, e reconduz-me sempre ao teu altar. Amém.",
+    "contemplatio_foco": {
+      "texto": "o Senhor Deus de Israel combateu por ele",
+      "ref": "Js 10,42"
+    }
+  },
+  "ancoras": {
+    "10:40": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A arqueologia mostra que a ocupação de Canaã foi mais longa e gradual do que este resumo sugere; o próprio livro reconhece que muitas cidades ficaram por conquistar (13,1-6; 15,63; Jz 1).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

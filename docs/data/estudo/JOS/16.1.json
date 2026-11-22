@@ -1,0 +1,57 @@
+{
+  "id": "JOS.16.1",
+  "livro": "JOS",
+  "titulo": "A herança dos filhos de José",
+  "secao": "A partilha da terra",
+  "referencia": "Js 16,1–17,18",
+  "ini": {
+    "c": 16,
+    "v": 1
+  },
+  "fim": {
+    "c": 17,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "És um povo numeroso: corta para ti espaço na floresta",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A sorte dos filhos de José, Efraim e Manassés, ocupa o centro do país. As fronteiras de Efraim vão do Jordão, perto de Jericó, por Betel e Bet-horon até Gazer e o mar. Mas Efraim não expulsa os cananeus de Gazer, que ficam como tributários. Manassés, primogênito de José, recebe Galaad e Basan do outro lado do Jordão (para Maquir) e terras a ocidente para os outros clãs. As filhas de Salfaad, que não tinha filhos varões, lembram a Eleázaro e Josué a ordem de Moisés e recebem herança entre os irmãos. Manassés também não consegue tomar Betsan, Dor, Endor, Tanac e Megido; quando Israel se fortalece, torna os cananeus tributários, mas não os expulsa. Por fim, os filhos de José reclamam: por que só uma parte, se somos tão numerosos? Josué responde com ironia e desafio: se és tão numeroso, sobe à floresta e desmata para ti um espaço. Eles retrucam que a montanha não basta e os cananeus da planície têm carros de ferro. Josué insiste: és muito numeroso e forte; a montanha será tua, cortarás a floresta e expulsarás o cananeu, apesar dos seus carros de ferro.",
+    "alegorico": "As filhas de Salfaad, que recebem herança como os irmãos, anunciam a igualdade dos filhos de Deus na herança da graça, onde “não há homem nem mulher” (Gl 3,28). Os carros de ferro que assustam a casa de José são as forças que parecem invencíveis, mas que cedem diante de quem confia.",
+    "moral": "Os filhos de José querem mais terra sem esforço; Josué lhes devolve a responsabilidade: a herança se conquista com trabalho. Muitas vezes pedimos a Deus que faça o que ele nos deu força para fazer. E o refrão do capítulo, “não expulsaram”, mostra que a tolerância com o mal acaba por se tornar convivência.",
+    "anagogico": "A terra recebida precisa ser cultivada: a vida eterna é dom, mas pede a cooperação de quem “corta a floresta” e luta até o fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A parte que tocou em sorte aos filhos de José.” “Os filhos de Efraim não exterminaram o Cananeu.” “Por que me deste tu a posse de uma só herança?” “Sobe ao bosque e corta para ti espaço.” “Tu és um povo muito numeroso e de grande força.”",
+    "meditatio_perguntas": [
+      "Peço a Deus o que ele já me deu força para fazer?",
+      "Que “cananeus” tolero em mim por comodismo?",
+      "Que “carros de ferro” me fazem desistir da minha herança?"
+    ],
+    "oratio_guia": "Senhor, livra-me da preguiça que reclama mais sem querer trabalhar. Dá-me força para cortar a floresta e expulsar o mal que tolero, e confiança diante dos carros de ferro. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tu és um povo muito numeroso e de grande força, não terás só uma parte",
+      "ref": "Js 17,17"
+    }
+  },
+  "ancoras": {
+    "17:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O caso das filhas de Salfaad foi julgado por Moisés em Nm 27,1-11 e 36,1-12: na falta de filhos, as filhas herdam, desde que se casem dentro da tribo.",
+        "origem": "ia"
+      }
+    },
+    "17:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Megido, que controlava a passagem para a planície de Jezrael, será séculos depois a “Armagedon” do Apocalipse (Ap 16,16).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

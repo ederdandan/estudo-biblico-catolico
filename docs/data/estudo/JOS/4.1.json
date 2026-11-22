@@ -1,0 +1,49 @@
+{
+  "id": "JOS.4.1",
+  "livro": "JOS",
+  "titulo": "As doze pedras do memorial",
+  "secao": "A entrada na terra",
+  "referencia": "Js 4,1-25",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "Que significam estas pedras? O memorial que se transmite aos filhos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Depois da travessia, o Senhor manda que doze homens, um por tribo, tirem do meio do Jordão, do lugar onde os sacerdotes estiveram de pé, doze pedras e as levem ao acampamento. Elas serão um sinal: quando os filhos perguntarem “Que significam estas pedras?”, os pais contarão que as águas do Jordão desapareceram diante da arca. Josué ergue ainda outras doze pedras no próprio leito do rio. Os sacerdotes permanecem no meio do Jordão até que tudo se cumpra; o povo passa depressa; depois a arca. À frente marcham, armados, Rúben, Gad e a meia tribo de Manassés, uns quarenta mil combatentes. Naquele dia o Senhor engrandece Josué diante de Israel. Quando os sacerdotes saem do rio e pisam a terra seca, as águas voltam a correr. É o dia dez do primeiro mês, e o povo acampa em Galgala, a oriente de Jericó. Ali Josué ergue as doze pedras e repete a instrução aos pais: contai aos vossos filhos que o Senhor secou o Jordão como secou o Mar Vermelho, “para que todos os povos da terra reconheçam a mão poderosíssima do Senhor, e vós temais sempre o Senhor vosso Deus”.",
+    "alegorico": "As doze pedras tiradas do rio são imagem dos doze Apóstolos, colunas do novo Israel, e de todos os batizados, “pedras vivas” (1Pd 2,5) retiradas das águas para serem edificadas em memorial. O dia dez do primeiro mês é o dia em que se escolhia o cordeiro pascal (Ex 12,3): a entrada na terra se liga à Páscoa, que em Cristo se cumpre.",
+    "moral": "A fé se transmite pela memória: as famílias precisam de sinais visíveis que provoquem a pergunta dos filhos e a narração das obras de Deus. Esquecer o que Deus fez é o começo da infidelidade; lembrar é fonte de temor filial e de gratidão.",
+    "anagogico": "O memorial de pedras aponta para a Jerusalém celeste, com doze fundamentos e doze portas (Ap 21,12-14), onde a obra de Deus será recordada para sempre pelos que atravessaram as águas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Que significam estas pedras?” “As águas do Jordão desapareceram diante da arca da aliança do Senhor.” “Um memorial eterno dos filhos de Israel.” “Naquele dia o Senhor engrandeceu Josué.” “Para que todos os povos da terra reconheçam a mão poderosíssima do Senhor.”",
+    "meditatio_perguntas": [
+      "Quais são as “pedras” da minha história que recordam o que Deus fez por mim?",
+      "Conto aos mais novos as obras de Deus na minha vida?",
+      "A memória dos benefícios de Deus alimenta em mim o temor e a confiança?"
+    ],
+    "oratio_guia": "Senhor, que abres caminhos nas águas, não me deixes esquecer as tuas obras. Faz da minha vida uma pedra de memorial, para que os que vêm depois de mim reconheçam a tua mão poderosa. Amém.",
+    "contemplatio_foco": {
+      "texto": "para que todos os povos da terra reconheçam a mão poderosíssima do Senhor",
+      "ref": "Js 4,25"
+    }
+  },
+  "ancoras": {
+    "4:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Galgala (Gilgal) será por muito tempo o santuário e quartel-general de Israel; ali Saul será proclamado rei (1Sm 11,15).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

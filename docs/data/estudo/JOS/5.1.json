@@ -1,0 +1,57 @@
+{
+  "id": "JOS.5.1",
+  "livro": "JOS",
+  "titulo": "A circuncisão em Galgala e a Páscoa na terra",
+  "secao": "A entrada na terra",
+  "referencia": "Js 5,1-12",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "Hoje tirei de vós o opróbrio do Egito: circuncisão, Páscoa e fim do maná",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os reis amorreus e cananeus perdem o ânimo ao saber que o Jordão secou diante de Israel. Então o Senhor manda Josué fazer facas de pedra e circuncidar de novo os filhos de Israel. O texto explica: os homens que saíram do Egito eram circuncidados, mas morreram no deserto por não terem obedecido; os nascidos durante os quarenta anos de marcha não tinham recebido o sinal. Josué os circuncida no outeiro que por isso se chamou da Circuncisão, e o povo permanece no acampamento até sarar. O Senhor declara: “Hoje tirei de cima de vós o opróbrio do Egipto”, e o lugar recebe o nome de Galgala. Em seguida, no dia catorze do mês, à tarde, nas planícies de Jericó, os filhos de Israel celebram a Páscoa. No dia seguinte comem dos frutos da terra, pães ázimos e trigo tostado. E o maná cessa: desde então Israel não come mais o alimento do deserto, mas os frutos de Canaã.",
+    "alegorico": "A circuncisão feita com facas de pedra por Josué foi entendida pelos Padres como figura da “circuncisão do coração” (Rm 2,29) que Jesus realiza pelo Batismo, com a Pedra que é Cristo (Cl 2,11). A Páscoa celebrada na terra e o fim do maná anunciam a Eucaristia: o maná do deserto cede lugar ao pão da terra prometida, o verdadeiro Pão do céu (Jo 6,49-51).",
+    "moral": "Antes de conquistar, Israel precisa ser marcado como povo de Deus e celebrar o memorial da libertação: a identidade vem antes da ação. Ficar no acampamento até sarar, à vista do inimigo, é um ato de confiança. E Deus não sustenta para sempre com milagres o que pode ser fruto do trabalho: quando a terra dá fruto, o maná cessa.",
+    "anagogico": "O maná termina quando se chega à terra; assim também os sacramentos, alimento dos peregrinos, cederão lugar à visão face a face, quando já não houver deserto nem caminho."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Faze facas de pedra, e restabelece novamente a circuncisão.” “Hoje tirei de cima de vós o opróbrio do Egipto.” “Celebraram a Páscoa, no dia catorze do mês, pela tarde.” “Comeram dos frutos da terra.” “O maná cessou.”",
+    "meditatio_perguntas": [
+      "Que “opróbrio do Egito” Deus ainda precisa tirar de mim?",
+      "Deixo que a minha identidade de batizado venha antes das minhas obras?",
+      "Reconheço a passagem do maná ao fruto da terra na minha vida espiritual?"
+    ],
+    "oratio_guia": "Senhor, circuncida o meu coração e tira de mim o opróbrio da escravidão. Que eu celebre a tua Páscoa com gratidão e me alimente do Pão verdadeiro até chegar à tua terra. Amém.",
+    "contemplatio_foco": {
+      "texto": "Hoje tirei de cima de vós o opróbrio do Egipto",
+      "ref": "Js 5,9"
+    }
+  },
+  "ancoras": {
+    "5:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jogo de palavras: Gilgal soa como galal, “rolar, tirar rolando”.",
+        "origem": "ia"
+      }
+    },
+    "5:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O maná durou quarenta anos (Ex 16,35), desde o deserto de Sin até a entrada em Canaã.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

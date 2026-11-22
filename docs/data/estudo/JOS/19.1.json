@@ -1,0 +1,57 @@
+{
+  "id": "JOS.19.1",
+  "livro": "JOS",
+  "titulo": "As outras tribos e a herança de Josué",
+  "secao": "A partilha da terra",
+  "referencia": "Js 19,1-51",
+  "ini": {
+    "c": 19,
+    "v": 1
+  },
+  "fim": {
+    "c": 19,
+    "v": 51
+  },
+  "liturgia": {
+    "tema_central": "A sorte de cada tribo e a herança de Josué, o último a receber",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Prossegue o sorteio em Silo. A segunda sorte cai a Simeão, cuja herança fica dentro do território de Judá, porque a parte de Judá era grande demais: Bersabeia, Molada, Siceleg e outras cidades. A terceira a Zabulon, na baixa Galileia, com Sarid, Jafie e Belém de Zabulon. A quarta a Issacar, com Jezrael, Suném e o monte Tabor. A quinta a Aser, ao longo da costa, até Sidônia e Tiro. A sexta a Neftali, a nordeste, até o mar de Ceneret, com Cedes e Hasor. A sétima a Dan, entre Judá e a costa; mas os danitas, apertados, sobem para o norte, conquistam Lesem e lhe dão o nome de Dan. Quando a partilha termina, os filhos de Israel dão uma herança a Josué, conforme a ordem do Senhor: a cidade que ele pediu, Tamnat Saraa, na montanha de Efraim. Josué a reconstrói e habita nela. E o capítulo fecha: estas são as heranças distribuídas por sorte em Silo, diante do Senhor, à porta da tenda da reunião.",
+    "alegorico": "Josué recebe a sua parte por último, depois de todo o povo, como o bom pastor que não pensa em si antes de ter instalado o rebanho. É figura de Cristo, que, “sendo rico, se fez pobre por nós” e só depois de conduzir os seus à herança entra na sua glória.",
+    "moral": "O chefe que podia escolher primeiro espera até o fim e pede uma cidade pequena, que ainda precisa reconstruir. É o retrato do serviço desinteressado: a autoridade não serve para se servir. E a sorte de cada tribo, diversa e única, lembra que cada um recebe uma vocação própria, que não precisa invejar a dos outros.",
+    "anagogico": "Tudo é distribuído “diante do Senhor, à porta da tenda”: no céu, cada um receberá do próprio Deus o seu lugar, e o primeiro será o que serviu a todos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Caiu a segunda sorte aos filhos de Simeão.” “Tendo Josué acabado de repartir a terra.” “Deram a Josué, filho de Nun, por herança, no meio deles.” “Josué reedificou a cidade e habitou nela.” “Diante do Senhor, à porta do tabernáculo da reunião.”",
+    "meditatio_perguntas": [
+      "Procuro o primeiro lugar, ou espero que os outros sejam servidos?",
+      "Aceito com gratidão a “sorte” que Deus me deu, sem invejar a dos outros?",
+      "O meu serviço é desinteressado?"
+    ],
+    "oratio_guia": "Senhor Jesus, que te fizeste servo de todos, dá-me um coração como o de Josué, que espera os outros antes de pensar em si. Faz-me agradecido pela parte que me deste. Amém.",
+    "contemplatio_foco": {
+      "texto": "Josué reedificou a cidade e habitou nela",
+      "ref": "Js 19,50"
+    }
+  },
+  "ancoras": {
+    "19:47": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A migração de Dan para o norte é narrada em detalhe em Jz 18. Desde então se dirá “de Dan a Bersabeia” para indicar todo o país.",
+        "origem": "ia"
+      }
+    },
+    "19:50": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Tamnat Saraa (“porção que sobra”); em Jz 2,9 chama-se Tamnat Hares. Ali será sepultado Josué (24,30).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

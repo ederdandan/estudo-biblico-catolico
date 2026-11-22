@@ -1,0 +1,57 @@
+{
+  "id": "JOS.6.1",
+  "livro": "JOS",
+  "titulo": "Os muros de Jericó",
+  "secao": "A entrada na terra",
+  "referencia": "Js 6,1-27",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "Pela fé caíram os muros de Jericó",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jericó está fechada por medo de Israel. O Senhor dá a Josué uma estratégia estranha: durante seis dias, os homens de guerra darão uma volta à cidade, com sete sacerdotes tocando sete trombetas de jubileu diante da arca; no sétimo dia darão sete voltas, e ao som prolongado das trombetas todo o povo gritará, e os muros cairão. O povo deve marchar em silêncio, sem uma palavra, até ouvir a ordem de gritar. Assim se faz durante seis dias. No sétimo, de madrugada, dão sete voltas; à sétima, Josué diz: “Gritai, porque o Senhor vos entregou a cidade.” A cidade é declarada anátema, toda consagrada ao Senhor: nada se pode tomar para si; o ouro, a prata, o cobre e o ferro irão para o tesouro do Senhor. Só Raab e os seus serão poupados. O povo grita, os muros caem, e cada um sobe pelo lugar que tem defronte. A cidade é destruída. Os dois espiões tiram Raab, a família e tudo o que lhe pertence, e ela habita no meio de Israel “até ao dia de hoje”. Josué lança maldição sobre quem reedificar Jericó. E o Senhor estava com Josué, e o seu nome se espalhou por toda a terra.",
+    "alegorico": "Os Padres leram a queda de Jericó como a vitória de Cristo sobre o mundo: não pelas armas, mas pelo som das trombetas sacerdotais, isto é, pela pregação da Palavra (Orígenes). Os sete dias apontam para o tempo completo da história, ao fim do qual caem os muros do mal. Raab, salva na sua casa, é a Igreja das nações.",
+    "moral": "“Pela fé caíram os muros de Jericó, depois de rodeados durante sete dias” (Hb 11,30). A vitória vem de uma obediência paciente e aparentemente inútil: dar voltas em silêncio. Há muros que não caem pela força, mas pela perseverança e pelo silêncio orante. O anátema ensina que a vitória pertence a Deus e não deve ser apropriada.",
+    "anagogico": "As trombetas e o sétimo dia anunciam a trombeta final (1Cor 15,52; Ap 11,15), quando cairão os muros da cidade do mundo e só permanecerá de pé a casa daqueles que acolheram os enviados de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Olha que eu pus na tua mão Jericó.” “Não gritareis, nem se ouvirá a vossa voz.” “Gritai, porque o Senhor vos entregou a cidade.” “Caíram de repente os muros.” “Josué salvou a vida a Raab.” “Foi o Senhor com Josué.”",
+    "meditatio_perguntas": [
+      "Que “muros” na minha vida só cairão pela perseverança na oração?",
+      "Sei calar e obedecer quando o método de Deus me parece estranho?",
+      "Reservo para mim algo da vitória que pertence a Deus?"
+    ],
+    "oratio_guia": "Senhor, que derrubaste os muros de Jericó sem espada, ensina-me a confiar na tua palavra e a perseverar em silêncio. Derruba os muros do meu coração e não me deixes reter para mim a glória que é tua. Amém.",
+    "contemplatio_foco": {
+      "texto": "Gritai, porque o Senhor vos entregou a cidade",
+      "ref": "Js 6,16"
+    }
+  },
+  "ancoras": {
+    "6:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Anátema (herem): consagração total a Deus de uma cidade conquistada, retirada do uso humano. A prática, comum no antigo Oriente, é lida pela tradição cristã como pedagogia de um tempo ainda imperfeito, não como modelo a imitar.",
+        "origem": "ia"
+      }
+    },
+    "6:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A maldição se cumpre em 1Rs 16,34, quando Hiel de Betel reconstrói Jericó no tempo de Acab.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

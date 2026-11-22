@@ -1,0 +1,57 @@
+{
+  "id": "JOS.8.1",
+  "livro": "JOS",
+  "titulo": "A tomada de Hai",
+  "secao": "A conquista",
+  "referencia": "Js 8,1-29",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "Não temas, nem te acobardes: a segunda batalha de Hai",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Purificado o povo, o Senhor fala outra vez a Josué: “Não temas, nem te acobardes”; sobe contra Hai com todos os combatentes; desta vez o despojo e os animais poderão ser repartidos. Josué prepara uma emboscada ao poente da cidade, entre Betel e Hai, e avança com o grosso do exército pelo norte. A tática usa a lembrança da derrota anterior: Israel fingirá fugir, como da primeira vez; os de Hai sairão a persegui-los, deixando a cidade aberta. Assim acontece: o rei de Hai sai de madrugada com todo o seu povo; até Betel se esvazia na perseguição. Então o Senhor diz a Josué: “Levanta o escudo que tens na mão contra a cidade de Hai.” Ao sinal, os da emboscada entram, tomam a cidade e a incendeiam. Os perseguidores olham para trás, veem o fumo subir até ao céu e ficam presos entre dois exércitos. O rei é capturado vivo. Josué não abaixa a mão que segura o escudo enquanto a batalha dura, como Moisés mantivera as mãos erguidas contra Amalec. Hai é reduzida a um montão de ruínas, e o rei é suspenso numa árvore até a tarde e sepultado sob pedras à porta da cidade.",
+    "alegorico": "O braço de Josué erguido com o escudo até o fim do combate lembra os braços de Moisés erguidos e, nos Padres, os braços de Cristo estendidos na cruz, que dão a vitória ao seu povo. O derrotado de ontem torna-se vencedor depois do perdão: a Igreja, reconciliada, retoma o combate.",
+    "moral": "Depois do pecado confessado, Deus não abandona: renova a missão e a coragem. A derrota anterior, assumida com humildade, torna-se até instrumento da vitória. Mas a vitória pede perseverança: não abaixar a mão até o fim, como na oração que não desiste.",
+    "anagogico": "O fumo que sobe da cidade enquanto o inimigo olha para trás é imagem do juízo que surpreende os que vivem só para perseguir. A vitória definitiva é de quem mantém a mão erguida até o fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não temas, nem te acobardes.” “Eis que te entreguei nas tuas mãos o seu rei.” “Levanta o escudo que tens na mão contra a cidade de Hai.” “Vendo o fumo da cidade que subia até ao céu.” “Josué não retirou a mão, que tinha levantada.”",
+    "meditatio_perguntas": [
+      "Depois de uma queda, deixo Deus renovar a minha coragem?",
+      "Como posso transformar uma derrota passada em lição para o futuro?",
+      "Persevero de mão erguida até o fim, ou desisto no meio do combate?"
+    ],
+    "oratio_guia": "Senhor, que não abandonas quem se converte, renova em mim a coragem depois das quedas. Sustenta os meus braços erguidos na oração até a vitória, e que eu nunca me esqueça de que és tu quem dá a cidade em minhas mãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não temas, nem te acobardes",
+      "ref": "Js 8,1"
+    }
+  },
+  "ancoras": {
+    "8:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O texto fala de trinta mil e, em 8,12, de cinco mil na emboscada; provavelmente duas tradições, ou “mil” no sentido de unidade militar.",
+        "origem": "ia"
+      }
+    },
+    "8:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O cadáver retirado ao pôr do sol cumpre Dt 21,22-23, texto que Paulo aplica à cruz (Gl 3,13).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

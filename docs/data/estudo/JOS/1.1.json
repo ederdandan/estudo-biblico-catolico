@@ -1,0 +1,57 @@
+{
+  "id": "JOS.1.1",
+  "livro": "JOS",
+  "titulo": "Sê forte e corajoso: a missão de Josué",
+  "secao": "A entrada na terra",
+  "referencia": "Js 1,1-18",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Como fui com Moisés, assim serei contigo: a força de quem recebe a missão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Moisés morreu, e a palavra do Senhor passa a Josué, filho de Nun, que fora seu ministro. A ordem é imediata: “levanta-te e passa esse Jordão”. Deus renova a promessa feita aos pais: todo lugar que a planta do pé pisar será de Israel, do deserto e do Líbano até o Eufrates e o Mar Grande. A garantia não está no exército, mas na presença: “como fui com Moisés, assim serei contigo; não te deixarei, nem desampararei.” Três vezes ressoa a exortação “tem ânimo e sê forte”, e ela se liga à fidelidade à lei: não se desviar dela nem para a direita nem para a esquerda, não apartar da boca o livro da lei, mas meditá-lo dia e noite. Josué transmite as ordens: em três dias o povo passará o Jordão. Lembra às tribos de Rúben, Gad e à meia tribo de Manassés, que já receberam terra a oriente, o compromisso de passarem armadas à frente dos irmãos até que todos tenham descanso. Elas respondem com prontidão: faremos tudo o que nos ordenaste; como obedecemos a Moisés, obedeceremos a ti; e devolvem ao chefe a mesma palavra que Deus lhe dissera: tem ânimo.",
+    "alegorico": "Josué, cujo nome é o mesmo de Jesus (“o Senhor salva”), prefigura Cristo: Moisés, a Lei, conduz até à margem, mas não introduz na terra; é Jesus quem faz o povo atravessar o Jordão e o leva à herança prometida. Os Padres viram nesta sucessão a passagem da Lei à graça. A travessia do Jordão anuncia também o Batismo, porta de entrada na vida nova.",
+    "moral": "A coragem pedida a Josué não é temperamento, mas fruto da confiança em Deus e da escuta assídua da sua palavra: meditar a lei dia e noite é o caminho do êxito verdadeiro. Ninguém começa uma missão sozinho; a solidariedade das tribos que lutam pelos irmãos, mesmo já tendo a sua parte, ensina a não descansar enquanto os outros ainda não chegaram.",
+    "anagogico": "O descanso prometido na terra é sinal do repouso definitivo de Deus, para o qual o povo ainda caminha (Hb 4,8-9). Quem atravessar o último Jordão com o verdadeiro Josué entrará na herança que não passa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Meu servo Moisés morreu; levanta-te e passa esse Jordão.” “Como fui com Moisés, assim serei contigo; não te deixarei, nem desampararei.” “Tem ânimo e sê forte.” “Não se aparte da tua boca o livro desta lei, mas medita nele dia e noite.” “O Senhor teu Deus está contigo em qualquer parte para onde vás.” “Iremos para onde quer que nos mandares.”",
+    "meditatio_perguntas": [
+      "Que “Jordão” Deus me pede hoje para atravessar?",
+      "A minha coragem nasce da meditação da Palavra ou só do meu temperamento?",
+      "Por quem estou disposto a lutar, mesmo já tendo recebido a minha parte?"
+    ],
+    "oratio_guia": "Senhor, que não abandonas quem envias, dá-me ânimo e fortaleza para cumprir a tua vontade. Que a tua palavra não se aparte da minha boca e que eu a medite dia e noite, para caminhar sem desvios para a herança que prometeste. Amém.",
+    "contemplatio_foco": {
+      "texto": "não te deixarei, nem desampararei",
+      "ref": "Js 1,5"
+    }
+  },
+  "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Josué (Yehoshua, “o Senhor é salvação”) é o mesmo nome que, em grego, se torna Iesous. Moisés mudara-lhe o nome de Oseias para Josué (Nm 13,17).",
+        "origem": "ia"
+      }
+    },
+    "1:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O livro da lei é o Deuteronômio, que termina com a morte de Moisés; o livro de Josué abre como sua continuação direta.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

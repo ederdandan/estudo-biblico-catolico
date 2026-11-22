@@ -1,0 +1,49 @@
+{
+  "id": "JOS.24.29",
+  "livro": "JOS",
+  "titulo": "A morte de Josué",
+  "secao": "Testamento de Josué",
+  "referencia": "Js 24,29-33",
+  "ini": {
+    "c": 24,
+    "v": 29
+  },
+  "fim": {
+    "c": 24,
+    "v": 33
+  },
+  "liturgia": {
+    "tema_central": "Servo do Senhor: Josué morre, e Israel permanece fiel enquanto vive a geração que viu",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Depois disto, morre Josué, filho de Nun, “servo do Senhor”, com cento e dez anos, e é sepultado no território da sua herança, em Tamnat Saraa, na montanha de Efraim, ao norte do monte Gaas. O texto acrescenta um juízo sobre a sua obra: “Israel serviu ao Senhor, durante todo o tempo da vida de Josué e dos anciães” que lhe sobreviveram e que conheciam as obras do Senhor. Duas outras sepulturas encerram o livro. Os ossos de José, que os israelitas trouxeram do Egito como ele pedira, são enterrados em Siquém, no campo que Jacó comprara aos filhos de Hemor por cem cordeiros. E morre também Eleázaro, filho de Aarão, sepultado em Gabaat, cidade de seu filho Fineias, na montanha de Efraim.",
+    "alegorico": "Josué recebe por fim o título que era de Moisés: “servo do Senhor”, prefigurando o Servo por excelência, Jesus. Os ossos de José sepultados na terra fecham o ciclo aberto no Gênesis (Gn 50,25): a promessa feita aos patriarcas está cumprida. Mas a fidelidade dura “enquanto vive a geração”: só Cristo trará uma fidelidade que não depende de um chefe mortal.",
+    "moral": "O maior elogio de uma vida é ser chamado “servo do Senhor”. A fidelidade de um povo depende em grande parte de testemunhas que viram as obras de Deus; quando elas desaparecem, é preciso transmitir a memória, ou virá uma geração “que não conheceu o Senhor” (Jz 2,10). A responsabilidade dos pais e anciãos na fé é imensa.",
+    "anagogico": "Josué, José e Eleázaro repousam na terra prometida à espera da ressurreição. Os ossos de José, carregados por quarenta anos, são sinal da esperança de que os corpos dos justos também entrarão na herança."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Depois disto morreu Josué, filho de Nun, servo do Senhor.” “Israel serviu ao Senhor, durante todo o tempo da vida de Josué.” “Que sabiam todas as obras que o Senhor tinha feito.” “Os ossos de José… foram sepultados em Siquem.”",
+    "meditatio_perguntas": [
+      "Que título gostaria que se desse à minha vida no fim?",
+      "Estou transmitindo às novas gerações a memória das obras de Deus?",
+      "A minha fidelidade depende de outros ou está enraizada em Cristo?"
+    ],
+    "oratio_guia": "Senhor, que eu possa ser chamado teu servo no fim da minha vida. Dá-me ser testemunha das tuas obras para os que vêm depois de mim, e guarda-me fiel além de qualquer apoio humano. Amém.",
+    "contemplatio_foco": {
+      "texto": "Israel serviu ao Senhor, durante todo o tempo da vida de Josué",
+      "ref": "Js 24,31"
+    }
+  },
+  "ancoras": {
+    "24:32": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cumprimento do juramento de Gn 50,25 e Ex 13,19. O campo de Siquém é o “terreno que Jacó deu a seu filho José”, junto ao poço de Jacó (Jo 4,5).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

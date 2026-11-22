@@ -1,0 +1,57 @@
+{
+  "id": "JOS.20.1",
+  "livro": "JOS",
+  "titulo": "As cidades de refúgio",
+  "secao": "A partilha da terra",
+  "referencia": "Js 20,1-9",
+  "ini": {
+    "c": 20,
+    "v": 1
+  },
+  "fim": {
+    "c": 20,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "As cidades de refúgio: justiça que protege o inocente",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor manda Josué separar as cidades de refúgio de que falara por Moisés. Nelas poderá refugiar-se quem matar uma pessoa sem querer, para escapar ao “vingador do sangue”, o parente que, segundo o costume, devia vingar o morto. O homicida involuntário apresenta-se à porta da cidade e expõe o caso aos anciãos; estes o acolhem e lhe dão lugar para morar. Se o vingador o perseguir, não o entregarão, porque matou sem intenção e sem ódio. O refugiado permanecerá na cidade até ser julgado diante da assembleia e até a morte do sumo sacerdote em exercício; então poderá voltar para casa. São designadas seis cidades, três de cada lado do Jordão: Cedes, na Galileia; Siquém, na montanha de Efraim; Hebron, na montanha de Judá; e, a oriente, Bosor, Ramot de Galaad e Gaulon, em Basan. Valem para os israelitas e para os estrangeiros que vivem entre eles.",
+    "alegorico": "Os Padres viram nas cidades de refúgio uma figura de Cristo, refúgio dos pecadores: nele se abriga quem foge da condenação. A volta do homicida à liberdade “depois da morte do sumo sacerdote” foi lida como prefiguração da morte de Cristo, o Sumo Sacerdote, que liberta os culpados (Hb 6,18).",
+    "moral": "A lei distingue a culpa da intenção: matar sem querer não é o mesmo que assassinar. A justiça de Deus refreia a vingança e protege o inocente, até o estrangeiro. É um passo da cultura da vingança para a cultura do direito, que pede sempre juízo e escuta.",
+    "anagogico": "“Nós que nos refugiamos em segurar-nos à esperança proposta” (Hb 6,18): o refúgio definitivo está junto de Deus, onde nenhum vingador alcança quem se abrigou na misericórdia."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Separai as cidades para os fugitivos.” “Todo o que matar uma pessoa, sem querer.” “Possa evitar a ira do vingador do sangue.” “Até que morra o sumo sacerdote.” “Para todos os filhos de Israel, e para os estrangeiros.”",
+    "meditatio_perguntas": [
+      "Em que preciso hoje me refugiar em Cristo?",
+      "Distingo, no juízo sobre os outros, a fraqueza da malícia?",
+      "Sou um lugar de refúgio para quem erra, ou um “vingador do sangue”?"
+    ],
+    "oratio_guia": "Senhor, minha cidade de refúgio, abriga-me da condenação que mereço. Faz de mim, para os outros, um lugar de acolhida e não de vingança. Amém.",
+    "contemplatio_foco": {
+      "texto": "todo o que matar uma pessoa, sem querer",
+      "ref": "Js 20,3"
+    }
+  },
+  "ancoras": {
+    "20:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “vingador do sangue” (go’el ha-dam) é o parente próximo encarregado de reparar a morte; o mesmo termo go’el designa o “resgatador” (Rt 3,9; Jó 19,25).",
+        "origem": "ia"
+      }
+    },
+    "20:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As seis cidades ficam distribuídas de modo que nenhuma esteja longe demais (cf. Dt 19,3).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

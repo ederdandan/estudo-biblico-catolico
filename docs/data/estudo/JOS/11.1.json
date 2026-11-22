@@ -1,0 +1,49 @@
+{
+  "id": "JOS.11.1",
+  "livro": "JOS",
+  "titulo": "A vitória de Merom e a conquista do norte",
+  "secao": "A conquista",
+  "referencia": "Js 11,1-23",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Não omitiu uma só palavra: a vitória de Merom e o descanso da terra",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jabin, rei de Asor, a cidade que tinha o principado sobre os reinos do norte, convoca uma coligação imensa: reis das montanhas, da planície, de Dor, cananeus, amorreus, heteus, fereseus, jebuseus e heveus, “multidão tão numerosa como a areia que há sobre as praias do mar”, com muitíssimos cavalos e carros. Acampam junto às águas de Merom. O Senhor diz a Josué: “Não os temas”; amanhã a esta hora os entregarei; jarretarás os seus cavalos e queimarás os seus carros. Josué ataca de surpresa e os persegue até Sidônia. Volta e toma Asor, a única cidade sobre colina que manda incendiar. O texto insiste na obediência: como o Senhor ordenara a Moisés, e Moisés a Josué, assim Josué fez, “não omitiu nem uma só palavra”. Segue-se um resumo da conquista: as montanhas, o Negueb, a Sefelá, até Baalgad junto ao Hermon. A guerra foi longa; nenhuma cidade se rendeu, exceto Gabaon, e o texto atribui ao desígnio de Deus o endurecimento dos inimigos. Josué extermina também os enacins, os gigantes que haviam assustado os espiões quarenta anos antes, restando só em Gaza, Get e Azoto. “E cessou a guerra no país.”",
+    "alegorico": "Os enacins, os gigantes diante dos quais os pais tiveram medo (Nm 13,34), são vencidos pela geração que confiou. Os Padres viram aqui a vitória de Cristo sobre os poderes que parecem invencíveis. A sobrevivência de gigantes em Get prepara Golias e a vitória de Davi, outra figura de Cristo.",
+    "moral": "Jarretar os cavalos e queimar os carros, em vez de incorporá-los ao exército, é um ato de pobreza e confiança: Israel não deve apoiar-se nos meios de poder (Sl 19,8). A fidelidade de Josué está em “não omitir uma só palavra”: a obediência completa, não seletiva.",
+    "anagogico": "“Cessou a guerra no país” é antecipação do repouso de Deus. A Igreja peregrina luta ainda, mas espera o dia em que todos os inimigos serão vencidos e reinará a paz definitiva."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Multidão tão numerosa como a areia que há sobre as praias do mar.” “Não os temas.” “Jarretarás os seus cavalos e queimarás os seus carros.” “Não omitiu nem uma só palavra.” “E cessou a guerra no país.”",
+    "meditatio_perguntas": [
+      "Em que “cavalos e carros” confio mais do que em Deus?",
+      "A minha obediência é completa, ou escolho o que me convém?",
+      "Que gigantes que assustaram o meu passado Deus quer vencer agora?"
+    ],
+    "oratio_guia": "Senhor, livra-me de confiar nos meus carros e cavalos. Dá-me uma obediência que não omite nenhuma palavra tua, e concede ao meu coração o descanso da tua paz. Amém.",
+    "contemplatio_foco": {
+      "texto": "E cessou a guerra no país",
+      "ref": "Js 11,23"
+    }
+  },
+  "ancoras": {
+    "11:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Asor (Hazor), na Galileia, era a maior cidade cananeia (cerca de 80 hectares). Escavações revelaram uma grande destruição por incêndio no século XIII a.C.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

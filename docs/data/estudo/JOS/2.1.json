@@ -1,0 +1,57 @@
+{
+  "id": "JOS.2.1",
+  "livro": "JOS",
+  "titulo": "Raab e os espiões em Jericó",
+  "secao": "A entrada na terra",
+  "referencia": "Js 2,1-24",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "A fé de Raab: o cordão de escarlate e a salvação da sua casa",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "De Setim, Josué envia em segredo dois espiões para examinar Jericó. Eles se hospedam na casa de uma meretriz chamada Raab. O rei sabe da presença deles e manda exigir que ela os entregue. Raab os esconde no terraço sob feixes de linho e despista os mensageiros: os homens já saíram ao fechar das portas; correi, e os alcançareis. À noite, sobe ao terraço e faz uma confissão de fé surpreendente na boca de uma cananeia: “Eu sei que o Senhor vos entregou este país”; soubemos que secou o Mar Vermelho e que vencestes Seon e Og; o nosso coração desmaiou, “porque o Senhor vosso Deus é o mesmo Deus que reina lá em cima no céu, e cá em baixo na terra”. Pede, em troca da misericórdia que usou, que poupem a casa de seu pai. Os espiões juram por suas vidas. Ela os faz descer por uma corda pela janela, pois sua casa estava pegada ao muro, e aconselha que se escondam no monte três dias. O sinal da aliança será um cordão de escarlate atado à janela; quem estiver dentro da casa será salvo, quem sair carregará o próprio sangue. Os espiões voltam a Josué: o Senhor entregou-nos o país.",
+    "alegorico": "Raab é figura da Igreja vinda dos pagãos: pecadora, estrangeira, acolhe os enviados e é salva pela fé (Hb 11,31) e pelas obras (Tg 2,25). O cordão de escarlate pendurado à janela foi lido pelos Padres, desde Clemente Romano, como sinal do sangue de Cristo: só se salva quem está dentro da casa marcada por ele, como os hebreus na noite da Páscoa. Raab entra na genealogia de Jesus (Mt 1,5).",
+    "moral": "Deus encontra a fé onde menos se espera; nenhum passado impede de acolher os seus mensageiros. Raab arrisca a vida pelo que ouviu dizer de Deus, e intercede pelos seus antes de pensar só em si. A salvação também tem uma dimensão familiar: ela reúne pai, mãe e irmãos sob o mesmo sinal.",
+    "anagogico": "Quando cair a cidade deste mundo, permanecerá de pé a casa marcada pelo sangue do Cordeiro. Estar dentro dela, na Igreja, é a esperança dos que creem no Deus que reina no céu e na terra."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu sei que o Senhor vos entregou este país.” “O Senhor vosso Deus é o mesmo Deus que reina lá em cima no céu, e cá em baixo na terra.” “Jurai-me pelo Senhor que usareis de misericórdia com a casa de meu pai.” “Este cordão cor de escarlate.” “Faça-se como dissestes.”",
+    "meditatio_perguntas": [
+      "Que preconceitos me impedem de reconhecer a fé em quem está “fora”?",
+      "Arrisco algo por aquilo que creio de Deus?",
+      "Intercedo pelos meus, para que também estejam sob o sinal da salvação?"
+    ],
+    "oratio_guia": "Senhor, Deus do céu e da terra, que salvaste Raab pela fé, acolhe-me apesar do meu passado. Guarda a minha casa sob o sinal do sangue do teu Filho e faz que nenhum dos meus fique de fora. Amém.",
+    "contemplatio_foco": {
+      "texto": "o Senhor vosso Deus é o (mesmo) Deus (que reina) lá em cima no céu, e cá em baixo na terra",
+      "ref": "Js 2,11"
+    }
+  },
+  "ancoras": {
+    "2:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Setim, nas planícies de Moab, a leste do Jordão, era o último acampamento de Israel (Nm 25,1).",
+        "origem": "ia"
+      }
+    },
+    "2:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O escarlate (tola‘at shani) era corante caro; o mesmo termo aparece nas cortinas do tabernáculo e nos ritos de purificação (Lv 14,4).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

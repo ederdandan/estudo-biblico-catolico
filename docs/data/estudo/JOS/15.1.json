@@ -1,0 +1,57 @@
+{
+  "id": "JOS.15.1",
+  "livro": "JOS",
+  "titulo": "A herança de Judá; Axa pede as fontes",
+  "secao": "A partilha da terra",
+  "referencia": "Js 15,1-63",
+  "ini": {
+    "c": 15,
+    "v": 1
+  },
+  "fim": {
+    "c": 15,
+    "v": 63
+  },
+  "liturgia": {
+    "tema_central": "Dá-me também fontes de água: a herança de Judá e o pedido de Axa",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A primeira sorte cai a Judá, e o capítulo traça com precisão as fronteiras da tribo: ao sul, do Mar de Sal pela subida dos Escorpiões até Cades Barne e a torrente do Egito; a leste, o Mar Morto; ao norte, uma linha que sobe por Bet Hagla, passa pelo vale de Acor e pelo vale do filho de Enom, ao sul da cidade jebuseia, “onde está Jerusalém”, e vai até Cariatiarim e o Mar Grande; a oeste, o mar. No meio da lista, uma cena de família. Caleb conquista Hebron, expulsando os três filhos de Enac, e promete a filha Axa por esposa a quem tomar Cariat-Sefer, a “cidade das letras”. Otoniel, seu sobrinho, a conquista e recebe Axa. Ela, aconselhada pelo marido, ao descer do jumento pede ao pai: “Dá-me uma bênção; tu deste-me uma terra ao meio-dia e seca; junta-lhe outra de regadio.” E Caleb lhe dá as fontes de cima e as de baixo. Segue-se a longa lista das cidades de Judá, distrito por distrito: Negueb, Sefelá, montanha, deserto. A nota final é de fracasso: os filhos de Judá não puderam expulsar os jebuseus de Jerusalém, que habitam com eles até hoje.",
+    "alegorico": "A filha que pede ao pai fontes de água para uma terra seca foi vista pelos Padres como a alma, ou a Igreja, que pede ao Pai a graça: a terra recebida no Batismo precisa das águas do alto e de baixo, isto é, da graça celeste e da terrena. Jerusalém, ainda não conquistada, é reservada para Davi, figura de Cristo.",
+    "moral": "Axa ensina a pedir com simplicidade e confiança: o que recebeu é bom, mas falta-lhe água. Deus também quer que lhe peçamos aquilo de que precisamos para que os seus dons deem fruto. E a nota sobre Jerusalém lembra que até a tribo mais forte deixa conquistas por fazer.",
+    "anagogico": "As fontes “de cima” lembram o rio de água viva que sai do trono de Deus (Ap 22,1). Na terra prometida definitiva, nenhuma parte será seca, porque o próprio Deus será a fonte."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A parte que tocou por sorte aos filhos de Judá.” “Eu darei minha filha Axa por mulher àquele que assaltar e tomar Cariat-Sefer.” “Que tens?” “Dá-me uma bênção.” “Deu-lhe pois Caleb uma terra, que se regava nos altos e nos baixos.”",
+    "meditatio_perguntas": [
+      "Que parte da minha vida é “terra seca” que precisa das águas da graça?",
+      "Peço ao Pai com a confiança simples de Axa?",
+      "Que “Jerusalém” ainda não conquistada resiste em mim?"
+    ],
+    "oratio_guia": "Pai, deste-me uma herança, mas a minha terra está seca. Dá-me uma bênção: as fontes de cima e as de baixo, a tua graça que faz frutificar o que recebi. Amém.",
+    "contemplatio_foco": {
+      "texto": "Dá-me uma bênção",
+      "ref": "Js 15,19"
+    }
+  },
+  "ancoras": {
+    "15:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O vale do filho de Enom (Ge-Hinnom), ao sul de Jerusalém, deu origem ao termo “Geena”, por causa dos sacrifícios idólatras que ali se faziam.",
+        "origem": "ia"
+      }
+    },
+    "15:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Otoniel será o primeiro dos juízes (Jz 3,9-11).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

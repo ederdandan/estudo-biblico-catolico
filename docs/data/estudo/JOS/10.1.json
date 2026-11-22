@@ -1,0 +1,57 @@
+{
+  "id": "JOS.10.1",
+  "livro": "JOS",
+  "titulo": "Sol, não te movas de sobre Gabaon",
+  "secao": "A conquista",
+  "referencia": "Js 10,1-27",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "O Senhor combatia por Israel: sol, não te movas de sobre Gabaon",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Adonisedec, rei de Jerusalém, alarmado com a defecção de Gabaon, cidade grande e forte, chama os reis de Hebron, Jerimot, Laquis e Eglon, e os cinco sitiam Gabaon. Os gabaonitas pedem socorro a Josué: “Não recuses a tua mão aos teus servos.” Israel cumpre a aliança mesmo nascida de um engano. O Senhor diz: “Não os temas.” Josué marcha a noite inteira desde Galgala e cai sobre eles de surpresa. O Senhor os desbarata; na descida de Bet-horon faz cair do céu grandes pedras de granizo, que matam mais do que a espada. Então Josué fala ao Senhor diante de Israel: “Sol, não te movas de sobre Gabaon, e tu, lua, de sobre o vale de Ajalon.” O sol e a lua param até que o povo se vingue, como está escrito no livro do Justo. E o texto comenta: não houve dia semelhante, “obedecendo o Senhor à voz de um homem, porque combatia por Israel”. Os cinco reis se escondem numa caverna em Maceda; Josué manda fechá-la com pedras e prosseguir a perseguição. Depois os faz trazer, manda os chefes porem o pé sobre os seus pescoços e diz: não temais, assim fará o Senhor a todos os vossos inimigos. Os reis são mortos e lançados na mesma caverna.",
+    "alegorico": "O dia prolongado para completar a vitória foi lido pelos Padres como figura do “dia” de Cristo, Sol de justiça, que não se põe até a vitória final sobre os inimigos; os pés sobre os pescoços dos reis anunciam o Salmo 109: “até que eu ponha os teus inimigos por escabelo dos teus pés”, que o Novo Testamento aplica a Cristo (1Cor 15,25).",
+    "moral": "Israel defende Gabaon porque deu a palavra: a fidelidade não depende de a outra parte ter sido honesta. Josué ousa uma oração imensa, e Deus “obedece à voz de um homem”: a oração confiante do justo tem força (Tg 5,16). Mas a audácia nasce da obediência anterior.",
+    "anagogico": "Haverá um dia sem ocaso, em que não será necessário sol nem lua, porque o Cordeiro será a lâmpada da cidade (Ap 21,23). A luz que se detém sobre Gabaon é um vislumbre desse dia."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não recuses a tua mão aos teus servos; vem depressa.” “Não os temas, porque eu os entreguei nas tuas mãos.” “Sol, não te movas de sobre Gabaon.” “Obedecendo o Senhor à voz de um homem, porque combatia por Israel.” “Não temais nem vos acobardeis, tende ânimo.”",
+    "meditatio_perguntas": [
+      "Socorro quem confia em mim, mesmo que a relação tenha começado mal?",
+      "Tenho a ousadia de pedir grandes coisas a Deus?",
+      "Que “reis escondidos” na caverna do meu coração ainda preciso enfrentar?"
+    ],
+    "oratio_guia": "Senhor, que combates pelo teu povo e escutas a voz dos teus servos, dá-me uma fé ousada. Que a tua luz não se ponha na minha vida até que todo o mal seja vencido. Amém.",
+    "contemplatio_foco": {
+      "texto": "Sol, não te movas de sobre Gabaon, e tu, lua, (não te movas) de sobre o vale de Ajalon",
+      "ref": "Js 10,12"
+    }
+  },
+  "ancoras": {
+    "10:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “livro do Justo” (Yashar) é uma antiga coleção poética de Israel, perdida, citada também em 2Sm 1,18.",
+        "origem": "ia"
+      }
+    },
+    "10:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O texto é poético e foi interpretado de muitas maneiras (prolongamento da luz, escurecimento que favoreceu Israel). O caso Galileu tornou esta passagem célebre; o sentido religioso é que Deus combate por Israel.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

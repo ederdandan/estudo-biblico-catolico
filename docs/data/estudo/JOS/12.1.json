@@ -1,0 +1,49 @@
+{
+  "id": "JOS.12.1",
+  "livro": "JOS",
+  "titulo": "Os reis vencidos",
+  "secao": "A conquista",
+  "referencia": "Js 12,1-24",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "Memória das vitórias: os reis vencidos de um e outro lado do Jordão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O capítulo é um inventário. Primeiro, os reis vencidos por Moisés a oriente do Jordão, desde a torrente do Arnon até o monte Hermon: Seon, rei dos amorreus, que reinava em Hesebon, e Og, rei de Basan, um dos últimos refaim, que habitava em Astarot e Edrai. Moisés dera essas terras a Rúben, Gad e à meia tribo de Manassés. Depois, os reis vencidos por Josué a ocidente, de Baalgad, no vale do Líbano, até o monte Halac que sobe para Seir, nas montanhas, na planície, no deserto e no Negueb, terras dos heteus, amorreus, cananeus, fereseus, heveus e jebuseus. Segue-se a lista, cidade por cidade, um rei por linha: o rei de Jericó, um; o rei de Hai, junto de Betel, um; o rei de Jerusalém, um; o de Hebron, o de Jerimot, o de Laquis… até o rei de Tersa. Total: trinta e um reis.",
+    "alegorico": "A lista dos reis vencidos é como o cântico das vitórias do Senhor: cada nome recorda uma intervenção divina. A união das conquistas de Moisés e de Josué numa só lista mostra a unidade da obra de Deus, iniciada pela Lei e consumada por Jesus.",
+    "moral": "Fazer o inventário das vitórias de Deus é um exercício espiritual: numerar os benefícios recebidos, um por um, combate a ingratidão e o desânimo. Cada “um” da lista é uma batalha concreta que Deus venceu.",
+    "anagogico": "No céu, a Igreja cantará as vitórias do Cordeiro sobre todos os reis da terra (Ap 17,14). Esta lista é um esboço daquele cântico de vitória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Estes são os reis que os filhos de Israel derrotaram.” “Estes são os reis do país, que Josué e os filhos de Israel derrotaram.” “Um rei de Tersa.” “Ao todo, trinta e um reis.”",
+    "meditatio_perguntas": [
+      "Se fizesse a lista das vitórias de Deus na minha vida, que nomes escreveria?",
+      "Reconheço a continuidade da obra de Deus nas gerações que me precederam?",
+      "Agradeço por cada batalha vencida, mesmo as pequenas?"
+    ],
+    "oratio_guia": "Senhor, eu quero recordar uma a uma as tuas vitórias em minha vida. Livra-me da ingratidão que esquece e dá-me um coração que conta os teus benefícios. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ao todo, trinta e um reis",
+      "ref": "Js 12,24"
+    }
+  },
+  "ancoras": {
+    "12:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A lista provém provavelmente de um antigo documento administrativo; várias destas cidades só foram efetivamente ocupadas muito mais tarde.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

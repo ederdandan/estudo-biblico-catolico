@@ -1,0 +1,57 @@
+{
+  "id": "JOS.9.1",
+  "livro": "JOS",
+  "titulo": "O ardil dos gabaonitas",
+  "secao": "A conquista",
+  "referencia": "Js 9,1-27",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "Não consultaram o oráculo do Senhor: o ardil dos gabaonitas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os reis de Canaã se coligam contra Israel. Os habitantes de Gabaon, porém, preferem a astúcia: carregam os jumentos com sacos velhos e odres rotos e remendados, calçam sandálias gastas, vestem roupas usadas e levam pão duro e esfarelado. Chegam a Galgala dizendo: viemos de uma terra muito distante e queremos fazer aliança convosco. Os israelitas desconfiam: não sereis moradores desta terra? Os gabaonitas insistem, falam do nome do Senhor e do que ele fez no Egito e a Seon e Og, e mostram as provas: este pão saiu quente das nossas casas, estes odres eram novos. E o texto diz, como quem aponta o erro: “Tomaram pois dos víveres deles, e não consultaram o oráculo do Senhor.” Josué faz paz e os príncipes juram. Três dias depois descobrem que são vizinhos. O povo murmura, mas os chefes respeitam o juramento feito em nome do Senhor: os gabaonitas viverão, mas serão rachadores de lenha e carregadores de água para a comunidade e para o altar. Eles aceitam: estamos nas tuas mãos; faz de nós o que te parecer bom e justo.",
+    "alegorico": "Os gabaonitas, pagãos que entram na aliança e acabam servindo no altar, foram vistos pelos Padres como figura das nações que, por caminhos tortuosos, chegam a servir na casa de Deus. O juramento mantido mesmo depois do engano revela um Deus fiel à palavra dada, cujas promessas não voltam atrás.",
+    "moral": "O erro de Israel não foi de inteligência, mas de oração: decidiram pelo que viam e “não consultaram o Senhor”. As aparências enganam, e os maiores enganos entram pelos sentidos. A lição também tem outro lado: a palavra dada deve ser cumprida, mesmo quando custa; o juramento em nome de Deus não é descartável.",
+    "anagogico": "Os que entraram na aliança por um caminho torto encontram lugar no serviço do santuário. Na casa do Pai há lugar para os que chegam tarde e por caminhos estranhos, contanto que se entreguem à sua misericórdia."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Usando de astúcia, tomaram consigo víveres.” “Nós viemos de uma terra muito distante.” “Tomaram pois dos víveres deles, e não consultaram o oráculo do Senhor.” “Nós jurámos-lhes, em nome do Senhor Deus de Israel.” “Faz de nós o que te parecer bom e justo.”",
+    "meditatio_perguntas": [
+      "Que decisões importantes tomo sem consultar o Senhor?",
+      "Deixo-me guiar pelas aparências?",
+      "Cumpro a palavra dada, mesmo quando descubro que me custa?"
+    ],
+    "oratio_guia": "Senhor, livra-me de decidir só pelo que vejo. Ensina-me a consultar-te antes de cada passo e a ser fiel à palavra empenhada, como tu és fiel às tuas promessas. Amém.",
+    "contemplatio_foco": {
+      "texto": "não consultaram o oráculo do Senhor",
+      "ref": "Js 9,14"
+    }
+  },
+  "ancoras": {
+    "9:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Gabaon (el-Jib), a 9 km de Jerusalém. Mais tarde Saul violará este juramento, e Davi terá de reparar a culpa (2Sm 21,1-9).",
+        "origem": "ia"
+      }
+    },
+    "9:27": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O lugar “que o Senhor escolhesse” é fórmula deuteronômica para o santuário único, futuramente Jerusalém.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

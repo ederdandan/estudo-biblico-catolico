@@ -1,0 +1,57 @@
+{
+  "id": "JOS.13.1",
+  "livro": "JOS",
+  "titulo": "A terra que resta e a herança da Transjordânia",
+  "secao": "A partilha da terra",
+  "referencia": "Js 13,1-33",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 33
+  },
+  "liturgia": {
+    "tema_central": "O Senhor é a herança de Levi: a terra que resta e a parte da Transjordânia",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Josué está velho, e o Senhor lhe diz: “Tu estás velho, de muita idade, e resta um dilatadíssimo espaço de terra” por conquistar. Enumera as regiões que ainda não estão em poder de Israel: o território dos filisteus com os seus cinco príncipes (Gaza, Azoto, Ascalon, Get e Acaron), a terra de Gessuri, a costa dos sidônios, o Líbano até a entrada de Emat. “Sou eu que os hei-de exterminar”; tu, reparte já a terra entre as nove tribos e meia. Segue-se a recapitulação da herança que Moisés deu do outro lado do Jordão: a Rúben, desde Aroer, junto ao Arnon, a planície de Medaba e Hesebon; a Gad, Jazer, as cidades de Galaad e o vale até o mar de Ceneret; à meia tribo de Manassés, Basan e o reino de Og. Duas notas atravessam a lista: Israel não expulsou os de Gessuri e de Macati, que ficaram no meio dele “até ao dia de hoje”; e à tribo de Levi Moisés não deu terra, “porque os sacrifícios e as vítimas do Senhor Deus de Israel são a sua herança”, ou, como se repete no fim, “o próprio Senhor Deus de Israel é a sua possessão”.",
+    "alegorico": "A tribo de Levi, sem terra porque o próprio Senhor é a sua parte, é figura do sacerdócio da Nova Aliança e de todos os que deixam tudo para seguir Cristo. A Igreja aplicou ao clérigo as palavras do Salmo 15: “O Senhor é a porção da minha herança.” A terra que resta mostra que a obra de Josué é incompleta: só o verdadeiro Jesus a leva a termo.",
+    "moral": "A velhice de Josué não o dispensa de agir: ainda há muito a fazer, e Deus confia que ele reparta o que já foi dado, prometendo fazer o resto. Também a vida espiritual sempre tem “terra que resta”. E há uma pergunta para cada um: qual é a minha herança? Possuir terras, ou possuir o Senhor?",
+    "anagogico": "Os levitas sem terra recordam que aqui não temos cidade permanente (Hb 13,14). A herança verdadeira, que não se reparte por sortes nem se perde, é o próprio Deus, que será tudo em todos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Tu estás velho, de muita idade, e resta um dilatadíssimo espaço de terra.” “Sou eu que os hei-de exterminar.” “E agora reparte a terra.” “Os sacrifícios e as vítimas do Senhor Deus de Israel são a sua herança.”",
+    "meditatio_perguntas": [
+      "Que “terra” ainda resta por conquistar na minha vida espiritual?",
+      "Deixo que Deus faça a parte que só ele pode fazer?",
+      "O Senhor é de fato a minha herança, ou procuro segurança nas posses?"
+    ],
+    "oratio_guia": "Senhor, minha parte e minha herança, ensina-me a não pôr o coração nas posses. Faz o que só tu podes fazer e dá-me fidelidade para cumprir a minha parte até o fim da vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "os sacrifícios e as vítimas do Senhor Deus de Israel são a sua herança",
+      "ref": "Js 13,14"
+    }
+  },
+  "ancoras": {
+    "13:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os cinco príncipes (seranim) governavam a pentápolis filisteia: Gaza, Azoto (Ashdod), Ascalon, Get e Acaron. Os filisteus serão o grande inimigo do tempo dos Juízes e de Saul.",
+        "origem": "ia"
+      }
+    },
+    "13:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Balaão, o adivinho que abençoou Israel (Nm 22–24), é mencionado entre os mortos na guerra contra os madianitas (Nm 31,8).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

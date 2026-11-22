@@ -1,0 +1,49 @@
+{
+  "id": "JOS.8.30",
+  "livro": "JOS",
+  "titulo": "O altar do monte Ebal e a leitura da Lei",
+  "secao": "A conquista",
+  "referencia": "Js 8,30-35",
+  "ini": {
+    "c": 8,
+    "v": 30
+  },
+  "fim": {
+    "c": 8,
+    "v": 35
+  },
+  "liturgia": {
+    "tema_central": "A lei escrita na pedra e lida diante de todo o povo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Logo após a vitória, Josué cumpre o que Moisés ordenara (Dt 27): ergue sobre o monte Ebal um altar ao Senhor Deus de Israel, “um altar de pedras toscas, nas quais não tocou ferro”, e oferece holocaustos e sacrifícios pacíficos. Escreve sobre pedras o Deuteronômio da lei de Moisés. Todo o povo, anciãos, chefes e juízes, naturais e estrangeiros, coloca-se dos dois lados da arca, diante dos sacerdotes: metade junto ao monte Garizim e metade junto ao monte Ebal. E Josué lê todas as palavras da bênção e da maldição, tudo o que estava escrito no livro da lei, sem omitir nenhuma, diante de toda a assembleia de Israel, com as mulheres, as crianças e os estrangeiros que viviam entre eles.",
+    "alegorico": "Entre a bênção e a maldição está a arca, como Cristo entre a Lei que condena e a graça que salva: ele “se fez maldição por nós” para que a bênção de Abraão chegasse às nações (Gl 3,13-14). A lei escrita em pedra anuncia a lei escrita pelo Espírito nos corações (2Cor 3,3).",
+    "moral": "A conquista da terra não é só militar: a primeira coisa é pôr a Palavra no centro. Ninguém fica de fora da escuta, nem mulheres, nem crianças, nem estrangeiros. A comunidade cristã precisa ler toda a Palavra, também as passagens que desagradam, a bênção e a maldição.",
+    "anagogico": "Os dois montes lembram que a vida desemboca numa escolha definitiva. A assembleia reunida em torno da Palavra antecipa a assembleia celeste, de todas as nações e línguas, diante do trono."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Josué edificou um altar ao Senhor Deus de Israel sobre o monte Hebal.” “Um altar de pedras toscas, nas quais não tocou ferro.” “Escreveu sobre pedras o Deuteronómio da lei.” “Leu todas as palavras da bênção e da maldição.” “Não omitiu nenhuma das coisas que Moisés tinha ordenado.”",
+    "meditatio_perguntas": [
+      "Depois de uma vitória, volto-me primeiro para Deus?",
+      "Escuto toda a Palavra, ou só o que me agrada?",
+      "Os mais pequenos e os de fora têm lugar na escuta da minha comunidade?"
+    ],
+    "oratio_guia": "Senhor, que a tua Palavra esteja no centro da minha vida e da minha comunidade. Escreve-a no meu coração e dá-me escolher sempre a bênção. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não omitiu nenhuma das coisas que Moisés tinha ordenado",
+      "ref": "Js 8,35"
+    }
+  },
+  "ancoras": {
+    "8:30": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ebal e Garizim ficam junto de Siquém; o hebraico e a Vulgata situam aqui esta cena, enquanto a Setenta a coloca depois de 9,2.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
