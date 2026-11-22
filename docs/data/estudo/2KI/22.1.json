@@ -1,0 +1,57 @@
+{
+  "id": "2KI.22.1",
+  "livro": "2KI",
+  "titulo": "O livro da Lei encontrado no Templo",
+  "secao": "Ezequias e Josias",
+  "referencia": "2Rs 22,1-20",
+  "ini": {
+    "c": 22,
+    "v": 1
+  },
+  "fim": {
+    "c": 22,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "Eu achei o livro da lei: Josias e a profetisa Hulda",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Josias tem oito anos quando começa a reinar, e reina trinta e um anos em Jerusalém. “Fez o que era agradável aos olhos do Senhor, andou em todos os caminhos de Davi, seu pai, não declinando nem para a direita nem para a esquerda.” No décimo oitavo ano, envia o secretário Safã ao templo para que o sumo sacerdote Helcias entregue o dinheiro aos operários que reparam a casa do Senhor; não se exija conta deles, porque trabalham com fidelidade. Helcias diz a Safã: “Eu achei o livro da lei na casa do Senhor.” Safã o lê e o lê diante do rei. Ao ouvir as palavras do livro, o rei rasga as vestes e ordena: ide consultar o Senhor por mim, pelo povo e por todo Judá, a respeito das palavras deste livro, porque grande é a ira do Senhor, pois os nossos pais não obedeceram ao que nele está escrito. Vão à profetisa Hulda, mulher de Selum, guarda das vestes, que mora em Jerusalém, no bairro novo. Ela responde: assim diz o Senhor: trarei a desgraça sobre este lugar, segundo todas as palavras do livro, porque me abandonaram. Mas ao rei de Judá dizei: porque o teu coração se comoveu, te humilhaste diante do Senhor, rasgaste as vestes e choraste diante de mim, eu também te ouvi; “eu te farei descansar com teus pais, e serás sepultado em paz no teu sepulcro, para que os teus olhos não vejam todos os males” que farei cair sobre este lugar.",
+    "alegorico": "O livro da lei encontrado no templo, depois de longo esquecimento, é figura da redescoberta da Palavra de Deus que renova a Igreja em cada geração. A reação de Josias, que rasga as vestes ao ouvir, é a da Palavra que “penetra até a divisão da alma e do espírito” (Hb 4,12). A profetisa Hulda, consultada pelos sacerdotes e ministros, mostra que Deus fala também por mulheres que ele escolhe.",
+    "moral": "A Palavra estava “dentro do templo”, mas esquecida. Pode haver culto, reformas e obras, e no entanto a Palavra estar perdida. Josias não se defende nem relativiza: rasga as vestes, reconhece o pecado dos pais e pede orientação. O seu coração “se comoveu”: é a docilidade que Deus recompensa. A Palavra é dura, mas a humildade do rei obtém misericórdia para ele.",
+    "anagogico": "“Serás sepultado em paz”: quem acolhe a Palavra com o coração humilde, mesmo em tempos de juízo, morre em paz na esperança de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Andou em todos os caminhos de Davide… não declinando nem para a direita nem para a esquerda.” “Eu achei o livro da lei na casa do Senhor.” “O rei ao ouvir as palavras do livro da lei do Senhor, rasgou as suas vestes.” “Os nossos pais não ouviram as palavras deste livro.” “O teu coração se atemorizou e te humilhaste diante do Senhor.” “Serás sepultado em paz.”",
+    "meditatio_perguntas": [
+      "A Palavra de Deus está “perdida” em algum canto da minha vida?",
+      "Deixo-me tocar pela Palavra até “rasgar as vestes”?",
+      "Leio a Bíblia como palavra viva dirigida a mim?"
+    ],
+    "oratio_guia": "Senhor, faz-me reencontrar a tua Palavra, esquecida no templo do meu coração. Que ao ouvi-la o meu coração se comova e se humilhe, e eu ande nos teus caminhos sem me desviar. Amém.",
+    "contemplatio_foco": {
+      "texto": "o rei ao ouvir as palavras do livro da lei do Senhor, rasgou as suas vestes",
+      "ref": "2Rs 22,11"
+    }
+  },
+  "ancoras": {
+    "22:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “livro da lei” é geralmente identificado com o núcleo do Deuteronômio, cujas exigências (centralização do culto, Páscoa) inspiram a reforma de Josias.",
+        "origem": "ia"
+      }
+    },
+    "22:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Hulda, contemporânea de Jeremias e Sofonias, é uma das poucas profetisas mencionadas no AT (com Miriam, Débora e Noadias).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

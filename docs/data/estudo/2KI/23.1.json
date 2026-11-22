@@ -1,0 +1,57 @@
+{
+  "id": "2KI.23.1",
+  "livro": "2KI",
+  "titulo": "A reforma e a Páscoa de Josias",
+  "secao": "Ezequias e Josias",
+  "referencia": "2Rs 23,1-30",
+  "ini": {
+    "c": 23,
+    "v": 1
+  },
+  "fim": {
+    "c": 23,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "Converteu-se ao Senhor de todo o coração: a reforma e a Páscoa de Josias",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O rei reúne os anciãos de Judá e de Jerusalém e sobe ao templo com todo o povo, do menor ao maior, os sacerdotes e os profetas, e lê diante deles todas as palavras do livro da aliança encontrado na casa do Senhor. De pé sobre o estrado, faz a aliança diante do Senhor: andar no caminho do Senhor e guardar os seus mandamentos “de todo o seu coração e com toda a sua alma”; e todo o povo adere à aliança. Josias purifica o templo: tira os objetos de Baal, de Asera e do exército do céu e os queima no vale do Cedron; depõe os sacerdotes idólatras; derruba as casas da prostituição sagrada; profana Tofet, no vale de Ben-Hinom, para que ninguém mais faça passar o filho pelo fogo a Moloc; tira os cavalos e carros do sol; destrói os altares de Acaz e de Manassés e os lugares altos que Salomão construíra para Astarte, Camos e Melcom. Vai a Betel, destrói o altar de Jeroboão e queima nele ossos tirados dos sepulcros, cumprindo a palavra do homem de Deus de Judá; mas poupa o túmulo daquele profeta e do profeta de Samaria. Ordena: “Celebrai a Páscoa em honra do Senhor vosso Deus, como está escrito no livro desta aliança.” “Jamais se celebrou Páscoa igual desde o tempo dos juízes.” Elimina necromantes, adivinhos e ídolos. “Não houve rei antes de Josias que lhe fosse semelhante, que se convertesse ao Senhor de todo o coração, de toda a sua alma e com toda a sua força.” Contudo, o Senhor não desiste da sua ira contra Judá, por causa de Manassés. O faraó Necao sobe para o Eufrates; Josias vai ao seu encontro e é morto em Meguido. Os servos o levam morto a Jerusalém e o sepultam.",
+    "alegorico": "Josias, o rei que ama o Senhor “de todo o coração, de toda a alma e com toda a força” (Dt 6,5), cumpre o grande mandamento que Jesus chamará o primeiro (Mc 12,30). A sua Páscoa, celebrada segundo a Palavra redescoberta, anuncia a Páscoa de Cristo. A sua morte em Meguido, chorada por Jeremias e por todo o povo (2Cr 35,25; Zc 12,11), foi aproximada do pranto pelo Messias traspassado.",
+    "moral": "A reforma de Josias começa pela escuta pública da Palavra, passa pela aliança pessoal e comunitária e chega à purificação concreta de tudo o que era idolatria, até nas raízes antigas (Salomão). A conversão verdadeira é total: “de todo o coração”. Mas o texto é honesto: uma geração fiel não apaga de repente o peso de gerações de pecado. A fidelidade não garante sucesso político; Josias morre jovem, em batalha.",
+    "anagogico": "A Páscoa como “nunca se celebrou” aponta para a Páscoa eterna, o banquete do Cordeiro, onde a aliança será perfeita e o coração de todos será inteiramente de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Leu… todas as palavras do livro da aliança.” “De todo o seu coração e com toda a sua alma.” “Celebrai a Páscoa em honra do Senhor vosso Deus.” “Jamais se celebrou Páscoa igual.” “Que se convertesse ao Senhor de todo o coração, de toda a sua alma e com toda a sua força.” “Foi morto em Magedo.”",
+    "meditatio_perguntas": [
+      "A minha conversão é “de todo o coração” ou parcial?",
+      "Que ídolos antigos e enraizados preciso ainda destruir?",
+      "Celebro a Páscoa segundo a Palavra, com renovação real?"
+    ],
+    "oratio_guia": "Senhor, quero converter-me a ti de todo o coração, de toda a alma e com todas as forças. Renova em mim a tua aliança, purifica os meus ídolos e faz-me celebrar a Páscoa do teu Filho como nunca. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não houve rei antes de Josias que lhe fosse semelhante, que se convertesse ao Senhor de todo o coração, de toda a sua alma e com toda a sua força",
+      "ref": "2Rs 23,25"
+    }
+  },
+  "ancoras": {
+    "23:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Tofet, no vale de Ben-Hinom (Gehinnom), lugar dos sacrifícios de crianças; o nome “Geena” passará a designar o inferno.",
+        "origem": "ia"
+      }
+    },
+    "23:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Necao II ia socorrer a Assíria contra a Babilônia (609 a.C.); a morte de Josias em Meguido deu origem ao simbolismo do “Armagedon” (Ap 16,16).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

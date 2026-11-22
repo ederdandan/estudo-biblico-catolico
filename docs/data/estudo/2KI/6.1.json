@@ -1,0 +1,57 @@
+{
+  "id": "2KI.6.1",
+  "livro": "2KI",
+  "titulo": "O machado que flutua e os sírios cegados",
+  "secao": "O ciclo de Eliseu",
+  "referencia": "2Rs 6,1-23",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Muitos mais estão conosco do que com eles: o machado e os sírios cegados",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os filhos dos profetas dizem a Eliseu: o lugar onde moramos é pequeno; vamos ao Jordão, cada um corte uma viga, e construamos ali. Eliseu vai com eles. Ao cortar uma árvore, um deixa cair na água o ferro do machado e grita: “Ai, meu senhor! era emprestado!” Eliseu pergunta onde caiu, corta um pedaço de pau, lança-o ali, e o ferro sobe à tona. Depois, o rei da Síria faz guerra contra Israel e arma emboscadas, mas Eliseu sempre avisa o rei de Israel. O rei sírio desconfia de traição; um servo diz: é o profeta Eliseu, que revela ao rei de Israel até as palavras que dizes no teu quarto. O rei manda cercar Dotã, onde Eliseu está, com cavalos, carros e um grande exército. De manhã, o servo de Eliseu vê o exército e grita: “Ai, meu senhor! que havemos de fazer?” Eliseu responde: “Não temas; muitos mais estão conosco do que com eles.” E reza: “Senhor, abre os olhos deste, para que veja.” O Senhor abre os olhos do servo, que vê o monte cheio de cavalos e carros de fogo ao redor de Eliseu. Quando os sírios descem, Eliseu pede: fere esta gente de cegueira; e os conduz até Samaria. Ali reza: abre-lhes os olhos; e eles se veem no meio de Samaria. O rei de Israel pergunta: meu pai, devo matá-los? Eliseu responde: “Não os matarás… manda-lhes pôr diante pão e água, para que comam e bebam, e voltem para o seu senhor.” O rei lhes prepara um grande banquete e os despede, e os bandos sírios não voltam mais a Israel.",
+    "alegorico": "O pedaço de madeira lançado na água que faz subir o ferro foi lido por Irineu e outros Padres como figura da Cruz, que faz emergir o homem afundado no pecado. Os carros de fogo invisíveis em volta do profeta são os anjos que protegem os servos de Deus. E o banquete oferecido aos inimigos antecipa o mandamento de Cristo: “amai os vossos inimigos; se o teu inimigo tem fome, dá-lhe de comer” (Rm 12,20).",
+    "moral": "Eliseu se interessa por um machado emprestado: Deus cuida também das pequenas aflições dos pobres. Diante do cerco, o medo vem de não ver; a oração de Eliseu é a de que precisamos: “abre os meus olhos”. E a vitória mais completa não é matar os inimigos, mas alimentá-los e despedi-los: a misericórdia desarma mais que a espada.",
+    "anagogico": "“Muitos mais estão conosco”: a Igreja peregrina caminha cercada pela multidão invisível dos anjos e dos santos, e a vitória final já é certa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ai! meu senhor! Este mesmo o tinha pedido emprestado.” “O ferro veio acima nadando.” “Ai! meu senhor! Que havemos de fazer?” “Não temas; muitos mais estão conosco do que com eles.” “Senhor, abre os olhos deste, para que veja.” “Não os matarás… manda-lhes pôr diante pão e água.”",
+    "meditatio_perguntas": [
+      "Levo a Deus também as pequenas aflições, como o machado perdido?",
+      "Peço que Deus abra os meus olhos para ver a sua proteção?",
+      "Como trato os inimigos que caem nas minhas mãos?"
+    ],
+    "oratio_guia": "Senhor, abre os meus olhos para que eu veja que muitos mais estão comigo do que contra mim. Faz emergir o que afundou na minha vida e ensina-me a alimentar os meus inimigos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não temas; muitos mais estão conosco do que com eles",
+      "ref": "2Rs 6,16"
+    }
+  },
+  "ancoras": {
+    "6:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Dotã, ao norte de Samaria, onde José foi vendido pelos irmãos (Gn 37,17).",
+        "origem": "ia"
+      }
+    },
+    "6:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os “carros de fogo” recordam os do arrebatamento de Elias (2,11): o exército celeste que acompanha os profetas.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

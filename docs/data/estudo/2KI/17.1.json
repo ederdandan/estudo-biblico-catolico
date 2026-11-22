@@ -1,0 +1,57 @@
+{
+  "id": "2KI.17.1",
+  "livro": "2KI",
+  "titulo": "A queda de Samaria: por que Israel caiu",
+  "secao": "Os últimos anos de Israel",
+  "referencia": "2Rs 17,1-23",
+  "ini": {
+    "c": 17,
+    "v": 1
+  },
+  "fim": {
+    "c": 17,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Endureceram a cerviz: a queda de Samaria",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Oseias, filho de Elá, reina nove anos em Samaria e faz o mal, mas não como os reis antes dele. Salmanasar, rei da Assíria, o torna vassalo; mas Oseias conspira, envia mensageiros a Sua, rei do Egito, e deixa de pagar o tributo. O assírio o prende, invade todo o país, sitia Samaria três anos e, no nono ano de Oseias, toma a cidade e deporta Israel para a Assíria, para Hala, para Habor junto ao rio Gozã e para as cidades dos medos. O autor explica: isto aconteceu porque os filhos de Israel pecaram contra o Senhor, que os tirara do Egito, e adoraram outros deuses, seguiram os costumes das nações, construíram lugares altos em todas as cidades, ergueram estelas e aserás em todo outeiro, queimaram incenso como as nações. “O Senhor tinha protestado em Israel e em Judá por meio de todos os seus profetas e videntes, dizendo: Voltai dos vossos caminhos corrompidos.” “Eles não o quiseram ouvir, mas endureceram a sua cerviz, como a cerviz de seus pais.” Rejeitaram a aliança, “correram atrás das vaidades, tornando-se eles próprios vaidades”; fizeram os bezerros, adoraram o exército do céu, serviram Baal, fizeram passar os filhos pelo fogo, entregaram-se à adivinhação, venderam-se para fazer o mal. O Senhor os rejeitou da sua presença; só ficou Judá, que também não guardou os mandamentos. Israel foi deportado para a Assíria “até ao dia de hoje”.",
+    "alegorico": "A queda de Samaria é lida pela tradição como advertência para a Igreja: os privilégios da eleição não protegem quem recusa ouvir os profetas. Paulo usará o mesmo raciocínio: “se Deus não poupou os ramos naturais, também não te poupará a ti” (Rm 11,21). Os profetas que gritam “voltai” culminam em Cristo, a Palavra que o povo também não quis ouvir.",
+    "moral": "O capítulo é uma meditação sobre o pecado: não é um ato isolado, mas um caminho de surdez progressiva. “Tornaram-se vaidade, correndo atrás da vaidade”: somos transformados por aquilo que adoramos. Deus avisou muitas vezes, por muitos profetas; a ruína não veio de surpresa. A cerviz dura, a recusa de dobrar-se, é a raiz de tudo.",
+    "anagogico": "O exílio de Israel anuncia o juízo final para quem recusa até o fim o chamado de Deus; mas também prepara a promessa de reunir os dispersos (Ez 37)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Tendo os filhos de Israel pecado contra o Senhor seu Deus.” “Voltai dos vossos caminhos corrompidos.” “Eles não o quiseram ouvir, mas endureceram a sua cerviz.” “Correram atrás das vaidades, tornando-se eles próprios vaidades.” “O Senhor repeliu Israel de diante da sua face.”",
+    "meditatio_perguntas": [
+      "Endureço a cerviz diante dos avisos de Deus?",
+      "Que “vaidades” persigo e em que me estão transformando?",
+      "Ouço os profetas que Deus me envia hoje?"
+    ],
+    "oratio_guia": "Senhor, que tantas vezes me disseste “volta”, amolece a minha cerviz dura. Livra-me de correr atrás da vaidade e de me tornar vaidade. Que eu ouça hoje a tua voz e não endureça o coração. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eles não o quiseram ouvir, mas endureceram a sua cerviz, como a cerviz de seus pais",
+      "ref": "2Rs 17,14"
+    }
+  },
+  "ancoras": {
+    "17:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Samaria caiu em 722/721 a.C.; Sargão II reivindica a conquista e a deportação de 27.290 pessoas.",
+        "origem": "ia"
+      }
+    },
+    "17:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O cap. 17 é uma reflexão teológica típica da “história deuteronomista”, que lê a história à luz da aliança do Deuteronômio.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2KI.25.1",
+  "livro": "2KI",
+  "titulo": "A destruição de Jerusalém e o exílio",
+  "secao": "A queda de Jerusalém",
+  "referencia": "2Rs 25,1-30",
+  "ini": {
+    "c": 25,
+    "v": 1
+  },
+  "fim": {
+    "c": 25,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "Assim Judá foi deportado: a destruição de Jerusalém e a esperança",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No nono ano de Sedecias, no décimo dia do décimo mês, Nabucodonosor vem com todo o exército contra Jerusalém e a cerca com muros de assédio. O cerco dura até o undécimo ano. A fome aperta a cidade, e não há pão para o povo. Abre-se uma brecha no muro, e os guerreiros fogem de noite pela porta entre os dois muros, junto ao jardim do rei. Sedecias foge pelo caminho da Arabá, mas os caldeus o alcançam nas planícies de Jericó; o exército se dispersa. Levam o rei a Rebla, a Nabucodonosor: “Degolou na presença de Sedecias os seus filhos; a ele vazou-lhe os olhos”, prendeu-o com cadeias de bronze e o levou para Babilônia. No quinto mês, Nabuzardã, chefe da guarda, vem a Jerusalém, “queimou a casa do Senhor, a casa do rei e as casas de Jerusalém”; os caldeus derrubam os muros ao redor. Deporta o resto do povo; deixa só alguns pobres como vinhateiros e lavradores. Despedaçam as colunas de bronze, as bases e o mar de bronze, e levam todo o bronze para Babilônia; levam os vasos de ouro e de prata. Prendem o sumo sacerdote Saraías, o segundo sacerdote Sofonias e os porteiros, e são mortos em Rebla. “Assim Judá foi deportado do seu país.” Nabucodonosor põe Godolias como governador dos que ficaram; ele os exorta a servir o rei de Babilônia e a viver em paz. Mas Ismael, de sangue real, o mata, e todo o povo foge para o Egito com medo dos caldeus. No trigésimo sétimo ano do exílio de Joaquim, Evil-Merodac, rei de Babilônia, “levantou a cabeça” de Joaquim, tirou-o da prisão, falou-lhe com bondade e pôs o seu trono acima dos outros reis; mudou-lhe as vestes de prisioneiro, e Joaquim comeu sempre à mesa do rei todos os dias da sua vida.",
+    "alegorico": "A destruição do Templo é para os Padres a imagem do que acontece à alma que abandona Deus: a casa onde ele habitava é queimada. Mas o livro termina com um pequeno raio de luz: o rei davídico libertado, com as vestes trocadas, sentado à mesa do rei, é figura do homem caído, ao qual Deus “levanta a cabeça” e reveste de veste nova para o sentar à mesa do Reino (Lc 15,22-24). A promessa a Davi não morreu.",
+    "moral": "O fim de Jerusalém cumpre todas as advertências dos profetas, desprezadas durante séculos. A cena de Sedecias, que vê a morte dos filhos e depois perde os olhos, é a imagem trágica de quem recusou ver a tempo. Mesmo depois da catástrofe, os sobreviventes continuam a matar-se e a fugir: o mal não termina sozinho. Mas Deus não abandona o seu povo; o último versículo é de graça.",
+    "anagogico": "“Comeu sempre à mesa do rei todos os dias da sua vida”: a última palavra dos livros dos Reis é a de uma mesa preparada para o exilado. É a esperança do banquete eterno, onde o Rei dos reis sentará os seus filhos libertos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não havia pão para o povo.” “Degolou na presença de Sedecias os seus filhos; a ele vasou-lhe os olhos.” “Queimou a casa do Senhor.” “Assim Judá foi deportado do seu país.” “Levantou a cabeça humilhada de Joaquim.” “Mudou-lhe os vestidos de que tinha usado no cárcere.” “Comia sempre à sua mesa todos os dias da sua vida.”",
+    "meditatio_perguntas": [
+      "Que advertências de Deus venho recusando “ver”?",
+      "Que “templo” em mim corre o risco de ser destruído pelo abandono de Deus?",
+      "Creio que Deus pode levantar a minha cabeça e trocar as minhas vestes de prisioneiro?"
+    ],
+    "oratio_guia": "Senhor, que não permitiste que a tua promessa morresse no exílio, levanta a minha cabeça humilhada. Troca as minhas vestes de prisioneiro e senta-me à tua mesa todos os dias da minha vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "Assim Judá foi deportado do seu país",
+      "ref": "2Rs 25,21"
+    }
+  },
+  "ancoras": {
+    "25:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O incêndio do Templo (587/586 a.C.) é lembrado pelos judeus no jejum de 9 de Av; a data do v. 8 (dia 7) e a de Jr 52,12 (dia 10) diferem.",
+        "origem": "ia"
+      }
+    },
+    "25:27": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Evil-Merodac (Amel-Marduk), filho de Nabucodonosor, reinou em 562-560 a.C.; tabuinhas babilônicas registram rações de azeite para “Yaukin, rei de Judá”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

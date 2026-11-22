@@ -1,0 +1,57 @@
+{
+  "id": "2KI.10.1",
+  "livro": "2KI",
+  "titulo": "Jeú extermina a casa de Acab e o culto de Baal",
+  "secao": "A revolução de Jeú",
+  "referencia": "2Rs 10,1-36",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 36
+  },
+  "liturgia": {
+    "tema_central": "Vem comigo e verás o meu zelo pelo Senhor: Jeú e o fim de Baal",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Acab tem setenta filhos em Samaria. Jeú escreve aos chefes e anciãos: escolhei o melhor dos filhos do vosso senhor e ponde-o no trono. Eles, aterrados (dois reis não lhe resistiram!), respondem: somos teus servos. Jeú escreve de novo: trazei-me amanhã as cabeças dos filhos do vosso senhor. Eles matam os setenta e enviam as cabeças em cestos a Jezrael, onde Jeú as faz amontoar à porta da cidade e diz ao povo: “considerai que não caiu por terra palavra alguma do Senhor” contra a casa de Acab. Jeú extermina todos os parentes, amigos e sacerdotes de Acab em Jezrael. No caminho de Samaria, encontra quarenta e dois parentes de Ocozias de Judá e os mata. Encontra Jonadab, filho de Recab, e lhe diz: o teu coração é reto como o meu com o teu? Dá-me a mão; e o faz subir ao carro: “vem comigo e verás o meu zelo pelo Senhor”. Em Samaria, convoca todos os profetas, sacerdotes e adoradores de Baal: “Acab serviu um pouco a Baal; Jeú o servirá muito”; era astúcia. O templo de Baal se enche de ponta a ponta; Jeú manda revestir todos e verificar que não haja nenhum servo do Senhor entre eles. Depois do holocausto, os soldados entram e matam todos; queimam a estela de Baal, demolem o templo e fazem dele uma latrina. “Assim exterminou Jeú a Baal de Israel”, mas não se aparta dos bezerros de ouro de Betel e Dã. O Senhor diz a Jeú: porque fizeste o que era reto, os teus filhos se sentarão no trono até a quarta geração. “Todavia, Jeú não teve o cuidado de andar de todo o seu coração na lei do Senhor.” Naqueles dias Hazael começa a mutilar Israel. Jeú reina vinte e oito anos.",
+    "alegorico": "O zelo de Jeú, sanguinário e calculista, contrasta com o zelo de Cristo, que expulsa os vendedores do Templo mas dá a vida pelos pecadores. Oseias condenará “o sangue de Jezrael” derramado por Jeú (Os 1,4): o juízo de Deus não aprova a crueldade dos seus instrumentos.",
+    "moral": "Jeú tem um zelo exterior e seletivo: destrói o Baal de Acab, que ameaçava o seu poder, mas conserva os bezerros de Jeroboão, que lhe convinham politicamente. É o perigo de um zelo religioso que serve aos próprios interesses. “Vem e vê o meu zelo” revela vaidade. O verdadeiro zelo começa por converter o próprio coração “de todo o coração”.",
+    "anagogico": "Nenhuma palavra de Deus cai por terra; mas a vitória definitiva sobre a idolatria não virá pela espada de um Jeú, e sim pelo coração novo que só o Espírito dá."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não caiu por terra palavra alguma do Senhor.” “Vem comigo e verás o meu zelo pelo Senhor.” “Acab tributou algum culto a Baal, mas eu lhe tributarei maior culto.” “Assim exterminou Jeú a Baal de Israel.” “Ele não se apartou dos pecados de Jeroboão.” “Jeú não teve o cuidado de andar de todo o seu coração na lei do Senhor.”",
+    "meditatio_perguntas": [
+      "O meu zelo religioso é seletivo, atacando só o que não me convém?",
+      "Exibo o meu zelo para ser visto?",
+      "Ando “de todo o coração” na lei do Senhor?"
+    ],
+    "oratio_guia": "Senhor, purifica o meu zelo de toda vaidade e interesse. Que eu destrua primeiro os ídolos do meu coração e ande na tua lei com um coração inteiro. Amém.",
+    "contemplatio_foco": {
+      "texto": "Jeú não teve o cuidado de andar de todo o seu coração na lei do Senhor Deus de Israel",
+      "ref": "2Rs 10,31"
+    }
+  },
+  "ancoras": {
+    "10:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jonadab, filho de Recab, fundador dos recabitas, grupo austero que rejeitava o vinho e a vida sedentária (Jr 35).",
+        "origem": "ia"
+      }
+    },
+    "10:32": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “Obelisco Negro” de Salmanasar III mostra Jeú (ou um enviado seu) prostrado, pagando tributo à Assíria.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

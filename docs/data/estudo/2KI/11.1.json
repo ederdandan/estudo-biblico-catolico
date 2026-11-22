@@ -1,0 +1,57 @@
+{
+  "id": "2KI.11.1",
+  "livro": "2KI",
+  "titulo": "Atalia e o menino Joás",
+  "secao": "A revolução de Jeú",
+  "referencia": "2Rs 11,1-21",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "Viva o rei! Atalia e o menino Joás",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Atalia, mãe de Ocozias, vendo o filho morto, decide exterminar toda a descendência real. Mas Josaba, filha do rei Jorão e irmã de Ocozias, rouba Joás, filho de Ocozias, do meio dos filhos do rei que iam ser mortos, e o esconde com a ama no quarto das camas. “Ele esteve seis anos oculto com a ama na casa do Senhor”, enquanto Atalia reina sobre o país. No sétimo ano, o sacerdote Joiada chama os centuriões da guarda, fá-los entrar no templo, faz aliança com eles sob juramento e lhes mostra o filho do rei. Organiza os turnos de guarda: no sábado, um terço guardará o palácio, outro terço as portas, e os demais rodearão o rei com as armas na mão, e quem se aproximar morra. Dá-lhes as lanças e os escudos do rei Davi guardados no templo. “Joiada apresentou-lhes o filho do rei, pôs-lhe sobre a cabeça o diadema, entregou-lhe o livro da lei”, e o proclamam rei e o ungem; batem palmas e gritam: “Viva o rei!” Atalia ouve o barulho, entra no templo, vê o rei de pé junto à coluna, os cantores e as trombetas, e todo o povo em festa; rasga as vestes e grita: “Traição, traição!” Joiada manda tirá-la do templo, para que não morra ali; é morta junto à entrada dos cavalos do palácio. Joiada faz uma aliança entre o Senhor, o rei e o povo, para que seja o povo do Senhor. O povo derruba o templo de Baal e mata Matã, seu sacerdote. Levam o rei ao palácio, e ele se senta no trono. Todo o povo se alegra, e a cidade fica em paz. Joás tem sete anos quando começa a reinar.",
+    "alegorico": "O menino, último descendente de Davi, escondido na casa do Senhor enquanto a rainha assassina procura matá-lo, é uma das figuras mais claras do Menino Jesus escondido da fúria de Herodes (Mt 2,13-16). Josaba, que o salva, e o sacerdote Joiada, que o guarda, mostram como a promessa messiânica foi salva por um fio: por fidelidade de poucos, a lâmpada de Davi não se apagou.",
+    "moral": "A ambição de Atalia é capaz de matar os próprios netos. Contra ela, a coragem discreta de uma mulher e a paciência de um sacerdote preparam a restauração durante seis anos. O mal parece triunfar, mas Deus guarda o fio da promessa “na sua casa”. A renovação da aliança mostra que a verdadeira restauração não é só política: o povo volta a ser “povo do Senhor”.",
+    "anagogico": "“Viva o rei!”: a aclamação do menino coroado anuncia a do Rei-Messias, que o Pai guardou e manifestou, e que reinará quando os poderes do mal forem derrubados."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Resolveu matar toda a descendência real.” “Escondeu-o da presença de Atalia.” “Ele esteve seis anos oculto com a ama na casa do Senhor.” “Pôs-lhe sobre a cabeça o diadema, entregou-lhe o livro da lei.” “Viva o rei.” “Traição, traição!” “O povo devia ser o povo do Senhor.”",
+    "meditatio_perguntas": [
+      "Sou capaz da coragem discreta de Josaba para proteger a vida?",
+      "Confio que Deus guarda a sua promessa mesmo quando o mal parece reinar?",
+      "O “livro da lei” acompanha a minha autoridade?"
+    ],
+    "oratio_guia": "Senhor, que guardaste o menino na tua casa, guarda a vida dos pequenos ameaçados. Dá-me a coragem de Josaba e a paciência de Joiada, e que Jesus, o Rei que escondeste, reine sobre mim. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ele esteve seis anos oculto com a ama na casa do Senhor",
+      "ref": "2Rs 11,3"
+    }
+  },
+  "ancoras": {
+    "11:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “testemunho” (‘edut) entregue ao rei é provavelmente o documento da aliança ou a lei régia de Dt 17,18-20.",
+        "origem": "ia"
+      }
+    },
+    "11:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Atalia é a única mulher que reinou sozinha em Judá ou Israel; era filha de Acab e Jezabel.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

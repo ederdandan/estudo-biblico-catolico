@@ -1,0 +1,57 @@
+{
+  "id": "2KI.6.24",
+  "livro": "2KI",
+  "titulo": "A fome de Samaria e o livramento",
+  "secao": "O ciclo de Eliseu",
+  "referencia": "2Rs 6,24–7,20",
+  "ini": {
+    "c": 6,
+    "v": 24
+  },
+  "fim": {
+    "c": 7,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "Este é um dia de boa nova: a fome de Samaria e o livramento",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ben-Hadad sitia Samaria, e a fome é tão grande que uma cabeça de jumento se vende por oitenta moedas de prata. Uma mulher clama ao rei, que passa pela muralha: a outra me disse: dá o teu filho, para o comermos hoje, e amanhã comeremos o meu; cozemos o meu filho e o comemos; no dia seguinte, ela escondeu o dela. O rei rasga as vestes, e o povo vê que traz um saco sobre a carne. Furioso, jura cortar a cabeça de Eliseu e manda um mensageiro; o rei mesmo vem dizer: este mal vem do Senhor; “que mais esperarei eu do Senhor?” Eliseu anuncia: amanhã, a esta hora, a farinha se venderá barata à porta de Samaria. O oficial em cujo braço o rei se apoia zomba: ainda que o Senhor abrisse janelas no céu, como seria isso? Eliseu responde: tu o verás com os teus olhos, mas não comerás. Quatro leprosos à entrada da porta dizem: por que ficarmos aqui até morrer? Vamos ao acampamento sírio; se nos pouparem, viveremos. Ao anoitecer, encontram o acampamento vazio: o Senhor fizera os sírios ouvirem um estrondo de carros e de um grande exército, e eles fugiram, deixando tudo. Os leprosos comem, bebem, escondem prata e ouro; depois dizem: “Não fazemos bem, porque este é um dia de boa nova; se nos calarmos… seremos culpados.” Vão avisar a cidade. O rei desconfia de uma cilada, mas os batedores confirmam a fuga até o Jordão. O povo saqueia o acampamento, e a farinha se vende ao preço anunciado. O oficial, posto à porta, é pisado pela multidão e morre, como dissera o homem de Deus.",
+    "alegorico": "Os quatro leprosos, excluídos da cidade, são os primeiros a descobrir a salvação e a anunciá-la: figura dos pobres e dos pagãos a quem o Evangelho é revelado primeiro. A sua frase, “este é um dia de boa nova (bessorá), e nós nos calamos”, foi lida como o dever missionário: quem encontrou a salvação não pode guardá-la para si (1Cor 9,16).",
+    "moral": "O horror da fome mostra até onde leva a guerra e o abandono de Deus. O rei, desesperado, culpa Deus e o profeta; o oficial zomba da promessa e perde o dom que viu chegar. Mas os leprosos dão uma lição: depois de se saciarem, percebem que não é justo guardar a boa notícia. O egoísmo espiritual também é pecado.",
+    "anagogico": "Deus pode abrir “janelas no céu”: nenhuma situação está fechada para ele. Quem duvida pode ver e não provar; quem crê comerá no banquete do Reino."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Que mais esperarei eu do Senhor?” “Amanhã, a esta hora, dar-se-á uma medida de flor de farinha por siclo.” “Quando o Senhor abrir janelas no céu, poderá acaso ser o que tu dizes?” “Para que estamos nós aqui até morrermos?” “Este é um dia de boa nova.” “Tu o verás com os teus olhos, mas não comerás dele.”",
+    "meditatio_perguntas": [
+      "No desespero, digo também “que mais esperarei do Senhor”?",
+      "Zombo das promessas de Deus porque parecem impossíveis?",
+      "Guardo para mim a boa nova que recebi?"
+    ],
+    "oratio_guia": "Senhor, que abres janelas no céu quando tudo parece fechado, livra-me do desespero e da incredulidade. E que eu não me cale neste dia de boa nova, mas anuncie a todos a tua salvação. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não fazemos bem, porque este é um dia de boa nova",
+      "ref": "2Rs 7,9"
+    }
+  },
+  "ancoras": {
+    "6:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Esterco de pombas”: talvez nome popular de uma planta comestível pobre, ou literalmente usado como combustível.",
+        "origem": "ia"
+      }
+    },
+    "6:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A antropofagia nos cercos é uma das maldições da aliança (Dt 28,53-57; Lm 4,10).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

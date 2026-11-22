@@ -1,0 +1,57 @@
+{
+  "id": "2KI.4.38",
+  "livro": "2KI",
+  "titulo": "A panela envenenada e os pães multiplicados",
+  "secao": "O ciclo de Eliseu",
+  "referencia": "2Rs 4,38-44",
+  "ini": {
+    "c": 4,
+    "v": 38
+  },
+  "fim": {
+    "c": 4,
+    "v": 44
+  },
+  "liturgia": {
+    "tema_central": "Comerão, e sobejará: a panela envenenada e os pães multiplicados",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Eliseu volta a Gálgala, onde há fome. Os filhos dos profetas estão sentados diante dele, e ele diz ao servo: põe a panela grande e coze um caldo para os filhos dos profetas. Um deles sai ao campo para colher ervas, encontra uma espécie de vinha brava e colhe colocíntidas, enche a capa e as corta na panela, sem saber o que eram. Servem, e ao provar gritam: “Homem de Deus, a panela tem coisa mortífera!” E não podem comer. Eliseu diz: trazei farinha; lança-a na panela e diz: servi ao povo, e comam; e não há mais nada de mal na panela. Vem um homem de Baal-Salisa trazendo ao homem de Deus pães das primícias, vinte pães de cevada e trigo novo no alforje. Eliseu diz: dá ao povo para que coma. O servo responde: como hei de pôr isto diante de cem homens? Eliseu repete: “Dá ao povo, para que coma, porque eis o que diz o Senhor: Comerão, e sobejará.” Põe diante deles; comem, e ainda sobra, segundo a palavra do Senhor.",
+    "alegorico": "A multiplicação dos vinte pães de cevada para cem homens, com o diálogo cético do servo e as sobras, é o modelo direto da multiplicação dos pães por Jesus (Jo 6,9: “cinco pães de cevada… que é isto para tantos?”), que a supera infinitamente e aponta para a Eucaristia. A farinha que tira o veneno da panela foi lida como a doutrina de Cristo que cura o veneno das falsas doutrinas.",
+    "moral": "Na fome, Eliseu cuida da mesa da comunidade. O erro do que colheu as ervas venenosas foi de ignorância, e o profeta o corrige sem humilhar. E a multiplicação começa com um gesto de generosidade: alguém traz as primícias ao homem de Deus, e ele as distribui ao povo. A lógica de Deus é dar o que temos, mesmo que pareça pouco, confiando na sua palavra.",
+    "anagogico": "“Comerão, e sobejará”: a abundância do banquete messiânico, em que Deus saciará todos os famintos, e o Pão da vida não se esgotará."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Havia fome.” “Homem de Deus, a panela tem coisa mortífera.” “Trazei-me farinha.” “Vinte pães de cevada.” “Que é isto para eu o pôr diante de cem pessoas?” “Dá ao povo, para que coma.” “Comerão, e sobejará.”",
+    "meditatio_perguntas": [
+      "Partilho o pouco que tenho, confiando na palavra de Deus?",
+      "Que “venenos” preciso deixar Deus curar na minha mesa e no meu alimento espiritual?",
+      "Reconheço na Eucaristia o pão que não se esgota?"
+    ],
+    "oratio_guia": "Senhor, que multiplicas o pão nas mãos dos que confiam, recebe o pouco que tenho e dá-o ao povo. Tira o veneno das nossas panelas e sacia-nos com o Pão da vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "Dá ao povo, para que coma, porque eis o que diz o Senhor: Comerão, e sobejará",
+      "ref": "2Rs 4,43"
+    }
+  },
+  "ancoras": {
+    "4:39": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As colocíntidas (pepinos selvagens) são purgativas violentas e podem ser tóxicas.",
+        "origem": "ia"
+      }
+    },
+    "4:42": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As primícias deviam ser levadas ao santuário; no reino do Norte, alguns as traziam aos profetas fiéis em vez dos santuários cismáticos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

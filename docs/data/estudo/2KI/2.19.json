@@ -1,0 +1,57 @@
+{
+  "id": "2KI.2.19",
+  "livro": "2KI",
+  "titulo": "Os primeiros sinais de Eliseu",
+  "secao": "O ciclo de Eliseu",
+  "referencia": "2Rs 2,19-25",
+  "ini": {
+    "c": 2,
+    "v": 19
+  },
+  "fim": {
+    "c": 2,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "Eu sarei estas águas: os primeiros sinais de Eliseu",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os habitantes de Jericó dizem a Eliseu: a cidade está bem situada, como vês, senhor, mas as águas são más e a terra é estéril. Ele diz: trazei-me um vaso novo e ponde nele sal. Vai à fonte, lança o sal e diz: “Eis o que diz o Senhor: Eu sarei estas águas, e elas não causarão mais nem morte nem esterilidade.” E as águas ficam sãs até hoje, segundo a palavra de Eliseu. Dali sobe a Betel. No caminho, uns rapazes saem da cidade e zombam dele: sobe, careca! sobe, careca! Eliseu se volta, olha-os e os amaldiçoa em nome do Senhor; saem do bosque duas ursas e despedaçam quarenta e dois deles. Dali vai ao monte Carmelo e depois volta a Samaria.",
+    "alegorico": "O sal lançado na fonte por um vaso novo foi lido pelos Padres como figura do batismo e da pregação apostólica: os discípulos, “sal da terra” (Mt 5,13), em vasos novos, curam as águas amargas do mundo. A zombaria em Betel, cidade dos bezerros, mostra o desprezo do profeta pelos idólatras; a tradição viu nos rapazes que gritam “sobe, careca” um eco dos que zombaram de Cristo no Calvário.",
+    "moral": "O primeiro gesto de Eliseu é de cura: torna fecundas as águas da morte. O profeta é enviado para dar vida. O segundo episódio, duro aos nossos olhos, ensina que o desprezo da palavra de Deus e dos seus mensageiros não é coisa leve; Betel era o centro do culto idólatra, e a zombaria visava o profeta do Senhor. O texto não nos convida a amaldiçoar, mas a temer o desprezo do sagrado.",
+    "anagogico": "A fonte curada de Jericó anuncia o rio da água da vida que sai do trono de Deus e cura as nações (Ap 22,1-2)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“As águas são más e a terra estéril.” “Trazei-me um vaso novo e deitai-lhe sal.” “Eu sarei estas águas.” “Não causarão mais nem morte nem esterilidade.” “Sobe, ó calvo, sobe, ó calvo!”",
+    "meditatio_perguntas": [
+      "Que “águas amargas” em mim precisam da cura de Deus?",
+      "Sou “sal” que cura onde vivo?",
+      "Desprezo o que é sagrado com zombarias e ironias?"
+    ],
+    "oratio_guia": "Senhor, lança o teu sal nas águas amargas do meu coração, e torna fecunda a minha terra estéril. Faz de mim vaso novo da tua graça e livra-me do desprezo das coisas santas. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu sarei estas águas, e elas não causarão mais nem morte nem esterilidade",
+      "ref": "2Rs 2,21"
+    }
+  },
+  "ancoras": {
+    "2:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “fonte de Eliseu” (Ain es-Sultan), junto à antiga Jericó, ainda hoje abastece o oásis.",
+        "origem": "ia"
+      }
+    },
+    "2:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Rapazes” (ne‘arim qetannim) pode designar jovens, não necessariamente crianças; o número 42 aparece também em 10,14.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

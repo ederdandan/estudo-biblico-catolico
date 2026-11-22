@@ -1,0 +1,57 @@
+{
+  "id": "2KI.23.31",
+  "livro": "2KI",
+  "titulo": "Os últimos reis de Judá e a primeira deportação",
+  "secao": "A queda de Jerusalém",
+  "referencia": "2Rs 23,31–24,20",
+  "ini": {
+    "c": 23,
+    "v": 31
+  },
+  "fim": {
+    "c": 24,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "A ira do Senhor crescia contra Jerusalém: os últimos reis e a primeira deportação",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Joacaz, filho de Josias, reina três meses e faz o mal; o faraó Necao o prende em Rebla, impõe tributo ao país e põe no trono Eliacim, outro filho de Josias, mudando-lhe o nome para Joaquim; Joacaz morre no Egito. Joaquim reina onze anos, cobra do povo o tributo do faraó e faz o mal como os pais. No seu tempo, Nabucodonosor, rei de Babilônia, o submete por três anos; depois ele se revolta. O Senhor envia contra Judá bandos de caldeus, arameus, moabitas e amonitas, “em cumprimento da palavra do Senhor contra Judá… por causa de todos os crimes que Manassés tinha cometido, e por causa do sangue inocente que ele derramou… Por isso o Senhor não quis mostrar-se propício”. O Egito não sai mais das suas fronteiras, porque Babilônia toma tudo, do rio do Egito ao Eufrates. Joaquim (Jeconias), filho de Joaquim, reina três meses e faz o mal. Os oficiais de Nabucodonosor sitiam Jerusalém; o rei de Judá se entrega com a mãe, os servos, os príncipes e os eunucos. Nabucodonosor leva os tesouros do templo e do palácio e despedaça os vasos de ouro de Salomão, como o Senhor dissera; deporta Jerusalém inteira, os chefes, os valentes, dez mil, os artesãos e ferreiros; só ficam os pobres do povo da terra. Leva para Babilônia o rei, a rainha-mãe, as mulheres e os grandes. Põe no trono Matanias, tio do rei, com o nome de Sedecias. Sedecias reina onze anos e faz o mal. “A ira do Senhor crescia contra Jerusalém e contra Judá, até os rejeitar da sua presença.” E Sedecias se revolta contra o rei de Babilônia.",
+    "alegorico": "A deportação de 597, que leva Ezequiel e os melhores do povo, deixando “só os pobres da terra”, prepara o tema dos “pobres do Senhor” (anawim), resto humilde do qual virá a salvação. Jeconias, rei deportado, aparece na genealogia de Jesus (Mt 1,11-12): o exílio não interrompe a linha da promessa.",
+    "moral": "A sucessão de reis fantoches, nomeados e rebatizados pelos impérios, mostra a perda da liberdade de um povo que perdeu Deus. Os reis mudam, a fidelidade não volta: “fez o mal como os pais”. O texto insiste que o castigo vem de longe: o sangue inocente de Manassés pesa ainda. O pecado tem consequências sociais que atravessam gerações.",
+    "anagogico": "Mesmo no exílio, o fio da promessa continua: o Messias nascerá da descendência de um rei deportado. Deus escreve direito por linhas tortas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Fez o mal diante do Senhor, segundo tudo o que tinham feito seus pais.” “Mudou-lhe o nome em Joaquim.” “Por causa do sangue que ele derramou.” “O Senhor não quis mostrar-se propício.” “Não ficou nada, à excepção dos pobres.” “A ira do Senhor crescia contra Jerusalém.”",
+    "meditatio_perguntas": [
+      "Repito, sem perceber, os pecados das gerações anteriores?",
+      "Deixo que os “impérios” do mundo me deem um nome que não é o meu?",
+      "Creio que Deus continua a sua promessa mesmo nos exílios?"
+    ],
+    "oratio_guia": "Senhor, quebra em mim a cadeia dos pecados herdados. Que eu não receba dos poderes do mundo um nome que não é o meu, e que mesmo no exílio eu guarde a esperança na tua promessa. Amém.",
+    "contemplatio_foco": {
+      "texto": "A ira do Senhor crescia contra Jerusalém e contra Judá, até os rejeitar da sua presença",
+      "ref": "2Rs 24,20"
+    }
+  },
+  "ancoras": {
+    "24:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A rendição de Joaquim (Jeconias) em 597 a.C. é confirmada pela Crônica Babilônica, que data a tomada de Jerusalém em 16 de março de 597.",
+        "origem": "ia"
+      }
+    },
+    "24:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Entre os deportados estava o sacerdote Ezequiel (Ez 1,1-3).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

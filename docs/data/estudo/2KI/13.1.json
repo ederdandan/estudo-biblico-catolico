@@ -1,0 +1,57 @@
+{
+  "id": "2KI.13.1",
+  "livro": "2KI",
+  "titulo": "Joacaz, Joás de Israel e a morte de Eliseu",
+  "secao": "A revolução de Jeú",
+  "referencia": "2Rs 13,1-25",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "Meu pai, carro de Israel! A morte de Eliseu",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Joacaz, filho de Jeú, reina dezessete anos em Samaria e faz o mal; o Senhor entrega Israel nas mãos de Hazael. “Mas Joacaz fez a sua oração diante do Senhor, e o Senhor ouviu-o”, porque viu a opressão de Israel, e deu-lhe um salvador; mas não se afastam dos pecados de Jeroboão. Ao exército de Joacaz não restam mais que cinquenta cavaleiros, dez carros e dez mil infantes. Sucede-lhe Joás, seu filho, que reina dezesseis anos. Eliseu adoece da doença de que morrerá. Joás vai visitá-lo, chora diante dele e diz: “Meu pai, meu pai! carro de Israel e seu condutor!” Eliseu diz: toma um arco e flechas; põe a mão no arco; e pousa as suas mãos sobre as do rei. Abre a janela do oriente; atira! E o rei atira. Eliseu diz: “Flecha da salvação do Senhor, flecha da salvação contra a Síria”; ferirás a Síria em Afec até acabar com ela. Depois: toma as flechas e fere a terra. O rei fere três vezes e para. O homem de Deus se irrita: devias ter ferido cinco ou seis vezes; então derrotarias a Síria até o fim; agora só a vencerás três vezes. Eliseu morre e é sepultado. Bandos de Moab invadem a terra a cada ano. Uns que enterravam um homem, vendo os bandos, lançam o cadáver no sepulcro de Eliseu; ao tocar os ossos de Eliseu, o homem revive e se põe de pé. Hazael oprime Israel, “mas o Senhor compadeceu-se deles… por causa do pacto que tinha feito com Abraão, Isaac e Jacó”. Morto Hazael, Joás retoma de Ben-Hadad as cidades perdidas, vencendo-o três vezes.",
+    "alegorico": "O morto que revive ao tocar os ossos de Eliseu é, para a tradição, fundamento bíblico da veneração das relíquias dos santos (cf. At 19,12), e figura da vida que vem da morte de Cristo: quem é “sepultado com ele” no batismo ressuscita com ele (Rm 6,4). As mãos do profeta sobre as do rei mostram que a força vem de Deus, não do braço humano.",
+    "moral": "Joás bate a terra só três vezes: a sua falta de ardor limita a vitória. Deus dá na medida da nossa fé e da nossa perseverança; a mediocridade espiritual se contenta com pouco. A oração de Joacaz, rei infiel, é ouvida: Deus se inclina até para os que não merecem. E o profeta, mesmo morto, continua a dar vida.",
+    "anagogico": "Os ossos de Eliseu, que devolvem a vida, anunciam a ressurreição da carne e a força do Corpo de Cristo, que nos ressuscitará no último dia."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Joacaz fez a sua oração… e o Senhor ouviu-o.” “Meu pai, meu pai! tu és o carro de Israel.” “Eliseu pôs as suas mãos sobre as do rei.” “Flecha da Salvação do Senhor.” “Se tivesses ferido a terra cinco, ou seis, ou sete vezes.” “Logo que o cadáver tocou os ossos de Eliseu, o homem ressuscitou.” “O Senhor compadeceu-se deles.”",
+    "meditatio_perguntas": [
+      "Fico satisfeito com “três golpes”, sem perseverar até a vitória?",
+      "Rezo com confiança mesmo sabendo que não mereço?",
+      "Venero os santos como sinais da vida que vem de Deus?"
+    ],
+    "oratio_guia": "Senhor, livra-me da mediocridade que se contenta com pouco. Põe as tuas mãos sobre as minhas, dá-me perseverança na luta e faz-me tocar, nos teus santos, a vida que vence a morte. Amém.",
+    "contemplatio_foco": {
+      "texto": "Logo que o cadáver tocou os ossos de Eliseu, o homem ressuscitou e levantou-se sobre os seus pés",
+      "ref": "2Rs 13,21"
+    }
+  },
+  "ancoras": {
+    "13:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “salvador” talvez seja o rei assírio Adad-nirari III, cujas campanhas contra Damasco (c. 805-796 a.C.) aliviaram Israel.",
+        "origem": "ia"
+      }
+    },
+    "13:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Eclo 48,14-15 celebra este prodígio: “mesmo morto, o seu corpo profetizou”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

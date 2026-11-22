@@ -1,0 +1,57 @@
+{
+  "id": "2KI.8.16",
+  "livro": "2KI",
+  "titulo": "Jorão e Ocozias de Judá",
+  "secao": "O ciclo de Eliseu",
+  "referencia": "2Rs 8,16-29",
+  "ini": {
+    "c": 8,
+    "v": 16
+  },
+  "fim": {
+    "c": 8,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "Uma lâmpada para sempre: Jorão e Ocozias de Judá",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No quinto ano de Jorão de Israel, Jorão, filho de Josafat, começa a reinar sobre Judá; tem trinta e dois anos e reina oito em Jerusalém. Anda no caminho dos reis de Israel, como a casa de Acab, porque se casou com uma filha de Acab, e faz o mal diante do Senhor. “Porém o Senhor não quis exterminar Judá, por causa de Davi, seu servo, conforme a promessa que lhe tinha feito de que conservaria sempre uma lâmpada na sua posteridade.” No seu tempo, Edom se rebela contra Judá e faz para si um rei; Jorão ataca de noite, mas o povo foge para as tendas, e Edom fica independente até hoje; também Lebna se rebela. Jorão adormece com os pais, e reina Ocozias, seu filho, de vinte e dois anos, cuja mãe é Atalia, neta de Amri. Reina um ano e anda no caminho da casa de Acab, de quem é parente. Vai com Jorão de Israel combater Hazael em Ramot de Galaad; Jorão é ferido e volta a Jezrael para se curar, e Ocozias desce a visitá-lo.",
+    "alegorico": "A lâmpada que Deus mantém acesa “por amor de Davi” atravessa até os reinados mais escuros: é a fidelidade de Deus à promessa messiânica, que não depende dos méritos humanos. Os Padres a leram como Cristo, luz que não se apaga, e a Igreja, que permanece apesar dos pecados dos seus membros.",
+    "moral": "O casamento político com a casa de Acab contamina Judá: as alianças com o mal acabam trazendo o mal para dentro de casa. Atalia, filha de Jezabel, será a prova disso. A família e as amizades moldam a fé, para o bem ou para o mal.",
+    "anagogico": "Mesmo quando tudo parece perdido, a promessa de Deus continua acesa como uma pequena lâmpada; no fim, será a luz que ilumina a cidade santa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Andou pelos caminhos dos reis de Israel.” “Uma filha de Acab era sua mulher.” “O Senhor não quis exterminar Judá, por causa de Davide, seu servo.” “Conservaria sempre uma lâmpada na sua posteridade.” “Seguiu os mesmos passos que a casa de Acab.”",
+    "meditatio_perguntas": [
+      "Que alianças e amizades estão moldando a minha fé?",
+      "Confio na fidelidade de Deus mesmo nos tempos escuros?",
+      "Mantenho acesa a lâmpada da fé na minha família?"
+    ],
+    "oratio_guia": "Senhor, que não deixaste apagar a lâmpada de Davi, guarda acesa a luz da fé na minha casa. Livra-me das alianças que me afastam de ti e sê fiel, apesar das minhas infidelidades. Amém.",
+    "contemplatio_foco": {
+      "texto": "conservaria sempre uma lâmpada na sua posteridade",
+      "ref": "2Rs 8,19"
+    }
+  },
+  "ancoras": {
+    "8:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A esposa de Jorão era Atalia, filha de Acab (e de Jezabel?); o v. 26 a chama “filha de Amri”, no sentido de descendente.",
+        "origem": "ia"
+      }
+    },
+    "8:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Lebna, cidade da Sefelá, na fronteira filisteia.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

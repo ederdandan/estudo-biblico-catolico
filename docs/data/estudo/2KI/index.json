@@ -1,0 +1,432 @@
+{
+ "livro": "2KI",
+ "secoes": [
+  "O ciclo de Eliseu",
+  "A revolução de Jeú",
+  "Os últimos anos de Israel",
+  "Ezequias e Josias",
+  "A queda de Jerusalém"
+ ],
+ "pericopes": [
+  {
+   "id": "2KI.1.1",
+   "titulo": "Ocozias e o fogo do céu",
+   "secao": "O ciclo de Eliseu",
+   "referencia": "2Rs 1,1-18",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 18
+   }
+  },
+  {
+   "id": "2KI.2.1",
+   "titulo": "Elias arrebatado ao céu",
+   "secao": "O ciclo de Eliseu",
+   "referencia": "2Rs 2,1-18",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 18
+   }
+  },
+  {
+   "id": "2KI.2.19",
+   "titulo": "Os primeiros sinais de Eliseu",
+   "secao": "O ciclo de Eliseu",
+   "referencia": "2Rs 2,19-25",
+   "ini": {
+    "c": 2,
+    "v": 19
+   },
+   "fim": {
+    "c": 2,
+    "v": 25
+   }
+  },
+  {
+   "id": "2KI.3.1",
+   "titulo": "A campanha contra Moab",
+   "secao": "O ciclo de Eliseu",
+   "referencia": "2Rs 3,1-27",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 27
+   }
+  },
+  {
+   "id": "2KI.4.1",
+   "titulo": "O azeite da viúva",
+   "secao": "O ciclo de Eliseu",
+   "referencia": "2Rs 4,1-7",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 7
+   }
+  },
+  {
+   "id": "2KI.4.8",
+   "titulo": "A sunamita e o seu filho",
+   "secao": "O ciclo de Eliseu",
+   "referencia": "2Rs 4,8-37",
+   "ini": {
+    "c": 4,
+    "v": 8
+   },
+   "fim": {
+    "c": 4,
+    "v": 37
+   }
+  },
+  {
+   "id": "2KI.4.38",
+   "titulo": "A panela envenenada e os pães multiplicados",
+   "secao": "O ciclo de Eliseu",
+   "referencia": "2Rs 4,38-44",
+   "ini": {
+    "c": 4,
+    "v": 38
+   },
+   "fim": {
+    "c": 4,
+    "v": 44
+   }
+  },
+  {
+   "id": "2KI.5.1",
+   "titulo": "A cura de Naamã",
+   "secao": "O ciclo de Eliseu",
+   "referencia": "2Rs 5,1-27",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 27
+   }
+  },
+  {
+   "id": "2KI.6.1",
+   "titulo": "O machado que flutua e os sírios cegados",
+   "secao": "O ciclo de Eliseu",
+   "referencia": "2Rs 6,1-23",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 23
+   }
+  },
+  {
+   "id": "2KI.6.24",
+   "titulo": "A fome de Samaria e o livramento",
+   "secao": "O ciclo de Eliseu",
+   "referencia": "2Rs 6,24–7,20",
+   "ini": {
+    "c": 6,
+    "v": 24
+   },
+   "fim": {
+    "c": 7,
+    "v": 20
+   }
+  },
+  {
+   "id": "2KI.8.1",
+   "titulo": "A sunamita restituída; as lágrimas de Eliseu diante de Hazael",
+   "secao": "O ciclo de Eliseu",
+   "referencia": "2Rs 8,1-15",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 15
+   }
+  },
+  {
+   "id": "2KI.8.16",
+   "titulo": "Jorão e Ocozias de Judá",
+   "secao": "O ciclo de Eliseu",
+   "referencia": "2Rs 8,16-29",
+   "ini": {
+    "c": 8,
+    "v": 16
+   },
+   "fim": {
+    "c": 8,
+    "v": 29
+   }
+  },
+  {
+   "id": "2KI.9.1",
+   "titulo": "Jeú ungido; a morte de Jorão e de Jezabel",
+   "secao": "A revolução de Jeú",
+   "referencia": "2Rs 9,1-37",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 37
+   }
+  },
+  {
+   "id": "2KI.10.1",
+   "titulo": "Jeú extermina a casa de Acab e o culto de Baal",
+   "secao": "A revolução de Jeú",
+   "referencia": "2Rs 10,1-36",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 36
+   }
+  },
+  {
+   "id": "2KI.11.1",
+   "titulo": "Atalia e o menino Joás",
+   "secao": "A revolução de Jeú",
+   "referencia": "2Rs 11,1-21",
+   "ini": {
+    "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 21
+   }
+  },
+  {
+   "id": "2KI.12.1",
+   "titulo": "Joás restaura o Templo",
+   "secao": "A revolução de Jeú",
+   "referencia": "2Rs 12,1-21",
+   "ini": {
+    "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 21
+   }
+  },
+  {
+   "id": "2KI.13.1",
+   "titulo": "Joacaz, Joás de Israel e a morte de Eliseu",
+   "secao": "A revolução de Jeú",
+   "referencia": "2Rs 13,1-25",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 25
+   }
+  },
+  {
+   "id": "2KI.14.1",
+   "titulo": "Amasias de Judá e Jeroboão II",
+   "secao": "Os últimos anos de Israel",
+   "referencia": "2Rs 14,1-29",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 29
+   }
+  },
+  {
+   "id": "2KI.15.1",
+   "titulo": "Azarias e os últimos reis de Israel",
+   "secao": "Os últimos anos de Israel",
+   "referencia": "2Rs 15,1-38",
+   "ini": {
+    "c": 15,
+    "v": 1
+   },
+   "fim": {
+    "c": 15,
+    "v": 38
+   }
+  },
+  {
+   "id": "2KI.16.1",
+   "titulo": "Acaz e o altar de Damasco",
+   "secao": "Os últimos anos de Israel",
+   "referencia": "2Rs 16,1-20",
+   "ini": {
+    "c": 16,
+    "v": 1
+   },
+   "fim": {
+    "c": 16,
+    "v": 20
+   }
+  },
+  {
+   "id": "2KI.17.1",
+   "titulo": "A queda de Samaria: por que Israel caiu",
+   "secao": "Os últimos anos de Israel",
+   "referencia": "2Rs 17,1-23",
+   "ini": {
+    "c": 17,
+    "v": 1
+   },
+   "fim": {
+    "c": 17,
+    "v": 23
+   }
+  },
+  {
+   "id": "2KI.17.24",
+   "titulo": "Os povos transplantados para Samaria",
+   "secao": "Os últimos anos de Israel",
+   "referencia": "2Rs 17,24-41",
+   "ini": {
+    "c": 17,
+    "v": 24
+   },
+   "fim": {
+    "c": 17,
+    "v": 41
+   }
+  },
+  {
+   "id": "2KI.18.1",
+   "titulo": "Ezequias e a ameaça assíria",
+   "secao": "Ezequias e Josias",
+   "referencia": "2Rs 18,1-37",
+   "ini": {
+    "c": 18,
+    "v": 1
+   },
+   "fim": {
+    "c": 18,
+    "v": 37
+   }
+  },
+  {
+   "id": "2KI.19.1",
+   "titulo": "A oração de Ezequias e o livramento de Jerusalém",
+   "secao": "Ezequias e Josias",
+   "referencia": "2Rs 19,1-37",
+   "ini": {
+    "c": 19,
+    "v": 1
+   },
+   "fim": {
+    "c": 19,
+    "v": 37
+   }
+  },
+  {
+   "id": "2KI.20.1",
+   "titulo": "A doença de Ezequias e os enviados de Babilônia",
+   "secao": "Ezequias e Josias",
+   "referencia": "2Rs 20,1-21",
+   "ini": {
+    "c": 20,
+    "v": 1
+   },
+   "fim": {
+    "c": 20,
+    "v": 21
+   }
+  },
+  {
+   "id": "2KI.21.1",
+   "titulo": "Manassés e Amon",
+   "secao": "Ezequias e Josias",
+   "referencia": "2Rs 21,1-26",
+   "ini": {
+    "c": 21,
+    "v": 1
+   },
+   "fim": {
+    "c": 21,
+    "v": 26
+   }
+  },
+  {
+   "id": "2KI.22.1",
+   "titulo": "O livro da Lei encontrado no Templo",
+   "secao": "Ezequias e Josias",
+   "referencia": "2Rs 22,1-20",
+   "ini": {
+    "c": 22,
+    "v": 1
+   },
+   "fim": {
+    "c": 22,
+    "v": 20
+   }
+  },
+  {
+   "id": "2KI.23.1",
+   "titulo": "A reforma e a Páscoa de Josias",
+   "secao": "Ezequias e Josias",
+   "referencia": "2Rs 23,1-30",
+   "ini": {
+    "c": 23,
+    "v": 1
+   },
+   "fim": {
+    "c": 23,
+    "v": 30
+   }
+  },
+  {
+   "id": "2KI.23.31",
+   "titulo": "Os últimos reis de Judá e a primeira deportação",
+   "secao": "A queda de Jerusalém",
+   "referencia": "2Rs 23,31–24,20",
+   "ini": {
+    "c": 23,
+    "v": 31
+   },
+   "fim": {
+    "c": 24,
+    "v": 20
+   }
+  },
+  {
+   "id": "2KI.25.1",
+   "titulo": "A destruição de Jerusalém e o exílio",
+   "secao": "A queda de Jerusalém",
+   "referencia": "2Rs 25,1-30",
+   "ini": {
+    "c": 25,
+    "v": 1
+   },
+   "fim": {
+    "c": 25,
+    "v": 30
+   }
+  }
+ ]
+}

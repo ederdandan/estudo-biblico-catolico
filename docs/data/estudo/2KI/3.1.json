@@ -1,0 +1,57 @@
+{
+  "id": "2KI.3.1",
+  "livro": "2KI",
+  "titulo": "A campanha contra Moab",
+  "secao": "O ciclo de Eliseu",
+  "referencia": "2Rs 3,1-27",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "Trazei-me um tocador de harpa: a campanha contra Moab",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jorão, filho de Acab, reina doze anos sobre Israel; faz o mal, mas não como o pai e a mãe: remove a estela de Baal, mas persiste nos pecados de Jeroboão. Mesa, rei de Moab, que pagava tributo de cem mil cordeiros e lã de cem mil carneiros, se rebela. Jorão convoca Josafat de Judá e o rei de Edom, e marcham pelo deserto de Edom; depois de sete dias, não há água para o exército nem para os animais. Jorão se desespera: o Senhor nos reuniu para nos entregar a Moab! Josafat pergunta: não há aqui um profeta do Senhor? Está aqui Eliseu, que derramava água nas mãos de Elias. Os três reis descem a ele. Eliseu diz ao rei de Israel: que tenho eu contigo? vai aos profetas do teu pai e da tua mãe; se não fosse por Josafat, nem olharia para ti. “Mas agora trazei-me um tocador de harpa.” Enquanto o músico toca, a mão do Senhor vem sobre Eliseu, que diz: cavai fossas neste vale; não vereis vento nem chuva, mas o vale se encherá de água; e isto é pouco: o Senhor entregará Moab nas vossas mãos. De manhã, à hora da oblação, a água vem da banda de Edom e enche a terra. Os moabitas, ao nascer do sol, veem as águas vermelhas como sangue e pensam: os reis se mataram entre si; ao saque! Mas Israel os vence e devasta o país. Cercado em Quir-Haresete, o rei de Moab toma o primogênito, o herdeiro, e o oferece em holocausto sobre a muralha. Há grande indignação contra Israel, que se retira e volta à sua terra.",
+    "alegorico": "A água que enche as fossas sem chuva nem vento, à hora da oblação da manhã, foi lida como figura da graça batismal que vem de Deus e não de causas humanas; as “fossas” cavadas são a humildade e o desejo que preparam o coração para recebê-la. A música que dispõe o profeta foi tomada pela tradição como imagem da liturgia que abre a alma à ação do Espírito.",
+    "moral": "Diante da crise, Jorão acusa Deus; Josafat busca a palavra do Senhor. Eliseu, com franqueza, não lisonjeia o rei idólatra, mas por amor do justo Josafat socorre a todos. E pede música para se recolher: a escuta de Deus exige paz interior. O fim trágico (o sacrifício do filho do rei de Moab) mostra até onde leva o desespero da idolatria.",
+    "anagogico": "“Isto é pouco aos olhos do Senhor”: Deus sempre dá mais do que pedimos. No fim, a sua generosidade superará todas as nossas expectativas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não há aqui nenhum profeta do Senhor?” “Que lançava água sobre as mãos de Elias.” “Trazei-me um tocador de harpa.” “Foi a mão do Senhor sobre Eliseu.” “Cavai muitas fossas neste vale!” “Vós não vereis vento nem chuva, mas este vale se encherá de água.” “Isto é pouco aos olhos do Senhor.”",
+    "meditatio_perguntas": [
+      "Na crise, acuso Deus ou busco a sua palavra?",
+      "Preparo “fossas” no meu coração para receber a graça?",
+      "Que lugar tem a música e o silêncio na minha escuta de Deus?"
+    ],
+    "oratio_guia": "Senhor, enche de água viva o vale seco da minha vida, sem vento nem chuva, só pela tua graça. Dá-me cavar as fossas do desejo e da humildade, e dispõe-me para ouvir a tua palavra. Amém.",
+    "contemplatio_foco": {
+      "texto": "Vós não vereis vento nem chuva, mas este vale se encherá de água, e bebereis vós, os vossos servos e os vossos animais",
+      "ref": "2Rs 3,17"
+    }
+  },
+  "ancoras": {
+    "3:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Estela de Mesa (c. 840 a.C.), descoberta em 1868, narra do lado moabita a libertação de Moab do domínio de Israel.",
+        "origem": "ia"
+      }
+    },
+    "3:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Derramava água sobre as mãos de Elias”: expressão para designar o servo e discípulo pessoal do profeta.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "2KI.4.1",
+  "livro": "2KI",
+  "titulo": "O azeite da viúva",
+  "secao": "O ciclo de Eliseu",
+  "referencia": "2Rs 4,1-7",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 7
+  },
+  "liturgia": {
+    "tema_central": "Que tens em tua casa? O azeite da viúva",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "A viúva de um dos filhos dos profetas clama a Eliseu: o meu marido, teu servo, morreu; sabes que temia o Senhor; agora o credor vem levar os meus dois filhos como escravos. Eliseu diz: “Que queres que eu te faça? Dize-me: que tens em tua casa?” Ela responde: a tua serva não tem nada em casa, senão uma vasilha de azeite. Ele diz: vai, pede emprestadas às tuas vizinhas muitas vasilhas vazias; depois entra, fecha a porta atrás de ti e dos teus filhos, e derrama o azeite em todas as vasilhas; e põe de lado as cheias. Ela faz assim: fecha a porta, os filhos trazem as vasilhas, e ela derrama. Cheias todas as vasilhas, diz a um filho: traze-me outra. Não há mais. E o azeite para. Ela vai contar ao homem de Deus, que diz: vai, vende o azeite, paga a tua dívida, e tu e os teus filhos vivei do resto.",
+    "alegorico": "O azeite que se multiplica enquanto há vasilhas vazias foi lido como figura da graça do Espírito Santo, que enche na medida em que o coração se esvazia e se abre; quando não há mais recipientes, o dom cessa. As vasilhas emprestadas das vizinhas sugerem que a graça se recebe também em comunhão com os outros.",
+    "moral": "Eliseu começa perguntando: “que tens?” Deus parte do pouco que temos, não do nada. A fé da viúva se mostra em obedecer e em pedir muitas vasilhas: a medida do milagre foi a medida da sua confiança. E o gesto se faz com a porta fechada, na intimidade: o milagre não é espetáculo. Deus cuida das viúvas e dos órfãos e não quer que os pobres caiam em escravidão.",
+    "anagogico": "A graça de Deus só cessa quando não há mais onde derramar. No céu, os corações serão vasos sem fim, cheios da plenitude de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Meu marido, teu servo, morreu.” “Que queres que eu te faça?” “Que tens em tua casa?” “Não tenho em minha casa outra coisa, senão uma vasilha de azeite.” “Pede emprestadas às tuas vizinhas bastantes vasilhas vazias.” “Não tenho mais. E o azeite cessou.”",
+    "meditatio_perguntas": [
+      "O que tenho “em casa” que posso oferecer a Deus, por pouco que seja?",
+      "Quantas “vasilhas vazias” preparo para receber a graça?",
+      "Ajudo as viúvas e os endividados à minha volta?"
+    ],
+    "oratio_guia": "Senhor, tenho pouco, mas é teu. Multiplica-o segundo a medida da minha confiança, e faz-me abrir muitas vasilhas vazias para receber a tua graça. Cuida das viúvas e dos órfãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Que queres que eu te faça? Dize-me: que tens em tua casa?",
+      "ref": "2Rs 4,2"
+    }
+  },
+  "ancoras": {
+    "4:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A lei permitia ao credor tomar como servos os filhos do devedor, até o ano sabático ou jubilar (Ex 21,2-7; Lv 25,39-41).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

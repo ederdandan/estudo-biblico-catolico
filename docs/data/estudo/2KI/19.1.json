@@ -1,0 +1,57 @@
+{
+  "id": "2KI.19.1",
+  "livro": "2KI",
+  "titulo": "A oração de Ezequias e o livramento de Jerusalém",
+  "secao": "Ezequias e Josias",
+  "referencia": "2Rs 19,1-37",
+  "ini": {
+    "c": 19,
+    "v": 1
+  },
+  "fim": {
+    "c": 19,
+    "v": 37
+  },
+  "liturgia": {
+    "tema_central": "Só tu és o Senhor Deus: a oração de Ezequias e o livramento",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ezequias rasga as vestes, cobre-se de saco e entra na casa do Senhor. Envia os ministros e os sacerdotes, vestidos de saco, ao profeta Isaías: “Este dia é um dia de tribulação, de castigo e de opróbrio; os filhos chegaram ao ponto de nascer, e a que está de parto não tem forças.” Talvez o Senhor ouça as blasfêmias do Rabsaces; reza pelo resto que ficou. Isaías responde: “Não temas essas palavras”; porei nele um espírito, ouvirá um boato e voltará à sua terra, onde cairá à espada. Senaquerib, ouvindo que Taraca, rei da Etiópia, vem contra ele, envia uma carta a Ezequias: não te engane o teu Deus; os deuses das nações não as livraram. Ezequias recebe a carta, sobe à casa do Senhor e “estendeu-a diante do Senhor”, e reza: “Senhor Deus de Israel, que estás sentado sobre os querubins, só tu és o Deus de todos os reis da terra; tu fizeste o céu e a terra. Inclina o teu ouvido e ouve; abre, Senhor, os teus olhos e vê” as palavras de Senaquerib, que blasfemou o Deus vivo. Os reis da Assíria devastaram as nações e lançaram os seus deuses ao fogo, porque não eram deuses, mas obra de mãos humanas. “Salva-nos agora, Senhor nosso Deus… para que todos os reinos da terra saibam que só tu és o Senhor Deus.” Isaías envia a resposta do Senhor: um poema contra o orgulho de Senaquerib: a virgem filha de Sião te despreza; contra quem levantaste a voz? Contra o Santo de Israel! Porei o meu anel no teu nariz e te farei voltar pelo caminho por onde vieste. E um sinal para Judá: “o que ficar da casa de Judá lançará raízes para baixo, e produzirá o seu fruto para cima”. Não entrará nesta cidade; “eu protegerei esta cidade… por amor de mim e por amor do meu servo Davi”. Naquela noite, o anjo do Senhor fere no acampamento assírio cento e oitenta e cinco mil homens. Senaquerib volta a Nínive, onde é morto pelos próprios filhos enquanto adora o seu deus.",
+    "alegorico": "A carta estendida diante do Senhor é a imagem da oração que entrega a Deus, literalmente, as ameaças que nos esmagam. A libertação de Jerusalém por um anjo, numa noite, foi lida como figura da Páscoa (Ex 12,29) e da vitória de Cristo sobre a morte. O “resto” que lança raízes para baixo e dá fruto para cima é o pequeno rebanho do qual virá o Messias, o “rebento do tronco de Jessé” (Is 11,1).",
+    "moral": "Diante da crise, Ezequias faz três coisas: humilha-se, pede a intercessão do profeta e reza pessoalmente. A sua oração não começa pelo problema, mas por Deus: “só tu és Deus… tu fizeste o céu e a terra”. E não pede só a salvação, mas que todos conheçam o Senhor. O orgulho do império assírio é derrubado; o seu rei morre diante do ídolo que não o salva.",
+    "anagogico": "“Eu protegerei esta cidade por amor de mim”: a Igreja, cidade de Deus, não será vencida pelas portas do inferno. No fim, todos os reinos saberão que só ele é Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Este dia é um dia de tribulação, de castigo e de opróbrio.” “Não temas essas palavras.” “Estendeu-a diante do Senhor.” “Só tu é que és o Deus de todos os reis da terra.” “Inclina o teu ouvido e ouve; abre, Senhor, os teus olhos e vê.” “Para que todos os reinos da terra saibam que só tu és o Senhor Deus.” “Lançará raízes para baixo, e produzirá o seu fruto para cima.”",
+    "meditatio_perguntas": [
+      "Que “cartas ameaçadoras” devo estender diante do Senhor?",
+      "A minha oração começa pela grandeza de Deus ou pelos meus problemas?",
+      "Peço que Deus seja conhecido por todos através da minha libertação?"
+    ],
+    "oratio_guia": "Senhor, que estás sentado sobre os querubins, só tu és Deus. Estendo diante de ti o que me ameaça: inclina o teu ouvido e vê. Salva-me, para que todos saibam que só tu és o Senhor. Amém.",
+    "contemplatio_foco": {
+      "texto": "Senhor Deus de Israel, que estás sentado sobre os querubins, só tu é que és o Deus de todos os reis da terra; tu fizeste o céu e a terra",
+      "ref": "2Rs 19,15"
+    }
+  },
+  "ancoras": {
+    "19:35": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Heródoto (II,141) conserva a tradição egípcia de uma catástrofe no exército de Senaquerib, atribuída a ratos (talvez peste).",
+        "origem": "ia"
+      }
+    },
+    "19:37": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Senaquerib foi assassinado em 681 a.C., vinte anos depois da campanha contra Jerusalém.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

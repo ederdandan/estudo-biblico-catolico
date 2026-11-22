@@ -1,0 +1,57 @@
+{
+  "id": "2KI.12.1",
+  "livro": "2KI",
+  "titulo": "Joás restaura o Templo",
+  "secao": "A revolução de Jeú",
+  "referencia": "2Rs 12,1-21",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "Joás procedeu retamente enquanto o dirigiu Joiada: a restauração do Templo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Joás reina quarenta anos em Jerusalém. “Joás procedeu retamente diante do Senhor durante todo o tempo que foi dirigido pelo pontífice Joiada”, embora não tirasse os lugares altos. Ordena aos sacerdotes que todo o dinheiro consagrado, das taxas e das ofertas voluntárias, seja usado para reparar as brechas do templo. Mas no vigésimo terceiro ano os sacerdotes ainda não fizeram nenhum reparo. O rei os chama: por que não reparais? Não recebais mais o dinheiro; entregai-o para a obra. Joiada toma um cofre, faz um buraco na tampa e o põe ao lado do altar, à direita de quem entra; os sacerdotes porteiros depositam ali todo o dinheiro. Quando o cofre está cheio, o secretário do rei e o sumo sacerdote contam o dinheiro e o entregam aos mestres de obras, que pagam carpinteiros, pedreiros e canteiros e compram madeira e pedras. Não se faz prestação de contas com eles, “porque o empregavam com fidelidade”. Hazael, rei da Síria, toma Get e se volta contra Jerusalém; Joás lhe entrega todos os tesouros consagrados do templo e do palácio, e Hazael se retira. Os servos de Joás conspiram e o matam em Bet-Melo; sucede-lhe Amasias.",
+    "alegorico": "O cofre junto ao altar, para onde vão as ofertas destinadas a reparar a casa de Deus, inspirou o costume do tesouro e das esmolas na Igreja; Jesus observará a viúva que lança as duas moedas no tesouro do Templo (Mc 12,41-44). Reparar as brechas do templo é imagem da conversão contínua da Igreja e de cada alma.",
+    "moral": "Joás é bom enquanto tem ao lado um bom conselheiro; 2Cr 24 narra que, morto Joiada, ele se desviou e mandou apedrejar o filho do sacerdote. A fé que depende só do apoio externo não resiste. A reforma das finanças mostra que a administração dos bens da Igreja exige transparência e fidelidade; os sacerdotes negligentes são corrigidos, e os operários honestos são elogiados.",
+    "anagogico": "Os templos terrenos se deterioram e são saqueados; o templo eterno, edificado por Deus, não terá mais brechas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Joás procedeu rectamente diante do Senhor durante todo o tempo que foi dirigido pelo pontífice Jojada.” “Façam os reparos na casa do Senhor.” “Por que não fazeis vós os reparos no templo?” “Pegou num cofre, mandou-lhe abrir um buraco por cima.” “Eles o empregavam com fidelidade.”",
+    "meditatio_perguntas": [
+      "A minha fé se sustenta sozinha ou depende de quem me guia?",
+      "Contribuo para “reparar as brechas” da minha comunidade?",
+      "Administro com fidelidade os bens que me são confiados?"
+    ],
+    "oratio_guia": "Senhor, que eu permaneça fiel mesmo quando me faltarem os que me guiam. Faz-me colaborar com generosidade para reparar a tua casa, e ser fiel na administração do que me confias. Amém.",
+    "contemplatio_foco": {
+      "texto": "Joás procedeu rectamente diante do Senhor durante todo o tempo que foi dirigido pelo pontífice Jojada",
+      "ref": "2Rs 12,2"
+    }
+  },
+  "ancoras": {
+    "12:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na Vulgata e em Matos Soares, 2Rs 12,1 corresponde a 11,21–12,1 do hebraico; daí a diferença de um versículo.",
+        "origem": "ia"
+      }
+    },
+    "12:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "2Cr 24,17-25 atribui a conspiração à vingança pelo assassinato de Zacarias, filho de Joiada, citado por Jesus (Mt 23,35).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

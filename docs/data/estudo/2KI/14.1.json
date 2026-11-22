@@ -1,0 +1,57 @@
+{
+  "id": "2KI.14.1",
+  "livro": "2KI",
+  "titulo": "Amasias de Judá e Jeroboão II",
+  "secao": "Os últimos anos de Israel",
+  "referencia": "2Rs 14,1-29",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "O cardo do Líbano e o cedro: Amasias e Jeroboão II",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Amasias, filho de Joás, reina vinte e nove anos em Jerusalém e faz o que é reto, “mas não como Davi”; não tira os lugares altos. Firmado no reino, mata os servos que assassinaram o seu pai, mas não os filhos deles, segundo a lei de Moisés: “não morrerão os pais pelos filhos, nem os filhos pelos pais”. Vence dez mil idumeus no vale do Sal. Então, orgulhoso, desafia Joás, rei de Israel: vem, vejamo-nos frente a frente. Joás responde com uma fábula: o cardo do Líbano mandou dizer ao cedro: dá a tua filha por mulher ao meu filho; mas passou uma fera e pisou o cardo. “Tu venceste os idumeus; por isso o teu coração se ensoberbeceu; contenta-te com essa glória e fica em casa. Por que provocas a desgraça?” Amasias não escuta; é derrotado em Bet-Sames, preso; Joás derruba quatrocentos côvados do muro de Jerusalém e leva os tesouros do templo e do palácio. Amasias vive ainda quinze anos e é morto numa conspiração em Laquis; o povo põe no trono Azarias, de dezesseis anos. Em Israel, Jeroboão II, filho de Joás, reina quarenta e um anos e faz o mal, mas restabelece as fronteiras de Israel, desde a entrada de Emat até o mar da Arabá, segundo a palavra do profeta Jonas, filho de Amati. “O Senhor viu a amargosíssima aflição de Israel… e não havia quem socorresse Israel”; e o Senhor não decretara apagar o nome de Israel; salvou-os pela mão de Jeroboão.",
+    "alegorico": "Jonas, filho de Amati, aqui mencionado como profeta histórico, é o mesmo cujo livro se tornará o “sinal de Jonas”, figura da morte e ressurreição de Cristo (Mt 12,40). A compaixão de Deus por Israel, que salva até por meio de um rei infiel, antecipa a sua compaixão por Nínive no livro de Jonas.",
+    "moral": "Amasias aplica a lei com justiça (não pune os filhos pelos crimes dos pais), mas a vitória o enche de orgulho, e a fábula do cardo o retrata bem: quem se julga cedro acaba pisado. A soberba depois do êxito é a tentação dos vencedores. E Deus, por compaixão, faz bem a Israel mesmo por meio de um rei mau: a sua misericórdia não depende dos méritos dos instrumentos.",
+    "anagogico": "“Não havia quem socorresse Israel”: quando ninguém pode socorrer, Deus mesmo socorre. A sua compaixão é a última esperança dos abandonados."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Fez o que era justo diante do Senhor, mas não como Davide.” “Nem os filhos morrerão pelos pais.” “O cardo do Líbano mandou dizer ao cedro.” “Por isso o teu coração se ensoberbeceu.” “O Senhor viu a amargosíssima aflição de Israel.” “Não havia quem socorresse Israel.”",
+    "meditatio_perguntas": [
+      "Os meus sucessos me tornam soberbo e imprudente?",
+      "Sei contentar-me com a glória recebida, sem provocar desgraças?",
+      "Confio na compaixão de Deus quando ninguém me socorre?"
+    ],
+    "oratio_guia": "Senhor, guarda-me da soberba que nasce das vitórias. Que eu me contente com o que me dás e não provoque a minha ruína. E quando não houver quem me socorra, olha a minha aflição e salva-me. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor viu a amargosíssima aflição de Israel, que a todos tinha consumido, escravos ou livres, de modo que não havia quem socorresse Israel",
+      "ref": "2Rs 14,26"
+    }
+  },
+  "ancoras": {
+    "14:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação de Dt 24,16: primeira aplicação explícita na história do princípio da responsabilidade pessoal, desenvolvido em Ez 18.",
+        "origem": "ia"
+      }
+    },
+    "14:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jeroboão II (c. 786-746 a.C.) levou Israel ao auge da prosperidade, denunciada pelos profetas Amós e Oseias.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

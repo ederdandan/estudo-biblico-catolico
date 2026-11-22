@@ -1,0 +1,57 @@
+{
+  "id": "2KI.1.1",
+  "livro": "2KI",
+  "titulo": "Ocozias e o fogo do céu",
+  "secao": "O ciclo de Eliseu",
+  "referencia": "2Rs 1,1-18",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Não há um Deus em Israel? Ocozias e o fogo do céu",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Depois da morte de Acab, Moab se rebela contra Israel. O rei Ocozias cai da janela do quarto alto do palácio em Samaria e fica gravemente ferido. Envia mensageiros: ide consultar Beelzebub, deus de Acaron, se sararei desta doença. O anjo do Senhor diz a Elias: vai ao encontro deles e dize: “Porventura não há um Deus em Israel, para vós irdes consultar Beelzebub, deus de Acaron?” Por isso, não descerás da cama onde subiste; morrerás. Os mensageiros voltam e contam ao rei: um homem peludo, com um cinto de couro nos rins. É Elias, o tesbita! O rei envia um chefe com cinquenta homens, que chega ao monte onde Elias está sentado e ordena: homem de Deus, o rei manda que desças. Elias responde: “Se eu sou homem de Deus, desça fogo do céu e te devore a ti e aos teus cinquenta homens”; e o fogo desce. O mesmo acontece com um segundo chefe. O terceiro sobe, ajoelha-se diante de Elias e suplica: homem de Deus, poupa a minha vida e a destes teus servos. O anjo diz a Elias: desce com ele, não temas. Elias vai ao rei e repete a sentença. Ocozias morre segundo a palavra do Senhor, e Jorão, seu irmão, reina em seu lugar.",
+    "alegorico": "Quando Tiago e João querem mandar descer fogo do céu sobre os samaritanos, “como fez Elias”, Jesus os repreende: “não sabeis de que espírito sois” (Lc 9,54-55). O fogo de Elias mostra a santidade de Deus que não se deixa manipular; o fogo de Cristo será o do Espírito, que purifica e salva. Beelzebub, “senhor das moscas”, será no Evangelho o nome do príncipe dos demônios (Mt 12,24).",
+    "moral": "O rei de Israel, ferido, recorre a um ídolo estrangeiro em vez de recorrer ao Deus do seu povo: na doença e no medo, buscamos soluções mágicas e esquecemos Deus. A pergunta “não há um Deus em Israel?” é feita a cada cristão que recorre à superstição. E o terceiro capitão ensina: quem se aproxima com humildade obtém misericórdia; quem vem com arrogância, a dar ordens a Deus, é consumido.",
+    "anagogico": "O fogo do céu anuncia o juízo; mas a súplica humilde do terceiro capitão mostra que, até o fim, a misericórdia está aberta para quem se ajoelha."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ide, consultai Beelzebub, deus de Acaron.” “Porventura não há um Deus em Israel?” “Se eu sou homem de Deus, desça fogo do céu.” “Homem de Deus, não desprezes a minha vida.” “Desce com ele, não temas.” “Morreu Ocozias, conforme a palavra do Senhor.”",
+    "meditatio_perguntas": [
+      "Na doença e no medo, a quem recorro primeiro?",
+      "Que “beelzebubs” (superstições, magias, horóscopos) ainda consulto?",
+      "Aproximo-me de Deus com humildade ou dando ordens?"
+    ],
+    "oratio_guia": "Senhor, há um Deus em Israel, e és tu! Que eu não busque em outros deuses a cura e a segurança que só tu dás. Recebe-me quando me ajoelho e poupa a minha vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "Porventura não há um Deus em Israel, para vós irdes consultar Beelzebub, deus de Acaron?",
+      "ref": "2Rs 1,3"
+    }
+  },
+  "ancoras": {
+    "1:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O manto de pelos e o cinto de couro serão a veste de João Batista (Mt 3,4), “o Elias que havia de vir” (Mt 11,14).",
+        "origem": "ia"
+      }
+    },
+    "1:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Acaron, cidade filisteia; Baal-Zebub (“senhor das moscas”) é talvez deformação irônica de Baal-Zebul (“Baal príncipe”).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

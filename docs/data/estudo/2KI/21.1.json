@@ -1,0 +1,57 @@
+{
+  "id": "2KI.21.1",
+  "livro": "2KI",
+  "titulo": "Manassés e Amon",
+  "secao": "Ezequias e Josias",
+  "referencia": "2Rs 21,1-26",
+  "ini": {
+    "c": 21,
+    "v": 1
+  },
+  "fim": {
+    "c": 21,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "Encheu Jerusalém de sangue inocente: Manassés e Amon",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Manassés tem doze anos quando começa a reinar e reina cinquenta e cinco anos em Jerusalém. “Fez o mal diante do Senhor, seguindo os ídolos das nações.” Reconstrói os lugares altos destruídos por Ezequias, ergue altares a Baal, faz uma asera como Acab, adora todo o exército do céu e constrói altares aos astros nos dois átrios do templo. “Fez passar seu próprio filho pelo fogo; entregou-se a adivinhações, observou agouros”, instituiu necromantes e adivinhos. Põe a imagem de Asera no templo de que o Senhor dissera: aqui porei o meu nome para sempre. O povo não ouve; Manassés o seduz a fazer pior que as nações exterminadas. O Senhor fala pelos profetas: porque Manassés cometeu estas abominações, trarei sobre Jerusalém e Judá um mal tal que quem o ouvir terá os ouvidos zunindo; “estenderei sobre Jerusalém a mesma corda de Samaria… limparei Jerusalém, como quem esfrega um prato, virando-o dum lado e doutro”; abandonarei o resto da minha herança. “Além disto, Manassés derramou arroios de sangue inocente, enchendo Jerusalém até à boca.” Morre e é sepultado no jardim do seu palácio. Amon, seu filho, reina dois anos e faz o mesmo mal; os seus servos o matam em casa. O povo mata os conspiradores e põe no trono Josias, seu filho.",
+    "alegorico": "A tradição (Ascensão de Isaías; Justino) atribui a Manassés o martírio de Isaías, serrado ao meio, a que Hb 11,37 talvez aluda. 2Cr 33,11-16 narra a sua conversão no cativeiro, e a “Oração de Manassés” tornou-se na Igreja um modelo de penitência: até o pior dos reis pôde ser perdoado ao humilhar-se. É a figura do pecador extremo alcançado pela misericórdia.",
+    "moral": "Manassés é o retrato do mal no poder durante muito tempo: superstição, sacrifício de crianças, profanação do sagrado, sangue inocente. A sua influência arrasta o povo: o líder que peca “faz pecar”. O longo reinado mostra que a duração e o sucesso não são sinal de aprovação divina. E as consequências ultrapassam a vida do pecador: Judá pagará pelos pecados de Manassés.",
+    "anagogico": "“Como quem esfrega um prato”: o juízo de Deus purifica. Mas a conversão de Manassés, narrada em Crônicas, mostra que até o fim a porta da misericórdia está aberta."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ele fez o mal diante do Senhor.” “Fez passar seu (próprio) filho pelo fogo.” “Foram seduzidos por Manassés.” “Limparei Jerusalém, como quem esfrega um prato.” “Manassés derramou arroios de sangue inocente, enchendo Jerusalém até à boca.”",
+    "meditatio_perguntas": [
+      "Confundo sucesso e longa duração com aprovação de Deus?",
+      "Que influência exerço sobre os que me seguem?",
+      "Creio que nenhum pecador está fora do alcance da misericórdia?"
+    ],
+    "oratio_guia": "Senhor, livra-me da superstição e do desprezo do que é santo. Tem piedade dos que derramam sangue inocente e converte-os, como converteste Manassés. Purifica-me como quem limpa um prato. Amém.",
+    "contemplatio_foco": {
+      "texto": "Manassés derramou arroios de sangue inocente, enchendo Jerusalém até à boca",
+      "ref": "2Rs 21,16"
+    }
+  },
+  "ancoras": {
+    "21:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O reinado de Manassés (c. 687-642 a.C.) foi o mais longo de Judá, em plena submissão à Assíria.",
+        "origem": "ia"
+      }
+    },
+    "21:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “corda” (prumo) de Samaria: Jerusalém será medida e julgada como Samaria, que foi destruída.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

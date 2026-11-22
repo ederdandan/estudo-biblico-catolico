@@ -1,0 +1,57 @@
+{
+  "id": "2KI.18.1",
+  "livro": "2KI",
+  "titulo": "Ezequias e a ameaça assíria",
+  "secao": "Ezequias e Josias",
+  "referencia": "2Rs 18,1-37",
+  "ini": {
+    "c": 18,
+    "v": 1
+  },
+  "fim": {
+    "c": 18,
+    "v": 37
+  },
+  "liturgia": {
+    "tema_central": "Que confiança é esta? Ezequias e a ameaça assíria",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Ezequias, filho de Acaz, reina vinte e nove anos em Jerusalém e faz o que é reto como Davi. Destrói os lugares altos, quebra as estelas, corta a asera e despedaça a serpente de bronze de Moisés, à qual os israelitas queimavam incenso, chamando-a Noestã. “Pôs a sua esperança no Senhor Deus de Israel; por isso, depois dele, não houve entre todos os reis de Judá quem lhe fosse semelhante.” Une-se ao Senhor, guarda os mandamentos, e o Senhor está com ele; revolta-se contra a Assíria e vence os filisteus. No quarto ano de Ezequias, Salmanasar sitia Samaria e a toma: o autor recorda a sua queda. No décimo quarto ano, Senaquerib, rei da Assíria, toma todas as cidades fortes de Judá. Ezequias envia mensageiros a Laquis: errei; retira-te e pagarei o que impuseres; e paga trezentos talentos de prata e trinta de ouro, arrancando até o ouro das portas do templo. Mesmo assim, Senaquerib envia o Tartã, o Rabsaris e o Rabsaces com grande exército a Jerusalém. Junto ao aqueduto do tanque superior, o Rabsaces fala aos ministros de Ezequias: “Que confiança é esta, em que tu te estribas?” No Egito, “cana rachada, que fere a mão de quem nela se apoia”? No Senhor, cujos altares Ezequias destruiu? Foi o Senhor que me mandou contra esta terra. Os ministros pedem que fale em aramaico, não em hebraico, por causa do povo nos muros. Mas ele grita em hebraico: não vos engane Ezequias; não vos faça confiar no Senhor; fazei paz comigo e eu vos levarei a uma terra como a vossa. Que deuses livraram os seus países da minha mão? O povo se cala, por ordem do rei. Os ministros voltam a Ezequias com as vestes rasgadas.",
+    "alegorico": "Ezequias, que destrói até a serpente de bronze transformada em ídolo, mostra que mesmo o que Deus deu como sinal de salvação pode tornar-se idolatria quando se lhe presta culto. A serpente era figura de Cristo levantado na cruz (Jo 3,14); quebrá-la foi um ato de fé no Deus que ela simbolizava. As palavras do Rabsaces são a voz do tentador, que zomba da confiança em Deus, como os que zombavam de Cristo na cruz: “confiou em Deus; que o livre agora” (Mt 27,43).",
+    "moral": "O centro do capítulo é a pergunta do inimigo: “que confiança é esta?” É a pergunta de toda tentação contra a fé: em que te apoias? O tentador mistura verdades e mentiras, usa até o nome de Deus, fala na língua do povo para semear o medo. A resposta sábia é o silêncio do povo e o recurso ao Senhor. E mesmo o rei mais fiel tem momentos de fraqueza: Ezequias primeiro tenta comprar a paz.",
+    "anagogico": "A confiança no Senhor, posta à prova, será justificada. Os impérios que se gabam de ter vencido todos os deuses passarão; o Deus vivo permanece."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Pôs a sua esperança no Senhor Deus de Israel.” “Conservou-se unido ao Senhor.” “Por isso o Senhor era com ele.” “Que confiança é esta, em que tu te estribas?” “O Egipto, que é uma cana rachada.” “Nem vos inspire confiança no Senhor.” “O povo calou-se.”",
+    "meditatio_perguntas": [
+      "Em quem ou em que ponho realmente a minha confiança?",
+      "Que “serpentes de bronze” (sinais santos) transformei em ídolos?",
+      "Como respondo às vozes que zombam da minha fé?"
+    ],
+    "oratio_guia": "Senhor, em ti ponho a minha esperança. Quando o tentador perguntar “que confiança é esta?”, que eu permaneça unido a ti, sem me apoiar nas canas rachadas deste mundo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Pôs a sua esperança no Senhor Deus de Israel; por isso, depois dele, não houve, dentre todos os reis de Judá quem lhe fosse semelhante",
+      "ref": "2Rs 18,5"
+    }
+  },
+  "ancoras": {
+    "18:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Noestã (Nehushtan) faz jogo de palavras com nehoshet (bronze) e nahash (serpente): “coisa de bronze”.",
+        "origem": "ia"
+      }
+    },
+    "18:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A campanha de 701 a.C. é narrada nos anais de Senaquerib, que diz ter encerrado Ezequias “como um pássaro na gaiola”; os relevos de Laquis estão no Museu Britânico.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

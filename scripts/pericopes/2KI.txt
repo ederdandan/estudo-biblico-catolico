@@ -1,0 +1,37 @@
+# Divisão em perícopes (numeração Matos Soares / Vulgata: 4 Reis). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## O ciclo de Eliseu
+1:1-1:18 | Ocozias e o fogo do céu
+2:1-2:18 | Elias arrebatado ao céu
+2:19-2:25 | Os primeiros sinais de Eliseu
+3:1-3:27 | A campanha contra Moab
+4:1-4:7 | O azeite da viúva
+4:8-4:37 | A sunamita e o seu filho
+4:38-4:44 | A panela envenenada e os pães multiplicados
+5:1-5:27 | A cura de Naamã
+6:1-6:23 | O machado que flutua e os sírios cegados
+6:24-7:20 | A fome de Samaria e o livramento
+8:1-8:15 | A sunamita restituída; as lágrimas de Eliseu diante de Hazael
+8:16-8:29 | Jorão e Ocozias de Judá
+## A revolução de Jeú
+9:1-9:37 | Jeú ungido; a morte de Jorão e de Jezabel
+10:1-10:36 | Jeú extermina a casa de Acab e o culto de Baal
+11:1-11:21 | Atalia e o menino Joás
+12:1-12:21 | Joás restaura o Templo
+13:1-13:25 | Joacaz, Joás de Israel e a morte de Eliseu
+## Os últimos anos de Israel
+14:1-14:29 | Amasias de Judá e Jeroboão II
+15:1-15:38 | Azarias e os últimos reis de Israel
+16:1-16:20 | Acaz e o altar de Damasco
+17:1-17:23 | A queda de Samaria: por que Israel caiu
+17:24-17:41 | Os povos transplantados para Samaria
+## Ezequias e Josias
+18:1-18:37 | Ezequias e a ameaça assíria
+19:1-19:37 | A oração de Ezequias e o livramento de Jerusalém
+20:1-20:21 | A doença de Ezequias e os enviados de Babilônia
+21:1-21:26 | Manassés e Amon
+22:1-22:20 | O livro da Lei encontrado no Templo
+23:1-23:30 | A reforma e a Páscoa de Josias
+## A queda de Jerusalém
+23:31-24:20 | Os últimos reis de Judá e a primeira deportação
+25:1-25:30 | A destruição de Jerusalém e o exílio

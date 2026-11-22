@@ -1,0 +1,57 @@
+{
+  "id": "2KI.5.1",
+  "livro": "2KI",
+  "titulo": "A cura de Naamã",
+  "secao": "O ciclo de Eliseu",
+  "referencia": "2Rs 5,1-27",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "Lava-te e ficarás limpo: a cura de Naamã",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Naamã, general do rei da Síria, é homem poderoso e estimado, porque por ele o Senhor dera vitória à Síria; valente e rico, “mas leproso”. Uma menina israelita, levada cativa, serve a mulher dele e diz: oxalá o meu senhor fosse ao profeta de Samaria; ele o curaria da lepra. O rei da Síria envia Naamã ao rei de Israel com uma carta e grandes presentes. O rei de Israel rasga as vestes: sou eu Deus, para dar a morte e a vida? Ele procura pretexto contra mim. Eliseu manda dizer: que venha a mim, e saberá que há um profeta em Israel. Naamã chega com carros e cavalos à porta de Eliseu, que lhe manda dizer por um mensageiro: “Vai, lava-te sete vezes no Jordão, e a tua carne será curada.” Naamã se irrita: eu pensava que ele sairia, invocaria o nome do Senhor seu Deus e tocaria com a mão o lugar da lepra! Os rios de Damasco não são melhores que todas as águas de Israel? E se retira furioso. Os servos lhe dizem: “Pai, ainda que o profeta te tivesse ordenado uma coisa muito difícil, tu devias fazê-la; quanto mais agora que ele te disse: Lava-te e ficarás limpo.” Naamã desce, mergulha sete vezes no Jordão, “e a sua carne tornou-se como a carne de um menino”, e fica limpo. Volta ao homem de Deus: “Verdadeiramente conheço que não há outro Deus em toda a terra, senão o de Israel.” Eliseu recusa todos os presentes. Naamã pede duas cargas de terra para adorar só o Senhor, e perdão por ter de acompanhar o seu rei no templo de Remon. Eliseu diz: vai em paz. Giezi, servo de Eliseu, corre atrás de Naamã, mente e obtém prata e vestes. Eliseu lhe diz: não estava o meu espírito presente? É tempo de aceitar dinheiro? A lepra de Naamã se pegará a ti para sempre. E Giezi sai leproso, branco como a neve.",
+    "alegorico": "Jesus cita Naamã em Nazaré: muitos leprosos havia em Israel, mas só o sírio foi purificado (Lc 4,27). Para os Padres, o banho sete vezes no Jordão é figura do batismo, que dá ao pagão uma carne “como a de um menino”, isto é, o renascimento (Jo 3,5). A liturgia usa este episódio na Quaresma, na preparação dos catecúmenos. Giezi, que vende o dom de Deus, é figura de Simão Mago (At 8,18-20).",
+    "moral": "Naamã tinha tudo, “mas era leproso”: todos temos uma lepra que nenhum poder cura. O orgulho quase o impede de ser curado: esperava gestos espetaculares e despreza a simplicidade do remédio. Deus age por meios humildes: uma menina escrava, servos sensatos, as águas de um rio pequeno. O dom de Deus é gratuito, e Eliseu o mostra recusando tudo; Giezi, ao contrário, faz da graça comércio.",
+    "anagogico": "“A sua carne tornou-se como a carne dum menino”: no batismo começa a nova criação, que se completará na ressurreição da carne."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Era um homem valente e rico, mas leproso.” “Prouvera a Deus que o meu senhor tivesse ido ter com o profeta.” “Saberá que há um profeta em Israel.” “Vai, lava-te sete vezes no Jordão.” “Eu julgava que ele sairia a receber-me.” “Lava-te e ficarás limpo.” “A sua carne tornou-se como a carne dum menino.” “Não há outro Deus em toda a terra.”",
+    "meditatio_perguntas": [
+      "Qual é a minha “lepra” por trás das minhas qualidades?",
+      "Desprezo os meios simples de Deus (sacramentos, oração) porque esperava algo grandioso?",
+      "Trato o dom de Deus com gratuidade, ou como Giezi?"
+    ],
+    "oratio_guia": "Senhor, sou como Naamã: tenho muito, mas sou leproso. Vence o meu orgulho, lava-me nas águas do batismo e da penitência, e torna a minha carne como a de uma criança. Amém.",
+    "contemplatio_foco": {
+      "texto": "Lava-te e ficarás limpo",
+      "ref": "2Rs 5,13"
+    }
+  },
+  "ancoras": {
+    "5:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A terra de Israel levada para Damasco serviria para construir um altar ao Senhor: crença antiga de que cada deus estava ligado à sua terra.",
+        "origem": "ia"
+      }
+    },
+    "5:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Remon (Rimmon, Hadad-Rimmon) era o deus da tempestade dos arameus de Damasco.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

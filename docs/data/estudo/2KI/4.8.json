@@ -1,0 +1,57 @@
+{
+  "id": "2KI.4.8",
+  "livro": "2KI",
+  "titulo": "A sunamita e o seu filho",
+  "secao": "O ciclo de Eliseu",
+  "referencia": "2Rs 4,8-37",
+  "ini": {
+    "c": 4,
+    "v": 8
+  },
+  "fim": {
+    "c": 4,
+    "v": 37
+  },
+  "liturgia": {
+    "tema_central": "Toma o teu filho: a sunamita e o profeta",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Em Sunam, uma mulher rica convida Eliseu a comer, e ele passa a hospedar-se ali sempre que passa. Ela diz ao marido: “Tenho observado que este homem… é um santo homem de Deus. Façamos-lhe um pequeno quarto… com uma cama, uma mesa, uma cadeira e um candeeiro.” Eliseu quer retribuir: queres que fale por ti ao rei? Ela responde: “Eu habito no meio do meu povo.” Giezi observa: ela não tem filho, e o marido é velho. Eliseu a chama: no próximo ano, por este tempo, abraçarás um filho. Não, meu senhor, não enganes a tua serva. Ela concebe e dá à luz no tempo anunciado. O menino cresce; um dia, no campo com o pai e os ceifeiros, grita: a minha cabeça! Levam-no à mãe; fica no seu colo até o meio-dia e morre. Ela o deita na cama do homem de Deus, fecha a porta e parte para o Carmelo sem dizer nada ao marido: está tudo bem. Eliseu a vê de longe e manda Giezi: estás bem? Tudo bem. Mas ao chegar, ela se agarra aos pés do profeta; Giezi quer afastá-la, Eliseu diz: deixa-a, porque a sua alma está em amargura, e o Senhor mo escondeu. Ela diz: “Pedi-te eu algum filho? Não te disse: não me enganes?” Eliseu manda Giezi com o seu bordão pô-lo sobre o rosto do menino; mas a mãe diz: “Viva o Senhor e viva a tua alma, que não te deixarei.” Eliseu vai com ela. Giezi volta: o menino não acordou. Eliseu entra, fecha a porta, reza ao Senhor, deita-se sobre o menino, boca sobre boca, olhos sobre olhos, mãos sobre mãos, e a carne do menino se aquece; anda pela casa, deita-se de novo, e o menino espirra sete vezes e abre os olhos. Eliseu chama a sunamita: “Toma o teu filho.” Ela se prostra aos seus pés e sai com o filho.",
+    "alegorico": "A ressurreição do filho da sunamita, como a do filho da viúva de Sarepta, prefigura as de Jesus; Naim fica perto de Sunam. O bastão de Giezi, que não dá vida, foi lido pelos Padres (Agostinho, Gregório) como a Lei, que não podia ressuscitar; só o próprio profeta, que se “encolhe” à medida do menino, o faz viver: figura da Encarnação, em que Deus se faz pequeno à nossa medida para nos dar a vida.",
+    "moral": "A sunamita é uma das grandes mulheres da Bíblia: generosa na hospitalidade sem esperar retribuição, contente com a sua condição (“habito no meio do meu povo”), e, na dor, de uma fé obstinada: não chora em casa, vai direto ao homem de Deus, agarra-se a ele e não o deixa. A sua resposta “está tudo bem” não é negação: é a fé que espera. E Eliseu ensina que a oração por vezes exige insistência e contato pessoal.",
+    "anagogico": "“Toma o teu filho”: é a promessa da ressurreição, quando Deus devolverá às mães os filhos que perderam, vivos para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“É um santo homem de Deus.” “Uma cama, uma mesa, uma cadeira e um candeeiro.” “Eu habito no meio do meu povo.” “Não queiras, ó homem de Deus, enganar a tua escrava.” “A sua alma está em amargura.” “Viva o Senhor e viva a tua alma, que não te deixarei.” “A carne do menino aqueceu-se.” “Toma o teu filho.”",
+    "meditatio_perguntas": [
+      "Pratico a hospitalidade sem esperar retribuição?",
+      "Sei estar contente com a minha condição?",
+      "Na dor, agarro-me a Deus com a fé obstinada da sunamita?"
+    ],
+    "oratio_guia": "Senhor, que eu prepare em minha casa um lugar para ti. Quando a dor me atingir, que eu corra a ti e não te deixe. Dá vida aos nossos filhos mortos e diz-nos: toma o teu filho. Amém.",
+    "contemplatio_foco": {
+      "texto": "Viva o Senhor e viva a tua alma, que não te deixarei",
+      "ref": "2Rs 4,30"
+    }
+  },
+  "ancoras": {
+    "4:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Sunam, na planície de Jezrael, perto de Naim, onde Jesus ressuscitou o filho da viúva (Lc 7,11).",
+        "origem": "ia"
+      }
+    },
+    "4:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A lua nova e o sábado eram dias em que se visitavam os profetas e santuários.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

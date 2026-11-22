@@ -1,0 +1,57 @@
+{
+  "id": "2KI.8.1",
+  "livro": "2KI",
+  "titulo": "A sunamita restituída; as lágrimas de Eliseu diante de Hazael",
+  "secao": "O ciclo de Eliseu",
+  "referencia": "2Rs 8,1-15",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "E o homem de Deus chorou: a sunamita restituída e Hazael",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Eliseu avisa a sunamita cujo filho ressuscitara: sai com a tua família, porque o Senhor chamou a fome por sete anos. Ela vai à terra dos filisteus. Passados os sete anos, volta e vai reclamar ao rei a casa e os campos. Nesse momento, o rei está pedindo a Giezi que conte as maravilhas de Eliseu; e enquanto Giezi conta como ele ressuscitou o menino, entra a mulher com o filho. Giezi diz: é esta a mulher, e este o filho. O rei a interroga e manda restituir-lhe tudo, até os rendimentos dos campos. Eliseu vai a Damasco. Ben-Hadad está doente e envia Hazael com quarenta camelos de presentes: sararei desta doença? Eliseu responde: vai, dize-lhe: sararás; mas o Senhor me mostrou que ele morrerá. Depois fixa o olhar em Hazael até que este se envergonha, “e o homem de Deus chorou”. Por que chora o meu senhor? Porque sei o mal que farás aos filhos de Israel: queimarás as suas fortalezas, matarás os seus jovens, esmagarás as suas crianças. Hazael diz: quem sou eu, um cão, para fazer tais coisas? O Senhor me mostrou que serás rei da Síria. No dia seguinte, Hazael abafa Ben-Hadad com uma coberta molhada e reina em seu lugar.",
+    "alegorico": "Eliseu que chora diante do mal que virá sobre o seu povo é imagem de Cristo que chora sobre Jerusalém (Lc 19,41-44). O profeta vê, mas não deixa de sofrer: o conhecimento do futuro não lhe tira a compaixão.",
+    "moral": "A Providência se manifesta nos detalhes: a sunamita chega exatamente quando o rei ouve falar dela. Deus cuida dos que foram fiéis. E o episódio de Hazael mostra que o mal começa no coração antes de se tornar ato: Hazael se diz incapaz de tais crimes, mas no dia seguinte assassina o rei. O olhar do profeta, que o faz corar, é o olhar de Deus que lê o que escondemos de nós mesmos.",
+    "anagogico": "As lágrimas do profeta antecipam a compaixão de Deus pelas vítimas da história; no fim, ele enxugará todas as lágrimas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor chamou a fome.” “É esta aquela mulher, e este o seu filho.” “Faze-lhe restituir tudo o que é seu.” “Fitou de tal forma Hazael que o rosto dele corou. E o homem de Deus chorou.” “Por que chora o meu Senhor?” “Quem sou eu, teu servo, senão um cão?”",
+    "meditatio_perguntas": [
+      "Reconheço a Providência nos “acasos” da minha vida?",
+      "Que mal escondido no meu coração eu me julgo incapaz de cometer?",
+      "Choro, como Eliseu, os males que ameaçam o meu povo?"
+    ],
+    "oratio_guia": "Senhor, que restituis aos teus fiéis o que perderam, guarda-me sob a tua Providência. Olha-me como Eliseu olhou Hazael, para que eu reconheça o mal escondido em mim, e dá-me lágrimas de compaixão pelo meu povo. Amém.",
+    "contemplatio_foco": {
+      "texto": "fitou de tal forma Hazael que o rosto dele corou. E o homem de Deus chorou",
+      "ref": "2Rs 8,11"
+    }
+  },
+  "ancoras": {
+    "8:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Giezi, apesar da lepra (5,27), aparece aqui conversando com o rei; talvez o episódio seja anterior na cronologia.",
+        "origem": "ia"
+      }
+    },
+    "8:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Uma inscrição assíria de Salmanasar III chama Hazael “filho de ninguém”, isto é, usurpador.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

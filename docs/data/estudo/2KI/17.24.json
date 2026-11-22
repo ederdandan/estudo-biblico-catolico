@@ -1,0 +1,57 @@
+{
+  "id": "2KI.17.24",
+  "livro": "2KI",
+  "titulo": "Os povos transplantados para Samaria",
+  "secao": "Os últimos anos de Israel",
+  "referencia": "2Rs 17,24-41",
+  "ini": {
+    "c": 17,
+    "v": 24
+  },
+  "fim": {
+    "c": 17,
+    "v": 41
+  },
+  "liturgia": {
+    "tema_central": "Temiam o Senhor e serviam os seus ídolos: os povos transplantados",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O rei da Assíria traz gente de Babilônia, de Cuta, de Ava, de Emat e de Sefarvaim e os instala nas cidades de Samaria no lugar dos israelitas. No começo, não temem o Senhor, e o Senhor manda contra eles leões que os matam. Avisam o rei: estes povos não conhecem o culto do deus da terra. O rei manda: enviai um dos sacerdotes deportados, que lhes ensine a lei do deus da terra. Um sacerdote volta e se estabelece em Betel, ensinando-lhes como temer o Senhor. Mas cada povo fabrica os seus deuses e os põe nos lugares altos dos samaritanos: os de Babilônia fazem Sucot-Benot, os de Cuta, Nergal, os de Emat, Asima; os de Sefarvaim queimam os filhos no fogo a Adramelec e Anamelec. “Embora adorassem o Senhor, serviam também aos seus deuses.” O autor recorda a aliança: não temereis outros deuses, “mas temei ao Senhor vosso Deus, que vos tirou da terra do Egito… e ele vos livrará do poder de todos os vossos inimigos”. Mas eles não ouviram, e continuaram com os seus antigos costumes. “Assim estes povos perseveraram em temer ao Senhor, mas serviram também os seus ídolos”, e os seus filhos e netos fazem o mesmo até hoje.",
+    "alegorico": "Daqui nasce a população samaritana, que os judeus desprezarão. Jesus, porém, se revelará à samaritana (Jo 4) e fará de um samaritano o modelo do amor ao próximo (Lc 10). A mistura religiosa que o texto condena será superada não pela exclusão, mas pela adoração “em espírito e verdade”, que Jesus anuncia justamente a uma samaritana.",
+    "moral": "O sincretismo é a tentação de acrescentar Deus aos outros deuses, como mais um: “temiam o Senhor e serviam os seus ídolos”. É a religião de quem não quer renunciar a nada. Também hoje se pode “temer o Senhor” no domingo e servir aos ídolos do dinheiro, do sucesso ou da superstição durante a semana. A fé verdadeira é exclusiva: só Deus.",
+    "anagogico": "No fim, todo ídolo cairá e só o Senhor será adorado. Os povos misturados serão reunidos na única adoração do Pai."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não temiam o Senhor.” “Ensinou-os como deviam temer o Senhor.” “Cada um destes povos fabricou para si os seus deuses.” “Embora adorassem o Senhor, serviam também aos seus deuses.” “Temei ao Senhor, vosso Deus, e ele vos livrará.” “Perseveraram em temer ao Senhor, mas serviram também os seus ídolos.”",
+    "meditatio_perguntas": [
+      "Sirvo a Deus e a outros “deuses” ao mesmo tempo?",
+      "Que costumes antigos mantenho, contrários à fé?",
+      "Transmito aos filhos uma fé inteira ou misturada?"
+    ],
+    "oratio_guia": "Senhor, só tu és Deus. Arranca de mim os ídolos que ainda sirvo junto contigo, e ensina-me a adorar-te em espírito e verdade, com um coração indiviso. Amém.",
+    "contemplatio_foco": {
+      "texto": "Embora adorassem o Senhor, serviam também aos seus deuses",
+      "ref": "2Rs 17,33"
+    }
+  },
+  "ancoras": {
+    "17:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cuta (Kutha), na Mesopotâmia; daí o nome “cuteus” dado pelos judeus aos samaritanos.",
+        "origem": "ia"
+      }
+    },
+    "17:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Betel, antigo santuário dos bezerros, volta a ser centro de culto; a ironia do texto é evidente.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2KI.20.1",
+  "livro": "2KI",
+  "titulo": "A doença de Ezequias e os enviados de Babilônia",
+  "secao": "Ezequias e Josias",
+  "referencia": "2Rs 20,1-21",
+  "ini": {
+    "c": 20,
+    "v": 1
+  },
+  "fim": {
+    "c": 20,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "Ouvi a tua oração, vi as tuas lágrimas: a doença de Ezequias",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Naqueles dias, Ezequias adoece de morte. O profeta Isaías vai a ele: “Põe em ordem a tua casa, porque vais morrer.” Ezequias vira o rosto para a parede e reza: “Peço-te, Senhor, lembra-te de que eu andei diante de ti, em verdade e com um coração reto, e que fiz o que era do teu agrado.” E chora muito. Antes que Isaías saia do pátio central, a palavra do Senhor vem a ele: volta e dize a Ezequias: “Eu ouvi a tua oração, vi as tuas lágrimas. Vou curar-te: daqui a três dias irás ao templo do Senhor.” Acrescentarei quinze anos à tua vida e te livrarei, a ti e a esta cidade, do rei da Assíria. Isaías manda pôr uma massa de figos sobre a úlcera, e o rei sara. Ezequias pede um sinal: a sombra avançará ou recuará dez graus? Ezequias diz: é fácil a sombra avançar; que recue. Isaías invoca o Senhor, e a sombra recua dez graus no relógio de Acaz. Merodac-Baladã, rei de Babilônia, envia cartas e presentes a Ezequias, ao saber da sua doença. Ezequias, alegre, mostra aos enviados todos os seus tesouros: prata, ouro, aromas, o arsenal; nada fica sem mostrar. Isaías pergunta: que viram eles em tua casa? Tudo. Então ouve: virão dias em que tudo o que há em tua casa será levado para Babilônia; não ficará nada; e alguns dos teus filhos serão eunucos no palácio do rei de Babilônia. Ezequias responde: “É justa a palavra do Senhor… haja paz e verdade durante os meus dias.” Ezequias morre, depois de fazer o aqueduto que leva água à cidade, e Manassés, seu filho, reina em seu lugar.",
+    "alegorico": "A sombra que recua no relógio foi lida como sinal de que Deus é Senhor do tempo, que pode “voltar atrás” para dar ao pecador tempo de conversão. A cura de Ezequias ao terceiro dia, quando sobe ao templo, foi aproximada da ressurreição de Cristo ao terceiro dia. O cântico de Ezequias (Is 38) é rezado na Liturgia das Horas.",
+    "moral": "Deus se deixa mover pelas lágrimas: “vi as tuas lágrimas”. A oração sincera, mesmo diante de uma sentença, pode mudar o curso das coisas. Mas a cura é seguida de um erro: a vaidade de mostrar tudo aos babilônios. E a resposta final de Ezequias é inquietante: contenta-se com que haja paz “nos meus dias”. Até os bons podem tornar-se indiferentes ao futuro dos outros.",
+    "anagogico": "“Põe em ordem a tua casa, porque vais morrer”: a palavra dirigida a Ezequias é dirigida a todos. A preparação para a morte é o grande ato de sabedoria cristã."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Põe em ordem a tua casa, porque vais morrer.” “Virou o rosto para a parede.” “Lembra-te… de que eu andei diante de ti, em verdade e com um coração recto.” “Derramou abundantes lágrimas.” “Eu ouvi a tua oração, vi as tuas lágrimas.” “Que viram eles em tua casa?” “Haja paz e verdade durante os meus dias.”",
+    "meditatio_perguntas": [
+      "A minha casa está em ordem, se Deus me chamasse hoje?",
+      "Confio que Deus vê as minhas lágrimas?",
+      "Preocupo-me só com “os meus dias”, ou com o futuro dos que virão?"
+    ],
+    "oratio_guia": "Senhor, que viste as lágrimas de Ezequias, vê também as minhas. Ensina-me a pôr em ordem a minha casa, livra-me da vaidade e dá-me um coração que se preocupa com os que virão depois de mim. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu ouvi a tua oração, vi as tuas lágrimas",
+      "ref": "2Rs 20,5"
+    }
+  },
+  "ancoras": {
+    "20:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Merodac-Baladã (Marduk-apla-iddina II), rei rebelde de Babilônia contra a Assíria, buscava aliados no Ocidente.",
+        "origem": "ia"
+      }
+    },
+    "20:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “túnel de Ezequias”, escavado na rocha para levar a água de Gion ao tanque de Siloé, ainda existe, com a inscrição dos escavadores.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

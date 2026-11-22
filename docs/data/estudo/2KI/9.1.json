@@ -1,0 +1,57 @@
+{
+  "id": "2KI.9.1",
+  "livro": "2KI",
+  "titulo": "Jeú ungido; a morte de Jorão e de Jezabel",
+  "secao": "A revolução de Jeú",
+  "referencia": "2Rs 9,1-37",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 37
+  },
+  "liturgia": {
+    "tema_central": "Que paz, enquanto duram as prostituições de Jezabel? Jeú ungido",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Eliseu chama um dos filhos dos profetas: cinge os rins, toma este frasco de óleo e vai a Ramot de Galaad; procura Jeú, filho de Josafat, filho de Namsi; leva-o a um quarto à parte, derrama o óleo na cabeça e diz: “Eu te ungi rei sobre Israel”; depois abre a porta e foge. O jovem vai, encontra os chefes do exército reunidos e chama Jeú; no quarto, derrama o óleo e diz: assim diz o Senhor: eu te ungi rei do meu povo Israel; exterminarás a casa de Acab, teu senhor, e vingarei o sangue dos profetas e de todos os servos do Senhor derramado por Jezabel; os cães a comerão no campo de Jezrael. E foge. Os oficiais perguntam a Jeú o que queria aquele louco; ele conta, e eles estendem os mantos sob os seus pés, tocam a trombeta e gritam: Jeú é rei! Jeú parte em carro para Jezrael, onde Jorão se cura das feridas e Ocozias de Judá o visita. A sentinela vê a tropa; dois cavaleiros enviados não voltam; “a maneira de conduzir parece a de Jeú… porque vem como um louco”. Jorão e Ocozias saem ao seu encontro e o acham no campo de Nabot. “Temos paz, Jeú?” “Que paz, enquanto duram as prostituições de Jezabel, tua mãe, e os seus muitos sortilégios?” Jorão foge gritando: traição! Jeú o atravessa com uma flecha entre as espáduas e manda lançá-lo no campo de Nabot, segundo a palavra do Senhor. Ocozias foge e é ferido, morrendo em Meguido. Jeú entra em Jezrael. Jezabel pinta os olhos, enfeita a cabeça e olha da janela: há paz para o novo Zambri, assassino do seu senhor? Jeú pergunta: quem está comigo? Dois ou três eunucos olham, e ele ordena: lançai-a abaixo. Ela cai, o sangue salpica a parede, e os cavalos a pisam. Quando vão sepultá-la, só encontram o crânio, os pés e as palmas das mãos, como dissera Elias.",
+    "alegorico": "Jezabel, que se enfeita e pinta os olhos diante da morte, tornou-se no Apocalipse o nome simbólico da sedução idólatra dentro da Igreja (Ap 2,20). A sua queda é a da Babilônia que se adorna e cai (Ap 18). Jeú, ungido em segredo para executar o juízo, é instrumento da justiça de Deus, mas, como se verá, não modelo de santidade.",
+    "moral": "A palavra de Deus contra a casa de Acab, anunciada anos antes por Elias junto à vinha de Nabot, cumpre-se no mesmo campo. O sangue do inocente clama e é ouvido. Não há verdadeira paz enquanto se toleram a idolatria e a injustiça: “que paz?”. Mas o modo violento de Jeú recorda que os instrumentos humanos do juízo de Deus nem sempre são santos.",
+    "anagogico": "O juízo de Deus pode tardar, mas não falha. No fim, toda injustiça será reparada, e a sedução do mal será desmascarada."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Eu te ungi rei sobre Israel.” “Vingarei o sangue dos profetas, meus servos.” “Vem como um louco.” “Temos paz, Jeú?” “Que paz, enquanto duram as prostituições de Jezabel?” “Pintou os seus olhos, adornou a sua cabeça.” “Não encontraram senão a caveira, os pés e as palmas das mãos.”",
+    "meditatio_perguntas": [
+      "Busco uma “paz” que convive com a idolatria e a injustiça?",
+      "Creio que o sangue dos inocentes é ouvido por Deus?",
+      "Enfeito-me por fora quando deveria converter-me por dentro?"
+    ],
+    "oratio_guia": "Senhor, que ouves o sangue dos inocentes, dá-me a verdadeira paz, que não pactua com o mal. Livra-me das seduções que se enfeitam e da falsa paz que adormece a consciência. Amém.",
+    "contemplatio_foco": {
+      "texto": "Que paz, enquanto duram as prostituições de Jezabel, tua mãe, e os seus muitos sortilégios?",
+      "ref": "2Rs 9,22"
+    }
+  },
+  "ancoras": {
+    "9:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Estender os mantos sob os pés do rei aclamado será repetido na entrada de Jesus em Jerusalém (Mt 21,8).",
+        "origem": "ia"
+      }
+    },
+    "9:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O campo de Nabot em Jezrael liga a morte de Jorão à condenação de Acab em 1Rs 21,19-29.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

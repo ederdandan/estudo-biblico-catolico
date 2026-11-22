@@ -1,0 +1,57 @@
+{
+  "id": "2KI.2.1",
+  "livro": "2KI",
+  "titulo": "Elias arrebatado ao céu",
+  "secao": "O ciclo de Eliseu",
+  "referencia": "2Rs 2,1-18",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Meu pai, meu pai! Carro de Israel! Elias arrebatado ao céu",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quando o Senhor vai arrebatar Elias ao céu num redemoinho, Elias e Eliseu partem de Gálgala. Elias diz: fica aqui, porque o Senhor me envia a Betel. Eliseu responde: “Viva o Senhor e viva a tua alma, que não te deixarei.” Os filhos dos profetas de Betel lhe perguntam: sabes que hoje o Senhor levará o teu senhor? Eu sei; calai-vos. O mesmo se repete em Jericó e no Jordão. Cinquenta filhos dos profetas os observam de longe. Elias toma o manto, enrola-o, fere as águas, que se dividem, e passam a pé enxuto. Elias diz: pede o que queres antes que eu seja arrebatado. Eliseu: “Seja-me concedida uma porção dobrada do teu espírito.” Pediste coisa difícil; se me vires quando eu for arrebatado, terás; se não, não. Enquanto caminham conversando, um carro de fogo e cavalos de fogo os separam, “e Elias subiu ao céu no meio dum remoinho”. Eliseu vê e grita: “Meu pai, meu pai! Carro de Israel e seu condutor!” E não o vê mais. Rasga as vestes, apanha o manto que caiu de Elias, volta ao Jordão, fere as águas e diz: “Onde está agora o Senhor, o Deus de Elias?” As águas se dividem, e ele passa. Os filhos dos profetas dizem: o espírito de Elias repousa sobre Eliseu; e se prostram diante dele. Insistem em procurar Elias, talvez lançado em algum monte; procuram três dias e não o encontram.",
+    "alegorico": "O arrebatamento de Elias é figura da Ascensão de Cristo; o manto que cai sobre Eliseu e a “porção dobrada do espírito” prefiguram o Espírito Santo dado aos discípulos depois da subida do Senhor (At 1,9; 2,1-4). A travessia do Jordão a pé enxuto evoca a de Josué, e o batismo de Jesus no mesmo lugar. Elias, que não morreu, voltará no Tabor e, segundo Ml 3,23, antes do dia do Senhor.",
+    "moral": "Eliseu é modelo do discípulo fiel: três vezes convidado a ficar, três vezes responde “não te deixarei”. Não se deixa distrair pelos que sabem tudo e comentam (“calai-vos”). Pede o mais alto: o espírito do mestre, não bens. E depois da partida do mestre, assume a missão com o mesmo gesto e a mesma fé: “onde está o Deus de Elias?” A herança espiritual se recebe, mas é preciso fazê-la própria.",
+    "anagogico": "O carro de fogo que leva Elias anuncia o destino dos justos, chamados a subir até Deus. A Igreja, que recebeu o Espírito, caminha para onde o seu Senhor subiu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Viva o Senhor e viva a tua alma, que não te deixarei.” “Eu também o sei; calai-vos.” “Seja-me concedida uma porção dobrada do teu espírito.” “Um carro de fogo e uns cavalos de fogo.” “Elias subiu ao céu no meio dum remoinho.” “Meu pai, meu pai! Carro de Israel e seu condutor!” “Onde está agora o Senhor, o Deus de Elias?”",
+    "meditatio_perguntas": [
+      "Sigo os meus mestres na fé com a perseverança de Eliseu?",
+      "O que peço a Deus: bens ou o seu Espírito?",
+      "Assumo a herança espiritual recebida, ou fico só a lamentar a falta dos que partiram?"
+    ],
+    "oratio_guia": "Senhor, como Eliseu, não quero deixar-te. Dá-me uma porção dobrada do teu Espírito, e que eu, revestido do manto dos que me precederam na fé, continue a tua obra. Amém.",
+    "contemplatio_foco": {
+      "texto": "Meu pai, meu pai! Carro de Israel e seu condutor!",
+      "ref": "2Rs 2,12"
+    }
+  },
+  "ancoras": {
+    "2:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “porção dobrada” era a herança do primogênito (Dt 21,17): Eliseu pede ser o herdeiro espiritual de Elias.",
+        "origem": "ia"
+      }
+    },
+    "2:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Eclo 48,9-12 e Ml 3,23-24 alimentaram a esperança da volta de Elias, que os Evangelhos veem cumprida em João Batista.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

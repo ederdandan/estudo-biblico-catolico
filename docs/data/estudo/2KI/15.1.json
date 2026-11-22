@@ -1,0 +1,57 @@
+{
+  "id": "2KI.15.1",
+  "livro": "2KI",
+  "titulo": "Azarias e os últimos reis de Israel",
+  "secao": "Os últimos anos de Israel",
+  "referencia": "2Rs 15,1-38",
+  "ini": {
+    "c": 15,
+    "v": 1
+  },
+  "fim": {
+    "c": 15,
+    "v": 38
+  },
+  "liturgia": {
+    "tema_central": "Ficou leproso até a morte: Azarias e os últimos reis de Israel",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Azarias (Ozias), filho de Amasias, reina cinquenta e dois anos em Jerusalém e faz o que é agradável ao Senhor, mas não tira os lugares altos. “O Senhor castigou o rei, que ficou leproso até ao dia da sua morte, vivendo à parte numa casa retirada”; o filho Joatão governa o palácio e julga o povo. Em Israel, a decadência se precipita: Zacarias, filho de Jeroboão II, reina seis meses e é morto publicamente por Selum, cumprindo-se a palavra a Jeú (quatro gerações). Selum reina um mês e é morto por Manaém, que, cruel, destrói Tapsa e rasga o ventre das grávidas. Manaém reina dez anos; Ful, rei da Assíria, invade o país, e Manaém lhe paga mil talentos de prata, cobrados de todos os ricos, para firmar o seu reino. Faceias, seu filho, reina dois anos e é morto por Faceia, filho de Romelias, chefe do exército. No tempo de Faceia, Teglat-Falasar, rei da Assíria, toma a Galileia, Galaad e toda a terra de Neftali e deporta os habitantes. Oseias, filho de Elá, mata Faceia e reina. Em Judá, Joatão, filho de Ozias, reina dezesseis anos e faz o que é agradável ao Senhor; constrói a porta superior do templo. Naqueles dias, o Senhor começa a enviar contra Judá Rasin, rei da Síria, e Faceia, rei de Israel.",
+    "alegorico": "No ano da morte do rei Ozias, Isaías vê o Senhor no Templo e é chamado (Is 6,1): quando o rei terreno, leproso, desaparece, manifesta-se o verdadeiro Rei. A Galileia deportada pelos assírios, “terra de Zabulon e Neftali”, será a primeira a ver a grande luz de Cristo (Is 9,1; Mt 4,15-16).",
+    "moral": "Ozias, rei longo e bom, termina leproso, isolado; 2Cr 26,16-21 explica: o orgulho o levou a usurpar o ofício sacerdotal. Mesmo uma vida longa de fidelidade pode ser manchada pela presunção no fim. Em Israel, sem Deus, o poder se torna uma roda de assassinatos; e a tentativa de comprar a segurança com dinheiro (Manaém) só adia a ruína.",
+    "anagogico": "Onde os reis da terra caem uns após outros, Deus prepara uma luz para os que andam nas trevas. A história da decadência é também história da esperança."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ele fez o que era agradável diante do Senhor.” “O Senhor castigou o rei, que ficou leproso até ao dia da sua morte.” “Atacou-o publicamente, dando-lhe a morte. Reinou em seu lugar.” “Manaem deu a Ful mil talentos de prata.” “Transportou todos os seus habitantes para a Assíria.”",
+    "meditatio_perguntas": [
+      "Corro o risco de estragar com presunção uma vida de fidelidade?",
+      "Tento comprar a segurança em vez de confiar em Deus?",
+      "Vejo nas “Galileias” deportadas o lugar onde a luz de Cristo vai brilhar?"
+    ],
+    "oratio_guia": "Senhor, guarda-me da presunção até o fim dos meus dias. Quando os poderes da terra caírem, que eu veja surgir a tua luz sobre os que andam nas trevas. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor castigou o rei, que ficou leproso até ao dia da sua morte, vivendo à parte numa casa retirada",
+      "ref": "2Rs 15,5"
+    }
+  },
+  "ancoras": {
+    "15:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ful (Pulu) é o nome babilônico de Teglat-Falasar III (745-727 a.C.), fundador do império neoassírio.",
+        "origem": "ia"
+      }
+    },
+    "15:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A deportação de 732 a.C. atingiu a Galileia e a Transjordânia; daí a “Galileia dos gentios” (Is 8,23).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

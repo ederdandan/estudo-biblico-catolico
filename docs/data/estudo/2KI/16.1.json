@@ -1,0 +1,57 @@
+{
+  "id": "2KI.16.1",
+  "livro": "2KI",
+  "titulo": "Acaz e o altar de Damasco",
+  "secao": "Os últimos anos de Israel",
+  "referencia": "2Rs 16,1-20",
+  "ini": {
+    "c": 16,
+    "v": 1
+  },
+  "fim": {
+    "c": 16,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "Eu sou teu servo e teu filho: Acaz e o altar de Damasco",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Acaz, filho de Joatão, reina dezesseis anos em Jerusalém; “não fez o que era agradável na presença do Senhor seu Deus, como Davi, seu pai”, mas anda no caminho dos reis de Israel e chega a fazer passar o próprio filho pelo fogo, segundo as abominações das nações; sacrifica nos lugares altos, nos outeiros e sob toda árvore frondosa. Rasin da Síria e Faceia de Israel sobem contra Jerusalém e a cercam, mas não a vencem. Acaz envia mensageiros a Teglat-Falasar: “Eu sou teu servo e teu filho; vem, salva-me” do rei da Síria e do rei de Israel. Manda-lhe de presente a prata e o ouro do templo e do palácio. O assírio ataca Damasco, toma-a, deporta os habitantes e mata Rasin. Acaz vai a Damasco ao encontro de Teglat-Falasar, vê ali um altar e manda ao sacerdote Urias o modelo exato; Urias o constrói antes da volta do rei. Acaz oferece sacrifícios no novo altar, afasta o altar de bronze do Senhor para o lado norte e ordena que os holocaustos se façam no altar novo; o de bronze ficará para ele consultar. Tira as bases e a bacia, desce o mar de bronze de cima dos bois, e muda o pórtico do sábado e a entrada do rei, por causa do rei da Assíria.",
+    "alegorico": "Acaz recusou o sinal que Isaías lhe oferecia e recebeu, mesmo assim, o anúncio: “a virgem conceberá e dará à luz um filho, Emanuel” (Is 7,10-14). No momento de maior infidelidade da casa de Davi, Deus promete o Deus-conosco. O altar copiado de Damasco é o símbolo da Igreja que adapta o culto ao gosto dos poderosos do mundo.",
+    "moral": "Acaz, no medo, não confia em Deus, mas no império: “sou teu servo e teu filho”, títulos que deveria dar ao Senhor. A dependência política leva à submissão religiosa: copia o altar do vencedor, desloca o altar do Senhor e muda o Templo para agradar ao rei estrangeiro. Quando buscamos segurança fora de Deus, acabamos adaptando a fé aos novos senhores.",
+    "anagogico": "Mesmo quando o rei recusa a fé, Deus mantém o sinal: o Emanuel virá. A promessa é mais forte que a infidelidade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não fez o que era agradável na presença do Senhor seu Deus.” “Chegando ao ponto de fazer passar seu filho pelo fogo.” “Eu sou teu servo e teu filho; vem, salva-me.” “Depois de ver o altar de Damasco.” “Para agradar ao rei dos Assírios.”",
+    "meditatio_perguntas": [
+      "De quem digo, na prática, “sou teu servo e teu filho”?",
+      "Adapto a minha fé para agradar aos poderosos do momento?",
+      "Confio no sinal de Deus quando tenho medo?"
+    ],
+    "oratio_guia": "Senhor, só de ti sou servo e filho. Livra-me de buscar a salvação nos poderes do mundo e de deslocar o teu altar para agradar aos homens. Emanuel, Deus conosco, sê a minha segurança. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu sou teu servo e teu filho; vem, salva-me da mão do rei da Síria",
+      "ref": "2Rs 16,7"
+    }
+  },
+  "ancoras": {
+    "16:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A guerra siro-efraimita (c. 734 a.C.) é o contexto da profecia do Emanuel (Is 7).",
+        "origem": "ia"
+      }
+    },
+    "16:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Fazer passar pelo fogo” designa o sacrifício de crianças a Moloc, praticado no vale de Ben-Hinom (Geena).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
