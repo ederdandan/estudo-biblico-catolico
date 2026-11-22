@@ -1,0 +1,57 @@
+{
+  "id": "EZR.4.1",
+  "livro": "EZR",
+  "titulo": "A oposição à reconstrução",
+  "secao": "O retorno e a reconstrução do Templo",
+  "referencia": "Esd 4,1-24",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "A oposição e a obra interrompida",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quando os inimigos de Judá e Benjamim sabem que os repatriados reconstroem o templo, procuram Zorobabel: “Deixai-nos edificar convosco, porque nós buscamos o vosso Deus, do mesmo modo que vós.” Mas eram os povos trazidos pelos assírios, que misturavam o culto do Senhor com os seus deuses. Zorobabel e os chefes respondem: “Não convém a vós e a nós edificar juntamente a casa ao nosso Deus.” “Daqui resultou que o povo da terra intimidava o povo de Judá e estorvava-o na obra”; subornam conselheiros do rei, por todo o tempo de Ciro até Dario. Mais tarde, no tempo de Assuero e de Artaxerxes, escrevem cartas acusando Jerusalém de ser “cidade rebelde”; o rei manda parar as obras, e os adversários “impediram-nos, à mão armada, de continuar os trabalhos”. “Então foi interrompida a obra da casa do Senhor em Jerusalém, e não se trabalhou nela até ao segundo ano do reinado de Dario.”",
+    "alegorico": "A oposição à obra de Deus acompanha toda a história da salvação: Jesus anuncia aos discípulos que serão perseguidos (Jo 15,20), e Paulo encontra adversários em cada cidade. Mas “se esta obra vem de Deus, não a podereis destruir” (At 5,39).",
+    "moral": "A obra de Deus encontra resistências: intimidação, calúnia, burocracia, força. E também a tentação de alianças ambíguas, com quem diz buscar o mesmo Deus mas mistura a fé com outros deuses. Às vezes a obra para por anos. A pausa não é o fim, mas é tempo de purificar a esperança.",
+    "anagogico": "A obra interrompida será retomada e concluída: a construção do Reino, apesar das oposições, chegará ao seu termo no dia de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Deixai-nos edificar convosco.” “Não convém a vós e a nós edificar juntamente.” “O povo da terra intimidava o povo de Judá.” “Subornaram alguns conselheiros.” “Foi interrompida a obra da casa do Senhor.”",
+    "meditatio_perguntas": [
+      "Desanimo quando a obra de Deus encontra oposição?",
+      "Sei discernir as alianças que comprometem a fé?",
+      "Como vivo os tempos em que os meus projetos para Deus ficam parados?"
+    ],
+    "oratio_guia": "Senhor, quando a tua obra encontrar oposição e parar, guarda a minha esperança e dá-me discernimento e perseverança, até que a retomes. Amém.",
+    "contemplatio_foco": {
+      "texto": "Então foi interrompida a obra da casa do Senhor em Jerusalém",
+      "ref": "Esd 4,24"
+    }
+  },
+  "ancoras": {
+    "4:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os vv. 6-23 referem-se a oposições posteriores (Assuero e Artaxerxes), agrupadas aqui por tema; o v. 24 volta ao tempo de Dario.",
+        "origem": "ia"
+      }
+    },
+    "4:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Esd 4,8–6,18 e 7,12-26 foram escritos em aramaico.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

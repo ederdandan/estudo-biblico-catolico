@@ -1,0 +1,57 @@
+{
+  "id": "EZR.5.1",
+  "livro": "EZR",
+  "titulo": "Ageu e Zacarias; o decreto de Dario",
+  "secao": "O retorno e a reconstrução do Templo",
+  "referencia": "Esd 5,1–6,12",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "Ageu e Zacarias: “Nós somos servos do Deus do céu”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“O profeta Ageu e o profeta Zacarias, filho de Ado, profetizaram em nome do Deus de Israel aos Judeus.” Zorobabel e Josué “recomeçaram a edificar o templo de Deus… e com eles os profetas de Deus que os ajudavam”. Tatanai, governador da Transeufratênia, pergunta: “Quem vos deu autorização de edificar este templo?” “Mas Deus olhou favoravelmente para os anciãos dos Judeus”, e o trabalho continua enquanto se escreve ao rei. Os anciãos respondem: “Nós somos servos do Deus do céu e da terra, e reedificamos um templo, que há muitos anos tinha sido fundado… Depois que nossos pais provocaram à ira o Deus do céu, ele entregou-nos nas mãos de Nabucodonosor.” Dario manda procurar nos arquivos, e acha-se o edito de Ciro. Então ordena: “retirai-vos dos Judeus. Deixai que prossigam os trabalhos do templo de Deus”; e manda pagar as despesas do tesouro real e dar o necessário para os sacrifícios, “para que ofereçam sacrifícios de agradável odor ao Deus do céu, e roguem pela vida do rei e de seus filhos”.",
+    "alegorico": "A Palavra dos profetas desperta o povo e recomeça a obra parada: assim a Palavra de Deus reanima a Igreja nos tempos de desânimo. A oração pelo rei pagão antecipa a recomendação de Paulo: “que se façam súplicas… pelos reis e por todos os que estão constituídos em autoridade” (1Tm 2,1-2).",
+    "moral": "O que fez a obra recomeçar não foi uma mudança política, mas a pregação profética: a Palavra devolve a coragem. Os anciãos respondem às autoridades com franqueza e humildade: confessam o pecado dos pais e a sua identidade de “servos do Deus do céu”. E Deus “olha favoravelmente” para os que retomam a obra com fé.",
+    "anagogico": "Os arquivos onde se acha o edito de Ciro lembram que as promessas de Deus estão “escritas” e não se perdem; no fim, tudo o que foi prometido se cumprirá."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Profetizaram em nome do Deus de Israel.” “Recomeçaram a edificar o templo de Deus.” “Os profetas de Deus que os ajudavam.” “Deus olhou favoravelmente para os anciãos dos Judeus.” “Nós somos servos do Deus do céu e da terra.” “Deixai que prossigam os trabalhos do templo de Deus.”",
+    "meditatio_perguntas": [
+      "Deixo que a Palavra de Deus me faça retomar o que abandonei?",
+      "Sei dizer com simplicidade quem sou: servo do Deus do céu?",
+      "Rezo pelas autoridades do meu país?"
+    ],
+    "oratio_guia": "Senhor, que pela voz dos profetas fizeste recomeçar a tua obra, desperta-me pela tua Palavra e olha favoravelmente para o que faço por ti. Abençoa os que nos governam. Amém.",
+    "contemplatio_foco": {
+      "texto": "Nós somos servos do Deus do céu e da terra",
+      "ref": "Esd 5,11"
+    }
+  },
+  "ancoras": {
+    "5:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Ag 1,1-15; Zc 1,1. Ano de 520 a.C.",
+        "origem": "ia"
+      }
+    },
+    "6:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A pena descrita é a da empalação persa.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

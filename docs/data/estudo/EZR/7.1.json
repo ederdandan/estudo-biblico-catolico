@@ -1,0 +1,57 @@
+{
+  "id": "EZR.7.1",
+  "livro": "EZR",
+  "titulo": "Esdras, escriba versado na Lei",
+  "secao": "Esdras e a reforma",
+  "referencia": "Esd 7,1-28",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "Esdras “preparou o seu coração para buscar a lei do Senhor”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No reinado de Artaxerxes, sobe da Babilônia Esdras, sacerdote descendente de Aarão. “Era um escriba muito hábil na lei de Moisés… O rei concedeu-lhe tudo o que ele pediu, porque a mão do Senhor seu Deus era com ele.” Parte no primeiro dia do primeiro mês e chega a Jerusalém no primeiro dia do quinto, “porque a mão benéfica do seu Deus era com ele. Esdras tinha efectivamente preparado o seu coração para buscar a lei do Senhor e para cumprir e ensinar em Israel os seus preceitos e as suas ordenações.” A carta do rei autoriza a volta de quem quiser, dá ouro e prata para o templo e encarrega Esdras: “segundo a sabedoria que recebeste do teu Deus, estabelece juízes… e ensina também livremente aos que a ignoram.” Esdras bendiz a Deus: “Bendito seja o Senhor Deus de nossos pais, que pôs no coração do rei este pensamento de glorificar a casa do Senhor… Eu, confortado pela mão do Senhor meu Deus, que estava sobre mim, juntei os principais de Israel para virem comigo.”",
+    "alegorico": "Esdras, sacerdote e escriba, é figura de Cristo, Mestre que ensina a Lei e a leva à plenitude (Mt 5,17). É também modelo do “escriba instruído no Reino dos céus, que tira do seu tesouro coisas novas e velhas” (Mt 13,52). A tradição judaica o vê como um segundo Moisés.",
+    "moral": "A ordem dos verbos é o programa de toda vida cristã e de todo catequista: buscar a Lei, cumpri-la e ensiná-la. Primeiro estudar, depois viver, por fim ensinar. E tudo nasce de um coração preparado. Esdras atribui tudo à “mão do Senhor” que estava sobre ele.",
+    "anagogico": "A “mão benéfica de Deus” que conduz Esdras na longa viagem é a mesma que conduz cada fiel na peregrinação até à Jerusalém celeste."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Era um escriba muito hábil na lei de Moisés.” “A mão do Senhor seu Deus era com ele.” “Tinha preparado o seu coração para buscar a lei do Senhor, para cumprir e ensinar.” “Ensina também livremente aos que a ignoram.” “Confortado pela mão do Senhor meu Deus, que estava sobre mim.”",
+    "meditatio_perguntas": [
+      "Preparo o meu coração para buscar a Palavra de Deus?",
+      "Vivo o que aprendo antes de ensinar aos outros?",
+      "Reconheço a mão de Deus sobre a minha vida?"
+    ],
+    "oratio_guia": "Senhor, prepara o meu coração para buscar a tua Lei, cumpri-la e ensiná-la. Que a tua mão benéfica esteja sobre mim no caminho. Amém.",
+    "contemplatio_foco": {
+      "texto": "Esdras tinha efectivamente preparado o seu coração para buscar a lei do Senhor e para cumprir e ensinar em Israel",
+      "ref": "Esd 7,10"
+    }
+  },
+  "ancoras": {
+    "7:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Esdras chega provavelmente em 458 a.C. (sétimo ano de Artaxerxes I).",
+        "origem": "ia"
+      }
+    },
+    "7:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A carta de Artaxerxes (vv. 12-26) está em aramaico.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

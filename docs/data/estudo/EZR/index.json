@@ -1,0 +1,149 @@
+{
+ "livro": "EZR",
+ "secoes": [
+  "O retorno e a reconstrução do Templo",
+  "Esdras e a reforma"
+ ],
+ "pericopes": [
+  {
+   "id": "EZR.1.1",
+   "titulo": "O edito de Ciro e o retorno",
+   "secao": "O retorno e a reconstrução do Templo",
+   "referencia": "Esd 1,1-11",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 11
+   }
+  },
+  {
+   "id": "EZR.2.1",
+   "titulo": "Os que voltaram do cativeiro",
+   "secao": "O retorno e a reconstrução do Templo",
+   "referencia": "Esd 2,1-70",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 70
+   }
+  },
+  {
+   "id": "EZR.3.1",
+   "titulo": "O altar e os alicerces do templo: choro e alegria",
+   "secao": "O retorno e a reconstrução do Templo",
+   "referencia": "Esd 3,1-13",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 13
+   }
+  },
+  {
+   "id": "EZR.4.1",
+   "titulo": "A oposição à reconstrução",
+   "secao": "O retorno e a reconstrução do Templo",
+   "referencia": "Esd 4,1-24",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 24
+   }
+  },
+  {
+   "id": "EZR.5.1",
+   "titulo": "Ageu e Zacarias; o decreto de Dario",
+   "secao": "O retorno e a reconstrução do Templo",
+   "referencia": "Esd 5,1–6,12",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 12
+   }
+  },
+  {
+   "id": "EZR.6.13",
+   "titulo": "A dedicação do templo e a Páscoa",
+   "secao": "O retorno e a reconstrução do Templo",
+   "referencia": "Esd 6,13-22",
+   "ini": {
+    "c": 6,
+    "v": 13
+   },
+   "fim": {
+    "c": 6,
+    "v": 22
+   }
+  },
+  {
+   "id": "EZR.7.1",
+   "titulo": "Esdras, escriba versado na Lei",
+   "secao": "Esdras e a reforma",
+   "referencia": "Esd 7,1-28",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 28
+   }
+  },
+  {
+   "id": "EZR.8.1",
+   "titulo": "O jejum junto ao rio Aava e a viagem",
+   "secao": "Esdras e a reforma",
+   "referencia": "Esd 8,1-36",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 36
+   }
+  },
+  {
+   "id": "EZR.9.1",
+   "titulo": "A oração penitencial de Esdras",
+   "secao": "Esdras e a reforma",
+   "referencia": "Esd 9,1-15",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 15
+   }
+  },
+  {
+   "id": "EZR.10.1",
+   "titulo": "O compromisso do povo",
+   "secao": "Esdras e a reforma",
+   "referencia": "Esd 10,1-44",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 44
+   }
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "EZR.6.13",
+  "livro": "EZR",
+  "titulo": "A dedicação do templo e a Páscoa",
+  "secao": "O retorno e a reconstrução do Templo",
+  "referencia": "Esd 6,13-22",
+  "ini": {
+    "c": 6,
+    "v": 13
+  },
+  "fim": {
+    "c": 6,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "A dedicação do templo e a Páscoa com alegria",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Os anciãos dos Judeus edificavam e eram bem sucedidos, conforme a profecia do profeta Ageu e de Zacarias”; constroem “por mandado do Deus de Israel, e por ordem de Ciro, de Dario e de Artaxerxes”. O templo fica pronto “no dia três do mês de Adar, no sexto ano do reinado do rei Dario”. Os filhos de Israel, sacerdotes, levitas e os que voltaram do cativeiro “celebraram a dedicação da casa de Deus com regozijo”, oferecendo, entre outros sacrifícios, doze bodes “pelo pecado de todo o Israel, segundo o número das tribos”. Estabelecem os sacerdotes e levitas nos seus turnos. No dia catorze do primeiro mês celebram a Páscoa; comem-na os que voltaram do cativeiro “e todos aqueles que, separando-se da corrupção dos povos do país, se tinham unido a eles, para buscarem o Senhor Deus de Israel”. “Celebraram a solenidade dos ázimos durante sete dias com alegria, porque o Senhor os tinha enchido de contentamento.”",
+    "alegorico": "A dedicação do segundo templo seguida da Páscoa anuncia a Páscoa de Cristo, que se oferece como verdadeiro templo. A festa da Dedicação, celebrada por Jesus no templo (Jo 10,22), recorda estas consagrações. Os que se unem ao povo “para buscar o Senhor” anunciam a abertura da Igreja aos gentios.",
+    "moral": "A obra concluída é fruto da Palavra profética e da perseverança. Os doze bodes pelas doze tribos lembram que, mesmo sendo poucos, eles rezam por todo Israel: a comunidade não se fecha em si. E a porta está aberta a quem se separa do mal para buscar o Senhor.",
+    "anagogico": "A alegria da Páscoa celebrada no templo reconstruído anuncia a alegria eterna, quando Deus nos “encherá de contentamento” na sua casa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Edificavam e eram bem sucedidos, conforme a profecia.” “Celebraram a dedicação da casa de Deus com regozijo.” “Pelo pecado de todo o Israel.” “Separando-se da corrupção dos povos do país.” “Para buscarem o Senhor Deus de Israel.” “O Senhor os tinha enchido de contentamento.”",
+    "meditatio_perguntas": [
+      "Persevero até ver concluída a obra que Deus me confiou?",
+      "Rezo por todo o povo de Deus, e não só pelo meu grupo?",
+      "Acolho com alegria os que se convertem e buscam o Senhor?"
+    ],
+    "oratio_guia": "Senhor, que encheste de contentamento o teu povo ao concluir a tua casa, conclui em mim a obra que começaste e dá-me celebrar a Páscoa com alegria. Amém.",
+    "contemplatio_foco": {
+      "texto": "Celebraram a solenidade dos ázimos durante sete dias com alegria, porque o Senhor os tinha enchido de contentamento",
+      "ref": "Esd 6,22"
+    }
+  },
+  "ancoras": {
+    "6:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Março de 515 a.C., cerca de setenta anos depois da destruição do primeiro templo.",
+        "origem": "ia"
+      }
+    },
+    "6:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Rei da Assíria” designa aqui o rei persa, senhor dos antigos territórios assírios.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

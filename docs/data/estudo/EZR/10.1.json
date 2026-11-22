@@ -1,0 +1,57 @@
+{
+  "id": "EZR.10.1",
+  "livro": "EZR",
+  "titulo": "O compromisso do povo",
+  "secao": "Esdras e a reforma",
+  "referencia": "Esd 10,1-44",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 44
+  },
+  "liturgia": {
+    "tema_central": "“Levanta-te, nós seremos contigo”: o compromisso do povo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Enquanto Esdras, chorando, fazia esta oração e esta confissão, prostrado diante do templo de Deus, uma grande multidão de Israel, de homens, mulheres e meninos, juntou-se ao pé dele, e o povo irrompeu num pranto desfeito.” Sequenias diz: “Nós prevaricamos contra o nosso Deus… Contudo, agora, se Israel se arrepende disto, façamos um pacto com o Senhor… Levanta-te, a ti pertence resolver. Nós seremos contigo. Cobra alento, e põe mãos à obra.” Esdras faz jurar os chefes e passa a noite em jejum, chorando. Todo o povo é convocado a Jerusalém; no nono mês, sob a chuva, todos estão na praça do templo, “tremendo por causa dos seus pecados e por causa das chuvas”. Esdras diz: “confessai o vosso pecado ao Senhor Deus de vossos pais e fazei o que é do seu agrado; separai-vos dos povos desta terra e das mulheres estrangeiras.” “Toda a multidão respondeu em alta voz: Faça-se como nos disseste.” Organiza-se uma comissão, e o livro termina com a lista dos que tinham tomado mulheres estrangeiras.",
+    "alegorico": "O pranto de todo o povo diante do templo prefigura os que, no Pentecostes, “ficaram compungidos no coração” e perguntaram: “que devemos fazer?” (At 2,37). A separação do que contamina a fé anuncia o Batismo, que separa do pecado; mas o Evangelho não manda separar as famílias: Paulo ensina que o cônjuge crente não deve abandonar o não crente, porque “o marido infiel é santificado pela mulher fiel” (1Cor 7,12-14).",
+    "moral": "Esta medida dura deve ser lida no seu contexto: um pequeno resto, recém-saído do exílio, ameaçado de perder a fé e a identidade pela idolatria. Não é norma para hoje: a Escritura também guarda o livro de Rute, a moabita acolhida, e a Igreja ensina a indissolubilidade do matrimônio e o cuidado de cada pessoa. O que permanece é a lição espiritual: arrepender-se de verdade, apoiar quem tem a missão de corrigir (“nós seremos contigo”) e romper com o que nos afasta de Deus.",
+    "anagogico": "O povo que treme diante de Deus pelos seus pecados aponta para o juízo; mas Deus prepara, em Cristo, uma reconciliação em que nenhuma família humana é excluída do seu povo (Ef 2,14)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Esdras, chorando, fazia esta oração e esta confissão.” “O povo irrompeu num pranto desfeito.” “Se Israel se arrepende disto.” “Levanta-te, a ti pertence resolver. Nós seremos contigo.” “Cobra alento, e põe mãos à obra.” “Confessai o vosso pecado.” “Faça-se como nos disseste.”",
+    "meditatio_perguntas": [
+      "O meu arrependimento leva a decisões concretas?",
+      "Apoio os que têm a missão de corrigir e guiar a comunidade?",
+      "Leio os textos duros da Escritura à luz de Cristo e da Igreja?"
+    ],
+    "oratio_guia": "Senhor, dá-me um arrependimento verdadeiro que me leve a romper com o que me afasta de ti. E guarda as nossas famílias na tua paz, segundo o Evangelho do teu Filho. Amém.",
+    "contemplatio_foco": {
+      "texto": "Levanta-te, a ti pertence resolver. Nós seremos contigo",
+      "ref": "Esd 10,4"
+    }
+  },
+  "ancoras": {
+    "10:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Medida própria daquele momento; cf. Ne 13,23-27. O NT ensina outra atitude (1Cor 7,12-16). Cf. Dei Verbum 15.",
+        "origem": "ia"
+      }
+    },
+    "10:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O nono mês (Casleu) corresponde a novembro-dezembro, época das chuvas.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

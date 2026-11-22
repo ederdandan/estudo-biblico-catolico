@@ -1,0 +1,57 @@
+{
+  "id": "EZR.9.1",
+  "livro": "EZR",
+  "titulo": "A oração penitencial de Esdras",
+  "secao": "Esdras e a reforma",
+  "referencia": "Esd 9,1-15",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "“Estou confundido e envergonho-me de levantar a face para ti”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os chefes contam a Esdras que muitos, inclusive sacerdotes, levitas e magistrados, casaram com mulheres dos povos pagãos e imitam as suas abominações. “Quando ouvi estas palavras, rasguei a minha capa e a minha túnica, arranquei os cabelos… e sentei-me triste.” Os que “temiam a palavra do Deus de Israel” se reúnem ao redor dele. “À altura do sacrifício da tarde… pus-me de joelhos, estendi as minhas mãos para o Senhor e meu Deus, e disse: Meu Deus, estou confundido e envergonho-me de levantar a minha face para ti, porque as nossas iniquidades multiplicaram-se sobre as nossas cabeças… Agora, por um pouco, por um momento, foram admitidos os nossos rogos… para fazer brilhar os nossos olhos e dar-nos um pouco de vida na nossa escravidão; de facto, nós somos escravos, mas o nosso Deus não nos desamparou no meio da nossa escravidão… Agora, Deus nosso, que diremos depois disto?… Senhor Deus de Israel, tu és justo… Aqui estamos diante de ti com o nosso pecado.”",
+    "alegorico": "Esdras, que não cometeu o pecado mas o confessa como seu, dizendo “nós”, é figura de Cristo, que “se fez pecado por nós” (2Cor 5,21). A sua oração anuncia a do publicano: “não ousava nem levantar os olhos ao céu… ó Deus, sê propício a mim, pecador” (Lc 18,13).",
+    "moral": "A dor de Esdras pelo pecado do povo é a de quem ama: ele se solidariza com os culpados. A sua confissão não se defende nem acusa os outros; coloca-se “diante de ti com o nosso pecado”. Mesmo envergonhado, reconhece as misericórdias de Deus: um resto, um abrigo, um pouco de luz nos olhos. A verdadeira contrição nasce da memória da misericórdia.",
+    "anagogico": "“Para fazer brilhar os nossos olhos”: a pequena luz dada aos que voltaram anuncia a luz plena que Deus dará aos redimidos na sua presença."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Sentei-me triste.” “Todos os que temiam a palavra do Deus de Israel.” “Pus-me de joelhos, estendi as minhas mãos.” “Estou confundido e envergonho-me de levantar a minha face para ti.” “Para fazer brilhar nossos olhos.” “O nosso Deus não nos desamparou no meio da nossa escravidão.” “Aqui estamos diante de ti com o nosso pecado.”",
+    "meditatio_perguntas": [
+      "Sinto dor pelo pecado, meu e da minha comunidade?",
+      "Rezo pelos pecados dos outros dizendo “nós”, sem me colocar acima?",
+      "Reconheço as misericórdias de Deus mesmo no meio das quedas?"
+    ],
+    "oratio_guia": "Meu Deus, estou confundido e envergonho-me de levantar a minha face para ti. Mas tu não nos desamparaste. Aqui estou diante de ti com o meu pecado e com o do meu povo: faz brilhar de novo os nossos olhos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Meu Deus, estou confundido e envergonho-me de levantar a minha face para ti",
+      "ref": "Esd 9,6"
+    }
+  },
+  "ancoras": {
+    "9:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Dt 7,1-4: o perigo era a idolatria trazida pelos casamentos com povos que não serviam ao Senhor.",
+        "origem": "ia"
+      }
+    },
+    "9:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A hora do sacrifício da tarde é a hora da oração (cf. Dn 9,21; At 3,1).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "EZR.8.1",
+  "livro": "EZR",
+  "titulo": "O jejum junto ao rio Aava e a viagem",
+  "secao": "Esdras e a reforma",
+  "referencia": "Esd 8,1-36",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 36
+  },
+  "liturgia": {
+    "tema_central": "“Tive vergonha de pedir ao rei uma escolta”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Segue a lista dos chefes de famílias que sobem com Esdras. Reunidos junto ao rio de Aava, Esdras percebe que não há levitas entre eles, e envia mensageiros para trazer “ministros da casa do nosso Deus”; “como a mão favorável do nosso Deus estava sobre nós”, vêm levitas e natineus. “Estando junto do rio Aava, publiquei ali um jejum para nos humilharmos diante do Senhor nosso Deus e para lhe pedirmos uma feliz viagem… Com efeito, tive vergonha de pedir ao rei uma escolta de soldados a cavalo… porque tínhamos dito ao rei: A mão do nosso Deus está com todos os que o buscam com sinceridade… Nós, com este fim, jejuamos e fizemos oração ao nosso Deus, e tudo nos sucedeu prosperamente.” Esdras confia o ouro, a prata e os vasos a doze sacerdotes: “Vós sois os santos do Senhor, e santos são os vasos, a prata e o ouro.” Partem; “a mão do nosso Deus foi conosco e livrou-nos das mãos do inimigo”. Em Jerusalém, tudo é pesado e entregue no templo, e oferecem holocaustos por todo Israel.",
+    "alegorico": "A viagem sem escolta, confiada só a Deus, lembra Jesus enviando os discípulos “sem bolsa, nem alforje” (Lc 10,4). O jejum antes da partida anuncia o jejum de Jesus no deserto antes da missão e o da Igreja antes de enviar Paulo e Barnabé (At 13,2-3).",
+    "moral": "Esdras é coerente: não pede proteção humana depois de ter dito que Deus protege os que o buscam. A fé que proclamamos deve se ver nas nossas escolhas. Mas a confiança não é imprudência: ele jejua, reza e organiza tudo com cuidado, contando e pesando o tesouro. E sabe que a missão precisa de ministros, por isso vai procurá-los.",
+    "anagogico": "“A mão do nosso Deus foi conosco”: é a experiência de todo peregrino que chega à cidade santa e reconhece que foi conduzido."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A mão favorável do nosso Deus estava sobre nós.” “Publiquei ali um jejum para nos humilharmos diante do Senhor.” “Tive vergonha de pedir ao rei uma escolta.” “A mão do nosso Deus está com todos os que o buscam com sinceridade.” “Jejuamos e fizemos oração… e tudo nos sucedeu prosperamente.” “A mão do nosso Deus foi conosco.”",
+    "meditatio_perguntas": [
+      "As minhas escolhas mostram a fé que eu proclamo?",
+      "Rezo e jejuo antes das grandes decisões e viagens?",
+      "Uno a confiança em Deus à prudência e à responsabilidade?"
+    ],
+    "oratio_guia": "Senhor, que guardas os que te buscam com sinceridade, ensina-me a confiar em ti mais do que nas escoltas deste mundo. Humilho-me diante de ti: conduz o meu caminho. Amém.",
+    "contemplatio_foco": {
+      "texto": "A mão do nosso Deus está com todos os que o buscam com sinceridade",
+      "ref": "Esd 8,22"
+    }
+  },
+  "ancoras": {
+    "8:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Lv 21,6; 22,2: os sacerdotes e os objetos consagrados são “santos”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

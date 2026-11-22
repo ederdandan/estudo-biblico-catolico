@@ -1,0 +1,57 @@
+{
+  "id": "EZR.2.1",
+  "livro": "EZR",
+  "titulo": "Os que voltaram do cativeiro",
+  "secao": "O retorno e a reconstrução do Templo",
+  "referencia": "Esd 2,1-70",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 70
+  },
+  "liturgia": {
+    "tema_central": "Os que voltaram “como um só homem”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Estes são os filhos da Província, que, tendo sido levados cativos para Babilônia… voltaram para Jerusalém e para a Judeia, cada um para a sua cidade.” Voltam com Zorobabel, Josué, Neemias e outros chefes. Segue a lista das famílias e das cidades, dos sacerdotes, levitas, cantores, porteiros e natineus. Alguns “não puderam indicar qual era a casa de seus pais e a sua linhagem”; certos sacerdotes, não achando o registro da sua genealogia, “foram excluídos do sacerdócio”, até que se levantasse “um pontífice douto e perfeito”. “Toda esta multidão era como um só homem”: quarenta e duas mil trezentas e sessenta pessoas, além dos servos e de duzentos cantores e cantoras. Chegados ao templo, muitos chefes “fizeram oferendas espontâneas à casa de Deus, para se reedificar no seu lugar”, e todos se estabelecem nas suas cidades.",
+    "alegorico": "Os nomes do povo que volta lembram os nomes “escritos nos céus” (Lc 10,20). O sacerdócio suspenso até que venha “um pontífice douto e perfeito” anuncia Cristo, o Sumo Sacerdote perfeito, que revela a verdade de cada um.",
+    "moral": "Uma longa lista de nomes mostra que a reconstrução é obra de muitos, cada família com a sua parte. Os que não sabem provar a sua origem ficam à espera, mas não são expulsos do povo. E a primeira coisa que os chefes fazem ao chegar é oferecer para a casa de Deus, “conforme as suas posses”.",
+    "anagogico": "A multidão que volta “como um só homem” anuncia a assembleia dos redimidos de todas as tribos, reunidos na unidade diante de Deus (Ap 7,9)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Voltaram para Jerusalém e para a Judeia, cada um para a sua cidade.” “Não puderam indicar qual era a casa de seus pais.” “Até que se levantasse um pontífice douto e perfeito.” “Toda esta multidão era como um só homem.” “Fizeram oferendas espontâneas à casa de Deus.”",
+    "meditatio_perguntas": [
+      "Sinto-me parte de um povo, com o meu nome e a minha tarefa?",
+      "Contribuo, conforme as minhas posses, para a casa de Deus?",
+      "Vivo a unidade da comunidade “como um só homem”?"
+    ],
+    "oratio_guia": "Senhor, que conheces cada um pelo nome, reúne o teu povo na unidade e faz de mim um colaborador generoso na reconstrução da tua casa. Amém.",
+    "contemplatio_foco": {
+      "texto": "Toda esta multidão era como um só homem",
+      "ref": "Esd 2,64"
+    }
+  },
+  "ancoras": {
+    "2:63": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “pontífice douto e perfeito” consultaria os Urim e Tumim (Ex 28,30). Cf. Ne 7,65.",
+        "origem": "ia"
+      }
+    },
+    "2:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A lista é repetida, com variantes, em Ne 7,6-72.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

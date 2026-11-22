@@ -1,0 +1,57 @@
+{
+  "id": "EZR.3.1",
+  "livro": "EZR",
+  "titulo": "O altar e os alicerces do templo: choro e alegria",
+  "secao": "O retorno e a reconstrução do Templo",
+  "referencia": "Esd 3,1-13",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "O altar antes do templo; o choro e a alegria",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No sétimo mês, o povo se reúne “como um só homem em Jerusalém”. Josué, o sacerdote, e Zorobabel começam a edificar o altar do Deus de Israel “conforme o que está escrito na lei de Moisés”. “Colocaram o altar de Deus sobre as suas bases, apesar de os povos dos países circunvizinhos lhes incutirem terror, e ofereceram ao Senhor sobre o altar o holocausto da manhã e da tarde.” Celebram a festa dos Tabernáculos, “porém ainda não tinham sido lançados os fundamentos do templo”. No segundo ano, lançam os alicerces. Os sacerdotes com trombetas e os levitas com címbalos louvam a Deus “com os salmos de David”: “Que ele é bom, e é eterna a sua misericórdia sobre Israel.” Todo o povo grita de alegria. Mas “muitos dos sacerdotes… e dos anciãos, que tinham visto o primeiro templo, vendo lançar… os fundamentos deste outro templo, choravam em alta voz; muitos soltavam gritos de alegria. Ninguém podia distinguir os gritos dos que se regozijavam, da voz de choro do povo.”",
+    "alegorico": "O altar levantado antes do templo mostra que o sacrifício é o coração do culto: anuncia o altar da cruz, sobre o qual se edifica a Igreja. O segundo templo, mais pobre que o primeiro, será glorificado pela presença de Cristo, como profetiza Ageu: “maior será a glória desta última casa do que a da primeira” (Ag 2,9).",
+    "moral": "Os repatriados começam pelo essencial: o altar e a oração da manhã e da tarde, mesmo com medo dos vizinhos. A reconstrução começa pela oração. E o capítulo termina com uma cena humana: os velhos choram comparando com o passado, os jovens gritam de alegria. Na comunidade convivem a saudade e a esperança; ambas cabem diante de Deus.",
+    "anagogico": "O choro e a alegria confundidos anunciam o dia em que Deus “enxugará toda lágrima” e só restará o júbilo (Ap 21,4)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O povo se reuniu como um só homem em Jerusalém.” “Começaram a edificar o altar do Deus de Israel.” “Apesar de os povos… lhes incutirem terror.” “O holocausto da manhã e da tarde.” “Que ele é bom, e é eterna a sua misericórdia.” “Choravam em alta voz; muitos soltavam gritos de alegria.”",
+    "meditatio_perguntas": [
+      "Começo pelo essencial, a oração, quando preciso recomeçar?",
+      "Rezo mesmo quando tenho medo?",
+      "Vivo de saudade do passado ou de alegria pelo que Deus começa agora?"
+    ],
+    "oratio_guia": "Senhor, que és bom e cuja misericórdia é eterna, ajuda-me a levantar primeiro o altar da oração na minha vida. Recebe as minhas lágrimas e as minhas alegrias, e edifica em mim a tua casa. Amém.",
+    "contemplatio_foco": {
+      "texto": "Que ele é bom, e é eterna a sua misericórdia sobre Israel",
+      "ref": "Esd 3,11"
+    }
+  },
+  "ancoras": {
+    "3:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O primeiro templo fora destruído em 587 a.C.; os anciãos que o tinham visto teriam mais de sessenta anos.",
+        "origem": "ia"
+      }
+    },
+    "3:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Sl 135 (Vulgata), com o refrão “porque é eterna a sua misericórdia”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
