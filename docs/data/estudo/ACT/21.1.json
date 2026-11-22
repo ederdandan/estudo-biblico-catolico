@@ -1,35 +1,35 @@
 {
   "id": "ACT.21.1",
   "livro": "ACT",
-  "titulo": "A prisão de Paulo em Jerusalém",
+  "titulo": "A subida a Jerusalém e a prisão no templo",
   "secao": "Testemunha até Roma",
-  "referencia": "At 21,1–22,30",
+  "referencia": "At 21,1-40",
   "ini": {
     "c": 21,
     "v": 1
   },
   "fim": {
-    "c": 22,
-    "v": 30
+    "c": 21,
+    "v": 40
   },
   "liturgia": {
-    "tema_central": "Estou pronto até para morrer pelo nome do Senhor Jesus",
+    "tema_central": "“Estou pronto… até para morrer em Jerusalém pelo nome do Senhor Jesus”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Paulo navega até Tiro e Cesareia, em casa de Filipe, o evangelista, cujas quatro filhas profetizavam. O profeta Ágabo ata as próprias mãos e pés com o cinto de Paulo: assim os judeus atarão o dono deste cinto. Todos suplicam que não suba a Jerusalém, mas ele responde: estou pronto não só a ser atado, mas a morrer pelo nome do Senhor Jesus. Calam-se: faça-se a vontade do Senhor. Em Jerusalém, Tiago e os anciãos acolhem-no e aconselham-no a cumprir um rito de purificação no Templo. Ali judeus da Ásia amotinam o povo, acusando-o de profanar o Templo com gregos; arrastam-no e querem matá-lo, mas o tribuno romano intervém e prende-o com duas cadeias. Nas escadas da fortaleza, Paulo pede para falar ao povo e, em hebraico, conta a sua vida: judeu de Tarso, educado aos pés de Gamaliel, zeloso perseguidor do Caminho; no caminho de Damasco, uma grande luz e a voz: Saulo, por que me persegues?; Ananias disse-lhe: o Deus de nossos pais escolheu-te para conheceres a sua vontade e veres o Justo; levanta-te, recebe o batismo e lava os teus pecados invocando o seu nome; depois, o Senhor enviou-o às nações. Ao ouvirem “nações”, gritam: tira-o do mundo! O tribuno manda açoitá-lo, mas Paulo declara-se cidadão romano.",
-    "alegorico": "Como Jesus, Paulo “sobe a Jerusalém” sabendo o que o espera; é entregue aos gentios; a multidão grita “tira-o do mundo”. O caminho do apóstolo reproduz o do Mestre. O gesto profético de Ágabo recorda as ações simbólicas dos profetas antigos.",
-    "moral": "“Faça-se a vontade do Senhor”: a comunidade aprende a aceitar o que não compreende. Paulo não procura o martírio, mas não foge dele. Diante da multidão hostil, responde com o testemunho da própria conversão: a história pessoal é instrumento de evangelização. E usa os direitos de cidadão: a fé não exige renunciar à justiça humana.",
-    "anagogico": "Estar pronto a morrer pelo nome do Senhor é a disposição do mártir, que já vive na esperança da ressurreição."
+    "literal": "Paulo navega para a Síria. Em Tiro, os discípulos, “inspirados pelo Espírito Santo”, pedem-lhe que não suba a Jerusalém; todos o acompanham com mulheres e filhos e, “postos de joelhos na praia, fizemos oração”. Em Cesareia hospedam-se com Filipe, o evangelista, que tinha quatro filhas que profetizavam. O profeta Ágabo toma a cinta de Paulo, ata os próprios pés e mãos e diz: “Assim atarão os Judeus em Jerusalém ao homem a quem pertence esta cinta.” Todos choram e pedem que não vá. “Que fazeis, chorando e afligindo o meu coração? Porque estou pronto não só para ser atado, mas até para morrer em Jerusalém pelo nome do Senhor Jesus.” “Seja feita a vontade do Senhor.” Em Jerusalém, Tiago e os anciãos glorificam a Deus pelas obras entre os gentios e pedem a Paulo que mostre fidelidade à Lei, pagando os gastos de quatro homens com voto de nazireato. No templo, judeus da Ásia amotinam o povo, acusando-o de ter levado gregos ao lugar santo. Arrastam-no para fora para o matar; o tribuno intervém e prende-o com duas cadeias, enquanto a multidão grita: “Morra!” Nos degraus da fortaleza, Paulo pede para falar ao povo.",
+    "alegorico": "A subida de Paulo a Jerusalém, consciente do que o espera, reproduz a subida de Jesus (Lc 9,51): o discípulo segue o caminho do Mestre. O “seja feita a vontade do Senhor” ecoa o Getsêmani (Lc 22,42), e o grito “Morra!” lembra o “Fora com ele!” da Paixão (Lc 23,18). Paulo entregue aos gentios cumpre, como Jesus, a profecia de Ágabo.",
+    "moral": "O Espírito anuncia sofrimento, e os irmãos, por amor, querem impedir Paulo de ir. Mas ele distingue o aviso do caminho: sabe que deve ir. O amor dos amigos pode às vezes afastar-nos da cruz; a resposta é a docilidade: “seja feita a vontade do Senhor”. Paulo também cede por amor à unidade, aceitando o rito pedido por Tiago: a caridade faz-se “judeu com os judeus” (1Cor 9,20).",
+    "anagogico": "Quem está pronto a morrer pelo nome do Senhor Jesus recebe a coroa da vida (Ap 2,10)."
   },
   "lectio_divina": {
-    "lectio_resumo": "Que fazeis, chorando e afligindo o meu coração? Porque estou pronto não só para ser atado, mas até para morrer em Jerusalém pelo nome do Senhor Jesus. E dissemos: Seja feita a vontade do Senhor. O Deus de nossos pais te predestinou para que conhecesses a sua vontade, visses o Justo e ouvisses a voz da sua boca. Agora que esperas tu? Levanta-te, recebe o baptismo e lava os teus pecados, invocando o seu nome.",
+    "lectio_resumo": "“Postos de joelhos na praia, fizemos oração.” “Assim atarão os Judeus em Jerusalém ao homem a quem pertence esta cinta.” “Que fazeis, chorando e afligindo o meu coração?” “Estou pronto não só para ser atado, mas até para morrer… pelo nome do Senhor Jesus.” “Seja feita a vontade do Senhor.” “Glorificaram a Deus.” “Morra!”",
     "meditatio_perguntas": [
-      "Sei dizer “faça-se a vontade do Senhor” quando não entendo?",
-      "Conto a minha história de fé aos outros?",
-      "Até onde estou disposto a ir pelo nome de Jesus?"
+      "O amor dos meus próximos alguma vez me afasta da vontade de Deus?",
+      "Até onde estou pronto a ir pelo nome de Jesus?",
+      "Sei ceder em coisas secundárias por amor à unidade?"
     ],
-    "oratio_guia": "Senhor Jesus, dá-me estar pronto a tudo pelo teu nome. Que eu saiba dizer “faça-se a vontade do Senhor” e contar sem medo como me encontraste no caminho. Amém.",
+    "oratio_guia": "Senhor Jesus, que subiste a Jerusalém, dá-me estar pronto a seguir-te até ao fim. Nas despedidas e nas provas, que eu diga: seja feita a vontade do Senhor. Amém.",
     "contemplatio_foco": {
       "texto": "estou pronto não só para ser atado, mas até para morrer em Jerusalém pelo nome do Senhor Jesus",
       "ref": "At 21,13"
@@ -44,19 +44,11 @@
         "origem": "ia"
       }
     },
-    "22:3": {
+    "21:28": {
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "At 22,3-16 é uma das leituras da festa da Conversão de São Paulo (25 de janeiro).",
-        "origem": "ia"
-      }
-    },
-    "22:25": {
-      "cic": [],
-      "padres": [],
-      "nota": {
-        "texto": "Era proibido açoitar um cidadão romano sem julgamento (lex Porcia).",
+        "texto": "Inscrições no Templo proibiam, sob pena de morte, a entrada de gentios no átrio interior.",
         "origem": "ia"
       }
     }

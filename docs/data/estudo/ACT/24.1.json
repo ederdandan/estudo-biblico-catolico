@@ -1,0 +1,57 @@
+{
+  "id": "ACT.24.1",
+  "livro": "ACT",
+  "titulo": "Paulo diante de Félix",
+  "secao": "Testemunha até Roma",
+  "referencia": "At 24,1-27",
+  "ini": {
+    "c": 24,
+    "v": 1
+  },
+  "fim": {
+    "c": 24,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "“A justiça, a castidade e o juízo futuro”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Cinco dias depois, o sumo sacerdote desce a Cesareia com o advogado Tértulo, que lisonjeia Félix e acusa Paulo de ser “homem pestífero”, “cabeça da seita dos nazarenos” e profanador do templo. Paulo responde com serenidade: veio a Jerusalém para adorar há doze dias, sem provocar tumulto; e confessa: “segundo aquele caminho que eles chamam heresia, sirvo o Deus de nossos pais, crendo todas as coisas que estão escritas na lei e nos profetas, e tenho esperança em Deus… que há-de haver a ressurreição dos justos e dos pecadores. Por isso, procuro ter sempre a minha consciência sem mancha diante de Deus e dos homens.” Félix adia o processo. Dias depois, com a mulher Drusila, chama Paulo para ouvi-lo “falar da fé em Jesus Cristo. Mas, dissertando ele sobre a justiça, castidade e o juízo futuro, Félix, atemorizado, disse: Por agora, retira-te.” Esperava dinheiro de Paulo e, para agradar aos judeus, deixa-o preso dois anos.",
+    "alegorico": "O cristianismo é chamado “o Caminho”: não uma seita, mas a continuação fiel da Lei e dos Profetas, cumpridos em Cristo (Lc 24,44). Paulo diante do governador repete Jesus diante de Pilatos: o acusado julga, pela verdade, o seu juiz. A ressurreição “dos justos e dos pecadores” é o juízo universal (Jo 5,28-29).",
+    "moral": "Félix gosta de ouvir falar da fé enquanto é tema interessante; mas quando Paulo fala de justiça, castidade e juízo, isto é, quando a fé toca a vida, ele adia: “por agora, retira-te”. É a tentação de adiar a conversão. Paulo, ao contrário, tem um princípio de vida: “ter sempre a consciência sem mancha diante de Deus e dos homens”.",
+    "anagogico": "“A ressurreição dos justos e dos pecadores” e “o juízo futuro”: a verdade última que dá peso a cada escolha."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Este homem pestífero.” “Segundo aquele caminho que eles chamam heresia, sirvo o Deus de nossos pais.” “Tenho esperança em Deus… que há-de haver a ressurreição dos justos e dos pecadores.” “Procuro ter sempre a minha consciência sem mancha.” “A justiça, castidade e o juízo futuro.” “Por agora, retira-te.”",
+    "meditatio_perguntas": [
+      "Gosto de “ouvir falar da fé”, mas adio quando ela toca a minha vida?",
+      "Procuro ter a consciência sem mancha diante de Deus e dos homens?",
+      "Que conversão estou deixando “para a primeira ocasião”?"
+    ],
+    "oratio_guia": "Senhor, não quero dizer-te “por agora, retira-te”. Que a tua palavra sobre a justiça, a castidade e o juízo me converta hoje, e que eu guarde a consciência sem mancha. Amém.",
+    "contemplatio_foco": {
+      "texto": "procuro ter sempre a minha consciência sem mancha diante de Deus e dos homens",
+      "ref": "At 24,16"
+    }
+  },
+  "ancoras": {
+    "24:27": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Félix foi governador da Judeia c. 52–59; o historiador Tácito descreve-o como cruel e venal.",
+        "origem": "ia"
+      }
+    },
+    "24:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Drusila: filha de Herodes Agripa I (At 12).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

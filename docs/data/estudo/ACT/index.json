@@ -303,12 +303,26 @@
   },
   {
    "id": "ACT.15.36",
-   "titulo": "Paulo na Macedónia: Filipos",
+   "titulo": "Timóteo e o chamado da Macedônia",
    "secao": "A missão aos gentios",
-   "referencia": "At 15,36–16,40",
+   "referencia": "At 15,36–16,10",
    "ini": {
     "c": 15,
     "v": 36
+   },
+   "fim": {
+    "c": 16,
+    "v": 10
+   }
+  },
+  {
+   "id": "ACT.16.11",
+   "titulo": "Filipos: Lídia e o carcereiro",
+   "secao": "A missão aos gentios",
+   "referencia": "At 16,11-40",
+   "ini": {
+    "c": 16,
+    "v": 11
    },
    "fim": {
     "c": 16,
@@ -373,11 +387,25 @@
   },
   {
    "id": "ACT.21.1",
-   "titulo": "A prisão de Paulo em Jerusalém",
+   "titulo": "A subida a Jerusalém e a prisão no templo",
    "secao": "Testemunha até Roma",
-   "referencia": "At 21,1–22,30",
+   "referencia": "At 21,1-40",
    "ini": {
     "c": 21,
+    "v": 1
+   },
+   "fim": {
+    "c": 21,
+    "v": 40
+   }
+  },
+  {
+   "id": "ACT.22.1",
+   "titulo": "O discurso de Paulo ao povo: Saulo, por que me persegues?",
+   "secao": "Testemunha até Roma",
+   "referencia": "At 22,1-30",
+   "ini": {
+    "c": 22,
     "v": 1
    },
    "fim": {
@@ -387,11 +415,25 @@
   },
   {
    "id": "ACT.23.1",
-   "titulo": "Paulo diante do Sinédrio e de Félix",
+   "titulo": "Paulo diante do Sinédrio: coragem, darás testemunho em Roma",
    "secao": "Testemunha até Roma",
-   "referencia": "At 23,1–24,27",
+   "referencia": "At 23,1-35",
    "ini": {
     "c": 23,
+    "v": 1
+   },
+   "fim": {
+    "c": 23,
+    "v": 35
+   }
+  },
+  {
+   "id": "ACT.24.1",
+   "titulo": "Paulo diante de Félix",
+   "secao": "Testemunha até Roma",
+   "referencia": "At 24,1-27",
+   "ini": {
+    "c": 24,
     "v": 1
    },
    "fim": {
@@ -401,11 +443,25 @@
   },
   {
    "id": "ACT.25.1",
-   "titulo": "Paulo diante de Festo e de Agripa",
+   "titulo": "Paulo diante de Festo: apelo para César",
    "secao": "Testemunha até Roma",
-   "referencia": "At 25,1–26,32",
+   "referencia": "At 25,1-27",
    "ini": {
     "c": 25,
+    "v": 1
+   },
+   "fim": {
+    "c": 25,
+    "v": 27
+   }
+  },
+  {
+   "id": "ACT.26.1",
+   "titulo": "Paulo diante de Agripa: por pouco me persuades",
+   "secao": "Testemunha até Roma",
+   "referencia": "At 26,1-32",
+   "ini": {
+    "c": 26,
     "v": 1
    },
    "fim": {
@@ -417,9 +473,23 @@
    "id": "ACT.27.1",
    "titulo": "A viagem e o naufrágio",
    "secao": "Testemunha até Roma",
-   "referencia": "At 27,1–28,16",
+   "referencia": "At 27,1-44",
    "ini": {
     "c": 27,
+    "v": 1
+   },
+   "fim": {
+    "c": 27,
+    "v": 44
+   }
+  },
+  {
+   "id": "ACT.28.1",
+   "titulo": "Malta e a chegada a Roma",
+   "secao": "Testemunha até Roma",
+   "referencia": "At 28,1-16",
+   "ini": {
+    "c": 28,
     "v": 1
    },
    "fim": {

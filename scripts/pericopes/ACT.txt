@@ -24,14 +24,19 @@
 13:1-13:52 | Barnabé e Saulo enviados pelo Espírito
 14:1-14:27 | Icónio, Listra e o regresso a Antioquia
 15:1-15:35 | O concílio de Jerusalém
-15:36-16:40 | Paulo na Macedónia: Filipos
+15:36-16:10 | Timóteo e o chamado da Macedônia
+16:11-16:40 | Filipos: Lídia e o carcereiro
 17:1-17:34 | Tessalónica, Bereia e o Areópago
 18:1-18:28 | Paulo em Corinto
 19:1-19:40 | Paulo em Éfeso
 20:1-20:38 | Trôade e a despedida de Mileto
 ## Testemunha até Roma
-21:1-22:30 | A prisão de Paulo em Jerusalém
-23:1-24:27 | Paulo diante do Sinédrio e de Félix
-25:1-26:32 | Paulo diante de Festo e de Agripa
-27:1-28:16 | A viagem e o naufrágio
+21:1-21:40 | A subida a Jerusalém e a prisão no templo
+22:1-22:30 | O discurso de Paulo ao povo: Saulo, por que me persegues?
+23:1-23:35 | Paulo diante do Sinédrio: coragem, darás testemunho em Roma
+24:1-24:27 | Paulo diante de Félix
+25:1-25:27 | Paulo diante de Festo: apelo para César
+26:1-26:32 | Paulo diante de Agripa: por pouco me persuades
+27:1-27:44 | A viagem e o naufrágio
+28:1-28:16 | Malta e a chegada a Roma
 28:17-28:31 | Paulo em Roma

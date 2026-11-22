@@ -1,0 +1,57 @@
+{
+  "id": "ACT.26.1",
+  "livro": "ACT",
+  "titulo": "Paulo diante de Agripa: por pouco me persuades",
+  "secao": "Testemunha até Roma",
+  "referencia": "At 26,1-32",
+  "ini": {
+    "c": 26,
+    "v": 1
+  },
+  "fim": {
+    "c": 26,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "“Por pouco me não persuades a fazer-me cristão”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Diante do rei Agripa, Paulo faz a sua defesa: vivia como fariseu; julgam-no “por esperar a promessa que foi feita por Deus a nossos pais”. “Parece-vos porventura incrível que Deus ressuscite os mortos?” Conta a perseguição que fazia aos cristãos e a visão no caminho de Damasco: “Saulo, Saulo… Eu sou Jesus, a quem tu persegües. Mas levanta-te e põe-te em pé, porque eu te apareci para te constituir servidor e testemunha… aos quais agora te envio a abrir-lhes os olhos, a fim de que se convertam das trevas à luz, e do poder de Satanás a Deus.” “Não fui rebelde à visão celeste.” Anuncia que Cristo havia de padecer e ser “o primeiro a ressuscitar dos mortos”. Festo interrompe: “Estás louco, Paulo.” “Eu não estou louco… mas digo palavras de verdade e de sabedoria.” Agripa diz: “Por pouco me não persuades a fazer-me cristão.” Paulo responde: “Prouvera a Deus que, por pouco ou por muito, não sòmente tu, mas também todos quantos me ouvem, se fizessem hoje tais como eu sou, menos estes grilhões.” Concluem que Paulo poderia ser solto, se não tivesse apelado para César.",
+    "alegorico": "Este é o terceiro relato da conversão de Paulo, agora como vocação: ele é enviado a “abrir os olhos” dos povos, a fazê-los passar “das trevas para a luz”. É a descrição do batismo, chamado pelos Padres “iluminação” (cf. CIC 1216). Cristo, “o primeiro a ressuscitar dos mortos”, é o primogênito dos mortos (Cl 1,18).",
+    "moral": "Recalcitrar “contra o aguilhão” é “dura coisa”: resistir à graça faz sofrer. A fidelidade de Paulo está numa frase: “não fui rebelde à visão celeste”. A fé pode parecer loucura aos sábios (Festo), mas é “verdade e sabedoria”. E o “por pouco” de Agripa é trágico: chegar perto e não dar o passo. O desejo de Paulo é o de todo apóstolo: que todos sejam como ele, menos as cadeias.",
+    "anagogico": "Cristo, “o primeiro a ressuscitar dos mortos”, abre o caminho para que todos os que creem passem das trevas à luz eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Parece-vos porventura incrível que Deus ressuscite os mortos?” “Contra o aguilhão.” “A fim de que se convertam das trevas à luz.” “Não fui rebelde à visão celeste.” “Estás louco, Paulo.” “Palavras de verdade e de sabedoria.” “Por pouco me não persuades a fazer-me cristão.” “Menos estes grilhões.”",
+    "meditatio_perguntas": [
+      "Em que ponto ainda “recalcitro contra o aguilhão”?",
+      "Sou fiel à luz que recebi?",
+      "Há em mim um “por pouco”, uma conversão quase feita?"
+    ],
+    "oratio_guia": "Senhor Jesus, primeiro dos ressuscitados, não me deixes recalcitrar contra a tua graça nem ficar no “por pouco”. Faz-me passar das trevas para a luz e ser fiel à tua visão. Amém.",
+    "contemplatio_foco": {
+      "texto": "Por pouco me não persuades a fazer-me cristão",
+      "ref": "At 26,28"
+    }
+  },
+  "ancoras": {
+    "26:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Uma das três ocorrências de “cristão” no NT (com At 11,26 e 1Pd 4,16).",
+        "origem": "ia"
+      }
+    },
+    "26:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Aguilhão”: vara pontiaguda para guiar os bois; provérbio grego.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

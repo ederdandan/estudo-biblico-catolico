@@ -1,0 +1,57 @@
+{
+  "id": "ACT.22.1",
+  "livro": "ACT",
+  "titulo": "O discurso de Paulo ao povo: Saulo, por que me persegues?",
+  "secao": "Testemunha até Roma",
+  "referencia": "At 22,1-30",
+  "ini": {
+    "c": 22,
+    "v": 1
+  },
+  "fim": {
+    "c": 22,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "“Saulo, Saulo, por que me persegues?”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Dos degraus da fortaleza, Paulo fala em hebraico, e faz-se grande silêncio: “Irmãos e pais, ouvi.” Conta a sua vida: judeu de Tarso, educado “aos pés de Gamaliel”, “cheio de zelo de Deus”, perseguidor “desta doutrina” até à morte. Perto de Damasco, ao meio-dia, uma grande luz: “Saulo, Saulo, por que me persegues?… Sou Jesus Nazareno, a quem tu persegues.” “Senhor, que devo fazer?” Ananias devolve-lhe a vista: “O Deus de nossos pais te predestinou… porque tu serás sua testemunha, diante de todos os homens… Levanta-te, recebe o baptismo e lava os teus pecados, invocando o seu nome.” Mais tarde, rezando no templo, o Senhor disse-lhe: “Vai, porque te enviarei a nações remotas.” A esta palavra, a multidão grita: “Tira do mundo tal homem.” O tribuno manda açoitá-lo, mas Paulo pergunta ao centurião: “É vos permitido açoitar um cidadão romano, que nem mesmo foi condenado?” “Eu sou-o de nascimento.” Os carrascos afastam-se, e o tribuno leva-o no dia seguinte ao Sinédrio.",
+    "alegorico": "Jesus diz “por que me persegues?”, não “por que persegues os meus”: Cristo e a Igreja são um só corpo (CIC 790; 1Cor 12,27). O batismo que “lava os pecados” mostra o sacramento como banho de regeneração. Paulo testemunha diante do povo o que viu: o seu discurso é o modelo de todo testemunho cristão, contar o que Cristo fez na própria vida.",
+    "moral": "Paulo não argumenta em abstrato: conta a sua história, incluindo o seu pecado (“guardava as vestes dos que o matavam”). O testemunho pessoal humilde é a força do anúncio. A pergunta “Senhor, que devo fazer?” é a oração de quem se converte. E Paulo usa com serenidade os seus direitos de cidadão: a fé não pede que se renuncie à justiça.",
+    "anagogico": "Ter “visto o Justo e ouvido a voz da sua boca” é o começo da visão que se completará na glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Irmãos e pais, ouvi.” “Cheio de zelo de Deus.” “Saulo, Saulo, por que me persegues?” “Sou Jesus Nazareno, a quem tu persegues.” “Senhor, que devo fazer?” “Tu serás sua testemunha, diante de todos os homens.” “Levanta-te, recebe o baptismo e lava os teus pecados.” “Vai, porque te enviarei a nações remotas.”",
+    "meditatio_perguntas": [
+      "Sei contar com simplicidade o que Cristo fez na minha vida?",
+      "Peço ao Senhor: “que devo fazer?”",
+      "Reconheço Cristo nos irmãos que eu talvez “persiga”?"
+    ],
+    "oratio_guia": "Senhor Jesus, que te fizeste encontrar por Saulo no caminho, encontra-me também a mim. Que eu te pergunte sempre: que devo fazer? E faz de mim tua testemunha diante de todos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Saulo, Saulo, por que me persegues?",
+      "ref": "At 22,7"
+    }
+  },
+  "ancoras": {
+    "22:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "At 22,3-16 é uma das leituras da festa da Conversão de São Paulo (25 de janeiro). Gamaliel: cf. At 5,34.",
+        "origem": "ia"
+      }
+    },
+    "22:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A cidadania romana podia ser comprada; Paulo herdou-a do pai.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

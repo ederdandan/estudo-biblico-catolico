@@ -1,0 +1,57 @@
+{
+  "id": "ACT.28.1",
+  "livro": "ACT",
+  "titulo": "Malta e a chegada a Roma",
+  "secao": "Testemunha até Roma",
+  "referencia": "At 28,1-16",
+  "ini": {
+    "c": 28,
+    "v": 1
+  },
+  "fim": {
+    "c": 28,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "“Em seguida encaminhámo-nos para Roma”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os náufragos chegam à ilha de Malta, cujos habitantes os tratam “com muita humanidade”, acendendo uma fogueira por causa da chuva e do frio. Uma víbora agarra-se à mão de Paulo; os nativos julgam-no assassino castigado pela justiça divina; mas Paulo sacode a serpente no fogo e nada sofre, e então dizem que é um deus. Públio, o principal da ilha, hospeda-os; Paulo cura-lhe o pai, que tinha febre e disenteria, impondo-lhe as mãos depois de rezar, e depois todos os doentes da ilha vêm e são curados. Três meses depois, partem num navio de Alexandria e chegam a Putéolos, onde encontram irmãos. “Em seguida encaminhámo-nos para Roma.” Os irmãos de Roma vêm ao seu encontro até ao Foro de Ápio e às Três Tabernas, “Paulo, tendo-os visto, deu graças a Deus e ficou cheio de confiança”. Em Roma, permitem-lhe morar à parte, com um soldado de guarda.",
+    "alegorico": "Paulo que sacode a víbora sem dano cumpre a promessa do Senhor aos discípulos: “pegarão em serpentes… e impondo as mãos aos enfermos, ficarão curados” (Mc 16,18). É imagem da vitória de Cristo sobre a antiga serpente. A chegada a Roma, centro do mundo pagão, é o cumprimento do programa dos Atos: “sereis minhas testemunhas… até aos confins da terra” (At 1,8).",
+    "moral": "Os pagãos de Malta são exemplo de hospitalidade: acolhem estrangeiros molhados e famintos. Os juízos humanos são volúveis: num instante Paulo é assassino, no outro é um deus; ele não se deixa levar por nenhum. E até o grande apóstolo precisa de consolo: ao ver os irmãos de Roma, “deu graças a Deus e ficou cheio de confiança”. A comunidade fortalece os seus.",
+    "anagogico": "“Em seguida encaminhámo-nos para Roma”: o caminho da Igreja, através de naufrágios e serpentes, até à meta prometida por Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Os indígenas trataram-nos com muita humanidade.” “Sacudindo a víbora no fogo, não sofreu mal algum.” “Impondo-lhe as mãos, o sarou.” “Encaminhámo-nos para Roma.” “Paulo, tendo-os visto, deu graças a Deus e ficou cheio de confiança.”",
+    "meditatio_perguntas": [
+      "Pratico a hospitalidade com quem chega “molhado e com frio”?",
+      "Fico indiferente aos juízos volúveis das pessoas sobre mim?",
+      "Sou para os meus irmãos alguém que lhes dá ânimo?"
+    ],
+    "oratio_guia": "Senhor, que guardaste Paulo da víbora e o conduziste a Roma, guarda-me do mal e faz-me hospitaleiro. Que, ao encontrar os meus irmãos, eu te dê graças e fique cheio de confiança. Amém.",
+    "contemplatio_foco": {
+      "texto": "Paulo, tendo-os visto, deu graças a Deus e ficou cheio de confiança",
+      "ref": "At 28,15"
+    }
+  },
+  "ancoras": {
+    "28:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Malta (Melita): a tradição local venera o lugar do naufrágio, a “Baía de São Paulo”.",
+        "origem": "ia"
+      }
+    },
+    "28:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Foro de Ápio e Três Tabernas: estações da Via Ápia, a cerca de 65 e 50 km de Roma.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

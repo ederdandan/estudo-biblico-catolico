@@ -1,0 +1,57 @@
+{
+  "id": "ACT.16.11",
+  "livro": "ACT",
+  "titulo": "Filipos: Lídia e o carcereiro",
+  "secao": "A missão aos gentios",
+  "referencia": "At 16,11-40",
+  "ini": {
+    "c": 16,
+    "v": 11
+  },
+  "fim": {
+    "c": 16,
+    "v": 40
+  },
+  "liturgia": {
+    "tema_central": "“Crê no Senhor Jesus, e serás salvo tu e a tua família”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Em Filipos, colônia romana, no sábado, Paulo e os companheiros vão para fora das portas, junto do rio, a um lugar de oração, e falam às mulheres. “Uma mulher, chamada Lídia… que negociava em púrpura, temente a Deus, ouvia-nos. O Senhor abriu-lhe o coração.” Batizada com a família, insiste: “entrai em minha casa e ficai nela.” Uma escrava com espírito de adivinhação, que dava lucro aos donos, segue-os gritando; Paulo diz ao espírito: “Ordeno-te em nome de Jesus Cristo que saias dessa mulher.” Os donos, perdendo o lucro, levam Paulo e Silas aos magistrados; são açoitados e postos no cepo. “Mas, pela meia-noite, Paulo e Silas oravam, cantando louvores a Deus.” Um terremoto abre as portas e quebra as cadeias. O carcereiro quer matar-se, mas Paulo grita: “Não te faças nenhum mal, porque estamos aqui todos.” “Senhores, que é necessário que eu faça para me salvar?” “Crê no Senhor Jesus, e serás salvo tu e a tua família.” Ele lava-lhes as chagas e é batizado com toda a família. De manhã, Paulo exige que os magistrados, que os açoitaram sendo cidadãos romanos, venham soltá-los pessoalmente.",
+    "alegorico": "A Igreja de Filipos nasce de duas casas: a de Lídia, a primeira cristã da Europa, e a do carcereiro. Ambas são batizadas “com toda a família”: a fé entra pela família inteira (cf. CIC 1252). O canto à meia-noite e as cadeias quebradas são imagem da Páscoa: a oração liberta, e o próprio carcereiro passa da morte à vida.",
+    "moral": "Os pregadores começam onde o povo já reza, junto ao rio. É o Senhor que “abre o coração”; o apóstolo só fala. O exorcismo mostra que o Evangelho entra em conflito com interesses econômicos que exploram pessoas. E Paulo e Silas, feridos e presos, cantam à meia-noite: a alegria cristã não depende das circunstâncias. Paulo, por fim, defende os seus direitos: a humildade não exclui exigir a justiça.",
+    "anagogico": "As cadeias quebradas à meia-noite anunciam a libertação final, quando todos os prisioneiros da morte serão soltos pelo Senhor ressuscitado."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Junto de uma ribeira, onde julgávamos haver um lugar de oração.” “O Senhor abriu-lhe o coração.” “Entrai em minha casa e ficai nela.” “Pela meia-noite, Paulo e Silas oravam, cantando louvores a Deus.” “Não te faças nenhum mal, porque estamos aqui todos.” “Que é necessário que eu faça para me salvar?” “Crê no Senhor Jesus, e serás salvo tu e a tua família.”",
+    "meditatio_perguntas": [
+      "Peço que o Senhor abra o meu coração à Palavra?",
+      "Consigo louvar a Deus na “meia-noite” das provações?",
+      "A minha fé é vivida e transmitida em família?"
+    ],
+    "oratio_guia": "Senhor Jesus, abre o meu coração como abriste o de Lídia. Que eu te louve mesmo à meia-noite, quebra as minhas cadeias e salva-me a mim e à minha casa. Amém.",
+    "contemplatio_foco": {
+      "texto": "Crê no Senhor Jesus, e serás salvo tu e a tua família",
+      "ref": "At 16,31"
+    }
+  },
+  "ancoras": {
+    "16:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Púrpura: tinta caríssima; Lídia era mulher de posses. Tiatira ficava na Ásia Menor.",
+        "origem": "ia"
+      }
+    },
+    "16:37": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Açoitar um cidadão romano sem julgamento era proibido pela lei romana.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

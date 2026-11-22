@@ -1,38 +1,38 @@
 {
   "id": "ACT.15.36",
   "livro": "ACT",
-  "titulo": "Paulo na Macedónia: Filipos",
+  "titulo": "Timóteo e o chamado da Macedônia",
   "secao": "A missão aos gentios",
-  "referencia": "At 15,36–16,40",
+  "referencia": "At 15,36–16,10",
   "ini": {
     "c": 15,
     "v": 36
   },
   "fim": {
     "c": 16,
-    "v": 40
+    "v": 10
   },
   "liturgia": {
-    "tema_central": "Crê no Senhor Jesus e serás salvo",
+    "tema_central": "“Passa à Macedônia e ajuda-nos”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Paulo propõe a Barnabé visitar os irmãos; desentendem-se por causa de Marcos, e separam-se: Barnabé vai com Marcos para Chipre, Paulo escolhe Silas. Em Listra, Paulo toma consigo Timóteo, filho de mãe judia e pai grego. O Espírito Santo impede-os de pregar na Ásia; em Trôade, Paulo tem uma visão: um macedónio suplica-lhe: passa à Macedónia e ajuda-nos. Partem logo, certos de que Deus os chamava. Em Filipos, colónia romana, no sábado vão à beira do rio, onde se fazia oração, e falam às mulheres; uma delas, Lídia, negociante de púrpura, temente a Deus, escuta: o Senhor abre-lhe o coração. É batizada com a sua casa e obriga-os a hospedar-se com ela. Paulo expulsa um espírito de adivinhação de uma escrava; os patrões, perdendo o lucro, levam-nos aos magistrados; são açoitados e lançados na prisão, com os pés no cepo. À meia-noite, Paulo e Silas oram e cantam hinos a Deus; um terremoto abre as portas e solta as cadeias. O carcereiro quer matar-se, mas Paulo grita: não te faças mal, estamos todos aqui. Trémulo, pergunta: que devo fazer para ser salvo? Crê no Senhor Jesus e serás salvo tu e a tua casa. Lava-lhes as feridas e é batizado com todos os seus, cheio de alegria.",
-    "alegorico": "A passagem para a Macedónia é a entrada do Evangelho na Europa. Lídia, primeira convertida do continente, mostra que a fé é dom: “o Senhor abriu-lhe o coração”. O canto à meia-noite na prisão é imagem da Igreja que louva na noite da perseguição. A partir de 16,10, a narração passa a “nós”: o autor junta-se à viagem.",
-    "moral": "Até os santos discordam (Paulo e Barnabé), mas a missão continua por dois caminhos. Os planos humanos são corrigidos pelo Espírito, que fecha portas para abrir outras. O carcereiro converte-se ao ver presos que cantam e não fogem: o testemunho de liberdade interior evangeliza mais que palavras. E a fé entra em famílias inteiras.",
-    "anagogico": "A alegria do carcereiro com toda a sua casa é antecipação da festa do Reino, onde as cadeias de todos serão soltas."
+    "literal": "Paulo propõe a Barnabé visitar de novo as igrejas fundadas. Barnabé quer levar João Marcos; Paulo recusa, porque ele os deixara na Panfília. “E houve tal desacordo entre eles, que se separaram um do outro.” Barnabé parte com Marcos para Chipre; Paulo escolhe Silas e parte “recomendado pelos irmãos à graça de Deus”, confirmando as igrejas da Síria e da Cilícia. Em Listra encontra Timóteo, filho de mãe judia crente e de pai grego, de quem os irmãos davam bom testemunho, e leva-o consigo. Nas cidades transmitem as decisões do concílio de Jerusalém, “e as igrejas eram confirmadas na fé e cresciam em número cada dia”. O Espírito Santo impede-os de pregar na Ásia, e “o Espírito de Jesus” não os deixa entrar na Bitínia. Em Tróade, de noite, Paulo tem uma visão: “um homem da Macedônia, que lhe rogava: Passa à Macedônia e ajuda-nos.” “Logo… procuramos partir para a Macedônia, certificados de que Deus nos chamava a ir lá evangelizar.”",
+    "alegorico": "A passagem para a Macedônia é a entrada do Evangelho na Europa: o pedido do macedônio é o grito de toda a humanidade que espera a salvação. As portas fechadas pelo Espírito mostram que a missão é guiada por Deus, não pelos planos humanos. O “nós” que aparece no v. 10 indica que o narrador, Lucas segundo a tradição, se junta a Paulo.",
+    "moral": "Até os santos discordam: Paulo e Barnabé separam-se, e Deus tira bem disso, pois em vez de uma missão nascem duas. Mais tarde Paulo reconciliar-se-á com Marcos (2Tm 4,11). As portas que se fecham também fazem parte da vontade de Deus: o Espírito guia tanto pelos “nãos” como pelos “sins”. E é preciso estar atento ao grito dos que pedem: “ajuda-nos”.",
+    "anagogico": "O Evangelho que passa de povo em povo caminha para a reunião final de todas as nações no Reino."
   },
   "lectio_divina": {
-    "lectio_resumo": "Passa à Macedônia e ajuda-nos. O Senhor abriu o coração de Lídia, para atender àquelas coisas que Paulo dizia. Pela meia-noite, Paulo e Silas oravam, cantando louvores a Deus. Senhores, que é necessário que eu faça para me salvar? Eles responderam: Crê no Senhor Jesus, e serás salvo tu e a tua família. E alegrou-se com toda a sua família por ter crido em Deus.",
+    "lectio_resumo": "“Tornemos a ir visitar os irmãos.” “Houve tal desacordo entre eles, que se separaram.” “Recomendado pelos irmãos à graça de Deus.” “As igrejas eram confirmadas na fé e cresciam.” “Não lho permitiu o Espírito de Jesus.” “Passa à Macedônia e ajuda-nos.” “Certificados de que Deus nos chamava.”",
     "meditatio_perguntas": [
-      "Deixo que o Senhor me abra o coração à sua Palavra?",
-      "Sei louvar a Deus “à meia-noite”, nas minhas prisões?",
-      "Rezo pela salvação da minha família?"
+      "Como vivo os desacordos com outros cristãos?",
+      "Aceito que o Espírito me feche algumas portas?",
+      "Quem me está pedindo hoje: “vem e ajuda-nos”?"
     ],
-    "oratio_guia": "Senhor Jesus, abre o meu coração como abriste o de Lídia. Ensina-me a cantar louvores na noite da prova, e salva-me a mim e a toda a minha casa. Amém.",
+    "oratio_guia": "Espírito de Jesus, guia os meus passos, mesmo quando fechas portas. Faz-me ouvir o grito dos que pedem ajuda e partir prontamente para evangelizar. Amém.",
     "contemplatio_foco": {
-      "texto": "Crê no Senhor Jesus, e serás salvo tu e a tua família",
-      "ref": "At 16,31"
+      "texto": "Passa à Macedônia e ajuda-nos",
+      "ref": "At 16,9"
     }
   },
   "ancoras": {
@@ -44,11 +44,11 @@
         "origem": "ia"
       }
     },
-    "16:14": {
+    "15:39": {
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "Púrpura: tinta caríssima; Lídia era mulher de posses. Tiatira é uma das sete Igrejas do Apocalipse.",
+        "texto": "Paulo reconcilia-se depois com Marcos: cf. Cl 4,10; 2Tm 4,11.",
         "origem": "ia"
       }
     }

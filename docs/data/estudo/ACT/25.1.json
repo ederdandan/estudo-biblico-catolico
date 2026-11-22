@@ -1,38 +1,38 @@
 {
   "id": "ACT.25.1",
   "livro": "ACT",
-  "titulo": "Paulo diante de Festo e de Agripa",
+  "titulo": "Paulo diante de Festo: apelo para César",
   "secao": "Testemunha até Roma",
-  "referencia": "At 25,1–26,32",
+  "referencia": "At 25,1-27",
   "ini": {
     "c": 25,
     "v": 1
   },
   "fim": {
-    "c": 26,
-    "v": 32
+    "c": 25,
+    "v": 27
   },
   "liturgia": {
-    "tema_central": "Não fui rebelde à visão celeste",
+    "tema_central": "“Apelo para César”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "O novo governador, Festo, vai a Jerusalém, onde os chefes dos judeus pedem que Paulo seja transferido, planeando matá-lo no caminho. Em Cesareia, Paulo defende-se: não pequei contra a Lei, nem contra o Templo, nem contra César. Festo propõe julgá-lo em Jerusalém; Paulo responde: estou diante do tribunal de César; apelo para César. Festo: apelaste para César, para César irás. Chegam o rei Agripa II e Berenice; Festo expõe-lhes o caso: tratava-se de questões sobre um certo Jesus, morto, que Paulo afirmava estar vivo. Diante deles, Paulo conta de novo a sua conversão: o Senhor disse-lhe que o enviava aos gentios, para lhes abrir os olhos, para que se convertam das trevas à luz e do poder de Satanás a Deus, e recebam o perdão dos pecados e a herança entre os santificados. Por isso, ó rei Agripa, não fui rebelde à visão celeste; anunciei que se arrependessem e se convertessem a Deus. Digo apenas o que os profetas e Moisés anunciaram: que o Cristo havia de sofrer e, ressuscitado em primeiro lugar dentre os mortos, anunciar a luz ao povo e às nações. Festo grita: estás louco, Paulo! Paulo responde: não estou louco, digo palavras de verdade e de bom senso. Agripa diz: por pouco me persuades a fazer-me cristão. E Paulo: prouvera a Deus que todos os que me ouvem se tornassem como eu, exceto estas cadeias. Concluem que nada fez digno de morte.",
-    "alegorico": "Paulo diante de reis e governadores cumpre a profecia sobre ele: “levará o meu nome diante das nações e dos reis” (9,15). A missão é descrita como passagem das trevas à luz: é a própria experiência de Paulo, cegado e iluminado, que se torna programa para todos.",
-    "moral": "“Não fui rebelde à visão celeste”: a fidelidade a um chamamento recebido é o fio da vida de Paulo. Festo julga a fé como loucura; Agripa fica “quase” persuadido. O “por pouco” é o drama de muitos: estar perto e não dar o passo. O desejo de Paulo é magnânimo: que todos sejam como ele, “exceto estas cadeias”.",
-    "anagogico": "A herança entre os santificados e a luz anunciada às nações pelo Cristo ressuscitado são a meta para onde Paulo conduz os seus ouvintes, reis ou prisioneiros."
+    "literal": "Pórcio Festo, novo governador, sobe a Jerusalém; os chefes dos sacerdotes pedem que Paulo seja levado para lá, preparando uma emboscada para o matar no caminho. Festo prefere julgá-lo em Cesareia. Os acusadores apresentam muitas acusações que não podem provar; Paulo responde: “Nada fiz de repreensível nem contra a lei dos Judeus, nem contra o templo, nem contra César.” Festo, querendo agradar aos judeus, propõe o julgamento em Jerusalém. Paulo recusa: “Se lhes fiz algum mal ou coisa digna de morte, não recuso morrer, mas, se nada há daquilo de que estes me acusam, ninguém me pode entregar a eles. Apelo para César.” “Apelaste para César? A César irás.” Chegam o rei Agripa e Berenice; Festo expõe-lhes o caso: as acusações eram “sobre a sua religião e sobre um certo Jesus já morto, o qual Paulo afirmava viver”. Agripa quer ouvi-lo, e no dia seguinte, com grande pompa, Paulo é apresentado.",
+    "alegorico": "O apelo a César, longe de ser uma fuga, é o meio pelo qual se cumpre a promessa do Senhor: “importa que dês testemunho em Roma” (23,11). Deus serve-se até das instituições do império pagão para levar o Evangelho ao centro do mundo. A frase de Festo resume, sem querer, o núcleo do querigma: Jesus morreu e está vivo.",
+    "moral": "Paulo não procura o martírio a qualquer custo (“não recuso morrer”), mas também não se entrega a uma injustiça: usa os meios legítimos de defesa. A fé não é ingenuidade. E Festo mostra o perigo do governante que quer “agradar” em vez de fazer justiça. A questão decisiva, que o pagão vê como pormenor (“um certo Jesus já morto, o qual Paulo afirmava viver”), é o centro de tudo.",
+    "anagogico": "“Um certo Jesus já morto, o qual Paulo afirmava viver”: o Ressuscitado vive e reina, e todos comparecerão diante dele."
   },
   "lectio_divina": {
-    "lectio_resumo": "Para lhes abrir os olhos, a fim de que se convertam das trevas à luz, e do poder de Satanás a Deus, para que recebam o perdão dos pecados e a herança entre os santos, mediante a fé em mim. Por isso, ó rei Agripa, não fui rebelde à visão celeste. Agripa disse a Paulo: Por pouco me não persuades a fazer-me cristão. Prouvera a Deus que todos quantos me ouvem se fizessem hoje tais como eu sou, menos estes grilhões.",
+    "lectio_resumo": "“Nada fiz de repreensível.” “Não recuso morrer.” “Ninguém me pode entregar a eles. Apelo para César.” “A César irás.” “Um certo Jesus já morto, o qual Paulo afirmava viver.”",
     "meditatio_perguntas": [
-      "Sou fiel ao chamamento que recebi de Deus?",
-      "Há em mim um “por pouco” diante de um passo de fé?",
-      "Desejo, como Paulo, que todos conheçam a alegria da fé?"
+      "Uso os meios justos para me defender sem perder a paz?",
+      "Procuro agradar aos homens em vez de fazer o que é justo?",
+      "Para mim, Jesus é “um certo Jesus” ou Aquele que está vivo?"
     ],
-    "oratio_guia": "Senhor, que chamaste Paulo das trevas à luz, faz-me fiel à tua visão celeste. Não me deixes ficar no “por pouco”, mas dá-me dar inteiramente o passo da fé, e desejar que todos conheçam a tua luz. Amém.",
+    "oratio_guia": "Senhor Jesus, que estás vivo, dá-me a liberdade de Paulo: nem medo da morte, nem renúncia à justiça. E que eu anuncie a todos que tu vives. Amém.",
     "contemplatio_foco": {
-      "texto": "não fui rebelde à visão celeste",
-      "ref": "At 26,19"
+      "texto": "Apelo para César",
+      "ref": "At 25,11"
     }
   },
   "ancoras": {
@@ -44,19 +44,11 @@
         "origem": "ia"
       }
     },
-    "26:28": {
-      "cic": [],
-      "padres": [],
-      "nota": {
-        "texto": "Uma das três ocorrências de “cristão” no NT (com At 11,26 e 1Pd 4,16).",
-        "origem": "ia"
-      }
-    },
     "25:13": {
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "Agripa II, bisneto de Herodes, o Grande, e sua irmã Berenice.",
+        "texto": "Agripa II e a irmã Berenice, bisnetos de Herodes, o Grande.",
         "origem": "ia"
       }
     }

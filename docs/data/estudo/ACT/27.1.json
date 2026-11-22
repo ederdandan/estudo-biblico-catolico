@@ -3,36 +3,36 @@
   "livro": "ACT",
   "titulo": "A viagem e o naufrágio",
   "secao": "Testemunha até Roma",
-  "referencia": "At 27,1–28,16",
+  "referencia": "At 27,1-44",
   "ini": {
     "c": 27,
     "v": 1
   },
   "fim": {
-    "c": 28,
-    "v": 16
+    "c": 27,
+    "v": 44
   },
   "liturgia": {
-    "tema_central": "Coragem, porque tenho fé em Deus",
+    "tema_central": "“Tenhais coragem, porque nenhum de vós perderá a vida”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Paulo e outros presos são confiados ao centurião Júlio e embarcam para Itália. A navegação é difícil; em Bons Portos, Paulo aconselha passar ali o inverno, mas o centurião confia mais no piloto. Pouco depois, um vento violento, o Euroaquilão, arrasta o navio; durante muitos dias sem sol nem estrelas, lança-se a carga ao mar e perde-se toda a esperança. Paulo põe-se de pé no meio deles: coragem! Nenhuma vida se perderá, só o navio; esta noite apareceu-me o anjo do Deus a quem pertenço e a quem sirvo, e disse: não temas, Paulo; deves comparecer diante de César, e Deus concedeu-te todos os que navegam contigo. Por isso, coragem, porque tenho fé em Deus de que assim acontecerá. Na décima quarta noite, Paulo exorta todos a comer; toma o pão, dá graças a Deus diante de todos, parte-o e começa a comer; todos se animam e comem; eram duzentas e setenta e seis pessoas. O navio encalha e desfaz-se, mas todos chegam a terra sãos e salvos. Na ilha de Malta, os habitantes acolhem-nos com humanidade; uma víbora morde Paulo, que a sacode para o fogo sem sofrer mal; Paulo cura o pai de Públio e muitos doentes. Três meses depois chegam a Itália; os irmãos de Roma vêm ao seu encontro até ao Foro de Ápio, e Paulo, vendo-os, dá graças a Deus e cobra ânimo.",
-    "alegorico": "O navio na tempestade é imagem clássica da Igreja (a “barca de Pedro”); Paulo, prisioneiro, torna-se o verdadeiro capitão, porque tem a palavra de Deus. O gesto de tomar o pão, dar graças, parti-lo e comer evoca a Eucaristia: no meio da tempestade, o pão partido reanima a todos.",
-    "moral": "Quando todos perdem a esperança, o crente fica de pé e anima: a fé torna-se serviço aos outros. Paulo é realista (prevê perdas) e confiante (nenhuma vida se perderá). A hospitalidade dos malteses, pagãos, é exemplar. E o próprio apóstolo precisa de ânimo: a visita dos irmãos de Roma consola-o.",
-    "anagogico": "Todos chegam a terra sãos e salvos: imagem da salvação que Deus quer para todos os que navegam com a Igreja na tempestade da história."
+    "literal": "Paulo embarca para a Itália, guardado pelo centurião Júlio, que o trata com humanidade. A viagem é lenta; em Bons Portos, Paulo adverte que navegar no inverno será perigoso, mas o centurião confia no piloto. Um vento tempestuoso, o euraquilão, arrasta o navio; durante muitos dias não se veem sol nem estrelas, e perde-se toda a esperança de salvação. Paulo levanta-se no meio de todos: “Exorto-vos a que tenhais coragem, porque nenhum de vós perderá a vida, mas sòmente o navio será destruído. Porque esta noite apareceu-me o anjo daquele Deus de quem eu sou, e a quem sirvo, dizendo: Não temas, Paulo, é preciso que compareças diante de César; e eis que Deus te concedeu a vida de todos os que navegam contigo.” Na décima quarta noite, os marinheiros tentam fugir no bote, mas Paulo o impede. Antes do amanhecer, exorta todos a comer: “tomando o pão, deu graças a Deus em presença de todos; depois, tendo-o partido, começou a comer.” O navio encalha e se desfaz; os soldados querem matar os presos, mas o centurião, para salvar Paulo, impede-o. “E assim aconteceu que todos chegaram salvos a terra.”",
+    "alegorico": "O navio na tempestade é imagem clássica da Igreja no mar do mundo. Paulo, prisioneiro, torna-se de fato o capitão: por causa dele, “Deus te concedeu a vida de todos os que navegam contigo”. O gesto de tomar o pão, dar graças e parti-lo lembra a Eucaristia, alimento que sustenta na travessia. As duzentas e setenta e seis pessoas salvas anunciam a salvação que Deus oferece a muitos por meio de um justo.",
+    "moral": "Paulo dá conselhos sensatos, que não são ouvidos; mas não guarda rancor: quando tudo está perdido, anima. A esperança cristã não é otimismo, é confiança numa palavra de Deus (“tenho fé em Deus de que assim acontecerá”). E é concreta: manda comer, impede a fuga egoísta dos marinheiros. Um só justo pode ser a salvação de muitos.",
+    "anagogico": "“Todos chegaram salvos a terra”: imagem da chegada da Igreja, depois das tempestades da história, ao porto da eternidade."
   },
   "lectio_divina": {
-    "lectio_resumo": "Esta noite apareceu-me o anjo daquele Deus de quem eu sou, e a quem sirvo, dizendo: Não temas, Paulo; Deus te concedeu a vida de todos os que navegam contigo. Por isso, meus amigos, coragem, porque tenho fé em Deus de que assim acontecerá, como me foi dito. Tomando o pão, deu graças a Deus em presença de todos; depois, tendo-o partido, começou a comer. Paulo, tendo visto os irmãos, deu graças a Deus e ficou cheio de confiança.",
+    "lectio_resumo": "“Exorto-vos a que tenhais coragem.” “Daquele Deus de quem eu sou, e a quem sirvo.” “Não temas, Paulo.” “Deus te concedeu a vida de todos os que navegam contigo.” “Tomando o pão, deu graças a Deus em presença de todos.” “Todos chegaram salvos a terra.”",
     "meditatio_perguntas": [
-      "Na tempestade, sou dos que desanimam ou dos que animam?",
-      "Pertenço a Deus e sirvo-o, como Paulo diz de si?",
-      "Deixo que os irmãos me deem ânimo quando preciso?"
+      "Na tempestade, sou alguém que espalha medo ou ânimo?",
+      "Posso dizer de Deus: “de quem sou e a quem sirvo”?",
+      "Alimento-me da Eucaristia para atravessar as provas?"
     ],
-    "oratio_guia": "Deus a quem pertenço e a quem sirvo, nas tempestades da vida dá-me a fé de Paulo: coragem, porque confio em ti. Que eu saiba partir o pão e reanimar os que perderam a esperança. Amém.",
+    "oratio_guia": "Deus de quem sou e a quem sirvo, nas tempestades em que não vejo sol nem estrelas, diz-me: não temas. Faz-me animar os outros e conduz-nos todos salvos a terra. Amém.",
     "contemplatio_foco": {
-      "texto": "tenho fé em Deus de que assim acontecerá, como me foi dito",
-      "ref": "At 27,25"
+      "texto": "nenhum de vós perderá a vida, mas sòmente o navio será destruído",
+      "ref": "At 27,22"
     }
   },
   "ancoras": {
@@ -40,15 +40,7 @@
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "Euroaquilão: vento de nordeste, perigoso no Mediterrâneo no inverno.",
-        "origem": "ia"
-      }
-    },
-    "28:1": {
-      "cic": [],
-      "padres": [],
-      "nota": {
-        "texto": "Malta (Melita): a tradição local venera o lugar do naufrágio, a “Baía de São Paulo”.",
+        "texto": "Euraquilão: vento de nordeste, perigoso no Mediterrâneo no inverno.",
         "origem": "ia"
       }
     },
@@ -56,7 +48,7 @@
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "A sequência tomar, dar graças, partir, comer reproduz as palavras da instituição da Eucaristia.",
+        "texto": "O vocabulário (tomar o pão, dar graças, partir) é o da Eucaristia (Lc 22,19).",
         "origem": "ia"
       }
     }

@@ -1,35 +1,35 @@
 {
   "id": "ACT.23.1",
   "livro": "ACT",
-  "titulo": "Paulo diante do Sinédrio e de Félix",
+  "titulo": "Paulo diante do Sinédrio: coragem, darás testemunho em Roma",
   "secao": "Testemunha até Roma",
-  "referencia": "At 23,1–24,27",
+  "referencia": "At 23,1-35",
   "ini": {
     "c": 23,
     "v": 1
   },
   "fim": {
-    "c": 24,
-    "v": 27
+    "c": 23,
+    "v": 35
   },
   "liturgia": {
-    "tema_central": "Coragem! Importa que dês testemunho também em Roma",
+    "tema_central": "“Coragem! Importa que também o dês em Roma”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Diante do Sinédrio, Paulo afirma ter vivido com consciência reta diante de Deus; o sumo sacerdote Ananias manda bater-lhe na boca. Percebendo que uns eram saduceus e outros fariseus, Paulo clama: sou fariseu; é por causa da esperança na ressurreição dos mortos que sou julgado. Gera-se divisão, pois os saduceus negam a ressurreição e os anjos; o tumulto é tal que o tribuno o retira. Na noite seguinte, o Senhor aparece-lhe: coragem! assim como deste testemunho de mim em Jerusalém, importa que o dês também em Roma. Mais de quarenta judeus juram não comer nem beber até matar Paulo; o filho da irmã de Paulo descobre a conspiração, e o tribuno envia-o de noite, com forte escolta, ao governador Félix em Cesareia. Cinco dias depois, o sumo sacerdote e o orador Tértulo acusam-no de ser uma peste e chefe da seita dos nazarenos. Paulo defende-se: sirvo o Deus de nossos pais segundo o Caminho, crendo em tudo o que está na Lei e nos Profetas, com a esperança da ressurreição dos justos e dos injustos; por isso procuro ter sempre a consciência irrepreensível diante de Deus e dos homens. Félix adia a causa. Mais tarde, quando Paulo lhe fala de justiça, de domínio de si e do juízo futuro, Félix assusta-se: por agora vai-te; quando tiver ocasião, chamar-te-ei. Esperando dinheiro, mantém-no preso dois anos.",
-    "alegorico": "O processo de Paulo, como o de Jesus, passa pelo Sinédrio e pelo governador romano; o centro da acusação é a esperança da ressurreição. A promessa “importa que dês testemunho em Roma” orienta toda a narrativa: Roma, centro do mundo, é a meta do Evangelho.",
-    "moral": "Félix é a figura do adiamento: a palavra sobre a justiça e o juízo inquieta-o, mas ele deixa a conversão “para outra ocasião”, que nunca chega. A consciência reta diante de Deus e dos homens é o programa de Paulo. E no meio das conspirações, Deus age por meios simples: um sobrinho atento.",
-    "anagogico": "A esperança da ressurreição dos justos e dos injustos é o coração da fé de Paulo e a razão do seu processo: a história caminha para o juízo e a vida."
+    "literal": "Diante do Sinédrio, Paulo diz: “Irmãos, até hoje tenho-me portado diante de Deus com toda a boa consciência.” O sumo sacerdote Ananias manda batê-lo na boca. “Deus te baterá a ti, parede branqueada.” Ao saber que é o sumo sacerdote, Paulo reconhece: “Está escrito: Não dirás mal do príncipe do teu povo.” Depois, sabendo que o Sinédrio está dividido, exclama: “Eu sou fariseu, filho de fariseus, e sou julgado por causa da esperança na ressurreição dos mortos.” Fariseus e saduceus brigam, e o tribuno tira Paulo dali. “Na noite seguinte, aparecendo-lhe o Senhor, disse-lhe: Coragem! Assim como deste testemunho de mim em Jerusalém, assim importa que também o dês em Roma.” Mais de quarenta judeus juram não comer nem beber até matarem Paulo; mas o filho da irmã de Paulo descobre a cilada e avisa o tribuno. Cláudio Lísias envia Paulo de noite a Cesareia, com quatrocentos e setenta soldados, e uma carta ao governador Félix: “sem haver delito algum digno de morte ou prisão”.",
+    "alegorico": "A visita do Senhor de noite, na prisão, mostra que Cristo acompanha pessoalmente as suas testemunhas: “Eu estou convosco todos os dias” (Mt 28,20). O caminho de Jerusalém a Roma é o do próprio Evangelho, do centro de Israel até ao coração do mundo pagão (At 1,8). A conspiração vencida por um rapaz anônimo mostra Deus servindo-se dos pequenos.",
+    "moral": "Paulo reage com força à injustiça, mas reconhece logo o erro e respeita a autoridade: a franqueza não dispensa a humildade. No centro do processo está “a esperança na ressurreição”, núcleo da fé. E quando tudo parece fechado, o Senhor diz “Coragem!”. Os planos de morte, por mais jurados que sejam, não prevalecem contra o plano de Deus.",
+    "anagogico": "“Sou julgado por causa da esperança na ressurreição dos mortos”: a esperança que sustenta a Igreja até ao dia em que os mortos ressuscitarem."
   },
   "lectio_divina": {
-    "lectio_resumo": "É por causa da esperança da ressurreição dos mortos que sou julgado. Na noite seguinte, aparecendo-lhe o Senhor, disse-lhe: Coragem! Assim como deste testemunho de mim em Jerusalém, assim importa que também o dês em Roma. Procuro ter sempre a minha consciência sem mancha diante de Deus e dos homens. Dissertando ele sobre a justiça, castidade e o juízo futuro, Félix, atemorizado, disse: Por agora, retira-te.",
+    "lectio_resumo": "“Tenho-me portado diante de Deus com toda a boa consciência.” “Não dirás mal do príncipe do teu povo.” “Sou julgado por causa da esperança na ressurreição dos mortos.” “Coragem! Assim como deste testemunho de mim em Jerusalém, assim importa que também o dês em Roma.” “Sem haver delito algum digno de morte ou prisão.”",
     "meditatio_perguntas": [
-      "Adio, como Félix, alguma conversão que Deus me pede?",
-      "Procuro ter a consciência reta diante de Deus e dos homens?",
-      "Ouço o “coragem!” de Cristo nas minhas noites difíceis?"
+      "Sei reconhecer o meu erro mesmo quando tenho razão no fundo?",
+      "A esperança na ressurreição está no centro da minha fé?",
+      "Ouço o “Coragem!” do Senhor nas minhas noites?"
     ],
-    "oratio_guia": "Senhor Jesus, que disseste a Paulo “coragem!”, fala também a mim nas minhas noites. Não me deixes adiar a conversão para outra ocasião, e dá-me uma consciência reta diante de ti e dos homens. Amém.",
+    "oratio_guia": "Senhor Jesus, que visitaste Paulo de noite na prisão, diz-me também: Coragem! Dá-me uma boa consciência, humildade para reconhecer os meus erros e a esperança na ressurreição. Amém.",
     "contemplatio_foco": {
       "texto": "Coragem! Assim como deste testemunho de mim em Jerusalém, assim importa que também o dês em Roma",
       "ref": "At 23,11"
@@ -44,11 +44,11 @@
         "origem": "ia"
       }
     },
-    "24:27": {
+    "23:3": {
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "Félix foi governador da Judeia c. 52–59; o historiador Tácito descreve-o como cruel e venal.",
+        "texto": "“Parede branqueada”: cf. Mt 23,27; Ez 13,10-15.",
         "origem": "ia"
       }
     }
