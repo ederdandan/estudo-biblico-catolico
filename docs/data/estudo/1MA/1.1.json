@@ -1,0 +1,57 @@
+{
+  "id": "1MA.1.1",
+  "livro": "1MA",
+  "titulo": "De Alexandre a Antíoco Epífanes: os judeus helenizantes",
+  "secao": "A perseguição e a revolta",
+  "referencia": "1Mc 1,1-16",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "Façamos aliança com as nações: a raiz do pecado e os helenizantes",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Alexandre, filho de Filipe da Macedônia, sai da terra de Cetim, vence Dario, rei dos persas e medos, e reina em seu lugar sobre a Grécia. Faz muitas guerras, toma fortalezas, mata reis, chega aos confins da terra e toma os despojos de muitas nações; “e toda a terra emudeceu diante dele”. O seu coração se exalta e se enche de soberba. Depois adoece, percebe que vai morrer e reparte o reino entre os companheiros de juventude. Reina doze anos e morre. Os seus generais e os filhos destes reinam por muitos anos, e multiplicam-se os males na terra. Deles sai “aquela raiz do pecado, Antíoco Epífanes”, que estivera como refém em Roma, e começa a reinar no ano cento e trinta e sete dos gregos. Naqueles dias saem de Israel homens iníquos que seduzem muitos: “Vamos e façamos aliança com as nações que estão em redor de nós, porque, desde que nos separamos delas, vieram sobre nós muitos males.” A proposta agrada. Alguns vão ao rei, que lhes dá licença de viver segundo os costumes das nações; constroem em Jerusalém um ginásio à maneira dos gentios, disfarçam os sinais da circuncisão, separam-se da santa aliança, unem-se às nações “e venderam-se para fazer o mal”.",
+    "alegorico": "O império de Alexandre, que toda a terra teme e que passa em doze anos, é o retrato dos impérios do mundo, que Daniel viu como bestas que se sucedem (Dn 7-8). Antíoco, “raiz do pecado”, foi lido pelos Padres como figura do Anticristo, que quer unificar tudo apagando a lei de Deus (2Ts 2,3-4). Os helenizantes são figura dos cristãos que, para não parecerem diferentes, abandonam a identidade da fé.",
+    "moral": "A crise começa por dentro, não por fora: antes da perseguição, há a sedução. “Façamos aliança com as nações; desde que nos separamos delas, só tivemos males”: é o argumento da assimilação, que vê a fidelidade como causa de atraso. Os helenizantes chegam a esconder a circuncisão: têm vergonha do sinal da aliança. A tentação de se envergonhar da fé para ser aceito pelo mundo é de todos os tempos.",
+    "anagogico": "Os impérios passam e “voltam ao pó”; só o Reino de Deus permanece. Quem se vende ao espírito do tempo perde a herança eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Toda a terra emudeceu diante dele.” “O seu coração elevou-se e ficou todo inchado.” “Reinou Alexandre doze anos e morreu.” “Aquela raiz do pecado, Antíoco Epífanes.” “Vamos e façamos aliança com as nações.” “Dissimularam os sinais da circuncisão, separaram-se da santa aliança.”",
+    "meditatio_perguntas": [
+      "Tenho vergonha dos sinais da minha fé diante do mundo?",
+      "Acredito que a fidelidade a Deus é causa de “atraso”?",
+      "Que alianças com o espírito do tempo enfraquecem a minha pertença à aliança?"
+    ],
+    "oratio_guia": "Senhor, livra-me da vergonha da fé e da sedução de ser como todos. Que eu não me separe da tua santa aliança para agradar ao mundo, e permaneça fiel quando os impérios passarem. Amém.",
+    "contemplatio_foco": {
+      "texto": "Dissimularam os sinais da circuncisão, separaram-se da santa aliança, juntaram-se com as nações",
+      "ref": "1Mc 1,16"
+    }
+  },
+  "ancoras": {
+    "1:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Antíoco IV Epífanes (“deus manifesto”) reinou de 175 a 164 a.C.; o “ano 137 dos gregos” conta a partir da era selêucida (312 a.C.).",
+        "origem": "ia"
+      }
+    },
+    "1:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O ginásio, onde se praticava o esporte nu, era o centro da cultura grega; 2Mc 4,9-15 narra a sua construção pelo sumo sacerdote Jasão.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "1MA.13.1",
+  "livro": "1MA",
+  "titulo": "Simão sucede a Jônatas; o sepulcro de Modin",
+  "secao": "Simão",
+  "referencia": "1Mc 13,1-30",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "Não sou melhor que meus irmãos: Simão sucede a Jônatas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Simão ouve que Trifão reuniu um grande exército para invadir a Judeia. Vê o povo amedrontado, sobe a Jerusalém e o reúne. Diz: “Sabeis quanto temos pelejado, eu e meus irmãos e a casa de meu pai, pelas nossas leis e pelo santuário… por esta causa morreram todos os meus irmãos, e fiquei eu só. Mas não permita Deus que eu queira poupar a minha vida, enquanto durarem as nossas tribulações, porque não sou melhor que meus irmãos.” Vingarei a nação, o santuário, as mulheres e os filhos. O espírito do povo se inflama, e todos clamam: “Tu és o nosso chefe em lugar de Judas e de Jônatas, teu irmão; dirige as nossas batalhas, e nós faremos tudo o que nos disseres.” Simão termina os muros de Jerusalém e envia Jônatas, filho de Absalão, a Jope. Trifão avança levando Jônatas prisioneiro. Envia mensageiros: retemos o teu irmão por causa de uma dívida ao tesouro real; manda cem talentos de prata e dois dos seus filhos como reféns, e o soltaremos. Simão percebe o engano, mas envia o dinheiro e os meninos, para que o povo não diga: por não ter pago, Jônatas morreu. Trifão falta à palavra e não solta Jônatas. Tenta chegar a Jerusalém pelo deserto, mas uma grande neve o impede. Perto de Bascama, mata Jônatas e o sepulta; depois volta à sua terra. Simão recolhe os ossos do irmão e os sepulta em Modin. Todo Israel o chora muitos dias. Simão levanta sobre o túmulo do pai e dos irmãos um alto monumento de pedras polidas, com sete pirâmides para o pai, a mãe e os quatro irmãos, colunas, armas e navios esculpidos que se veem do mar. “Tal é o sepulcro, que levantou em Modin, o qual ainda hoje existe.”",
+    "alegorico": "Simão, o último dos irmãos, que diz “não sou melhor que meus irmãos”, é imagem do discípulo que não se poupa onde os outros deram a vida. A sua disposição a pagar o resgate mesmo sabendo do engano mostra uma caridade que não quer deixar dúvida sobre o amor ao irmão. O monumento visível de longe, no mar, é figura da memória dos mártires, que a Igreja honra levantando altares sobre os seus túmulos.",
+    "moral": "Simão não é chamado por ambição, mas pela necessidade do povo amedrontado. A sua frase é um modelo de humildade e de coragem: os meus irmãos deram a vida; por que eu deveria guardar a minha? A liderança cristã é serviço, não privilégio. E ao pagar o resgate, mesmo desconfiando, mostra que o amor pelo irmão vale o risco de ser enganado.",
+    "anagogico": "O túmulo dos Macabeus em Modin, que “ainda hoje existe”, é sinal de que a memória dos justos permanece. A Igreja crê que eles vivem em Deus e espera a ressurreição de todos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Por esta causa morreram todos os meus irmãos… e fiquei eu só.” “Não permita Deus agora que queira eu poupar a minha vida.” “Não sou melhor que meus irmãos.” “Tu és o nosso chefe em lugar de Judas e de Jónatas.” “Trifão faltou à palavra.” “Tal é o sepulcro… o qual ainda hoje existe.”",
+    "meditatio_perguntas": [
+      "Considero-me “melhor” que os outros, a ponto de poupar-me onde eles se entregaram?",
+      "Estou disposto a arriscar ser enganado por amor de um irmão?",
+      "Como honro a memória dos que me precederam na fé?"
+    ],
+    "oratio_guia": "Senhor, dá-me o coração de Simão, que não quis poupar a sua vida enquanto o teu povo sofria. Que eu não me julgue melhor que os meus irmãos e honre a memória dos que deram a vida por ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "não permita Deus agora que queira eu poupar a minha vida, enquanto durarem as nossas tribulações, porque não sou melhor que meus irmãos",
+      "ref": "1Mc 13,5"
+    }
+  },
+  "ancoras": {
+    "13:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Bascama, a leste do lago de Genesaré; Jônatas morreu em 143/142 a.C. Dos cinco irmãos, Eleazar e Judas morreram em batalha, João e Jônatas foram assassinados.",
+        "origem": "ia"
+      }
+    },
+    "13:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O mausoléu de Modin, descrito também por Josefo (Ant. XIII,6,6), ainda era conhecido no tempo de Eusébio (séc. IV).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

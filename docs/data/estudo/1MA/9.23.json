@@ -1,0 +1,57 @@
+{
+  "id": "1MA.9.23",
+  "livro": "1MA",
+  "titulo": "Jônatas, chefe do povo",
+  "secao": "Jônatas",
+  "referencia": "1Mc 9,23-73",
+  "ini": {
+    "c": 9,
+    "v": 23
+  },
+  "fim": {
+    "c": 9,
+    "v": 73
+  },
+  "liturgia": {
+    "tema_central": "Assim repousou a espada em Israel: Jônatas, chefe do povo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Depois da morte de Judas, os iníquos levantam a cabeça em todo Israel; sobrevém uma grande fome, e o país passa para o lado deles. Báquides põe homens ímpios no governo, que procuram os amigos de Judas e os entregam para serem escarnecidos. “Levantou-se uma tão grande tribulação em Israel, que não se tinha visto outra assim desde o tempo do desaparecimento dos profetas.” Os amigos de Judas dizem a Jônatas: desde que o teu irmão morreu, não há quem o substitua; “escolhemos-te hoje para seres nosso príncipe e chefe”. Jônatas assume o comando. Báquides procura matá-lo; Jônatas e Simão fogem para o deserto de Técua. Enviam João, irmão deles, para deixar a bagagem com os nabateus, mas os filhos de Jambri, de Madaba, o capturam e matam. Mais tarde, quando estes celebram um casamento solene, os irmãos os emboscam: “as bodas converteram-se em luto”. Báquides os ataca num sábado junto ao Jordão. Jônatas diz: temos o inimigo à frente e o rio atrás; “clamai ao céu, para que sejais livres da mão dos vossos inimigos”. Combatem, e ao fim atravessam o Jordão a nado. Báquides fortifica as cidades da Judeia e toma como reféns os filhos dos principais. Alcimo manda derrubar o muro do átrio interior do templo, “destruindo as obras dos profetas”; mas é ferido de paralisia, a boca se fecha, e morre em grandes dores. Depois de dois anos de paz, os iníquos chamam de novo Báquides, que cerca Betbasi; Jônatas e Simão o derrotam, e Báquides, desgostoso, mata os que o aconselharam. Jônatas propõe a paz e a troca dos prisioneiros; Báquides jura não lhe fazer mal e vai embora para sempre. “Assim repousou a espada em Israel.” Jônatas se estabelece em Macmas, começa a julgar o povo e extermina os ímpios de Israel.",
+    "alegorico": "A morte de Judas não encerra a obra de Deus: o seu irmão assume o lugar, como os apóstolos continuam a obra de Cristo. A grande tribulação “desde que desapareceram os profetas” mostra um povo que espera uma palavra profética; a resposta virá com João Batista e com Cristo. Alcimo, que destrói “as obras dos profetas” e é ferido na boca, é figura de quem ataca a Palavra e é por ela julgado.",
+    "moral": "Depois da morte de um grande líder vem a crise: fome, perseguição, desânimo. Mas o povo não desiste: escolhe um novo chefe. Jônatas é mais político que guerreiro; combate quando precisa, negocia quando pode, e obtém a paz. A vingança dos filhos de Jambri, que transforma uma festa em luto, mostra o lado sombrio da violência dessa época, que o texto registra sem embelezar.",
+    "anagogico": "“Assim repousou a espada em Israel”: o repouso depois da longa luta é figura do descanso eterno prometido ao povo de Deus (Hb 4,9)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Levantaram a cabeça todos os obreiros da iniquidade.” “Uma tão grande tribulação em Israel… desde o tempo do desaparecimento dos profetas.” “Escolhemos-te hoje para seres nosso príncipe e chefe.” “Clamai ao céu, para que sejais livres.” “As bodas converteram-se em luto.” “Assim repousou a espada em Israel.”",
+    "meditatio_perguntas": [
+      "Depois de uma perda grande, desanimo ou continuo a obra?",
+      "Sei combater quando é preciso e buscar a paz quando é possível?",
+      "Respeito as “obras dos profetas”, a Palavra que recebi?"
+    ],
+    "oratio_guia": "Senhor, quando a tribulação cresce e parece que ninguém fala em teu nome, levanta pastores para o teu povo. Livra-nos da mão dos inimigos e dá repouso à tua Igreja. Amém.",
+    "contemplatio_foco": {
+      "texto": "Assim repousou a espada em Israel",
+      "ref": "1Mc 9,73"
+    }
+  },
+  "ancoras": {
+    "9:27": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Testemunho da consciência de que a profecia tinha cessado em Israel (cf. 4,46; 14,41; Sl 74(73),9).",
+        "origem": "ia"
+      }
+    },
+    "9:54": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O muro do átrio interior separava os judeus dos gentios; derrubá-lo era abrir o santuário aos pagãos. O ano 153 corresponde a 159 a.C.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

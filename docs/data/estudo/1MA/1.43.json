@@ -1,0 +1,57 @@
+{
+  "id": "1MA.1.43",
+  "livro": "1MA",
+  "titulo": "O decreto de Antíoco e os que preferiram morrer",
+  "secao": "A perseguição e a revolta",
+  "referencia": "1Mc 1,43-67",
+  "ini": {
+    "c": 1,
+    "v": 43
+  },
+  "fim": {
+    "c": 1,
+    "v": 67
+  },
+  "liturgia": {
+    "tema_central": "Preferiram morrer a manchar-se: o decreto de Antíoco",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O rei Antíoco escreve a todo o seu reino que todos sejam um só povo e cada um abandone as suas leis. As nações aceitam, e muitos em Israel adotam o seu culto, sacrificam aos ídolos e profanam o sábado. O rei envia cartas a Jerusalém e às cidades de Judá: sigam os costumes estrangeiros, cessem os holocaustos, os sacrifícios e as libações no templo, profanem os sábados e as festas, contaminem o santuário e os santos, levantem altares, templos e ídolos, sacrifiquem porcos e animais impuros, deixem os filhos incircuncisos, “de sorte que se esquecessem da lei de Deus”; e quem não obedecer morrerá. Nomeia inspetores sobre todo o povo. Muitos abandonam a lei e se unem aos ímpios; os fiéis fogem para esconderijos. No dia quinze de Casleu do ano cento e quarenta e cinco, constroem “a abominação da desolação” sobre o altar; levantam altares por todas as cidades e queimam incenso às portas das casas e nas praças. Rasgam e queimam os livros da lei que encontram; quem guarda o livro da aliança ou observa a lei é morto. As mulheres que circuncidam os filhos são mortas com as crianças penduradas ao pescoço. “Entretanto muitos do povo de Israel resolveram não comer nada impuro e preferiram morrer a manchar-se com alimentos impuros; não quiseram violar a santa lei do Senhor, e foram trucidados.” E uma grande ira cai sobre Israel.",
+    "alegorico": "A “abominação da desolação” sobre o altar, anunciada por Daniel (Dn 9,27; 11,31), é retomada por Jesus como sinal dos últimos tempos (Mt 24,15). A queima dos livros e a morte de quem os guarda prefiguram as perseguições contra as Escrituras na era dos mártires (Diocleciano). Os que preferem morrer a profanar-se são os primeiros mártires da fé, que a Igreja venera (os santos Macabeus).",
+    "moral": "O decreto quer apagar toda diferença: “um só povo”, uma só lei, a do rei. É o totalitarismo que pretende entrar até nas cozinhas e nos corpos. A resistência dos fiéis não é política, mas religiosa: não comer o impuro, guardar o livro, circuncidar os filhos. O martírio nasce da fidelidade nas pequenas coisas. Mas também muitos cedem: o texto não esconde a apostasia em massa.",
+    "anagogico": "“Preferiram morrer”: a fidelidade até a morte é a semente da esperança na ressurreição, que 2 Macabeus explicitará. Os que perdem a vida pela lei de Deus a ganharão."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Que todos os povos não fossem mais que um.” “Que se esquecessem da lei de Deus.” “Edificaram a abominação da desolação sobre o altar de Deus.” “Rasgavam e queimavam todos os livros da lei de Deus.” “Preferiram morrer a manchar-se.” “Não quiseram violar a santa lei do Senhor.”",
+    "meditatio_perguntas": [
+      "Em que pequenas coisas está em jogo a minha fidelidade a Deus?",
+      "Cedo ao “todos fazem assim”?",
+      "Estaria disposto a sofrer por guardar a Palavra de Deus?"
+    ],
+    "oratio_guia": "Senhor, quando o mundo quiser que eu esqueça a tua lei, dá-me a força dos que preferiram morrer a manchar-se. Que eu guarde a tua Palavra e os teus sinais, nas pequenas e nas grandes coisas. Amém.",
+    "contemplatio_foco": {
+      "texto": "muitos do povo de Israel resolveram não comer nada impuro e preferiram morrer a manchar-se com alimentos (impuros)",
+      "ref": "1Mc 1,65"
+    }
+  },
+  "ancoras": {
+    "1:57": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Dezembro de 167 a.C.; a “abominação” era um altar (talvez com estátua) a Zeus Olímpico sobre o altar dos holocaustos (2Mc 6,2).",
+        "origem": "ia"
+      }
+    },
+    "1:63": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os mártires deste período são lembrados em 2Mc 6-7; a Igreja celebra os sete irmãos Macabeus em 1º de agosto.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

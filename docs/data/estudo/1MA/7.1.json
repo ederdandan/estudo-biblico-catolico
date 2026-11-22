@@ -1,0 +1,57 @@
+{
+  "id": "1MA.7.1",
+  "livro": "1MA",
+  "titulo": "Alcimo, Nicanor e o dia de Nicanor",
+  "secao": "Judas Macabeu",
+  "referencia": "1Mc 7,1-50",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 50
+  },
+  "liturgia": {
+    "tema_central": "Casa de oração e de súplica: Alcimo, Nicanor e o dia de Nicanor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No ano cento e cinquenta e um, Demétrio, filho de Seleuco, foge de Roma, desembarca numa cidade da costa e começa a reinar; o exército mata Antíoco Eupátor e Lísias. Vêm a ele os iníquos de Israel, chefiados por Alcimo, que quer ser sumo sacerdote, e acusam Judas. O rei envia Báquides com Alcimo, a quem confia o sumo sacerdócio. Fingem palavras de paz; os escribas e os assideus, pensando que um sacerdote da linhagem de Aarão não lhes faria mal, vão pedir a paz. Alcimo jura que não lhes fará mal; mas prende sessenta deles e os mata num só dia, segundo a palavra do salmo: “Entregaram a carne dos teus santos… derramaram o seu sangue ao redor de Jerusalém, sem haver quem os sepultasse.” O povo diz: “Não há entre eles verdade nem justiça, porque violaram a palavra dada.” Alcimo, não conseguindo vencer Judas, acusa-o junto ao rei, que envia Nicanor, inimigo declarado de Israel. Nicanor tenta prender Judas com engano, depois é vencido em Cafarsalama. Sobe ao monte Sião; os sacerdotes saem a mostrar-lhe os holocaustos oferecidos pelo rei; ele zomba, cospe sobre eles e jura: se Judas não me for entregue, queimarei este templo. Os sacerdotes entram e choram diante do altar: “Tu, Senhor, escolheste esta casa a fim de que nela fosse invocado o teu nome, como casa de oração e de súplica para o teu povo”; vinga-te deste homem. Judas acampa em Adasa com três mil homens e reza: quando os enviados de Senaquerib blasfemaram, o teu anjo matou cento e oitenta e cinco mil; esmaga hoje este exército. No dia treze de Adar, Nicanor é o primeiro a cair; o seu exército foge; os judeus de todas as aldeias os perseguem. Cortam a cabeça de Nicanor e a mão direita que ele estendera contra o templo e as expõem diante de Jerusalém. O povo se alegra, e decreta-se que o treze de Adar seja celebrado todos os anos. E a terra de Judá descansa alguns dias.",
+    "alegorico": "A oração dos sacerdotes, “casa de oração”, é retomada por Jesus ao purificar o templo: “a minha casa será chamada casa de oração” (Mc 11,17, citando Is 56,7). O mal agora vem de dentro: Alcimo, sacerdote legítimo pela linhagem, é traidor. Os Padres viam nele a figura dos maus pastores que, por ambição, entregam o rebanho aos lobos. A morte de Nicanor no dia treze de Adar, véspera de Purim, une esta vitória à de Ester.",
+    "moral": "Os assideus confiam em Alcimo por ser da linhagem de Aarão: o título não garante a fidelidade. A ambição religiosa é das piores, porque usa o sagrado contra o povo de Deus. Diante da blasfêmia de Nicanor, a reação é dupla: a oração dos sacerdotes no templo e a oração de Judas antes da batalha. Ambos recordam o que Deus fez no passado (Senaquerib) e confiam que fará de novo.",
+    "anagogico": "A casa de oração não será destruída; a Igreja, casa de Deus, permanece diante de todos os Nicanores. A festa celebrada cada ano é sinal da vitória definitiva de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Aspirava a ser sumo pontífice.” “Entregaram a carne dos teus santos.” “Não há entre eles verdade nem justiça.” “Tu, Senhor, escolheste esta casa… como casa de oração e de súplica para o teu povo.” “Extermina hoje da mesma sorte este exército.” “Este mesmo dia seria celebrado todos os anos.”",
+    "meditatio_perguntas": [
+      "Confio em alguém só pelo título, sem olhar os frutos?",
+      "Trato a casa de Deus como casa de oração?",
+      "Diante da blasfêmia, a minha primeira reação é a oração?"
+    ],
+    "oratio_guia": "Senhor, que escolheste a tua casa como casa de oração, guarda a tua Igreja dos maus pastores e dos que blasfemam contra o teu santuário. Ensina-me a rezar diante de toda ameaça, lembrando as tuas vitórias. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tu, Senhor, escolheste esta casa a fim de que nela fosse invocado o teu nome, como casa de oração e de súplica para o teu povo",
+      "ref": "1Mc 7,37"
+    }
+  },
+  "ancoras": {
+    "7:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação livre de Sl 79(78),2-3.",
+        "origem": "ia"
+      }
+    },
+    "7:49": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “dia de Nicanor” (13 de Adar, 161 a.C.) foi celebrado pelos judeus até a época rabínica; caiu depois em desuso, absorvido pelo jejum de Ester.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

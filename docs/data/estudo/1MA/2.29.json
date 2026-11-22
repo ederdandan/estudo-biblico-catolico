@@ -1,0 +1,57 @@
+{
+  "id": "1MA.2.29",
+  "livro": "1MA",
+  "titulo": "Os mártires do sábado e o levante dos fiéis",
+  "secao": "A perseguição e a revolta",
+  "referencia": "1Mc 2,29-48",
+  "ini": {
+    "c": 2,
+    "v": 29
+  },
+  "fim": {
+    "c": 2,
+    "v": 48
+  },
+  "liturgia": {
+    "tema_central": "O céu e a terra serão testemunhas: os mártires do sábado",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Muitos que buscam a justiça e o direito descem ao deserto com os filhos, as mulheres e o gado, porque os males os oprimem. Os oficiais do rei em Jerusalém sabem que homens que desobedeceram ao rei se esconderam no deserto, e muitos vão persegui-los; acampam diante deles e preparam o ataque para o dia de sábado. Dizem-lhes: basta! saí, obedecei ao rei e vivereis. Eles respondem: “Não sairemos, nem obedeceremos à ordem do rei, pois seria profanar o dia de sábado.” Os soldados os atacam; eles não respondem, não atiram uma pedra, não fecham os esconderijos. Dizem: “Morramos todos na nossa simplicidade, e o céu e a terra serão testemunhas de que nos fazeis morrer injustamente.” São mortos no sábado, eles, as mulheres, os filhos e o gado: cerca de mil pessoas. Matatias e os seus amigos choram amargamente. Mas dizem: se todos fizermos como os nossos irmãos e não combatermos pelas nossas vidas e pelas nossas leis, logo nos exterminarão da terra. Decidem: quem nos atacar em dia de sábado, combateremos contra ele, para não morrermos todos. Une-se a eles o grupo dos assideus, homens valentes de Israel, todos dedicados à lei, e todos os que fogem dos males. Formam um exército, ferem os pecadores e os ímpios, derrubam os altares, circuncidam os meninos, perseguem os filhos da soberba, e defendem a lei contra o poder das nações e dos reis.",
+    "alegorico": "Os mil que morrem sem resistir, “na sua simplicidade”, tomando o céu e a terra por testemunhas, são figura dos mártires cristãos que, como Cristo, “não abriram a boca” (Is 53,7). A decisão de Matatias de combater no sábado mostra que a lei é para a vida; Jesus dirá: “o sábado foi feito para o homem” (Mc 2,27) e “é lícito no sábado salvar uma vida” (Lc 6,9).",
+    "moral": "O texto apresenta dois caminhos de fidelidade: o dos mártires, que preferem morrer a profanar o sábado, e o de Matatias, que entende que a lei não exige o suicídio de todo o povo. Ambos são honrados. A fidelidade precisa de discernimento: distinguir o essencial da lei da sua aplicação literal, para que o próprio povo de Deus sobreviva. A inocência dos mártires, porém, é o grande testemunho.",
+    "anagogico": "“O céu e a terra serão testemunhas”: a morte dos justos não fica sem testemunha. No juízo, Deus fará justiça aos que morreram inocentes."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Muitos que procuravam viver conforme a lei e a justiça, foram para o deserto.” “Não sairemos, nem obedeceremos à ordem do rei.” “Morramos todos na nossa simplicidade.” “O céu e a terra serão testemunhas de que nos fazeis morrer injustamente.” “Choraram por eles amargamente.” “Pelejaremos contra ele.”",
+    "meditatio_perguntas": [
+      "Uno fidelidade e discernimento, ou fico na letra sem o espírito?",
+      "Honro os que deram a vida pela fé?",
+      "Defendo com coragem a vida e a fé do povo de Deus?"
+    ],
+    "oratio_guia": "Senhor, que vês a morte dos inocentes e és a sua testemunha, recebe os mártires de todos os tempos. Dá-me a simplicidade deles e o discernimento de Matatias, para servir-te na verdade da tua lei. Amém.",
+    "contemplatio_foco": {
+      "texto": "Morramos todos, disseram, na nossa simplicidade (ou, inocência), e o céu e a terra serão testemunhas de que nos fazeis morrer injustamente",
+      "ref": "1Mc 2,37"
+    }
+  },
+  "ancoras": {
+    "2:42": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os assideus (hassidim, “piedosos”) eram um movimento de fiéis rigorosos à lei, dos quais provavelmente descendem os fariseus e os essênios.",
+        "origem": "ia"
+      }
+    },
+    "2:41": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A decisão de combater no sábado para defender a vida foi assumida depois pela tradição judaica (pikuach nefesh).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

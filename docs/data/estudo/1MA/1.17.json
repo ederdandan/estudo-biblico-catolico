@@ -1,0 +1,57 @@
+{
+  "id": "1MA.1.17",
+  "livro": "1MA",
+  "titulo": "Antíoco saqueia o Templo e devasta Jerusalém",
+  "secao": "A perseguição e a revolta",
+  "referencia": "1Mc 1,17-42",
+  "ini": {
+    "c": 1,
+    "v": 17
+  },
+  "fim": {
+    "c": 1,
+    "v": 42
+  },
+  "liturgia": {
+    "tema_central": "A sua glória transformou-se em luto: Antíoco saqueia o Templo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Consolidado o reino, Antíoco quer dominar também o Egito; entra com um grande exército, carros, elefantes e cavalaria, vence Ptolomeu e saqueia o país. No ano cento e quarenta e três, volta e sobe contra Israel. Entra com soberba no santuário e leva o altar de ouro, o candelabro e todos os seus utensílios, a mesa da proposição, as taças, os vasos, os incensórios de ouro, o véu, as coroas e o ornamento de ouro da fachada; leva a prata, o ouro, os objetos preciosos e os tesouros escondidos; faz grande matança e fala com arrogância. “Então houve um grande pranto em Israel.” Os chefes e os anciãos gemem, as virgens e os jovens perdem as forças, a beleza das mulheres se desfaz; o noivo chora, e a noiva senta-se em lágrimas no leito nupcial. Dois anos depois, o rei envia um coletor de impostos com grande exército, que fala palavras de paz com astúcia e, de repente, cai sobre a cidade, mata muitos, saqueia, incendeia, derruba as casas e os muros, leva cativas as mulheres e as crianças. Fortificam a cidade de Davi e fazem dela a Acra, uma cidadela cheia de homens ímpios, que é armadilha para o santuário. Derramam sangue inocente em volta do santuário e o profanam. Os habitantes fogem; Jerusalém se torna morada de estrangeiros. “O seu santuário ficou desolado como um ermo; os seus dias de festa transformaram-se em pranto, os seus sábados em opróbrio, a sua glória em desprezo.”",
+    "alegorico": "O lamento sobre Jerusalém, com as festas transformadas em luto, retoma as Lamentações e prepara o lamento de Jesus sobre a cidade (Lc 19,41-44). O santuário profanado por quem entra “com soberba” é figura da alma profanada pelo pecado, e da Igreja quando o mundo invade o seu lugar santo.",
+    "moral": "A violência de Antíoco é sacrílega: ataca o que há de mais santo. O texto não descreve só fatos, mas a dor: o pranto do povo, das noivas e dos noivos, das festas perdidas. E mostra a astúcia do mal, que se apresenta “com palavras de paz” para depois destruir. A cidadela ímpia no coração de Jerusalém é a imagem do mal instalado dentro de nós, que ameaça continuamente o santuário.",
+    "anagogico": "“A sua glória transformou-se em luto”: mas Deus transformará de novo o luto em festa (Jr 31,13). A desolação não é a última palavra."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Entrou cheio de soberba no santuário.” “Então houve um grande pranto em Israel.” “A desposada, assentada sobre o seu leito nupcial, derramava lágrimas.” “Dirigiu-lhes astuciosamente palavras de paz.” “Derramaram o sangue inocente ao redor do santuário.” “Os seus dias de festa transformaram-se em pranto.”",
+    "meditatio_perguntas": [
+      "Que “cidadela” do mal está instalada perto do santuário do meu coração?",
+      "Deixo-me enganar por “palavras de paz” astutas?",
+      "Choro pelas profanações do que é santo em meu tempo?"
+    ],
+    "oratio_guia": "Senhor, guarda o santuário do meu coração da soberba que profana. Derruba as cidadelas do mal que se instalaram em mim, e transforma o meu luto em festa. Amém.",
+    "contemplatio_foco": {
+      "texto": "O seu santuário ficou desolado como um ermo; os seus dias de festa transformaram-se em pranto, os seus sábados em opróbrio, a sua glória em desprezo",
+      "ref": "1Mc 1,41"
+    }
+  },
+  "ancoras": {
+    "1:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O ano 143 da era selêucida corresponde a 169 a.C.; a segunda expedição (v. 30) é de 167 a.C.",
+        "origem": "ia"
+      }
+    },
+    "1:35": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Acra, fortaleza síria em Jerusalém, só será tomada por Simão em 141 a.C. (13,49-51).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

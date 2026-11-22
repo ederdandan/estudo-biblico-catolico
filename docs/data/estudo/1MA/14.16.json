@@ -1,0 +1,57 @@
+{
+  "id": "1MA.14.16",
+  "livro": "1MA",
+  "titulo": "O decreto em honra de Simão",
+  "secao": "Simão",
+  "referencia": "1Mc 14,16-49",
+  "ini": {
+    "c": 14,
+    "v": 16
+  },
+  "fim": {
+    "c": 14,
+    "v": 49
+  },
+  "liturgia": {
+    "tema_central": "Até que se levantasse um profeta fiel: o decreto em honra de Simão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Em Roma e em Esparta sabe-se que Jônatas morreu, e todos o sentem. Mas, sabendo que Simão é sumo sacerdote em seu lugar, escrevem-lhe em tábuas de bronze para renovar a amizade e a aliança feitas com Judas e Jônatas. As cartas são lidas em Jerusalém diante do povo. Os espartanos escrevem: os príncipes e a cidade de Esparta, a Simão, sumo sacerdote, aos anciãos, aos sacerdotes e a todo o povo dos judeus, seus irmãos, saúde. Simão envia a Roma Numênio com um grande escudo de ouro de mil minas. O povo diz: que sinal de gratidão daremos a Simão e a seus filhos? Ele, os irmãos e a casa de seu pai foram fortes e asseguraram a liberdade de Israel. Gravam uma inscrição em tábuas de bronze e a põem em colunas no monte Sião: no dia dezoito de Elul do ano cento e setenta e dois, na grande assembleia dos sacerdotes, do povo, dos chefes e dos anciãos, declarou-se: em tempos de muitas guerras, Simão, filho de Matatias, e os irmãos se expuseram ao perigo para que o santuário e a lei fossem mantidos; Jônatas reuniu a nação e foi sumo sacerdote; Simão combateu pelo seu povo, gastou os seus bens, armou os valentes, fortificou as cidades, expulsou os gentios da cidadela. O povo o constitui chefe e sumo sacerdote. Demétrio o confirma. E os judeus e os sacerdotes decidem “que ele fosse seu chefe e sumo sacerdote para sempre, até que se levantasse um profeta fiel”; que tenha autoridade sobre o exército e o santuário; que os documentos sejam escritos em seu nome; que se vista de púrpura e ouro. Simão aceita. O documento é gravado em bronze e posto na galeria do santuário, com uma cópia no tesouro.",
+    "alegorico": "A cláusula “até que se levantasse um profeta fiel” é decisiva: o povo sabe que este poder é provisório, à espera de alguém que Deus enviará. A tradição cristã vê aqui a expectativa do “Profeta” anunciado por Moisés (Dt 18,15), que se cumpre em Cristo (At 3,22). Nele se unem, de modo perfeito e eterno, o sacerdócio, a realeza e a profecia que os asmoneus reuniram de modo humano.",
+    "moral": "O decreto é um ato de gratidão pública: o povo reconhece quem se expôs e gastou os próprios bens pelo bem comum. Mas há também um risco: concentrar todos os poderes num só homem e na sua família. A história mostrará que os descendentes de Simão abusarão desse poder. A sabedoria do texto está na reserva: “até que venha um profeta”, isto é, nenhuma autoridade humana é definitiva.",
+    "anagogico": "O “sacerdote para sempre” que o povo esperava é Cristo, “sacerdote eterno segundo a ordem de Melquisedec” (Hb 7,17). Toda autoridade terrena é provisória diante da sua."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Que sinal de reconhecimento daremos a Simão?” “Expuseram-se ao perigo… para susterem o santuário e a lei.” “Gastou grande parte dos seus bens.” “Fosse seu chefe e sumo sacerdote para sempre, até que se levantasse um profeta fiel.” “Aceitou Simão.”",
+    "meditatio_perguntas": [
+      "Sou grato aos que se sacrificaram pelo bem comum?",
+      "Reconheço que toda autoridade humana é provisória diante de Deus?",
+      "Espero o “profeta fiel”, Cristo, como a resposta definitiva?"
+    ],
+    "oratio_guia": "Senhor Jesus, profeta fiel e sacerdote eterno, sê o chefe da minha vida. Dá-me gratidão pelos que se sacrificaram por nós e guarda os que governam da tentação do poder sem limites. Amém.",
+    "contemplatio_foco": {
+      "texto": "que ele fosse seu chefe e sumo sacerdote para sempre, até que se levantasse um profeta fiel",
+      "ref": "1Mc 14,41"
+    }
+  },
+  "ancoras": {
+    "14:27": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Setembro de 140 a.C.; o decreto legitima a dinastia asmoneia, que governará até 63 a.C.",
+        "origem": "ia"
+      }
+    },
+    "14:41": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 4,46 e 9,27: a consciência da ausência de profetas e a espera de um profeta escatológico.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

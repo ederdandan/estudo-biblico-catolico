@@ -1,0 +1,57 @@
+{
+  "id": "1MA.4.36",
+  "livro": "1MA",
+  "titulo": "A purificação do Templo e a dedicação do altar",
+  "secao": "Judas Macabeu",
+  "referencia": "1Mc 4,36-61",
+  "ini": {
+    "c": 4,
+    "v": 36
+  },
+  "fim": {
+    "c": 4,
+    "v": 61
+  },
+  "liturgia": {
+    "tema_central": "A dedicação do altar: a purificação do Templo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Judas e os irmãos dizem: os nossos inimigos foram esmagados; subamos para purificar e dedicar o santuário. Todo o exército sobe ao monte Sião. Veem o santuário deserto, o altar profanado, as portas queimadas, mato crescendo nos átrios como num bosque, as salas destruídas. Rasgam as vestes, fazem grande lamentação, põem cinza na cabeça, prostram-se e tocam as trombetas. Judas manda combater a cidadela enquanto se purifica o santuário. Escolhe sacerdotes sem mancha, zelosos da lei, que purificam o santuário e levam as pedras contaminadas para lugar impuro. Deliberam sobre o altar dos holocaustos profanado, e decidem demoli-lo, guardando as pedras no monte do templo “até que viesse um profeta que decidisse a seu respeito”. Tomam pedras brutas, segundo a lei, e constroem um altar novo como o anterior. Restauram o santuário e o interior, santificam os átrios, fazem novos vasos sagrados, trazem o candelabro, o altar do incenso e a mesa; queimam incenso, acendem as lâmpadas que iluminam o templo, põem os pães e penduram os véus. No dia vinte e cinco do nono mês, Casleu, do ano cento e quarenta e oito, levantam-se cedo e oferecem o sacrifício segundo a lei no novo altar, no mesmo dia em que os pagãos o tinham profanado, ao som de cânticos, cítaras, liras e címbalos. Todo o povo se prostra, adora e bendiz o céu. Celebram a dedicação do altar oito dias, com holocaustos e sacrifícios de louvor; enfeitam a fachada com coroas de ouro e escudos. “Foi extraordinária a alegria do povo, e o opróbrio das nações foi afastado.” Judas e toda a assembleia estabelecem que se celebre todos os anos, durante oito dias, a dedicação do altar, com alegria. E fortificam o monte Sião e Betsur.",
+    "alegorico": "A festa da Dedicação (Hanuká) é mencionada no Evangelho: “celebrava-se em Jerusalém a festa da Dedicação; era inverno, e Jesus passeava no templo” (Jo 10,22-23), e ali ele se revela como o Consagrado pelo Pai. O altar novo de pedras brutas, as lâmpadas acesas e o templo purificado são figura da Igreja, do altar cristão consagrado e da alma purificada pela penitência. A Igreja celebra a dedicação das suas igrejas com a mesma alegria.",
+    "moral": "A primeira reação diante do santuário em ruínas é o luto; a segunda, o trabalho de purificação, minucioso e paciente. Tudo é refeito: altar, vasos, lâmpadas, pães. Reconstruir a vida espiritual exige começar pelo centro (o altar) e cuidar dos detalhes. A humildade de guardar as pedras “até que viesse um profeta” mostra respeito pelo que não se sabe resolver: nem tudo se decide por conta própria.",
+    "anagogico": "A alegria da dedicação, celebrada cada ano, anuncia a alegria eterna da Jerusalém celeste, onde o Templo é o próprio Deus e o Cordeiro, e o opróbrio será afastado para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vamos agora purificar e consagrar de novo o santuário.” “Viram o santuário deserto, o altar profanado.” “Escolheu sacerdotes sem mancha.” “Até que viesse um profeta.” “Foi ele novamente consagrado, ao som de cânticos.” “Celebraram a dedicação do altar, durante oito dias.” “Foi extraordinária a alegria do povo.”",
+    "meditatio_perguntas": [
+      "Que partes do “santuário” da minha alma estão em ruínas e cobertas de mato?",
+      "Começo a minha renovação pelo altar, isto é, pelo lugar de Deus?",
+      "Celebro com alegria as dedicações e as festas da Igreja?"
+    ],
+    "oratio_guia": "Senhor, purifica o santuário do meu coração profanado. Edifica nele um altar novo, acende as lâmpadas da fé e afasta o meu opróbrio, para que eu celebre contigo a festa da dedicação com alegria. Amém.",
+    "contemplatio_foco": {
+      "texto": "Foi extraordinária a alegria do povo, e o opróbrio das nações foi afastado",
+      "ref": "1Mc 4,58"
+    }
+  },
+  "ancoras": {
+    "4:52": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "25 de Casleu do ano 148 (dezembro de 164 a.C.), exatamente três anos depois da profanação (1,57.62).",
+        "origem": "ia"
+      }
+    },
+    "4:46": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A espera de “um profeta” reflete a consciência de que a profecia tinha cessado (cf. 9,27; 14,41).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

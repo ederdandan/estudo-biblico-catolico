@@ -1,0 +1,57 @@
+{
+  "id": "1MA.5.1",
+  "livro": "1MA",
+  "titulo": "O socorro aos irmãos de Galaad e da Galileia",
+  "secao": "Judas Macabeu",
+  "referencia": "1Mc 5,1-54",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 54
+  },
+  "liturgia": {
+    "tema_central": "Voltaram em paz, sem que nenhum perecesse: o socorro aos irmãos dispersos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "As nações vizinhas, ouvindo que o altar e o santuário foram reconstruídos, enfurecem-se e decidem exterminar os da raça de Jacó que vivem entre elas. Judas combate os filhos de Esaú na Idumeia, os filhos de Bean e os amonitas de Timóteo. Chegam cartas dos judeus de Galaad, refugiados na fortaleza de Datema: “Vem, pois, agora, livrar-nos das suas mãos, porque muitos dos nossos já pereceram”; os irmãos de Tob foram mortos, levadas as mulheres e os filhos. Ao mesmo tempo, mensageiros da Galileia, de vestes rasgadas, anunciam que Ptolemaida, Tiro e Sidônia se uniram para destruí-los. Judas reúne o povo e diz a Simão: escolhe homens e vai libertar os teus irmãos da Galileia; eu e Jônatas iremos a Galaad. Deixa José e Azarias à frente do povo, com ordem de não combater até a sua volta. Simão vence na Galileia e traz para a Judeia os judeus de lá, com as mulheres, os filhos e os bens, “com grande regozijo”. Judas e Jônatas atravessam o Jordão, caminham três dias pelo deserto, tomam Bosor e, de noite, chegam a Datema, onde uma multidão inumerável ataca a fortaleza. Judas ouve o clamor que sobe ao céu com as trombetas, ataca em três colunas pela retaguarda, “tocaram as trombetas e levantaram gritos a Deus”, e Timóteo foge. Toma várias cidades de Galaad e vence de novo Timóteo junto à torrente, passando ele mesmo primeiro. Reúne então todos os israelitas de Galaad, do menor ao maior, com mulheres, filhos e bens, para levá-los à terra de Judá. Efron lhes fecha a passagem; tomam-na à força. Atravessam o Jordão. “Judas ia na retaguarda reunindo os atrasados e animando o povo por todo o caminho.” Sobem ao monte Sião “com alegria e regozijo” e oferecem holocaustos, porque voltaram em paz, “sem que nenhum deles tivesse perecido”.",
+    "alegorico": "Judas, que vai buscar os irmãos dispersos e caminha na retaguarda reunindo os atrasados, é imagem do Bom Pastor que vai atrás da ovelha perdida (Lc 15,4) e não deixa que nenhum se perca: “dos que me deste, não perdi nenhum” (Jo 18,9). A subida ao monte Sião com alegria é figura da Igreja reunida que sobe à Jerusalém celeste.",
+    "moral": "A fé de Israel não é só pelo santuário, mas pelos irmãos: quando os de longe gritam por socorro, Judas parte. Divide a missão com os irmãos (Simão na Galileia, Judas e Jônatas em Galaad): a caridade organizada. E o seu lugar, na volta, é a retaguarda, onde estão os fracos e cansados. O verdadeiro chefe cuida dos últimos.",
+    "anagogico": "“Sem que nenhum deles tivesse perecido”: é a esperança da reunião final dos filhos de Deus dispersos, quando o Pastor levar todos ao monte Sião."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vem, pois, agora, livrar-nos das suas mãos.” “Vai livrar os teus irmãos.” “Conduziu-os para a Judeia com grande regozijo.” “Levantaram gritos a Deus.” “Judas ia na retaguarda reunindo os atrasados e animando o povo.” “Subiram ao monte Sião com alegria e regozijo.” “Sem que nenhum deles tivesse perecido.”",
+    "meditatio_perguntas": [
+      "Escuto o grito dos irmãos de fé que sofrem longe de mim?",
+      "Estou disposto a caminhar na retaguarda, com os atrasados?",
+      "Quem eu ajudo a “voltar em paz” para a casa de Deus?"
+    ],
+    "oratio_guia": "Senhor, Bom Pastor, que vais buscar os teus dispersos, faz-me ouvir o clamor dos irmãos e caminhar com os mais fracos, animando-os pelo caminho, até chegarmos juntos ao teu monte santo, sem que nenhum se perca. Amém.",
+    "contemplatio_foco": {
+      "texto": "Judas ia na retaguarda reunindo os atrasados e animando o povo por todo o caminho, até que chegassem ao país de Judá",
+      "ref": "1Mc 5,53"
+    }
+  },
+  "ancoras": {
+    "5:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Galaad, na Transjordânia, tinha comunidades judaicas desde a época persa; a fortaleza de Datema não foi identificada com segurança.",
+        "origem": "ia"
+      }
+    },
+    "5:46": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Efron, cidade fortificada a leste do Jordão; a narrativa ecoa Nm 20-21, quando Edom e Seon recusaram passagem a Israel.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

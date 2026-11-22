@@ -1,0 +1,57 @@
+{
+  "id": "1MA.3.27",
+  "livro": "1MA",
+  "titulo": "Lísias e a assembleia de Masfa",
+  "secao": "Judas Macabeu",
+  "referencia": "1Mc 3,27-60",
+  "ini": {
+    "c": 3,
+    "v": 27
+  },
+  "fim": {
+    "c": 3,
+    "v": 60
+  },
+  "liturgia": {
+    "tema_central": "Como subsistiremos, se tu não nos assistires? A assembleia de Masfa",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Antíoco, sabendo das vitórias de Judas, enfurece-se e reúne todas as forças do reino; abre o tesouro e paga um ano de soldo. Mas os tesouros estão vazios, por causa das revoltas e das suas prodigalidades; parte então para a Pérsia, a recolher tributos, e deixa Lísias, de sangue real, como regente desde o Eufrates até o Egito e tutor do filho, Antíoco, com metade do exército e os elefantes, e com ordem de exterminar Judá e Jerusalém, apagar a sua memória e repartir a terra entre estrangeiros. Lísias envia Ptolomeu, Nicanor e Górgias com quarenta mil infantes e sete mil cavaleiros; acampam perto de Emaús, e mercadores vêm com prata, ouro e grilhões para comprar os israelitas como escravos. Judas e os irmãos dizem: “levantemos o nosso povo do seu abatimento e pelejemos pela nossa nação e pelo santuário”. A assembleia se reúne em Masfa, antigo lugar de oração defronte de Jerusalém, que está deserta e com o santuário pisado. Jejuam, vestem saco, põem cinza, rasgam as vestes; abrem o livro da lei; trazem as vestes sacerdotais, as primícias e os dízimos, e os nazireus que completaram o voto, e clamam: que faremos destes, para onde os levaremos? o teu santuário foi pisado; “como poderemos subsistir diante da sua face, se tu, ó Deus, nos não assistires?” Tocam as trombetas. Judas nomeia chefes e, conforme a lei, manda voltar para casa os recém-casados, os que constroem casa, os que plantam vinha e os medrosos. Diz: preparai-vos para combater amanhã; “melhor nos é morrer em combate do que ver os males do nosso povo e do nosso santuário. Mas cumpra-se o que for vontade de Deus no céu.”",
+    "alegorico": "A assembleia de Masfa, com jejum, cinza, o livro aberto e a súplica, é uma liturgia penitencial que prefigura a Quaresma da Igreja antes da Páscoa. A frase final, “cumpra-se a vontade de Deus no céu”, antecipa a oração do Pai-nosso e a de Jesus no Getsêmani: “não a minha vontade, mas a tua”.",
+    "moral": "Antes da batalha, Judas reúne o povo para rezar: o primeiro combate é a conversão. Abrem o livro da lei para buscar ali luz, quando os pagãos buscam nos ídolos. A obediência à lei vai até o detalhe de mandar para casa os que não estão preparados: Deus não precisa de quantidade. E a última palavra é de entrega: lutaremos com todas as forças, mas que se faça a vontade de Deus.",
+    "anagogico": "“Cumpra-se o que for vontade de Deus no céu”: a esperança cristã não exige um resultado, mas confia que a vontade do Pai é sempre o bem definitivo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Levantemos o nosso povo do seu abatimento.” “Outrora havia em Masfa um lugar de oração.” “Abriram o livro da lei.” “Como poderemos subsistir diante da sua face, se tu, ó Deus, nos não assistires?” “Melhor nos é morrer em combate do que ver os males do nosso povo.” “Cumpra-se o que for vontade de Deus no céu.”",
+    "meditatio_perguntas": [
+      "Antes das minhas “batalhas”, começo pela oração e pela conversão?",
+      "Busco no livro de Deus a luz para as decisões difíceis?",
+      "Sei dizer, depois de fazer o possível, “cumpra-se a vontade de Deus”?"
+    ],
+    "oratio_guia": "Senhor, como poderei subsistir se tu não me assistires? Recebe o meu jejum e a minha súplica, abre para mim o teu livro e faz-me lutar com todas as forças, dizendo sempre: seja feita a tua vontade. Amém.",
+    "contemplatio_foco": {
+      "texto": "Como poderemos subsistir diante da sua face, se tu, ó Deus, nos não assistires?",
+      "ref": "1Mc 3,53"
+    }
+  },
+  "ancoras": {
+    "3:46": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Masfa (Mispá), ao norte de Jerusalém, onde Samuel reuniu o povo para a penitência (1Sm 7,5-6).",
+        "origem": "ia"
+      }
+    },
+    "3:56": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Lei de Dt 20,5-8 sobre os dispensados da guerra; o mesmo princípio de Gedeão (Jz 7,3).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

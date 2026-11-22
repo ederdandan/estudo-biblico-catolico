@@ -1,0 +1,57 @@
+{
+  "id": "1MA.8.1",
+  "livro": "1MA",
+  "titulo": "A aliança com Roma",
+  "secao": "Judas Macabeu",
+  "referencia": "1Mc 8,1-32",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "Aliança e paz: o tratado com Roma",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Judas ouve falar da fama dos romanos: são poderosos, benévolos com os aliados, fazem amizade com os que a eles recorrem. Ouve das suas guerras: venceram os gauleses e os submeteram ao tributo; conquistaram a Espanha, com as suas minas de prata e de ouro; derrotaram reis que vieram de longe; venceram Filipe e Perseu, reis dos macedônios, e Antíoco, o Grande, rei da Ásia, que tinha cento e vinte elefantes, e lhe tiraram as melhores províncias; destruíram os gregos que quiseram atacá-los. Mas com os amigos e os que neles confiam guardam a amizade; fazem e desfazem reis. E, apesar disso, “nenhum entre eles trazia diadema, nem se vestia de púrpura”; têm um senado de trezentos e vinte conselheiros, que deliberam todos os dias pelo bem do povo, e confiam cada ano o poder a um só homem, “sem haver entre eles nem inveja, nem ciúme”. Judas escolhe Eupólemo e Jasão e os envia a Roma, para fazer amizade e aliança e tirar o jugo dos gregos, que oprimem Israel. Depois de longa viagem, entram no senado: “Judas Macabeu, seus irmãos e o povo dos judeus enviaram-nos a vós para fazer aliança e paz convosco.” O senado aprova e grava em lâminas de bronze o tratado: paz para sempre entre Roma e os judeus, por mar e por terra; ajuda mútua em caso de guerra, sem fornecer aos inimigos trigo, armas, dinheiro ou navios. E escrevem a Demétrio: por que fazes pesar o teu jugo sobre os judeus, nossos amigos e aliados? Se se queixarem de novo, faremos guerra contra ti.",
+    "alegorico": "Os Padres leem este capítulo com ambivalência: a admiração ingênua por Roma contrasta com a confiança em Deus dos capítulos anteriores. A mesma Roma que agora protege será a que destruirá Jerusalém (70 d.C.) e perseguirá os cristãos; mas também será a cidade dos apóstolos Pedro e Paulo. Deus usa os impérios, mas nenhuma aliança humana substitui a sua Aliança.",
+    "moral": "Judas busca uma aliança política para proteger o povo: é a prudência de quem usa os meios humanos. Mas a imagem idealizada de Roma, que ele recebe de ouvir dizer, mostra o perigo de admirar o poder sem conhecê-lo por dentro. A confiança em aliados humanos é legítima, mas sempre frágil: Roma não socorrerá Judas na batalha final. A única aliança que não falha é a de Deus.",
+    "anagogico": "“Paz por mar e por terra, para sempre”: os tratados humanos prometem o eterno sem poder cumpri-lo. Só a nova e eterna aliança no sangue de Cristo realiza essa promessa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Davam a sua amizade a todos os que se aproximavam deles.” “Nenhum entre eles trazia diadema, nem se vestia de púrpura.” “Sem haver entre eles nem inveja, nem ciúme.” “Para fazer aliança e paz convosco.” “Felicidade aos Romanos e à nação dos Judeus… para sempre!”",
+    "meditatio_perguntas": [
+      "Em que alianças humanas deposito confiança demais?",
+      "Admiro o poder do mundo sem conhecê-lo de verdade?",
+      "Uso com prudência os meios humanos, sem esquecer a aliança com Deus?"
+    ],
+    "oratio_guia": "Senhor, que eu use com prudência os meios deste mundo, sem pôr neles a minha esperança. Só a tua aliança é eterna; guarda-me nela por mar e por terra, para sempre. Amém.",
+    "contemplatio_foco": {
+      "texto": "Judas Macabeu, seus irmãos e o povo dos Judeus enviaram-nos a vós para fazer aliança e paz convosco",
+      "ref": "1Mc 8,20"
+    }
+  },
+  "ancoras": {
+    "8:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O tratado é de 161 a.C.; Josefo (Ant. XII,10,6) transmite o mesmo texto. O senado romano costumava fazer tais alianças para enfraquecer os selêucidas.",
+        "origem": "ia"
+      }
+    },
+    "8:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Eupólemo é provavelmente o historiador judeu-helenista de quem restam fragmentos sobre os reis de Israel.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

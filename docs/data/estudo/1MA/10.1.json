@@ -1,0 +1,57 @@
+{
+  "id": "1MA.10.1",
+  "livro": "1MA",
+  "titulo": "Jônatas, sumo sacerdote, entre Demétrio e Alexandre",
+  "secao": "Jônatas",
+  "referencia": "1Mc 10,1-66",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 66
+  },
+  "liturgia": {
+    "tema_central": "Jônatas veste a túnica santa: sumo sacerdote entre dois reis",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No ano cento e sessenta, Alexandre Balas, que se dizia filho de Antíoco Epífanes, ocupa Ptolemaida e começa a reinar. Demétrio reúne um grande exército e, para ganhar Jônatas, escreve-lhe cartas de paz: dá-lhe poder de recrutar exército, fazer armas, e manda devolver os reféns da cidadela. Jônatas vai a Jerusalém e lê as cartas diante de todo o povo; os da cidadela temem; os reféns são devolvidos. Jônatas estabelece-se em Jerusalém e começa a reconstruir e renovar a cidade, cercando o monte Sião de muros de pedra. Os estrangeiros das fortalezas de Báquides fogem. Alexandre, sabendo das promessas de Demétrio e do valor de Jônatas, escreve: “O rei Alexandre, ao seu irmão Jônatas, saúde”; “constituímos-te hoje sumo pontífice da tua nação e damos-te o título de amigo do rei”, e envia-lhe púrpura e coroa de ouro. “No ano cento e sessenta, no sétimo mês, vestiu-se Jônatas da túnica sagrada, no dia da solene festa dos Tabernáculos.” Demétrio, aflito, faz promessas ainda maiores: isenção de tributos, de sal e de coroas, da terça parte das sementes e da metade dos frutos; Jerusalém santa e livre; liberdade dos cativos; festas isentas; trinta mil judeus no exército real; Ptolemaida para o santuário; dinheiro para reconstruir os muros. Mas Jônatas e o povo não creem nessas palavras, lembrando-se dos males que Demétrio fizera a Israel, e preferem Alexandre, que foi o primeiro a falar de paz. Alexandre vence e mata Demétrio. Casa com Cleópatra, filha de Ptolomeu, em Ptolemaida, e convida Jônatas. Alguns iníquos o acusam, mas o rei não os ouve: manda tirar-lhe as vestes e vesti-lo de púrpura, senta-o ao seu lado e proclama que ninguém o acuse. Os acusadores fogem. Jônatas volta a Jerusalém “em paz e com alegria”.",
+    "alegorico": "Jônatas, revestido de púrpura enquanto os acusadores fogem, é figura do justo que Deus justifica contra os seus acusadores (Zc 3,1-5, onde o sumo sacerdote Josué recebe vestes novas e Satanás é repreendido). A investidura na festa dos Tabernáculos une sacerdócio e alegria. Mas o sumo sacerdócio recebido de um rei pagão mostra também a confusão entre poder religioso e político que pesará sobre os asmoneus.",
+    "moral": "Jônatas sabe discernir: não aceita as promessas mais generosas de Demétrio porque se lembra dos males que ele fez. A memória protege contra a sedução: quem já mostrou o que é não se transforma por uma carta. Ao mesmo tempo, usa com habilidade a rivalidade entre os poderosos para o bem do povo: reconstrói Jerusalém e liberta os reféns. A prudência política pode servir à fé.",
+    "anagogico": "“Voltou para Jerusalém em paz e com alegria”: os acusadores fogem, e o justo é revestido de honra. É a imagem do juízo final, quando Cristo, nosso advogado, calará todo acusador."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Começou a edificar e a renovar a cidade.” “Constituímos-te hoje sumo pontífice da tua nação.” “Vestiu-se Jónatas da túnica sagrada.” “Não as tiveram por sinceras… porque se lembravam dos grandes males.” “Visto ter sido o primeiro que lhes falara de paz.” “Jónatas voltou para Jerusalém, em paz e com alegria.”",
+    "meditatio_perguntas": [
+      "Deixo-me seduzir por promessas de quem já mostrou o que é?",
+      "Uso com sabedoria as circunstâncias para o bem dos outros?",
+      "Confio que Deus me justificará diante dos acusadores?"
+    ],
+    "oratio_guia": "Senhor, dá-me discernimento para não me deixar comprar por promessas enganosas. Reveste-me com a veste da tua graça, cala os meus acusadores e faz-me voltar à tua cidade em paz e com alegria. Amém.",
+    "contemplatio_foco": {
+      "texto": "Jónatas voltou para Jerusalém, em paz e com alegria",
+      "ref": "1Mc 10,66"
+    }
+  },
+  "ancoras": {
+    "10:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Alexandre Balas (152-145 a.C.), apoiado por Roma e pelo Egito, apresentava-se como filho de Antíoco IV.",
+        "origem": "ia"
+      }
+    },
+    "10:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Outubro de 152 a.C.; desde a morte de Alcimo (159) o sumo sacerdócio estava vago. Começa a linhagem sacerdotal dos asmoneus, que não era da família de Sadoc.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "1MA.3.1",
+  "livro": "1MA",
+  "titulo": "Judas, leão de Israel",
+  "secao": "Judas Macabeu",
+  "referencia": "1Mc 3,1-26",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "A vitória vem do céu: Judas, leão de Israel",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Judas, chamado Macabeu, sucede ao pai; os irmãos e todos os fiéis o ajudam, e combatem com alegria por Israel. Um poema celebra-o: “dilatou a glória do seu povo”, vestiu a couraça como um gigante, foi “semelhante a um leão nas suas ações, a um leãozinho que ruge sobre a presa”; perseguiu os ímpios, desviou a ira de Deus de Israel, tornou-se famoso até os confins da terra “e reuniu os que estavam a ponto de perecer”. Apolônio reúne os pagãos e um grande exército de Samaria; Judas o vence e mata, toma a sua espada e com ela combate dali em diante. Seron, general da Síria, pensa: farei um nome lutando contra Judas. Sobe com um forte exército até Betoron. Os companheiros de Judas, poucos e enfraquecidos pelo jejum, dizem: como poderemos lutar contra tamanha multidão? Judas responde: “É coisa fácil virem a cair os muitos nas mãos dos poucos; pois para o Deus do céu não há diferença entre salvar com muitos ou com poucos, porque a vitória na guerra não depende da grandeza dos exércitos, mas da força que vem do céu.” Eles vêm com soberba para nos destruir; “nós havemos de pelejar pelas nossas vidas e pelas nossas leis”; o Senhor os esmagará diante de nós; não temais. Ataca de repente, e Seron é derrotado na descida de Betoron. O medo de Judas se espalha pelas nações, e todos falam das suas batalhas.",
+    "alegorico": "Judas, “leão” que reúne os que iam perecer, é figura de Cristo, “Leão da tribo de Judá” (Ap 5,5), que reúne os filhos de Deus dispersos (Jo 11,52). A sua palavra sobre os poucos e os muitos ecoa a de Jônatas (1Sm 14,6) e de Gedeão, e prepara a lógica do Evangelho: Deus escolhe o que é fraco para confundir o forte (1Cor 1,27).",
+    "moral": "A coragem de Judas vem da fé, não da força: “a vitória vem do céu”. Os companheiros têm medo e estão cansados do jejum; ele não nega a fraqueza, mas a coloca diante de Deus. E sabe por que luta: pela vida e pela lei, não pela glória (como Seron, que quer “fazer um nome”). A motivação define o combate.",
+    "anagogico": "“A sua memória será eternamente bendita”: a fidelidade dos justos é lembrada por Deus para sempre. A vitória final do Leão de Judá é a vitória de todos os que combatem com ele."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Pelejavam com alegria em defesa de Israel.” “Semelhante a um leão nas suas ações.” “Reuniu os que estavam a ponto de perecer.” “Como poderemos nós, sendo tão poucos?” “A vitória na guerra não depende da grandeza dos exércitos, mas da força que vem do céu.” “Nós havemos de pelejar pelas nossas vidas e pelas nossas leis.”",
+    "meditatio_perguntas": [
+      "Meço as minhas possibilidades pelos meus recursos ou pela força de Deus?",
+      "Por que luto: pela fé e pela vida, ou para “fazer um nome”?",
+      "Ajudo a reunir os que estão a ponto de perecer?"
+    ],
+    "oratio_guia": "Senhor, quando eu me sentir pouco e cansado diante de grandes forças, lembra-me que a vitória vem do céu. Dá-me combater com alegria pela vida e pela tua lei, e reunir os que estão perecendo. Amém.",
+    "contemplatio_foco": {
+      "texto": "a vitória na guerra não depende da grandeza dos exércitos, mas da força que vem do céu",
+      "ref": "1Mc 3,19"
+    }
+  },
+  "ancoras": {
+    "3:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A subida de Betoron, estreita e íngreme, foi lugar de vitórias célebres (Js 10,10-11); ali Judas venceu exércitos muito maiores.",
+        "origem": "ia"
+      }
+    },
+    "3:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A espada de Apolônio lembra a espada de Golias, que Davi tomou e usou (1Sm 21,9).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "1MA.10.67",
+  "livro": "1MA",
+  "titulo": "Apolônio, Ptolomeu e a queda de Alexandre",
+  "secao": "Jônatas",
+  "referencia": "1Mc 10,67–11,19",
+  "ini": {
+    "c": 10,
+    "v": 67
+  },
+  "fim": {
+    "c": 11,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "Onde não há lugar para fugir: Apolônio, Ptolomeu e a queda de Alexandre",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No ano cento e sessenta e cinco, Demétrio, filho de Demétrio, volta de Creta para reconquistar o reino de seu pai. Nomeia general Apolônio, governador da Celessíria, que acampa em Jâmnia e provoca Jônatas: “Tu és o único que nos resistes”; nas montanhas te escondes; desce à planície, “onde não há nem pedra, nem penedo, nem lugar para fugir”. Jônatas, indignado, parte com dez mil homens, e Simão vem ajudá-lo. Toma Jope. Apolônio deixa mil cavaleiros emboscados, mas os homens de Jônatas resistem desde a manhã até a tarde, até que a cavalaria se cansa; então Simão ataca a falange e a desbarata. Os fugitivos se refugiam em Azoto, no templo de Dagon; Jônatas queima Azoto e as cidades vizinhas e o templo de Dagon com os que nele se refugiaram. Ascalão o recebe com honras. Alexandre, sabendo disso, dá-lhe ainda mais glória: uma fivela de ouro, como se dá aos parentes do rei, e a cidade de Acaron. O rei do Egito, Ptolomeu, reúne um exército inumerável e muitos navios, e entra na Síria com aparência de paz, mas põe guarnições em cada cidade. Jônatas o encontra com pompa em Jope e o acompanha até o rio Eleutero. Ptolomeu se apodera das cidades da costa e trama contra Alexandre: tira-lhe a filha Cleópatra e a dá a Demétrio, dizendo que Alexandre quis matá-lo. Entra em Antioquia e cinge dois diademas, o do Egito e o da Ásia. Alexandre o combate, é vencido e foge para a Arábia, onde Zabdiel lhe corta a cabeça e a envia a Ptolomeu. Três dias depois, também Ptolomeu morre; e Demétrio começa a reinar no ano cento e sessenta e sete.",
+    "alegorico": "A provocação de Apolônio, “onde não há lugar para fugir”, é a voz do inimigo que quer tirar o justo do seu abrigo, a “rocha” onde Deus o protege (Sl 18(17),3). O espetáculo dos reis que se aliam e se traem, que cingem dois diademas e morrem em três dias, ilustra a palavra: “não confieis nos príncipes… sai-lhes o espírito, e voltam ao pó” (Sl 146(145),3-4).",
+    "moral": "Jônatas não cede à provocação por orgulho, mas combate com estratégia e perseverança: resistir “da manhã até a tarde” até que o adversário se canse. A fidelidade muitas vezes vence por paciência. O capítulo mostra também a instabilidade da política: aliados de ontem são inimigos de hoje, e quem parece vencer morre logo. Fundar a esperança nesses jogos é construir sobre a areia.",
+    "anagogico": "Os reis que se sucedem em poucos dias recordam que a figura deste mundo passa. Só o Reino de Deus não terá fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Tu és o único que nos resistes.” “Onde não há nem pedra, nem penedo, nem lugar para fugir.” “Desde a manhã até à tarde.” “Elevou ainda Jónatas a maior glória.” “Pôs na sua cabeça dois diademas.” “Três dias depois morreu o rei Ptolomeu.”",
+    "meditatio_perguntas": [
+      "Deixo-me provocar a sair do meu “abrigo” em Deus?",
+      "Tenho a paciência de resistir até que a tentação se canse?",
+      "Ponho a minha esperança nos jogos do poder?"
+    ],
+    "oratio_guia": "Senhor, minha rocha e meu abrigo, não permitas que o inimigo me arraste para onde não há onde fugir. Dá-me perseverar da manhã até a tarde, e esperar só em ti, que permaneces quando os reis passam. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tu és o único que nos resistes, e, por isso, estou feito um objecto de riso e de opróbrio",
+      "ref": "1Mc 10,70"
+    }
+  },
+  "ancoras": {
+    "10:67": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Demétrio II Nicátor, filho de Demétrio I, iniciou a reconquista em 147 a.C.",
+        "origem": "ia"
+      }
+    },
+    "11:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ptolomeu VI Filométor cingiu por breve tempo as coroas do Egito e da Síria (145 a.C.); morreu dos ferimentos da batalha contra Alexandre.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

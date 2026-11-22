@@ -1,0 +1,57 @@
+{
+  "id": "1MA.5.55",
+  "livro": "1MA",
+  "titulo": "A derrota de José e Azarias",
+  "secao": "Judas Macabeu",
+  "referencia": "1Mc 5,55-68",
+  "ini": {
+    "c": 5,
+    "v": 55
+  },
+  "fim": {
+    "c": 5,
+    "v": 68
+  },
+  "liturgia": {
+    "tema_central": "Não eram da raça dos que salvariam Israel: José e Azarias",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Enquanto Judas e Jônatas estão em Galaad e Simão na Galileia, José, filho de Zacarias, e Azarias, chefes do exército deixados na Judeia, ouvem as façanhas e dizem: “Façamos também célebre o nosso nome, indo pelejar contra as nações que estão à roda de nós.” Desobedecendo à ordem de Judas, marcham contra Jâmnia. Górgias sai da cidade com os seus soldados; José e Azarias são derrotados e perseguidos até as fronteiras da Judeia; perecem naquele dia cerca de dois mil homens de Israel. Foi uma grande derrota, “por eles não terem seguido as ordens de Judas e de seus irmãos, imaginando que fariam grandes façanhas. Mas eles não pertenciam à raça daqueles homens a quem era dado salvar Israel.” Judas e os irmãos, pelo contrário, são grandemente honrados diante de Israel e das nações, e o povo sai ao seu encontro com aclamações. Judas combate depois os filhos de Esaú, toma Hebron e as suas aldeias, derruba as muralhas e torres, e percorre o país dos filisteus, passando por Marisa. Naquele dia caem alguns sacerdotes “por quererem dar mostras do seu valor, saindo à peleja imprudentemente”. Judas se volta para Azoto, derruba os altares, queima as imagens dos deuses e retorna à terra de Judá.",
+    "alegorico": "José e Azarias, que buscam “fazer um nome”, repetem o pecado de Babel (Gn 11,4). A salvação não pertence a quem a busca por vaidade, mas a quem Deus escolhe; Cristo, que “não buscou a própria glória” (Jo 8,50), é o verdadeiro salvador. Os Padres viam aqui a advertência contra os que pregam por ambição, sem missão.",
+    "moral": "Dois erros convergem: a desobediência (não seguiram as ordens) e a vaidade (queriam fazer nome). O zelo que nasce do desejo de aparecer leva ao desastre e arrasta outros: dois mil morrem pela vaidade de dois chefes. O mesmo vale para os sacerdotes imprudentes. A coragem sem obediência e sem humildade não é virtude, é temeridade.",
+    "anagogico": "Nem todos recebem a mesma missão; mas a todos é dado, na humildade, entrar na obra de Deus. A glória verdadeira é a que vem do alto."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Façamos também célebre o nosso nome.” “Por eles não terem seguido as ordens de Judas e de seus irmãos.” “Imaginando que fariam grandes façanhas.” “Eles não pertenciam à raça daqueles homens a quem era dado salvar Israel.” “Saindo à peleja imprudentemente.”",
+    "meditatio_perguntas": [
+      "Quantas das minhas iniciativas “por Deus” são, na verdade, para fazer um nome?",
+      "Sei obedecer, mesmo quando acho que faria melhor?",
+      "Que danos a minha imprudência pode causar a outros?"
+    ],
+    "oratio_guia": "Senhor, livra-me da vaidade de fazer um nome e da temeridade que não obedece. Que eu sirva na missão que me deste, sem buscar façanhas, para que a glória seja só tua. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eles não pertenciam à raça daqueles homens a quem era dado salvar Israel",
+      "ref": "1Mc 5,62"
+    }
+  },
+  "ancoras": {
+    "5:58": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jâmnia (Yavne), na planície costeira; mais tarde será sede da escola rabínica após a destruição do Templo (70 d.C.).",
+        "origem": "ia"
+      }
+    },
+    "5:67": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "2Mc 12,39-45 narrará os soldados mortos que traziam amuletos idolátricos e a oração pelos mortos que Judas mandou oferecer.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

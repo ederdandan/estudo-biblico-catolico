@@ -1,0 +1,57 @@
+{
+  "id": "1MA.6.1",
+  "livro": "1MA",
+  "titulo": "A morte de Antíoco Epífanes",
+  "secao": "Judas Macabeu",
+  "referencia": "1Mc 6,1-17",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "Lembro-me dos males que fiz em Jerusalém: a morte de Antíoco Epífanes",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O rei Antíoco percorre as províncias superiores e ouve falar de Elimaida, na Pérsia, cidade famosa por suas riquezas, com um templo riquíssimo cheio de véus de ouro, couraças e armas deixadas por Alexandre. Tenta tomá-la e saqueá-la, mas os habitantes o descobrem e o rechaçam; ele foge com grande tristeza rumo a Babilônia. Ainda na Pérsia, chega a notícia: os exércitos enviados a Judá foram derrotados; Lísias fugiu; os judeus se fortaleceram, destruíram a abominação que ele pusera sobre o altar e cercaram o santuário de muros, como antes. O rei fica aterrado e perturbado, cai de cama e adoece de tristeza, porque nada saiu como desejava. Fica assim muitos dias e compreende que vai morrer. Chama os amigos: “O sono fugiu dos meus olhos… eu que era bom e querido no auge do meu poder! Agora, porém, lembro-me dos males que fiz em Jerusalém”: tirei os vasos de ouro e de prata e mandei exterminar os habitantes sem motivo. “Reconheço, pois, que por isso é que vieram sobre mim todos estes males; e eis que vou morrer de grande melancolia numa terra estrangeira.” Nomeia Filipe, um dos seus amigos, regente do reino, entrega-lhe o diadema, o manto e o anel, para educar o filho Antíoco para o trono. E morre ali, no ano cento e quarenta e nove. Lísias, sabendo da morte do rei, põe no trono o jovem Antíoco, a quem educara, com o nome de Eupátor.",
+    "alegorico": "O fim do perseguidor, que morre longe, consumido de tristeza, é o tema do “fim dos tiranos” que a tradição cristã (Lactâncio, De mortibus persecutorum) aplicará aos imperadores perseguidores. Antíoco, figura do Anticristo, termina como Daniel anunciara: “chegará ao seu fim, e ninguém o socorrerá” (Dn 11,45).",
+    "moral": "Antíoco chega à verdade tarde: “lembro-me dos males que fiz”. A consciência, sufocada durante o poder, desperta na derrota e na doença. Reconhece a causa dos seus males, mas não se vê nele uma conversão a Deus, só uma tristeza estéril. É a “tristeza segundo o mundo, que produz a morte”, diferente da “tristeza segundo Deus, que produz arrependimento” (2Cor 7,10).",
+    "anagogico": "Todo poder terreno termina diante da morte, e a memória do mal feito se levanta. A hora da morte revela a verdade de uma vida; feliz quem se converte a tempo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Fugiu de lá com grande tristeza.” “Enfermou de melancolia.” “O sono fugiu dos meus olhos.” “Eu que era bom e querido no auge do meu poder!” “Agora, porém, lembro-me dos males que fiz em Jerusalém.” “Vou morrer de grande melancolia numa terra estrangeira.”",
+    "meditatio_perguntas": [
+      "Espero a derrota para reconhecer o mal que fiz?",
+      "A minha tristeza pelos pecados é estéril ou se abre à conversão?",
+      "Que lembranças eu quereria ter na hora da morte?"
+    ],
+    "oratio_guia": "Senhor, não permitas que eu reconheça os meus pecados só quando for tarde. Dá-me a tristeza segundo Deus, que leva ao arrependimento e à vida, e não a melancolia que consome. Amém.",
+    "contemplatio_foco": {
+      "texto": "Agora, porém, lembro-me dos males que fiz em Jerusalém",
+      "ref": "1Mc 6,12"
+    }
+  },
+  "ancoras": {
+    "6:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Elimaida (Elam), na Pérsia; Políbio confirma que Antíoco IV morreu em Tabas, depois de tentar saquear o templo de Ártemis (ou Nanaia).",
+        "origem": "ia"
+      }
+    },
+    "6:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O ano 149 corresponde a 164 a.C.; 2Mc 9 narra a mesma morte com outros detalhes, e 2Mc 1,13-16 com outra tradição.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

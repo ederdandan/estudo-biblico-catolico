@@ -1,0 +1,57 @@
+{
+  "id": "1MA.2.49",
+  "livro": "1MA",
+  "titulo": "O testamento de Matatias",
+  "secao": "A perseguição e a revolta",
+  "referencia": "1Mc 2,49-70",
+  "ini": {
+    "c": 2,
+    "v": 49
+  },
+  "fim": {
+    "c": 2,
+    "v": 70
+  },
+  "liturgia": {
+    "tema_central": "Os que esperam em Deus não desfalecem: o testamento de Matatias",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Aproximando-se a morte, Matatias diz aos filhos: agora domina a soberba e a injúria; é tempo de ruína e de ira. Agora, filhos, sede zelosos da lei e dai a vida pela aliança dos vossos pais. Lembrai-vos das obras dos pais, e recebereis grande glória e nome eterno. E recorda: Abraão foi achado fiel na provação, e isso lhe foi contado como justiça; José guardou o mandamento na angústia e se tornou senhor do Egito; Fineias, pelo zelo, recebeu o sacerdócio eterno; Josué, cumprindo a palavra, tornou-se juiz em Israel; Caleb, dando testemunho, recebeu herança; Davi, pela sua bondade, herdou o trono para sempre; Elias, ardendo de zelo, foi arrebatado ao céu; Ananias, Azarias e Misael, crendo, foram salvos da chama; Daniel, pela sua simplicidade, foi livre da boca dos leões. “Considerai… de geração em geração: vereis que todos os que esperam em Deus não desfalecem.” Não temais as palavras do pecador, porque a sua glória vai para o esterco e os vermes; hoje se exalta, amanhã não se encontra. Sede fortes e corajosos pela lei. Simão é homem de conselho: escutai-o, será o vosso pai. Judas Macabeu, forte desde a juventude, será o chefe do exército. Matatias os abençoa e morre no ano cento e quarenta e seis; é sepultado em Modin, e todo Israel o chora.",
+    "alegorico": "A lista dos heróis da fé que Matatias recita é a fonte direta de Hb 11, a “nuvem de testemunhas” que nos rodeia (Hb 12,1). Cada um foi fiel numa prova diferente, e todos esperaram em Deus. A Igreja lê a sua própria história do mesmo modo: a memória dos santos é escola de perseverança.",
+    "moral": "Matatias não deixa aos filhos riquezas, mas a memória: lembrai-vos. A fé se alimenta da história do que Deus fez com os justos. E faz uma lúcida avaliação do poder do ímpio: hoje se exalta, amanhã desaparece. Distribui as tarefas segundo os dons de cada filho (conselho a Simão, comando a Judas): a missão é comum, os carismas são diferentes.",
+    "anagogico": "“Todos os que esperam em Deus não desfalecem”: é a síntese da esperança bíblica. Elias “arrebatado ao céu” aponta já para o destino final dos fiéis."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Sede zeladores da lei e dai as vossas vidas pela aliança.” “Lembrai-vos das obras que fizeram vossos maiores.” “Abraão… foi achado fiel na tentação.” “Davide, pela sua brandura, conseguiu para sempre o trono.” “Todos os que esperam em Deus não desfalecem.” “Hoje eleva-se, e amanhã desaparecerá.”",
+    "meditatio_perguntas": [
+      "Alimento a minha fé com a memória dos santos?",
+      "Que herança espiritual estou deixando aos que vêm depois?",
+      "Temo a glória passageira dos que se opõem a Deus?"
+    ],
+    "oratio_guia": "Senhor, que sustentaste Abraão, José, Davi, Elias e Daniel, sustenta-me também. Que eu me lembre das tuas obras e espere em ti, porque os que esperam em ti não desfalecem. Amém.",
+    "contemplatio_foco": {
+      "texto": "vereis que todos os que esperam em Deus não desfalecem",
+      "ref": "1Mc 2,61"
+    }
+  },
+  "ancoras": {
+    "2:57": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Pela sua brandura”: a Vulgata lê misericordia; o grego diz “pela sua piedade” (eleos).",
+        "origem": "ia"
+      }
+    },
+    "2:70": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O ano 146 da era selêucida corresponde a 166 a.C.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

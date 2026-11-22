@@ -1,0 +1,57 @@
+{
+  "id": "1MA.15.1",
+  "livro": "1MA",
+  "titulo": "Antíoco VII e Cendebeu",
+  "secao": "Simão",
+  "referencia": "1Mc 15,1-41",
+  "ini": {
+    "c": 15,
+    "v": 1
+  },
+  "fim": {
+    "c": 15,
+    "v": 41
+  },
+  "liturgia": {
+    "tema_central": "A herança de nossos pais: Antíoco VII e Cendebeu",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Antíoco, filho de Demétrio, envia das ilhas do mar cartas a Simão, sumo sacerdote e chefe dos judeus: confirmo-te as isenções dadas pelos reis antes de mim; “dou-te licença de cunhar moeda própria no teu país”; Jerusalém e o santuário sejam livres; as armas e as fortalezas sejam tuas; perdoo as dívidas ao tesouro real; quando eu recuperar o meu reino, te honrarei. No ano cento e setenta e quatro, Antíoco entra no reino dos seus pais; todas as tropas se unem a ele, e Trifão foge para Dora, junto ao mar. Antíoco o cerca com cento e vinte mil homens e oito mil cavaleiros, por terra e por mar. Numênio volta de Roma com cartas do cônsul Lúcio aos reis e povos: os judeus são nossos amigos e aliados; não lhes façais guerra; se homens corrompidos fugirem do seu país, entregai-os a Simão. Simão envia a Antíoco dois mil homens escolhidos, prata, ouro e armas; mas Antíoco os recusa, rompe os tratados e envia Atenóbio: ocupais Jope, Gazara e a cidadela de Jerusalém; entregai-as ou pagai mil talentos. Atenóbio vê a glória de Simão, o aparador de ouro e prata, e fica espantado. Simão responde: “Não nos apoderamos de terra alheia, nem retemos os bens de outrem, mas apenas a herança de nossos pais, que durante algum tempo foi injustamente possuída pelos nossos inimigos.” Por Jope e Gazara, que nos faziam mal, daremos cem talentos. Atenóbio volta irado. O rei, furioso, Trifão foge de barco; Antíoco nomeia Cendebeu comandante do litoral, que fortifica Cedron, invade a Judeia, faz prisioneiros e mata o povo.",
+    "alegorico": "A resposta de Simão, “não tomamos terra alheia, mas a herança de nossos pais”, foi lida espiritualmente: o cristão não busca o que é dos outros, mas a herança que lhe pertence por graça e que o inimigo lhe tinha roubado: a filiação divina, a pátria do céu (1Pd 1,4). A promessa de cunhar moeda, sinal de soberania, mostra a liberdade alcançada, mas sempre frágil diante dos reis.",
+    "moral": "Antíoco promete tudo enquanto precisa; uma vez forte, rompe os tratados. É a história repetida dos poderosos que usam a palavra como instrumento. Simão responde com firmeza e moderação: defende o direito do povo, mas propõe uma compensação razoável. A justiça não exige agressividade; exige verdade sobre o que é nosso e disposição para a paz.",
+    "anagogico": "A herança que o inimigo possuiu “durante algum tempo” é recuperada. Assim será com a herança do céu: o que o pecado roubou, Cristo devolve para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Dou-te licença de cunhar moeda própria.” “Rompeu todos os tratados que tinha feito.” “Não nos apoderámos de terra alheia, nem retemos os bens de outrem.” “Apenas a herança de nossos pais.” “Durante algum tempo foi injustamente possuída pelos nossos inimigos.”",
+    "meditatio_perguntas": [
+      "Sei defender com firmeza e moderação o que é justo?",
+      "Qual é a “herança dos pais” que preciso recuperar na minha vida de fé?",
+      "Confio em promessas feitas por necessidade?"
+    ],
+    "oratio_guia": "Senhor, que me deste uma herança incorruptível, devolve-me o que o inimigo me roubou. Dá-me firmeza para defender o que é justo e mansidão para buscar a paz. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não nos apoderámos de terra alheia, nem retemos os bens de outrem, mas apenas a herança de nossos pais",
+      "ref": "1Mc 15,33"
+    }
+  },
+  "ancoras": {
+    "15:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As moedas atribuídas a Simão são discutidas; as primeiras moedas asmoneias seguras são de João Hircano ou de Alexandre Janeu.",
+        "origem": "ia"
+      }
+    },
+    "15:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Antíoco VII Sidetes (138-129 a.C.), irmão de Demétrio II; Dora, porto ao sul do Carmelo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

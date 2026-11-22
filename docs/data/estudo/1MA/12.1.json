@@ -1,0 +1,57 @@
+{
+  "id": "1MA.12.1",
+  "livro": "1MA",
+  "titulo": "As cartas a Roma e a Esparta",
+  "secao": "Jônatas",
+  "referencia": "1Mc 12,1-23",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "Temos por consolação os santos livros: as cartas a Roma e a Esparta",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jônatas, vendo que o tempo lhe é favorável, envia homens a Roma para confirmar e renovar a amizade; e envia cartas semelhantes a Esparta e a outros lugares. Os embaixadores entram no senado: “Jônatas, sumo sacerdote, e o povo judeu enviaram-nos aqui a renovar convosco a amizade e a aliança”; os romanos lhes dão cartas para que os levem em paz. Esta é a carta de Jônatas aos espartanos: o sumo sacerdote, o conselho da nação, os sacerdotes e o povo dos judeus, aos espartanos, irmãos, saúde. Outrora Ario, vosso rei, escreveu ao sumo sacerdote Onias que sois nossos irmãos. Onias recebeu o mensageiro com honra. “Nós, posto que não necessitemos destas coisas, pois temos por consolação os santos livros, que estão entre nossas mãos”, quisemos renovar a fraternidade, para não sermos estranhos a vós. “Em todo o tempo sem interrupção, nos dias solenes e nos outros dias sagrados, nos lembramos de vós nos sacrifícios que oferecemos e nas nossas orações, pois é justo… lembrar os irmãos.” Alegramo-nos com a vossa glória. Muitas tribulações e guerras nos cercaram, mas não quisemos ser pesados a vós nem a outros aliados, “porque temos o socorro do céu, e fomos livres, e os nossos inimigos foram humilhados”. Segue a cópia da carta antiga de Ario a Onias: encontrou-se num escrito que espartanos e judeus são irmãos e descendem de Abraão; os vossos rebanhos e bens são nossos, e os nossos são vossos.",
+    "alegorico": "A carta afirma algo decisivo: a segurança de Israel não está nas alianças, mas nos “santos livros”. Os Padres viram aqui o valor das Escrituras como consolação da Igreja (Rm 15,4: “tudo o que foi escrito… para que, pela consolação das Escrituras, tenhamos esperança”). A lembrança dos irmãos distantes nas orações e sacrifícios prefigura a comunhão dos santos e a intercessão da liturgia.",
+    "moral": "Jônatas faz política, mas a carta revela onde está o seu coração: temos os livros santos e o socorro do céu. As alianças são úteis, não necessárias. E a carta ensina um belo costume: lembrar os irmãos nos dias de festa e nas orações. A fraternidade se mantém pela memória e pela intercessão, mesmo à distância e com o passar do tempo.",
+    "anagogico": "A fraternidade “dos descendentes de Abraão” anuncia a grande família dos que, pela fé, são filhos de Abraão de todas as nações (Gl 3,7), reunidos para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Renovar convosco a amizade e a aliança.” “Temos por consolação os santos livros, que estão entre nossas mãos.” “Nos lembramos de vós nos sacrifícios que oferecemos e nas nossas orações.” “É justo e razoável lembrar os irmãos.” “Temos o socorro do céu.” “Descendem de Abraão.”",
+    "meditatio_perguntas": [
+      "A Escritura é a minha consolação?",
+      "Lembro dos irmãos distantes nas minhas orações?",
+      "Em que ponho a minha segurança: nos apoios humanos ou no socorro do céu?"
+    ],
+    "oratio_guia": "Senhor, que nos deste os teus santos livros como consolação, faz-me encontrar neles a força nas tribulações. Ensina-me a lembrar dos irmãos nas minhas orações e a confiar no socorro do céu. Amém.",
+    "contemplatio_foco": {
+      "texto": "Nós, posto que não necessitemos destas coisas, pois temos por consolação os santos livros, que estão entre nossas mãos",
+      "ref": "1Mc 12,9"
+    }
+  },
+  "ancoras": {
+    "12:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ario I de Esparta (309-265 a.C.) foi contemporâneo do sumo sacerdote Onias I; a lenda de um parentesco entre espartanos e judeus circulava no mundo helenístico.",
+        "origem": "ia"
+      }
+    },
+    "12:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Uma das mais antigas referências a um conjunto de “livros santos” reconhecidos como Escritura.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "1MA.9.1",
+  "livro": "1MA",
+  "titulo": "A morte de Judas",
+  "secao": "Judas Macabeu",
+  "referencia": "1Mc 9,1-22",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Como caiu este herói, salvador de Israel: a morte de Judas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Demétrio, ao saber da morte de Nicanor, envia de novo Báquides e Alcimo com a ala direita do exército. Marcham por Gálgala, tomam Masalot em Arbela, matam muitos; no primeiro mês do ano cento e cinquenta e dois, acampam diante de Jerusalém e seguem para Bereia com vinte mil infantes e dois mil cavaleiros. Judas está acampado em Laisa com três mil homens escolhidos. Ao ver o tamanho do exército inimigo, têm muito medo; muitos desertam, e restam apenas oitocentos. Judas vê o exército disperso e a batalha iminente; “ficou desanimado… e sentiu-se desfalecer”. Mas diz aos que ficaram: “De pé! Marchemos contra os nossos inimigos.” Eles tentam dissuadi-lo: salvemos agora as nossas vidas e voltemos depois com os irmãos. Judas responde: “Longe de mim tal coisa, fugir à vista deles! Se é chegada a nossa hora, morramos valorosamente por nossos irmãos, e não manchemos a nossa glória.” A batalha dura da manhã à tarde; a terra treme com o fragor dos exércitos. Judas lança-se com os mais valentes contra a ala direita, onde está Báquides, e a desbarata até o monte de Azoto; mas a ala esquerda o cerca por trás. A peleja se torna mais dura; muitos caem de ambos os lados. “Também Judas caiu morto, e os outros fugiram.” Jônatas e Simão levam o corpo do irmão e o sepultam no túmulo dos pais em Modin. Todo Israel o chora por muitos dias: “Como caiu este herói, salvador do povo de Israel!” As outras guerras de Judas e as suas proezas não foram escritas, porque eram numerosíssimas.",
+    "alegorico": "O lamento “como caiu o herói” retoma o de Davi por Saul e Jônatas (2Sm 1,19). Judas, que morre com oitocentos homens fiéis depois de ser abandonado por muitos, é figura de Cristo, abandonado pelos discípulos, que vai à morte “por seus irmãos”. A última frase, “as suas façanhas não foram escritas por serem numerosas”, ecoa o final do Evangelho de João (Jo 21,25).",
+    "moral": "O maior herói também sente o desânimo: “sentiu-se desfalecer”. A coragem não é ausência de medo, mas a decisão de não trair. Judas não confunde prudência com fuga: há momentos em que recuar seria manchar a própria honra e abandonar os irmãos. Morrer fiel não é derrota. A morte de Judas mostra que Deus não garante a vitória militar aos justos, mas a fidelidade.",
+    "anagogico": "“Se é chegada a nossa hora”: Judas aceita a sua hora como Cristo aceitará a dele. A morte dos fiéis é a passagem para a glória que não se mancha."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Muitos desertaram do acampamento.” “Ficou desanimado… e sentiu-se desfalecer.” “De pé! Marchemos contra os nossos inimigos.” “Se é chegada a nossa hora, morramos valorosamente por nossos irmãos.” “Também Judas caiu morto.” “Como caiu este herói, salvador do povo de Israel!”",
+    "meditatio_perguntas": [
+      "Quando me sinto desfalecer, desisto ou me levanto?",
+      "Sei distinguir a prudência da fuga covarde?",
+      "Creio que a fidelidade vale mais que o sucesso?"
+    ],
+    "oratio_guia": "Senhor, quando me sentir desfalecer e os outros se afastarem, dá-me a coragem de Judas para não trair. Se chegar a minha hora, que eu a acolha fiel, como teu Filho acolheu a dele, por amor dos irmãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Se é chegada a nossa hora, morramos valorosamente por nossos irmãos, e não manchemos a nossa glória com esta nódoa",
+      "ref": "1Mc 9,10"
+    }
+  },
+  "ancoras": {
+    "9:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O ano 152 corresponde a 160 a.C.; Judas morreu na primavera, cerca de seis anos depois do início da revolta.",
+        "origem": "ia"
+      }
+    },
+    "9:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Laisa (Elasa), perto de Bet-Horon; Bereia é talvez Beerot, ao norte de Jerusalém.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

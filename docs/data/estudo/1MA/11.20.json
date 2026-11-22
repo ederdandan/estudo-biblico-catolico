@@ -1,0 +1,57 @@
+{
+  "id": "1MA.11.20",
+  "livro": "1MA",
+  "titulo": "Jônatas, Demétrio II e o jovem Antíoco",
+  "secao": "Jônatas",
+  "referencia": "1Mc 11,20-74",
+  "ini": {
+    "c": 11,
+    "v": 20
+  },
+  "fim": {
+    "c": 11,
+    "v": 74
+  },
+  "liturgia": {
+    "tema_central": "Rasgou as vestes e orou: Jônatas entre Demétrio II e o jovem Antíoco",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jônatas reúne os da Judeia para atacar a cidadela de Jerusalém. Homens iníquos o denunciam a Demétrio, que se irrita e o manda chamar a Ptolemaida. Jônatas ordena que o cerco continue e vai ao rei com anciãos e sacerdotes, levando ouro, prata e vestes; conquista o seu favor. O rei o confirma no sumo sacerdócio e, a seu pedido, isenta de tributos a Judeia e os três distritos de Efraim, Lida e Ramataim. Demétrio, vendo a terra em paz, despede o exército; os soldados murmuram. Trifão, antigo partidário de Alexandre, vai buscar o pequeno Antíoco, filho de Alexandre, para fazê-lo rei. Jônatas pede a Demétrio que retire as guarnições da cidadela; o rei promete e pede socorro, pois o exército o abandonou. Jônatas envia três mil homens a Antioquia; os habitantes se revoltam, e os judeus salvam o rei e incendeiam a cidade. Mas Demétrio “faltou a tudo o que tinha prometido” e se afasta de Jônatas. Trifão volta com o jovem Antíoco, que é coroado; o exército despedido derrota Demétrio. Antíoco confirma Jônatas sumo sacerdote e nomeia Simão governador da costa. Jônatas percorre as terras além do rio, toma Gaza e Bet-Sur. Junto ao lago de Genesaré, na planície de Asor, cai numa emboscada: todos os seus fogem, menos dois chefes. “Então Jônatas rasgou as suas vestes, pôs terra sobre a sua cabeça e orou.” Volta ao combate e põe os inimigos em fuga; os que tinham fugido voltam a juntar-se a ele, e perseguem os estrangeiros até Cades. Morrem três mil inimigos, e Jônatas volta a Jerusalém.",
+    "alegorico": "A cena junto ao lago de Genesaré, onde os seguidores fogem e o chefe fica quase só, é, para uma leitura espiritual, uma antecipação do mesmo lago onde os discípulos de Jesus terão medo na tempestade e serão reconduzidos à fé. Jônatas, abandonado, reza e volta ao combate, e os que fugiram voltam a segui-lo: assim os apóstolos dispersos voltarão a reunir-se em torno do Ressuscitado.",
+    "moral": "Jônatas vive entre reis volúveis, que prometem e não cumprem. O texto mostra a ingratidão dos poderosos: Demétrio, salvo pelos judeus, esquece tudo. A lição é não depender do favor dos grandes. E diante da fuga dos seus, Jônatas não se desespera: humilha-se, reza, e volta. O exemplo do chefe que persevera faz os que fugiram voltarem.",
+    "anagogico": "O chefe que reza e volta à luta e os que retornam a ele são imagem da Igreja que, depois das fugas, se reúne de novo em torno do seu Senhor vitorioso."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ordenou que se continuasse o cerco.” “Faltou a tudo o que tinha prometido.” “Todos os que eram da parte de Jónatas fugiram.” “Rasgou as suas vestes, pôs terra sobre a sua cabeça e orou.” “Voltou Jónatas para os combater.” “Tornaram logo a juntar-se a ele.”",
+    "meditatio_perguntas": [
+      "Dependo demais do favor de quem pode mudar de ideia?",
+      "Quando todos me abandonam, a minha primeira reação é rezar?",
+      "O meu exemplo ajuda os que fugiram a voltar?"
+    ],
+    "oratio_guia": "Senhor, quando os que estão comigo fugirem e as promessas dos homens falharem, ensina-me a rasgar o coração e rezar. Dá-me voltar ao bom combate, para que os que fugiram também voltem a ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Então Jónatas rasgou as suas vestes, pôs terra sobre a sua cabeça e orou",
+      "ref": "1Mc 11,71"
+    }
+  },
+  "ancoras": {
+    "11:34": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Efraim, Lida e Ramataim eram distritos da Samaria anexados à Judeia; a anexação marca o início da expansão territorial asmoneia.",
+        "origem": "ia"
+      }
+    },
+    "11:39": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Trifão (Diódoto), general sírio que governará por si mesmo de 142 a 138 a.C.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

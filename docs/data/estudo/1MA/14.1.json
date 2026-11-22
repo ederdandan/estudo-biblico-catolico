@@ -1,0 +1,57 @@
+{
+  "id": "1MA.14.1",
+  "livro": "1MA",
+  "titulo": "O elogio de Simão: cada um sob a sua videira",
+  "secao": "Simão",
+  "referencia": "1Mc 14,1-15",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "Cada um debaixo da sua parreira e da sua figueira: o elogio de Simão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No ano cento e setenta e dois, Demétrio vai à Média buscar reforços contra Trifão; Arsaces, rei da Pérsia e da Média, o captura e o põe na prisão. “Todo o país de Judá esteve sossegado durante todos os dias de Simão.” Segue um poema em seu louvor: buscou o bem do seu povo, e o seu poder e glória agradaram aos judeus enquanto viveu. Tomou Jope como porto para as ilhas do mar, alargou as fronteiras, tomou Gazara, Betsur e a cidadela, e purificou-a das impurezas; ninguém lhe resistia. “Cada um cultivava a sua terra em paz; a terra produzia as suas novidades, e as árvores do campo os seus frutos.” Os anciãos sentavam-se nas praças, falando todos da prosperidade, e os jovens vestiam como roupa de honra os trajes de guerra. Abasteceu as cidades e as fortificou, e a fama da sua glória chegou aos confins da terra. “Firmou a paz na sua nação, e Israel regozijou-se com grande alegria. Cada um estava sentado debaixo da sua parreira e da sua figueira, e não havia quem lhes fizesse o menor medo.” Não havia na terra quem os atacasse; os reis foram vencidos naqueles dias. “Protegeu todos os humildes do seu povo, mostrou zelo pela observância da lei e exterminou todos os ímpios e maus. Restabeleceu a glória do santuário e multiplicou os vasos sagrados.”",
+    "alegorico": "O poema retoma as imagens messiânicas dos profetas: “cada um debaixo da sua videira e da sua figueira, sem que ninguém os amedronte” (Mq 4,4; Zc 3,10), os anciãos nas praças (Zc 8,4). O reinado de Simão é como um ensaio do tempo messiânico, mas ainda não é ele. A paz plena virá com o Príncipe da Paz, que Natanael encontrará “debaixo da figueira” (Jo 1,48).",
+    "moral": "Este é o retrato do bom governante segundo a Bíblia: busca o bem do povo, dá segurança e prosperidade, protege os humildes, zela pela lei e restabelece o culto. A paz não é só ausência de guerra, mas a vida cotidiana em segurança: cultivar a terra, conversar nas praças, sentar-se à sombra. Todo poder deveria ser medido por estes frutos, sobretudo pelo cuidado dos humildes.",
+    "anagogico": "A paz de Simão, que passa, é figura da paz eterna do Reino, onde cada um estará seguro diante de Deus e não haverá mais quem cause medo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Todo o país de Judá esteve sossegado durante todos os dias de Simão.” “Procurou fazer bem ao seu povo.” “Cada um cultivava a sua terra em paz.” “Os velhos estavam assentados pelas praças.” “Cada um estava sentado debaixo da sua parreira e da sua figueira.” “Protegeu todos os humildes do seu povo.”",
+    "meditatio_perguntas": [
+      "Em minha casa e comunidade, sou construtor de paz?",
+      "Protejo os humildes que estão ao meu cuidado?",
+      "Que “videira e figueira” Deus me deu para descansar em paz e gratidão?"
+    ],
+    "oratio_guia": "Senhor, Príncipe da Paz, dá paz aos nossos dias. Faz-nos viver sem medo, cada um sob a sua videira, e ensina os que governam a proteger os humildes e a zelar pela tua lei. Amém.",
+    "contemplatio_foco": {
+      "texto": "Cada um estava sentado debaixo da sua parreira e da sua figueira, e não havia quem lhes fizesse o menor medo",
+      "ref": "1Mc 14,12"
+    }
+  },
+  "ancoras": {
+    "14:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Arsaces VI (Mitrídates I), rei dos partos, capturou Demétrio II em 139/138 a.C.; o rei sírio permaneceu dez anos prisioneiro.",
+        "origem": "ia"
+      }
+    },
+    "14:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jope (Jafa) deu aos judeus o primeiro porto de mar próprio, fonte de comércio e riqueza.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "1MA.6.18",
+  "livro": "1MA",
+  "titulo": "Betzacara: Eleazar e o elefante; a paz com Lísias",
+  "secao": "Judas Macabeu",
+  "referencia": "1Mc 6,18-63",
+  "ini": {
+    "c": 6,
+    "v": 18
+  },
+  "fim": {
+    "c": 6,
+    "v": 63
+  },
+  "liturgia": {
+    "tema_central": "Sacrificou a vida para livrar o seu povo: Eleazar e o elefante; a paz de Lísias",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os da cidadela cercam Israel em volta do santuário e apoiam os gentios. Judas decide destruí-los e, no ano cento e cinquenta, cerca-os com máquinas. Alguns escapam e, com israelitas ímpios, vão ao rei: até quando adias fazer-nos justiça? Servimos o teu pai e por isso o nosso povo nos odeia. O rei se irrita e reúne cem mil infantes, vinte mil cavaleiros e trinta e dois elefantes treinados. Sitiam Betsur. Judas se aproxima em Betzacara, diante do acampamento real. Aos elefantes mostram suco de uva e de amora para excitá-los; em volta de cada um, mil homens com couraça e capacete de bronze e quinhentos cavaleiros; sobre cada elefante, uma torre de madeira com guerreiros. “Quando o sol brilhou sobre os escudos de ouro e de bronze… resplandeceram os montes, como fachos de fogo.” Seiscentos do exército real caem. Então “Eleazar, por sobrenome Abaran, viu um dos elefantes todo coberto de couraças reais, mais alto que todos os outros”; pensando que nele estivesse o rei, “sacrificou a sua vida para livrar o seu povo e adquirir um nome imortal”: corre ao meio da falange, mata à direita e à esquerda, mete-se sob o elefante, fere-o, e o animal cai sobre ele, e Eleazar morre ali. Os judeus, vendo a força do rei, retiram-se. O rei toma Betsur, que não tem víveres por causa do ano sabático, e cerca o santuário por muitos dias; os defensores, famintos, dispersam-se. Mas Lísias sabe que Filipe voltou da Pérsia para tomar o governo e diz: estamos nos consumindo; façamos paz com eles; “permitamos-lhes que vivam segundo as suas leis, como dantes, porque, por causa das suas leis, que abolimos, é que eles se irritaram”. Fazem a paz com juramento; mas o rei, ao subir ao monte Sião, quebra o juramento e derruba o muro. Depois volta a Antioquia e vence Filipe.",
+    "alegorico": "Eleazar, que entrega a vida sob o elefante para salvar o povo, é figura de Cristo que morre para que o povo viva (Jo 11,50). Santo Ambrósio (De officiis I,40) celebra o seu gesto como exemplo de fortaleza: desprezou a morte, cercado de inimigos, e foi sepultado no seu próprio triunfo.",
+    "moral": "A guerra mostra que a força não basta: Judas recua diante da superioridade do rei. Mas a vitória não vem das armas: a liberdade religiosa é concedida por causa de uma crise política do inimigo. Lísias reconhece a verdade: o povo se levantou porque lhe tiraram as suas leis. A perseguição religiosa produz resistência. O juramento quebrado do rei mostra a fragilidade da palavra dos poderosos.",
+    "anagogico": "O “nome imortal” que Eleazar buscou é dado por Deus aos que dão a vida pelos irmãos. A liberdade de viver segundo a lei de Deus será plena no Reino."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Resplandeceram os montes, resplandeceram como fachos de fogo.” “Sacrificou a sua vida para livrar o seu povo e adquirir um nome imortal.” “Meteu-se debaixo dele e matou-o.” “Permitamos-lhes que vivam segundo as suas leis.” “Quebrou o juramento que tinha feito.”",
+    "meditatio_perguntas": [
+      "Estou disposto a dar algo de mim pela salvação dos outros?",
+      "Reconheço que Deus pode agir até por meio das crises dos adversários?",
+      "Confio mais na palavra dos poderosos ou na de Deus?"
+    ],
+    "oratio_guia": "Senhor, que deste a vida por nós, dá-me a fortaleza de Eleazar para me entregar pelos irmãos. Guarda a liberdade do teu povo de viver segundo a tua lei, e que eu nunca quebre a palavra dada. Amém.",
+    "contemplatio_foco": {
+      "texto": "sacrificou a sua vida para livrar o seu povo e adquirir um nome imortal",
+      "ref": "1Mc 6,44"
+    }
+  },
+  "ancoras": {
+    "6:34": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os elefantes de guerra, introduzidos no Ocidente após Alexandre, eram a força de choque dos selêucidas; o tratado de Apameia (188 a.C.) os proibia, mas Antíoco V não o respeitou.",
+        "origem": "ia"
+      }
+    },
+    "6:49": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O ano sabático (Lv 25,1-7) proibia semear; por isso faltavam víveres em Betsur e Jerusalém.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

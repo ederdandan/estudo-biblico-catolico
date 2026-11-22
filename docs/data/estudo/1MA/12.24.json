@@ -1,0 +1,57 @@
+{
+  "id": "1MA.12.24",
+  "livro": "1MA",
+  "titulo": "A traição de Trifão e a prisão de Jônatas",
+  "secao": "Jônatas",
+  "referencia": "1Mc 12,24-54",
+  "ini": {
+    "c": 12,
+    "v": 24
+  },
+  "fim": {
+    "c": 12,
+    "v": 54
+  },
+  "liturgia": {
+    "tema_central": "Jônatas acreditou nele: a traição de Trifão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os generais de Demétrio voltam com um exército maior. Jônatas vai ao seu encontro no país de Hamat, para não lhes dar tempo de entrar na Judeia. Os espiões descobrem que o inimigo quer atacar de noite; Jônatas manda que todos vigiem armados a noite inteira. Os inimigos, sabendo disso, têm medo, acendem fogueiras no acampamento e fogem; Jônatas não percebe até a manhã, por causa das fogueiras, e não os alcança. Vence os árabes zabadeus e vai a Damasco; Simão toma Jope. Jônatas, de volta, delibera com os anciãos levantar fortalezas na Judeia, elevar os muros de Jerusalém e construir um muro alto entre a cidadela e a cidade, para isolar a cidadela. Trifão quer fazer-se rei da Ásia e eliminar o jovem Antíoco, e teme Jônatas. Jônatas vai a Betsã com quarenta mil homens. Trifão, com medo, recebe-o com honras e presentes e lhe diz: “Por que fatigaste inutilmente todo este povo, quando nós não temos guerra um com outro?” Despede-os; vem comigo a Ptolemaida, que te entregarei. “Jônatas acreditou nele e fez o que lhe disse”: despede as tropas e fica só com mil homens. Mal entra em Ptolemaida, as portas se fecham; prendem-no e matam todos os que o acompanham. Trifão envia tropas à Galileia para matar os companheiros de Jônatas; estes, julgando-o morto, animam-se mutuamente e marcham em ordem de batalha; os perseguidores, vendo-os decididos, recuam. Voltam todos em paz para Judá, choram Jônatas, e todo Israel faz grande luto. E as nações vizinhas dizem: “Não têm chefe nem quem os auxilie; ataquemo-los, e apaguemos a sua memória entre os homens.”",
+    "alegorico": "Jônatas, que confia e é traído por quem o recebe com honras e presentes, recorda Davi traído por Joab e prefigura o beijo de Judas: a traição vem com sinais de amizade. A frase dos inimigos, “não têm chefe”, é a mesma tentação de toda época: atacar a Igreja quando parece sem pastor. Mas Deus suscita sempre quem guie o seu povo.",
+    "moral": "Jônatas, tão prudente com os reis, cai na armadilha das lisonjas. Os seus sucessos o tornaram confiado. A vigilância de uma noite (as fogueiras, a guarda armada) contrasta com a credulidade diante de Trifão. A lição é que o perigo maior não vem dos inimigos declarados, mas dos que oferecem honras. E os companheiros, mesmo julgando o chefe morto, não se dispersam: animam-se uns aos outros.",
+    "anagogico": "“Apaguemos a sua memória”: o mundo sempre deseja apagar a memória do povo de Deus, mas Deus a guarda. Os que pertencem a ele não serão esquecidos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Mandou… que vigiassem e estivessem toda a noite sobre as armas.” “Por que fatigaste inutilmente todo este povo?” “Jónatas acreditou nele e fez o que lhe disse.” “Uns aos outros se animaram.” “Não têm chefe nem quem os auxilie.” “Apaguemos a sua memória entre os homens.”",
+    "meditatio_perguntas": [
+      "Fico vigilante diante das lisonjas, ou só diante dos ataques abertos?",
+      "Os sucessos me tornam confiado demais?",
+      "Ajudo os irmãos a se animarem uns aos outros nos momentos de perda?"
+    ],
+    "oratio_guia": "Senhor, guarda-me da credulidade diante das lisonjas e dá-me a vigilância que não dorme. Quando o teu povo parecer sem chefe, faz-nos animar-nos uns aos outros e não permitas que a tua memória se apague entre os homens. Amém.",
+    "contemplatio_foco": {
+      "texto": "Jónatas acreditou nele e fez o que lhe disse",
+      "ref": "1Mc 12,46"
+    }
+  },
+  "ancoras": {
+    "12:36": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O muro que isolava a Acra a separava do mercado; a medida levará à rendição da cidadela por fome (13,49).",
+        "origem": "ia"
+      }
+    },
+    "12:48": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ptolemaida (Acre/Akko), porto da costa fenícia; a prisão de Jônatas ocorreu em 143 a.C.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

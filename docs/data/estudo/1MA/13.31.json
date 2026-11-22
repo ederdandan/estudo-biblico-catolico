@@ -1,0 +1,57 @@
+{
+  "id": "1MA.13.31",
+  "livro": "1MA",
+  "titulo": "Simão liberta a cidadela de Jerusalém",
+  "secao": "Simão",
+  "referencia": "1Mc 13,31-54",
+  "ini": {
+    "c": 13,
+    "v": 31
+  },
+  "fim": {
+    "c": 13,
+    "v": 54
+  },
+  "liturgia": {
+    "tema_central": "Foi tirado o jugo dos gentios: Simão liberta a cidadela",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Trifão mata à traição o jovem rei Antíoco e reina em seu lugar, cingindo o diadema da Ásia e causando grandes males. Simão fortifica as praças da Judeia com torres, muros, portas e víveres, e envia uma embaixada a Demétrio pedindo isenção de impostos. Demétrio responde: “O rei Demétrio, a Simão, sumo sacerdote e amigo dos reis”: recebemos a coroa de ouro e a palma; faremos uma paz sólida; as fortalezas que edificastes sejam vossas; perdoamos as faltas e os tributos. “Com isto, no ano cento e setenta, foi tirado o jugo dos gentios a Israel.” O povo começa a escrever nos contratos: “No primeiro ano de Simão, sumo pontífice, general e chefe dos judeus.” Simão sitia Gaza (Gazara), entra com uma máquina de guerra na cidade; os habitantes sobem às muralhas, com as mulheres e os filhos, de vestes rasgadas, e suplicam: “Não nos trates segundo a nossa maldade, mas segundo a tua clemência.” Simão, movido de piedade, para de combater; expulsa-os, purifica as casas dos ídolos e entra cantando hinos e bendizendo a Deus; põe ali homens que observam a lei e faz dela a sua residência. Os da cidadela de Jerusalém, impedidos de comprar e vender, sofrem fome e muitos morrem; clamam a Simão pedindo a paz, e ele a concede; expulsa-os e purifica a fortaleza. Entra nela no dia vinte e três do segundo mês do ano cento e setenta e um, “entoando louvores, levando ramos de palmas, ao toque de harpas, de címbalos e de liras, com hinos e cânticos”, porque um grande inimigo fora expulso de Israel. Ordena que o dia seja celebrado todos os anos com alegria. Fortifica o monte do templo e põe João, seu filho, à frente das tropas.",
+    "alegorico": "A entrada de Simão na cidadela com palmas e cânticos foi aproximada da entrada de Jesus em Jerusalém com ramos (Jo 12,13). Mas o verdadeiro inimigo que Cristo expulsa não é uma guarnição estrangeira, e sim o “príncipe deste mundo” (Jo 12,31). A súplica dos de Gazara, “não segundo a nossa maldade, mas segundo a tua clemência”, é a oração de todo pecador diante de Deus (Sl 103(102),10).",
+    "moral": "A libertação de Israel vem pela perseverança paciente: a cidadela, que resistiu por vinte e cinco anos, cai por fome e por um muro de isolamento. Simão sabe usar a clemência: para de combater diante da súplica. E a vitória termina sempre em purificação e louvor: tirar os ídolos, entrar cantando. A liberdade conquistada é para servir a Deus.",
+    "anagogico": "“Foi tirado o jugo dos gentios”: a libertação plena virá quando todo jugo for quebrado e o povo de Deus entrar com palmas na Jerusalém celeste (Ap 7,9)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Foi tirado o jugo dos gentios a Israel.” “No primeiro ano de Simão, sumo pontífice.” “Não nos trates segundo a nossa maldade, mas segundo a tua clemência.” “Movido Simão de piedade.” “Purificou as casas em que havia ídolos.” “Entoando louvores, levando ramos de palmas.”",
+    "meditatio_perguntas": [
+      "Rezo a Deus: não segundo a minha maldade, mas segundo a tua clemência?",
+      "Sei usar de clemência para com quem me suplica?",
+      "Que “cidadela” inimiga ainda resiste em mim, e precisa ser vencida com paciência?"
+    ],
+    "oratio_guia": "Senhor, não me trates segundo a minha maldade, mas segundo a tua clemência. Tira de mim o jugo do inimigo, purifica a minha casa dos ídolos e faz-me entrar com palmas e cânticos na tua cidade. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não nos trates segundo a nossa maldade, mas segundo a tua clemência",
+      "ref": "1Mc 13,46"
+    }
+  },
+  "ancoras": {
+    "13:41": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O ano 170 corresponde a 142 a.C., data considerada pelos judeus como início da independência asmoneia.",
+        "origem": "ia"
+      }
+    },
+    "13:51": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Junho de 141 a.C.; a Acra, símbolo da dominação síria desde 167, foi finalmente evacuada.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

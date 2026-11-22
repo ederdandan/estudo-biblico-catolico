@@ -1,0 +1,57 @@
+{
+  "id": "1MA.16.1",
+  "livro": "1MA",
+  "titulo": "A vitória dos filhos de Simão e o assassinato de Simão",
+  "secao": "Simão",
+  "referencia": "1Mc 16,1-24",
+  "ini": {
+    "c": 16,
+    "v": 1
+  },
+  "fim": {
+    "c": 16,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "O socorro do céu seja convosco: a vitória de João e a morte de Simão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "João vem de Gazara e conta ao pai o que Cendebeu está fazendo. Simão chama os dois filhos mais velhos, Judas e João, e diz: eu, os meus irmãos e a casa de meu pai combatemos os inimigos de Israel desde a juventude até hoje, e muitas vezes libertamos Israel. “Agora, porém, estou velho, mas vós, graças a Deus, já tendes a idade necessária: tomai o meu lugar e o de meu irmão, e ide pelejar pelo nosso povo. O socorro do céu seja convosco.” João escolhe vinte mil homens e cavaleiros, pernoita em Modin e, de manhã, encontra o exército de Cendebeu além de uma torrente. Vendo que os seus têm medo de atravessar, passa primeiro, e todos o seguem. Tocam as trombetas sagradas, e Cendebeu é derrotado; Judas é ferido; João persegue os inimigos até Cedron e queima as torres de Azoto; caem dois mil, e João volta em paz. Ptolomeu, filho de Abobo, governador de Jericó, rico porque era genro do sumo sacerdote, enche-se de soberba e quer apoderar-se do país; trama matar Simão e os filhos. No ano cento e setenta e sete, no mês de Sabat, Simão, que percorre as cidades da Judeia cuidando do seu bem, desce a Jericó com os filhos Matatias e Judas. Ptolomeu os recebe com perfídia na pequena fortaleza de Doc e lhes oferece um grande banquete, com homens escondidos. “Quando Simão e seus filhos tinham bebido bem”, Ptolomeu e os seus se levantam e os matam na sala do banquete, com alguns servos. “Deste modo cometeu Ptolomeu em Israel uma grande perfídia e tornou mal por bem.” Envia homens para matar João em Gazara e tomar Jerusalém; mas alguém avisa João, que prende e mata os que vinham para matá-lo. O resto dos feitos de João, das suas guerras e da reconstrução dos muros, “tudo está escrito no livro dos anais do seu pontificado”.",
+    "alegorico": "Simão, morto à traição durante um banquete por um parente, recorda os grandes traídos da Escritura e prefigura a traição de Judas na Ceia (Jo 13,18: “o que come o meu pão levantou contra mim o calcanhar”). João, que atravessa primeiro a torrente para que os outros o sigam, é imagem de Cristo, que atravessa primeiro as águas da morte e abre o caminho aos seus.",
+    "moral": "A última palavra de Simão aos filhos é uma bênção: “o socorro do céu seja convosco”. A transmissão da missão entre gerações é sinal de fecundidade. Mas o livro termina com a sombra da ambição: o genro rico, cheio de soberba, mata o sogro à mesa. O inimigo mais perigoso, no fim, não foi o estrangeiro, mas a ganância dentro da própria família. Nenhuma vitória externa protege contra o pecado interior.",
+    "anagogico": "Todos os irmãos Macabeus morreram de modo violento, mas a obra continua. A esperança da ressurreição, que 2 Macabeus proclamará, dá sentido a essas mortes: os que deram a vida pela lei de Deus vivem nele."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Desde a nossa mocidade até ao dia de hoje.” “Agora, porém, estou velho.” “Tomai o meu lugar… e ide pelejar pelo nosso povo. O socorro do céu seja convosco.” “Passou-a ele primeiro.” “O seu coração encheu-se de soberba.” “Tornou mal por bem.”",
+    "meditatio_perguntas": [
+      "Que missão estou transmitindo às gerações seguintes?",
+      "Atravesso primeiro as “torrentes” para que outros me sigam?",
+      "Vigio a ambição e a soberba que podem nascer dentro de casa?"
+    ],
+    "oratio_guia": "Senhor, que eu possa dizer aos que vêm depois de mim: o socorro do céu seja convosco. Guarda-me da soberba que trai e faz mal por bem, e dá-me atravessar primeiro, por amor, as águas difíceis. Amém.",
+    "contemplatio_foco": {
+      "texto": "tomai o meu lugar e o de meu irmão, e ide pelejar pelo nosso povo. O socorro do céu seja convosco",
+      "ref": "1Mc 16,3"
+    }
+  },
+  "ancoras": {
+    "16:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Fevereiro de 134 a.C.; Simão foi o último dos cinco filhos de Matatias.",
+        "origem": "ia"
+      }
+    },
+    "16:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "João Hircano I (134-104 a.C.) ampliou muito o território judaico; a menção aos “anais” sugere que 1 Macabeus foi escrito no seu tempo ou pouco depois.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

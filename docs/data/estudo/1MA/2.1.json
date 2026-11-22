@@ -1,0 +1,57 @@
+{
+  "id": "1MA.2.1",
+  "livro": "1MA",
+  "titulo": "O zelo de Matatias em Modin",
+  "secao": "A perseguição e a revolta",
+  "referencia": "1Mc 2,1-28",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "Todo o que tem zelo pela lei, siga-me: Matatias em Modin",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Naqueles dias, Matatias, sacerdote da família de Joarib, sai de Jerusalém e vai morar em Modin. Tem cinco filhos: João, Simão, Judas chamado Macabeu, Eleazar e Jônatas. Vendo as blasfêmias em Judá e Jerusalém, lamenta: “Infeliz de mim! para que nasci eu para ver a ruína do meu povo e a destruição da cidade santa?” O santuário está nas mãos de estrangeiros, o templo é como homem infame, os seus filhos mortos nas ruas; o que era livre tornou-se escravo; “de que nos serve ainda viver?” Ele e os filhos rasgam as vestes, vestem saco e choram. Chegam a Modin os enviados do rei para obrigar a sacrificar. Dizem a Matatias: és um chefe respeitado; sê o primeiro a obedecer, e serás amigo do rei, cheio de ouro e de prata. Matatias responde em voz alta: ainda que todas as nações obedeçam ao rei, “eu, meus filhos e meus irmãos seremos fiéis à Aliança dos nossos pais. Deus nos livre de abandonar a lei!” Não nos desviaremos nem para a direita nem para a esquerda. Mal acaba de falar, um judeu se aproxima à vista de todos para sacrificar no altar de Modin. Matatias, abrasado de zelo, como Fineias, mata-o sobre o altar, mata também o oficial do rei e derruba o altar. E grita pela cidade: “Todo o que tem zelo pela lei e quer permanecer firme na aliança, siga-me.” E foge com os filhos para os montes, deixando tudo.",
+    "alegorico": "O grito “quem é pela lei, siga-me” ecoa o de Moisés (“quem é do Senhor, venha a mim”, Ex 32,26) e prefigura o chamado de Cristo: “se alguém quer vir após mim, renuncie a si mesmo” (Mt 16,24). A fuga para os montes, deixando tudo, é o gesto dos que seguem o Senhor (Mt 24,16). O zelo de Matatias, porém, ainda usa a espada; o zelo de Cristo se mostrará na entrega de si.",
+    "moral": "Matatias começa pelo luto e pela oração: a resistência nasce da dor pelo que é santo. A oferta de ouro e de amizade do rei é a tentação dos “notáveis”, que têm mais a perder. A sua resposta é firme e pessoal: “eu e os meus” seremos fiéis, ainda que todos cedam. A fidelidade não depende da maioria. O gesto violento pertence ao seu tempo; a lição permanente é a coragem de não se desviar.",
+    "anagogico": "Os que deixam tudo para permanecer firmes na aliança recebem a herança que não se perde. O chamado “siga-me” culmina no convite de Cristo à vida eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Infeliz de mim! Para que nasci eu para ver a ruína do meu povo?” “De que nos serve pois o viver ainda?” “Tu és um notável, poderoso, respeitado.” “Eu, meus filhos e meus irmãos seremos fiéis à Aliança dos nossos pais.” “Não nos desviaremos… nem para a direita, nem para a esquerda.” “Todo o que tem zelo pela lei… siga-me.”",
+    "meditatio_perguntas": [
+      "A minha fidelidade depende do que a maioria faz?",
+      "Que “ouro e amizades” me oferecem para eu ceder?",
+      "Sinto dor pelo que é profanado ao meu redor?"
+    ],
+    "oratio_guia": "Senhor, ainda que todos se afastem, eu e a minha casa seremos fiéis à tua aliança. Dá-me um zelo puro, que não se desvia nem para a direita nem para a esquerda, e a coragem de deixar tudo para te seguir. Amém.",
+    "contemplatio_foco": {
+      "texto": "eu, meus filhos e meus irmãos seremos fiéis à Aliança dos nossos pais",
+      "ref": "1Mc 2,20"
+    }
+  },
+  "ancoras": {
+    "2:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Macabeu” vem talvez do hebraico maqqebet, “martelo”; o nome passou a toda a família e aos mártires da época.",
+        "origem": "ia"
+      }
+    },
+    "2:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Fineias matou um israelita e uma madianita no ato de idolatria (Nm 25,6-13); o seu zelo é o modelo invocado pelos Macabeus.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

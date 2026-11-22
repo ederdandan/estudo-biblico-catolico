@@ -1,0 +1,417 @@
+{
+ "livro": "1MA",
+ "secoes": [
+  "A perseguição e a revolta",
+  "Judas Macabeu",
+  "Jônatas",
+  "Simão"
+ ],
+ "pericopes": [
+  {
+   "id": "1MA.1.1",
+   "titulo": "De Alexandre a Antíoco Epífanes: os judeus helenizantes",
+   "secao": "A perseguição e a revolta",
+   "referencia": "1Mc 1,1-16",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 16
+   }
+  },
+  {
+   "id": "1MA.1.17",
+   "titulo": "Antíoco saqueia o Templo e devasta Jerusalém",
+   "secao": "A perseguição e a revolta",
+   "referencia": "1Mc 1,17-42",
+   "ini": {
+    "c": 1,
+    "v": 17
+   },
+   "fim": {
+    "c": 1,
+    "v": 42
+   }
+  },
+  {
+   "id": "1MA.1.43",
+   "titulo": "O decreto de Antíoco e os que preferiram morrer",
+   "secao": "A perseguição e a revolta",
+   "referencia": "1Mc 1,43-67",
+   "ini": {
+    "c": 1,
+    "v": 43
+   },
+   "fim": {
+    "c": 1,
+    "v": 67
+   }
+  },
+  {
+   "id": "1MA.2.1",
+   "titulo": "O zelo de Matatias em Modin",
+   "secao": "A perseguição e a revolta",
+   "referencia": "1Mc 2,1-28",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 28
+   }
+  },
+  {
+   "id": "1MA.2.29",
+   "titulo": "Os mártires do sábado e o levante dos fiéis",
+   "secao": "A perseguição e a revolta",
+   "referencia": "1Mc 2,29-48",
+   "ini": {
+    "c": 2,
+    "v": 29
+   },
+   "fim": {
+    "c": 2,
+    "v": 48
+   }
+  },
+  {
+   "id": "1MA.2.49",
+   "titulo": "O testamento de Matatias",
+   "secao": "A perseguição e a revolta",
+   "referencia": "1Mc 2,49-70",
+   "ini": {
+    "c": 2,
+    "v": 49
+   },
+   "fim": {
+    "c": 2,
+    "v": 70
+   }
+  },
+  {
+   "id": "1MA.3.1",
+   "titulo": "Judas, leão de Israel",
+   "secao": "Judas Macabeu",
+   "referencia": "1Mc 3,1-26",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 26
+   }
+  },
+  {
+   "id": "1MA.3.27",
+   "titulo": "Lísias e a assembleia de Masfa",
+   "secao": "Judas Macabeu",
+   "referencia": "1Mc 3,27-60",
+   "ini": {
+    "c": 3,
+    "v": 27
+   },
+   "fim": {
+    "c": 3,
+    "v": 60
+   }
+  },
+  {
+   "id": "1MA.4.1",
+   "titulo": "As vitórias de Emaús e de Betsur",
+   "secao": "Judas Macabeu",
+   "referencia": "1Mc 4,1-35",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 35
+   }
+  },
+  {
+   "id": "1MA.4.36",
+   "titulo": "A purificação do Templo e a dedicação do altar",
+   "secao": "Judas Macabeu",
+   "referencia": "1Mc 4,36-61",
+   "ini": {
+    "c": 4,
+    "v": 36
+   },
+   "fim": {
+    "c": 4,
+    "v": 61
+   }
+  },
+  {
+   "id": "1MA.5.1",
+   "titulo": "O socorro aos irmãos de Galaad e da Galileia",
+   "secao": "Judas Macabeu",
+   "referencia": "1Mc 5,1-54",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 54
+   }
+  },
+  {
+   "id": "1MA.5.55",
+   "titulo": "A derrota de José e Azarias",
+   "secao": "Judas Macabeu",
+   "referencia": "1Mc 5,55-68",
+   "ini": {
+    "c": 5,
+    "v": 55
+   },
+   "fim": {
+    "c": 5,
+    "v": 68
+   }
+  },
+  {
+   "id": "1MA.6.1",
+   "titulo": "A morte de Antíoco Epífanes",
+   "secao": "Judas Macabeu",
+   "referencia": "1Mc 6,1-17",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 17
+   }
+  },
+  {
+   "id": "1MA.6.18",
+   "titulo": "Betzacara: Eleazar e o elefante; a paz com Lísias",
+   "secao": "Judas Macabeu",
+   "referencia": "1Mc 6,18-63",
+   "ini": {
+    "c": 6,
+    "v": 18
+   },
+   "fim": {
+    "c": 6,
+    "v": 63
+   }
+  },
+  {
+   "id": "1MA.7.1",
+   "titulo": "Alcimo, Nicanor e o dia de Nicanor",
+   "secao": "Judas Macabeu",
+   "referencia": "1Mc 7,1-50",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 50
+   }
+  },
+  {
+   "id": "1MA.8.1",
+   "titulo": "A aliança com Roma",
+   "secao": "Judas Macabeu",
+   "referencia": "1Mc 8,1-32",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 32
+   }
+  },
+  {
+   "id": "1MA.9.1",
+   "titulo": "A morte de Judas",
+   "secao": "Judas Macabeu",
+   "referencia": "1Mc 9,1-22",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 22
+   }
+  },
+  {
+   "id": "1MA.9.23",
+   "titulo": "Jônatas, chefe do povo",
+   "secao": "Jônatas",
+   "referencia": "1Mc 9,23-73",
+   "ini": {
+    "c": 9,
+    "v": 23
+   },
+   "fim": {
+    "c": 9,
+    "v": 73
+   }
+  },
+  {
+   "id": "1MA.10.1",
+   "titulo": "Jônatas, sumo sacerdote, entre Demétrio e Alexandre",
+   "secao": "Jônatas",
+   "referencia": "1Mc 10,1-66",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 66
+   }
+  },
+  {
+   "id": "1MA.10.67",
+   "titulo": "Apolônio, Ptolomeu e a queda de Alexandre",
+   "secao": "Jônatas",
+   "referencia": "1Mc 10,67–11,19",
+   "ini": {
+    "c": 10,
+    "v": 67
+   },
+   "fim": {
+    "c": 11,
+    "v": 19
+   }
+  },
+  {
+   "id": "1MA.11.20",
+   "titulo": "Jônatas, Demétrio II e o jovem Antíoco",
+   "secao": "Jônatas",
+   "referencia": "1Mc 11,20-74",
+   "ini": {
+    "c": 11,
+    "v": 20
+   },
+   "fim": {
+    "c": 11,
+    "v": 74
+   }
+  },
+  {
+   "id": "1MA.12.1",
+   "titulo": "As cartas a Roma e a Esparta",
+   "secao": "Jônatas",
+   "referencia": "1Mc 12,1-23",
+   "ini": {
+    "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 23
+   }
+  },
+  {
+   "id": "1MA.12.24",
+   "titulo": "A traição de Trifão e a prisão de Jônatas",
+   "secao": "Jônatas",
+   "referencia": "1Mc 12,24-54",
+   "ini": {
+    "c": 12,
+    "v": 24
+   },
+   "fim": {
+    "c": 12,
+    "v": 54
+   }
+  },
+  {
+   "id": "1MA.13.1",
+   "titulo": "Simão sucede a Jônatas; o sepulcro de Modin",
+   "secao": "Simão",
+   "referencia": "1Mc 13,1-30",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 30
+   }
+  },
+  {
+   "id": "1MA.13.31",
+   "titulo": "Simão liberta a cidadela de Jerusalém",
+   "secao": "Simão",
+   "referencia": "1Mc 13,31-54",
+   "ini": {
+    "c": 13,
+    "v": 31
+   },
+   "fim": {
+    "c": 13,
+    "v": 54
+   }
+  },
+  {
+   "id": "1MA.14.1",
+   "titulo": "O elogio de Simão: cada um sob a sua videira",
+   "secao": "Simão",
+   "referencia": "1Mc 14,1-15",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 15
+   }
+  },
+  {
+   "id": "1MA.14.16",
+   "titulo": "O decreto em honra de Simão",
+   "secao": "Simão",
+   "referencia": "1Mc 14,16-49",
+   "ini": {
+    "c": 14,
+    "v": 16
+   },
+   "fim": {
+    "c": 14,
+    "v": 49
+   }
+  },
+  {
+   "id": "1MA.15.1",
+   "titulo": "Antíoco VII e Cendebeu",
+   "secao": "Simão",
+   "referencia": "1Mc 15,1-41",
+   "ini": {
+    "c": 15,
+    "v": 1
+   },
+   "fim": {
+    "c": 15,
+    "v": 41
+   }
+  },
+  {
+   "id": "1MA.16.1",
+   "titulo": "A vitória dos filhos de Simão e o assassinato de Simão",
+   "secao": "Simão",
+   "referencia": "1Mc 16,1-24",
+   "ini": {
+    "c": 16,
+    "v": 1
+   },
+   "fim": {
+    "c": 16,
+    "v": 24
+   }
+  }
+ ]
+}

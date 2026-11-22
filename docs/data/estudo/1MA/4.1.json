@@ -1,0 +1,57 @@
+{
+  "id": "1MA.4.1",
+  "livro": "1MA",
+  "titulo": "As vitórias de Emaús e de Betsur",
+  "secao": "Judas Macabeu",
+  "referencia": "1Mc 4,1-35",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 35
+  },
+  "liturgia": {
+    "tema_central": "Há um redentor e libertador de Israel: Emaús e Betsur",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Górgias parte de noite com cinco mil infantes e mil cavaleiros para surpreender o acampamento de Judas, guiado por homens da cidadela. Judas, sabendo, sai com os seus para atacar o grosso do exército em Emaús, enquanto as tropas inimigas estão dispersas. Ao amanhecer, aparece na planície com três mil homens sem escudos nem espadas como desejariam. Diz: “Não temais a sua multidão… Lembrai-vos como nossos pais foram salvos no mar Vermelho”; clamemos ao céu, para que se lembre da aliança e esmague hoje este exército, e “todas as nações conhecerão que há um redentor e libertador de Israel”. Tocam as trombetas e atacam; os pagãos fogem, e os retardatários caem à espada. Judas proíbe pegar os despojos: ainda temos inimigos; Górgias está no monte. Górgias, vendo o acampamento em chamas, foge. Então recolhem os despojos e voltam cantando hinos e bendizendo o céu, “porque é bom, porque a sua misericórdia é eterna”. No ano seguinte, Lísias reúne sessenta mil infantes e cinco mil cavaleiros e acampa em Betsur; Judas vem com dez mil e reza: “Bendito és, Salvador de Israel, que quebraste a força do gigante pela mão do teu servo Davi” e de Jônatas; entrega este exército nas mãos do teu povo; fere-os com a espada dos que te amam, para que todos os que conhecem o teu nome te louvem com hinos. Lísias perde cinco mil homens e, vendo a coragem dos judeus, decididos a viver ou morrer com valor, volta a Antioquia para recrutar mercenários.",
+    "alegorico": "Emaús, lugar desta vitória, será o lugar onde o Ressuscitado se revela na fração do pão (Lc 24,13-35): a libertação militar dos Macabeus prefigura a libertação definitiva. A invocação “há um redentor e libertador de Israel” encontra a sua resposta no Benedictus: “visitou e redimiu o seu povo” (Lc 1,68).",
+    "moral": "Judas é inteligente e disciplinado: não se deixa distrair pelo despojo enquanto o combate não terminou. A ganância a meio caminho perde a vitória. E toda vitória se transforma em louvor: “a sua misericórdia é eterna”. A oração de Betsur recorda as vitórias passadas (Davi, Jônatas) para pedir a de hoje: a memória alimenta a confiança.",
+    "anagogico": "“Todas as nações conhecerão que há um redentor de Israel”: a vitória de Deus em favor do seu povo é destinada a ser conhecida por todos, até que todos o louvem."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não temais a sua multidão.” “Lembrai-vos como nossos pais foram salvos no mar Vermelho.” “Todas as nações conhecerão que há um redentor e libertador de Israel.” “Não vos deixeis levar do desejo da presa.” “Bem-diziam a Deus… porque é bom, porque a sua misericórdia é eterna.” “Bem-dito és, Salvador de Israel.”",
+    "meditatio_perguntas": [
+      "Deixo-me distrair pelos “despojos” antes de terminar o combate?",
+      "Transformo as minhas vitórias em louvor?",
+      "Lembro as obras passadas de Deus para pedir as de hoje?"
+    ],
+    "oratio_guia": "Bendito és, Salvador de Israel, redentor e libertador. Lembra-te da tua aliança, livra-me da ganância que interrompe o bom combate e faz que toda vitória se torne louvor à tua misericórdia eterna. Amém.",
+    "contemplatio_foco": {
+      "texto": "Todas as nações conhecerão que há um redentor e libertador de Israel",
+      "ref": "1Mc 4,11"
+    }
+  },
+  "ancoras": {
+    "4:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Emaús-Nicópolis, na planície da Sefelá, a cerca de 30 km de Jerusalém.",
+        "origem": "ia"
+      }
+    },
+    "4:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Betsur, fortaleza ao sul de Jerusalém, na estrada de Hebron, que controlava o acesso à Judeia.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
