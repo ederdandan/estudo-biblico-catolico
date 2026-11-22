@@ -1,46 +1,54 @@
 {
   "id": "AMO.1.1",
   "livro": "AMO",
-  "titulo": "Pelos três crimes e pelos quatro",
+  "titulo": "Pelos três crimes e pelos quatro: o juízo sobre as nações",
   "secao": "Oráculos contra as nações",
-  "referencia": "Am 1,1–2,16",
+  "referencia": "Am 1,1–2,5",
   "ini": {
     "c": 1,
     "v": 1
   },
   "fim": {
     "c": 2,
-    "v": 16
+    "v": 5
   },
   "liturgia": {
-    "tema_central": "Deus julga as nações e, com mais rigor, o seu próprio povo",
+    "tema_central": "“O Senhor rugirá de Sião”: o juízo sobre as nações",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Amós, pastor de Técua, recebe a palavra nos dias de Ozias e Jeroboão II: “O Senhor rugirá de Sião”. Em oráculos ritmados (“pelos três crimes e pelos quatro”), Deus condena Damasco, Gaza, Tiro, Edom, Amon e Moab por crueldades de guerra, deportações e violações de alianças. Depois Judá, que rejeitou a lei. Por fim, o alvo verdadeiro: Israel, que “vende o justo por dinheiro e o pobre por um par de sandálias”, oprime os humildes, profana o santo nome. Deus recorda os benefícios do Êxodo e anuncia que nem o herói escapará.",
-    "alegorico": "O Senhor que ruge de Sião é o Leão de Judá (Ap 5,5), Cristo juiz. Vendido por dinheiro, o justo prefigura Jesus vendido por trinta moedas, solidário com todos os pobres vendidos.",
-    "moral": "Indignamo-nos facilmente com o pecado dos outros; Amós vira o espelho para nós. Na escala de Deus, a injustiça contra o pobre é profanação do seu nome. A eleição não protege: aumenta a responsabilidade.",
-    "anagogico": "A sentença sobre as nações anuncia o juízo universal, em que todas as obras serão pesadas pelo mesmo Deus."
+    "literal": "“Palavras de Amós, que foi um dos pastores de Tecué”, nos dias de Ozias, rei de Judá, e de Jeroboão, rei de Israel, “dois anos antes do terramoto. Disse: O Senhor rugirá de Sião, de Jerusalém fará ouvir a sua voz; os prados dos pastores estarão de luto, o cume do Carmelo secará.” Segue-se uma série de oráculos com a mesma fórmula: “Pelos três crimes de… e pelos quatro, não mudarei o meu decreto.” Damasco despedaçou Galaad com carros de ferro; Gaza e Tiro deportaram povos inteiros e os venderam a Edom, Tiro esquecendo “a antiga aliança fraternal”; Edom “perseguiu seu irmão com a espada, abafando a compaixão”; os amonitas “desventraram as mulheres grávidas de Galaad, para dilatar os seus domínios”; Moab queimou os ossos do rei de Edom. Para cada um: “porei fogo”. Por fim, Judá: “Porque rejeitaram a lei do Senhor, não guardaram os seus mandamentos… por isso porei fogo a Judá, e ele devorará os edifícios de Jerusalém.”",
+    "alegorico": "O Senhor que “ruge de Sião” é o Leão de Judá, Cristo, a quem o Pai deu todo o juízo (Ap 5,5; Jo 5,22). O juízo que começa pelas nações e chega a Judá antecipa a palavra de Pedro: “é tempo de começar o juízo pela casa de Deus” (1Pd 4,17).",
+    "moral": "Os crimes das nações são crimes contra a humanidade: deportação, crueldade na guerra, violação dos mortos, quebra de alianças, falta de compaixão. Deus os julga mesmo em povos que não têm a Lei: há uma lei moral escrita no coração (Rm 2,14-15). Mas quem tem a Lei é julgado pela Lei. O ouvinte israelita aplaudia a condenação dos vizinhos, até ouvir o nome de Judá, e depois o seu.",
+    "anagogico": "Todos os povos comparecerão diante do Juiz; o fogo do juízo provará a obra de cada um (1Cor 3,13)."
   },
   "lectio_divina": {
-    "lectio_resumo": "“O Senhor rugirá de Sião.” “Pelos três crimes de Israel e pelos quatro, não mudarei o meu decreto: porque vendem o justo por dinheiro, e o pobre por um par de sandálias.” “Eu vos tirei do Egito.”",
+    "lectio_resumo": "“O Senhor rugirá de Sião.” “Pelos três crimes… e pelos quatro, não mudarei o meu decreto.” “Não se lembraram da antiga aliança fraternal.” “Abafando a compaixão.” “Para dilatar os seus domínios.” “Rejeitaram a lei do Senhor.”",
     "meditatio_perguntas": [
-      "Sou mais rápido em ver o pecado das outras nações do que o meu?",
-      "Há pobres “vendidos por um par de sandálias” perto de mim?",
-      "Lembro os benefícios de Deus quando sou tentado à injustiça?"
+      "Sou mais rápido em ver o pecado dos outros do que o meu?",
+      "Respeito a dignidade humana também dos que não são “dos meus”?",
+      "Que lugar tem em mim a compaixão que Edom abafou?"
     ],
-    "oratio_guia": "Senhor que rugiste de Sião, não me deixes condenar os outros e esquecer o meu pecado. Dá-me um coração justo, que nunca venda o pobre, e que reconheça os teus benefícios. Amém.",
+    "oratio_guia": "Senhor que rugiste de Sião, não me deixes condenar os outros e esquecer o meu pecado. Dá-me um coração compassivo e fiel à tua Lei. Amém.",
     "contemplatio_foco": {
-      "texto": "vendem o justo por dinheiro, e o pobre por um par de sandálias",
-      "ref": "Am 2,6"
+      "texto": "O Senhor rugirá de Sião, de Jerusalém fará ouvir a sua voz",
+      "ref": "Am 1,2"
     }
   },
   "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O terremoto do tempo de Ozias foi lembrado séculos depois (Zc 14,5). Amós profetiza por volta de 760 a.C.",
+        "origem": "ia"
+      }
+    },
     "1:3": {
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "A fórmula “três… e quatro” é recurso de estilo: a medida transbordou; normalmente só o último crime é detalhado.",
+        "texto": "“Três e quatro”: a medida está cheia e transbordou.",
         "origem": "ia"
       }
     }

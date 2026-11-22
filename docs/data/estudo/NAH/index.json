@@ -20,11 +20,25 @@
   },
   {
    "id": "NAH.2.1",
-   "titulo": "Ai da cidade sanguinária",
+   "titulo": "A queda de Nínive, covil de leões",
    "secao": "A queda de Nínive",
-   "referencia": "Na 2,1–3,19",
+   "referencia": "Na 2,1-13",
    "ini": {
     "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 13
+   }
+  },
+  {
+   "id": "NAH.3.1",
+   "titulo": "Ai da cidade sanguinária",
+   "secao": "A queda de Nínive",
+   "referencia": "Na 3,1-19",
+   "ini": {
+    "c": 3,
     "v": 1
    },
    "fim": {

@@ -8,12 +8,26 @@
  "pericopes": [
   {
    "id": "AMO.1.1",
-   "titulo": "Pelos três crimes e pelos quatro",
+   "titulo": "Pelos três crimes e pelos quatro: o juízo sobre as nações",
    "secao": "Oráculos contra as nações",
-   "referencia": "Am 1,1–2,16",
+   "referencia": "Am 1,1–2,5",
    "ini": {
     "c": 1,
     "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 5
+   }
+  },
+  {
+   "id": "AMO.2.6",
+   "titulo": "Vendem o justo por dinheiro e o pobre por um par de sandálias",
+   "secao": "Oráculos contra as nações",
+   "referencia": "Am 2,6-16",
+   "ini": {
+    "c": 2,
+    "v": 6
    },
    "fim": {
     "c": 2,

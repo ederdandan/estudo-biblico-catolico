@@ -1,0 +1,57 @@
+{
+  "id": "AMO.2.6",
+  "livro": "AMO",
+  "titulo": "Vendem o justo por dinheiro e o pobre por um par de sandálias",
+  "secao": "Oráculos contra as nações",
+  "referencia": "Am 2,6-16",
+  "ini": {
+    "c": 2,
+    "v": 6
+  },
+  "fim": {
+    "c": 2,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "“Vendem o justo por dinheiro e o pobre por um par de sandálias”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Agora o oráculo chega a Israel: “Pelos três crimes de Israel e pelos quatro, não mudarei o meu decreto. Porque vendem o justo por dinheiro, e o pobre por um par de sandálias, esmagam sobre o pó da terra a cabeça do pobre, confundem os pequenos, porque o filho e o pai dormem com a mesma jovem, desonrando o meu santo nome, porque sobre as roupas que lhes tinham sido dadas em penhor se estendem junto de toda a casta de altares, e bebem na casa do seu Deus o vinho proveniente de penas impostas.” Deus recorda o que fez: exterminou os amorreus “cuja altura era como a altura dos cedros”; “Eu sou o que vos fiz sair da terra do Egito e vos conduzi no deserto durante quarenta anos”; suscitou profetas e nazireus. “Mas vós fizestes com que os nazarenos bebessem vinho e mandastes aos profetas: Não profetizeis.” Por isso o castigo virá, e “o mais corajoso entre os valentes fugirá nu naquele dia”.",
+    "alegorico": "O justo vendido por dinheiro é Cristo, vendido por trinta moedas (Mt 26,15). E o Senhor identifica-se com os pequenos esmagados: “o que fizestes a um destes meus irmãos mais pequeninos, a mim o fizestes” (Mt 25,40). Os profetas mandados calar anunciam o destino do Profeta rejeitado.",
+    "moral": "O pecado de Israel é social e religioso ao mesmo tempo: explorar o pobre, abusar sexualmente da serva, e depois banquetear-se junto dos altares com os penhores tomados aos pobres. Uma religião que convive com a injustiça é uma ofensa ao “santo nome” de Deus. E há outro pecado: calar os profetas e corromper os consagrados.",
+    "anagogico": "“Naquele dia” nenhuma força humana salvará: só a justiça vivida e a misericórdia permanecerão diante do Juiz."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vendem o justo por dinheiro, e o pobre por um par de sandálias.” “Esmagam sobre o pó da terra a cabeça do pobre.” “Desonrando o meu santo nome.” “Bebem na casa do seu Deus o vinho proveniente de penas impostas.” “Eu sou o que vos fiz sair da terra do Egito.” “Mandastes aos profetas: Não profetizeis.”",
+    "meditatio_perguntas": [
+      "Há pobres “vendidos por um par de sandálias” perto de mim?",
+      "A minha prática religiosa convive com alguma injustiça?",
+      "Procuro calar as vozes proféticas que me incomodam?"
+    ],
+    "oratio_guia": "Senhor, que me tiraste do Egito, não permitas que eu venda o justo nem esmague o pobre. Que o meu culto seja verdadeiro, unido à justiça, e que eu escute os teus profetas. Amém.",
+    "contemplatio_foco": {
+      "texto": "vendem o justo por dinheiro, e o pobre por um par de sandálias",
+      "ref": "Am 2,6"
+    }
+  },
+  "ancoras": {
+    "2:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As roupas dadas em penhor deviam ser devolvidas ao pôr do sol (Ex 22,26-27).",
+        "origem": "ia"
+      }
+    },
+    "2:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Nazireus: consagrados por voto que se abstinham de vinho (Nm 6).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,46 +1,54 @@
 {
   "id": "NAH.2.1",
   "livro": "NAH",
-  "titulo": "Ai da cidade sanguinária",
+  "titulo": "A queda de Nínive, covil de leões",
   "secao": "A queda de Nínive",
-  "referencia": "Na 2,1–3,19",
+  "referencia": "Na 2,1-13",
   "ini": {
     "c": 2,
     "v": 1
   },
   "fim": {
-    "c": 3,
-    "v": 19
+    "c": 2,
+    "v": 13
   },
   "liturgia": {
-    "tema_central": "A queda da cidade sanguinária",
+    "tema_central": "“Onde está agora essa habitação dos leões?”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "O profeta descreve em imagens vivas o ataque a Nínive: escudos vermelhos, carros que correm como relâmpagos, as portas dos rios abertas, o palácio que se dissolve, os tesouros saqueados. A cova dos leões, onde o leão guardava a presa, ficou vazia. No capítulo 3: “Ai da cidade sanguinária, toda cheia de fraudes e de rapinas!” Cavalos, espadas, montões de cadáveres. Nínive, como prostituta e feiticeira que seduziu as nações, será exposta à vergonha. Não é melhor que Tebas, que também caiu. A ferida é incurável, e todos os que ouvirem a notícia baterão palmas, pois sobre quem não passou a sua maldade?",
-    "alegorico": "Nínive, cidade do poder violento, figura a “Babilônia” do Apocalipse (Ap 18), sistema de opressão que cai de uma vez; o fim do leão predador anuncia a derrota do “leão que ruge” (1Pd 5,8).",
-    "moral": "Os impérios construídos sobre violência e fraude caem. A história é tribunal: o mal que oprime muitos acaba sozinho. O livro ensina a não invejar os poderosos injustos.",
-    "anagogico": "As palmas dos povos libertos anunciam o aleluia da Jerusalém celeste diante da queda do mal (Ap 19,1-3)."
+    "literal": "“Já vem, ó Nínive, contra ti um destruidor: guarda a fortaleza, vigia o caminho.” “Porque o Senhor restabelece o brilho de Jacob, bem como o brilho de Israel.” O profeta descreve o assalto: escudos vermelhos, guerreiros de púrpura, carros “como fachos ardentes, como relâmpagos”. “Enfim são abertas as portas dos rios, e o palácio, abalado, vacila.” A rainha é levada, as servas gemem “como pombas”. “Nínive é semelhante a um tanque, mas de águas que fogem.” Os inimigos saqueiam a prata e o ouro. Então a pergunta irônica: “Onde está agora essa habitação dos leões, esse pasto de leõezinhos…? O leão despedaçava o preciso para os seus cachorros… enchia as suas covas de presa.” E a sentença: “Eis que venho contra ti, diz o Senhor dos exércitos… porei fim às tuas rapinas na terra, e não se ouvirá mais a voz dos teus embaixadores.”",
+    "alegorico": "A queda de Nínive, capital do império que oprimiu Israel, prefigura a queda da “grande Babilônia” do Apocalipse (Ap 18), imagem de todo poder que se ergue contra Deus. O verdadeiro Leão é Cristo, que não despedaça a presa, mas se deixa imolar como Cordeiro (Ap 5,5-6).",
+    "moral": "O império que vivia de rapina, “leão” que enchia as covas com a presa dos outros, desaparece como água que escorre de um tanque furado. Nenhum poder construído sobre a violência é eterno. Para os oprimidos, esta é uma palavra de consolo: Deus vê e restabelece o brilho do seu povo.",
+    "anagogico": "“Não se ouvirá mais a voz dos teus embaixadores”: no fim, todas as vozes de opressão se calarão e só a voz do Cordeiro ressoará."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Onde está a cova dos leões?” “Eis que eu venho contra ti, diz o Senhor dos exércitos.” “Ai da cidade sanguinária, toda cheia de fraudes, de violências, de contínuas rapinas!” “Sobre quem não passou continuamente a tua maldade?”",
+    "lectio_resumo": "“Já vem contra ti um destruidor.” “O Senhor restabelece o brilho de Jacob.” “O palácio, abalado, vacila.” “Nínive é semelhante a um tanque, mas de águas que fogem.” “Onde está agora essa habitação dos leões?” “Eis que venho contra ti, diz o Senhor dos exércitos.”",
     "meditatio_perguntas": [
-      "Invejo os que prosperam pela injustiça?",
-      "Que “cidade sanguinária” construo em pequeno, com fraudes e violências?",
-      "Confio que Deus é o Senhor da história?"
+      "Em que “tanque furado” deposito a minha segurança?",
+      "Vivo de alguma “rapina”, tirando dos outros o que lhes pertence?",
+      "Confio que Deus vê a opressão sofrida pelos seus?"
     ],
-    "oratio_guia": "Senhor dos exércitos, que derrubas os impérios da violência, livra-me da inveja dos injustos e de toda fraude. Faze-me confiar que o teu reino prevalece. Amém.",
+    "oratio_guia": "Senhor dos exércitos, que derrubas os leões da opressão e restabeleces o brilho do teu povo, livra-me de construir sobre a violência e dá-me confiar na tua justiça. Amém.",
     "contemplatio_foco": {
-      "texto": "Ai da cidade sanguinária",
-      "ref": "Na 3,1"
+      "texto": "Onde está agora (Nínive) essa habitação dos leões",
+      "ref": "Na 2,11"
     }
   },
   "ancoras": {
-    "3:8": {
+    "2:6": {
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "“Nô-Amon” é Tebas, capital do Alto Egito, destruída pelos assírios em 663 a.C.; Nínive cairá em 612 a.C.",
+        "texto": "Nínive caiu em 612 a.C., diante de medos e babilônios; antigas fontes falam de uma inundação que abriu as muralhas.",
+        "origem": "ia"
+      }
+    },
+    "2:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração hebraica, Na 2,1 corresponde a 1,15 e o capítulo está deslocado de um versículo.",
         "origem": "ia"
       }
     }

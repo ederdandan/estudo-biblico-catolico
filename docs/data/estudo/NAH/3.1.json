@@ -1,0 +1,57 @@
+{
+  "id": "NAH.3.1",
+  "livro": "NAH",
+  "titulo": "Ai da cidade sanguinária",
+  "secao": "A queda de Nínive",
+  "referencia": "Na 3,1-19",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "“Ai da cidade sanguinária!”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Ai da cidade sanguinária, toda cheia de fraudes, de violências, de contínuas rapinas!” O profeta faz ouvir o estrondo da batalha: chicotes, rodas, cavalos, espadas, “multidão de feridos! Mortos em massa!” Tudo isso “por causa das numerosas fornicações da meretriz formosa e encantadora, mestra em feitiçarias, que enganava os povos”. “Eis-me contra ti, diz o Senhor dos exércitos!” Todos dirão: “Nínive está destruída. Quem te lamentará?” Nem Tebas (No-Amon), protegida pelo Nilo, escapou. As fortalezas de Nínive cairão como figos maduros na boca de quem as sacode; os seus comerciantes e guardas voarão como gafanhotos ao nascer do sol. “Os teus pastores, ó rei de Assur, adormeceram… A tua ruína é irreparável, a tua chaga não tem cura; todos os que souberem o que te aconteceu baterão as palmas sobre ti. Com efeito, sobre quem não passou sempre a tua maldade?”",
+    "alegorico": "A “meretriz formosa, mestra em feitiçarias” é retomada no Apocalipse: a grande meretriz que embriaga as nações (Ap 17–18). O contrário dela é a Esposa do Cordeiro, a cidade santa sem violência nem engano (Ap 21).",
+    "moral": "O livro termina com uma pergunta que é uma acusação: “sobre quem não passou sempre a tua maldade?”. A violência se volta contra quem a pratica; ninguém lamenta um opressor caído. A sedução do poder e da riqueza (“meretriz formosa e encantadora”) engana os povos, mas não dura. Na 3 convida a examinar onde participamos de estruturas que esmagam outros.",
+    "anagogico": "A ruína definitiva da cidade sanguinária anuncia o juízo final sobre todo mal, quando Deus enxugará as lágrimas das vítimas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ai da cidade sanguinária.” “A meretriz formosa e encantadora, mestra em feitiçarias.” “Eis-me contra ti, diz o Senhor dos exércitos!” “Quem te lamentará?” “Os teus pastores… adormeceram.” “A tua chaga não tem cura.” “Sobre quem não passou sempre a tua maldade?”",
+    "meditatio_perguntas": [
+      "Deixo-me seduzir pelo brilho do poder e da riqueza?",
+      "A minha passagem deixa bondade ou feridas nos outros?",
+      "Rezo pelas vítimas da violência de hoje?"
+    ],
+    "oratio_guia": "Senhor, livra o mundo das cidades sanguinárias e livra-me de toda sedução da violência e da fraude. Que, por onde eu passar, passe a tua bondade. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ai da cidade sanguinária, toda cheia de fraudes de violências, de contínuas rapinas",
+      "ref": "Na 3,1"
+    }
+  },
+  "ancoras": {
+    "3:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "No-Amon é Tebas, no Egito, saqueada pelos assírios em 663 a.C.",
+        "origem": "ia"
+      }
+    },
+    "3:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Yeleq: uma espécie de gafanhoto.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
