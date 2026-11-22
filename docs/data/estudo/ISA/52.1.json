@@ -1,0 +1,57 @@
+{
+  "id": "ISA.52.1",
+  "livro": "ISA",
+  "titulo": "Que formosos são os pés do que anuncia a paz",
+  "secao": "O Livro da Consolação",
+  "referencia": "Is 52,1-12",
+  "ini": {
+    "c": 52,
+    "v": 1
+  },
+  "fim": {
+    "c": 52,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "“Que formosos são os pés do que anuncia a paz”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Levanta-te, ó Sião, levanta-te, reveste-te da tua fortaleza; reveste-te das tuas roupagens festivas, Jerusalém, cidade santa… Sacode-te do pó… desata as cadeias do teu pescoço, cativa, filha de Sião, porque… vós fostes vendidos por nada e sereis resgatados sem dinheiro.” Deus vê o seu nome blasfemado e diz: “Por esta causa o meu povo conhecerá o meu nome… sou eu próprio que digo: Eis-me presente.” Então o mensageiro aparece nos montes: “Que formosos são, sobre os montes, os pés do que anuncia a boa nova da paz, do que anuncia o bem, do que prega a salvação, do que diz a Sião: Reina o teu Deus!” As sentinelas cantam ao ver “o Senhor volta a Sião”. “Alegrai-vos… ruínas de Jerusalém, porque o Senhor consolou o seu povo… e todos os confins da terra verão a salvação do nosso Deus.” “Saí daí, não toqueis coisa impura… porque o Senhor irá adiante de vós, e o Deus de Israel à vossa retaguarda.”",
+    "alegorico": "Paulo aplica o versículo 7 aos pregadores do Evangelho: “Quão formosos são os pés dos que anunciam boas novas!” (Rm 10,15). A “boa nova” (evangelho) é o Reino que Jesus proclama: “o Reino de Deus está próximo” (Mc 1,15). “Resgatados sem dinheiro” anuncia o resgate “não com ouro ou prata, mas com o sangue precioso de Cristo” (1Pd 1,18-19).",
+    "moral": "O texto é um chamado a levantar-se: sacudir o pó, desatar as cadeias, vestir roupa de festa. Deus resgata de graça. E quem recebeu a boa notícia é enviado a levá-la: os pés do evangelizador são “formosos” porque carregam a paz. Todo cristão é chamado a ser esse mensageiro, a dizer: “Reina o teu Deus!”",
+    "anagogico": "“Todos os confins da terra verão a salvação do nosso Deus”: a manifestação final do Reino a todas as nações."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Levanta-te, ó Sião… reveste-te das tuas roupagens festivas.” “Desata as cadeias do teu pescoço.” “Sereis resgatados sem dinheiro.” “Eis-me presente.” “Que formosos são, sobre os montes, os pés do que anuncia a boa nova da paz.” “Reina o teu Deus!” “O Senhor irá adiante de vós.”",
+    "meditatio_perguntas": [
+      "Que cadeias Deus me chama a desatar hoje?",
+      "Sou portador da boa nova da paz para alguém?",
+      "Creio que fui resgatado “sem dinheiro”, por pura graça?"
+    ],
+    "oratio_guia": "Senhor, que me resgataste sem dinheiro, ergue-me do pó e desata as minhas cadeias. Faz dos meus pés os pés de quem anuncia a paz e diz: reina o teu Deus. Amém.",
+    "contemplatio_foco": {
+      "texto": "Que formosos são, sobre os montes, os pés do que anuncia a boa nova da paz",
+      "ref": "Is 52,7"
+    }
+  },
+  "ancoras": {
+    "52:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em Rm 10,15; cf. Na 1,15.",
+        "origem": "ia"
+      }
+    },
+    "52:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 2Cor 6,17.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

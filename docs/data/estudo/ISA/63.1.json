@@ -1,46 +1,54 @@
 {
   "id": "ISA.63.1",
   "livro": "ISA",
-  "titulo": "Quem é este que vem de Edom? Oxalá rompesses os céus",
+  "titulo": "Quem é este que vem de Edom?",
   "secao": "A nova Jerusalém",
-  "referencia": "Is 63,1–64,12",
+  "referencia": "Is 63,1-19",
   "ini": {
     "c": 63,
     "v": 1
   },
   "fim": {
-    "c": 64,
-    "v": 12
+    "c": 63,
+    "v": 19
   },
   "liturgia": {
-    "tema_central": "O vingador das vestes vermelhas e a súplica: rompe os céus",
+    "tema_central": "“Eu pisei sozinho no lagar”; “tu, Senhor, és o nosso pai”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "“Quem é este que vem de Edom, de Bosra, com as vestes tingidas de vermelho?” — “Sou eu, que falo de justiça e sou poderoso para salvar.” Por que as tuas vestes estão vermelhas como as de quem pisa no lagar? — “Pisei sozinho o lagar; ninguém dos povos estava comigo.” Segue uma longa oração do povo: recorda as misericórdias do Senhor no Êxodo; “nas angústias deles ele se angustiou”; mas eles contristaram o seu Espírito Santo. Onde está o teu zelo? “Tu, Senhor, és nosso Pai, nosso Redentor desde sempre.” “Oxalá rompesses os céus e descesses!” Somos todos como coisa impura. Contudo, “tu és nosso Pai; nós somos o barro e tu o oleiro”.",
-    "alegorico": "Os Padres viram no vinhateiro de vestes vermelhas Cristo na Paixão, que pisou sozinho o lagar da cruz, com o seu próprio sangue (Ap 19,13). “Rompe os céus e desce” é o grito do Advento, atendido na Encarnação.",
-    "moral": "Deus partilha as angústias do seu povo. Podemos “contristar o Espírito Santo” (Ef 4,30). A oração humilde reconhece o pecado, mas se apoia na paternidade de Deus: somos barro nas suas mãos.",
-    "anagogico": "O grito “rompe os céus e desce” encontrará a resposta definitiva na vinda gloriosa de Cristo."
+    "literal": "Uma sentinela pergunta: “Quem é este, que vem de Edom, de Bosra, com as vestiduras tingidas de vermelho? Ele é formoso em seu trajo, avança na grandeza da sua força.” E ele responde: “Eu sou o que fala em justiça e que é poderoso para salvar.” “Por que é, pois, vermelha a tua veste?” “Eu pisei sòzinho no lagar, e nenhum homem dentre os povos estava comigo… Olhei em roda, e não houve quem me auxiliasse… Então o meu braço salvou-me.” Segue uma longa oração do povo: “Cantarei as misericórdias do Senhor… Em todas as suas tribulações não foi um mensageiro nem um anjo que os salvou, mas a sua própria face; com o seu amor e com a sua clemência, ele mesmo os remiu e os levou sobre si.” Mas “eles foram rebeldes e afligiram o seu santo espírito”. O povo lembra-se de Moisés, do mar dividido, do espírito do Senhor que os conduziu, e suplica: “Atende-nos lá do céu… Onde estão a ternura das tuas entranhas e a tua misericórdia?… Tu é que és o nosso pai, Abraão não nos conhece… Tu, Senhor, és o nosso pai, o nosso redentor.”",
+    "alegorico": "Os Padres e a liturgia da Semana Santa leram o guerreiro de vestes vermelhas como Cristo na Paixão: ele pisou sozinho o lagar da cruz, abandonado por todos, e as suas vestes ficaram tingidas do seu próprio sangue. No Apocalipse, o Verbo de Deus aparece “vestido com um manto tinto de sangue” e “pisa o lagar do vinho do furor” (Ap 19,13-15). “Afligiram o seu santo espírito” ecoa em Ef 4,30: “não entristeçais o Espírito Santo”.",
+    "moral": "Duas lições. Primeiro, a salvação é obra de Deus só: “não foi um mensageiro nem um anjo, mas a sua própria face”. Deus se compromete pessoalmente. Segundo, a oração do povo ensina a rezar na crise: recordar as maravilhas passadas, confessar a infidelidade e chamar Deus de Pai com confiança filial, mesmo quando tudo parece perdido. É raro no AT chamar Deus “nosso pai” com tanta intimidade.",
+    "anagogico": "O vencedor que vem de Edom com vestes vermelhas é o Cristo glorioso que voltará vitorioso sobre todo o mal, no fim dos tempos."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Quem é este, que vem de Edom… com as vestiduras tingidas de vermelho?” “Eu pisei sozinho o lagar.” “Em todas as suas angústias ele se angustiou.” “Oxalá romperas os céus e desceras!” “Tu és o nosso pai; nós somos o barro.”",
+    "lectio_resumo": "“Quem é este, que vem de Edom… com as vestiduras tingidas de vermelho?” “Poderoso para salvar.” “Eu pisei sòzinho no lagar.” “Não houve quem me auxiliasse.” “Cantarei as misericórdias do Senhor.” “Não foi um mensageiro nem um anjo… mas a sua própria face.” “Afligiram o seu santo espírito.” “Tu, Senhor, és o nosso pai, o nosso redentor.”",
     "meditatio_perguntas": [
       "Contemplo Cristo que pisou sozinho o lagar por mim?",
-      "Contristo o Espírito Santo com as minhas atitudes?",
-      "Rezo com confiança de filho: “Tu és nosso Pai”?"
+      "Entristeço o Espírito Santo com as minhas rebeldias?",
+      "Chamo a Deus de Pai com confiança, mesmo na crise?"
     ],
-    "oratio_guia": "Senhor, nosso Pai e Redentor, rompe os céus e desce. Nós somos o barro, tu és o oleiro: molda-nos. Obrigado, Jesus, que pisaste sozinho o lagar por nós. Amém.",
+    "oratio_guia": "Senhor Jesus, que pisaste sozinho o lagar da cruz e tingiste as tuas vestes com o teu sangue, eu canto as tuas misericórdias. Tu és o meu Pai e o meu Redentor: não me deixes entristecer o teu Espírito. Amém.",
     "contemplatio_foco": {
-      "texto": "Oxalá romperas os céus e desceras de lá",
-      "ref": "Is 64,1"
+      "texto": "Eu pisei sòzinho no lagar, e nenhum homem dentre os povos estava comigo",
+      "ref": "Is 63,3"
     }
   },
   "ancoras": {
-    "64:1": {
+    "63:1": {
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "Na numeração hebraica, Is 64,1 da Vulgata é 63,19b; por isso o capítulo 64 tem aqui um versículo a mais.",
+        "texto": "Bosra: capital de Edom. Edom (“vermelho”) faz jogo de palavras com as vestes vermelhas.",
+        "origem": "ia"
+      }
+    },
+    "63:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Uma das raras vezes em que o AT chama Deus “nosso pai”; cf. Is 64,8.",
         "origem": "ia"
       }
     }

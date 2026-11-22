@@ -3,44 +3,52 @@
   "livro": "ISA",
   "titulo": "A minha casa será casa de oração para todos os povos",
   "secao": "A nova Jerusalém",
-  "referencia": "Is 56,1–57,21",
+  "referencia": "Is 56,1-12",
   "ini": {
     "c": 56,
     "v": 1
   },
   "fim": {
-    "c": 57,
-    "v": 21
+    "c": 56,
+    "v": 12
   },
   "liturgia": {
-    "tema_central": "Casa de oração para todos os povos",
+    "tema_central": "“A minha casa será chamada casa de oração para todos os povos”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Guardai o direito, praticai a justiça, porque a minha salvação está perto. Feliz quem guarda o sábado. Não diga o estrangeiro: o Senhor me separará do seu povo; nem o eunuco: sou árvore seca. A eles darei, na minha casa, um nome melhor que filhos e filhas. Os estrangeiros que amam o nome do Senhor serão levados ao monte santo, “porque a minha casa será chamada casa de oração para todos os povos”. Os pastores de Israel, porém, são cães mudos, gulosos e cegos. O justo perece e ninguém se importa. No capítulo 57, a idolatria é denunciada; mas Deus, o Altíssimo, habita no alto e com o contrito e humilde de espírito: “Paz, paz ao que está longe e ao que está perto”.",
-    "alegorico": "Jesus cita “a minha casa será chamada casa de oração para todos os povos” ao purificar o templo (Mc 11,17). São Paulo retoma “paz aos que estavam longe e aos que estavam perto” (Ef 2,17): Cristo une judeus e gentios.",
-    "moral": "Na casa de Deus não há excluídos por origem ou condição: estrangeiro e eunuco têm lugar e nome. Deus habita com os humildes. Pastores mudos e gulosos traem a missão.",
-    "anagogico": "O monte santo onde todos os povos rezam é a Igreja universal e, em plenitude, a Jerusalém celeste."
+    "literal": "“Respeitai o direito, praticai a justiça, porque a minha salvação não tardará a vir.” “Bem-aventurado o homem que… guarda o sábado para não o profanar, que guarda as suas mãos para não fazer mal algum.” Deus acolhe os que se sentiam excluídos: “Não diga o filho do estrangeiro… O Senhor com certeza me separará do seu povo. E não diga o eunuco: Eu sou um lenho seco.” Aos eunucos fiéis: “darei um lugar na minha casa… um monumento e um nome melhores que filhos e filhas; dar-lhes-ei um nome sempiterno.” Aos estrangeiros que amam o seu nome: “conduzi-los-ei ao meu santo monte e alegrá-los-ei na minha casa de oração… porque a minha casa será chamada casa de oração para todos os povos.” “Ainda lhe reunirei outros.” Em contraste, os guias de Israel são denunciados: “As sentinelas estão todas cegas… são cães mudos, que não podem ladrar, que sonham deitados… pastores que não têm nenhuma inteligência… cada um segundo o seu interesse.”",
+    "alegorico": "Jesus cita este texto ao purificar o Templo: “A minha casa será chamada casa de oração para todos os povos” (Mc 11,17). O eunuco etíope batizado por Filipe (At 8,26-39) é o cumprimento vivo da promessa aos eunucos e estrangeiros. A Igreja, católica, é a casa onde todos os povos rezam juntos. Os “cães mudos” foram lidos pelos Padres como os pastores que se calam diante do erro.",
+    "moral": "Deus derruba as barreiras: ninguém é excluído da sua casa por origem ou condição, mas só pela infidelidade. A esterilidade, a estrangeirice, a marginalidade não impedem a pertença; a fidelidade à aliança a abre. E há uma advertência aos pastores: a sentinela que não vê, o cão que não ladra, o guia que procura o próprio interesse traem o rebanho.",
+    "anagogico": "“Um nome sempiterno, que não perecerá jamais”: o nome inscrito no livro da vida, na casa do Pai onde há muitas moradas."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Respeitai o direito, praticai a justiça.” “Dar-lhes-ei um nome melhor do que filhos e filhas.” “A minha casa será chamada casa de oração para todos os povos.” “Habito com o contrito e humilde de espírito.” “Paz, paz ao que está longe e ao que está perto.”",
+    "lectio_resumo": "“Respeitai o direito, praticai a justiça.” “Que guarda as suas mãos para não fazer mal algum.” “Não diga o eunuco: Eu sou um lenho seco.” “Um nome melhor que filhos e filhas.” “A minha casa será chamada casa de oração para todos os povos.” “Ainda lhe reunirei outros.” “São cães mudos, que não podem ladrar.”",
     "meditatio_perguntas": [
-      "Quem se sente “árvore seca” ou estrangeiro na minha comunidade?",
-      "A minha igreja é casa de oração para todos?",
-      "Sou humilde e contrito para que Deus habite comigo?"
+      "Faço alguém sentir-se excluído da casa de Deus?",
+      "Sinto-me um “lenho seco”? Creio que Deus me dá um nome eterno?",
+      "Se tenho alguma responsabilidade, calo-me quando deveria falar?"
     ],
-    "oratio_guia": "Senhor, que habitas no alto e com o humilde de espírito, faze da tua Igreja casa de oração para todos os povos. Dá paz aos que estão longe e aos que estão perto. Amém.",
+    "oratio_guia": "Senhor, cuja casa é casa de oração para todos os povos, acolhe-me e dá-me um nome eterno. Faz-me acolher os que se sentem excluídos, e não me deixes ser sentinela muda. Amém.",
     "contemplatio_foco": {
       "texto": "a minha casa será chamada casa de oração para todos os povos",
       "ref": "Is 56,7"
     }
   },
   "ancoras": {
-    "56:1": {
+    "56:7": {
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "Os capítulos 56–66 supõem a comunidade que voltou do exílio e reconstrói Jerusalém.",
+        "texto": "Citado por Jesus em Mc 11,17; Mt 21,13.",
+        "origem": "ia"
+      }
+    },
+    "56:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Dt 23,1-8, que excluía eunucos e alguns estrangeiros; aqui a promessa os acolhe. Cf. At 8,27.",
         "origem": "ia"
       }
     }

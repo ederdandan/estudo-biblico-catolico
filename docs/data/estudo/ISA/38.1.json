@@ -3,38 +3,55 @@
   "livro": "ISA",
   "titulo": "A doença de Ezequias e o seu cântico",
   "secao": "Ezequias e Isaías",
-  "referencia": "Is 38,1–39,8",
+  "referencia": "Is 38,1-22",
   "ini": {
     "c": 38,
     "v": 1
   },
   "fim": {
-    "c": 39,
-    "v": 8
+    "c": 38,
+    "v": 22
   },
   "liturgia": {
-    "tema_central": "Da beira da morte ao louvor",
+    "tema_central": "“Ouvi a tua oração e vi as tuas lágrimas”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Ezequias adoece mortalmente; Isaías lhe diz: põe em ordem a tua casa, porque morrerás. O rei vira o rosto para a parede, reza e chora amargamente. Deus responde: ouvi a tua oração, vi as tuas lágrimas; acrescentarei quinze anos; e dá o sinal da sombra que recua dez graus no relógio de Acaz. Ezequias compõe um cântico: no meio dos meus dias vou às portas da morada dos mortos; a minha vida foi enrolada como tenda de pastor; mas tu “livraste a minha alma da cova, lançaste para trás das tuas costas todos os meus pecados”. O vivo, o vivo é que te louva. No capítulo 39, Ezequias mostra os tesouros aos mensageiros da Babilônia; Isaías anuncia que tudo será levado.",
-    "alegorico": "O cântico de Ezequias é rezado na Liturgia das Horas (Laudes de terça-feira da semana II): a Igreja vê nele a passagem da morte à vida que Cristo realiza. Deus que lança os pecados para trás das costas é o Deus do perdão pascal.",
-    "moral": "A oração com lágrimas é ouvida. A doença pode ser lugar de conversão e louvor. Mas a cura não dispensa a vigilância: a vaidade de Ezequias diante dos babilônios mostra que é possível perder por orgulho o que se recebeu por graça.",
-    "anagogico": "“O vivo é que te louva”: a vida plena é louvor; a ressurreição devolverá a voz aos que desceram ao pó."
+    "literal": "“Naquele tempo, adoeceu Ezequias de uma enfermidade mortal.” Isaías anuncia-lhe: “Põe em ordem as coisas da tua casa, porque vais morrer.” “Ezequias voltou o seu rosto para a parede e orou ao Senhor”, lembrando a sua fidelidade, “e derramou lágrimas abundantes”. Deus manda dizer-lhe: “Ouvi a tua oração e vi as tuas lágrimas; acrescentarei aos teus dias quinze anos”, e dá-lhe por sinal a sombra que retrocede dez graus no relógio de Acaz. Curado, o rei compõe um cântico: “Na metade de meus dias, lá me vou para as portas do sepulcro… É arrancada a minha morada, levada para longe, como uma tenda de pastores. Enrolei, como um tecelão, a minha vida… Grito como a andorinha, gemo como a pomba… Senhor, estou angustiado. Conforta-me.” E depois a gratidão: “Mudou-se em paz a minha amargosíssima aflição. Tu livraste a minha alma da tumba da corrupção, lançaste para trás das tuas costas todos os meus pecados… O que vive, o que vive, esse é o que te louvará, como eu faço hoje.” Isaías manda pôr uma cataplasma de figos sobre a chaga.",
+    "alegorico": "O cântico de Ezequias é rezado pela Igreja nas Laudes: é a oração de todo homem diante da morte. A vida devolvida ao rei, com o sinal do sol que recua, prefigura a vida que Cristo devolve aos que choram (Lc 7,13-15) e a vitória sobre a morte na sua ressurreição. Deus que “lança para trás das costas todos os pecados” anuncia o perdão total dado na cruz (Mq 7,19; Cl 2,14).",
+    "moral": "Diante da notícia mais dura, Ezequias não se revolta: vira-se para a parede, isto é, para Deus só, e chora. Deus vê as lágrimas. O cântico ensina a rezar a doença sem fingimento (“estou angustiado, conforta-me”) e a transformar a cura em louvor e em testemunho aos filhos (“o pai fará conhecer aos filhos a tua verdade”). E Deus não despreza o remédio humano: a cataplasma de figos.",
+    "anagogico": "“O que vive, esse é o que te louvará”: a vida plena, que já não desce à cova, será um louvor sem fim diante da casa do Senhor."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Põe em ordem a tua casa.” “Ezequias voltou o seu rosto para a parede e orou.” “Ouvi a tua oração e vi as tuas lágrimas.” “Tu livraste a minha alma da tumba da corrupção, lançaste para trás das tuas costas todos os meus pecados.”",
+    "lectio_resumo": "“Põe em ordem as coisas da tua casa.” “Voltou o seu rosto para a parede e orou.” “Ouvi a tua oração e vi as tuas lágrimas.” “Enrolei, como um tecelão, a minha vida.” “Senhor, estou angustiado. Conforta-me.” “Lançaste para trás das tuas costas todos os meus pecados.” “O que vive, o que vive, esse é o que te louvará.”",
     "meditatio_perguntas": [
-      "A minha casa interior está em ordem?",
-      "Rezo com lágrimas, com o rosto voltado para Deus?",
-      "Depois das graças recebidas, caio na vaidade?"
+      "Tenho a minha “casa em ordem” diante de Deus?",
+      "Sei levar a Deus a minha angústia sem fingir?",
+      "Depois de uma graça, transformo-a em louvor e testemunho?"
     ],
-    "oratio_guia": "Senhor, que vês as minhas lágrimas e ouves a minha oração, livra a minha alma da cova e lança os meus pecados para trás das tuas costas. Que eu viva para te louvar. Amém.",
+    "oratio_guia": "Senhor, que vês as minhas lágrimas, conforta-me na angústia. Lança para trás das tuas costas os meus pecados, e que, enquanto eu viver, a minha vida seja um louvor a ti. Amém.",
     "contemplatio_foco": {
-      "texto": "lançaste para trás das tuas costas todos os meus pecados",
-      "ref": "Is 38,17"
+      "texto": "Ouvi a tua oração e vi as tuas lágrimas",
+      "ref": "Is 38,5"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "38:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Paralelo em 2Rs 20,1-11.",
+        "origem": "ia"
+      }
+    },
+    "38:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O cântico de Ezequias é rezado nas Laudes da Liturgia das Horas.",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }

@@ -1,40 +1,57 @@
 {
   "id": "ISA.46.1",
   "livro": "ISA",
-  "titulo": "Os ídolos são carregados; eu vos carrego",
+  "titulo": "Os ídolos são carregados; eu vos trarei até à velhice",
   "secao": "O Livro da Consolação",
-  "referencia": "Is 46,1–48,22",
+  "referencia": "Is 46,1-13",
   "ini": {
     "c": 46,
     "v": 1
   },
   "fim": {
-    "c": 48,
-    "v": 22
+    "c": 46,
+    "v": 13
   },
   "liturgia": {
-    "tema_central": "Os ídolos são carregados; Deus carrega o seu povo",
+    "tema_central": "“Eu mesmo vos trarei até à velhice”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Bel e Nabo, deuses da Babilônia, caem: são carregados em animais cansados, como fardo. Mas Deus diz a Israel: vós que fostes carregados por mim desde o seio materno, “até à vossa velhice eu serei o mesmo; até aos cabelos brancos eu vos carregarei; eu vos fiz, eu vos levarei, eu vos salvarei”. A quem me comparareis? Eu anuncio o fim desde o princípio. No capítulo 47, Babilônia, a virgem delicada, desce ao pó: dizias “eu sou, e não há outra”. No capítulo 48, Deus repreende Israel obstinado, de nuca de ferro, mas o purificou no crisol da aflição: “Oh, se tivesses atendido aos meus mandamentos! A tua paz seria como um rio”. Saí de Babilônia!",
-    "alegorico": "O Deus que carrega o seu povo desde o seio até a velhice se revela em Cristo que carrega a cruz e, nela, os nossos pecados e fraquezas.",
-    "moral": "Os ídolos pesam: é preciso carregá-los. O Deus verdadeiro nos carrega. Esta é a diferença entre a religião que oprime e a fé que liberta. A obediência traz uma paz “como um rio”.",
-    "anagogico": "Deus que anuncia o fim desde o princípio conduz a história até a sua meta; o “saí de Babilônia” é o êxodo final para a pátria."
+    "literal": "“Bel foi quebrado, Nabo foi feito em pedaços; as suas estátuas são postas sobre animais de carga, constituem fardos que os fatigam por causa do seu grande peso.” Os deuses de Babilônia têm de ser carregados e “não podem salvar os que os levam”. Ao contrário, o Senhor é quem carrega o seu povo: “Ouvi-me, casa de Jacob… vós, que eu tomei desde que nascestes, a quem trago desde o seio materno. Eu mesmo vos trarei até à velhice, até vos virem as cãs; como vos criei, vos sustentarei, cuidarei de vós e vos salvarei.” O profeta zomba de quem paga um ourives para fazer um deus que “ali fica sem se mover do lugar” e não ouve. “Lembrai-vos disto e mostrai-vos homens… Eu sou Deus, e não há outro… Anuncio desde o princípio o que há-de acontecer no fim… A minha resolução será realizada.” Deus chama “do oriente uma águia” (Ciro) e promete: “Aproximo a vinda da minha justiça… a minha salvação não se demorará.”",
+    "alegorico": "O contraste entre os ídolos carregados e o Deus que carrega cumpre-se em Cristo, Bom Pastor que põe a ovelha aos ombros (Lc 15,5) e leva sobre si os nossos pecados (1Pd 2,24). O Deus que anuncia “desde o princípio o que há-de acontecer no fim” é o Alfa e o Ômega (Ap 22,13).",
+    "moral": "Pergunta decisiva: a minha religião é um peso que eu carrego, ou é Deus que me carrega? Os ídolos (dinheiro, sucesso, imagem) exigem ser sustentados e cansam. O Deus verdadeiro sustenta desde o seio materno até às cãs. Isso dá serenidade a todas as idades da vida, sobretudo à velhice.",
+    "anagogico": "Quem foi carregado por Deus desde o seio materno será levado por ele até ao fim e para além da morte: “cuidarei de vós e vos salvarei”."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Bel foi quebrado.” “Eu mesmo vos trarei até à velhice, até vos virem as cãs; como vos criei, vos sustentarei.” “Oh! se tivesses atendido aos meus mandamentos! A tua paz seria como um rio.” “Saí de Babilônia!”",
+    "lectio_resumo": "“Constituem fardos que os fatigam.” “Não podem salvar os que os levam.” “A quem trago desde o seio materno.” “Eu mesmo vos trarei até à velhice, até vos virem as cãs.” “Como vos criei, vos sustentarei.” “A quem me comparareis?” “A minha salvação não se demorará.”",
     "meditatio_perguntas": [
-      "Que ídolos carrego, que me pesam?",
-      "Deixo Deus carregar-me, também na velhice e na fraqueza?",
-      "De que “Babilônia” preciso sair?"
+      "Que “ídolos” me cansam porque tenho de carregá-los?",
+      "Deixo-me carregar por Deus?",
+      "Vivo a velhice (minha ou dos outros) confiando que Deus sustenta?"
     ],
-    "oratio_guia": "Senhor, que me carregas desde o seio da minha mãe até os cabelos brancos, carrega-me também hoje. Tira de mim os ídolos pesados e dá-me a tua paz como um rio. Amém.",
+    "oratio_guia": "Senhor, que me trazes desde o seio materno, carrega-me até às cãs. Livra-me dos ídolos que pesam e não salvam; cuida de mim e salva-me. Amém.",
     "contemplatio_foco": {
       "texto": "Eu mesmo vos trarei até á velhice, até vos virem as cãs",
       "ref": "Is 46,4"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "46:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Bel (Marduk) e Nabo (Nabu): principais deuses de Babilônia, levados em procissão.",
+        "origem": "ia"
+      }
+    },
+    "46:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “águia do oriente” é Ciro, rei da Pérsia (cf. Is 45,1).",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }

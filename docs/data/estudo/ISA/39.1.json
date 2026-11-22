@@ -1,0 +1,57 @@
+{
+  "id": "ISA.39.1",
+  "livro": "ISA",
+  "titulo": "Os enviados da Babilônia",
+  "secao": "Ezequias e Isaías",
+  "referencia": "Is 39,1-8",
+  "ini": {
+    "c": 39,
+    "v": 1
+  },
+  "fim": {
+    "c": 39,
+    "v": 8
+  },
+  "liturgia": {
+    "tema_central": "Os enviados da Babilônia: a vaidade que abre a porta ao exílio",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Merodach-Baladan, rei de Babilônia, envia carta e presentes a Ezequias, que tinha estado doente. “Ezequias alegrou-se com isto, e mostrou aos enviados o seu tesouro, a prata, o ouro, os perfumes… o seu arsenal… Não houve nada no seu palácio… que Ezequias lhes não mostrasse.” Isaías interroga-o: “Que te disseram estes homens?… Que viram eles em tua casa?” “Viram tudo.” Então o profeta anuncia: “Virão dias em que todas as coisas, que há na tua casa… serão levadas a Babilônia; não ficará coisa alguma… E tomarão dos teus filhos… para servirem de eunucos no palácio do rei de Babilônia.” Ezequias responde: “A palavra que o Senhor proferiu é boa”, e acrescenta: “Haverá, com efeito, paz e segurança ao menos durante a minha vida.”",
+    "alegorico": "O episódio faz a passagem da primeira parte de Isaías para o “Livro da Consolação” (Is 40-55), que se dirige aos exilados em Babilônia. A queda que nasce da vaidade prepara a promessa da redenção: onde a glória humana se perde, Deus anuncia o seu consolo. Os Padres viram aqui o perigo de expor ao mundo os tesouros da alma por vanglória.",
+    "moral": "Ezequias, que tinha rezado tão bem na doença, cai na tentação da vaidade: quer impressionar os estrangeiros e mostra tudo. A vanglória abre a porta ao inimigo. E a resposta final revela um coração estreito: contenta-se com a paz “ao menos durante a minha vida”, sem pensar nos filhos. A fé madura pensa também nas gerações seguintes.",
+    "anagogico": "Os tesouros terrenos serão levados; só o tesouro guardado no céu, onde o ladrão não chega (Mt 6,19-20), permanece para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ezequias alegrou-se com isto, e mostrou aos enviados o seu tesouro.” “Que viram eles em tua casa?” “Viram tudo.” “Não ficará coisa alguma.” “A palavra que o Senhor proferiu é boa.” “Paz e segurança ao menos durante a minha vida.”",
+    "meditatio_perguntas": [
+      "Mostro os meus bens e dons para ser admirado?",
+      "Guardo no segredo o que Deus me deu?",
+      "Penso no bem dos que virão depois de mim, ou só na minha paz?"
+    ],
+    "oratio_guia": "Senhor, livra-me da vanglória que quer mostrar tudo. Que os meus tesouros estejam em ti, e que eu procure a paz não só para mim, mas para os que virão depois. Amém.",
+    "contemplatio_foco": {
+      "texto": "Viram tudo o que há em minha casa",
+      "ref": "Is 39,4"
+    }
+  },
+  "ancoras": {
+    "39:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Merodach-Baladan (Marduk-apla-iddina) procurava aliados contra a Assíria. Paralelo em 2Rs 20,12-19.",
+        "origem": "ia"
+      }
+    },
+    "39:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cumprido com o exílio em 587 a.C.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

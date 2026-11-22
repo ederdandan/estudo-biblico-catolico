@@ -1,0 +1,57 @@
+{
+  "id": "ISA.48.1",
+  "livro": "ISA",
+  "titulo": "Oxalá tivesses atendido aos meus mandamentos",
+  "secao": "O Livro da Consolação",
+  "referencia": "Is 48,1-22",
+  "ini": {
+    "c": 48,
+    "v": 1
+  },
+  "fim": {
+    "c": 48,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "“Oxalá tivesses atendido aos meus mandamentos!”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Deus fala à casa de Jacob, que jura pelo nome do Senhor “mas não com verdade nem com justiça”. Ele predisse as coisas antigas com antecedência, “porque eu sabia que tu és duro, que a tua cerviz é uma barra de ferro e a tua fronte de bronze”, para que não dissessem: “o meu ídolo é que as fez”. Agora revela “coisas novas, reservadas”. E, no entanto, poupa o povo: “Por amor do meu nome, contenho o meu furor… Eis que te acrisolei… pus-te à prova na fornalha da aflição. Por amor de mim, por amor de mim o faço.” “Sou eu… o primeiro e o último.” “Eu sou o Senhor teu Deus, que te ensino o que é útil, que te dirijo pelo caminho que deves seguir. Oxalá que tu tivesses atendido aos meus mandamentos! A tua paz teria sido como um rio, a tua justiça como as ondas do mar.” Por fim, o grito da libertação: “Sai de Babilônia, fugi dos Caldeus… Dizei: O Senhor resgatou o seu servo Jacob.” E a advertência: “Para os ímpios não há paz.”",
+    "alegorico": "A “fornalha da aflição” onde Deus acrisola o povo anuncia a purificação dos fiéis (1Pd 1,7). “Sai de Babilônia” ecoa no Apocalipse: “Saí dela, povo meu” (Ap 18,4). O “primeiro e o último” é o título de Cristo ressuscitado (Ap 1,17). O versículo 16 (“o Senhor Deus me envia com o seu espírito”) foi lido pelos Padres como alusão às três Pessoas divinas.",
+    "moral": "O lamento de Deus é dos mais ternos da Bíblia: “Oxalá tivesses atendido!” Os mandamentos não são um peso, mas o caminho de uma paz “como um rio”. Deus sabe da nossa dureza e mesmo assim é paciente “por amor do seu nome”. A prova não é castigo vazio: é crisol. E a liberdade exige sair de Babilônia, romper com o que nos prende.",
+    "anagogico": "A paz “como um rio” é a do rio de água viva que sai do trono de Deus na Jerusalém celeste (Ap 22,1)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Mas não com verdade nem com justiça.” “A tua cerviz é uma barra de ferro.” “Por amor do meu nome, contenho o meu furor.” “Pus-te à prova na fornalha da aflição.” “Sou eu… o primeiro e o último.” “Que te ensino o que é útil.” “Oxalá que tu tivesses atendido aos meus mandamentos!” “Sai de Babilônia.”",
+    "meditatio_perguntas": [
+      "Rezo e juro pelo nome de Deus, mas sem verdade na vida?",
+      "Vejo os mandamentos como caminho de paz?",
+      "De que “Babilônia” Deus me chama a sair?"
+    ],
+    "oratio_guia": "Senhor, que me ensinas o que é útil e me guias no caminho, amolece a minha dura cerviz. Que eu atenda aos teus mandamentos e a minha paz seja como um rio. Amém.",
+    "contemplatio_foco": {
+      "texto": "Oxalá que tu tivesses atendido aos meus mandamentos! A tua paz teria sido como um rio",
+      "ref": "Is 48,18"
+    }
+  },
+  "ancoras": {
+    "48:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Ap 18,4.",
+        "origem": "ia"
+      }
+    },
+    "48:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Refrão que fecha a primeira parte do Livro da Consolação; repete-se em Is 57,21.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

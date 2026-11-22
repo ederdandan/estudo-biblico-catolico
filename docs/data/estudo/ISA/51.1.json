@@ -1,40 +1,57 @@
 {
   "id": "ISA.51.1",
   "livro": "ISA",
-  "titulo": "Desperta, Sião: os pés do que anuncia a paz",
+  "titulo": "Considerai a rocha donde fostes cortados",
   "secao": "O Livro da Consolação",
-  "referencia": "Is 51,1–52,12",
+  "referencia": "Is 51,1-23",
   "ini": {
     "c": 51,
     "v": 1
   },
   "fim": {
-    "c": 52,
-    "v": 12
+    "c": 51,
+    "v": 23
   },
   "liturgia": {
-    "tema_central": "Desperta, Sião: o Senhor reina e consola",
+    "tema_central": "“Considerai a rocha donde fostes cortados”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Olhai para a rocha de onde fostes talhados, para Abraão vosso pai e Sara que vos deu à luz: Deus o chamou só e o multiplicou. O Senhor consolará Sião e fará do seu deserto um Éden. Os céus se dissiparão como fumo, mas a minha salvação durará para sempre. “Desperta, desperta, braço do Senhor!” Eu, eu sou quem vos consola; por que temes o homem mortal? “Desperta, Jerusalém”, que bebeste o cálice da ira: tirei-o da tua mão. “Reveste-te da tua força, Sião… sacode o pó.” “Que formosos são sobre os montes os pés do que anuncia a boa nova da paz, do que diz a Sião: Reina o teu Deus!” As sentinelas gritam de alegria. Saí, purificai-vos; o Senhor irá à vossa frente.",
-    "alegorico": "São Paulo aplica os “pés do mensageiro” aos pregadores do Evangelho (Rm 10,15). O cálice da ira tirado da mão de Jerusalém é o cálice que Cristo bebe no Getsêmani, para que nós não o bebamos.",
-    "moral": "Recordar as origens (Abraão e Sara) fortalece a esperança: Deus faz muito com pouco. Não temer o homem mortal. Todo cristão é mensageiro da paz e deve “sacudir o pó” do desânimo.",
-    "anagogico": "“Reina o teu Deus!” é o anúncio do Reino que vem e que, no fim, será visível a todos os confins da terra."
+    "literal": "“Ouvi-me, vós todos os que seguis a justiça e buscais o Senhor; considerai a rocha donde fostes cortados, a pedreira donde fostes tirados. Lançai os olhos para Abraão, vosso pai, e para Sara, que vos deu à luz, porque eu o chamei, quando ele estava só, e o abençoei e multipliquei.” “O Senhor consolará Sião… transformará o seu deserto num lugar de delícias.” “Os céus se desfarão como o fumo, a terra se gastará como um vestido… Mas a minha salvação durará para sempre.” “Não temais o opróbrio dos homens.” O profeta clama: “Levanta-te, ó braço do Senhor… Não abriste um caminho pelo fundo do mar, para que passassem os libertados?” E Deus responde: “Sou eu, sou eu que vos consolo. Quem és tu, para teres medo de um homem mortal… que secará como a erva? Como esqueceste o Senhor teu criador?” Por fim: “Acorda, acorda, levanta-te, Jerusalém, que bebeste da mão do Senhor o cálice da sua ira… até às fezes… Eis que eu vou tirar da tua mão o cálice de atordoamento… tu não o tomarás mais a beber.”",
+    "alegorico": "Abraão, chamado “quando estava só” e feito pai de multidões, é o pai de todos os que creem (Rm 4,16-17). O braço do Senhor que abriu caminho no mar é Cristo, que pela sua Páscoa abre a passagem da morte à vida; o Batismo é esse caminho pelas águas. O cálice da ira tirado da mão de Jerusalém foi bebido por Cristo: “Pai, se é possível, passe de mim este cálice” (Mt 26,39). Ele o bebeu para que nós não o bebêssemos.",
+    "moral": "Quando a fé vacila, olhar para as origens: Deus fez de um homem só um povo imenso. A memória das obras de Deus vence o medo. E a pergunta divina corrige a nossa medida: por que temer “um homem mortal que secará como a erva” e esquecer o Criador? O medo dos homens nasce do esquecimento de Deus.",
+    "anagogico": "“Os céus se desfarão como o fumo… Mas a minha salvação durará para sempre”: tudo passa, e só a salvação de Deus permanece na eternidade."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Olhai para a rocha de onde fostes cortados.” “Eu, eu sou o que vos consolo.” “Levanta-te, ó Sião, reveste-te da tua fortaleza.” “Que formosos são, sobre os montes, os pés do que anuncia a boa nova da paz… do que diz a Sião: Reina o teu Deus!”",
+    "lectio_resumo": "“Considerai a rocha donde fostes cortados.” “Eu o chamei, quando ele estava só.” “Transformará o seu deserto num lugar de delícias.” “A minha salvação durará para sempre.” “Não temais o opróbrio dos homens.” “Levanta-te, ó braço do Senhor.” “Sou eu, sou eu que vos consolo.” “Eu vou tirar da tua mão o cálice de atordoamento.”",
     "meditatio_perguntas": [
-      "Recordo a “rocha” de onde fui talhado na fé?",
-      "Temo mais os homens do que confio em Deus?",
-      "Os meus pés levam a boa nova da paz?"
+      "Lembro-me das obras de Deus na minha história quando tenho medo?",
+      "Temo mais os homens que esquecer a Deus?",
+      "Agradeço a Cristo por ter bebido o cálice por mim?"
     ],
-    "oratio_guia": "Senhor, que consolas o teu povo, desperta-me e reveste-me de força. Faze-me mensageiro da paz que anuncia: “Reina o teu Deus!”. Amém.",
+    "oratio_guia": "Senhor, que me consolas, faz-me lembrar da rocha donde fui tirado. Não me deixes temer o homem mortal e esquecer-te. Obrigado por teres bebido o cálice por mim. Amém.",
     "contemplatio_foco": {
-      "texto": "Que formosos são, sobre os montes, os pés do que anuncia a boa nova da paz",
-      "ref": "Is 52,7"
+      "texto": "considerai a rocha donde fostes cortados",
+      "ref": "Is 51,1"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "51:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Rahab e o dragão: imagens do caos e do Egito vencidos no Êxodo.",
+        "origem": "ia"
+      }
+    },
+    "51:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Mt 26,39; Ap 14,10.",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }

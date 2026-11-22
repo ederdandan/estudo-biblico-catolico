@@ -1,0 +1,57 @@
+{
+  "id": "ISA.57.1",
+  "livro": "ISA",
+  "titulo": "Habito no coração contrito e humilde: paz ao que está longe",
+  "secao": "A nova Jerusalém",
+  "referencia": "Is 57,1-21",
+  "ini": {
+    "c": 57,
+    "v": 1
+  },
+  "fim": {
+    "c": 57,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "“Habito no coração contrito e humilde”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“O justo perece, e não há quem considere no seu coração… não há quem compreenda que é para ser livre dos males que o justo é arrebatado, para entrar na paz.” Depois, uma acusação dura contra a idolatria: “filhos da feiticeira”, que ardem junto dos terebintos, sacrificam os filhos nas torrentes, perfumam-se para Moloch. “Fatigas-te na multidão dos teus caminhos, e nunca dizes: Descansarei.” “Porque eu estava calado e parecia não ver, por isso te esqueceste de mim.” Os ídolos serão levados pelo vento, “mas o que tem confiança em mim, herdará a terra”. “Abri, abri caminho; aplanai-o.” “Porque isto diz o Excelso, que habita uma morada eterna, cujo nome é Santo: Habito num lugar alto e santo, mas também no coração contrito e humilde, para reanimar o espírito dos humildes e vivificar o coração dos contritos. Com efeito não quero contender eternamente… Eu vi os seus caminhos, e sará-lo-ei… Paz, paz para aquele que está longe e para o que está perto.” “Os ímpios, porém, são como um mar agitado, que não pode acalmar… Não há paz para os ímpios.”",
+    "alegorico": "Paulo retoma: Cristo “veio anunciar a paz a vós que estáveis longe e paz aos que estavam perto” (Ef 2,17), unindo judeus e pagãos num só povo. O Deus altíssimo que habita no coração humilde revela-se na Encarnação, no Filho que “se humilhou” (Fl 2,8), e na inabitação da Trindade na alma justa (Jo 14,23). A morte do justo “para entrar na paz” é lida pela Igreja nas exéquias (cf. Sb 4,7-14).",
+    "moral": "O versículo 15 é um dos mais belos de Isaías: o Deus três vezes santo escolhe como morada dois lugares, o céu e o coração humilde. A contrição não afasta Deus, atrai-o. Em contraste, o ídolo cansa: “fatigas-te… e nunca dizes: descansarei”. A inquietude sem fim é sinal de quem se afastou da paz. O silêncio de Deus não é indiferença; é paciência.",
+    "anagogico": "“O justo é arrebatado… para entrar na paz; repousam nos seus leitos”: a morte do justo é passagem ao repouso eterno."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“É para ser livre dos males que o justo é arrebatado, para entrar na paz.” “Fatigas-te na multidão dos teus caminhos, e nunca dizes: Descansarei.” “Eu estava calado… por isso te esqueceste de mim.” “Habito num lugar alto e santo, mas também no coração contrito e humilde.” “Não quero contender eternamente.” “Paz, paz para aquele que está longe e para o que está perto.” “Os ímpios são como um mar agitado.”",
+    "meditatio_perguntas": [
+      "O meu coração é morada humilde para Deus?",
+      "Que caminhos me cansam sem nunca me dar descanso?",
+      "Interpreto o silêncio de Deus como indiferença ou como paciência?"
+    ],
+    "oratio_guia": "Deus altíssimo, cujo nome é Santo, faz do meu coração contrito e humilde a tua morada. Cura os meus caminhos, acalma o mar agitado em mim e dá-me a tua paz. Amém.",
+    "contemplatio_foco": {
+      "texto": "Habito num lugar alto e santo, mas também no coração contrito e humilde",
+      "ref": "Is 57,15"
+    }
+  },
+  "ancoras": {
+    "57:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Ef 2,17.",
+        "origem": "ia"
+      }
+    },
+    "57:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Moloch: divindade a quem se sacrificavam crianças (Lv 18,21; 2Rs 23,10).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

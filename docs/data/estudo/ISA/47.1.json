@@ -1,0 +1,57 @@
+{
+  "id": "ISA.47.1",
+  "livro": "ISA",
+  "titulo": "A queda da virgem filha de Babilônia",
+  "secao": "O Livro da Consolação",
+  "referencia": "Is 47,1-15",
+  "ini": {
+    "c": 47,
+    "v": 1
+  },
+  "fim": {
+    "c": 47,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "A queda da virgem filha de Babilônia: “Eu, e mais ninguém”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Desce, senta-te no pó, virgem, filha de Babilónia; senta-te na terra, sem trono, filha dos Caldeus! Daqui em diante não serás chamada a mimosa e a voluptuosa.” A rainha do mundo vai tornar-se escrava que mói a farinha. Deus confessa que entregou o seu povo nas mãos dela, “mas tu não usaste de misericórdia, tornaste muito pesado o teu jugo mesmo sobre o velho”. Babilônia dizia: “Eu serei soberana para sempre!… Eu, e mais ninguém senão eu! Nunca ficarei viúva… Não há quem me veja!” Mas “num só dia” virão a viuvez e a falta de filhos, e de nada valerão os sortilégios e os que “observam os astros”: “Eles tornaram-se como a palha, que o fogo devorará… Fugirão cada um para o seu lado, e não haverá ninguém que te salve.” No meio do canto, a confissão de Israel: “O nosso redentor tem por nome Senhor dos exércitos, o Santo de Israel.”",
+    "alegorico": "Babilônia, que diz “eu, e mais ninguém”, é retomada no Apocalipse como a grande cidade do orgulho que diz “estou sentada como rainha, não sou viúva”, e cai “num só dia” (Ap 18,7-8). É a imagem do mundo fechado em si mesmo, contra a Igreja, esposa humilde que espera o seu Senhor.",
+    "moral": "O pecado de Babilônia é triplo: crueldade sem misericórdia (até contra o velho), orgulho que se faz absoluto (“eu, e mais ninguém”), e a ilusão de impunidade (“não há quem me veja”). A isso junta-se a busca de segurança na astrologia e na magia. Tudo isso é palha diante do fogo. A humildade e a misericórdia são o contrário de Babilônia.",
+    "anagogico": "A queda de Babilônia anuncia o fim de todo poder orgulhoso, quando só o Redentor, o Santo de Israel, reinará."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Desce, senta-te no pó.” “Não usaste de misericórdia.” “Eu serei soberana para sempre!” “Não pensaste… nem te lembraste do teu fim.” “Eu, e mais ninguém senão eu!” “Não há quem me veja!” “O nosso redentor tem por nome Senhor dos exércitos.”",
+    "meditatio_perguntas": [
+      "Há em mim um “eu, e mais ninguém”?",
+      "Trato os fracos (os velhos) com misericórdia?",
+      "Procuro segurança em horóscopos ou superstições?"
+    ],
+    "oratio_guia": "Senhor, meu Redentor, livra-me do orgulho que diz “eu, e mais ninguém”. Dá-me lembrar do meu fim, usar de misericórdia e confiar só em ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu, e mais ninguém senão eu!",
+      "ref": "Is 47,8"
+    }
+  },
+  "ancoras": {
+    "47:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Babilônia era célebre pela astrologia; cf. Catecismo 2116 sobre a adivinhação.",
+        "origem": "ia"
+      }
+    },
+    "47:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Ap 18,7.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

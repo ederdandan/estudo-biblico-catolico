@@ -1,0 +1,57 @@
+{
+  "id": "ISA.64.1",
+  "livro": "ISA",
+  "titulo": "Oxalá romperas os céus e desceras",
+  "secao": "A nova Jerusalém",
+  "referencia": "Is 64,1-12",
+  "ini": {
+    "c": 64,
+    "v": 1
+  },
+  "fim": {
+    "c": 64,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "“Oxalá romperas os céus e desceras”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O povo continua a súplica com um grito de desejo: “Oxalá romperas os céus e desceras de lá, desfazendo os montes diante de ti, como fogo que abrasa a lenha seca… para que o teu nome se tornasse conhecido dos teus inimigos.” “Nunca nenhum ouvido escutou nem nenhum olho viu outro Deus salvar assim os que nele confiam.” Mas reconhece o pecado: “Todos nos tornámos como um homem imundo, todas as nossas justiças são como um pano sujo; caímos todos como a folha, e as nossas iniquidades, como o vento, nos arrebataram. Não há quem invoque o teu nome.” E apela à paternidade de Deus: “Agora, Senhor, tu és o nosso pai; nós não somos senão barro; foste tu que nos formaste, todos nós somos obra das tuas mãos. Não te irrites extremamente, Senhor, e não te lembres mais da nossa iniquidade. Olha para nós; todos nós somos o teu povo.” O templo foi queimado e Sião está deserta: “Ficarás calado e afligir-nos-ás até às últimas?”",
+    "alegorico": "“Oxalá romperas os céus e desceras” é o grito do Advento, atendido na Encarnação: no Batismo de Jesus, os céus “se rasgaram” (Mc 1,10). Paulo cita o versículo 4: “o que olho nenhum viu, nem ouvido ouviu… o que Deus preparou para os que o amam” (1Cor 2,9). O oleiro que forma o barro é o Pai que nos recria em Cristo (Rm 9,21; 2Cor 4,7).",
+    "moral": "A oração mais verdadeira nasce da humildade: “as nossas justiças são como um pano sujo”. Ninguém se salva pelos próprios méritos. Mas a humildade não leva ao desespero: leva a chamar Deus de Pai e a lembrá-lo de que somos “obra das suas mãos”. O barro não tem direitos, mas o oleiro tem amor pela sua obra. E o desejo ardente de que Deus “desça” é a alma de toda espera cristã.",
+    "anagogico": "“O que nenhum olho viu”: as coisas que Deus prepara para os que o amam, reveladas na glória eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Oxalá romperas os céus e desceras.” “Nunca nenhum ouvido escutou nem nenhum olho viu.” “Todas as nossas justiças são como um pano sujo.” “Caímos todos como a folha.” “Tu és o nosso pai; nós não somos senão barro.” “Todos nós somos obra das tuas mãos.” “Olha para nós; todos nós somos o teu povo.”",
+    "meditatio_perguntas": [
+      "Desejo ardentemente que Deus “desça” à minha vida?",
+      "Reconheço que as minhas justiças não me salvam?",
+      "Deixo-me moldar como barro nas mãos do Pai?"
+    ],
+    "oratio_guia": "Senhor, rompe os céus e desce! As minhas justiças são pano sujo, mas tu és o meu Pai e eu sou barro nas tuas mãos. Não te lembres da minha iniquidade: olha para mim, que sou do teu povo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Oxalá romperas os céus e desceras de lá",
+      "ref": "Is 64,1"
+    }
+  },
+  "ancoras": {
+    "64:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na Bíblia hebraica é 63,19b; leitura do 1º Domingo do Advento (ano B).",
+        "origem": "ia"
+      }
+    },
+    "64:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em 1Cor 2,9.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
