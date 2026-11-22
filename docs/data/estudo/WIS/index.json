@@ -148,11 +148,25 @@
   },
   {
    "id": "WIS.11.1",
-   "titulo": "Tu amas tudo o que existe: a clemência de Deus",
+   "titulo": "Tu amas tudo o que existe",
    "secao": "A Sabedoria na história",
-   "referencia": "Sb 11,1–12,27",
+   "referencia": "Sb 11,1-27",
    "ini": {
     "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 27
+   }
+  },
+  {
+   "id": "WIS.12.1",
+   "titulo": "O justo deve ser humano: a clemência de Deus",
+   "secao": "A Sabedoria na história",
+   "referencia": "Sb 12,1-27",
+   "ini": {
+    "c": 12,
     "v": 1
    },
    "fim": {
@@ -176,11 +190,25 @@
   },
   {
    "id": "WIS.14.1",
-   "titulo": "A origem e os males da idolatria",
+   "titulo": "O madeiro bendito e a origem da idolatria",
    "secao": "A Sabedoria na história",
-   "referencia": "Sb 14,1–15,19",
+   "referencia": "Sb 14,1-31",
    "ini": {
     "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 31
+   }
+  },
+  {
+   "id": "WIS.15.1",
+   "titulo": "Ainda quando pecamos, somos teus",
+   "secao": "A Sabedoria na história",
+   "referencia": "Sb 15,1-19",
+   "ini": {
+    "c": 15,
     "v": 1
    },
    "fim": {
@@ -204,11 +232,25 @@
   },
   {
    "id": "WIS.17.1",
-   "titulo": "As trevas do Egito e a noite da libertação",
+   "titulo": "As trevas do Egito",
    "secao": "A Sabedoria na história",
-   "referencia": "Sb 17,1–18,25",
+   "referencia": "Sb 17,1-20",
    "ini": {
     "c": 17,
+    "v": 1
+   },
+   "fim": {
+    "c": 17,
+    "v": 20
+   }
+  },
+  {
+   "id": "WIS.18.1",
+   "titulo": "A noite da libertação: a palavra onipotente desce do céu",
+   "secao": "A Sabedoria na história",
+   "referencia": "Sb 18,1-25",
+   "ini": {
+    "c": 18,
     "v": 1
    },
    "fim": {

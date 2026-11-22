@@ -1,0 +1,57 @@
+{
+  "id": "WIS.15.1",
+  "livro": "WIS",
+  "titulo": "Ainda quando pecamos, somos teus",
+  "secao": "A Sabedoria na história",
+  "referencia": "Sb 15,1-19",
+  "ini": {
+    "c": 15,
+    "v": 1
+  },
+  "fim": {
+    "c": 15,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "“Ainda quando pecamos, somos teus”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Depois da denúncia, a confissão de fé: “Mas tu, ó Deus nosso, és benigno, verdadeiro e paciente, e tudo governas com misericórdia. Ainda quando pecamos, somos teus, conhecendo o teu poder; mas não queremos pecar, pois somos contados no número daqueles que te pertencem. Conhecer-te é a consumada justiça, e conhecer o teu poder é a raiz da imortalidade.” Segue-se a sátira do oleiro: do mesmo barro faz vasos para uso nobre e para uso vil, e depois “forma vã divindade, do mesmo barro, ele que pouco antes fora feito de terra”. Não pensa na morte, rivaliza com ourives para ganhar dinheiro. “O seu coração é cinza, a sua esperança é mais vil que a terra… porque não conhece aquele que o formou, aquele que lhe inspirou uma alma ativa.” Julga que a vida é “um mercado lucrativo”. Os ídolos não veem, nem ouvem, nem andam; o homem que os faz “vale mais do que os objetos que adora, porque, ao menos, tem vida, e eles nunca a tiveram”.",
+    "alegorico": "Jesus retoma: “a vida eterna é esta: que te conheçam a ti, único Deus verdadeiro” (Jo 17,3). O oleiro que faz vasos para diversos usos é imagem que Paulo aplica ao desígnio de Deus (Rm 9,21; 2Tm 2,20-21). Somos barro em que Deus soprou o espírito, chamado a ser vaso de honra.",
+    "moral": "Uma frase consoladora para quem luta com o pecado: “ainda quando pecamos, somos teus”. Isso não autoriza o pecado (“não queremos pecar”), mas dá confiança: pertencemos a ele. E o contraste com o idólatra é forte: quem trata a vida como “mercado lucrativo”, querendo tirar proveito de tudo, tem “o coração de cinza”. Conhecer a Deus é a raiz da imortalidade.",
+    "anagogico": "“Conhecer o teu poder é a raiz da imortalidade”: o conhecimento de Deus, começado na fé, floresce na vida eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Tu, ó Deus nosso, és benigno, verdadeiro e paciente.” “Ainda quando pecamos, somos teus.” “Mas não queremos pecar.” “Conhecer-te é a consumada justiça.” “O seu coração é cinza.” “Não conhece aquele que o formou.” “A nossa existência um mercado lucrativo.”",
+    "meditatio_perguntas": [
+      "Creio que, mesmo pecador, pertenço a Deus?",
+      "Trato a vida como “mercado lucrativo”?",
+      "Busco conhecer a Deus como raiz da minha vida eterna?"
+    ],
+    "oratio_guia": "Deus nosso, benigno, verdadeiro e paciente, ainda quando peco sou teu. Não quero pecar: dá-me conhecer-te, pois conhecer-te é a justiça e a raiz da imortalidade. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ainda quando pecamos, somos teus",
+      "ref": "Sb 15,2"
+    }
+  },
+  "ancoras": {
+    "15:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Is 29,16; Jr 18,1-6; Rm 9,21.",
+        "origem": "ia"
+      }
+    },
+    "15:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Gn 2,7.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

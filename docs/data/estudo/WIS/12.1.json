@@ -1,0 +1,57 @@
+{
+  "id": "WIS.12.1",
+  "livro": "WIS",
+  "titulo": "O justo deve ser humano: a clemência de Deus",
+  "secao": "A Sabedoria na história",
+  "referencia": "Sb 12,1-27",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "“Davas-lhes lugar de fazer penitência”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“O teu espírito incorruptível está em todos os seres. Por isso é que castigas com brandura os que caem, e, advertindo-os das faltas que cometem, os exortas, para que, deixada a malícia, creiam em ti, Senhor.” Mesmo os cananeus, com os seus horrendos sacrifícios de crianças, foram castigados “pouco a pouco”: “davas-lhes lugar de fazer penitência”. “Não há outro Deus senão tu, que de todas as coisas tens cuidado.” “O teu poder é o princípio da justiça, e, por isso mesmo que és Senhor de tudo, te fazes indulgente com todos… Dominador da tua força, julgas com bondade, e governas-nos com muita indulgência.” Daí uma lição: “Ensinaste ao teu povo por meio deste teu proceder, que o justo deve ser humano, e deste a teus filhos a boa esperança de que dás tempo de fazer penitência, depois do pecado.” Para que, “quando julgamos, pensemos na tua bondade, e, quando somos julgados, esperemos na tua misericórdia.”",
+    "alegorico": "A paciência de Deus que dá tempo de penitência é a do dono da figueira que diz: “deixa-a ainda este ano” (Lc 13,8). Cristo é o Juiz que julga com bondade e não quebra a cana rachada (Mt 12,20).",
+    "moral": "Deus é forte e, por isso, pode ser manso: quem é verdadeiramente poderoso não precisa de violência. Ele castiga aos poucos, adverte, espera. Daí uma regra para nós: “o justo deve ser humano”. Ao julgar os outros, lembrar a bondade de Deus; ao ser julgado, esperar na sua misericórdia. É a medida do Evangelho: “sede misericordiosos, como vosso Pai é misericordioso” (Lc 6,36).",
+    "anagogico": "A esperança de que Deus “dá tempo de fazer penitência” sustenta a vida inteira até o encontro final com o Juiz misericordioso."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O teu espírito incorruptível está em todos os seres.” “Castigas com brandura os que caem.” “Davas-lhes lugar de fazer penitência.” “O teu poder é o princípio da justiça.” “Julgas com bondade.” “O justo deve ser humano.” “Quando julgamos, pensemos na tua bondade, e, quando somos julgados, esperemos na tua misericórdia.”",
+    "meditatio_perguntas": [
+      "Sou “humano” ao julgar os outros?",
+      "Aproveito o tempo de penitência que Deus me dá?",
+      "Quando sou julgado, espero na misericórdia de Deus?"
+    ],
+    "oratio_guia": "Senhor, que julgas com bondade e me dás tempo de penitência, ensina-me a ser humano com os outros. Quando eu julgar, que pense na tua bondade; quando for julgado, que espere na tua misericórdia. Amém.",
+    "contemplatio_foco": {
+      "texto": "o justo deve ser humano",
+      "ref": "Sb 12,19"
+    }
+  },
+  "ancoras": {
+    "12:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As vespas: cf. Ex 23,28; Dt 7,20.",
+        "origem": "ia"
+      }
+    },
+    "12:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os sacrifícios de crianças são atestados entre cananeus e fenícios (cf. Dt 12,31).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

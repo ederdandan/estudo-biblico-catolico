@@ -1,40 +1,57 @@
 {
   "id": "WIS.14.1",
   "livro": "WIS",
-  "titulo": "A origem e os males da idolatria",
+  "titulo": "O madeiro bendito e a origem da idolatria",
   "secao": "A Sabedoria na história",
-  "referencia": "Sb 14,1–15,19",
+  "referencia": "Sb 14,1-31",
   "ini": {
     "c": 14,
     "v": 1
   },
   "fim": {
-    "c": 15,
-    "v": 19
+    "c": 14,
+    "v": 31
   },
   "liturgia": {
-    "tema_central": "A idolatria, princípio de toda corrupção",
+    "tema_central": "O madeiro bendito e o ídolo maldito",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "O navegante invoca um pedaço de madeira mais frágil que o barco que o leva; mas é a providência do Pai que guia o navio, e bendito é o lenho pelo qual se faz justiça. Os ídolos não existiam no princípio: nasceram da dor de um pai que fez a imagem do filho morto, e da lisonja aos reis distantes. Daí veio a corrupção: ritos secretos, matanças de crianças, adultérios, perjúrios, roubo, desordem. “O culto dos ídolos é o princípio, a causa e o fim de todo mal.” Mas tu, nosso Deus, és benigno, verdadeiro e paciente; conhecer-te é a justiça perfeita. O oleiro molda deuses do mesmo barro de que é feito.",
-    "alegorico": "“Bendito o lenho pelo qual se faz justiça” foi lido pelos Padres como referência à cruz de Cristo, lenho da salvação.",
-    "moral": "A idolatria não é coisa do passado: nasce da dor, da lisonja e do desejo de controlar. Tudo o que absolutizamos (dinheiro, poder, prazer, imagem) produz desordem moral. Conhecer o Deus verdadeiro é a raiz da justiça.",
-    "anagogico": "“Conhecer-te é a justiça perfeita; conhecer o teu poder é a raiz da imortalidade”: a vida eterna é conhecer o Deus verdadeiro (Jo 17,3)."
+    "literal": "O navegante que se lança ao mar invoca um ídolo de madeira “mais frágil do que o barco que o leva”. “Mas a tua providência, ó Pai, é que o governa, porque tu até no mar abriste caminho.” Assim no dilúvio “refugiou-se a esperança de toda a terra numa barca… graças à tua mão que a governava. O madeiro, do qual se faz bom uso, é bendito; mas o ídolo, obra das mãos do homem, é maldito.” O autor narra como a idolatria nasceu: um pai, “penetrado de dor amarga”, fez a imagem do filho morto e passou a adorá-la; os súditos fizeram imagens dos reis distantes, e os artistas as embelezaram até que o povo “tomou por um Deus aquele que até ali tinha honrado como homem”. Os homens “deram às pedras e à madeira o nome incomunicável”. Daí todos os males: “sangue, homicídio, furto, engano, corrupção, infidelidade… esquecimento dos benefícios… instabilidade dos matrimônios”. “Porque o culto dos ídolos sem nome é o princípio, a causa e o fim de todo o mal.” Vivendo em grande guerra, “deram o nome de paz a tão grandes males”.",
+    "alegorico": "Os Padres viram no “madeiro bendito” que salva a humanidade a cruz de Cristo, prefigurada pela arca de Noé; por isso a liturgia aplica este versículo à Santa Cruz. A arca, “esperança de toda a terra”, é também figura da Igreja (1Pd 3,20-21).",
+    "moral": "A análise é surpreendentemente atual: a idolatria nasce do luto não consolado, da bajulação ao poder, da beleza que seduz. Diviniza-se o que é humano. E a falsa adoração desorganiza tudo: a vida, a família, a verdade. Pior ainda é chamar de “paz” o que é desordem. Toda a moral depende de reconhecer o verdadeiro Deus.",
+    "anagogico": "Os ídolos “não existiam no princípio, nem durarão sempre”: só o Deus verdadeiro permanece; o madeiro da cruz conduz ao porto eterno."
   },
   "lectio_divina": {
-    "lectio_resumo": "“É a tua providência, ó Pai, que governa o navio.” “Bendito o lenho pelo qual se faz a justiça.” “O culto dos ídolos é a causa e o fim de todo o mal.” “Mas tu, ó Deus nosso, és benigno, verdadeiro e paciente.”",
+    "lectio_resumo": "“A tua providência, ó Pai, é que o governa.” “Refugiou-se a esperança de toda a terra numa barca.” “O madeiro, do qual se faz bom uso, é bendito.” “Não existiam no princípio, nem durarão sempre.” “Deram às pedras e à madeira o nome incomunicável.” “Deram o nome de paz a tão grandes males.”",
     "meditatio_perguntas": [
-      "Que “ídolo” nasceu de uma dor minha mal vivida?",
-      "Onde vejo desordem que nasce de pôr algo no lugar de Deus?",
-      "Confio na providência do Pai que governa o meu barco?"
+      "Que coisas humanas tenho divinizado?",
+      "Confio na providência do Pai mais do que em “madeiros frágeis”?",
+      "Chamo de “paz” alguma desordem na minha vida?"
     ],
-    "oratio_guia": "Ó Deus nosso, benigno, verdadeiro e paciente, que governas tudo com misericórdia, livra-me de todo ídolo. Bendito o lenho da cruz, por onde veio a justiça. Amém.",
+    "oratio_guia": "Pai, cuja providência governa a minha barca, livra-me de todo ídolo. Que eu me abrace ao madeiro bendito da cruz de teu Filho, esperança de toda a terra. Amém.",
     "contemplatio_foco": {
-      "texto": "Mas tu, ó Deus nosso, és benigno, verdadeiro e paciente, e tudo governas com misericórdia",
-      "ref": "Sb 15,1"
+      "texto": "O madeiro, do qual se faz bom uso, é bendito",
+      "ref": "Sb 14,7"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "14:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Aplicado pela tradição litúrgica à cruz de Cristo.",
+        "origem": "ia"
+      }
+    },
+    "14:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Uma explicação “evemerista” da origem da idolatria, conhecida no mundo grego.",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }

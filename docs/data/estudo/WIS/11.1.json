@@ -1,46 +1,54 @@
 {
   "id": "WIS.11.1",
   "livro": "WIS",
-  "titulo": "Tu amas tudo o que existe: a clemência de Deus",
+  "titulo": "Tu amas tudo o que existe",
   "secao": "A Sabedoria na história",
-  "referencia": "Sb 11,1–12,27",
+  "referencia": "Sb 11,1-27",
   "ini": {
     "c": 11,
     "v": 1
   },
   "fim": {
-    "c": 12,
+    "c": 11,
     "v": 27
   },
   "liturgia": {
-    "tema_central": "Deus ama tudo o que fez e corrige com misericórdia",
+    "tema_central": "“Tu amas tudo o que existe”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "A Sabedoria deu êxito à marcha no deserto: a água do rochedo saciou Israel, enquanto as águas do Nilo, mudadas em sangue, castigaram o Egito. Cada um é castigado por aquilo em que pecou. Deus podia aniquilar os ímpios, mas dispôs tudo com medida, número e peso; diante dele o mundo é como grão na balança. “Tu amas tudo o que existe, e não aborreces nada do que fizeste”; és indulgente com todos, porque são teus, Senhor, amigo da vida. O teu espírito incorruptível está em todas as coisas. Corriges pouco a pouco, para que se convertam; mesmo com os cananeus agiste com paciência, ensinando ao teu povo que o justo deve ser humano.",
-    "alegorico": "O Deus que tudo ama e corrige pouco a pouco se revela plenamente em Cristo, que veio “não para condenar o mundo, mas para que o mundo seja salvo por Ele” (Jo 3,17). A água do rochedo é figura do Espírito que brota de Cristo.",
-    "moral": "Se Deus não odeia nada do que fez, eu não posso desprezar nenhuma criatura. A pedagogia divina ensina a corrigir com paciência, deixando espaço à conversão: “o justo deve ser humano”.",
-    "anagogico": "O amor criador que sustenta todas as coisas tende à sua plenitude: a criação inteira será libertada e reconciliada."
+    "literal": "O livro relê o êxodo. A sabedoria guiou Israel no deserto “por mãos dum santo profeta”: “Tiveram sede, e invocaram-te, e foi-lhes dada água duma rocha escarpada.” O mesmo elemento que castigou os egípcios (o Nilo transformado em sangue, “em castigo do decreto infanticida”) salvou Israel. “A uns provaste como pai que corrige; porém, aos outros castigaste, como rei severo que condena.” Os egípcios, que adoravam animais, foram castigados por animais, “para que soubessem que cada um é punido com aquilo por que peca”. Deus poderia exterminá-los com um sopro, “porém todas as coisas dispuseste com medida, conta e peso”. “Todo o mundo diante de ti é como um pequeno grão na balança, e como uma gota de orvalho que cai de madrugada sobre a terra. Tu tens compaixão de todos, porque tudo podes, e não olhas para os pecados dos homens, para que façam penitência. Tu amas tudo o que existe, e não aborreces nada do que fizeste; porque, se aborrecesses alguma coisa, não a terias nem criado… És indulgente para com todas as criaturas, porque são tuas, ó Senhor, que amas a vida.”",
+    "alegorico": "A água da rocha é figura de Cristo: “a pedra era Cristo” (1Cor 10,4), de cujo lado aberto brota a água viva. O Deus que “ama tudo o que existe” revela-se plenamente no Pai que “amou tanto o mundo que deu o seu Filho único” (Jo 3,16) e que “não quer que alguém pereça, mas que todos venham à penitência” (2Pd 3,9).",
+    "moral": "O poder de Deus não é arbitrário: ele dispõe tudo “com medida, conta e peso”. E a sua onipotência se manifesta na compaixão: “tens compaixão de todos, porque tudo podes”. Deus tolera os pecados para dar tempo à conversão. A razão é simples e profunda: ele ama tudo o que criou; se odiasse algo, não o teria criado. Cada criatura existe porque é amada.",
+    "anagogico": "O mundo, “gota de orvalho” diante de Deus, é sustentado pelo seu amor e caminha para a vida plena, pois ele é o Senhor “que ama a vida”."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Diante de ti o mundo inteiro é como um grão na balança.” “Tu amas tudo o que existe, e não aborreces nada do que fizeste.” “Poupas a todos, porque são teus, Senhor, que amas a vida.” “Ensinaste ao teu povo que o justo deve ser humano.”",
+    "lectio_resumo": "“Tiveram sede, e invocaram-te.” “A uns provaste como pai que corrige.” “Todas as coisas dispuseste com medida, conta e peso.” “Como uma gota de orvalho.” “Tu tens compaixão de todos, porque tudo podes.” “Tu amas tudo o que existe.” “Senhor, que amas a vida.”",
     "meditatio_perguntas": [
-      "Há alguma criatura que eu despreze?",
-      "Corrijo os outros com a paciência de Deus?",
-      "Sinto-me amado por ser obra de Deus?"
+      "Creio que existo porque sou amado por Deus?",
+      "Vejo as correções de Deus como as de um pai?",
+      "Olho as criaturas como amadas por Deus?"
     ],
-    "oratio_guia": "Senhor, amigo da vida, que amas tudo o que fizeste, ensina-me a amar como tu. Corrige-me pouco a pouco e faze-me humano e paciente com os outros. Amém.",
+    "oratio_guia": "Senhor, que amas tudo o que existe e não aborreces nada do que fizeste, eu existo porque me amas. Tem compaixão de mim e dá-me tempo de penitência. Ensina-me a amar a vida como tu. Amém.",
     "contemplatio_foco": {
       "texto": "Tu amas tudo o que existe, e não aborreces nada do que fizeste",
       "ref": "Sb 11,25"
     }
   },
   "ancoras": {
+    "11:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Em outras traduções, a numeração deste capítulo difere de um versículo.",
+        "origem": "ia"
+      }
+    },
     "11:21": {
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "“Dispuseste tudo com medida, número e peso” (Vulgata 11,21): texto muito citado por Santo Agostinho sobre a ordem da criação.",
+        "texto": "“Medida, conta e peso”: texto muito citado por Santo Agostinho sobre a ordem da criação.",
         "origem": "ia"
       }
     }

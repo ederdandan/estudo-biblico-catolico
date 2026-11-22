@@ -1,0 +1,57 @@
+{
+  "id": "WIS.18.1",
+  "livro": "WIS",
+  "titulo": "A noite da libertação: a palavra onipotente desce do céu",
+  "secao": "A Sabedoria na história",
+  "referencia": "Sb 18,1-25",
+  "ini": {
+    "c": 18,
+    "v": 1
+  },
+  "fim": {
+    "c": 18,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "“A tua palavra onipotente, baixando do céu”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Entretanto os teus santos tinham uma luz brilhantíssima.” Deus deu ao seu povo “uma coluna de fogo… como sol inofensivo na sua gloriosa peregrinação”, porque por eles “devia ser dada ao mundo a luz incorruptível da tua lei”. A noite da Páscoa fora anunciada aos pais, “para que, sabendo eles com verdade a que promessas deram crédito, ficassem os seus ânimos mais corajosos”. “Os justos, filhos dos bons, ofereciam-te em segredo o sacrifício”, comprometendo-se a partilhar bens e males. Então: “Quando tudo repousava num profundo silêncio, e a noite estava no meio do seu curso, a tua palavra onipotente, baixando do céu, do trono real, saltou de improviso ao meio da terra condenada ao extermínio, como um implacável guerreiro.” Mais tarde, no deserto, a ira atingiu também Israel, mas Aarão, “um homem irrepreensível, se apressou a interceder pelo povo, servindo-se das armas do seu ministério, a oração e a expiação do incenso… mostrando que era teu servo”. Pôs-se “de permeio” entre mortos e vivos, e o exterminador recuou.",
+    "alegorico": "A liturgia do Natal canta este texto: “Dum medium silentium…” — no silêncio da noite, a Palavra eterna desce do trono real e se faz carne (Jo 1,14). Aarão, que se coloca entre os mortos e os vivos com a oração e o incenso, é figura de Cristo Sumo Sacerdote, que intercede sempre por nós (Hb 7,25).",
+    "moral": "A Palavra de Deus vem no silêncio, “no meio da noite”: é preciso silêncio interior para acolhê-la. E a fé se apoia nas promessas conhecidas de antemão, que dão coragem. Aarão ensina a força do intercessor: não venceu “com a força do corpo, nem com o poder das armas, mas com a sua palavra”, a oração. Quem reza pelos outros põe-se “de permeio” e detém o mal.",
+    "anagogico": "Como a Palavra desceu na noite de Páscoa e na noite de Natal, ela virá de novo; os que a esperam em vigília entrarão na luz eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Os teus santos tinham uma luz brilhantíssima.” “A luz incorruptível da tua lei.” “Sabendo com verdade a que promessas deram crédito.” “Quando tudo repousava num profundo silêncio.” “A tua palavra onipotente, baixando do céu, do trono real.” “A oração e a expiação do incenso.” “Metendo-se de permeio, deteve a cólera.”",
+    "meditatio_perguntas": [
+      "Faço silêncio para acolher a Palavra que desce?",
+      "Conheço as promessas de Deus que me dão coragem?",
+      "Intercedo pelos outros, pondo-me “de permeio”?"
+    ],
+    "oratio_guia": "Palavra eterna do Pai, que desceste no silêncio da noite, vem habitar em mim. Faz-me intercessor pelos meus irmãos, com a oração e o incenso do coração. Amém.",
+    "contemplatio_foco": {
+      "texto": "Quando tudo repousava num profundo silêncio, e a noite estava no meio do seu curso",
+      "ref": "Sb 18,14"
+    }
+  },
+  "ancoras": {
+    "18:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Antífona de entrada do domingo dentro da oitava do Natal.",
+        "origem": "ia"
+      }
+    },
+    "18:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Nm 16,41-50 (Vulgata Nm 16,46-48).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

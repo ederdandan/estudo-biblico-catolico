@@ -1,40 +1,57 @@
 {
   "id": "WIS.17.1",
   "livro": "WIS",
-  "titulo": "As trevas do Egito e a noite da libertação",
+  "titulo": "As trevas do Egito",
   "secao": "A Sabedoria na história",
-  "referencia": "Sb 17,1–18,25",
+  "referencia": "Sb 17,1-20",
   "ini": {
     "c": 17,
     "v": 1
   },
   "fim": {
-    "c": 18,
-    "v": 25
+    "c": 17,
+    "v": 20
   },
   "liturgia": {
-    "tema_central": "As trevas do pecado e a Palavra que desce na noite",
+    "tema_central": "“A maldade é medrosa”: as trevas do Egito",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Os teus juízos são grandes e impenetráveis. Os egípcios, que oprimiam o povo santo, ficaram presos nas trevas, perseguidos por terrores, aparições e pela própria consciência: “a maldade é covarde e se condena pelo próprio testemunho”. Para os teus santos havia luz, e a coluna de fogo os guiava. Depois, a noite da Páscoa: os egípcios perderam os primogênitos; os pais tinham sido avisados para que se alegrassem. “Quando tudo repousava num profundo silêncio, e a noite estava no meio do seu curso, a tua palavra onipotente desceu do céu, do trono real”, como guerreiro. Aarão intercedeu com o incensário e deteve o flagelo.",
-    "alegorico": "A liturgia do Natal aplica 18,14-15 à Encarnação: no silêncio da noite, o Verbo eterno desceu do trono real (Introito do domingo na oitava do Natal). Aarão com o incensário prefigura Cristo intercessor que detém a ira.",
-    "moral": "A consciência culpada vive no medo, mesmo sem perseguidor (“a maldade é covarde”). Para quem é fiel, a noite tem luz. O silêncio é o lugar onde a Palavra desce.",
-    "anagogico": "A noite pascal em que a Palavra desce anuncia a vinda gloriosa, quando o Senhor virá “como ladrão de noite” para libertar os seus."
+    "literal": "“Grandes são, Senhor, e impenetráveis os teus juízos.” O autor medita sobre a praga das trevas (Ex 10,21-23). Os opressores, “prisioneiros das trevas e encadeados por uma longa noite”, pensavam esconder os seus “pecados secretos, sob o véu tenebroso do esquecimento”, mas foram perturbados por espectros. Nenhum fogo iluminava aquela noite; as artes mágicas caíram em descrédito, e os que prometiam afastar os temores “estavam cheios dum medo ridículo”. “A maldade é medrosa e condena-se por seu próprio testemunho; oprimida pela consciência, supõe sempre o pior.” O vento, o canto dos pássaros, o barulho da água, tudo os fazia desmaiar de terror, “porque todos estavam ligados com uma mesma cadeia de trevas”. “Entretanto todo o resto do mundo estava alumiado com uma luz clara… Somente sobre eles pesava uma profunda noite, imagem das trevas que lhes estavam reservadas. Mas eram a si mesmos mais insuportáveis do que as próprias trevas.”",
+    "alegorico": "As trevas do Egito figuram as “trevas exteriores” e a noite do pecado; Cristo é “a luz do mundo”, e quem o segue “não anda nas trevas” (Jo 8,12). “Os homens amaram mais as trevas do que a luz, porque as suas obras eram más” (Jo 3,19).",
+    "moral": "Uma análise psicológica fina: a culpa não reconhecida gera medo. “A maldade é medrosa… oprimida pela consciência, supõe sempre o pior.” Quem esconde pecados vive assustado com sombras, e torna-se insuportável a si mesmo. A saída não é a magia, nem a distração, mas a luz: confessar, sair da escuridão.",
+    "anagogico": "A noite dos ímpios é “imagem das trevas que lhes estavam reservadas”; mas os santos são chamados à luz sem ocaso."
   },
   "lectio_divina": {
-    "lectio_resumo": "“A maldade é covarde, e condena-se pelo próprio testemunho.” “Os teus santos tinham uma luz brilhantíssima.” “Quando tudo repousava num profundo silêncio, e a noite estava no meio do seu curso, a tua palavra onipotente baixou do céu.”",
+    "lectio_resumo": "“Grandes são, Senhor, e impenetráveis os teus juízos.” “Com os seus pecados secretos, sob o véu tenebroso do esquecimento.” “A maldade é medrosa.” “Oprimida pela consciência, supõe sempre o pior.” “Ligados com uma mesma cadeia de trevas.” “Eram a si mesmos mais insuportáveis do que as próprias trevas.”",
     "meditatio_perguntas": [
-      "Que trevas interiores me assustam?",
-      "Faço silêncio para que a Palavra desça?",
-      "Vivo a noite de Natal e a noite pascal como descida de Deus?"
+      "Há pecados “secretos” que me deixam com medo?",
+      "Que sombras me assustam porque não me reconciliei com Deus?",
+      "Deixo a luz de Cristo entrar nas minhas zonas escuras?"
     ],
-    "oratio_guia": "Palavra onipotente, que desceste do trono real no silêncio da noite, desce também ao meu coração. Livra-me das trevas da consciência culpada e guia-me com a tua luz. Amém.",
+    "oratio_guia": "Senhor, luz do mundo, não me deixes esconder os meus pecados sob o véu do esquecimento. Livra-me do medo que nasce da culpa e conduz-me à tua luz. Amém.",
     "contemplatio_foco": {
-      "texto": "Quando tudo repousava num profundo silêncio, e a noite estava no meio do seu curso",
-      "ref": "Sb 18,14"
+      "texto": "A maldade é medrosa e condena-se por seu próprio testemunho",
+      "ref": "Sb 17,10"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "17:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Ex 10,21-23.",
+        "origem": "ia"
+      }
+    },
+    "17:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Ex 10,23: “em todas as habitações dos filhos de Israel havia luz”.",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }
