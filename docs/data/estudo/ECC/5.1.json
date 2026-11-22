@@ -3,38 +3,55 @@
   "livro": "ECC",
   "titulo": "Diante de Deus, poucas palavras; a vaidade das riquezas",
   "secao": "Tudo é vaidade",
-  "referencia": "Ecl 5,1–6,11",
+  "referencia": "Ecl 5,1-19",
   "ini": {
     "c": 5,
     "v": 1
   },
   "fim": {
-    "c": 6,
-    "v": 11
+    "c": 5,
+    "v": 19
   },
   "liturgia": {
-    "tema_central": "Reverência diante de Deus e liberdade diante do dinheiro",
+    "tema_central": "“Sejam poucas as tuas palavras”; o que ama o dinheiro jamais se farta",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Diante de Deus, não te apresses em falar: “Deus está no céu e tu na terra; portanto sejam poucas as tuas palavras”. Se fizeres um voto, cumpre-o sem demora. Não te admires da opressão: acima do poderoso há outro mais alto. “O que ama o dinheiro jamais se fartará de dinheiro”; quanto mais bens, mais quem os consome; o sono do trabalhador é doce, mas a fartura do rico não o deixa dormir. Riquezas guardadas para desgraça do dono; nu saiu do ventre, nu voltará. É dom de Deus comer, beber e gozar com alegria. No capítulo 6: o homem que tem tudo mas não pode gozar, mais vale um aborto.",
-    "alegorico": "“Sejam poucas as tuas palavras” prepara o ensinamento de Jesus: “não multipliqueis palavras como os pagãos” (Mt 6,7). O homem rico que não dorme evoca o rico insensato da parábola (Lc 12,16-21).",
-    "moral": "A oração começa pela reverência e pelo silêncio. O apego ao dinheiro gera insaciabilidade e insônia; a liberdade interior permite gozar os bens como dom e partilhá-los. Cumprir as promessas feitas a Deus.",
-    "anagogico": "“Nu saiu, nu voltará”: só o que se deu permanece; o tesouro no céu é o único que se leva."
+    "literal": "“Não digas nada inconsideradamente, nem o teu coração se apresse a proferir palavras diante de Deus, porque Deus está no céu, e tu sobre a terra; portanto sejam poucas as tuas palavras.” Os votos devem ser cumpridos: “É melhor não fazer votos do que, depois de os fazer, não os cumprir.” Diante da opressão dos pobres, o Coélet observa a cadeia de poderes, uns acima dos outros. Depois, a vaidade das riquezas: “O que ama o dinheiro, jamais se fartará de dinheiro… Logo também isto é vaidade.” “Onde se multiplicam os bens, multiplicam-se também aqueles que os comem.” “O sono é doce para o trabalhador, quer ele coma pouco quer muito, porém a fartura do rico não o deixa dormir.” As riquezas podem perder-se num mau negócio: “Do modo que ele saiu nu do ventre de sua mãe, assim mesmo sairá desta vida, não levará nada consigo do seu trabalho.” A conclusão: comer, beber e alegrar-se com o fruto do trabalho é “a sua parte”; e quando um homem pode desfrutar os seus bens, “isto é um dom de Deus”.",
+    "alegorico": "Jesus ensina: “nas vossas orações não multipliqueis palavras… vosso Pai sabe do que precisais” (Mt 6,7-8). O rico que não dorme e não levará nada consigo é o rico insensato da parábola: “esta noite pedirão a tua alma; e o que acumulaste, para quem será?” (Lc 12,20). Paulo retoma: “nada trouxemos para o mundo, e nada dele podemos levar” (1Tm 6,7).",
+    "moral": "Duas lições práticas. Na oração: reverência e poucas palavras, porque Deus está no céu; e fidelidade às promessas. Diante do dinheiro: ele não sacia, multiplica preocupações e tira o sono. A alegria simples do trabalho e da mesa, recebida como dom de Deus, vale mais que a acumulação ansiosa.",
+    "anagogico": "Saímos nus como entramos: só levamos o tesouro acumulado no céu, “onde nem a traça nem a ferrugem consomem” (Mt 6,20)."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Deus está no céu, e tu sobre a terra; portanto sejam poucas as tuas palavras.” “O que ama o dinheiro jamais se fartará de dinheiro.” “Doce é o sono do trabalhador.” “Assim como saiu nu do ventre de sua mãe, assim voltará.”",
+    "lectio_resumo": "“Deus está no céu, e tu sobre a terra; portanto sejam poucas as tuas palavras.” “É melhor não fazer votos do que, depois de os fazer, não os cumprir.” “O que ama o dinheiro, jamais se fartará de dinheiro.” “O sono é doce para o trabalhador.” “Assim mesmo sairá desta vida.” “Isto é um dom de Deus.”",
     "meditatio_perguntas": [
-      "A minha oração tem espaço para o silêncio?",
-      "O dinheiro me rouba o sono ou a paz?",
-      "Cumpro as promessas que fiz a Deus?"
+      "A minha oração tem reverência e silêncio, ou só palavras?",
+      "Cumpro as promessas que fiz a Deus?",
+      "O dinheiro me tira o sono?"
     ],
-    "oratio_guia": "Senhor, que estás no céu, ensina-me a orar com poucas palavras e muito amor. Liberta-me do amor ao dinheiro e dá-me o sono tranquilo de quem confia em ti. Amém.",
+    "oratio_guia": "Senhor, tu estás no céu e eu na terra: ensina-me a rezar com poucas palavras e muito amor. Livra-me do amor ao dinheiro e dá-me desfrutar com gratidão os teus dons. Amém.",
     "contemplatio_foco": {
-      "texto": "Deus está no céu, e tu sobre a terra; portanto sejam poucas as tuas palavras",
-      "ref": "Ecl 5,1"
+      "texto": "O que ama o dinheiro, jámais se fartará de dinheiro",
+      "ref": "Ecl 5,9"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "5:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração hebraica, Ecl 5,1 é 4,17; o capítulo está deslocado de um versículo.",
+        "origem": "ia"
+      }
+    },
+    "5:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Dt 23,21-23.",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }

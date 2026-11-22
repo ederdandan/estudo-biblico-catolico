@@ -1,0 +1,57 @@
+{
+  "id": "ECC.11.1",
+  "livro": "ECC",
+  "titulo": "Lança o teu pão sobre as águas",
+  "secao": "A sabedoria e os seus limites",
+  "referencia": "Ecl 11,1-10",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 10
+  },
+  "liturgia": {
+    "tema_central": "“Lança o teu pão sobre as águas”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Lança o teu pão sobre as águas que passam, porque depois de muito tempo o acharás. Reparte dele com sete e mesmo com oito, porque não sabes o mal que pode vir sobre a terra.” “O que observa o vento não semeia, e o que considera as nuvens nunca segará.” Como não conheces o caminho do espírito, nem como se formam os ossos no ventre da mãe, “assim também não conheces as obras de Deus, que é o criador de todas as coisas. Semeia de manhã a tua semente, e de tarde não deixes a tua mão repousar, porque não sabes o que terá bom êxito.” “A luz é doce, e é coisa deleitável aos olhos ver o sol.” “Regozija-te, pois, ó jovem, na tua mocidade, e viva em alegria o teu coração na flor de teus anos… mas sabe que Deus te chamará a dar contas de todas estas coisas. Lança fora do teu coração a tristeza.”",
+    "alegorico": "O pão lançado sobre as águas que volta “depois de muito tempo” é a esmola: “Dai, e ser-vos-á dado” (Lc 6,38). Cristo é o semeador que semeia com generosidade (Mt 13,3). E o vento cujo caminho ignoramos é o Espírito, que “sopra onde quer” (Jo 3,8).",
+    "moral": "Um apelo à generosidade e à ação confiante: dar sem cálculo (“a sete e a oito”), semear sem esperar condições perfeitas (“o que observa o vento não semeia”), trabalhar de manhã e de tarde, deixando o resultado a Deus. E aos jovens: alegria verdadeira, mas responsável, sabendo que se dará contas a Deus. A tristeza deve ser lançada fora.",
+    "anagogico": "O pão lançado às águas será reencontrado “depois de muito tempo”: as obras de misericórdia nos esperam no Reino (Mt 25,34-40)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Lança o teu pão sobre as águas que passam.” “Reparte dele com sete e mesmo com oito.” “O que observa o vento não semeia.” “Não conheces as obras de Deus.” “Semeia de manhã a tua semente.” “A luz é doce.” “Regozija-te, ó jovem, na tua mocidade.” “Lança fora do teu coração a tristeza.”",
+    "meditatio_perguntas": [
+      "Dou com generosidade, sem calcular o retorno?",
+      "Adio o bem esperando “condições perfeitas”?",
+      "Vivo a alegria com responsabilidade diante de Deus?"
+    ],
+    "oratio_guia": "Senhor, dá-me um coração generoso que lança o pão sobre as águas, semeia de manhã e de tarde e confia em ti o resultado. Tira da minha alma a tristeza e dá-me a tua alegria. Amém.",
+    "contemplatio_foco": {
+      "texto": "Lança o teu pão sobre as águas que passam, porque depois de muito tempo o acharás",
+      "ref": "Ecl 11,1"
+    }
+  },
+  "ancoras": {
+    "11:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Sete e oito”: expressão para “muitos”, sem limite.",
+        "origem": "ia"
+      }
+    },
+    "11:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Alegria e responsabilidade caminham juntas.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

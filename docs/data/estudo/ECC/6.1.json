@@ -1,0 +1,57 @@
+{
+  "id": "ECC.6.1",
+  "livro": "ECC",
+  "titulo": "As aspirações do homem não se satisfazem",
+  "secao": "Tudo é vaidade",
+  "referencia": "Ecl 6,1-11",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "“As suas aspirações não se satisfazem”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Há ainda outro mal que eu tenho visto debaixo do sol”: um homem a quem Deus deu “riquezas, bens e honras, a quem nada falta”, mas que não pode desfrutar de nada, “porque virá um estranho que há-de devorar tudo”. Ainda que tenha cem filhos e viva muitos anos, se a sua alma não se sacia, “um aborto vale mais do que ele”. “Ainda que vivesse dois mil anos, se não gozou dos seus bens, porventura não irá tudo para o mesmo lugar?” “Todo o trabalho do homem é para a sua boca, mas as suas aspirações não se satisfazem.” “Melhor é ter diante dos olhos o que se há-de desejar, do que desejar o que se ignora.” O homem não pode disputar com quem é mais forte do que ele. “Onde há muitas palavras, há muita vaidade. Que aproveita o homem com isso?”",
+    "alegorico": "O desejo humano que nada sacia aponta para Aquele que é o único alimento verdadeiro: “Quem vem a mim não terá fome” (Jo 6,35). Santo Agostinho resume: “o nosso coração está inquieto enquanto não repousar em ti”.",
+    "moral": "O Coélet observa uma verdade dura: ter muito não é o mesmo que ser feliz. Há quem possua tudo e não desfrute de nada. A boca se enche, mas a “alma” (o desejo profundo) não se satisfaz. Esse vazio não é defeito: é sinal de que fomos feitos para algo maior que os bens. É melhor contentar-se com o que se tem diante dos olhos do que viver de desejos sem fim.",
+    "anagogico": "O desejo que nenhuma coisa debaixo do sol sacia só encontrará repouso em Deus, na visão face a face."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A quem nada falta de quantas coisas deseja.” “Isto é uma vaidade e uma grande miséria.” “Todo o trabalho do homem é para a sua boca, mas as suas aspirações não se satisfazem.” “Melhor é ter diante dos olhos o que se há-de desejar, do que desejar o que se ignora.” “Onde há muitas palavras, há muita vaidade.”",
+    "meditatio_perguntas": [
+      "Desfruto com gratidão o que tenho, ou vivo desejando mais?",
+      "Que desejo profundo nada consegue saciar em mim?",
+      "Reconheço nesse desejo um chamado de Deus?"
+    ],
+    "oratio_guia": "Senhor, as minhas aspirações não se satisfazem com nada debaixo do sol. Sê tu o meu alimento e o meu repouso, e ensina-me a desfrutar com simplicidade os teus dons. Amém.",
+    "contemplatio_foco": {
+      "texto": "Todo o trabalho do homem é para a sua boca, mas as suas aspirações não se satisfazem",
+      "ref": "Ecl 6,7"
+    }
+  },
+  "ancoras": {
+    "6:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ficar sem sepultura era considerado a maior desgraça.",
+        "origem": "ia"
+      }
+    },
+    "6:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Já foi chamado pelo seu nome”: tudo está já determinado por Deus, e o homem não pode contender com ele.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

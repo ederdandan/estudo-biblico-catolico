@@ -1,40 +1,57 @@
 {
   "id": "ECC.8.1",
   "livro": "ECC",
-  "titulo": "O homem não compreende a obra de Deus: come o teu pão com alegria",
+  "titulo": "O homem não compreende a obra de Deus",
   "secao": "A sabedoria e os seus limites",
-  "referencia": "Ecl 8,1–9,18",
+  "referencia": "Ecl 8,1-17",
   "ini": {
     "c": 8,
     "v": 1
   },
   "fim": {
-    "c": 9,
-    "v": 18
+    "c": 8,
+    "v": 17
   },
   "liturgia": {
-    "tema_central": "O mistério do agir de Deus e a alegria simples",
+    "tema_central": "“Serão felizes os que temem a Deus”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "A sabedoria ilumina o rosto. Obedece ao rei, mas sabe que há tempo e juízo para tudo. O homem não conhece o futuro nem domina o dia da morte. O autor vê ímpios honrados e justos tratados como ímpios: vaidade. Por isso louva a alegria. Por mais que se esforce, o homem não descobre a obra que Deus faz debaixo do sol. No capítulo 9: justos e sábios estão na mão de Deus; a mesma sorte toca a todos; mais vale cão vivo que leão morto. “Vai, come o teu pão com alegria e bebe com gosto o teu vinho, porque a Deus agradam as tuas obras”; goza a vida com a mulher que amas; faze com vigor o que puderes. A sabedoria de um pobre salvou a cidade, mas ninguém se lembrou dele.",
-    "alegorico": "O pobre sábio que salva a cidade e é esquecido é figura de Cristo, que salva o mundo pela cruz e é desprezado. O pão e o vinho comidos com alegria evocam a Eucaristia, alegria dada aos que agradam a Deus.",
-    "moral": "Diante do mistério do mal e da sorte comum, o sábio não se desespera nem se rebela: acolhe as alegrias legítimas (o pão, o vinho, o amor conjugal) e trabalha com empenho. Humildade para aceitar que não compreendemos a obra de Deus.",
-    "anagogico": "“Estão na mão de Deus” os justos e os sábios: a última palavra sobre o destino não é a sorte cega, mas a mão de Deus, que a Sabedoria (3,1) revelará como vida eterna."
+    "literal": "“A sabedoria do homem reluz no seu rosto.” O Coélet aconselha prudência diante do rei, porque “a sua palavra é cheia de poder”. “Todas as coisas têm o seu tempo e o seu julgamento”, mas o homem ignora o futuro, e “não tem poder sobre o dia da morte”. Ele vê injustiças: maus sepultados com pompa e bons esquecidos; e “pelo fato de não ser proferida logo sentença contra os maus, o coração dos filhos dos homens enche-se de desejos de fazer o mal”. “Todavia, posto que o pecador cometa cem vezes o mal, e prolongue os seus dias, eu tenho conhecido que serão felizes os que temem a Deus e que respeitam a sua face. A felicidade não é para o mau; como a sombra, não terá largos dias.” Há justos que sofrem como ímpios e ímpios seguros como justos. Por isso louva a alegria simples. E conclui: “o homem não pode descobrir as obras que se fazem debaixo do sol… até o sábio, se pretender conhecer, não conseguirá descobrir.”",
+    "alegorico": "A demora do juízo, que leva os homens a pecar, é explicada por Pedro: “o Senhor não retarda a sua promessa… mas usa de paciência, não querendo que alguém pereça” (2Pd 3,9). A certeza de que “serão felizes os que temem a Deus” encontra resposta nas bem-aventuranças de Cristo (Mt 5,3-12).",
+    "moral": "O Coélet é honesto: vê o justo sofrer e o ímpio prosperar, e não esconde o escândalo. Mas, apesar de tudo, afirma uma convicção: “serão felizes os que temem a Deus”. A fé não explica tudo, mas permanece. E reconhece os limites da razão: nem o sábio entende a obra de Deus. A humildade intelectual é também sabedoria.",
+    "anagogico": "A justiça que tarda debaixo do sol será plena no juízo de Deus; a felicidade prometida aos que o temem é a vida eterna."
   },
   "lectio_divina": {
-    "lectio_resumo": "“A sabedoria do homem reluz no seu rosto.” “O homem não poderá descobrir a obra que Deus faz.” “Os justos e os sábios estão na mão de Deus.” “Vai, pois, e come o teu pão com alegria, e bebe com gosto o teu vinho.”",
+    "lectio_resumo": "“A sabedoria do homem reluz no seu rosto.” “Todas as coisas têm o seu tempo e o seu julgamento.” “Não tem poder sobre o dia da morte.” “Pelo fato de não ser proferida logo sentença contra os maus…” “Serão felizes os que temem a Deus.” “Até o sábio… não conseguirá descobrir.”",
     "meditatio_perguntas": [
-      "Aceito não compreender tudo o que Deus faz?",
-      "Sei gozar o pão de cada dia com alegria?",
-      "Quem são os “pobres sábios” esquecidos que me fizeram bem?"
+      "A demora da justiça me leva a relativizar o mal?",
+      "Mantenho a fé de que “serão felizes os que temem a Deus”?",
+      "Aceito não compreender toda a obra de Deus?"
     ],
-    "oratio_guia": "Senhor, em cujas mãos estão os justos, dá-me paz diante do que não entendo. Que eu coma o meu pão com alegria, ame com fidelidade e trabalhe com vigor. Amém.",
+    "oratio_guia": "Senhor, quando vejo o justo sofrer e o ímpio prosperar, sustenta a minha fé. Dá-me temer-te e respeitar a tua face, e aceitar humildemente os limites do meu saber. Amém.",
     "contemplatio_foco": {
-      "texto": "Vai, pois, e come o teu pão com alegria, e bebe com gosto o teu vinho",
-      "ref": "Ecl 9,7"
+      "texto": "serão felizes os que temem a Deus e que respeitam a sua face",
+      "ref": "Ecl 8,12"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "8:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O juramento de fidelidade ao rei feito diante de Deus.",
+        "origem": "ia"
+      }
+    },
+    "8:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Rm 11,33: “quão insondáveis são os seus juízos”.",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }

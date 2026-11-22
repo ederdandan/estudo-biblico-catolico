@@ -65,9 +65,23 @@
    "id": "ECC.5.1",
    "titulo": "Diante de Deus, poucas palavras; a vaidade das riquezas",
    "secao": "Tudo é vaidade",
-   "referencia": "Ecl 5,1–6,11",
+   "referencia": "Ecl 5,1-19",
    "ini": {
     "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 19
+   }
+  },
+  {
+   "id": "ECC.6.1",
+   "titulo": "As aspirações do homem não se satisfazem",
+   "secao": "Tudo é vaidade",
+   "referencia": "Ecl 6,1-11",
+   "ini": {
+    "c": 6,
     "v": 1
    },
    "fim": {
@@ -91,11 +105,25 @@
   },
   {
    "id": "ECC.8.1",
-   "titulo": "O homem não compreende a obra de Deus: come o teu pão com alegria",
+   "titulo": "O homem não compreende a obra de Deus",
    "secao": "A sabedoria e os seus limites",
-   "referencia": "Ecl 8,1–9,18",
+   "referencia": "Ecl 8,1-17",
    "ini": {
     "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 17
+   }
+  },
+  {
+   "id": "ECC.9.1",
+   "titulo": "Come o teu pão com alegria; o pobre sábio",
+   "secao": "A sabedoria e os seus limites",
+   "referencia": "Ecl 9,1-18",
+   "ini": {
+    "c": 9,
     "v": 1
    },
    "fim": {
@@ -105,11 +133,25 @@
   },
   {
    "id": "ECC.10.1",
-   "titulo": "Lança o teu pão sobre as águas",
+   "titulo": "A mosca no perfume: o sábio e o insensato",
    "secao": "A sabedoria e os seus limites",
-   "referencia": "Ecl 10,1–11,10",
+   "referencia": "Ecl 10,1-20",
    "ini": {
     "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 20
+   }
+  },
+  {
+   "id": "ECC.11.1",
+   "titulo": "Lança o teu pão sobre as águas",
+   "secao": "A sabedoria e os seus limites",
+   "referencia": "Ecl 11,1-10",
+   "ini": {
+    "c": 11,
     "v": 1
    },
    "fim": {

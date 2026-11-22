@@ -1,0 +1,57 @@
+{
+  "id": "ECC.9.1",
+  "livro": "ECC",
+  "titulo": "Come o teu pão com alegria; o pobre sábio",
+  "secao": "A sabedoria e os seus limites",
+  "referencia": "Ecl 9,1-18",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "“Vai, come o teu pão com alegria”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Os justos e sábios, com as suas obras, estão na mão de Deus.” Mas “tudo acontece igualmente a todos”: a mesma morte para o justo e o ímpio, e isso enche o coração dos homens de malícia. “Enquanto se vive, há esperança. Mais vale um cão vivo, do que um leão morto.” Os mortos já não sabem nada. Por isso: “Vai, pois, e come o teu pão com alegria, e bebe com gosto o teu vinho, porque a Deus agradam as tuas obras. Os teus vestidos sejam em todo o tempo brancos… Goza da vida, com tua amada companheira, durante todos os dias da tua vida fugaz… Faze com presteza tudo quanto pode fazer a tua mão.” Mas “a corrida não é para os velozes, nem a guerra para os fortes… o tempo e o acaso em tudo se misturam”. E uma parábola: uma pequena cidade sitiada foi salva por “um homem pobre e sábio… E ninguém depois disto se lembrou mais daquele homem pobre.” “A sabedoria vale mais do que a fortaleza, mas é desprezada a sabedoria do pobre.”",
+    "alegorico": "O “homem pobre e sábio” que salva a cidade e é esquecido é figura de Cristo, que “sendo rico, se fez pobre por nós” (2Cor 8,9) e salvou o mundo pela sabedoria da cruz, desprezada pelos poderosos (1Cor 1,23-25). O pão e o vinho comidos com alegria, “porque a Deus agradam as tuas obras”, evocam a Eucaristia.",
+    "moral": "Diante da morte, que iguala todos, o Coélet não propõe desespero, mas gratidão: comer o pão com alegria, vestir-se de festa, amar a esposa, trabalhar com empenho. A vida é breve: não se deve adiar o bem. E a sabedoria do pobre, embora esquecida, salva. O valor de uma vida não se mede pelo reconhecimento que recebe.",
+    "anagogico": "“Enquanto se vive, há esperança”: o Evangelho dá a esta esperança um horizonte novo, a vida que não termina na sepultura."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Os justos e sábios… estão na mão de Deus.” “Enquanto se vive, há esperança.” “Vai, pois, e come o teu pão com alegria.” “Goza da vida, com tua amada companheira.” “Faze com presteza tudo quanto pode fazer a tua mão.” “Um homem pobre e sábio que livrou a cidade.” “A sabedoria vale mais do que a fortaleza.”",
+    "meditatio_perguntas": [
+      "Recebo o pão de cada dia com alegria e gratidão?",
+      "Adio o bem que posso fazer hoje?",
+      "Valorizo a sabedoria dos pobres e esquecidos?"
+    ],
+    "oratio_guia": "Senhor, a minha vida está nas tuas mãos. Dá-me comer o pão com alegria, amar os meus e fazer hoje o bem que posso, sem esperar reconhecimento, como o pobre sábio que salvou a cidade. Amém.",
+    "contemplatio_foco": {
+      "texto": "come o teu pão com alegria, e bebe com gosto o teu vinho, porque a Deus agradam as tuas obras",
+      "ref": "Ecl 9,7"
+    }
+  },
+  "ancoras": {
+    "9:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O cão era animal desprezado; o leão, símbolo de nobreza.",
+        "origem": "ia"
+      }
+    },
+    "9:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Alguns relacionam a parábola com a cidade de Abel-Bet-Maaca, salva por uma mulher sábia (2Sm 20).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

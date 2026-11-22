@@ -1,40 +1,57 @@
 {
   "id": "ECC.10.1",
   "livro": "ECC",
-  "titulo": "Lança o teu pão sobre as águas",
+  "titulo": "A mosca no perfume: o sábio e o insensato",
   "secao": "A sabedoria e os seus limites",
-  "referencia": "Ecl 10,1–11,10",
+  "referencia": "Ecl 10,1-20",
   "ini": {
     "c": 10,
     "v": 1
   },
   "fim": {
-    "c": 11,
-    "v": 10
+    "c": 10,
+    "v": 20
   },
   "liturgia": {
-    "tema_central": "Generosidade e confiança diante do futuro incerto",
+    "tema_central": "Provérbios do sábio e do insensato",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Uma mosca morta estraga o perfume; um pouco de loucura pesa mais que sabedoria e honra. O coração do sábio está à direita, o do insensato à esquerda. Seguem provérbios: quem cava a cova nela cai; o machado sem fio exige mais força; o tolo multiplica palavras; ai da terra cujo rei é criança; pela preguiça cai o teto; não amaldiçoes o rei nem em pensamento. No capítulo 11: “Lança o teu pão sobre as águas, porque depois de muito tempo o acharás”; reparte com sete e com oito. Quem observa o vento não semeia; semeia de manhã e à tarde, pois não sabes o que dará fruto. Alegra-te, jovem, mas sabe que Deus te julgará.",
-    "alegorico": "O pão lançado sobre as águas foi lido como figura da esmola e da pregação do Evangelho: semente lançada sem cálculo, que Deus faz frutificar (Mt 13).",
-    "moral": "A generosidade não calcula retorno: partilha com “sete e oito”. Quem espera condições perfeitas nunca semeia. A juventude é para gozar, mas com responsabilidade diante de Deus. Pequenas faltas (a mosca no perfume) estragam grandes virtudes.",
-    "anagogico": "O pão reencontrado “depois de muito tempo” é a recompensa eterna das obras de misericórdia (Mt 25)."
+    "literal": "Uma coleção de sentenças. “A mosca que morre no unguento do perfumista infecta-o e corrompe-o. Um pouco de insensatez estraga a sabedoria e a glória.” “O coração do sábio está na sua mão direita, e o coração do insensato na sua esquerda.” Diante da ira do príncipe, “a calma evita grandes males”. O mundo às avessas: “Eu vi escravos a cavalo, e príncipes andando a pé.” “Aquele que abriu uma cova cairá nela.” “Se o ferro estiver embotado… é preciso redobrar de esforços, mas a sabedoria é preferível.” “As palavras que saem da boca do sábio são cheias de graça; os lábios, porém, do insensato perdê-lo-ão.” “Desgraçada de ti, terra, cujo rei é um menino, e cujos príncipes comem desde manhã.” “Pela preguiça se irá abatendo o madeiramento do teto, e pela incúria das mãos virá a chover em toda a casa.” “Não digas mal do rei, nem mesmo no teu pensamento… porque as aves do céu levarão a tua voz.”",
+    "alegorico": "As “palavras cheias de graça” da boca do sábio cumprem-se em Jesus, de cujas palavras todos se admiravam, “palavras de graça que saíam da sua boca” (Lc 4,22). Paulo pede: “a vossa palavra seja sempre agradável, temperada com sal” (Cl 4,6).",
+    "moral": "Pequenas coisas estragam grandes coisas: uma mosca estraga o perfume, um pouco de insensatez estraga uma reputação, a preguiça deixa a casa cair aos poucos. O sábio cuida dos detalhes, fala com graça, mantém a calma, governa-se com moderação e não alimenta nem em pensamento a maledicência.",
+    "anagogico": "A casa bem cuidada e o perfume preservado lembram a alma vigilante, que o Senhor encontrará pronta quando vier."
   },
   "lectio_divina": {
-    "lectio_resumo": "“A mosca que morre no unguento corrompe-o.” “Lança o teu pão sobre as águas que passam, porque depois de muito tempo o acharás.” “Quem observa o vento não semeia.” “Alegra-te, jovem… mas sabe que Deus te chamará a juízo.”",
+    "lectio_resumo": "“A mosca que morre no unguento do perfumista.” “Um pouco de insensatez estraga a sabedoria.” “A calma evita grandes males.” “Aquele que abriu uma cova cairá nela.” “As palavras que saem da boca do sábio são cheias de graça.” “Pela preguiça se irá abatendo o madeiramento do teto.” “Não digas mal do rei, nem mesmo no teu pensamento.”",
     "meditatio_perguntas": [
-      "Que “mosca” estraga o perfume da minha vida?",
-      "Sou generoso sem calcular retorno?",
-      "Que boa obra adio esperando as condições perfeitas?"
+      "Que “mosca” pode estar estragando o perfume da minha vida?",
+      "As minhas palavras são cheias de graça?",
+      "Há negligências que, aos poucos, deixam “chover” na minha casa?"
     ],
-    "oratio_guia": "Senhor, ensina-me a lançar o meu pão sobre as águas, a semear de manhã e à tarde sem medo do vento. Guarda o perfume da minha vida das pequenas faltas. Amém.",
+    "oratio_guia": "Senhor, dá-me sabedoria nas pequenas coisas: calma diante da ira, graça nas palavras, cuidado com a minha casa e com o meu coração. Amém.",
     "contemplatio_foco": {
-      "texto": "Lança o teu pão sobre as águas que passam, porque depois de muito tempo o acharás",
-      "ref": "Ecl 11,1"
+      "texto": "As palavras que saem da boca do sábio são cheias de graça",
+      "ref": "Ecl 10,12"
     }
   },
-  "ancoras": {},
+  "ancoras": {
+    "10:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A direita era o lado da força e da habilidade.",
+        "origem": "ia"
+      }
+    },
+    "10:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Rei menino”: imaturo, não necessariamente jovem.",
+        "origem": "ia"
+      }
+    }
+  },
   "revisado": false
 }
