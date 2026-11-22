@@ -1,0 +1,43 @@
+# Divisão em perícopes (numeração Matos Soares / Vulgata). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## Primeiro discurso: a memória do caminho
+1:1-1:46 | Do Horeb a Cades: a recusa de entrar
+2:1-2:37 | Edom, Moab, Amon e a vitória sobre Seon
+3:1-3:29 | Og de Basã; Moisés vê a terra de longe
+4:1-4:49 | “Que nação tem deuses tão próximos?”
+## Segundo discurso: o grande mandamento
+5:1-5:33 | O Decálogo no Horeb
+6:1-6:25 | “Ouve, Israel”: amarás o Senhor
+7:1-7:26 | Povo santo, escolhido por amor
+8:1-8:20 | “Nem só de pão vive o homem”
+9:1-10:11 | Não por tua justiça: o bezerro de ouro recordado
+10:12-10:22 | “Que é que o Senhor teu Deus pede de ti?”
+11:1-11:32 | A terra que bebe a chuva do céu: bênção e maldição
+## O código deuteronômico
+12:1-12:32 | O lugar que o Senhor escolher
+13:1-13:18 | Contra os falsos profetas e a sedução da idolatria
+14:1-14:29 | Filhos do Senhor: alimentos e dízimos
+15:1-15:23 | O ano da remissão: “não haverá pobre entre vós”
+16:1-16:22 | As três festas de peregrinação e os juízes
+17:1-17:20 | O tribunal e a lei do rei
+18:1-18:22 | Os levitas e o profeta semelhante a Moisés
+19:1-19:21 | Cidades de refúgio, marcos e testemunhas
+20:1-20:20 | As leis da guerra
+21:1-21:23 | O sangue sem culpado e o maldito pendurado no madeiro
+22:1-22:30 | O animal do irmão, o ninho e a honra do matrimônio
+23:1-23:25 | A assembleia do Senhor e a pureza do acampamento
+24:1-24:22 | O divórcio e a proteção do pobre, do órfão e da viúva
+25:1-25:19 | O levirato, os pesos justos e Amalec
+26:1-26:19 | As primícias: “meu pai era um arameu errante”
+## Bênçãos e maldições
+27:1-27:26 | As pedras escritas e as maldições do Ebal
+28:1-28:14 | As bênçãos da obediência
+28:15-28:68 | As maldições da infidelidade
+## Terceiro discurso: a aliança em Moab
+29:1-29:29 | A aliança renovada em Moab
+30:1-30:20 | “Escolhe a vida”
+## Os últimos dias de Moisés
+31:1-31:30 | Josué, a Lei escrita e o cântico como testemunho
+32:1-32:52 | O cântico de Moisés
+33:1-33:29 | A bênção de Moisés sobre as tribos
+34:1-34:12 | A morte de Moisés

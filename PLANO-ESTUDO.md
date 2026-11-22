@@ -3,7 +3,7 @@
 > Documento de continuidade. Se a conversa com o Claude for limpa (`/clear`), comece por:
 > **"Leia PLANO-ESTUDO.md e continue da próxima fase pendente."**
 
-Última atualização: 2026-11-21 (Lote 14 concluído por episódio: 1 Reis 29, 2 Reis 30, 1 Macabeus 29, 2 Macabeus 22; total 1569)
+Última atualização: 2026-11-21 (Lote 15 concluído por episódio: Levítico 29, Números 36, Deuteronômio 35; total 1669)
 
 ---
 
@@ -122,7 +122,7 @@ Lote 4: Romanos ✅ 30 · 1 Coríntios ✅ 26 · Hebreus ✅ 17 · 2 Coríntios 
 - **Lote 12** Sapienciais longos: Jó JOB · Eclesiástico SIR — ✅ por episódio: JOB 37 · SIR 102 = **139 perícopes**
 - **Lote 13** História I: Josué JOS · Juízes JDG · 1 Samuel 1SA · 2 Samuel 2SA — ✅ por episódio: JOS 27 · JDG 30 · 1SA 36 · 2SA 30 = **123 perícopes**
 - **Lote 14** História II: 1 Reis 1KI · 2 Reis 2KI · 1 Macabeus 1MA · 2 Macabeus 2MA — ✅ por episódio: 1KI 29 · 2KI 30 · 1MA 29 · 2MA 22 = **110 perícopes**
-- **Lote 15** Lei: Levítico LEV · Números NUM · Deuteronômio DEU (genealogias, listas e leis em perícopes maiores) (~170) — ⏳
+- **Lote 15** Lei: Levítico LEV · Números NUM · Deuteronômio DEU — ✅ por episódio (leis e listas em blocos de cerca de um capítulo): LEV 29 · NUM 36 · DEU 35 = **100 perícopes**
 - **Lote 16** Crônicas e retorno: 1CH · 2CH · Esdras EZR · Neemias NEH (idem) (~120) — ⏳
 No AT também não há Catena: `padres: []`. Salmos seguem a numeração da Vulgata (o título do salmo é o v. 1).
 
@@ -228,7 +228,7 @@ Aviso esperado do script: `JHN 6:47–51 sobrepõe 6:51`. A sobreposição já e
 1. **Mateus** (107/107, concluído). Fluxo usado: `PER=6 MAX=170 node scripts/estudo.mjs contexto MAT c.v` → JSON → `check MAT`. O check valida secao e exige que `contemplatio_foco` seja citação literal de Matos Soares.
    **Lucas** ✅ (concluído): `scripts/pericopes/LUK.txt` com 78 perícopes, índice gerado; a Catena de LUK já usa a numeração de Matos Soares. Fluxo: `PER=6 MAX=170 node scripts/estudo.mjs contexto LUK c.v` → JSON → `check LUK`. Feitas: 78/78.
    **João** ✅ (concluído): `scripts/pericopes/JHN.txt` com 48 perícopes em 6 seções; a Catena de JHN já usa a numeração de Matos Soares (Jo 6 tem 72 versículos: MS 6,52 = 6,51b moderno, e daí em diante MS = moderno + 1). Feitas: 48/48.
-   **NT em lotes (ver Fase 4): Lotes 1, 2, 3 e 4 ✅: NT completo (561 perícopes).** **AT: Lote 5 (Salmos) ✅ 171 · Lote 6 (Rute, Tobias, Judite, Ester) ✅ 40 · Lote 7 (profetas menores) ✅ 59 · Lote 8 (sapienciais curtos) ✅ 50 · Lote 9 (Isaías, Lamentações, Baruc, Daniel) ✅ 71 · Lote 10 (Gênesis, Êxodo) ✅ 130 · Lote 11 (Jeremias, Ezequiel) ✅ 115 · Lote 12 (Jó, Eclesiástico) ✅ 139 · Lote 13 (Josué, Juízes, 1–2 Samuel) ✅ 123 · Lote 14 (1–2 Reis, 1–2 Macabeus) ✅ 110, por episódio. Próximo: Lote 15 (Levítico, Números, Deuteronômio); depois Lote 16 e rever a granularidade dos Lotes 7 a 9.** Fora dos Evangelhos não há Catena: `padres` fica `[]` (decidido). Para cada livro: criar `scripts/pericopes/{ID}.txt`, rodar `index {ID}`, escrever os JSON e `check {ID}`.
+   **NT em lotes (ver Fase 4): Lotes 1, 2, 3 e 4 ✅: NT completo (561 perícopes).** **AT: Lote 5 (Salmos) ✅ 171 · Lote 6 (Rute, Tobias, Judite, Ester) ✅ 40 · Lote 7 (profetas menores) ✅ 59 · Lote 8 (sapienciais curtos) ✅ 50 · Lote 9 (Isaías, Lamentações, Baruc, Daniel) ✅ 71 · Lote 10 (Gênesis, Êxodo) ✅ 130 · Lote 11 (Jeremias, Ezequiel) ✅ 115 · Lote 12 (Jó, Eclesiástico) ✅ 139 · Lote 13 (Josué, Juízes, 1–2 Samuel) ✅ 123 · Lote 14 (1–2 Reis, 1–2 Macabeus) ✅ 110 · Lote 15 (Levítico, Números, Deuteronômio) ✅ 100, por episódio. Próximo: Lote 16 (1–2 Crônicas, Esdras, Neemias); depois rever a granularidade dos Lotes 7 a 9.** Fora dos Evangelhos não há Catena: `padres` fica `[]` (decidido). Para cada livro: criar `scripts/pericopes/{ID}.txt`, rodar `index {ID}`, escrever os JSON e `check {ID}`.
 2. Dica de fidelidade: os excertos de `contexto` com MAX vêm truncados; para sintetizar um excerto além do trecho visível, conferir o texto integral em `docs/data/catena/{ID}.json` (blocos[].trechos[i].texto).
    - **Atenção (Mateus)**: a Catena de MAT usa a numeração moderna, sem mapa. Divergências com Matos Soares: 5,4↔5,5 (mansos/choram invertidos) e o capítulo 17 a partir de ~17,15 (Vulgata une versículos). Ancorar cada Padre pelo conteúdo, não pelo número do bloco.
 3. No fim (depois do conteúdo): fase 1.2 (CIC) e 1.3 (Lecionário, campo `usos`).

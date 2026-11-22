@@ -1,0 +1,57 @@
+{
+  "id": "DEU.8.1",
+  "livro": "DEU",
+  "titulo": "“Nem só de pão vive o homem”",
+  "secao": "Segundo discurso: o grande mandamento",
+  "referencia": "Dt 8,1-20",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "“O homem não vive só do pão”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Recordar-te-ás de todo o caminho por onde o Senhor teu Deus te conduziu pelo deserto durante quarenta anos, para te castigar, para te provar, e para que tornasse manifesto o que estava dentro do teu coração.” “Afligiu-te com a fome, deu-te por sustento o maná… para te mostrar que o homem não vive só do pão, mas de toda a palavra que sai da boca de Deus.” A roupa não se gastou, o pé não inchou: “do mesmo modo que um homem instrui seu filho, assim o Senhor teu Deus te instruiu a ti”. Agora ele te leva a uma terra boa: torrentes e fontes, trigo e cevada, vinhas, figueiras, romãzeiras e oliveiras, azeite e mel, pão sem escassez. “Quando tiveres comido e estiveres saciado, darás graças ao Senhor teu Deus.” Mas cuidado: depois de construir casas e acumular gados e prata, que o teu coração não se eleve e esqueças quem te guiou pelo deserto terrível, com serpentes e escorpiões, e te deu água da rocha e o maná. Não digas: “a minha força e o vigor do meu braço adquiriram-me todas estas coisas”, mas lembra-te de que foi o Senhor que te deu a força.",
+    "alegorico": "Jesus responde ao tentador no deserto com este versículo: “Não só de pão vive o homem, mas de toda a palavra que sai da boca de Deus” (Mt 4,4). Os quarenta dias de Jesus correspondem aos quarenta anos de Israel: onde o povo falhou, ele foi fiel. O maná, alimento que vem do alto, prefigura a Eucaristia, “pão vivo que desceu do céu” (Jo 6,51).",
+    "moral": "O deserto é escola: Deus prova para revelar o coração e educar como um pai. A pobreza ensina a depender de Deus; a abundância é perigosa, porque nos faz pensar que tudo vem de nós. O antídoto é a ação de graças depois de comer: daí a oração antes e depois das refeições. Lembrar o deserto preserva da soberba na fartura.",
+    "anagogico": "A terra boa, com fontes e trigo e mel, é imagem da pátria celeste, onde “não terão mais fome nem sede” (Ap 7,16), alimentados pela Palavra que sai da boca de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Recordar-te-ás de todo o caminho por onde o Senhor teu Deus te conduziu.” “Para que tornasse manifesto o que estava dentro do teu coração.” “O homem não vive só do pão, mas de toda a palavra que sai da boca de Deus.” “Assim o Senhor teu Deus te instruiu a ti.” “Darás graças ao Senhor teu Deus.” “A minha força… adquiriram-me todas estas coisas.”",
+    "meditatio_perguntas": [
+      "Vejo as provações como pedagogia de um Pai?",
+      "Alimento-me da Palavra de Deus tanto quanto do pão?",
+      "Dou graças depois de me saciar, ou atribuo tudo à minha força?"
+    ],
+    "oratio_guia": "Senhor, que me instruíste no deserto como um pai instrui o filho, dá-me viver de toda a palavra que sai da tua boca. Na abundância, que eu não te esqueça, mas te dê graças por tudo. Amém.",
+    "contemplatio_foco": {
+      "texto": "o homem não vive só do pão, mas de toda a palavra que sai da boca de Deus",
+      "ref": "Dt 8,3"
+    }
+  },
+  "ancoras": {
+    "8:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado por Jesus em Mt 4,4 e Lc 4,4.",
+        "origem": "ia"
+      }
+    },
+    "8:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Daí a bênção judaica depois das refeições (Birkat ha-Mazon) e o costume cristão da oração à mesa.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

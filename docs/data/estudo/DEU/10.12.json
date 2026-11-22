@@ -1,0 +1,57 @@
+{
+  "id": "DEU.10.12",
+  "livro": "DEU",
+  "titulo": "“Que é que o Senhor teu Deus pede de ti?”",
+  "secao": "Segundo discurso: o grande mandamento",
+  "referencia": "Dt 10,12-22",
+  "ini": {
+    "c": 10,
+    "v": 12
+  },
+  "fim": {
+    "c": 10,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "“Que é o que o Senhor teu Deus pede de ti?”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“E agora, ó Israel, que é o que o Senhor teu Deus pede de ti, senão que temas o Senhor teu Deus, andando nos seus caminhos, amando e servindo o Senhor teu Deus de todo o teu coração e de toda a tua alma, observando os mandamentos… para que sejas feliz?” A ele pertencem o céu, o céu dos céus, a terra e tudo o que nela há; e, no entanto, ele se uniu aos pais de Israel e os amou. “Circuncidai, pois, o vosso coração, e não endureçais mais a vossa cerviz, porque o Senhor vosso Deus é o Deus dos deuses, o Senhor dos senhores… que não faz acepção de pessoas, nem recebe presentes. Ele faz justiça ao órfão e à viúva, ama o peregrino e dá-lhe o sustento e vestuário. Amai vós, também, os estrangeiros, porque fostes estrangeiros na terra do Egipto.” Temerás o Senhor, só a ele servirás, a ele te unirás. “Ele é a tua glória e o teu Deus.” Setenta pessoas desceram ao Egito, e agora são como as estrelas do céu.",
+    "alegorico": "A “circuncisão do coração” é o tema que Paulo desenvolve: “a verdadeira circuncisão é a do coração, segundo o espírito” (Rm 2,29). O Deus que ama o estrangeiro e o órfão revela-se plenamente em Cristo, que acolhe os de fora e se identifica com o forasteiro: “era peregrino e recolhestes-me” (Mt 25,35).",
+    "moral": "O que Deus pede cabe numa frase: temer, andar, amar, servir, observar, “para que sejas feliz”. Os mandamentos são para a nossa felicidade, não para a de Deus. E amar a Deus é inseparável de imitá-lo: ele faz justiça ao órfão e à viúva e ama o estrangeiro; quem o ama faz o mesmo. A memória de ter sido estrangeiro gera compaixão.",
+    "anagogico": "“Ele é a tua glória”: no fim, a glória do povo de Deus será o próprio Deus, possuído para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Que é o que o Senhor teu Deus pede de ti?” “Amando e servindo o Senhor teu Deus de todo o teu coração.” “Para que sejas feliz.” “Circuncidai, pois, o vosso coração.” “Ama o peregrino.” “Amai vós, também, os estrangeiros.” “Ele é a tua glória e o teu Deus.”",
+    "meditatio_perguntas": [
+      "Creio que os mandamentos são para a minha felicidade?",
+      "O meu coração está “circuncidado”, aberto a Deus, ou endurecido?",
+      "Imito o amor de Deus pelo órfão, pela viúva e pelo estrangeiro?"
+    ],
+    "oratio_guia": "Senhor dos senhores, que amas o peregrino e fazes justiça ao órfão, circuncida o meu coração. Que eu te ame e te sirva com toda a alma, e ame os que tu amas. Tu és a minha glória. Amém.",
+    "contemplatio_foco": {
+      "texto": "que é o que o Senhor teu Deus pede de ti",
+      "ref": "Dt 10,12"
+    }
+  },
+  "ancoras": {
+    "10:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Dt 30,6; Jr 4,4; Rm 2,29.",
+        "origem": "ia"
+      }
+    },
+    "10:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. At 10,34: “Deus não faz acepção de pessoas”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

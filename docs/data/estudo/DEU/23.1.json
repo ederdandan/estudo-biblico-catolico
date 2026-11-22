@@ -1,0 +1,57 @@
+{
+  "id": "DEU.23.1",
+  "livro": "DEU",
+  "titulo": "A assembleia do Senhor e a pureza do acampamento",
+  "secao": "O código deuteronômico",
+  "referencia": "Dt 23,1-25",
+  "ini": {
+    "c": 23,
+    "v": 1
+  },
+  "fim": {
+    "c": 23,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "A assembleia do Senhor e o refúgio do escravo fugido",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Determina-se quem pode entrar na “assembleia do Senhor”: são excluídos os eunucos mutilados e os nascidos de união ilícita; os amonitas e moabitas, para sempre, porque não acolheram Israel com pão e água e contrataram Balaão para amaldiçoá-lo, “embora o Senhor teu Deus… trocasse a sua maldição em bênção, porque te amava”. Mas “não abominarás o Idumeu, porque é teu irmão, nem o Egípcio, porque tu foste forasteiro na sua terra”. O acampamento em guerra deve ser limpo, porque “o Senhor teu Deus anda no meio do campo”. “Não entregarás ao seu senhor o escravo, que se tiver refugiado junto de ti. Ele habitará contigo no lugar que lhe agradar… não o contristes.” Proíbe-se a prostituição sagrada e oferecer ao Senhor o seu ganho. “Não emprestarás com usura a teu irmão.” Quem faz um voto não demore a cumpri-lo; “se não quiseres prometer, não pecarás”. Quem passa pela vinha do próximo pode comer uvas, mas não levá-las; na seara, colher espigas com a mão, mas não com a foice.",
+    "alegorico": "Isaías anunciará a abertura da assembleia: os eunucos e os estrangeiros terão “um lugar e um nome melhor do que filhos e filhas” (Is 56,3-7), e Filipe batiza o eunuco etíope (At 8,27-38). A moabita Rute entra no povo e se torna antepassada de Davi e de Cristo. Os discípulos que colhem espigas ao passar pela seara (Mc 2,23) agem segundo esta lei.",
+    "moral": "A Lei protege o escravo fugido, contra o direito de quase todos os povos antigos: a dignidade da pessoa vale mais que a propriedade. Proíbe a usura entre irmãos e regula com bom senso a fome do viajante: pode comer, mas não explorar. E sobre os votos: é melhor não prometer do que prometer e não cumprir.",
+    "anagogico": "O Deus que transforma a maldição em bênção “porque te amava” abrirá no fim a assembleia a todos os povos, e na Jerusalém celeste “as nações caminharão à sua luz” (Ap 21,24)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Trocasse a sua maldição em bênção, porque te amava.” “Não abominarás o Idumeu, porque é teu irmão.” “Não entregarás ao seu senhor o escravo, que se tiver refugiado junto de ti.” “Não o contristes.” “Se não quiseres prometer, não pecarás.”",
+    "meditatio_perguntas": [
+      "Acolho quem se refugia junto de mim, ou o devolvo à sua opressão?",
+      "Creio que Deus transforma em bênção as maldições lançadas contra mim?",
+      "Cumpro sem demora o que prometo a Deus?"
+    ],
+    "oratio_guia": "Senhor, que mudas a maldição em bênção porque nos amas, faz de mim um refúgio para os oprimidos e um cumpridor fiel das minhas promessas. Amém.",
+    "contemplatio_foco": {
+      "texto": "o Senhor teu Deus não quisesse ouvir Balaão, e trocasse a sua maldição em bênção, porque te amava",
+      "ref": "Dt 23,5"
+    }
+  },
+  "ancoras": {
+    "23:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Neemias aplicou esta lei (Ne 13,1-3); mas Rute, moabita, foi acolhida em Israel.",
+        "origem": "ia"
+      }
+    },
+    "23:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Mt 12,1: os discípulos colhem espigas no sábado.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "DEU.4.1",
+  "livro": "DEU",
+  "titulo": "“Que nação tem deuses tão próximos?”",
+  "secao": "Primeiro discurso: a memória do caminho",
+  "referencia": "Dt 4,1-49",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 49
+  },
+  "liturgia": {
+    "tema_central": "Um Deus tão próximo: ouvistes a voz, não vistes figura",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Agora, ó Israel, ouve os preceitos… para que, observando-os, vivas.” Nada se acrescente nem se tire à palavra. Os que se uniram ao Senhor estão vivos; os de Baal-Fegor pereceram. Guardar a Lei é a sabedoria de Israel diante das nações, que dirão: “Eis um povo sábio e inteligente”. “Não há outra nação tão grande, que tenha deuses tão próximos a si, como o nosso Deus, que está presente a todas as nossas preces.” Moisés exorta: “Não esqueças as coisas que teus olhos viram… Tu as ensinarás a teus filhos e a teus netos.” No Horeb, “o Senhor falou-vos do meio do fogo. Vós ouvistes a voz das suas palavras, mas não vistes figura alguma”; por isso não fareis imagens de homem, animal ou astro para adorar. “O Senhor teu Deus é um fogo devorador, um Deus zeloso.” Se o povo se corromper, será disperso entre as nações; mas “quando lá procurares o Senhor teu Deus, encontrá-lo-ás, contanto que o busques de todo o teu coração”, porque “o Senhor teu Deus é um Deus misericordioso”. Que povo ouviu a voz de Deus do meio do fogo e continuou vivo? “Reconhece, pois, neste dia… que o Senhor é o único Deus… e não há outro.” Moisés separa três cidades de refúgio na Transjordânia.",
+    "alegorico": "O Deus que Israel não viu em figura alguma mostrou o seu rosto em Cristo: “Quem me vê, vê o Pai” (Jo 14,9). Por isso a Igreja, no II Concílio de Niceia, justificou as imagens: o Invisível tornou-se visível na carne. O Deus “tão próximo” chega à proximidade máxima na Encarnação e na Eucaristia.",
+    "moral": "A Lei é sabedoria, não peso: quem a vive torna-se luz para os outros povos. A fé se transmite pela memória e pelo ensino aos filhos e netos. A proibição das imagens protege contra a tentação de reduzir Deus a algo que manipulamos. E mesmo depois da infidelidade, a porta está aberta: “encontrá-lo-ás, se o buscares de todo o coração”.",
+    "anagogico": "Agora ouvimos a voz sem ver a figura; um dia “veremos a Deus tal como ele é” (1Jo 3,2)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não acrescentareis, nem tirareis nada à palavra.” “Não há outra nação tão grande, que tenha deuses tão próximos a si.” “Vós ouvistes a voz das suas palavras, mas não vistes figura alguma.” “O Senhor teu Deus é um fogo devorador.” “Encontrá-lo-ás, contanto que o busques de todo o teu coração.” “O Senhor teu Deus é um Deus misericordioso.”",
+    "meditatio_perguntas": [
+      "Sinto Deus próximo, presente a todas as minhas preces?",
+      "Transmito aos mais novos as obras de Deus que vi?",
+      "Busco a Deus de todo o coração, mesmo depois de me afastar?"
+    ],
+    "oratio_guia": "Senhor, Deus tão próximo, presente a todas as minhas preces, faz-me buscar-te de todo o coração. Que eu nunca me esqueça do que fizeste e o ensine aos que vêm depois de mim. Amém.",
+    "contemplatio_foco": {
+      "texto": "que tenha deuses tão próximos a si, como o nosso Deus, que está presente a todas as nossas preces",
+      "ref": "Dt 4,7"
+    }
+  },
+  "ancoras": {
+    "4:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em Hb 12,29.",
+        "origem": "ia"
+      }
+    },
+    "4:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Retomado em Jr 29,13: “Buscar-me-eis e me achareis, quando me buscardes de todo o vosso coração.”",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "DEU.20.1",
+  "livro": "DEU",
+  "titulo": "As leis da guerra",
+  "secao": "O código deuteronômico",
+  "referencia": "Dt 20,1-20",
+  "ini": {
+    "c": 20,
+    "v": 1
+  },
+  "fim": {
+    "c": 20,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "“Não temais, porque o Senhor vosso Deus está no meio de vós”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Na guerra, diante de cavalos e carros mais numerosos, “não os temerás, porque o Senhor teu Deus… é contigo”. Antes da batalha, o sacerdote fala ao povo: “Ouve, ó Israel!… Não se atemorize o vosso coração… porque o Senhor vosso Deus está no meio de vós, combaterá por vós.” Depois, os oficiais dispensam: quem construiu casa nova e não a estreou, quem plantou vinha e não colheu, quem está noivo e não casou: “Vá, torne para sua casa”. E também: “Quem é medroso e de coração tímido? Vá, volte para sua casa, para que o coração de seus irmãos não desfaleça como o dele.” Diante de uma cidade distante, primeiro se oferece a paz; se ela aceitar, será tributária; se não, será sitiada. As cidades de Canaã, porém, serão votadas ao anátema, para que não ensinem as suas abominações. E no cerco: “não cortarás as árvores de cujo fruto se pode comer… porque são árvores, e não homens”.",
+    "alegorico": "As guerras de Israel foram lidas pelos Padres como figura do combate espiritual: “não é contra a carne e o sangue que temos de lutar, mas contra os principados e potestades” (Ef 6,12). O sacerdote que encoraja o povo antes da batalha anuncia Cristo, que diz: “tende confiança, eu venci o mundo” (Jo 16,33).",
+    "moral": "A Lei limita a guerra: oferecer primeiro a paz, dispensar quem tem a vida por começar, poupar as árvores frutíferas. Mesmo no meio da violência, há humanidade e respeito pela criação. As leis de anátema refletem uma etapa imperfeita da revelação, que Cristo supera. E o medo é contagioso: quem desanima os outros prejudica a comunidade; a coragem nasce da certeza de que Deus combate conosco.",
+    "anagogico": "O Deus que combate pelo seu povo vencerá o último inimigo, a morte (1Cor 15,26), e então não haverá mais guerra: “converterão as suas espadas em arados” (Is 2,4)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não os temerás, porque o Senhor teu Deus… é contigo.” “Não se atemorize o vosso coração.” “O Senhor vosso Deus está no meio de vós, combaterá por vós.” “Para que o coração de seus irmãos não desfaleça como o dele.” “Porque são árvores, e não homens.”",
+    "meditatio_perguntas": [
+      "No combate espiritual, confio que Deus luta comigo?",
+      "O meu medo desanima os outros?",
+      "Busco primeiro a paz antes de qualquer confronto?"
+    ],
+    "oratio_guia": "Senhor, que combates no meio do teu povo, tira o medo do meu coração no combate espiritual. Dá-me buscar sempre a paz e respeitar a tua criação. Amém.",
+    "contemplatio_foco": {
+      "texto": "o Senhor vosso Deus está no meio de vós, combaterá por vós contra os vossos inimigos",
+      "ref": "Dt 20,4"
+    }
+  },
+  "ancoras": {
+    "20:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A oferta de paz antes do cerco é uma limitação notável da guerra no mundo antigo.",
+        "origem": "ia"
+      }
+    },
+    "20:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Proteção das árvores frutíferas: uma das mais antigas normas de respeito ao meio ambiente.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

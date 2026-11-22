@@ -1,0 +1,49 @@
+{
+  "id": "DEU.13.1",
+  "livro": "DEU",
+  "titulo": "Contra os falsos profetas e a sedução da idolatria",
+  "secao": "O código deuteronômico",
+  "referencia": "Dt 13,1-18",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Quando um sinal convida a seguir outros deuses",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Se se levantar no meio de ti um profeta, ou alguém que diga que teve um sonho”, e predisser um sinal que se cumpre, mas disser: “Vamos, sigamos os deuses estranhos”, não o ouvirás, “porque o Senhor vosso Deus vos põe à prova, para se tornar manifesto se o amais ou não de todo o vosso coração”. “Segui o Senhor vosso Deus, temei-o, guardai os seus mandamentos e ouvi a sua voz; a ele servireis, a ele vos unireis.” O falso profeta será morto. O mesmo vale se o convite à idolatria vier em segredo do irmão, do filho, da esposa “que repousa sobre o teu seio”, ou do amigo “a quem amas como à tua alma”: não cedas nem o encubras. E se uma cidade inteira se deixar arrastar por “pessoas malvadas” para a idolatria, depois de cuidadosa investigação, será destruída como anátema.",
+    "alegorico": "Jesus adverte: “levantar-se-ão falsos cristos e falsos profetas, e farão grandes sinais e prodígios, de modo a enganar, se possível, até os escolhidos” (Mt 24,24). O critério não é o prodígio, mas a fidelidade ao Deus verdadeiro: “ainda que nós ou um anjo do céu vos anuncie outro evangelho… seja anátema” (Gl 1,8).",
+    "moral": "Nem todo sinal extraordinário vem de Deus: o critério é para onde conduz. Se afasta de Deus e dos seus mandamentos, é falso, por mais espetacular que seja. E a fidelidade a Deus está acima até dos laços mais queridos: “quem ama pai ou mãe mais do que a mim não é digno de mim” (Mt 10,37). As penas da Lei antiga não são as do cristão, mas permanece a firmeza: não pactuar com o que afasta de Deus, venha de onde vier.",
+    "anagogico": "A prova da fé, “para se tornar manifesto se o amais”, prepara a manifestação final dos corações, quando cada um será conhecido pelo que amou."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Se predisser algum sinal ou prodígio.” “O Senhor vosso Deus vos põe à prova, para se tornar manifesto se o amais ou não de todo o vosso coração.” “Segui o Senhor vosso Deus… a ele servireis, a ele vos unireis.” “O amigo, a quem amas como à tua alma.”",
+    "meditatio_perguntas": [
+      "Deixo-me impressionar por sinais e novidades que me afastam do essencial?",
+      "Discerno as vozes que me falam em nome de Deus?",
+      "Algum laço humano tem mais força em mim do que a fidelidade a Deus?"
+    ],
+    "oratio_guia": "Senhor, dá-me discernimento para não seguir sinais que me afastam de ti. Que eu te siga, te tema, guarde os teus mandamentos e me una a ti acima de tudo. Amém.",
+    "contemplatio_foco": {
+      "texto": "a ele servireis, a ele vos unireis",
+      "ref": "Dt 13,4"
+    }
+  },
+  "ancoras": {
+    "13:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Onde o hebraico diz “filhos de Belial”, Matos Soares traduz “pessoas malvadas”; Paulo usa Belial como nome de Satanás (2Cor 6,15).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

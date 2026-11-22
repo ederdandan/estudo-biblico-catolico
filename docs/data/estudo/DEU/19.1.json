@@ -1,0 +1,57 @@
+{
+  "id": "DEU.19.1",
+  "livro": "DEU",
+  "titulo": "Cidades de refúgio, marcos e testemunhas",
+  "secao": "O código deuteronômico",
+  "referencia": "Dt 19,1-21",
+  "ini": {
+    "c": 19,
+    "v": 1
+  },
+  "fim": {
+    "c": 19,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "Proteger o inocente: refúgio, limites e testemunho verdadeiro",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Na terra, Israel separará três cidades de refúgio e aplanará o caminho até elas, “para que o que está fugitivo por homicídio, tenha um lugar vizinho a que se acolha”. O exemplo: dois homens vão cortar lenha, o ferro escapa do cabo e mata o companheiro; o homicida involuntário foge para a cidade e vive, “não suceda que algum parente… o seguisse… e matasse um homem que não merece a morte”. Se a terra crescer, acrescentem-se outras três, “para que não se derrame sangue inocente”. Mas o assassino por ódio não é protegido: os anciãos o entregam ao vingador. “Não moverás, nem transportarás os marcos do teu próximo.” Uma só testemunha não basta: “tudo será verificado sobre o depoimento de duas ou três testemunhas”. A testemunha falsa, depois de diligente exame, sofrerá o que queria fazer ao irmão: “vida por vida, olho por olho, dente por dente”.",
+    "alegorico": "O caminho aplanado até à cidade de refúgio foi lido como figura de Cristo, que nos torna fácil o acesso ao perdão. A exigência de duas ou três testemunhas é retomada por Jesus para a correção fraterna (Mt 18,16), e no processo contra ele as testemunhas falsas não concordavam (Mc 14,56): o Justo foi condenado pela mentira que esta lei proibia.",
+    "moral": "A justiça deve proteger o inocente, distinguir a intenção e não se deixar levar pela emoção da vingança. Mover os marcos do vizinho é um roubo silencioso. E o falso testemunho é tão grave que recebe a pena que queria causar. O oitavo mandamento protege a vida e a honra do próximo.",
+    "anagogico": "Deus é o refúgio definitivo: “Senhor, tu foste o nosso refúgio de geração em geração” (Sl 89,1); no juízo final, nenhum falso testemunho prevalecerá."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Aplanarás com cuidado o caminho.” “Para que o que está fugitivo por homicídio, tenha um lugar vizinho a que se acolha.” “Para que não se derrame sangue inocente.” “Não moverás… os marcos do teu próximo.” “Sobre o depoimento de duas ou três testemunhas.”",
+    "meditatio_perguntas": [
+      "Facilito o caminho do perdão para quem errou sem querer?",
+      "Respeito os “marcos” dos outros: bens, espaço, reputação?",
+      "Já dei falso testemunho, ou espalhei acusações sem prova?"
+    ],
+    "oratio_guia": "Senhor, meu refúgio, protege os inocentes e aplana o caminho do perdão. Guarda-me de mover os marcos do próximo e de levantar falso testemunho. Amém.",
+    "contemplatio_foco": {
+      "texto": "tudo será verificado sobre o depoimento de duas ou três testemunhas",
+      "ref": "Dt 19,15"
+    }
+  },
+  "ancoras": {
+    "19:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Pr 22,28: “Não removas os marcos antigos”.",
+        "origem": "ia"
+      }
+    },
+    "19:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jesus supera a lei de talião em Mt 5,38-39.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

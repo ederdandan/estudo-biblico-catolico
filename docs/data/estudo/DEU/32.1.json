@@ -1,0 +1,65 @@
+{
+  "id": "DEU.32.1",
+  "livro": "DEU",
+  "titulo": "O cântico de Moisés",
+  "secao": "Os últimos dias de Moisés",
+  "referencia": "Dt 32,1-52",
+  "ini": {
+    "c": 32,
+    "v": 1
+  },
+  "fim": {
+    "c": 32,
+    "v": 52
+  },
+  "liturgia": {
+    "tema_central": "“Como a águia que provoca seus filhos a voar”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Moisés canta diante de todo Israel: “Ouvi, ó céus, o que vou dizer, ouça a terra as palavras da minha boca! Derrame-se como a chuva a minha doutrina… As obras de Deus são perfeitas, e todos os seus caminhos são justos. Deus é fiel, e sem nenhuma iniquidade.” Mas o povo é “geração depravada e perversa”: “É este o agradecimento que dás ao Senhor, povo louco e insensato? Não é ele teu Pai, que te criou?” Jacó é a herança do Senhor: “encontrou-o numa terra deserta… guardou-o como as meninas dos seus olhos. Como a águia que provoca seus filhos a voar, e esvoaça sobre eles, estendeu as suas asas e o tomou, e o levou sobre seus ombros.” Deu-lhe mel da pedra e azeite da rocha. “Mas Jesurun engordou e recalcitrou… abandonou a Deus seu criador”, sacrificando a demônios. O Senhor esconde a face e anuncia castigos; mas não destrói o povo, para que os inimigos não se gloriem. “A mim pertence a vingança.” “Vede que sou eu só… eu faço morrer, e faço viver; firo e curo.” “Louvai, ó gentes, o seu povo.” Moisés exorta: estas palavras “não foram em vão… mas para que cada um de vós ache nelas a vida”. E o Senhor manda Moisés subir ao monte Nebo, ver a terra e morrer ali.",
+    "alegorico": "O cântico é citado várias vezes no Novo Testamento: “A mim pertence a vingança” (Rm 12,19; Hb 10,30); “eu os provocarei com um que não é povo” (Rm 10,19), aplicado à entrada dos gentios; “Louvai, ó gentes” (Rm 15,10). A águia que leva os filhotes sobre as asas é imagem do Pai que educa e sustenta, e de Cristo, que nos leva sobre os ombros como o pastor à ovelha.",
+    "moral": "O cântico é memória e advertência: a fartura gerou o esquecimento, “Jesurun engordou e recalcitrou”. Deus educa como a águia, que empurra os filhotes do ninho para aprenderem a voar, mas voa por baixo para apanhá-los. As provações são parte desse cuidado. E deixar a vingança a Deus liberta o coração do ódio.",
+    "anagogico": "“Eu vivo eternamente”: o Deus que faz morrer e faz viver é o Senhor da ressurreição, que no fim curará tudo o que feriu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Derrame-se como a chuva a minha doutrina.” “Deus é fiel, e sem nenhuma iniquidade.” “Não é ele teu Pai, que te criou?” “Guardou-o como as meninas dos seus olhos.” “Como a águia que provoca seus filhos a voar… o levou sobre seus ombros.” “Eu faço morrer, e faço viver; firo e curo.” “Para que cada um de vós ache nelas a vida.”",
+    "meditatio_perguntas": [
+      "Reconheço Deus como Pai que me guarda como a menina dos seus olhos?",
+      "Nas provações, percebo a águia que me ensina a voar e me apanha?",
+      "Deixo a Deus a vingança, ou alimento rancores?"
+    ],
+    "oratio_guia": "Pai, que me guardas como a menina dos teus olhos e me levas sobre as tuas asas, ensina-me a voar sem medo. Livra-me do esquecimento na fartura e da vingança no coração. Amém.",
+    "contemplatio_foco": {
+      "texto": "guardou-o como as meninas dos seus olhos",
+      "ref": "Dt 32,10"
+    }
+  },
+  "ancoras": {
+    "32:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jesurun, “o reto”, é nome poético de Israel.",
+        "origem": "ia"
+      }
+    },
+    "32:35": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em Rm 12,19 e Hb 10,30.",
+        "origem": "ia"
+      }
+    },
+    "32:43": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em Rm 15,10 a respeito da entrada dos gentios.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "DEU.30.1",
+  "livro": "DEU",
+  "titulo": "“Escolhe a vida”",
+  "secao": "Terceiro discurso: a aliança em Moab",
+  "referencia": "Dt 30,1-20",
+  "ini": {
+    "c": 30,
+    "v": 1
+  },
+  "fim": {
+    "c": 30,
+    "v": 20
+  },
+  "liturgia": {
+    "tema_central": "“Escolhe, pois, a vida”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quando vierem a bênção e a maldição, e Israel, disperso entre as nações, se arrepender e voltar ao Senhor de todo o coração, “o Senhor teu Deus te fará voltar do teu cativeiro, e se compadecerá de ti, e te reunirá… Ainda que tivesses sido lançado para as extremidades do céu, daí te tirará o Senhor teu Deus”. “O Senhor teu Deus circuncidará o teu coração, e o coração da tua descendência, para que ames o Senhor teu Deus de todo o teu coração e de toda a tua alma, a fim de que possas viver.” E o Senhor tornará a comprazer-se em fazer-lhe bem. “Este mandamento, que eu hoje te prescrevo, não está sobre ti, nem longe de ti, nem está posto no céu… Nem está da banda de além do mar… Mas este mandamento está perto de ti, está na tua boca e no teu coração, para o cumprires.” “Considera que eu hoje te pus diante de ti, duma parte a vida e o bem, e doutra parte a morte e o mal… Eu chamo hoje por testemunhas o céu e a terra… Escolhe, pois, a vida, para que vivas tu e a tua posteridade, amando o Senhor teu Deus, obedecendo à sua voz, permanecendo unido a ele, porque nisso está a tua vida.”",
+    "alegorico": "Paulo aplica este texto à fé em Cristo: “Não digas no teu coração: quem subirá ao céu? isto é, para trazer Cristo do alto… Perto de ti está a palavra, na tua boca e no teu coração: esta é a palavra da fé que pregamos” (Rm 10,6-8). A promessa de que Deus mesmo “circuncidará o coração” anuncia a nova aliança e o dom do Espírito (Ez 36,26).",
+    "moral": "A conversão é sempre possível, “ainda que estivesses nas extremidades do céu”. E Deus não pede o impossível: a sua palavra está perto, na boca e no coração. Diante de cada pessoa estão a vida e a morte, e Deus diz qual escolher: “escolhe a vida”. Escolher a vida é amar a Deus, ouvir a sua voz e permanecer unido a ele, “porque nisso está a tua vida”.",
+    "anagogico": "Deus que reúne os dispersos das extremidades do céu anuncia a reunião final dos eleitos, quando os anjos os ajuntarão “dos quatro ventos, de uma extremidade do céu à outra” (Mt 24,31)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Te fará voltar do teu cativeiro, e se compadecerá de ti.” “O Senhor teu Deus circuncidará o teu coração.” “Este mandamento… não está sobre ti, nem longe de ti.” “Está perto de ti, está na tua boca e no teu coração.” “Escolhe, pois, a vida.” “Porque nisso está a tua vida.”",
+    "meditatio_perguntas": [
+      "Creio que nunca é tarde para voltar ao Senhor?",
+      "Penso que a vontade de Deus é inalcançável, ou reconheço que está perto?",
+      "Que escolhas concretas de vida, e não de morte, preciso fazer hoje?"
+    ],
+    "oratio_guia": "Senhor, circuncida o meu coração para que eu te ame de todo o coração. A tua palavra está perto de mim: hoje escolho a vida, escolho-te a ti, porque em ti está a minha vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "Escolhe, pois, a vida, para que vivas tu e a tua posteridade",
+      "ref": "Dt 30,19"
+    }
+  },
+  "ancoras": {
+    "30:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em Rm 10,6-8.",
+        "origem": "ia"
+      }
+    },
+    "30:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Jr 31,33; Ez 36,26: a promessa de um coração novo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

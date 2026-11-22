@@ -1,0 +1,57 @@
+{
+  "id": "DEU.3.1",
+  "livro": "DEU",
+  "titulo": "Og de Basã; Moisés vê a terra de longe",
+  "secao": "Primeiro discurso: a memória do caminho",
+  "referencia": "Dt 3,1-29",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "Moisés suplica e contempla de longe a terra",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Og, rei de Basã, sai contra Israel em Edrai. O Senhor diz: “Não o temas, porque ele foi entregue nas tuas mãos.” Israel toma as sessenta cidades fortificadas do reino de Og; o seu leito de ferro, de nove côvados, é mostrado em Rabat. Moisés dá as terras conquistadas a Rúben, Gad e à meia tribo de Manassés, com a condição de que os homens armados passem à frente dos irmãos até que todos tenham descanso. E diz a Josué: “Os teus olhos viram o que o Senhor vosso Deus fez a estes dois reis… Não os temas, porque o Senhor vosso Deus combaterá por vós.” Então Moisés suplica: “Senhor Deus, tu começaste a mostrar ao teu servo a tua grandeza… Passarei, pois, e verei essa terra tão boa além do Jordão.” O Senhor não o atende: “Basta; não me fales mais em tal coisa. Sobe ao cume do monte Fasga, lança os teus olhos em roda… pois não passarás este Jordão. Dá as tuas ordens a Josué, conforta-o, anima-o.”",
+    "alegorico": "Moisés, a Lei, conduz até à fronteira, mas não pode introduzir na terra; quem entra é Josué, isto é, Jesus. Os Padres viram nisso a relação entre a Lei e a graça: “a Lei foi dada por Moisés, a graça e a verdade vieram por Jesus Cristo” (Jo 1,17). Mas Moisés verá a terra prometida no monte da Transfiguração, conversando com Cristo (Mt 17,3).",
+    "moral": "Até Moisés recebeu um “não” à sua oração mais desejada. Deus nem sempre concede o que pedimos, mesmo coisas boas; mas dá-nos ver de longe e preparar os outros para entrar. Aceitar o “basta” de Deus, sem amargura, e dedicar-se a animar o sucessor é grandeza de alma.",
+    "anagogico": "Moisés contempla a terra do alto do Fasga: imagem da esperança que vê de longe. A oração recusada na terra foi atendida de outro modo: ele entrou na verdadeira terra prometida, a glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não o temas, porque ele foi entregue nas tuas mãos.” “O Senhor vosso Deus combaterá por vós.” “Tu começaste a mostrar ao teu servo a tua grandeza.” “Passarei, pois, e verei essa terra tão boa.” “Basta; não me fales mais em tal coisa.” “Conforta-o, anima-o.”",
+    "meditatio_perguntas": [
+      "Como reajo quando Deus diz “não” a uma oração minha?",
+      "Sei preparar e animar os que vêm depois de mim?",
+      "Contemplo com esperança o que ainda não posso possuir?"
+    ],
+    "oratio_guia": "Senhor, que mostraste a Moisés a terra que ele não pisaria, dá-me aceitar os teus “nãos” com confiança e alegrar-me em preparar os outros para entrarem na tua promessa. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não os temas, porque o Senhor vosso Deus combaterá por vós",
+      "ref": "Dt 3,22"
+    }
+  },
+  "ancoras": {
+    "3:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “leito de ferro” de Og talvez fosse um sarcófago de basalto, pedra escura de aspecto férreo.",
+        "origem": "ia"
+      }
+    },
+    "3:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Nm 20,12 e 27,12-14.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

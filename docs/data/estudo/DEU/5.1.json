@@ -1,0 +1,57 @@
+{
+  "id": "DEU.5.1",
+  "livro": "DEU",
+  "titulo": "O Decálogo no Horeb",
+  "secao": "Segundo discurso: o grande mandamento",
+  "referencia": "Dt 5,1-33",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 33
+  },
+  "liturgia": {
+    "tema_central": "“Não fez este pacto com nossos pais, mas connosco”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Moisés convoca todo Israel: “Ouve, ó Israel, as cerimônias e as ordenações… Aprendei-as e ponde-as em prática. O Senhor nosso Deus fez um pacto connosco em Horeb. Não fez este pacto com nossos pais, mas connosco, que somos e vivemos hoje. Falou-nos face a face no monte, no meio do fogo.” E repete o Decálogo: “Eu sou o Senhor teu Deus, que te tirei da terra do Egipto, da casa da servidão”; não terás outros deuses, nem imagens para adorar; não tomarás em vão o nome do Senhor; guardarás o sábado, e desta vez o motivo é a libertação: “lembra-te que também serviste no Egipto”, para que o teu servo e a tua serva descansem como tu; honra pai e mãe; não matarás; não cometerás adultério; não furtarás; não dirás falso testemunho; não cobiçarás a mulher do próximo, nem a sua casa, nem coisa alguma que lhe pertença. O Senhor escreveu estas palavras em duas tábuas. O povo, aterrado, pediu a Moisés que fosse mediador. O Senhor aprovou e disse: “Quem dera que eles tivessem tal espírito, que me temessem e guardassem em todo o tempo todos os meus mandamentos.” “Não declineis nem para a direita nem para a esquerda.”",
+    "alegorico": "O Decálogo, gravado em pedra, será escrito nos corações pela nova aliança (Jr 31,33; 2Cor 3,3). Cristo não o aboliu, mas o levou à plenitude (Mt 5,17) e o resumiu no amor a Deus e ao próximo. O desejo de Deus, “quem dera que eles tivessem tal espírito”, cumpre-se com o dom do Espírito Santo.",
+    "moral": "A aliança não é coisa do passado: “connosco, que vivemos hoje”. Cada geração é chamada a recebê-la como sua. O Decálogo começa pela libertação: os mandamentos são o caminho de quem foi libertado, para não voltar à escravidão. O sábado, motivado aqui pela memória da escravidão, inclui o descanso do servo: o culto a Deus e a justiça social andam juntos.",
+    "anagogico": "“Para que fosse bem a eles e a seus filhos para sempre”: o fim dos mandamentos é a felicidade eterna que Deus deseja para os seus filhos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ouve, ó Israel.” “Não fez este pacto com nossos pais, mas connosco, que somos e vivemos hoje.” “Eu sou o Senhor teu Deus, que te tirei da terra do Egipto.” “Quem dera que eles tivessem tal espírito, que me temessem.” “Não declineis nem para a direita nem para a esquerda.”",
+    "meditatio_perguntas": [
+      "Recebo a aliança como feita comigo, hoje?",
+      "Vivo os mandamentos como caminho de liberdade ou como peso?",
+      "Garanto o descanso e a dignidade dos que trabalham para mim?"
+    ],
+    "oratio_guia": "Senhor, que fizeste aliança comigo hoje, dá-me o espírito que desejas: temer-te, amar-te e guardar os teus mandamentos, para que eu e os meus vivamos na tua liberdade. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não fez este pacto com nossos pais, mas connosco, que somos e vivemos hoje",
+      "ref": "Dt 5,3"
+    }
+  },
+  "ancoras": {
+    "5:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Em Ex 20,11 o sábado é motivado pela criação; aqui, pela libertação do Egito.",
+        "origem": "ia"
+      }
+    },
+    "5:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Vulgata e a tradição catequética católica distinguem aqui o nono e o décimo mandamentos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

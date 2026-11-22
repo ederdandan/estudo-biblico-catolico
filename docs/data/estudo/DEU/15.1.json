@@ -1,0 +1,57 @@
+{
+  "id": "DEU.15.1",
+  "livro": "DEU",
+  "titulo": "O ano da remissão: “não haverá pobre entre vós”",
+  "secao": "O código deuteronômico",
+  "referencia": "Dt 15,1-23",
+  "ini": {
+    "c": 15,
+    "v": 1
+  },
+  "fim": {
+    "c": 15,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "“Abrirás a mão ao teu irmão necessitado”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“No sétimo ano farás a remissão”: quem tem dívida a receber do irmão não a exigirá, “porque é o ano da remissão do Senhor”. “Não haverá entre vós nenhum pobre nem mendigo”, se Israel ouvir a voz do Senhor. Se um irmão cair em pobreza, “não endurecerás o teu coração, nem fecharás a tua mão, mas abri-la-ás ao pobre e lhe emprestarás o que vires que ele precisa”. Cuidado com o pensamento mesquinho: “Está próximo o sétimo ano”, e por isso recusar o empréstimo; o pobre clamaria ao Senhor contra ti. “Não faltarão pobres na terra da tua habitação, por isso eu te ordeno que abras a mão para o teu irmão necessitado e pobre.” O hebreu vendido como servo sai livre no sétimo ano, e “não deixarás ir com as mãos vazias”: dá-lhe dos rebanhos, da eira e do lagar. “Lembra-te que também tu foste escravo na terra do Egipto.” Se ele quiser ficar por amor, fura-se-lhe a orelha à porta, e servirá para sempre. Os primogênitos do gado são consagrados e comidos diante do Senhor.",
+    "alegorico": "Jesus cita este capítulo: “pobres sempre os tereis convosco” (Mt 26,11), não para resignar-se, mas lembrando o mandamento que o segue: abrir a mão. A primeira comunidade cristã realizou o ideal de Dt 15,4: “não havia entre eles necessitado algum” (At 4,34). O servo de orelha furada, que serve por amor, foi aplicado a Cristo: “abriste-me os ouvidos” (Sl 39,7; Hb 10,5).",
+    "moral": "O amor ao pobre se mede pela mão aberta e pelo coração não endurecido. A Lei prevê até a mesquinhez calculista, “está perto o ano da remissão”, e a condena. Libertar alguém não basta: é preciso dar-lhe com que recomeçar. E a motivação é sempre a memória: “também tu foste escravo”.",
+    "anagogico": "O ano da remissão anuncia a remissão definitiva das dívidas, que pedimos no Pai-Nosso e que Deus concederá plenamente no seu Reino."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“É o ano da remissão do Senhor.” “Não haverá entre vós nenhum pobre nem mendigo.” “Não endurecerás o teu coração, nem fecharás a tua mão.” “Não faltarão pobres na terra.” “Não deixarás ir com as mãos vazias.” “Lembra-te que também tu foste escravo.”",
+    "meditatio_perguntas": [
+      "O meu coração endurece diante do pobre?",
+      "Ajudo de modo que o outro possa recomeçar, ou só alivio por um momento?",
+      "Faço cálculos mesquinhos antes de ajudar?"
+    ],
+    "oratio_guia": "Senhor, que me libertaste da escravidão, abre a minha mão e o meu coração para o irmão necessitado. Que eu dê com generosidade, sem cálculo, como tu me deste. Amém.",
+    "contemplatio_foco": {
+      "texto": "eu te ordeno que abras a mão para o teu irmão necessitado e pobre",
+      "ref": "Dt 15,11"
+    }
+  },
+  "ancoras": {
+    "15:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. At 4,34.",
+        "origem": "ia"
+      }
+    },
+    "15:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A orelha furada na porta simbolizava a pertença definitiva à casa.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

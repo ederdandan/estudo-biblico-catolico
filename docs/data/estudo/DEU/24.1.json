@@ -1,0 +1,57 @@
+{
+  "id": "DEU.24.1",
+  "livro": "DEU",
+  "titulo": "O divórcio e a proteção do pobre, do órfão e da viúva",
+  "secao": "O código deuteronômico",
+  "referencia": "Dt 24,1-22",
+  "ini": {
+    "c": 24,
+    "v": 1
+  },
+  "fim": {
+    "c": 24,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "O salário antes do pôr do sol e as espigas esquecidas",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Se um homem repudia a mulher com um libelo de repúdio e ela se casa com outro, o primeiro não pode retomá-la. O recém-casado fica livre um ano da guerra e dos cargos públicos, “a fim de passar alegre um ano com sua mulher”. Não se toma como penhor a mó, “porque te deu por penhor a própria vida”. O sequestro de um irmão para vendê-lo é punido com a morte. Ao cobrar uma dívida, o credor não entra na casa do devedor para escolher o penhor; e, se o devedor é pobre, devolve-se o manto antes do pôr do sol, “a fim de que ele, dormindo na sua roupa, te abençoe”. “Não negarás a paga do indigente e do pobre… mas pagar-lhe-ás no mesmo dia o preço do seu trabalho antes do sol-posto, porque é pobre, e com isso sustenta a sua vida.” Cada um morre pelo seu próprio pecado. Não se perverte a justiça do estrangeiro e do órfão, nem se toma o vestido da viúva. E na colheita, a gavela esquecida, as azeitonas e os cachos que ficaram são “para o estrangeiro, para o órfão e para a viúva”. “Lembra-te que foste também escravo no Egipto.”",
+    "alegorico": "Jesus retoma a lei do repúdio para levá-la à origem: “por causa da dureza do vosso coração Moisés vos permitiu repudiar as vossas mulheres; mas ao princípio não foi assim” (Mt 19,8). A Igreja ensina a indissolubilidade do matrimônio. A respiga deixada aos pobres permitirá a Rute encontrar Booz (Rt 2), e daí nascerá a linhagem de Davi e de Cristo.",
+    "moral": "Este capítulo é um tratado de justiça social: não reter o salário, não humilhar o devedor entrando em sua casa, devolver o manto do pobre para a noite, não tirar a ferramenta de trabalho. A Igreja conta “defraudar o salário do operário” entre os pecados que clamam ao céu (Tg 5,4). A responsabilidade é pessoal: ninguém paga pelo pecado do outro.",
+    "anagogico": "O pobre que dorme em seu manto e “te abençoa” anuncia o juízo em que os pobres serão os nossos intercessores: “fazei amigos… para que eles vos recebam nos tabernáculos eternos” (Lc 16,9)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A fim de passar alegre um ano com sua mulher.” “Te deu por penhor a própria vida.” “Dormindo na sua roupa, te abençoe.” “Pagar-lhe-ás no mesmo dia o preço do seu trabalho.” “Cada um morrerá pelo seu pecado.” “Deixá-las-ás tomar ao estrangeiro, ao órfão e à viúva.”",
+    "meditatio_perguntas": [
+      "Pago com pontualidade a quem trabalha para mim?",
+      "Respeito a dignidade de quem me deve?",
+      "Deixo “espigas” para os pobres na minha vida?"
+    ],
+    "oratio_guia": "Senhor, que ouves o clamor do pobre, faz-me justo no salário, delicado com o devedor e generoso com o estrangeiro, o órfão e a viúva. Amém.",
+    "contemplatio_foco": {
+      "texto": "pagar-lhe-ás no mesmo dia o preço do seu trabalho antes do sol-posto",
+      "ref": "Dt 24,15"
+    }
+  },
+  "ancoras": {
+    "24:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jesus comenta esta lei em Mt 19,3-9 e Mc 10,2-12.",
+        "origem": "ia"
+      }
+    },
+    "24:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Ez 18,20; 2Rs 14,6.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

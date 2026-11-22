@@ -1,0 +1,57 @@
+{
+  "id": "DEU.2.1",
+  "livro": "DEU",
+  "titulo": "Edom, Moab, Amon e a vitória sobre Seon",
+  "secao": "Primeiro discurso: a memória do caminho",
+  "referencia": "Dt 2,1-37",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 37
+  },
+  "liturgia": {
+    "tema_central": "Quarenta anos sem que nada faltasse",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Depois de longos anos rodeando o monte Seir, o Senhor diz: “Já basta o muito que andastes à roda deste monte: ide para o setentrião.” Israel deve passar pelo território dos filhos de Esaú, “vossos irmãos”, sem atacá-los, porque o Senhor deu Seir a Esaú; comprará deles o alimento e a água. “O Senhor teu Deus abençoou-te em todas as obras das tuas mãos… Durante quarenta anos habitou contigo, e não te faltou nada.” O mesmo vale para Moab e Amon, filhos de Ló: o Senhor lhes deu a sua terra. Morre a geração dos guerreiros incrédulos. Então o Senhor diz: “Levantai-vos e passai a torrente do Arnon. Entrego nas tuas mãos a Seon, rei de Hesebon.” Moisés envia mensageiros “com palavras de paz”, pedindo passagem pela estrada real e oferecendo pagar a comida e a água; Seon recusa, porque o Senhor lhe “endurecera o espírito”, e sai à batalha em Jasa. O Senhor o entrega, e Israel toma todas as suas cidades, do Arnon até Galaad, sem tocar a terra dos amonitas.",
+    "alegorico": "O povo que atravessa o deserto sem que nada lhe falte é figura da Igreja peregrina, sustentada pela Providência: “Quando vos mandei sem bolsa… faltou-vos alguma coisa? Nada” (Lc 22,35). O respeito pela terra dada a Esaú, Moab e Amon mostra que Deus é Senhor de todas as nações, não só de Israel.",
+    "moral": "Deus também cuida dos outros povos e manda Israel respeitá-los: a eleição não autoriza a cobiça. A proposta de paz a Seon, antes da guerra, ensina a buscar primeiro a paz. E o balanço dos quarenta anos é uma confissão de fé: apesar de tudo, “não te faltou nada”. Fazer este balanço da própria vida é aprender a gratidão.",
+    "anagogico": "“Habitou contigo” durante o deserto: Deus acompanha toda a peregrinação até ao dia em que não seremos nós a habitar com ele no deserto, mas ele conosco na sua casa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Já basta o muito que andastes à roda deste monte.” “São vossos irmãos.” “Durante quarenta anos habitou contigo, e não te faltou nada.” “Com palavras de paz.” “Todas no-las entregou o Senhor nosso Deus.”",
+    "meditatio_perguntas": [
+      "Em que “monte” ando em círculos há tempo demais?",
+      "Posso dizer, olhando para trás, que “nada me faltou”?",
+      "Busco primeiro a paz com os outros?"
+    ],
+    "oratio_guia": "Senhor, que habitaste com o teu povo no deserto sem que nada lhe faltasse, dá-me gratidão pelo caminho percorrido e coragem para avançar quando me disseres: basta. Amém.",
+    "contemplatio_foco": {
+      "texto": "Durante quarenta anos habitou contigo, e não te faltou nada",
+      "ref": "Dt 2,7"
+    }
+  },
+  "ancoras": {
+    "2:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Edom descende de Esaú, irmão de Jacó; Moab e Amon, de Ló, sobrinho de Abraão (Gn 19,37-38).",
+        "origem": "ia"
+      }
+    },
+    "2:30": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “endurecimento” do coração atribuído a Deus exprime, na linguagem bíblica, que nada escapa ao seu governo, sem negar a liberdade do homem.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

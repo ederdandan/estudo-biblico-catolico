@@ -1,0 +1,57 @@
+{
+  "id": "DEU.12.1",
+  "livro": "DEU",
+  "titulo": "O lugar que o Senhor escolher",
+  "secao": "O código deuteronômico",
+  "referencia": "Dt 12,1-32",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "O lugar que o Senhor escolher para pôr ali o seu nome",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Começa o código de leis. Israel destruirá os lugares onde as nações adoravam os seus deuses, “sobre os altos montes e colinas, e debaixo de qualquer árvore frondosa”. “Não fareis assim com o Senhor vosso Deus, mas ireis ao lugar que o Senhor vosso Deus escolher entre todas as vossas tribos, para aí pôr o seu nome e habitar nele.” Ali se oferecerão holocaustos, sacrifícios, dízimos e primícias, e ali “comereis na presença do Senhor vosso Deus, e vos regozijareis vós e as vossas famílias”. Já não se fará “cada um o que bem lhe parece”. Na festa estarão os filhos e filhas, os servos e servas, e o levita, que não tem herança. Fora desse lugar, pode-se abater e comer carne em casa, desde que não se coma o sangue. E a advertência: não imitar os cultos das nações, que até queimavam os filhos para os seus deuses. “Faze somente em honra do Senhor aquilo que eu te ordeno; não acrescentes nem tires nada.”",
+    "alegorico": "O “lugar que o Senhor escolher” será Jerusalém e o seu Templo; mas Jesus anuncia à samaritana que “vem a hora em que nem neste monte nem em Jerusalém adorareis o Pai… os verdadeiros adoradores adorarão o Pai em espírito e verdade” (Jo 4,21-23). O lugar escolhido é o Corpo de Cristo, novo Templo, e a Igreja reunida na Eucaristia.",
+    "moral": "O culto não é invenção nossa, “cada um o que bem lhe parece”, mas resposta ao que Deus estabelece. A unidade do lugar protegia a unidade da fé. E o culto é alegria partilhada: comer “diante do Senhor” com a família, os servos e os levitas. A fé verdadeira reúne, não dispersa.",
+    "anagogico": "O lugar onde Deus põe o seu nome anuncia a Jerusalém celeste, onde não há templo, “porque o seu templo é o Senhor Deus todo-poderoso e o Cordeiro” (Ap 21,22)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ireis ao lugar que o Senhor vosso Deus escolher… para aí pôr o seu nome e habitar nele.” “Vos regozijareis vós e as vossas famílias.” “Não fareis… cada um o que bem lhe parece.” “Não acrescentes nem tires nada.”",
+    "meditatio_perguntas": [
+      "Vivo a fé “como me parece”, ou na comunhão da Igreja?",
+      "A Missa é para mim alegria partilhada com a família de Deus?",
+      "Lembro-me dos que “não têm herança” nas minhas festas?"
+    ],
+    "oratio_guia": "Senhor, que puseste o teu nome no meio do teu povo, reúne-me na tua Igreja para te adorar em espírito e verdade, e alegrar-me na tua presença com os irmãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "vos regozijareis vós e as vossas famílias",
+      "ref": "Dt 12,7"
+    }
+  },
+  "ancoras": {
+    "12:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A fórmula “o lugar que o Senhor escolher” atravessa o Deuteronômio e prepara a centralização do culto em Jerusalém (2Rs 23).",
+        "origem": "ia"
+      }
+    },
+    "12:32": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração hebraica, Dt 12,32 é Dt 13,1.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

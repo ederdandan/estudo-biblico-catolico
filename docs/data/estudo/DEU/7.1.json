@@ -1,0 +1,57 @@
+{
+  "id": "DEU.7.1",
+  "livro": "DEU",
+  "titulo": "Povo santo, escolhido por amor",
+  "secao": "Segundo discurso: o grande mandamento",
+  "referencia": "Dt 7,1-26",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "“Foi porque o Senhor vos amou”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quando o Senhor introduzir Israel na terra e lhe entregar as sete nações mais numerosas e fortes, Israel não fará aliança com elas nem se casará com elas, porque seduziriam os filhos para servirem outros deuses; destruirá os seus altares e ídolos. A razão: “tu és um povo consagrado ao Senhor teu Deus. O Senhor teu Deus te escolheu para seres um povo particular”. E não por méritos: “Não foi porque excedêsseis em número todas as nações… pois vós sois o mais pequeno de todos os povos, mas foi porque o Senhor vos amou e guardou o juramento que tinha feito a vossos pais.” “Saberás que o Senhor teu Deus é o Deus forte e fiel, que guarda o seu pacto e a sua misericórdia até mil gerações com aqueles que o amam.” Se Israel for fiel, será abençoado: fecundidade, colheitas, saúde. “Não os temerás, porque o Senhor teu Deus está no meio de ti.” Ele expulsará as nações “pouco a pouco”, para que a terra não fique deserta e cheia de feras. Os ídolos serão queimados, sem cobiçar o seu ouro, para que não se tornem uma cilada.",
+    "alegorico": "A eleição gratuita de Israel, “o mais pequeno de todos os povos”, anuncia a lógica do Evangelho: “Deus escolheu as coisas fracas do mundo para confundir as fortes” (1Cor 1,27). E a escolha de Maria, que canta: “olhou para a humildade da sua serva” (Lc 1,48). O amor de Deus não tem outra causa senão ele mesmo: “não fostes vós que me escolhestes, fui eu que vos escolhi” (Jo 15,16).",
+    "moral": "A eleição não é motivo de orgulho, mas de gratidão: Deus não ama porque somos grandes, mas para nos tornar seus. A separação das nações, dura aos nossos olhos, protegia a fé de um povo frágil; para o cristão, a lição é não fazer pactos com o que nos afasta de Deus. A vitória vem “pouco a pouco”: também a conversão é gradual, e Deus respeita o nosso ritmo.",
+    "anagogico": "O Deus fiel “até mil gerações” conduz a história da salvação até à sua consumação, quando o povo escolhido por amor será reunido inteiro na sua presença."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Tu és um povo consagrado ao Senhor teu Deus.” “Vós sois o mais pequeno de todos os povos.” “Foi porque o Senhor vos amou.” “O Deus forte e fiel, que guarda o seu pacto e a sua misericórdia até mil gerações.” “O Senhor teu Deus está no meio de ti.” “Pouco a pouco.”",
+    "meditatio_perguntas": [
+      "Creio que Deus me escolheu e ama sem mérito meu?",
+      "Tenho orgulho espiritual, como se fosse melhor que os outros?",
+      "Aceito que a vitória sobre os meus vícios venha “pouco a pouco”?"
+    ],
+    "oratio_guia": "Senhor, que me escolheste por amor e não por mérito, dá-me viver com gratidão e humildade. Fiel até mil gerações, vence em mim pouco a pouco tudo o que te é contrário. Amém.",
+    "contemplatio_foco": {
+      "texto": "foi porque o Senhor vos amou",
+      "ref": "Dt 7,8"
+    }
+  },
+  "ancoras": {
+    "7:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Ex 19,5-6; 1Pd 2,9.",
+        "origem": "ia"
+      }
+    },
+    "7:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A conquista gradual explica a presença prolongada dos cananeus narrada em Juízes.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

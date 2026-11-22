@@ -1,0 +1,57 @@
+{
+  "id": "DEU.18.1",
+  "livro": "DEU",
+  "titulo": "Os levitas e o profeta semelhante a Moisés",
+  "secao": "O código deuteronômico",
+  "referencia": "Dt 18,1-22",
+  "ini": {
+    "c": 18,
+    "v": 1
+  },
+  "fim": {
+    "c": 18,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "“Te suscitará um profeta, como eu”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os sacerdotes e levitas não terão herança: “o mesmo Senhor é a sua herança”; vivem das ofertas, e o levita que vier ao lugar escolhido servirá como os irmãos. Depois, a proibição de todas as práticas ocultas das nações: fazer passar os filhos pelo fogo, consultar adivinhos, observar sonhos e agouros, malefícios, encantamentos, consultar espíritos ou interrogar os mortos. “O Senhor abomina todas estas coisas… Serás perfeito e sem mancha diante do Senhor teu Deus.” Israel não precisa de adivinhos, porque Deus lhe falará por profetas: “O Senhor teu Deus te suscitará um profeta, como eu, da tua nação, e dentre teus irmãos: ouvi-lo-ás.” Foi o que o povo pediu no Horeb, com medo do fogo; e o Senhor disse: “porei na sua boca as minhas palavras, e ele lhes dirá tudo o que eu lhes mandar”. Quem não o ouvir prestará contas. O falso profeta, que fala o que Deus não mandou, morrerá; e o sinal é este: se o que ele anunciou não acontece, “o Senhor não disse”.",
+    "alegorico": "A Igreja nascente viu em Jesus o “profeta semelhante a Moisés” (At 3,22; 7,37). Na Transfiguração, a voz do Pai ecoa este texto: “Este é o meu Filho amado… ouvi-o” (Mt 17,5). O povo, depois da multiplicação dos pães, reconhece: “Este é verdadeiramente o profeta que devia vir ao mundo” (Jo 6,14).",
+    "moral": "Deus não deixa o seu povo sem palavra; por isso não precisamos de horóscopos, adivinhos, espiritismo ou superstições, que a Igreja condena como contrários ao primeiro mandamento. Quem tem Cristo, a Palavra do Pai, não procura o futuro nas estrelas. E a todo profeta se aplica o discernimento: a verdade dos frutos.",
+    "anagogico": "O Profeta que fala as palavras de Deus é o Verbo que se fez carne; no fim, não haverá mais profecia, porque veremos face a face Aquele que falou."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O mesmo Senhor é a sua herança.” “Não se ache entre vós… quem consulte adivinhos.” “Serás perfeito e sem mancha diante do Senhor teu Deus.” “O Senhor teu Deus te suscitará um profeta, como eu… ouvi-lo-ás.” “Porei na sua boca as minhas palavras.”",
+    "meditatio_perguntas": [
+      "Procuro segurança em superstições, horóscopos ou práticas ocultas?",
+      "Escuto Cristo como o Profeta que Deus me deu?",
+      "Discirno as vozes que pretendem falar em nome de Deus?"
+    ],
+    "oratio_guia": "Senhor, que suscitaste para nós o Profeta, teu Filho, dá-me ouvi-lo em tudo e livra-me de toda superstição. Que eu seja perfeito e sem mancha diante de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor teu Deus te suscitará um PROFETA, como eu, da tua nação, e dentre teus irmãos: ouvi-lo-ás",
+      "ref": "Dt 18,15"
+    }
+  },
+  "ancoras": {
+    "18:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em At 3,22-23 e 7,37 a respeito de Jesus.",
+        "origem": "ia"
+      }
+    },
+    "18:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. a condenação da necromancia no episódio de Saul em Endor (1Sm 28).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

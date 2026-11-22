@@ -1,0 +1,57 @@
+{
+  "id": "DEU.16.1",
+  "livro": "DEU",
+  "titulo": "As três festas de peregrinação e os juízes",
+  "secao": "O código deuteronômico",
+  "referencia": "Dt 16,1-22",
+  "ini": {
+    "c": 16,
+    "v": 1
+  },
+  "fim": {
+    "c": 16,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "Três vezes por ano diante do Senhor, com alegria e justiça",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Observa o mês dos frutos novos… para celebrares a páscoa em honra do Senhor teu Deus, porque neste mês o Senhor teu Deus tirou-te do Egipto de noite.” A Páscoa é imolada no lugar escolhido pelo Senhor, e durante sete dias come-se “pão sem fermento, pão da aflição… para te lembrares do dia da tua saída do Egipto, durante toda a vida”. Depois de sete semanas, a festa das Semanas, com uma oferta “segundo a bênção do Senhor teu Deus”: “Alegrar-te-ás diante do Senhor teu Deus, tu, teu filho e tua filha, o teu servo e a tua serva, o Levita… o estrangeiro, o órfão e a viúva.” Depois da colheita, sete dias de Tabernáculos: “e viverás alegre”. Três vezes por ano todos os homens se apresentam ao Senhor, e “não aparecerão diante do Senhor com as mãos vazias”. Por fim, juízes em todas as cidades, “para que julguem o povo com justo juízo… nem receberás dádivas, porque as dádivas cegam os olhos dos sábios… Seguirás rigorosamente o que é justo”. Proíbe-se plantar bosques sagrados e erguer estelas junto ao altar.",
+    "alegorico": "A Páscoa celebrada “no lugar que o Senhor escolher” leva Jesus a Jerusalém para a sua Páscoa. O “pão da aflição” torna-se pão da Ressurreição. A festa das Semanas é o Pentecostes, em que o Espírito desce sobre a Igreja reunida. A lista dos que se alegram, servos, estrangeiros, órfãos, viúvas, antecipa a Igreja, onde todos se sentam à mesma mesa.",
+    "moral": "A festa é um mandamento: “alegrar-te-ás”. Mas não é uma alegria privada: inclui o servo, o estrangeiro, o órfão e a viúva. E a festa é inseparável da justiça: logo depois das festas vêm os juízes que não aceitam suborno. O culto sem justiça é vazio; a justiça sem festa perde a alma.",
+    "anagogico": "A alegria das peregrinações anuais anuncia a peregrinação final: subiremos à casa do Senhor para uma festa que não terá fim."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Para te lembrares do dia da tua saída do Egipto, durante toda a vida.” “Alegrar-te-ás diante do Senhor teu Deus, tu… o estrangeiro, o órfão e a viúva.” “E viverás alegre.” “Não aparecerão diante do Senhor com as mãos vazias.” “As dádivas cegam os olhos dos sábios.”",
+    "meditatio_perguntas": [
+      "A minha alegria diante de Deus inclui os pobres e os sós?",
+      "Vou à presença de Deus com as mãos cheias de gratidão?",
+      "Deixo-me “cegar” por vantagens em minhas decisões?"
+    ],
+    "oratio_guia": "Senhor, que nos chamas a alegrar-nos diante de ti, dá-me celebrar as tuas festas com o coração aberto aos pobres, e viver na justiça que não se vende. Amém.",
+    "contemplatio_foco": {
+      "texto": "Alegrar-te-ás diante do Senhor teu Deus",
+      "ref": "Dt 16,11"
+    }
+  },
+  "ancoras": {
+    "16:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “pão da aflição” é lembrado na ceia pascal judaica.",
+        "origem": "ia"
+      }
+    },
+    "16:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As três festas de peregrinação: Ázimos (Páscoa), Semanas (Pentecostes) e Tabernáculos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

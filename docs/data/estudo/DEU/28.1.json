@@ -1,0 +1,49 @@
+{
+  "id": "DEU.28.1",
+  "livro": "DEU",
+  "titulo": "As bênçãos da obediência",
+  "secao": "Bênçãos e maldições",
+  "referencia": "Dt 28,1-14",
+  "ini": {
+    "c": 28,
+    "v": 1
+  },
+  "fim": {
+    "c": 28,
+    "v": 14
+  },
+  "liturgia": {
+    "tema_central": "“Serás bendito ao entrar e ao sair”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Se tu ouvires a voz do Senhor teu Deus, pondo em prática e observando todos os seus mandamentos… todas estas bênçãos virão sobre ti, e te alcançarão: Tu serás bendito na cidade e bendito no campo. Será bendito o fruto do teu ventre, o fruto da tua terra, o fruto dos teus animais… Benditos os teus celeiros, benditas as tuas sobras. Serás bendito ao entrar e ao sair.” Os inimigos virão por um caminho e fugirão por sete. “O Senhor te confirmará como seu povo santo… Todos os povos da terra verão que é invocado sobre ti o nome do Senhor.” “O Senhor abrirá o seu ótimo tesouro, o céu, para dar a seu tempo a chuva à tua terra… O Senhor te colocará à frente, e não na cauda.” Tudo isso “contanto que ouças os mandamentos do Senhor teu Deus… e não te desvies deles nem para a direita nem para a esquerda”.",
+    "alegorico": "As bênçãos materiais da antiga aliança são figura das bênçãos espirituais em Cristo: “Bendito seja Deus… que nos abençoou com toda a bênção espiritual nos céus, em Cristo” (Ef 1,3). As bem-aventuranças de Jesus (Mt 5,3-12) são as bênçãos da nova aliança, que alcançam até os pobres e os que choram.",
+    "moral": "Deus quer abençoar a vida inteira: a cidade e o campo, o trabalho e a família, o entrar e o sair. A obediência não é para merecer, mas para permanecer no caminho onde a bênção nos “alcança”. A bênção também tem uma dimensão missionária: os povos verão “que é invocado sobre ti o nome do Senhor”.",
+    "anagogico": "“O seu ótimo tesouro, o céu”: a bênção definitiva é o próprio céu aberto, onde a vida inteira será bendita para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Todas estas bênçãos virão sobre ti, e te alcançarão.” “Tu serás bendito na cidade e bendito no campo.” “Serás bendito ao entrar e ao sair.” “Todos os povos da terra verão que é invocado sobre ti o nome do Senhor.” “O Senhor abrirá o seu ótimo tesouro, o céu.”",
+    "meditatio_perguntas": [
+      "Reconheço as bênçãos de Deus em cada parte da minha vida?",
+      "Os outros veem em mim que o nome do Senhor é invocado sobre mim?",
+      "Permaneço no caminho em que a bênção me alcança?"
+    ],
+    "oratio_guia": "Senhor, abençoa-me na cidade e no campo, ao entrar e ao sair. Abre o teu tesouro, o céu, sobre a minha vida, e faz que os outros vejam em mim o teu nome. Amém.",
+    "contemplatio_foco": {
+      "texto": "Serás bendito ao entrar e ao sair",
+      "ref": "Dt 28,6"
+    }
+  },
+  "ancoras": {
+    "28:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Sl 120,8: “O Senhor guardará a tua entrada e a tua saída”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "DEU.1.1",
+  "livro": "DEU",
+  "titulo": "Do Horeb a Cades: a recusa de entrar",
+  "secao": "Primeiro discurso: a memória do caminho",
+  "referencia": "Dt 1,1-46",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 46
+  },
+  "liturgia": {
+    "tema_central": "“O Senhor te levou como um homem leva o seu filhinho”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No quadragésimo ano, além do Jordão, na terra de Moab, Moisés “começou a explicar a lei”. Recorda: no Horeb, o Senhor disse: “Tendes-vos demorado muito neste monte… entrai e possuí a terra.” Moisés, não podendo reger sozinho um povo “tão numeroso como as estrelas do céu”, escolheu chefes sábios e provados, e lhes ordenou: “ouvireis o pequeno como o grande… porque o juízo é de Deus.” Depois, a travessia do “terrível e grandíssimo deserto” até Cades Barne: “Olha a terra que o Senhor teu Deus te dá: sobe e toma posse dela… não temas.” O povo pediu exploradores, que trouxeram frutos e disseram: “É boa a terra.” Mas o povo não quis subir e murmurou: “O Senhor tem-nos ódio.” Moisés lhes lembrou: o Senhor combaterá por vós; “no deserto o Senhor teu Deus te levou por todo o caminho… como um homem costuma levar o seu filhinho”. Nem assim creram. O Senhor jurou que aquela geração não veria a terra, exceto Caleb e Josué, e os filhos que ainda não distinguiam o bem do mal. O povo, então, quis subir por conta própria e foi derrotado, perseguido “como as abelhas costumam perseguir”.",
+    "alegorico": "O Deus que leva o seu povo “como um homem leva o seu filhinho” revela a ternura paterna que Jesus manifestará plenamente: o Pai que corre ao encontro do filho (Lc 15,20). Os Padres viram no Deuteronômio, “segunda lei”, a figura do Evangelho, que retoma a Lei e a interioriza. As crianças que entram na terra anunciam a palavra de Jesus: “quem não receber o reino de Deus como uma criança, não entrará nele” (Mc 10,15).",
+    "moral": "O medo transforma o amor de Deus em suspeita: “o Senhor tem-nos ódio”, diz o povo que foi carregado no colo. A memória das graças recebidas é o remédio contra essa mentira. E há duas formas de desobedecer: recusar-se a ir quando Deus manda, e ir à força quando ele já não acompanha. Quem tem autoridade deve julgar “o pequeno como o grande”.",
+    "anagogico": "O caminho em que Deus carrega o seu filho termina na casa do Pai; o deserto não é o fim, mas a travessia para a terra que ele prepara."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Tendes-vos demorado muito neste monte.” “Ouvireis o pequeno como o grande… porque o juízo é de Deus.” “Não temas, nem te atemorize nada.” “O Senhor tem-nos ódio.” “O Senhor teu Deus te levou por todo o caminho… como um homem costuma levar o seu filhinho.”",
+    "meditatio_perguntas": [
+      "Já atribuí a Deus más intenções, como o povo que dizia “ele nos odeia”?",
+      "Recordo os momentos em que Deus me carregou no colo?",
+      "Há algum “monte” onde me demorei demais e de onde Deus me pede que parta?"
+    ],
+    "oratio_guia": "Pai, que me carregaste no deserto como um homem leva o seu filhinho, cura-me da desconfiança e dá-me caminhar com fé para a terra que me preparas. Amém.",
+    "contemplatio_foco": {
+      "texto": "como um homem costuma levar o seu filhinho",
+      "ref": "Dt 1,31"
+    }
+  },
+  "ancoras": {
+    "1:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Deuteronômio” vem do grego da Setenta, “segunda lei”, a partir de Dt 17,18.",
+        "origem": "ia"
+      }
+    },
+    "1:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“O juízo é de Deus”: o juiz exerce uma autoridade que não é sua.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

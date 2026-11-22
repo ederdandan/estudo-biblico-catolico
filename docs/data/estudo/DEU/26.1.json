@@ -1,0 +1,57 @@
+{
+  "id": "DEU.26.1",
+  "livro": "DEU",
+  "titulo": "As primícias: “meu pai era um arameu errante”",
+  "secao": "O código deuteronômico",
+  "referencia": "Dt 26,1-19",
+  "ini": {
+    "c": 26,
+    "v": 1
+  },
+  "fim": {
+    "c": 26,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "“Meu pai era um arameu”: o credo das primícias",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Quando Israel tiver entrado na terra, tomará as primícias de todos os frutos, porá num cesto e irá ao lugar que o Senhor escolher. Dirá ao sacerdote: “Confesso hoje diante do Senhor teu Deus, que eu entrei na terra que ele jurou a nossos pais.” O sacerdote põe o cesto diante do altar, e o ofertante recita: “Meu pai era um Arameu prestes a morrer, que desceu ao Egipto, e lá esteve como forasteiro, tendo pouquíssimas pessoas consigo; aí tornou-se um povo grande… Os Egípcios nos afligiram… Então clamámos ao Senhor Deus de nossos pais, o qual nos ouviu, olhou para a nossa humilhação, trabalho e angústia, e nos tirou do Egipto com mão forte e braço estendido… e deu-nos esta terra que mana leite e mel. Por isso eu ofereço agora as primícias dos frutos da terra que o Senhor me deu.” Depois adora e se alegra com o levita e o estrangeiro. No terceiro ano, depois de dar o dízimo aos pobres, diz: “Olha do teu santuário e da excelsa morada dos céus, e abençoa o teu povo.” E a aliança se resume: “Tu escolheste hoje o Senhor, para ser o teu Deus… O Senhor escolheu-te hoje para que sejas um povo especial… o povo santo do Senhor teu Deus.”",
+    "alegorico": "Este é um dos mais antigos “credos” da Bíblia: a fé de Israel não é uma ideia, mas uma história contada. O Credo cristão segue o mesmo modelo: “padeceu, foi crucificado, ressuscitou”. A oferta das primícias com a narrativa da salvação anuncia o ofertório e a anáfora da Missa, que oferecem os frutos da terra fazendo memória das obras de Deus.",
+    "moral": "Agradecer é contar a história: de onde vim, o que Deus fez, o que ele me deu. A oferta das primícias nasce da memória. E a gratidão termina em alegria partilhada com o levita e o estrangeiro. A aliança é mútua: “tu escolheste o Senhor… o Senhor escolheu-te”: Deus nos escolhe e nos pede que o escolhamos de novo, “hoje”.",
+    "anagogico": "“Olha do teu santuário e da excelsa morada dos céus”: a oração do ofertante aponta para o céu, onde as primícias da nossa vida serão recolhidas e a bênção será plena."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Confesso hoje diante do Senhor teu Deus.” “Meu pai era um Arameu prestes a morrer.” “Clamámos ao Senhor… o qual nos ouviu, olhou para a nossa humilhação.” “Eu ofereço agora as primícias.” “Darás largas à tua alegria.” “Tu escolheste hoje o Senhor… O Senhor escolheu-te hoje.”",
+    "meditatio_perguntas": [
+      "Sei contar a história do que Deus fez na minha vida?",
+      "Ofereço a Deus as primícias com gratidão e alegria?",
+      "Escolho hoje, de novo, o Senhor como meu Deus?"
+    ],
+    "oratio_guia": "Senhor, que ouviste o clamor dos meus pais e me deste a terra da tua promessa, recebe as primícias da minha vida. Hoje eu te escolho como meu Deus: olha do céu e abençoa o teu povo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Por isso eu ofereço agora as primícias dos frutos da terra que o Senhor me deu",
+      "ref": "Dt 26,10"
+    }
+  },
+  "ancoras": {
+    "26:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “arameu” é Jacó, que viveu em Harã, na Síria (Gn 29–31).",
+        "origem": "ia"
+      }
+    },
+    "26:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A fórmula de aliança recíproca: cf. Jr 31,33.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

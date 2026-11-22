@@ -1,0 +1,57 @@
+{
+  "id": "DEU.34.1",
+  "livro": "DEU",
+  "titulo": "A morte de Moisés",
+  "secao": "Os últimos dias de Moisés",
+  "referencia": "Dt 34,1-12",
+  "ini": {
+    "c": 34,
+    "v": 1
+  },
+  "fim": {
+    "c": 34,
+    "v": 12
+  },
+  "liturgia": {
+    "tema_central": "“Tu a viste com os teus olhos, mas não entrarás nela”: a morte de Moisés",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Moisés sobe das planícies de Moab ao monte Nebo, ao cume do Fasga, defronte de Jericó, e o Senhor lhe mostra toda a terra: Galaad até Dan, Neftali, Efraim e Manassés, Judá até ao mar ocidental, o Negueb e a campina de Jericó, “cidade das palmeiras”. O Senhor lhe diz: “Esta é a terra que jurei dar a Abraão, Isaac e Jacob… Tu a viste com os teus olhos, mas não entrarás nela.” “E Moisés, servo do Senhor, morreu ali na terra de Moab, segundo a ordem do Senhor.” O próprio Senhor o sepulta no vale, defronte de Fogor, “e nenhum homem soube até hoje o lugar do seu sepulcro”. Tinha cento e vinte anos, “nunca a vista se lhe diminuiu, nem o seu vigor se abalou”. Israel o chora trinta dias. Josué fica cheio do espírito de sabedoria, porque Moisés lhe impusera as mãos, e o povo lhe obedece. “Não se levantou mais em Israel profeta como Moisés, que o Senhor conhecesse face a face”, nem pelos prodígios que fez diante de todo Israel.",
+    "alegorico": "Moisés, que viu a terra e não entrou, entra nela na Transfiguração, quando aparece no monte conversando com Cristo sobre a sua “partida” (o “êxodo”) em Jerusalém (Lc 9,30-31). O profeta “como Moisés” que não se levantou mais em Israel veio em Cristo, que não só conhece Deus face a face, mas é a Face do Pai. A Lei conduz até à fronteira; Jesus (Josué) introduz na terra.",
+    "moral": "Moisés morre “segundo a ordem do Senhor”, literalmente “sobre a boca do Senhor”, como diz uma tradição judaica: com um beijo de Deus. Morre servo, sem túmulo conhecido, para que ninguém faça da sua sepultura um culto. A grandeza de Moisés não está em entrar na terra, mas em ter sido fiel até o fim e ter preparado quem entraria. É a lição de todo servo: fazer a sua parte e entregar o resto a Deus.",
+    "anagogico": "Moisés vê de longe a terra que não pisa: imagem do cristão que, no fim da vida, vê a pátria e confia que Deus mesmo o sepultará e o ressuscitará para a terra verdadeira."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor mostrou-lhe toda a terra.” “Tu a viste com os teus olhos, mas não entrarás nela.” “E Moisés, servo do Senhor, morreu ali… segundo a ordem do Senhor.” “Nenhum homem soube até hoje o lugar do seu sepulcro.” “Não se levantou mais em Israel profeta como Moisés, que o Senhor conhecesse face a face.”",
+    "meditatio_perguntas": [
+      "Aceito não ver o fim de tudo o que comecei?",
+      "Quero ser lembrado, ou basta-me ser “servo do Senhor”?",
+      "Preparo-me para morrer “segundo a palavra do Senhor”?"
+    ],
+    "oratio_guia": "Senhor, que mostraste a Moisés a terra e o recolheste junto de ti, dá-me servir-te com fidelidade até o fim, sem precisar ver a conclusão da minha obra. Que eu morra na tua palavra e te veja face a face. Amém.",
+    "contemplatio_foco": {
+      "texto": "E Moisés, servo do Senhor, morreu ali na terra de Moab, segundo a ordem do Senhor",
+      "ref": "Dt 34,5"
+    }
+  },
+  "ancoras": {
+    "34:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Judas menciona a disputa do arcanjo Miguel com o diabo sobre o corpo de Moisés (Jd 9).",
+        "origem": "ia"
+      }
+    },
+    "34:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Dt 18,15; At 3,22: o profeta semelhante a Moisés é Cristo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "DEU.29.1",
+  "livro": "DEU",
+  "titulo": "A aliança renovada em Moab",
+  "secao": "Terceiro discurso: a aliança em Moab",
+  "referencia": "Dt 29,1-29",
+  "ini": {
+    "c": 29,
+    "v": 1
+  },
+  "fim": {
+    "c": 29,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "“As coisas ocultas são do Senhor; as manifestas são para nós”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "São as palavras da aliança que o Senhor manda fazer com Israel na terra de Moab, além da aliança do Horeb. Moisés recorda os prodígios do Egito e diz: “até ao dia presente, o Senhor não vos deu um coração que entenda, nem olhos que vejam, nem ouvidos que possam ouvir.” Quarenta anos no deserto, as vestes e os calçados não se gastaram, “para que soubésseis que eu sou o Senhor vosso Deus”. “Vós estais hoje todos diante do Senhor vosso Deus”: chefes, anciãos, homens, crianças, mulheres e o estrangeiro, “desde os que cortam lenha, aos que acarretam água”, para entrar na aliança, “a fim de te escolher como seu povo, e ele próprio ser o teu Deus”. E não só com os presentes: “faço-a com todos os presentes e ausentes”. Que não haja entre vós “raiz que produza fel e amargura”, nem quem diga: “Eu terei paz, embora ande na depravação do meu coração.” As gerações futuras e os estrangeiros verão a terra devastada e perguntarão por quê; e se responderá: porque abandonaram a aliança. “As coisas ocultas são do Senhor nosso Deus, as manifestas são para nós e para os nossos filhos perpetuamente, para que ponhamos em prática todas as palavras desta lei.”",
+    "alegorico": "Paulo cita “Deus deu-lhes… olhos para não ver e ouvidos para não ouvir” (Rm 11,8) para falar do mistério de Israel; e Jesus abre os olhos e os ouvidos (Mc 7,34; 8,25). A aliança feita também com os “ausentes” chega até nós: a Igreja é a herdeira dos que não estavam em Moab. A “raiz de amargura” é citada em Hb 12,15.",
+    "moral": "A aliança envolve todos, do chefe ao carregador de água: na Igreja não há cristãos de segunda. O perigo é a falsa segurança: “terei paz, embora ande na depravação”. E a última frase é uma regra de sabedoria: não gastar a vida especulando sobre o que Deus guardou para si, mas pôr em prática o que ele revelou.",
+    "anagogico": "As coisas ocultas, que agora pertencem só a Deus, serão manifestadas no fim: “então conhecerei como sou conhecido” (1Cor 13,12)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor não vos deu um coração que entenda, nem olhos que vejam.” “Vós estais hoje todos diante do Senhor vosso Deus.” “Desde os que cortam lenha, aos que acarretam água.” “Faço-a com todos os presentes e ausentes.” “As coisas ocultas são do Senhor nosso Deus, as manifestas são para nós.”",
+    "meditatio_perguntas": [
+      "Peço a Deus um coração que entenda, olhos que vejam, ouvidos que ouçam?",
+      "Considero todos iguais diante da aliança, do chefe ao carregador de água?",
+      "Perco-me em curiosidades sobre o oculto, deixando de praticar o que é claro?"
+    ],
+    "oratio_guia": "Senhor, dá-me um coração que entenda, olhos que vejam e ouvidos que ouçam. Que eu não me perca no que reservaste para ti, mas pratique com fidelidade o que me revelaste. Amém.",
+    "contemplatio_foco": {
+      "texto": "As coisas ocultas são do Senhor nosso Deus, as manifestas são para nós e para os nossos filhos perpetuamente",
+      "ref": "Dt 29,29"
+    }
+  },
+  "ancoras": {
+    "29:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração hebraica, Dt 29,1 é Dt 28,69, e o restante do capítulo está deslocado de um versículo.",
+        "origem": "ia"
+      }
+    },
+    "29:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Raiz de amargura”: cf. Hb 12,15.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

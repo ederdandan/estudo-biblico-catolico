@@ -1,0 +1,57 @@
+{
+  "id": "DEU.9.1",
+  "livro": "DEU",
+  "titulo": "Não por tua justiça: o bezerro de ouro recordado",
+  "secao": "Segundo discurso: o grande mandamento",
+  "referencia": "Dt 9,1–10,11",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 11
+  },
+  "liturgia": {
+    "tema_central": "“Não é pela tua justiça”: a intercessão de Moisés",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Ouve, ó Israel: Tu passarás hoje o Jordão”, contra nações maiores e cidades muradas até ao céu, contra os filhos de Enac; mas “o Senhor teu Deus passará ele mesmo diante de ti, como um fogo devorador”. Depois da vitória, “não digas no teu coração: Por causa da minha justiça é que o Senhor me introduziu nesta terra… Não é pela tua justiça, nem pela retidão do teu coração”, mas pela impiedade daquelas nações e pela fidelidade de Deus ao juramento feito aos patriarcas, “pois tu és um povo de cerviz duríssima”. E Moisés recorda: “Desde o dia em que saíste do Egipto até este lugar, foste sempre rebelde.” No Horeb, enquanto ele estava quarenta dias no monte, o povo fez o bezerro de ouro; Moisés quebrou as tábuas, destruiu o ídolo e intercedeu quarenta dias e quarenta noites: “Senhor Deus, não destruas o teu povo, a tua herança… Lembra-te de teus servos Abraão, Isaac e Jacob; não olhes para a dureza deste povo.” Lembra também Tabera, Massa e Cades. O Senhor mandou cortar novas tábuas e fazer uma arca para guardá-las; escreveu de novo as dez palavras. Separou a tribo de Levi para levar a arca e bendizer em seu nome. E disse a Moisés: “Vai e marcha diante do teu povo.”",
+    "alegorico": "A Carta aos Romanos desenvolve o mesmo ensino: ninguém é justificado pelas próprias obras, mas pela graça (Rm 3,24). Moisés, que se prostra quarenta dias para que o povo não seja destruído, é figura de Cristo, que “vive sempre para interceder por nós” (Hb 7,25). As segundas tábuas, guardadas na arca, anunciam a nova aliança, dada depois do pecado e guardada no coração.",
+    "moral": "O maior perigo depois de uma vitória é atribuí-la à própria justiça. A memória honesta do próprio pecado, “foste sempre rebelde”, não é para desanimar, mas para manter a humildade e a gratidão. E a intercessão perseverante de Moisés ensina a rezar pelos outros sem desistir, apelando à misericórdia e à fidelidade de Deus.",
+    "anagogico": "A herança é dada pela fidelidade de Deus, não pela justiça do povo: assim também o céu é dom da graça, e entraremos não pelos nossos méritos, mas pelos de Cristo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor teu Deus passará ele mesmo diante de ti.” “Não é pela tua justiça.” “Tu és um povo de cerviz duríssima.” “Não destruas o teu povo, a tua herança.” “Não olhes para a dureza deste povo.” “Vai e marcha diante do teu povo.”",
+    "meditatio_perguntas": [
+      "Atribuo as graças recebidas à minha própria justiça?",
+      "Faço memória humilde dos meus pecados, sem desespero?",
+      "Intercedo com perseverança pelos que se afastam de Deus?"
+    ],
+    "oratio_guia": "Senhor, não pela minha justiça, mas pela tua misericórdia, conduz-me à tua herança. Não olhes para a dureza do meu coração, e escreve de novo em mim as tuas palavras. Amém.",
+    "contemplatio_foco": {
+      "texto": "não destruas o teu povo, a tua herança",
+      "ref": "Dt 9,26"
+    }
+  },
+  "ancoras": {
+    "9:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os quarenta dias de Moisés sem comer nem beber anunciam o jejum de Jesus no deserto (Mt 4,2).",
+        "origem": "ia"
+      }
+    },
+    "10:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A missão dos levitas: levar a arca, estar diante do Senhor, servi-lo e bendizer em seu nome.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

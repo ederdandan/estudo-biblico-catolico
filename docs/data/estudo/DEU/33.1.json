@@ -1,0 +1,57 @@
+{
+  "id": "DEU.33.1",
+  "livro": "DEU",
+  "titulo": "A bênção de Moisés sobre as tribos",
+  "secao": "Os últimos dias de Moisés",
+  "referencia": "Dt 33,1-29",
+  "ini": {
+    "c": 33,
+    "v": 1
+  },
+  "fim": {
+    "c": 33,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "“Os seus braços eternos”: a bênção de Moisés",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Esta é a bênção, com a qual Moisés, homem de Deus, abençoou os filhos de Israel, antes da sua morte.” Começa evocando a teofania: “O Senhor veio do Sinai, e levantou-se para nós de Seir… e com ele milhares de santos. Na sua direita uma lei de fogo. Ele amou os povos; todos os santos estão na sua mão, estão sentados a seus pés, recebem da sua doutrina.” Segue uma bênção para cada tribo: que Rúben viva; que o Senhor ouça Judá; a Levi, a “perfeição” e a “doutrina” confiadas ao homem santo, e o serviço do altar; Benjamim, “o muito amado do Senhor habita com ele confiadamente… e ele repousa entre os seus braços”; a José, as bênçãos do céu, do orvalho e dos frutos, e “a bênção daquele que apareceu na sarça”; Zabulon e Issacar, as riquezas do mar; Gad, Dan, Neftali, cheio de bênçãos; Aser, de força. E o final: “Não há outro Deus, como o Deus de Jesurun… A sua habitação é lá no alto, e cá em baixo estão os seus braços eternos… Bem-aventurado sejas tu, ó Israel. Quem é semelhante a ti, ó povo, que tens a tua salvação no Senhor?”",
+    "alegorico": "Como Jacó antes de morrer (Gn 49), Moisés abençoa as doze tribos: figura de Cristo que, antes de subir ao céu, abençoa os Doze (Lc 24,50-51), e da Igreja, fundada sobre as doze colunas. Os “braços eternos” sob o povo anunciam os braços de Cristo abertos na cruz, que sustentam o mundo.",
+    "moral": "A última palavra de Moisés não é uma acusação, é uma bênção. Quem conduziu um povo difícil por quarenta anos termina abençoando cada um pelo nome. Cada tribo tem o seu dom: na Igreja, cada um tem o seu carisma. E a segurança do povo não está nas suas forças, mas em Deus: “cá em baixo estão os seus braços eternos”.",
+    "anagogico": "“Bem-aventurado sejas tu, ó Israel… que tens a tua salvação no Senhor”: é a bem-aventurança final do povo de Deus, que habitará em segurança, sustentado para sempre pelos braços eternos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Moisés, homem de Deus, abençoou os filhos de Israel, antes da sua morte.” “Ele amou os povos; todos os santos estão na sua mão.” “O muito amado do Senhor habita com ele confiadamente.” “Cá em baixo estão os seus braços eternos.” “Bem-aventurado sejas tu, ó Israel… que tens a tua salvação no Senhor.”",
+    "meditatio_perguntas": [
+      "Termino as etapas da vida abençoando ou acusando?",
+      "Reconheço o dom próprio de cada pessoa da minha comunidade?",
+      "Sinto debaixo de mim os braços eternos de Deus?"
+    ],
+    "oratio_guia": "Senhor, cujos braços eternos me sustentam, dá-me abençoar os outros como Moisés, e repousar confiadamente em ti como o muito amado do Senhor. Em ti está a minha salvação. Amém.",
+    "contemplatio_foco": {
+      "texto": "cá em baixo estão os seus braços eternos",
+      "ref": "Dt 33,27"
+    }
+  },
+  "ancoras": {
+    "33:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Homem de Deus”: primeira vez que este título é dado a Moisés.",
+        "origem": "ia"
+      }
+    },
+    "33:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Benjamim “repousa entre os seus braços” (o hebraico diz “entre os seus ombros”): Jerusalém e o Templo ficavam no território de Benjamim.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

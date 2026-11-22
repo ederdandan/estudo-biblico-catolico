@@ -1,0 +1,57 @@
+{
+  "id": "DEU.11.1",
+  "livro": "DEU",
+  "titulo": "A terra que bebe a chuva do céu: bênção e maldição",
+  "secao": "Segundo discurso: o grande mandamento",
+  "referencia": "Dt 11,1-32",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "Uma terra regada pela chuva do céu: a bênção e a maldição",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Moisés pede que Israel ame o Senhor e guarde os seus preceitos, lembrando as obras que os seus olhos viram no Egito, no mar Vermelho e no deserto, e o castigo de Datã e Abirão. A terra prometida “não é como a terra do Egipto… na qual… se conduzem as águas para regar, como se faz nas hortas, mas é uma terra de montes e de planícies, regada com as chuvas do céu, uma terra de que o Senhor teu Deus toma cuidado, e sobre que seus olhos estão desde o princípio do ano até ao fim”. Se Israel amar o Senhor de todo o coração, virão as chuvas a seu tempo; se se desviar para outros deuses, o céu se fechará. Moisés repete: “Ponde nos vossos corações e nas vossas almas estas minhas palavras”, ensinai-as aos filhos, escrevei-as nas portas. E conclui: “Vede que eu ponho hoje diante dos vossos olhos a bênção e a maldição: a bênção, se obedecerdes aos mandamentos… a maldição, se não obedecerdes”. Na terra, a bênção será proclamada sobre o monte Garizim e a maldição sobre o monte Ebal.",
+    "alegorico": "A terra que depende da chuva do céu, e não da irrigação humana, é figura da vida de graça: a alma não se rega com as próprias forças, mas recebe a chuva do alto, o Espírito Santo. Os olhos de Deus sobre a terra “desde o princípio do ano até ao fim” exprimem a Providência que Jesus ensina: “olhai as aves do céu… vosso Pai celeste as alimenta” (Mt 6,26).",
+    "moral": "O Egito dava segurança humana: o rio regava sempre, bastava trabalhar. A terra prometida exige confiança: depende da chuva, isto é, de Deus. A fé troca a segurança controlada pela dependência filial. E diante de cada um está a escolha: bênção ou maldição. Não há neutralidade.",
+    "anagogico": "Os olhos de Deus, fixos na sua terra o ano inteiro, anunciam a terra nova sobre a qual ele reinará para sempre, onde o rio da água da vida brota do seu trono (Ap 22,1)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Regada com as chuvas do céu.” “Uma terra de que o Senhor teu Deus toma cuidado, e sobre que seus olhos estão desde o princípio do ano até ao fim.” “Ponde nos vossos corações e nas vossas almas estas minhas palavras.” “Eu ponho hoje diante dos vossos olhos a bênção e a maldição.”",
+    "meditatio_perguntas": [
+      "Prefiro a segurança do “Egito” à dependência de Deus?",
+      "Sinto os olhos de Deus sobre a minha vida o ano inteiro?",
+      "Que escolha faço hoje: bênção ou maldição?"
+    ],
+    "oratio_guia": "Senhor, cujos olhos estão sobre a tua terra do princípio ao fim do ano, rega a minha alma com a chuva do teu Espírito. Hoje escolho a tua bênção. Amém.",
+    "contemplatio_foco": {
+      "texto": "uma terra de que o Senhor teu Deus toma cuidado, e sobre que seus olhos estão desde o princípio do ano até ao fim",
+      "ref": "Dt 11,12"
+    }
+  },
+  "ancoras": {
+    "11:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As chuvas “temporãs” (outono) e “serôdias” (primavera) eram vitais para a agricultura de Canaã.",
+        "origem": "ia"
+      }
+    },
+    "11:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O rito será cumprido por Josué (Js 8,30-35).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

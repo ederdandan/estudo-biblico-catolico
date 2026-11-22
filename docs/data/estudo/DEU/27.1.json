@@ -1,0 +1,57 @@
+{
+  "id": "DEU.27.1",
+  "livro": "DEU",
+  "titulo": "As pedras escritas e as maldições do Ebal",
+  "secao": "Bênçãos e maldições",
+  "referencia": "Dt 27,1-26",
+  "ini": {
+    "c": 27,
+    "v": 1
+  },
+  "fim": {
+    "c": 27,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "A Lei escrita na pedra e o “Assim seja” do povo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Moisés e os anciãos ordenam: depois de passar o Jordão, levantai grandes pedras, revesti-as de cal e escrevei nelas “todas as palavras desta lei”, sobre o monte Ebal; edificai ali um altar de pedras que o ferro não tocou, oferecei holocaustos e sacrifícios pacíficos, “e ali comerás, e te regalarás diante do Senhor teu Deus”. Moisés e os sacerdotes dizem: “Hoje te tornaste o povo do Senhor teu Deus.” Seis tribos ficarão no monte Garizim para abençoar, e seis no Ebal para a maldição. Os levitas proclamarão em alta voz, e o povo responderá a cada frase: “Assim seja.” “Maldito o homem que faz escultura ou imagem fundida… Maldito o que não honra seu pai e sua mãe… Maldito o que desloca os marcos do seu próximo… Maldito o que faz um cego errar no caminho… Maldito o que viola o direito do estrangeiro, do órfão e da viúva…” seguem-se as maldições contra o incesto, a bestialidade, o homicídio à traição, o suborno para derramar sangue inocente; e a última: “Maldito o que não conserva as palavras desta lei, e as não põe em prática.”",
+    "alegorico": "Paulo cita a última maldição: “Malditos todos os que não permanecem em todas as coisas escritas no livro da lei” (Gl 3,10), para mostrar que ninguém se salva pela Lei sozinha, e que Cristo nos resgatou dessa maldição fazendo-se maldição por nós. A Lei escrita em pedra anuncia a lei escrita “não em tábuas de pedra, mas em tábuas de carne, nos corações” (2Cor 3,3).",
+    "moral": "Muitos destes pecados são cometidos “às escondidas”: a imagem posta num lugar oculto, o marco deslocado, o cego enganado, o golpe à traição. Deus vê o que ninguém vê. O povo responde “Amém” a cada maldição: assume a responsabilidade. O nosso “Amém” na liturgia também é compromisso. E entre os pecados malditos está o desprezo pelos fracos: o cego, o estrangeiro, o órfão, a viúva.",
+    "anagogico": "O “Amém” do povo diante da Lei anuncia o “Amém” eterno dos santos diante do trono (Ap 5,14; 19,4), e Cristo mesmo é “o Amém, a testemunha fiel e verdadeira” (Ap 3,14)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Escreverás… todas as palavras desta lei.” “Te regalarás diante do Senhor teu Deus.” “Maldito o que faz um cego errar no caminho.” “Maldito o que viola o direito do estrangeiro, do órfão e da viúva.” “Todo o povo dirá: Assim seja.”",
+    "meditatio_perguntas": [
+      "O que faço às escondidas que não faria diante dos outros?",
+      "O meu “Amém” na Missa é um compromisso real?",
+      "Faço algum “cego” errar o caminho, com mau exemplo ou engano?"
+    ],
+    "oratio_guia": "Senhor, que vês o que se faz em segredo, escreve a tua Lei no meu coração. Que o meu “Amém” seja verdadeiro e que eu nunca faça tropeçar o pequeno e o fraco. Amém.",
+    "contemplatio_foco": {
+      "texto": "Maldito o que faz um cego errar no caminho",
+      "ref": "Dt 27,18"
+    }
+  },
+  "ancoras": {
+    "27:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Josué cumpre esta ordem em Js 8,30-35.",
+        "origem": "ia"
+      }
+    },
+    "27:26": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em Gl 3,10.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "DEU.21.1",
+  "livro": "DEU",
+  "titulo": "O sangue sem culpado e o maldito pendurado no madeiro",
+  "secao": "O código deuteronômico",
+  "referencia": "Dt 21,1-23",
+  "ini": {
+    "c": 21,
+    "v": 1
+  },
+  "fim": {
+    "c": 21,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "“Maldito de Deus aquele que está pendente do lenho”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Se for encontrado o cadáver de um homem assassinado e não se souber quem o matou, os anciãos e juízes medem a distância até às cidades vizinhas. Os anciãos da mais próxima levam uma novilha que nunca levou jugo a um vale nunca lavrado e lhe cortam o pescoço; diante dos sacerdotes, lavam as mãos sobre ela e dizem: “As nossas mãos não derramaram este sangue, nem os nossos olhos viram. Sê propício ao teu povo de Israel… e não lhe imputes o sangue inocente.” Seguem leis de família: a prisioneira de guerra tomada por esposa deve ter um mês para chorar os pais e não pode ser vendida como escrava; o filho primogênito da mulher menos amada conserva a parte dobrada da herança; o filho rebelde e contumaz, que não obedece e “passa a vida na embriaguez e na dissolução”, é levado pelos pais aos anciãos. Por fim: o condenado pendurado no patíbulo não ficará no lenho durante a noite, “mas será sepultado no mesmo dia, porque é maldito de Deus aquele que está pendente do lenho”.",
+    "alegorico": "Paulo cita o último versículo para explicar a cruz: “Cristo nos resgatou da maldição da lei, fazendo-se maldição por nós, porque está escrito: maldito todo aquele que é pendurado no madeiro” (Gl 3,13). Por isso o corpo de Jesus foi retirado da cruz antes do anoitecer (Jo 19,31). Pilatos, que lava as mãos dizendo “sou inocente do sangue deste justo” (Mt 27,24), faz o gesto deste rito, mas sem verdade.",
+    "moral": "O sangue inocente pesa sobre toda a comunidade, mesmo quando não se conhece o culpado: há uma responsabilidade coletiva pela vida. As leis de família protegem os mais frágeis: a cativa, o filho da mulher menos amada. E mostram a gravidade da rebeldia contra os pais, que a Lei de Cristo corrige não pela pedra, mas pela conversão, como a do filho pródigo.",
+    "anagogico": "O Maldito pendurado no lenho tornou-se fonte de bênção: a cruz é a árvore da vida, e o que parecia maldição é o caminho da glória eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“As nossas mãos não derramaram este sangue, nem os nossos olhos viram.” “Sê propício ao teu povo de Israel.” “Não lhe imputes o sangue inocente.” “Será sepultado no mesmo dia, porque é maldito de Deus aquele que está pendente do lenho.”",
+    "meditatio_perguntas": [
+      "Sinto-me responsável pela vida dos inocentes na minha sociedade?",
+      "Contemplo Cristo, que se fez maldição por mim no lenho?",
+      "Lavo as mãos diante do mal, como Pilatos, sem verdade?"
+    ],
+    "oratio_guia": "Senhor Jesus, que te fizeste maldição por nós no madeiro, livra-nos da maldição do pecado e do sangue inocente. Faz-nos responsáveis uns pelos outros. Amém.",
+    "contemplatio_foco": {
+      "texto": "porque é maldito de Deus aquele que está pendente do lenho",
+      "ref": "Dt 21,23"
+    }
+  },
+  "ancoras": {
+    "21:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em Gl 3,13; cf. At 5,30; 10,39: “pendurando-o num madeiro”.",
+        "origem": "ia"
+      }
+    },
+    "21:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A parte dobrada do primogênito; cf. 2Rs 2,9 (Eliseu pede porção dobrada do espírito de Elias).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

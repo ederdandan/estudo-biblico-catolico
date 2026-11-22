@@ -1,0 +1,57 @@
+{
+  "id": "DEU.22.1",
+  "livro": "DEU",
+  "titulo": "O animal do irmão, o ninho e a honra do matrimônio",
+  "secao": "O código deuteronômico",
+  "referencia": "Dt 22,1-30",
+  "ini": {
+    "c": 22,
+    "v": 1
+  },
+  "fim": {
+    "c": 22,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "Não voltar os olhos para o lado: o cuidado do que é do irmão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Se vires extraviados o boi ou a ovelha do teu irmão, não passarás adiante, mas reconduzi-los-ás a teu irmão”; se ele não vive perto ou não o conheces, guarda-os até que os procure. O mesmo com o jumento, a roupa ou qualquer coisa perdida: “não a desprezes”. “Se vires o jumento ou o boi de teu irmão caídos no caminho, não voltarás os olhos para o lado, mas ajudá-lo-ás a levantá-los.” Seguem leis variadas: homem e mulher não trocam de roupa; se encontrares um ninho, deixa ir a mãe e toma só os filhotes, “para que sejas bem sucedido e vivas muito tempo”; quem constrói casa faz um parapeito no telhado, para que ninguém caia; não misturar sementes, animais no arado ou tecidos; fazer franjas nos quatro cantos do manto. Depois, leis do matrimônio: o marido que difama falsamente a esposa, acusando-a de não ser virgem, é castigado, paga multa ao pai dela e nunca poderá repudiá-la; e as penas para o adultério, a violação e a sedução de uma jovem.",
+    "alegorico": "Não “voltar os olhos para o lado” diante do animal caído do irmão é o contrário do sacerdote e do levita da parábola, que “passaram adiante” (Lc 10,31-32). Jesus usa o mesmo argumento: “Qual de vós, se o seu jumento ou o seu boi cair num poço, não o tirará logo?” (Lc 14,5). Cristo é o pastor que reconduz a ovelha extraviada.",
+    "moral": "O amor ao próximo começa no cuidado concreto do que é dele: devolver o que se acha, ajudar a levantar o que caiu, prevenir acidentes com um parapeito. A indiferença, “voltar os olhos para o lado”, já é falta. A compaixão chega aos animais: a mãe do ninho é poupada. E a honra da esposa é protegida contra a calúnia do marido.",
+    "anagogico": "O cuidado pelas coisas perdidas do irmão anuncia o Deus que busca o que estava perdido, até que, no fim, nada do que é seu se perca (Jo 6,39)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não passarás adiante, mas reconduzi-los-ás a teu irmão.” “Não a desprezes.” “Não voltarás os olhos para o lado, mas ajudá-lo-ás a levantá-los.” “Deixá-la-ás ir.” “Para que se não derrame sangue em tua casa.”",
+    "meditatio_perguntas": [
+      "Volto os olhos para o lado diante da necessidade do outro?",
+      "Devolvo o que encontro e cuido do que é do próximo?",
+      "Previno os riscos que a minha negligência pode causar aos outros?"
+    ],
+    "oratio_guia": "Senhor, que não passas adiante diante de quem caiu, dá-me olhos atentos e mãos prontas para ajudar o meu irmão a levantar-se. Livra-me da indiferença. Amém.",
+    "contemplatio_foco": {
+      "texto": "não voltarás os olhos para o lado, mas ajudá-lo-ás a levantá-los",
+      "ref": "Dt 22,4"
+    }
+  },
+  "ancoras": {
+    "22:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Junto com o mandamento de honrar os pais, é o único preceito que promete “vida longa”; a tradição judaica o considera exemplo de mandamento “leve”.",
+        "origem": "ia"
+      }
+    },
+    "22:30": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na numeração hebraica, Dt 22,30 é Dt 23,1.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

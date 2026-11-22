@@ -1,0 +1,57 @@
+{
+  "id": "DEU.25.1",
+  "livro": "DEU",
+  "titulo": "O levirato, os pesos justos e Amalec",
+  "secao": "O código deuteronômico",
+  "referencia": "Dt 25,1-19",
+  "ini": {
+    "c": 25,
+    "v": 1
+  },
+  "fim": {
+    "c": 25,
+    "v": 19
+  },
+  "liturgia": {
+    "tema_central": "Não atar a boca ao boi; pesos justos; levantar o nome do irmão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Nos litígios, os juízes absolvem o justo e condenam o ímpio; o culpado pode ser açoitado, “contanto… que não ultrapassem o número de quarenta, para que teu irmão se não retire aviltado de diante de teus olhos”. “Não atarás a boca ao boi que debulha na eira.” Segue a lei do levirato: se um irmão morre sem filhos, o irmão sobrevivente toma a viúva e o primogênito levará o nome do falecido, “para que o nome deste não se extinga em Israel”. Se ele se recusar, a viúva o leva aos anciãos, tira-lhe o sapato e lhe cospe no rosto: “Assim será feito ao homem que não edifica a casa de seu irmão.” “Não terás no saco pesos diversos, maior e menor… Terás um peso justo e verdadeiro… Com efeito, o Senhor teu Deus abomina… quem comete uma injustiça.” E por fim: “Lembra-te do que te fez Amalec no caminho… matou os últimos do teu exército, que cansados ficavam atrás.”",
+    "alegorico": "Paulo aplica o boi que debulha aos ministros do Evangelho: “porventura Deus tem cuidado dos bois? Não é por nós que ele diz isto?… o operário é digno do seu salário” (1Cor 9,9; 1Tm 5,18). A lei do levirato está por trás da história de Rute e de Booz e da pergunta dos saduceus a Jesus sobre a ressurreição (Mc 12,19). Paulo recebeu “quarenta açoites menos um” cinco vezes (2Cor 11,24).",
+    "moral": "Até o castigo tem limites, para não aviltar o irmão: a dignidade do culpado permanece. Quem trabalha tem direito a comer do seu trabalho. A honestidade no comércio, um peso só, é parte da santidade. E a memória de Amalec, que atacou os cansados da retaguarda, condena a covardia de ferir os mais fracos.",
+    "anagogico": "O nome que não se extingue em Israel aponta para a ressurreição, em que Deus “não é Deus de mortos, mas de vivos” (Mc 12,27), e cada nome será guardado para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Para que teu irmão se não retire aviltado de diante de teus olhos.” “Não atarás a boca ao boi que debulha.” “Para que o nome deste não se extinga em Israel.” “Terás um peso justo e verdadeiro.” “Matou os últimos do teu exército, que cansados ficavam atrás.”",
+    "meditatio_perguntas": [
+      "Respeito a dignidade até de quem errou?",
+      "Uso “dois pesos e duas medidas” no julgamento ou nos negócios?",
+      "Cuido dos cansados que ficam para trás na comunidade?"
+    ],
+    "oratio_guia": "Senhor justo, dá-me um peso só e uma medida verdadeira, respeito pela dignidade de todos e cuidado pelos que ficam para trás. Amém.",
+    "contemplatio_foco": {
+      "texto": "Terás um peso justo e verdadeiro",
+      "ref": "Dt 25,15"
+    }
+  },
+  "ancoras": {
+    "25:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em 1Cor 9,9 e 1Tm 5,18.",
+        "origem": "ia"
+      }
+    },
+    "25:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Gn 38; Rt 4; Mc 12,18-27.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,65 @@
+{
+  "id": "DEU.6.1",
+  "livro": "DEU",
+  "titulo": "“Ouve, Israel”: amarás o Senhor",
+  "secao": "Segundo discurso: o grande mandamento",
+  "referencia": "Dt 6,1-25",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "“Ouve, ó Israel… Amarás ao Senhor teu Deus”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Moisés expõe o centro da Lei: “Ouve, ó Israel: o Senhor nosso Deus é o único Senhor. Amarás ao Senhor teu Deus de todo o teu coração, de toda a tua alma, com toda a tua força. Estas palavras… estarão gravadas no teu coração; tu as ensinarás a teus filhos, e as meditarás sentado em tua casa, andando pelo caminho, estando no leito, e ao levantar-te. Atá-las-ás à tua mão como um sinal… e escrevê-las-ás sobre o limiar e sobre as portas da tua casa.” Quando o Senhor te der cidades que não edificaste, casas cheias que não encheste, vinhas e olivais que não plantaste, “quando comeres e te fartares, abstém-te cuidadosamente de esquecer o Senhor”. “Temerás o Senhor teu Deus, só a ele servirás.” “Não tentarás o Senhor teu Deus.” E quando o teu filho perguntar o que significam estas leis, responderás: “Nós estávamos escravos de Faraó no Egipto, e o Senhor tirou-nos do Egipto com mão poderosa… e mandou-nos que observássemos todas estas leis… para que nos suceda bem.”",
+    "alegorico": "Jesus responde ao escriba que este é “o primeiro de todos os mandamentos” (Mc 12,29-30), e o une ao amor do próximo. Nas tentações do deserto, Jesus vence o demônio com este capítulo: “Adorarás o Senhor teu Deus, e só a ele servirás”; “Não tentarás o Senhor teu Deus” (Mt 4,7.10). Cristo é o Israel fiel que ouve e ama com todo o coração.",
+    "moral": "Amar a Deus “de todo” o coração, a alma e a força: nada fica de fora. Este amor se aprende e se transmite: em casa, no caminho, ao deitar e ao levantar. A fé precisa de sinais visíveis e de conversa em família. E o grande perigo não é a pobreza, mas a fartura: “quando comeres e te fartares”, é fácil esquecer quem deu tudo.",
+    "anagogico": "O amor “de todo o coração” é a única coisa que permanece: na vida eterna, o mandamento se torna plenitude, e amaremos a Deus sem divisão."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ouve, ó Israel: o Senhor nosso Deus é o único Senhor.” “Amarás ao Senhor teu Deus de todo o teu coração, de toda a tua alma, com toda a tua força.” “Tu as ensinarás a teus filhos.” “Abstém-te cuidadosamente de esquecer o Senhor.” “Não tentarás o Senhor teu Deus.”",
+    "meditatio_perguntas": [
+      "Há algo em meu coração que eu não entregue ao amor de Deus?",
+      "Falo de Deus em casa, com os meus, no dia a dia?",
+      "A fartura me fez esquecer o Senhor?"
+    ],
+    "oratio_guia": "Senhor, único Senhor, quero amar-te de todo o coração, de toda a alma e com toda a força. Grava as tuas palavras em mim, e faz que eu as transmita aos meus. Que eu nunca te esqueça na fartura. Amém.",
+    "contemplatio_foco": {
+      "texto": "Amarás ao Senhor teu Deus de todo o teu coração, de toda a tua alma, com toda a tua força",
+      "ref": "Dt 6,5"
+    }
+  },
+  "ancoras": {
+    "6:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "É o Shemá, oração diária do judaísmo, recitada pelo próprio Jesus (Mc 12,29).",
+        "origem": "ia"
+      }
+    },
+    "6:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Daí os filactérios (tefilin) e a mezuzá nas portas das casas judaicas.",
+        "origem": "ia"
+      }
+    },
+    "6:16": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “Lugar da Tentação” é Massa (Ex 17,7).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

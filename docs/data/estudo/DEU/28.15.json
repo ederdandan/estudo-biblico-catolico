@@ -1,0 +1,57 @@
+{
+  "id": "DEU.28.15",
+  "livro": "DEU",
+  "titulo": "As maldições da infidelidade",
+  "secao": "Bênçãos e maldições",
+  "referencia": "Dt 28,15-68",
+  "ini": {
+    "c": 28,
+    "v": 15
+  },
+  "fim": {
+    "c": 28,
+    "v": 68
+  },
+  "liturgia": {
+    "tema_central": "As maldições: “Pela manhã dirás: quem me dera a tarde?”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Se tu não quiseres ouvir a voz do Senhor teu Deus… virão sobre ti e te alcançarão todas estas maldições.” A lista espelha e inverte as bênçãos: maldito na cidade e no campo, ao entrar e ao sair; doenças, secas, derrotas; o céu como bronze, a terra como ferro; noivas tomadas por outros, casas que não se habitam, vinhas que outros colhem; a loucura e a cegueira do coração. E a causa: “Visto que não serviste ao Senhor teu Deus com gosto e alegria de coração, na abundância de todas as coisas, servirás o inimigo… com fome e com sede.” Virá de longe “uma nação que voa como a águia”, sem piedade do velho nem da criança; no cerco, a fome levará os pais a comer os próprios filhos. Israel, antes numeroso como as estrelas, ficará reduzido e disperso entre os povos, servindo “a paus e a pedras”. “Também não terás repouso… o Senhor te dará ali um coração medroso… A tua vida estará como suspensa por um fio… Pela manhã dirás: Quem me dera a tarde? e à tarde: Quem me dera a manhã?” E por fim, o êxodo às avessas: de volta ao Egito em navios, vendidos como escravos, “e não haverá quem vos compre”.",
+    "alegorico": "Estas maldições se cumpriram tragicamente no exílio da Babilônia e na destruição de Jerusalém pelos romanos, que os Padres viram anunciada aqui. Mas Cristo tomou sobre si a maldição (Gl 3,13): na cruz, ele experimentou o abandono, “meu Deus, por que me abandonaste?”, para que sobre nós repousasse a bênção.",
+    "moral": "O texto é duro para despertar. A frase central é luminosa: o mal veio porque “não serviste ao Senhor com gosto e alegria de coração, na abundância”. A ingratidão na fartura abre a porta à escravidão. E a descrição da angústia, “pela manhã: quem me dera a tarde”, é o retrato da alma sem Deus: sem repouso, com a vida por um fio.",
+    "anagogico": "O desterro e a angústia sem repouso são imagem da perdição eterna, a separação de Deus; mas a Escritura não termina aqui: o capítulo 30 abre a porta do retorno."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Visto que não serviste ao Senhor teu Deus com gosto e alegria de coração.” “Uma nação que voa como a águia.” “O Senhor te dará ali um coração medroso.” “A tua vida estará como suspensa por um fio diante de ti.” “Pela manhã dirás: Quem me dera a tarde?”",
+    "meditatio_perguntas": [
+      "Sirvo a Deus com alegria de coração, especialmente na abundância?",
+      "Experimento a angústia de quem não tem repouso? Onde a procuro?",
+      "Creio que Cristo levou sobre si a maldição que eu merecia?"
+    ],
+    "oratio_guia": "Senhor, dá-me servir-te com alegria de coração na abundância e na pobreza. Livra-me da angústia da alma sem ti, e faz repousar sobre mim a bênção que teu Filho conquistou na cruz. Amém.",
+    "contemplatio_foco": {
+      "texto": "Pela manhã dirás: Quem me dera a tarde?",
+      "ref": "Dt 28,67"
+    }
+  },
+  "ancoras": {
+    "28:47": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Versículo-chave: a falta de gratidão e alegria no serviço de Deus é a raiz da ruína.",
+        "origem": "ia"
+      }
+    },
+    "28:49": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “nação que voa como a águia” foi associada aos assírios, aos babilônios e, mais tarde, aos romanos, cujas insígnias traziam a águia.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

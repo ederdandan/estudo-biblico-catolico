@@ -1,0 +1,57 @@
+{
+  "id": "DEU.14.1",
+  "livro": "DEU",
+  "titulo": "Filhos do Senhor: alimentos e dízimos",
+  "secao": "O código deuteronômico",
+  "referencia": "Dt 14,1-29",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "“Sede filhos do Senhor vosso Deus”: o dízimo partilhado",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Sede filhos do Senhor vosso Deus; não vos fareis incisões, nem cortareis o cabelo por causa dum morto. Com efeito és um povo consagrado ao Senhor teu Deus.” Segue a lista dos animais puros e impuros, retomando o Levítico: os quadrúpedes que ruminam e têm a unha fendida, os peixes com barbatanas e escamas, as aves permitidas; não se come animal morto por si, nem se coze o cabrito no leite da mãe. Depois, o dízimo: cada ano separa-se o dízimo do trigo, do vinho, do azeite e os primogênitos do gado, e come-se “na presença do Senhor teu Deus, no lugar que ele tiver escolhido… para que aprendas a temer o Senhor teu Deus em todo o tempo”. Se o caminho for longo, vende-se e compra-se lá o que se quiser, e banqueteia-se com a família. Não se desampare o levita. A cada três anos, o dízimo fica nas cidades: “virá o Levita… assim como o peregrino, o órfão, e a viúva… e comerão e se saciarão, para que o Senhor teu Deus te abençoe”.",
+    "alegorico": "“Sede filhos do Senhor”: a filiação anunciada a Israel se realiza plenamente em Cristo, pelo qual recebemos “a adoção de filhos” e clamamos “Abba, Pai” (Gl 4,5-6). O banquete do dízimo diante do Senhor, partilhado com os pobres, prefigura o ágape cristão e a Eucaristia unida à caridade.",
+    "moral": "Quem é filho de Deus vive de modo diferente, até no luto: sem os ritos de desespero dos pagãos, porque tem esperança (1Ts 4,13). O dízimo não é só imposto religioso: é festa diante de Deus e partilha com o levita, o estrangeiro, o órfão e a viúva. Dar a Deus e dar aos pobres caminham juntos, e a bênção vem dessa generosidade.",
+    "anagogico": "O banquete diante do Senhor, em que os pobres comem e se saciam, anuncia o banquete do Reino, onde “virão do oriente e do ocidente e se sentarão à mesa” (Lc 13,29)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Sede filhos do Senhor vosso Deus.” “És um povo consagrado ao Senhor teu Deus.” “Para que aprendas a temer o Senhor teu Deus em todo o tempo.” “Virá o Levita… o peregrino, o órfão, e a viúva… e comerão e se saciarão.”",
+    "meditatio_perguntas": [
+      "Vivo como filho de Deus, também nos momentos de dor?",
+      "A minha oferta a Deus inclui os pobres?",
+      "Partilho com alegria, como num banquete, ou dou com tristeza?"
+    ],
+    "oratio_guia": "Pai, que me fizeste teu filho, ensina-me a viver como tal, na dor e na festa. Que o que eu te ofereço chegue também aos pobres, ao órfão e à viúva. Amém.",
+    "contemplatio_foco": {
+      "texto": "Sede filhos do Senhor vosso Deus",
+      "ref": "Dt 14,1"
+    }
+  },
+  "ancoras": {
+    "14:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A proibição de cozer o cabrito no leite da mãe (cf. Ex 23,19) está na origem da separação entre carne e laticínios na prática judaica.",
+        "origem": "ia"
+      }
+    },
+    "14:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “dízimo dos pobres” do terceiro ano.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
