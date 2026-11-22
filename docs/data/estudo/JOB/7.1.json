@@ -1,0 +1,57 @@
+{
+  "id": "JOB.7.1",
+  "livro": "JOB",
+  "titulo": "Jó: a vida do homem sobre a terra é uma milícia",
+  "secao": "Primeiro ciclo de discursos",
+  "referencia": "Jó 7,1-21",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "“A vida do homem sobre a terra é uma milícia”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“A vida do homem sobre a terra é uma milícia; os seus dias são como os dias dum mercenário.” Como o escravo suspira pela sombra, Jó conta “noites trabalhosas”: “Se durmo, digo: Quando me levantarei eu?… Os meus dias correm mais rápidos que o cortar da teia pelo tecelão… Lembra-te que a minha vida é um sopro.” “Assim como a nuvem se dissipa e passa, assim aquele que descer ao sepulcro, não subirá.” Por isso não reprimirá a língua: “falarei na angústia do meu espírito”. E dirige-se a Deus: “Que coisa é o homem para tanto te importares com ele… para o visitares todas as manhãs, e o pores à prova todos os instantes?… Porque não me tiras o meu pecado, e porque não apagas a minha iniquidade? Eis que vou agora dormir no pó, e, se tu me buscares pela manhã, já não existirei.”",
+    "alegorico": "“A vida do homem é uma milícia” tornou-se lema da vida cristã como combate espiritual (Ef 6,10-17; 2Tm 2,3). A pergunta “que é o homem?” inverte o Sl 8: lá é admiração, aqui é queixa; a resposta definitiva é a Encarnação, em que Deus se importa tanto com o homem que se faz homem (Hb 2,6-9). O pedido “tira o meu pecado” é atendido pelo Cordeiro que tira o pecado do mundo (Jo 1,29).",
+    "moral": "Jó não esconde a angústia: fala com Deus mesmo na amargura. A oração honesta, mesmo de queixa, é oração. A brevidade da vida (“um sopro”) pode levar ao desespero ou à sabedoria. E a última frase é comovente: Jó ainda espera que Deus o “busque pela manhã”. No fundo da queixa há a certeza de que Deus se importa.",
+    "anagogico": "Ao “dormir no pó” seguirá a manhã em que Deus buscará o homem: a ressurreição, quando o sopro da vida será restituído."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A vida do homem sobre a terra é uma milícia.” “Contei noites trabalhosas.” “A minha vida é um sopro.” “Falarei na angústia do meu espírito.” “Que coisa é o homem para tanto te importares com ele?” “Porque não me tiras o meu pecado?” “Se tu me buscares pela manhã.”",
+    "meditatio_perguntas": [
+      "Vivo a vida como combate espiritual?",
+      "Rezo com honestidade, mesmo na queixa?",
+      "Creio que Deus se importa comigo a ponto de me buscar?"
+    ],
+    "oratio_guia": "Senhor, a minha vida é um sopro e um combate. Escuta a angústia do meu espírito, tira o meu pecado e busca-me pela manhã. Amém.",
+    "contemplatio_foco": {
+      "texto": "A vida do homem sobre a terra é uma milícia",
+      "ref": "Jó 7,1"
+    }
+  },
+  "ancoras": {
+    "7:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Leitura do 5º Domingo do Tempo Comum (ano B).",
+        "origem": "ia"
+      }
+    },
+    "7:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Sl 8,5; 144,3.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

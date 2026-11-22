@@ -1,38 +1,38 @@
 {
   "id": "JOB.40.20",
   "livro": "JOB",
-  "titulo": "O Leviatã, rei dos altivos",
+  "titulo": "Poderás tirar com anzol o Leviatã?",
   "secao": "O Senhor responde do meio do turbilhão",
-  "referencia": "Jó 40,20–41,25",
+  "referencia": "Jó 40,20-28",
   "ini": {
     "c": 40,
     "v": 20
   },
   "fim": {
-    "c": 41,
-    "v": 25
+    "c": 40,
+    "v": 28
   },
   "liturgia": {
-    "tema_central": "O Leviatã: tudo o que há debaixo do céu é meu",
+    "tema_central": "“Porventura poderás tirar com anzol o Leviatã?”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "O Senhor apresenta a última e mais terrível criatura: o Leviatã. “Porventura poderás tirar com anzol o Leviatã, e ligar a sua língua com uma corda?” Porás um junco no seu focinho? Fará ele súplicas e te dirá palavras ternas? Fará aliança contigo para ser teu escravo para sempre? Brincarás com ele como com um passarinho, o amarrarás para as tuas filhas? Os pescadores o venderão em pedaços? Põe a mão sobre ele: lembrar-te-ás do combate e não o farás de novo. A sua simples visão derruba. E Deus tira a conclusão: se ninguém ousa provocar o Leviatã, quem poderá resistir a mim? “Quem me deu a mim alguma coisa antes, para que eu tenha de retribuir-lhe? Tudo o que há debaixo do céu é meu.” Segue a descrição do monstro: o dorso é uma fila de escudos tão unidos que nem o ar passa entre eles; o espirro faz brilhar a luz, os olhos são como as pálpebras da aurora; da boca saem tochas, das narinas fumo como de uma panela fervente, o hálito acende brasas; no pescoço mora a força, e diante dele dança o terror; o coração é duro como pedra. Espada, lança, dardo não o ferem; o ferro é palha para ele, o bronze madeira podre; ri-se da lança. Faz ferver o abismo como uma panela e deixa atrás de si uma esteira branca. “Não há poder sobre a terra que se compare… ele é o rei dos mais altivos animais.”",
-    "alegorico": "O Leviatã, figura do caos e do mal que nenhum homem pode dominar, é na tradição bíblica o dragão que Deus vencerá (Is 27,1; Ap 12–13). São Gregório Magno o lê como Satanás, “rei de todos os filhos da soberba”, preso pelo anzol da humanidade de Cristo: o demônio mordeu a isca da carne de Cristo e foi capturado pelo anzol da sua divindade. A frase “quem me deu primeiro?” é citada por São Paulo para exaltar a gratuidade de Deus (Rm 11,35).",
-    "moral": "O Leviatã representa tudo o que nos ultrapassa e ameaça: forças da natureza, do mal, do caos. O homem não o domina; só Deus. O ensinamento é duplo: humildade diante do que não controlamos e confiança em quem o controla. E a frase central derruba toda religião de troca: ninguém dá a Deus primeiro para ser recompensado; tudo é graça.",
-    "anagogico": "O Leviatã, “rei dos altivos”, será vencido no fim; Deus fará novas todas as coisas. O mal que parece invencível tem os dias contados diante do Criador."
+    "literal": "Depois do Beemot, Deus apresenta a Jó o Leviatã, o monstro das águas, com uma série de perguntas irônicas: “Porventura poderás tirar com anzol o Leviatan, e ligar a sua língua com uma corda? Porventura porás uma argola nos teus narizes?… Porventura multiplicará os rogos diante de ti, ou te dirá palavras ternas? Porventura fará ele concerto contigo, e recebê-lo-ás tu por escravo para sempre? Porventura brincarás com ele como com um pássaro…?” “Crivarás de dardos a sua pele?… Põe a tua mão sobre ele: ficarás escarmentado, não tornarás a fazê-lo.” “A vista do monstro bastará para o aterrar.”",
+    "alegorico": "Leviatã, figura do caos e do mal (cf. Is 27,1; Sl 74,14), é indomável para o homem, mas não para Deus. Os Padres, como São Gregório Magno nas Moralia, viram nele o demônio, e no “anzol” a humanidade de Cristo: o inimigo mordeu a isca da carne de Cristo e foi preso pelo anzol da sua divindade. O que Jó não pode fazer, Deus faz na cruz.",
+    "moral": "As perguntas mostram a Jó o limite do homem: ele não domina nem uma criatura de Deus; como quer julgar o Criador? O mal tem uma força que o homem, sozinho, não vence: “põe a tua mão sobre ele: ficarás escarmentado”. A humildade começa por reconhecer que não podemos domar o mal com as nossas forças; precisamos de Deus.",
+    "anagogico": "O Leviatã que nenhum homem prende será vencido por Deus no último dia, quando a antiga serpente for lançada fora para sempre (Ap 20,10)."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Porventura poderás tirar com anzol o Leviatã?” “Põe a tua mão sobre ele: ficarás escarmentado.” “Quem me deu a mim alguma coisa antes, para que eu tenha de retribuir-lhe? Tudo o que há debaixo do céu é meu.” “Não há poder sobre a terra que se compare.” “Ele é o rei dos mais altivos animais.”",
+    "lectio_resumo": "“Porventura poderás tirar com anzol o Leviatan?” “Porventura multiplicará os rogos diante de ti?” “Recebê-lo-ás tu por escravo para sempre?” “Brincarás com ele como com um pássaro?” “Põe a tua mão sobre ele: ficarás escarmentado.” “A vista do monstro bastará para o aterrar.”",
     "meditatio_perguntas": [
-      "Que “Leviatã” na minha vida parece invencível?",
-      "Confio em Deus como o único que domina o mal?",
-      "Ainda penso a fé como troca, ou reconheço que tudo é graça?"
+      "Penso que posso vencer o mal com as minhas próprias forças?",
+      "Brinco com o pecado como se fosse um pássaro?",
+      "Confio a Deus o combate contra o que me ultrapassa?"
     ],
-    "oratio_guia": "Senhor, a quem pertence tudo o que há debaixo do céu, só tu vences o Leviatã. Livra-me do mal e da soberba, e ensina-me que nada te dei primeiro: tudo é dom teu. Amém.",
+    "oratio_guia": "Senhor, eu não posso prender o Leviatã. Tu o venceste na cruz. Guarda-me de brincar com o mal e dá-me a humildade de confiar só na tua força. Amém.",
     "contemplatio_foco": {
-      "texto": "Quem me deu a mim alguma coisa antes, para que eu tenha de retribuir-lhe? Tudo o que há debaixo do céu, é meu",
-      "ref": "Jó 41,2"
+      "texto": "Porventura poderás tirar com anzol o Leviatan, e ligar a sua língua com uma corda?",
+      "ref": "Jó 40,20"
     }
   },
   "ancoras": {
@@ -40,15 +40,15 @@
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "Na numeração hebraica, 40,25. O Leviatã aparece também em Sl 73,14; 103,26; Is 27,1. A descrição se inspira no crocodilo.",
+        "texto": "Na Bíblia hebraica e nas traduções modernas, Jó 40,25; o Leviatã costuma ser identificado com o crocodilo, elevado a símbolo do caos.",
         "origem": "ia"
       }
     },
-    "41:2": {
+    "40:24": {
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "Citado em Rm 11,35: “Quem lhe deu primeiro, para que lhe seja retribuído?”",
+        "texto": "Cf. Sl 104,26: Deus formou o Leviatã “para brincar” nas águas.",
         "origem": "ia"
       }
     }

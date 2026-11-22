@@ -1,54 +1,54 @@
 {
   "id": "JOB.16.1",
   "livro": "JOB",
-  "titulo": "Jó: a minha testemunha está nos céus",
+  "titulo": "Jó: a minha testemunha está no céu",
   "secao": "Segundo ciclo de discursos",
-  "referencia": "Jó 16,1–17,16",
+  "referencia": "Jó 16,1-23",
   "ini": {
     "c": 16,
     "v": 1
   },
   "fim": {
-    "c": 17,
-    "v": 16
+    "c": 16,
+    "v": 23
   },
   "liturgia": {
-    "tema_central": "A minha testemunha está no céu",
+    "tema_central": "“A minha testemunha está no céu”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Jó responde: “todos vós sois uns consoladores aflitivos.” Quando acabarão esses discursos de vento? Se estivésseis no meu lugar, eu também poderia falar como vós, sacudir a cabeça e vos consolar com belas frases. Mas falar não me alivia, e calar também não. Descreve a sua dor com imagens violentas: Deus o agarrou pela nuca e o despedaçou, o pôs como alvo das suas flechas; os seus arqueiros o cercam, atravessam-lhe os rins; os amigos abrem a boca contra ele e ferem-lhe a face. Costurou um saco de penitência sobre a pele, o rosto está inchado de choro, as pálpebras escurecidas, “sem que houvesse maldade nas minhas mãos, quando eu oferecia a Deus orações puras”. E clama: “Ó terra, não cubras o meu sangue, nem o meu clamor ache em ti lugar no qual seja sufocado.” Então surge a certeza: “A minha testemunha está no céu, e está nas alturas o meu defensor.” Os meus amigos zombam de mim, mas os meus olhos choram diante de Deus. No capítulo 17, a esperança luta com a morte: o meu espírito se consome, só me resta o sepulcro; “Livra-me, Senhor, e põe-me junto de ti”; tornei-me alguém em cujo rosto se cospe. Mas “o justo persistirá no seu caminho, e aquele que tem as mãos puras crescerá em fortaleza”. Disse à podridão: tu és meu pai; e aos vermes: minha mãe e minha irmã. Onde está a minha esperança?",
-    "alegorico": "Os Padres leram aqui a Paixão: o justo ferido na face, cuspido no rosto, cercado de arqueiros, que ora com “orações puras”. A testemunha e defensor no céu é Cristo, nosso advogado junto do Pai (1Jo 2,1), que intercede por nós (Hb 7,25). O sangue que clama da terra é o sangue de Abel e, sobretudo, o de Cristo.",
-    "moral": "“Consoladores aflitivos”: frase que deveria examinar todo aquele que visita um doente. Jó também ensina a apelar a Deus contra a injustiça dos homens: a última palavra não é dos que zombam, mas da Testemunha que está no céu. E, no fundo da noite, a fidelidade: o justo persiste no caminho.",
-    "anagogico": "“Põe-me junto de ti”: o desejo de Jó é o de toda alma, estar com Deus. Cumpre-se quando o Defensor que está no céu nos acolhe na sua presença."
+    "literal": "Jó responde a Elifaz: “Tenho ouvido muitas vezes esses discursos; todos vós sois uns consoladores aflitivos. Quando terão fim esses discursos de vento?” Se estivessem no seu lugar, também ele poderia consolá-los “com lindas frases”. “Se eu falar, nem por isso se aplacará a minha dor; se me calar, nem por isso ela se afastará de mim.” Descreve-se como alvo de Deus e dos homens: “abrem as suas bocas contra mim, e, ultrajando-me, ferem a minha face… Deus… entregou-me nas mãos dos ímpios… pôs-me como alvo… Despedaçou-me com feridas sobre feridas.” “O meu rosto inchou à força de chorar… Sofri isto sem que houvesse maldade nas minhas mãos, quando eu oferecia a Deus orações puras. Ó terra, não cubras o meu sangue, nem o meu clamor ache em ti lugar no qual seja sufocado. A minha testemunha está no céu, e está nas alturas o meu defensor… os meus olhos recorrem a Deus, desfeitos em lágrimas.”",
+    "alegorico": "O justo inocente, ferido na face, entregue “nas mãos dos ímpios”, com o rosto desfeito de chorar, é uma das figuras mais claras da Paixão de Cristo (Mt 26,67; Lc 22,63-64). A “testemunha no céu” que defende Jó é Cristo, nosso advogado junto do Pai (1Jo 2,1), e o sangue que clama da terra lembra o de Abel e o de Jesus, que “fala melhor” (Hb 12,24).",
+    "moral": "“Consoladores aflitivos”: o retrato de quem visita o doente para lhe dar lições. Jó ensina que palavras bonitas não bastam. E mostra para onde ir quando todos falham: “os meus olhos recorrem a Deus, desfeitos em lágrimas”. Mesmo sentindo Deus como adversário, Jó o chama de testemunha e defensor. A fé apela de Deus para Deus.",
+    "anagogico": "“A minha testemunha está no céu”: no juízo final, Cristo será o defensor dos que sofreram injustamente."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Todos vós sois uns consoladores aflitivos.” “Ó terra, não cubras o meu sangue.” “A minha testemunha está no céu, e está nas alturas o meu defensor.” “Os meus olhos recorrem a Deus, desfeitos em lágrimas.” “Livra-me, Senhor, e põe-me junto de ti.” “O justo persistirá no seu caminho.”",
+    "lectio_resumo": "“Todos vós sois uns consoladores aflitivos.” “Se eu falar, nem por isso se aplacará a minha dor.” “Ultrajando-me, ferem a minha face.” “Entregou-me nas mãos dos ímpios.” “O meu rosto inchou à força de chorar.” “Ó terra, não cubras o meu sangue.” “A minha testemunha está no céu, e está nas alturas o meu defensor.” “Os meus olhos recorrem a Deus, desfeitos em lágrimas.”",
     "meditatio_perguntas": [
-      "Sou “consolador aflitivo” para alguém?",
-      "Confio que tenho no céu uma testemunha e um defensor?",
-      "Persisto no caminho mesmo quando não vejo esperança?"
+      "Sou um “consolador aflitivo” para quem sofre?",
+      "A quem recorro quando todos me falham?",
+      "Contemplo em Jó o rosto de Cristo sofredor?"
     ],
-    "oratio_guia": "Senhor Jesus, minha testemunha e meu defensor junto do Pai, intercede por mim. Livra-me e põe-me junto de ti, e dá-me perseverança no caminho do bem, mesmo na noite. Amém.",
+    "oratio_guia": "Senhor, minha testemunha no céu e meu defensor nas alturas, a ti recorrem os meus olhos desfeitos em lágrimas. Não deixes sufocar o meu clamor. Amém.",
     "contemplatio_foco": {
       "texto": "A minha testemunha está no céu, e está nas alturas o meu defensor",
       "ref": "Jó 16,20"
     }
   },
   "ancoras": {
-    "16:20": {
+    "16:19": {
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "Na numeração hebraica, 16,19. Jó apela a Deus como testemunha contra o próprio Deus que parece persegui-lo.",
+        "texto": "Cf. Gn 4,10: o sangue de Abel clama da terra.",
         "origem": "ia"
       }
     },
-    "17:6": {
+    "16:11": {
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "Cf. Is 50,6 e Mt 26,67: o justo em cujo rosto se cospe.",
+        "texto": "Cf. Sl 22,8; Lm 3,30.",
         "origem": "ia"
       }
     }

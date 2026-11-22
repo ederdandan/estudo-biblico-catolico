@@ -1,38 +1,38 @@
 {
   "id": "JOB.4.1",
   "livro": "JOB",
-  "titulo": "Elifaz: o inocente nunca pereceu",
+  "titulo": "Elifaz: o homem será justo diante de Deus?",
   "secao": "Primeiro ciclo de discursos",
-  "referencia": "Jó 4,1–5,27",
+  "referencia": "Jó 4,1-21",
   "ini": {
     "c": 4,
     "v": 1
   },
   "fim": {
-    "c": 5,
-    "v": 27
+    "c": 4,
+    "v": 21
   },
   "liturgia": {
-    "tema_central": "Elifaz: que inocente pereceu jamais?",
+    "tema_central": "“Porventura o homem… será tido por justo?”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "O primeiro dos amigos, Elifaz de Teman, o mais velho e respeitoso, toma a palavra. Começa com delicadeza: tu ensinaste a muitos, fortaleceste mãos cansadas e joelhos trêmulos; agora que a desgraça te toca, desfaleces. Não é a tua piedade a tua esperança? E formula a tese que guiará os amigos: “Lembra-te: que inocente pereceu jamais? Ou quando foram os justos destruídos?” Quem semeia iniquidade colhe dores. Elifaz conta uma revelação noturna: no horror de uma visão, um espírito passou diante dele, os cabelos se arrepiaram, e uma voz como brisa disse: “Porventura o homem, em confronto com Deus, será tido por justo?” Se Deus encontra defeito até nos anjos, quanto mais nos que habitam casas de barro. No capítulo 5, conclui: a desgraça não nasce do pó; “o homem nasceu para sofrer, como as faíscas para voar”. Eu, no teu lugar, recorreria a Deus, que faz maravilhas, exalta os humildes, frustra os astutos e salva o pobre. “Bem-aventurado o homem a quem Deus corrige. Não desprezes, pois, a correção do Onipotente, porque ele fere e sara.” Seis vezes te livrará, e na sétima o mal não te tocará; terás paz, descendência numerosa e chegarás ao túmulo maduro como um feixe colhido a seu tempo.",
-    "alegorico": "Muitas frases de Elifaz são verdadeiras e são citadas no NT: “apanha os sábios na sua astúcia” (1Cor 3,19); “bem-aventurado o homem que Deus corrige” ecoa em Hb 12,5-11. Mas a aplicação a Jó é falsa. Só em Cristo se revela que o sofrimento do inocente pode ser redentor, e não castigo.",
-    "moral": "Elifaz fala bem, com piedade e bom senso, mas parte de um princípio rígido: quem sofre deve ter pecado. É a tentação de quem consola com teorias em vez de escutar. Palavras verdadeiras, ditas no momento errado e com um pressuposto falso, ferem. Também ensina: ninguém é puro diante de Deus, e a correção pode ser graça.",
-    "anagogico": "“Ele fere e sara”: a última palavra de Deus sobre o sofrimento é a cura, que na eternidade será completa."
+    "literal": "Elifaz de Teman, o primeiro dos amigos, começa com delicadeza: “Eis que ensinaste a muitos, deste vigor a mãos cansadas. As tuas palavras firmaram os que vacilavam… porém, agora que veio sobre ti a desgraça, desfaleceste.” Depois apresenta a sua tese: “Lembra-te: que inocente pereceu jamais? ou quando foram os justos destruídos? Quanto a mim, tenho visto que os que praticam a iniquidade, os que semeiam dores, as segam.” E conta uma visão noturna: “o medo e o tremor me assaltaram… Ao passar diante de mim um espírito, os meus cabelos se arripiaram… e ouvi uma voz como de branda viração: Porventura o homem, em confronto com Deus, será tido por justo? ou será puro diante do seu Criador?… nos seus anjos encontrou defeito. Quanto mais aqueles que habitam casas de barro.”",
+    "alegorico": "A pergunta da visão (“será o homem justo diante de Deus?”) atravessa toda a Escritura e só encontra resposta em Cristo: ninguém é justo por si, mas somos justificados gratuitamente pela graça (Rm 3,23-24). As “casas de barro” são o corpo mortal, que Paulo chama “vasos de barro” que levam um tesouro (2Cor 4,7).",
+    "moral": "Elifaz diz coisas verdadeiras (o homem é frágil diante de Deus), mas aplica-as mal: conclui que, se Jó sofre, é porque pecou. É a tentação de explicar o sofrimento alheio com fórmulas. A teologia certa, usada sem compaixão, fere. E há uma advertência para quem consola os outros: é mais fácil “dar vigor a mãos cansadas” do que suportar a própria prova.",
+    "anagogico": "Diante do Criador ninguém é puro por si mesmo; só a graça de Cristo nos fará estar de pé no juízo."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Deste vigor a mãos cansadas.” “Que inocente pereceu jamais?” “Porventura o homem, em confronto com Deus, será tido por justo?” “O homem nasceu para sofrer, como os filhos da chama para voar.” “Bem-aventurado o homem a quem Deus corrige.” “Ele fere e sara.”",
+    "lectio_resumo": "“Deste vigor a mãos cansadas.” “Agora que veio sobre ti a desgraça, desfaleceste.” “Que inocente pereceu jamais?” “Os que semeiam dores, as segam.” “Ouvi uma voz como de branda viração.” “Porventura o homem, em confronto com Deus, será tido por justo?” “Aqueles que habitam casas de barro.”",
     "meditatio_perguntas": [
-      "Já expliquei o sofrimento de alguém como castigo, sem saber?",
-      "Consolo com teorias ou com presença?",
-      "Acolho as correções de Deus como bem para mim?"
+      "Uso fórmulas prontas para explicar o sofrimento dos outros?",
+      "Sei viver na prova o que ensinei aos outros?",
+      "Reconheço que só sou justo pela graça de Deus?"
     ],
-    "oratio_guia": "Senhor, que feres e curas, dá-me humildade para acolher as tuas correções. Livra-me de julgar os que sofrem e ensina-me a consolar com verdade e com amor. Amém.",
+    "oratio_guia": "Senhor, diante de ti ninguém é puro; justifica-me pela tua graça. Dá-me compaixão por quem sofre, e não respostas fáceis. Amém.",
     "contemplatio_foco": {
-      "texto": "Bem-aventurado o homem a quem Deus corrige",
-      "ref": "Jó 5,17"
+      "texto": "Porventura o homem, em confronto com Deus, será tido por justo?",
+      "ref": "Jó 4,17"
     }
   },
   "ancoras": {
@@ -40,15 +40,15 @@
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "Teman, em Edom, era famosa pela sabedoria (Jr 49,7).",
+        "texto": "Teman: região de Edom, célebre pelos seus sábios (Jr 49,7).",
         "origem": "ia"
       }
     },
-    "5:13": {
+    "4:7": {
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "Citado por São Paulo em 1Cor 3,19, o único texto de Jó citado literalmente no NT.",
+        "texto": "Tese da “retribuição”: o justo é sempre recompensado nesta vida. O livro de Jó a põe em questão.",
         "origem": "ia"
       }
     }

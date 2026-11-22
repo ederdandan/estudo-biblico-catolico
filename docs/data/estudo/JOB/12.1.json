@@ -1,54 +1,54 @@
 {
   "id": "JOB.12.1",
   "livro": "JOB",
-  "titulo": "Jó: quero falar ao Todo-Poderoso",
+  "titulo": "Jó: a sabedoria e a fortaleza estão em Deus",
   "secao": "Primeiro ciclo de discursos",
-  "referencia": "Jó 12,1–13,28",
+  "referencia": "Jó 12,1-25",
   "ini": {
     "c": 12,
     "v": 1
   },
   "fim": {
-    "c": 13,
-    "v": 28
+    "c": 12,
+    "v": 25
   },
   "liturgia": {
-    "tema_central": "Sois médicos que nada curais: quero falar ao Todo-Poderoso",
+    "tema_central": "“A sabedoria e a fortaleza estão em Deus”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Jó responde com ironia: “Em verdade, só vós sois homens sábios, e convosco morrerá a sabedoria!” Eu também tenho entendimento. Tornei-me objeto de riso, eu, o justo que invocava Deus. É fácil desprezar o desgraçado quando se é feliz; enquanto isso, as tendas dos ladrões estão em paz. Pergunta aos animais, às aves, à terra, aos peixes: eles sabem que “a mão de Deus fez todas as coisas” e que nela está a vida de todo vivente. Jó descreve a soberania de Deus, que desata o cinturão dos reis, tira o juízo aos conselheiros, humilha os sacerdotes, multiplica e destrói as nações. No capítulo 13, ataca os amigos: “vós sois forjadores de mentiras, sois médicos que nada curais”; oxalá vos calásseis, seria a vossa sabedoria. Precisa Deus das vossas mentiras? Quereis ser advogados de Deus com fraude? Os vossos argumentos são de pó. E Jó toma a decisão ousada de falar diretamente com Deus: “Contudo, falarei ao Onipotente.” “Ainda que ele me mate, nele esperarei; mas defenderei na sua presença o meu proceder.” “E ele será o meu Salvador.” Pede a Deus duas coisas: que afaste a mão e não o aterrorize; e então: chama-me, e eu responderei. Quantos são os meus pecados? Por que escondes o teu rosto? Queres perseguir uma folha levada pelo vento, uma palha seca?",
-    "alegorico": "O “ainda que ele me mate, nele esperarei” é uma das mais altas expressões de fé do AT; realiza-se em Cristo, que na cruz entrega o espírito nas mãos do Pai (Lc 23,46). Os “advogados de Deus” com fraude contrastam com o Espírito Santo, o verdadeiro Advogado (Jo 14,16), que defende o homem.",
-    "moral": "Deus não precisa de mentiras piedosas para ser defendido. Os amigos fazem uma apologética desonesta, que ignora a realidade do sofrimento do justo. Jó prefere a verdade, mesmo que incômoda, e por isso se volta para Deus em pessoa. A fé madura busca o rosto de Deus, não fórmulas sobre ele.",
-    "anagogico": "A esperança que permanece mesmo diante da morte (“ainda que ele me mate”) é a esperança teologal: confia em Deus além de tudo o que se vê."
+    "literal": "Jó responde a Sofar com ironia: “Em verdade, só vós sois homens sábios, e convosco morrerá a sabedoria!” “Sou objecto de riso dos meus amigos, eu que invocava Deus e a quem Deus respondia… Desprezo ao desgraçado! Assim pensa o que é ditoso.” Observa que os ladrões vivem tranquilos. Mas a criação inteira testemunha o poder de Deus: “Pergunta aos animais, e eles te ensinarão, às aves do céu, e elas te indicarão… Quem ignora que a mão de Deus fez todas as coisas, que ele tem na sua mão a alma de todo o vivente?” “A sabedoria e a fortaleza estão em Deus; ele possui o conselho e a inteligência.” Deus destrói e ninguém edifica; humilha conselheiros, juízes, reis e sacerdotes; “tira das trevas as coisas mais ocultas, e traz à luz a própria sombra da morte”.",
+    "alegorico": "O Deus que “desata o cinturão dos reis” e “abate os poderosos” anuncia o Magnificat (Lc 1,52). “Pergunta aos animais… e eles te ensinarão” lembra o ensino de Jesus sobre as aves do céu e os lírios do campo (Mt 6,26-28). O Deus que “traz à luz a sombra da morte” é o que, em Cristo, ilumina os que jazem nas trevas (Lc 1,79).",
+    "moral": "Jó denuncia um mecanismo humano: “desprezo ao desgraçado, assim pensa o que é ditoso”. Quem está bem tende a julgar quem caiu. A criação, porém, ensina humildade: tudo está na mão de Deus, até a sabedoria dos sábios. Jó não discute o poder de Deus; ele o conhece melhor que os amigos. Discute apenas que esse poder possa ser reduzido a uma fórmula.",
+    "anagogico": "O Deus que tem na mão “a alma de todo o vivente” trará à luz, no último dia, todas as coisas ocultas (1Cor 4,5)."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Só vós sois homens, e convosco morrerá a sabedoria!” “Pergunta aos animais, e eles te ensinarão.” “Vós sois forjadores de mentiras, sois médicos que nada curais.” “Porventura necessita Deus das vossas mentiras?” “Ainda que ele me mate, nele esperarei.” “Por que escondes tu de mim o teu rosto?”",
+    "lectio_resumo": "“Convosco morrerá a sabedoria!” “Sou objecto de riso dos meus amigos.” “Desprezo ao desgraçado! Assim pensa o que é ditoso.” “Pergunta aos animais, e eles te ensinarão.” “Ele tem na sua mão a alma de todo o vivente.” “A sabedoria e a fortaleza estão em Deus.” “Traz à luz a sombra da morte.”",
     "meditatio_perguntas": [
-      "Defendo Deus com honestidade ou com “mentiras piedosas”?",
-      "A minha esperança resistiria a “ainda que ele me mate”?",
-      "Busco o rosto de Deus ou só explicações sobre ele?"
+      "Desprezo quem caiu, porque estou bem?",
+      "Deixo-me ensinar pela criação?",
+      "Reconheço que a minha sabedoria está nas mãos de Deus?"
     ],
-    "oratio_guia": "Senhor, ainda que me prove até o fim, em ti esperarei. Não escondas de mim o teu rosto. Livra-me das palavras vazias sobre ti e ensina-me a falar contigo com verdade. Amém.",
+    "oratio_guia": "Senhor, em quem estão a sabedoria e a fortaleza, tu tens na mão a minha vida. Livra-me do desprezo pelos que sofrem e ensina-me pela tua criação. Amém.",
     "contemplatio_foco": {
-      "texto": "Ainda que ele me mate, nele esperarei",
-      "ref": "Jó 13,15"
+      "texto": "A sabedoria e a fortaleza estão em Deus; ele possui o conselho e a inteligência",
+      "ref": "Jó 12,13"
     }
   },
   "ancoras": {
-    "13:15": {
-      "cic": [],
-      "padres": [],
-      "nota": {
-        "texto": "O hebraico pode ser lido também como “ele me matará, não tenho esperança”; a Vulgata e a tradição cristã leram “etiam si occiderit me, in ipso sperabo”.",
-        "origem": "ia"
-      }
-    },
     "12:10": {
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "Cf. At 17,28: “nele vivemos, nos movemos e existimos”.",
+        "texto": "Cf. Nm 16,22; Dn 5,23.",
+        "origem": "ia"
+      }
+    },
+    "12:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Sl 107,40; Lc 1,52.",
         "origem": "ia"
       }
     }

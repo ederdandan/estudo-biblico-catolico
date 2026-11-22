@@ -1,46 +1,54 @@
 {
   "id": "JOB.23.1",
   "livro": "JOB",
-  "titulo": "Jó: quem me dera saber onde encontrá-lo",
+  "titulo": "Jó: quem me dera saber encontrar Deus",
   "secao": "Terceiro ciclo de discursos",
-  "referencia": "Jó 23,1–24,25",
+  "referencia": "Jó 23,1-17",
   "ini": {
     "c": 23,
     "v": 1
   },
   "fim": {
-    "c": 24,
-    "v": 25
+    "c": 23,
+    "v": 17
   },
   "liturgia": {
-    "tema_central": "Quem me dera saber onde encontrá-lo!",
+    "tema_central": "“Se me provar, sairei puro como o ouro”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Jó não responde mais às acusações; fala da sua busca de Deus. A minha queixa ainda é rebelde, a minha mão pesa sobre o meu gemido. “Quem me dera saber encontrar Deus, e chegar até ao seu trono!” Exporia diante dele a minha causa, encheria a boca de argumentos, saberia o que me responde. Ele não me esmagaria com o seu poder; um homem reto poderia discutir com ele. Mas Deus se esconde: “Se eu for ao Oriente, não aparece; se ao Ocidente, não o encontrarei”; ao norte e ao sul, não o vejo. E, no entanto, “ele conhece o meu caminho; se me provar, sairei puro como o ouro”. Os meus pés seguiram as suas pegadas; guardei no peito as palavras da sua boca. Mas Deus faz o que quer, e eu tremo diante dele. No capítulo 24, Jó alarga o olhar para o sofrimento dos pobres: por que o Onipotente não marca os seus tempos de juízo? Uns mudam os marcos dos campos e roubam rebanhos; levam o jumento do órfão e o boi da viúva; empurram os pobres para fora do caminho. Os pobres, como jumentos selvagens, saem ao trabalho de madrugada; ceifam o campo alheio, passam a noite nus no frio, encharcados pela chuva, abraçados às rochas; carregam feixes e passam fome, pisam as uvas e passam sede. Da cidade sobem os gemidos dos moribundos, “e Deus não escuta”. Os criminosos agem nas trevas: o assassino, o adúltero, o ladrão.",
-    "alegorico": "A busca de Jó por Deus, que não aparece em nenhum dos quatro pontos cardeais, é atendida na Encarnação: Deus se deixa encontrar num lugar, num rosto, em Jesus. Os pobres que trabalham com fome e sede são aqueles com quem Cristo se identifica: “tive fome… tive sede… estava nu” (Mt 25,35-36).",
-    "moral": "O silêncio de Deus é uma das provas mais duras da fé. Jó continua a buscá-lo mesmo sem encontrá-lo, e confia que Deus conhece o seu caminho. A prova purifica como o fogo purifica o ouro. E Jó, mesmo no seu sofrimento, não se fecha em si: vê a injustiça feita aos pobres e a leva diante de Deus.",
-    "anagogico": "“Sairei puro como o ouro”: a prova desta vida prepara a alma para ver Deus. O que agora se esconde será um dia visto face a face."
+    "literal": "Jó responde a Elifaz: “Hoje são cheias de amargura as minhas palavras, mas a violência da minha chaga é mais grave que os meus gemidos. Quem me dera saber encontrar Deus, e chegar até ao seu trono! Exporia ante ele a minha causa… Saberia o que ele me responderia.” Mas Deus parece ausente: “Se eu for ao Oriente, não aparece; se ao Ocidente, não o encontrarei. Se o busco ao norte, não o acho; se ao sul, não o descubro. Mas ele conhece o meu caminho; se me provar, sairei puro como o ouro. O meu pé seguiu as suas pisadas… Não me apartei dos preceitos de seus lábios, escondi no meu seio as palavras da sua boca.” Ainda assim treme diante do poder de Deus: “quando decide uma coisa, ninguém pode frustrar os seus desígnios… quando o considero, sou agitado de temor”.",
+    "alegorico": "A busca de Deus que parece esconder-se é a “noite escura” descrita pelos místicos, como São João da Cruz: Deus parece ausente, mas está mais perto do que nunca. “Sairei puro como o ouro” é retomado por Pedro: a fé provada pelo fogo vale mais que o ouro (1Pd 1,7). E o desejo de “chegar até ao seu trono” é atendido em Cristo, por quem nos aproximamos “com confiança do trono da graça” (Hb 4,16).",
+    "moral": "Jó não sabe onde está Deus, mas sabe uma coisa: “ele conhece o meu caminho”. Quando não vemos Deus, ele nos vê. A prova purifica como o fogo ao ouro. E Jó mostra o que sustenta na noite: ter guardado no coração “as palavras da sua boca”. A Palavra guardada é luz quando o sentimento de Deus desaparece.",
+    "anagogico": "O ouro provado no fogo brilhará diante do trono de Deus, onde o crente o encontrará face a face."
   },
   "lectio_divina": {
-    "lectio_resumo": "“Quem me dera saber encontrar Deus, e chegar até ao seu trono!” “Se eu for ao Oriente, não aparece.” “Ele conhece o meu caminho; se me provar, sairei puro como o ouro.” “Escondi no meu seio as palavras da sua boca.” “Passam a noite nus, por falta de roupa.” “Têm fome… e têm sede.”",
+    "lectio_resumo": "“A violência da minha chaga é mais grave que os meus gemidos.” “Quem me dera saber encontrar Deus!” “Se eu for ao Oriente, não aparece.” “Mas ele conhece o meu caminho.” “Se me provar, sairei puro como o ouro.” “Escondi no meu seio as palavras da sua boca.”",
     "meditatio_perguntas": [
-      "Continuo a buscar Deus quando parece ausente?",
-      "Creio que a prova me purifica como o ouro?",
-      "O meu sofrimento me fecha em mim, ou me torna sensível ao sofrimento dos pobres?"
+      "Quando não sinto Deus, lembro que ele conhece o meu caminho?",
+      "Vejo a prova como fogo que purifica?",
+      "Guardo a Palavra no coração para as noites escuras?"
     ],
-    "oratio_guia": "Senhor, quando te busco e não te encontro, lembra-me de que conheces o meu caminho. Purifica-me como o ouro na prova, e abre os meus olhos aos pobres que trabalham com fome e sede. Amém.",
+    "oratio_guia": "Senhor, quando te busco e não te encontro, tu conheces o meu caminho. Prova-me como o ouro e guarda no meu coração as palavras da tua boca. Amém.",
     "contemplatio_foco": {
       "texto": "Mas ele conhece o meu caminho; se me provar, sairei puro como o ouro",
       "ref": "Jó 23,10"
     }
   },
   "ancoras": {
-    "24:2": {
+    "23:10": {
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "Mudar os marcos dos campos era crime grave na Lei (Dt 19,14; 27,17), pois roubava a herança das famílias pobres.",
+        "texto": "Cf. Zc 13,9; Ml 3,3; 1Pd 1,7.",
+        "origem": "ia"
+      }
+    },
+    "23:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Sl 139,7-12, onde a mesma busca termina na certeza da presença de Deus.",
         "origem": "ia"
       }
     }

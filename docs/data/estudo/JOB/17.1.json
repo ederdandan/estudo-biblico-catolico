@@ -1,0 +1,57 @@
+{
+  "id": "JOB.17.1",
+  "livro": "JOB",
+  "titulo": "Jó: livra-me, Senhor, e põe-me junto de ti",
+  "secao": "Segundo ciclo de discursos",
+  "referencia": "Jó 17,1-16",
+  "ini": {
+    "c": 17,
+    "v": 1
+  },
+  "fim": {
+    "c": 17,
+    "v": 16
+  },
+  "liturgia": {
+    "tema_central": "“O justo persistirá no seu caminho”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“O sopro da minha vida vai-se consumindo, os meus dias se extinguem e só me resta o sepulcro. Cercam-me escarnecedores.” Jó pede: “Livra-me, Senhor, e põe-me junto de ti, e então combata contra mim a mão de quem quer que for.” “Ele me reduziu a ser objecto de riso do povo, sou um homem a quem se cospe no rosto.” Ainda assim afirma: “Mas o justo persistirá no seu caminho, e aquele que tem as mãos puras crescerá em fortaleza.” Os amigos prometem luz falsa: “Tornam a noite em dia.” Jó vê só o sepulcro: “Eu disse à podridão: Tu és meu pai! E aos vermes: Vós sois minha mãe e minha irmã. Onde está, pois, agora a minha esperança?”",
+    "alegorico": "“Um homem a quem se cospe no rosto” é profecia viva da Paixão (Mt 26,67; Is 50,6). O pedido “põe-me junto de ti” é o do bom ladrão: “lembra-te de mim” (Lc 23,42). E a pergunta “onde está a minha esperança?” recebe resposta na ressurreição: a podridão não é o nosso pai, porque “não deixarás o teu santo ver a corrupção” (Sl 16,10; At 2,27).",
+    "moral": "No fundo do abismo, Jó diz uma das frases mais firmes do livro: “o justo persistirá no seu caminho”. A perseverança não depende de sentir esperança, mas de não abandonar o caminho. E pede o essencial: estar “junto de Deus”; com isso, pode enfrentar qualquer inimigo. Desconfia também dos consolos fáceis que “tornam a noite em dia”.",
+    "anagogico": "“Põe-me junto de ti”: o desejo que só se sacia na comunhão eterna com Deus, onde a podridão não terá a última palavra."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Os meus dias se extinguem e só me resta o sepulcro.” “Livra-me, Senhor, e põe-me junto de ti.” “Sou um homem a quem se cospe no rosto.” “O justo persistirá no seu caminho.” “Aquele que tem as mãos puras crescerá em fortaleza.” “Onde está, pois, agora a minha esperança?”",
+    "meditatio_perguntas": [
+      "Persevero no caminho mesmo quando não sinto esperança?",
+      "Peço ao Senhor que me ponha junto dele?",
+      "Ofereço aos outros consolos falsos, que “tornam a noite em dia”?"
+    ],
+    "oratio_guia": "Senhor, livra-me e põe-me junto de ti; então nada temerei. Dá-me perseverar no teu caminho e crescer em fortaleza, mesmo quando a minha esperança parece apagar-se. Amém.",
+    "contemplatio_foco": {
+      "texto": "Livra-me, Senhor, e põe-me junto de ti",
+      "ref": "Jó 17,3"
+    }
+  },
+  "ancoras": {
+    "17:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Is 50,6; Mt 26,67.",
+        "origem": "ia"
+      }
+    },
+    "17:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Um dos poucos versículos de firmeza no meio do lamento.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

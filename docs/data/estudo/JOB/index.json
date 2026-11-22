@@ -55,11 +55,25 @@
   },
   {
    "id": "JOB.4.1",
-   "titulo": "Elifaz: o inocente nunca pereceu",
+   "titulo": "Elifaz: o homem será justo diante de Deus?",
    "secao": "Primeiro ciclo de discursos",
-   "referencia": "Jó 4,1–5,27",
+   "referencia": "Jó 4,1-21",
    "ini": {
     "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 21
+   }
+  },
+  {
+   "id": "JOB.5.1",
+   "titulo": "Elifaz: bem-aventurado o homem a quem Deus corrige",
+   "secao": "Primeiro ciclo de discursos",
+   "referencia": "Jó 5,1-27",
+   "ini": {
+    "c": 5,
     "v": 1
    },
    "fim": {
@@ -69,11 +83,25 @@
   },
   {
    "id": "JOB.6.1",
-   "titulo": "Jó: a vida do homem é uma milícia sobre a terra",
+   "titulo": "Jó: os meus irmãos enganaram-me como a torrente",
    "secao": "Primeiro ciclo de discursos",
-   "referencia": "Jó 6,1–7,21",
+   "referencia": "Jó 6,1-30",
    "ini": {
     "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 30
+   }
+  },
+  {
+   "id": "JOB.7.1",
+   "titulo": "Jó: a vida do homem sobre a terra é uma milícia",
+   "secao": "Primeiro ciclo de discursos",
+   "referencia": "Jó 7,1-21",
+   "ini": {
+    "c": 7,
     "v": 1
    },
    "fim": {
@@ -97,11 +125,25 @@
   },
   {
    "id": "JOB.9.1",
-   "titulo": "Jó: como pode o homem ser justo diante de Deus?",
+   "titulo": "Jó: não há árbitro entre Deus e mim",
    "secao": "Primeiro ciclo de discursos",
-   "referencia": "Jó 9,1–10,22",
+   "referencia": "Jó 9,1-35",
    "ini": {
     "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 35
+   }
+  },
+  {
+   "id": "JOB.10.1",
+   "titulo": "Jó: lembra-te que me formaste como barro",
+   "secao": "Primeiro ciclo de discursos",
+   "referencia": "Jó 10,1-22",
+   "ini": {
+    "c": 10,
     "v": 1
    },
    "fim": {
@@ -125,11 +167,25 @@
   },
   {
    "id": "JOB.12.1",
-   "titulo": "Jó: quero falar ao Todo-Poderoso",
+   "titulo": "Jó: a sabedoria e a fortaleza estão em Deus",
    "secao": "Primeiro ciclo de discursos",
-   "referencia": "Jó 12,1–13,28",
+   "referencia": "Jó 12,1-25",
    "ini": {
     "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 25
+   }
+  },
+  {
+   "id": "JOB.13.1",
+   "titulo": "Jó: ainda que ele me mate, nele esperarei",
+   "secao": "Primeiro ciclo de discursos",
+   "referencia": "Jó 13,1-28",
+   "ini": {
+    "c": 13,
     "v": 1
    },
    "fim": {
@@ -167,11 +223,25 @@
   },
   {
    "id": "JOB.16.1",
-   "titulo": "Jó: a minha testemunha está nos céus",
+   "titulo": "Jó: a minha testemunha está no céu",
    "secao": "Segundo ciclo de discursos",
-   "referencia": "Jó 16,1–17,16",
+   "referencia": "Jó 16,1-23",
    "ini": {
     "c": 16,
+    "v": 1
+   },
+   "fim": {
+    "c": 16,
+    "v": 23
+   }
+  },
+  {
+   "id": "JOB.17.1",
+   "titulo": "Jó: livra-me, Senhor, e põe-me junto de ti",
+   "secao": "Segundo ciclo de discursos",
+   "referencia": "Jó 17,1-16",
+   "ini": {
+    "c": 17,
     "v": 1
    },
    "fim": {
@@ -251,11 +321,25 @@
   },
   {
    "id": "JOB.23.1",
-   "titulo": "Jó: quem me dera saber onde encontrá-lo",
+   "titulo": "Jó: quem me dera saber encontrar Deus",
    "secao": "Terceiro ciclo de discursos",
-   "referencia": "Jó 23,1–24,25",
+   "referencia": "Jó 23,1-17",
    "ini": {
     "c": 23,
+    "v": 1
+   },
+   "fim": {
+    "c": 23,
+    "v": 17
+   }
+  },
+  {
+   "id": "JOB.24.1",
+   "titulo": "Jó: os pobres têm fome e Deus parece calar",
+   "secao": "Terceiro ciclo de discursos",
+   "referencia": "Jó 24,1-25",
+   "ini": {
+    "c": 24,
     "v": 1
    },
    "fim": {
@@ -419,11 +503,25 @@
   },
   {
    "id": "JOB.36.1",
-   "titulo": "Eliú: a grandeza de Deus na tempestade",
+   "titulo": "Eliú: Deus abre o ouvido do pobre com a tribulação",
    "secao": "Os discursos de Eliú",
-   "referencia": "Jó 36,1–37,24",
+   "referencia": "Jó 36,1-33",
    "ini": {
     "c": 36,
+    "v": 1
+   },
+   "fim": {
+    "c": 36,
+    "v": 33
+   }
+  },
+  {
+   "id": "JOB.37.1",
+   "titulo": "Eliú: pára e considera as maravilhas de Deus",
+   "secao": "Os discursos de Eliú",
+   "referencia": "Jó 37,1-24",
+   "ini": {
+    "c": 37,
     "v": 1
    },
    "fim": {
@@ -489,12 +587,26 @@
   },
   {
    "id": "JOB.40.20",
-   "titulo": "O Leviatã, rei dos altivos",
+   "titulo": "Poderás tirar com anzol o Leviatã?",
    "secao": "O Senhor responde do meio do turbilhão",
-   "referencia": "Jó 40,20–41,25",
+   "referencia": "Jó 40,20-28",
    "ini": {
     "c": 40,
     "v": 20
+   },
+   "fim": {
+    "c": 40,
+    "v": 28
+   }
+  },
+  {
+   "id": "JOB.41.1",
+   "titulo": "O Leviatã, rei dos altivos: tudo o que há debaixo do céu é meu",
+   "secao": "O Senhor responde do meio do turbilhão",
+   "referencia": "Jó 41,1-25",
+   "ini": {
+    "c": 41,
+    "v": 1
    },
    "fim": {
     "c": 41,

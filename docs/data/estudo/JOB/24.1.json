@@ -1,0 +1,57 @@
+{
+  "id": "JOB.24.1",
+  "livro": "JOB",
+  "titulo": "Jó: os pobres têm fome e Deus parece calar",
+  "secao": "Terceiro ciclo de discursos",
+  "referencia": "Jó 24,1-25",
+  "ini": {
+    "c": 24,
+    "v": 1
+  },
+  "fim": {
+    "c": 24,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "Os pobres que “têm fome” e “têm sede”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jó pergunta por que Deus não marca dias de juízo, e descreve o mundo como ele é: “Uns invadem terrenos alheios… Levam o jumento dos órfãos, e tomam em penhor o boi da viúva. Põem os pobres fora do caminho.” Os pobres madrugam “à busca do seu pão e do pão de seus filhos… Passam a noite nus, por falta de roupa… levam feixes de espigas, e têm fome; moem as azeitonas e pisam as uvas, e têm sede. Da cidade sobem os gemidos dos moribundos, a alma dos feridos clama vingança, e Deus não escuta as suas súplicas.” Os ímpios são “rebeldes à luz”: o homicida, o adúltero que diz “Ninguém me verá”, os ladrões da noite. O texto termina afirmando que o ímpio, apesar de tudo, será cortado “como cabeças de espigas”: “Deus deu-lhe tempo de penitência… mas os olhos de Deus estão fixos nos seus caminhos.”",
+    "alegorico": "A descrição dos pobres que colhem, moem e pisam para outros e passam fome e sede é a voz dos “pequeninos” com quem Cristo se identifica: “tive fome… tive sede… estava nu” (Mt 25,35-36). Os que são “rebeldes à luz” e agem nas trevas são aqueles de quem Jesus diz: “os homens amaram mais as trevas do que a luz” (Jo 3,19).",
+    "moral": "Jó não fala de teorias: descreve a injustiça social com precisão, o órfão roubado, a viúva penhorada, o trabalhador faminto. Pergunta onde está Deus diante disso. É uma pergunta legítima, e a Escritura a guarda. O cristão aprende aqui a não fechar os olhos para os pobres e a lembrar que Deus dá “tempo de penitência”, mas os seus olhos estão sobre todos os caminhos.",
+    "anagogico": "O clamor dos pobres não se perde: no juízo final, Deus fará justiça aos que tiveram fome e sede."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Tomam em penhor o boi da viúva.” “Põem os pobres fora do caminho.” “À busca do seu pão e do pão de seus filhos.” “Levam feixes de espigas, e têm fome.” “Pisam as uvas e têm sede.” “Foram rebeldes à luz.” “Ninguém me verá.” “Deus deu-lhe tempo de penitência.”",
+    "meditatio_perguntas": [
+      "Vejo os pobres que trabalham e passam fome?",
+      "Há em mim algum “ninguém me verá”?",
+      "Uso o tempo que Deus me dá para a penitência?"
+    ],
+    "oratio_guia": "Senhor, cujos olhos estão fixos em todos os caminhos, abre os meus olhos para os pobres que têm fome e sede. Livra-me das obras das trevas e dá-me usar o teu tempo para a conversão. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus deu-lhe tempo de penitência",
+      "ref": "Jó 24,23"
+    }
+  },
+  "ancoras": {
+    "24:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Penhorar o necessário do pobre era proibido pela Lei (Dt 24,6.17).",
+        "origem": "ia"
+      }
+    },
+    "24:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os vv. 18-24 parecem retomar a posição dos amigos; muitos os leem como citação que Jó refuta.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

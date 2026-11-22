@@ -1,0 +1,57 @@
+{
+  "id": "JOB.10.1",
+  "livro": "JOB",
+  "titulo": "Jó: lembra-te que me formaste como barro",
+  "secao": "Primeiro ciclo de discursos",
+  "referencia": "Jó 10,1-22",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "“Lembra-te que me formaste como barro”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“A minha alma tem tédio da vida; darei livre curso aos meus lamentos… Direi a Deus: Não me condenes; mostra-me por que me julgas assim. Porventura parece-te bem oprimires-me, rejeitares-me a mim, que sou obra das tuas mãos?” Jó lembra a Deus a própria criação: “As tuas mãos fizeram-me e modelaram-me e assim de repente me vais destruir? Lembra-te que me formaste como barro… De pele e de carne me vestiste; de ossos e de nervos me organizaste. Concede-me, com a vida, a misericórdia, a tua providência guardou o meu espírito.” Mas sente-se vigiado e perseguido. “Por que me tiraste tu do ventre de minha mãe?” Pede um pouco de alívio antes de ir “para aquela terra tenebrosa e coberta de escuridão da morte”.",
+    "alegorico": "A descrição de Deus que tece o homem no ventre materno (cf. Sl 139,13-16) é um dos textos em que a Igreja vê a dignidade da vida humana desde a concepção (cf. CIC 2270). A “terra tenebrosa” da morte será iluminada por Cristo, que desceu à mansão dos mortos para levar a luz aos que ali esperavam (1Pd 3,19; CIC 632-635).",
+    "moral": "O argumento de Jó é belo: “sou obra das tuas mãos”. Mesmo na revolta, ele apela à relação com o Criador. Quem sofre pode lembrar a Deus que é obra sua e pedir: “concede-me, com a vida, a misericórdia”. A queixa nasce de um coração que ainda confia que Deus cuida do que fez.",
+    "anagogico": "A “terra tenebrosa” não é o fim: o Criador que nos formou do barro há de nos refazer na ressurreição."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A minha alma tem tédio da vida.” “Mostra-me por que me julgas assim.” “Que sou obra das tuas mãos.” “Lembra-te que me formaste como barro.” “De pele e de carne me vestiste.” “Concede-me, com a vida, a misericórdia.” “Deixa-me, pois, que eu chore um pouco a minha dor.”",
+    "meditatio_perguntas": [
+      "Lembro a Deus, na oração, que sou obra das suas mãos?",
+      "Vejo a vida humana como obra de Deus desde o ventre materno?",
+      "Permito-me chorar diante de Deus?"
+    ],
+    "oratio_guia": "Senhor, as tuas mãos me formaram. Não rejeites a obra das tuas mãos; concede-me, com a vida, a tua misericórdia, e ilumina a minha escuridão. Amém.",
+    "contemplatio_foco": {
+      "texto": "Lembra-te que me formaste como barro",
+      "ref": "Jó 10,9"
+    }
+  },
+  "ancoras": {
+    "10:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Imagem antiga da formação do embrião; cf. Sl 139,13-16; Sb 7,1-2.",
+        "origem": "ia"
+      }
+    },
+    "10:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O Xeol: a morada sombria dos mortos no AT.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

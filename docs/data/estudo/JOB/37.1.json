@@ -1,0 +1,57 @@
+{
+  "id": "JOB.37.1",
+  "livro": "JOB",
+  "titulo": "Eliú: pára e considera as maravilhas de Deus",
+  "secao": "Os discursos de Eliú",
+  "referencia": "Jó 37,1-24",
+  "ini": {
+    "c": 37,
+    "v": 1
+  },
+  "fim": {
+    "c": 37,
+    "v": 24
+  },
+  "liturgia": {
+    "tema_central": "“Pára e considera as maravilhas de Deus”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Eliú descreve a tempestade que se aproxima: “Ouvi, ouvi a sua voz terrível, o som que sai da sua boca… ruge o trovão, ribomba com a sua voz majestosa… Deus troveja maravilhosamente com a sua voz, ele faz coisas grandes e impenetráveis.” Deus manda a neve e a chuva, o gelo se forma “ao sopro de Deus”, as nuvens giram “por onde quer que as conduz a vontade daquele que as governa… quer para castigo do mundo, quer para seu benefício”. E convida: “Ouve, Job, estas coisas: pára e considera as maravilhas de Deus. Sabes tu porventura como ele as opera?… Formaste tu porventura juntamente com ele os céus?” “Do setentrião vem áureo resplendor, e Deus veste-se de terrível majestade. Não podemos alcançar o Omnipotente… Por isso os homens o temerão.”",
+    "alegorico": "A tempestade que Eliú descreve é o cenário de onde Deus vai falar (Jó 38,1), como no Sinai, entre trovões e relâmpagos (Ex 19,16). O “áureo resplendor” que vem do norte é a glória de Deus que se aproxima. As perguntas de Eliú antecipam as de Deus: o homem não pode compreender o Criador, mas pode contemplá-lo.",
+    "moral": "O convite de Eliú é para hoje: “pára e considera as maravilhas de Deus”. Diante do sofrimento, é preciso às vezes deixar de argumentar e contemplar. A natureza não explica a dor, mas mostra que há uma sabedoria maior que a nossa. E o temor de Deus, reverência diante da sua grandeza, é o começo da sabedoria.",
+    "anagogico": "“Deus veste-se de terrível majestade”: a glória que um dia será revelada a todos, quando o Senhor vier sobre as nuvens."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ouvi, ouvi a sua voz terrível.” “Deus troveja maravilhosamente com a sua voz.” “O gelo forma-se ao sopro de Deus.” “Pára e considera as maravilhas de Deus.” “Sabes tu porventura como ele as opera?” “Deus veste-se de terrível majestade.” “Não podemos alcançar o Omnipotente.”",
+    "meditatio_perguntas": [
+      "Paro para contemplar as maravilhas de Deus na criação?",
+      "Aceito que há coisas que não posso compreender?",
+      "Vivo o temor de Deus como reverência amorosa?"
+    ],
+    "oratio_guia": "Senhor, que trovejas maravilhosamente e vestes-te de majestade, faz-me parar e considerar as tuas maravilhas. Que eu te tema e te adore, mesmo sem tudo compreender. Amém.",
+    "contemplatio_foco": {
+      "texto": "pára e considera as maravilhas de Deus",
+      "ref": "Jó 37,14"
+    }
+  },
+  "ancoras": {
+    "37:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O norte era, na imaginação antiga, a morada da glória divina (cf. Ez 1,4; Sl 48,3).",
+        "origem": "ia"
+      }
+    },
+    "37:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A tempestade prepara a teofania de Jó 38.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

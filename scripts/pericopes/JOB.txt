@@ -5,23 +5,29 @@
 2:1-2:13 | A segunda prova; a mulher de Jó e os três amigos
 ## Primeiro ciclo de discursos
 3:1-3:26 | Jó amaldiçoa o dia em que nasceu
-4:1-5:27 | Elifaz: o inocente nunca pereceu
-6:1-7:21 | Jó: a vida do homem é uma milícia sobre a terra
+4:1-4:21 | Elifaz: o homem será justo diante de Deus?
+5:1-5:27 | Elifaz: bem-aventurado o homem a quem Deus corrige
+6:1-6:30 | Jó: os meus irmãos enganaram-me como a torrente
+7:1-7:21 | Jó: a vida do homem sobre a terra é uma milícia
 8:1-8:22 | Baldad: Deus não rejeita o íntegro
-9:1-10:22 | Jó: como pode o homem ser justo diante de Deus?
+9:1-9:35 | Jó: não há árbitro entre Deus e mim
+10:1-10:22 | Jó: lembra-te que me formaste como barro
 11:1-11:20 | Sofar: podes sondar os mistérios de Deus?
-12:1-13:28 | Jó: quero falar ao Todo-Poderoso
+12:1-12:25 | Jó: a sabedoria e a fortaleza estão em Deus
+13:1-13:28 | Jó: ainda que ele me mate, nele esperarei
 14:1-14:22 | Jó: o homem nascido de mulher vive pouco tempo
 ## Segundo ciclo de discursos
 15:1-15:35 | Elifaz: o ímpio vive em angústia
-16:1-17:16 | Jó: a minha testemunha está nos céus
+16:1-16:23 | Jó: a minha testemunha está no céu
+17:1-17:16 | Jó: livra-me, Senhor, e põe-me junto de ti
 18:1-18:21 | Baldad: a luz do ímpio se apagará
 19:1-19:29 | Jó: eu sei que o meu Redentor vive
 20:1-20:29 | Sofar: breve é a alegria do ímpio
 21:1-21:34 | Jó: por que vivem os ímpios e prosperam?
 ## Terceiro ciclo de discursos
 22:1-22:30 | Elifaz: reconcilia-te com Deus e terás paz
-23:1-24:25 | Jó: quem me dera saber onde encontrá-lo
+23:1-23:17 | Jó: quem me dera saber encontrar Deus
+24:1-24:25 | Jó: os pobres têm fome e Deus parece calar
 25:1-25:6 | Baldad: como pode o homem ser justo diante de Deus?
 26:1-26:14 | Jó: estas são apenas as orlas dos seus caminhos
 27:1-27:23 | Jó mantém a sua integridade
@@ -35,13 +41,15 @@
 33:1-33:33 | Eliú: Deus fala ao homem pelo sonho e pela dor
 34:1-34:37 | Eliú: longe de Deus a injustiça
 35:1-35:16 | Eliú: onde está Deus, que dá cânticos na noite?
-36:1-37:24 | Eliú: a grandeza de Deus na tempestade
+36:1-36:33 | Eliú: Deus abre o ouvido do pobre com a tribulação
+37:1-37:24 | Eliú: pára e considera as maravilhas de Deus
 ## O Senhor responde do meio do turbilhão
 38:1-38:41 | Onde estavas tu quando eu fundava a terra?
 39:1-39:30 | O Senhor e os animais selvagens
 39:31-39:35 | Jó põe a mão sobre a boca
 40:1-40:19 | Queres condenar-me para te justificares? O Beemot
-40:20-41:25 | O Leviatã, rei dos altivos
+40:20-40:28 | Poderás tirar com anzol o Leviatã?
+41:1-41:25 | O Leviatã, rei dos altivos: tudo o que há debaixo do céu é meu
 ## Epílogo
 42:1-42:6 | Agora os meus olhos te veem
 42:7-42:16 | O Senhor restaura Jó

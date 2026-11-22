@@ -1,54 +1,54 @@
 {
   "id": "JOB.9.1",
   "livro": "JOB",
-  "titulo": "Jó: como pode o homem ser justo diante de Deus?",
+  "titulo": "Jó: não há árbitro entre Deus e mim",
   "secao": "Primeiro ciclo de discursos",
-  "referencia": "Jó 9,1–10,22",
+  "referencia": "Jó 9,1-35",
   "ini": {
     "c": 9,
     "v": 1
   },
   "fim": {
-    "c": 10,
-    "v": 22
+    "c": 9,
+    "v": 35
   },
   "liturgia": {
-    "tema_central": "Como pode o homem ser justo diante de Deus? Não há árbitro entre nós",
+    "tema_central": "“Não há quem possa ser árbitro entre ambos”",
     "usos": []
   },
   "quatro_sentidos": {
-    "literal": "Jó responde reconhecendo: eu sei que o homem não é justo diante de Deus; se quisesse disputar com ele, não responderia a uma pergunta entre mil. Descreve o poder do Criador: transporta os montes, abala a terra, manda ao sol que não nasça, estende os céus, caminha sobre as ondas do mar, criou a Ursa, o Órion e as Plêiades, faz maravilhas sem número. “Se ele vem a mim, eu não o verei; se se retira, não o perceberei.” Quem lhe dirá: que fazes? Como eu poderia responder? Mesmo sendo inocente, teria de implorar ao meu juiz. Ele me esmaga num turbilhão e multiplica as minhas feridas sem motivo. E Jó chega à afirmação mais dura: Deus “aflige o inocente como ímpio”; a terra foi entregue ao ímpio. Os meus dias correm mais que um mensageiro; ainda que me lavasse com neve, ele me afundaria na lama. E formula um desejo decisivo: Deus não é homem como eu, para que nos encontremos em juízo; “não há quem possa ser árbitro entre ambos, nem meter a sua mão entre os dois”. No capítulo 10, dirige-se diretamente a Deus: a minha alma tem tédio da vida; não me condenes, mostra-me por que me acusas. “As tuas mãos fizeram-me e modelaram-me, e assim de repente me vais destruir?” Lembra-te de que me fizeste de barro; me vestiste de pele e carne, me teceste de ossos e nervos, me deste vida e misericórdia. Por que me tiraste do ventre? Deixa-me um pouco antes de ir para a terra das trevas.",
-    "alegorico": "O desejo de Jó por um “árbitro” que ponha a mão sobre ambos, Deus e o homem, é atendido em Cristo, “único mediador entre Deus e os homens, o homem Cristo Jesus” (1Tm 2,5), que sendo Deus e homem pode tocar os dois. “Caminha sobre as ondas do mar” é o que Jesus faz no lago (Mt 14,25), revelando-se Deus.",
-    "moral": "Jó oscila entre a adoração do poder de Deus e o protesto contra a sua aparente injustiça. Essa tensão é honesta e faz parte da fé adulta. A meditação sobre o próprio corpo, “tecido” por Deus (10,8-12), é belíssima: quem me criou com tanto cuidado não pode querer a minha destruição. O sofrimento leva Jó a apelar a Deus contra Deus.",
-    "anagogico": "A “terra das trevas” que Jó teme não é a última palavra: o Mediador desceu a ela e a abriu. O árbitro que Jó desejava é também o juiz que nos salvará."
+    "literal": "Jó concorda com os amigos num ponto: “Eu sei verdadeiramente que é assim, que o homem comparado com Deus não é justo. Se quisesse disputar com Deus, não lhe poderia responder por mil coisas uma só.” Canta o poder do Criador: “Ele transporta os montes… Ele manda ao sol, e o sol não nasce… Ele formou, sozinho, a extensão dos céus, e caminha sobre as ondas do mar. Ele criou a Ursa, o Orião e as Pléiades.” Mas esse poder o assusta: “Se ele vem a mim, eu não o verei… Quem lhe pode dizer: Por que fazes isto?” “Ainda que eu tivesse alguma razão, não responderia, mas imploraria a clemência do meu juiz.” E diz o mais duro: “Deus aflige o inocente como ímpio.” “Os dias da minha vida são mais velozes do que um correio.” Por fim, o grande desejo: “Porque eu não terei de responder a um homem semelhante a mim… Não há quem possa ser árbitro entre ambos, nem meter a sua mão entre os dois.”",
+    "alegorico": "O desejo de Jó por um árbitro que ponha a mão sobre Deus e sobre o homem é cumprido em Cristo, “um só mediador entre Deus e os homens, o homem Jesus Cristo” (1Tm 2,5), que, sendo Deus e homem, toca os dois. O Deus que “caminha sobre as ondas do mar” revela-se em Jesus, que anda sobre as águas (Mt 14,25).",
+    "moral": "Jó não nega o poder de Deus; o que o atormenta é não compreender. A sua palavra “imploraria a clemência do meu juiz” é a atitude certa: diante do mistério, súplica, não reivindicação. A queixa “Deus aflige o inocente” deve ser lida no conjunto do livro (Dei Verbum 15): é o grito do sofredor, que Deus acolhe, não a doutrina final. E a necessidade de um mediador mostra que o homem não pode, sozinho, chegar a Deus.",
+    "anagogico": "O Mediador desejado por Jó é o mesmo que virá julgar: Cristo, juiz e advogado dos que nele creem."
   },
   "lectio_divina": {
-    "lectio_resumo": "“O homem comparado com Deus não é justo.” “Ele… caminha sobre as ondas do mar.” “Se ele vem a mim, eu não o verei.” “Não há quem possa ser árbitro entre ambos.” “As tuas mãos fizeram-me e modelaram-me.” “Lembra-te que me formaste como barro.”",
+    "lectio_resumo": "“O homem comparado com Deus não é justo.” “Caminha sobre as ondas do mar.” “Se ele vem a mim, eu não o verei.” “Imploraria a clemência do meu juiz.” “Os dias da minha vida são mais velozes do que um correio.” “Não há quem possa ser árbitro entre ambos, nem meter a sua mão entre os dois.”",
     "meditatio_perguntas": [
-      "Reconheço Cristo como o mediador que eu precisava entre mim e Deus?",
-      "Lembro a Deus, na oração, que sou obra das suas mãos?",
-      "Como vivo a tensão entre adorar a Deus e não entender o que ele permite?"
+      "Diante do que não compreendo, reivindico ou suplico?",
+      "Sinto a necessidade de um mediador entre mim e Deus?",
+      "Agradeço a Cristo, que pôs a sua mão entre Deus e mim?"
     ],
-    "oratio_guia": "Senhor, as tuas mãos me fizeram e modelaram; não destruas a obra das tuas mãos. Obrigado por Jesus, o mediador que põe a mão sobre ti e sobre mim. Nele me abandono. Amém.",
+    "oratio_guia": "Senhor, que caminhas sobre as ondas, eu não posso responder-te por mil coisas uma só. Imploro a tua clemência, e agradeço o Mediador que me deste, Jesus Cristo. Amém.",
     "contemplatio_foco": {
-      "texto": "As tuas mãos fizeram-me e modelaram-me e assim de repente me vais destruir?",
-      "ref": "Jó 10,8"
+      "texto": "Não há quem possa ser árbitro entre ambos, nem meter a sua mão (como mediador) entre os dois",
+      "ref": "Jó 9,33"
     }
   },
   "ancoras": {
+    "9:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Constelações: Ursa, Órion e Plêiades; cf. Am 5,8; Jó 38,31.",
+        "origem": "ia"
+      }
+    },
     "9:13": {
       "cic": [],
       "padres": [],
       "nota": {
-        "texto": "Raab, monstro do caos primordial, como Leviatã; os seus “auxiliares” são as forças do caos vencidas por Deus.",
-        "origem": "ia"
-      }
-    },
-    "9:33": {
-      "cic": [],
-      "padres": [],
-      "nota": {
-        "texto": "O termo hebraico designa quem arbitra uma causa pondo a mão sobre as duas partes.",
+        "texto": "Raab: monstro do caos (cf. Is 51,9).",
         "origem": "ia"
       }
     }

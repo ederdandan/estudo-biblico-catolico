@@ -1,0 +1,57 @@
+{
+  "id": "JOB.5.1",
+  "livro": "JOB",
+  "titulo": "Elifaz: bem-aventurado o homem a quem Deus corrige",
+  "secao": "Primeiro ciclo de discursos",
+  "referencia": "Jó 5,1-27",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "“Bem-aventurado o homem a quem Deus corrige”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Elifaz continua: “Chama, pois… Para qual dos santos te voltarás?” “A ira mata o insensato, e a inveja mata o louco.” “A desgraça não nasce do pó, e a dor não brota da terra. O homem nasceu para sofrer, como as faúlhas para voar.” E aconselha: “Por mim, rogarei ao Senhor… que faz coisas grandes e impenetráveis… que exalta os humildes… que apanha os astutos na sua própria astúcia… Bem-aventurado o homem a quem Deus corrige. Não desprezes, pois, a correção do Omnipotente, porque ele fere e sara; dá o golpe e as suas mãos curam.” Promete a Jó que, se aceitar a correção, viverá em paz e entrará no sepulcro “como um feixe de trigo colhido a seu tempo”. “Olha que assim é isto que nós observámos; escuta-o e tira dele proveito.”",
+    "alegorico": "Paulo cita o v. 13: Deus “apanha os sábios na sua própria astúcia” (1Cor 3,19). A Carta aos Hebreus desenvolve a ideia da correção paterna: “o Senhor corrige a quem ama” (Hb 12,5-11). O Deus que “fere e sara” revela-se plenamente em Cristo, que cura pelas suas feridas.",
+    "moral": "O conselho de Elifaz é bom em si: rezar, entregar a causa a Deus, aceitar a correção. O erro está em supor que todo sofrimento é castigo. O sofrimento pode purificar, mas nem sempre é consequência de pecado pessoal (Jo 9,3). E o tom de quem já sabe tudo (“assim é isto que nós observámos”) fecha o diálogo.",
+    "anagogico": "“Como um feixe de trigo colhido a seu tempo”: a morte do justo, colhido maduro para o celeiro de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Para qual dos santos te voltarás?” “A dor não brota da terra.” “Rogarei ao Senhor, dirigirei a minha oração a Deus.” “Que exalta os humildes.” “Bem-aventurado o homem a quem Deus corrige.” “Ele fere e sara; dá o golpe e as suas mãos curam.” “Como um feixe de trigo colhido a seu tempo.”",
+    "meditatio_perguntas": [
+      "Aceito a correção de Deus quando vem?",
+      "Julgo que todo sofrimento é castigo?",
+      "Falo com quem sofre como quem “já sabe tudo”?"
+    ],
+    "oratio_guia": "Senhor, que feres e saras, dá-me aceitar a tua correção com confiança, sem julgar o sofrimento dos outros. Que eu seja colhido maduro, a seu tempo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Bem-aventurado o homem a quem Deus corrige",
+      "ref": "Jó 5,17"
+    }
+  },
+  "ancoras": {
+    "5:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em 1Cor 3,19.",
+        "origem": "ia"
+      }
+    },
+    "5:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Pr 3,11-12; Hb 12,5-6.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

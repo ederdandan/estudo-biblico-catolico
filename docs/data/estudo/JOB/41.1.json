@@ -1,0 +1,57 @@
+{
+  "id": "JOB.41.1",
+  "livro": "JOB",
+  "titulo": "O Leviatã, rei dos altivos: tudo o que há debaixo do céu é meu",
+  "secao": "O Senhor responde do meio do turbilhão",
+  "referencia": "Jó 41,1-25",
+  "ini": {
+    "c": 41,
+    "v": 1
+  },
+  "fim": {
+    "c": 41,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "“Tudo o que há debaixo do céu é meu”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Ninguém se atreve a provocá-lo… Quem me deu a mim alguma coisa antes, para que eu tenha de retribuir-lhe? Tudo o que há debaixo do céu é meu.” Deus descreve o Leviatã com admiração: a couraça impenetrável, o dorso “uma armação de escudos”, as escamas tão unidas que “nem o vento passa por entre elas”; “o seu espirrar é flamejante, os seus olhos como pálpebras da aurora. Da sua boca saem chamas… Das suas narinas sai fumo.” “O seu coração é duro como pedra.” Espadas, lanças e dardos não lhe fazem nada: “o ferro é para ele como palha, e o bronze como um pau podre”. “Fará ferver o abismo como uma panela… Não há poder sobre a terra que se compare… ele é o rei dos mais altivos animais.”",
+    "alegorico": "Paulo cita o v. 2: “Quem lhe deu primeiro, para que lhe seja retribuído?” (Rm 11,35), concluindo o hino à sabedoria insondável de Deus. O Leviatã, “rei dos altivos”, é para a tradição imagem do orgulho e de Satanás; o seu coração “duro como pedra” é o coração fechado à graça. A sua derrota cabe só a Deus.",
+    "moral": "A pergunta divina desmonta toda pretensão de “cobrar” de Deus: ninguém lhe deu algo antes; tudo é dele. Jó queria justiça como quem cobra uma dívida; Deus mostra que tudo é dom. E o Leviatã, rei dos altivos, mostra o que é o orgulho: um coração duro como pedra, que nada penetra. A resposta é a humildade de quem recebe tudo como graça.",
+    "anagogico": "“Tudo o que há debaixo do céu é meu”: no fim, toda a criação, libertada do orgulho do mal, será reconhecida como pertencente a Deus, que será tudo em todos (1Cor 15,28)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quem me deu a mim alguma coisa antes, para que eu tenha de retribuir-lhe?” “Tudo o que há debaixo do céu é meu.” “Nem o vento passa por entre elas.” “Os seus olhos como pálpebras da aurora.” “O seu coração é duro como pedra.” “Ele é o rei dos mais altivos animais.”",
+    "meditatio_perguntas": [
+      "Trato Deus como alguém de quem posso cobrar?",
+      "Reconheço que tudo o que tenho é dom?",
+      "Há em mim um coração “duro como pedra”?"
+    ],
+    "oratio_guia": "Senhor, tudo o que há debaixo do céu é teu; nada te dei que não tenha recebido. Tira de mim o coração de pedra do orgulho e dá-me um coração agradecido. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tudo o que há debaixo do céu, é meu",
+      "ref": "Jó 41,2"
+    }
+  },
+  "ancoras": {
+    "41:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em Rm 11,35.",
+        "origem": "ia"
+      }
+    },
+    "41:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Na Bíblia hebraica, Jó 41,26.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

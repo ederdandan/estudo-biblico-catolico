@@ -1,0 +1,57 @@
+{
+  "id": "JOB.13.1",
+  "livro": "JOB",
+  "titulo": "Jó: ainda que ele me mate, nele esperarei",
+  "secao": "Primeiro ciclo de discursos",
+  "referencia": "Jó 13,1-28",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 28
+  },
+  "liturgia": {
+    "tema_central": "“Ainda que ele me mate, nele esperarei”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Contudo, falarei ao Omnipotente, e com Deus desejo conversar, pois vós sois forjadores de mentiras, sois médicos que nada curais. E oxalá que vós vos calásseis, para poderdes passar por sábios.” Jó acusa os amigos de defender Deus com fraude: “Porventura necessita Deus das vossas mentiras?… Os vossos argumentos são razões de pó.” E arrisca-se diante de Deus: “Ainda que ele me mate, nele esperarei; mas defenderei na sua presença o meu proceder. E ele será o meu Salvador.” Pede a Deus duas coisas: “Afasta de mim a tua mão, e não me consterne o teu terror. Chama por mim, e eu te responderei… Por que escondes tu de mim o teu rosto?… Contra uma folha que é arrebatada ao vento, queres mostrar o teu poder?”",
+    "alegorico": "“Ainda que ele me mate, nele esperarei” é uma das expressões mais altas da fé no AT. Cumpre-se em Cristo na cruz, que, abandonado, entrega o espírito nas mãos do Pai (Lc 23,46). Os amigos que “defendem Deus com mentiras” lembram os que querem defender a Deus com a violência ou a fraude, e ouvem de Jesus: “Mete a tua espada na bainha” (Jo 18,11).",
+    "moral": "Duas lições. Deus não precisa de mentiras piedosas: defender a fé com argumentos falsos ou injustos ofende a Deus. E a fé verdadeira não é ausência de luta: Jó discute, queixa-se, mas não larga Deus. “Ainda que me mate, nele esperarei.” A confiança que sobrevive à escuridão é a mais pura.",
+    "anagogico": "“E ele será o meu Salvador”: a esperança que atravessa a morte encontra a salvação de Deus do outro lado."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Com Deus desejo conversar.” “Sois médicos que nada curais.” “Oxalá que vós vos calásseis.” “Porventura necessita Deus das vossas mentiras?” “Ainda que ele me mate, nele esperarei.” “Ele será o meu Salvador.” “Por que escondes tu de mim o teu rosto?” “Contra uma folha que é arrebatada ao vento?”",
+    "meditatio_perguntas": [
+      "Defendo a fé com honestidade, ou com argumentos fáceis e falsos?",
+      "A minha confiança sobrevive quando Deus parece calar?",
+      "Sei calar diante do sofrimento alheio?"
+    ],
+    "oratio_guia": "Senhor, ainda que me mates, em ti esperarei. Não escondas de mim o teu rosto; sê o meu Salvador. E faz-me calar quando não tenho palavras verdadeiras. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ainda que ele me mate, nele esperarei",
+      "ref": "Jó 13,15"
+    }
+  },
+  "ancoras": {
+    "13:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O hebraico admite também a leitura “ele me mata; não tenho esperança”; a Vulgata dá o sentido de confiança.",
+        "origem": "ia"
+      }
+    },
+    "13:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Médicos que nada curais”: cf. Jr 8,22.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
