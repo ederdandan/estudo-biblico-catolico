@@ -1,0 +1,57 @@
+{
+  "id": "NUM.28.1",
+  "livro": "NUM",
+  "titulo": "As ofertas de cada dia e das festas",
+  "secao": "Nas planícies de Moab",
+  "referencia": "Nm 28,1–29,39",
+  "ini": {
+    "c": 28,
+    "v": 1
+  },
+  "fim": {
+    "c": 29,
+    "v": 39
+  },
+  "liturgia": {
+    "tema_central": "O holocausto perpétuo: o tempo inteiro oferecido a Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor estabelece o calendário dos sacrifícios públicos: “Apresentai no tempo determinado a minha oferta.” Todos os dias, dois cordeiros de um ano sem defeito, um pela manhã e outro à tarde, com flor de farinha, azeite e uma libação de vinho: “Este é o holocausto perpétuo que vós oferecestes sobre o monte Sinai.” No sábado, mais dois cordeiros. No início de cada mês, holocaustos maiores, com um bode pelo pecado. Na Páscoa e nos sete dias dos Ázimos, sacrifícios diários e assembleias santas. No dia das primícias, nas Semanas, ofertas semelhantes. No sétimo mês: o dia das Trombetas, o dia da Expiação e os oito dias dos Tabernáculos, com uma série decrescente de novilhos, de treze no primeiro dia até sete no sétimo, e um no oitavo, “dia de assembleia solene”. “Tais são os sacrifícios que oferecereis ao Senhor nas vossas solenidades, além dos votos e das ofertas espontâneas.”",
+    "alegorico": "O holocausto perpétuo da manhã e da tarde é a raiz da oração cotidiana da Igreja: Laudes e Vésperas, o “sacrifício de louvor” da manhã e da tarde (Sl 140,2). E é figura do sacrifício eucarístico, oferecido “do nascer ao pôr do sol” em todo lugar (Ml 1,11). O calendário das festas antecipa o Ano Litúrgico, em que a Igreja percorre os mistérios de Cristo.",
+    "moral": "O tempo é santificado por um ritmo: cada dia, cada semana, cada mês, cada festa. A fé não vive só de grandes momentos, mas da fidelidade cotidiana da manhã e da tarde. Oferecer a Deus o início e o fim do dia é consagrar tudo o que está no meio.",
+    "anagogico": "O sacrifício perpétuo da terra prefigura o louvor eterno do céu, onde a liturgia não conhecerá manhã nem tarde, mas um só dia sem ocaso."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Apresentai no tempo determinado a minha oferta.” “Todos os dias, dois cordeiros de um ano.” “Um pela manhã, outro pela tarde.” “Este é o holocausto perpétuo.” “No oitavo dia tereis uma assembleia solene.”",
+    "meditatio_perguntas": [
+      "Ofereço a Deus a manhã e a tarde de cada dia?",
+      "Vivo o Ano Litúrgico como caminho com Cristo?",
+      "A minha fé depende de grandes emoções ou da fidelidade cotidiana?"
+    ],
+    "oratio_guia": "Senhor, recebe a oferta da minha manhã e da minha tarde, unida ao sacrifício perpétuo de teu Filho. Santifica os meus dias, as minhas semanas e as minhas festas. Amém.",
+    "contemplatio_foco": {
+      "texto": "Este é o holocausto perpétuo que vós oferecestes sobre o monte Sinai",
+      "ref": "Nm 28,6"
+    }
+  },
+  "ancoras": {
+    "28:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O sacrifício da tarde, à hora nona, era a hora da oração no Templo (At 3,1).",
+        "origem": "ia"
+      }
+    },
+    "29:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A série decrescente de novilhos nos Tabernáculos soma setenta, número que a tradição judaica associou às setenta nações.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

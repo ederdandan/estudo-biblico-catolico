@@ -1,0 +1,57 @@
+{
+  "id": "NUM.5.1",
+  "livro": "NUM",
+  "titulo": "A pureza do acampamento e a lei dos zelos",
+  "secao": "Leis e preparativos para a partida",
+  "referencia": "Nm 5,1-31",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Um acampamento puro, onde o Senhor habita",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor manda lançar fora do acampamento os leprosos, os que têm fluxo e os impuros por contato com morto, “para que o não manchem, habitando eu convosco”. Depois, quem prejudicar o próximo, “prevaricando contra o Senhor”, “confessará o seu pecado, restituirá o devido, com um quinto a mais”; se não houver parente a quem restituir, a reparação vai ao Senhor, para o sacerdote. Segue a lei dos zelos: se um marido suspeita da infidelidade da mulher sem prova, leva-a ao sacerdote com uma oferta de farinha de cevada. O sacerdote a põe de pé diante do Senhor, mistura em água santa um pouco do pó do chão do tabernáculo, escreve as maldições num livro e as apaga na água, e lhe dá a beber “as águas amargas”. Ela responde: “Assim seja, assim seja.” Se for culpada, a maldição a atingirá; “se, porém, não está manchada, não sofrerá mal algum, e terá filhos”.",
+    "alegorico": "A presença de Deus no meio do povo exige pureza: é a lógica que culmina na Igreja, “sem mancha nem ruga” (Ef 5,27). A lei dos zelos, em que Deus mesmo julga o que está oculto, foi lida pelos Padres como figura da fidelidade da Esposa, a Igreja, posta à prova pelo Esposo; e o Esposo divino, ao contrário do marido ciumento, não condena a adúltera arrependida (Os 2; Jo 8,1-11).",
+    "moral": "A confissão e a restituição aparecem juntas: o pecado contra o próximo é também contra Deus, e o perdão pede reparar. A lei dos zelos, estranha para nós, protegia de fato a mulher do arbítrio do marido: em vez da vingança privada, o juízo é remetido a Deus. O cristão não usa tais provas; aprende a entregar a Deus o que não pode julgar e a cultivar a confiança no matrimônio.",
+    "anagogico": "O Deus que vê o que está oculto julgará no último dia os segredos dos corações (Rm 2,16); só os puros habitarão com ele."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Para que o não manchem, habitando eu convosco.” “Confessará o seu pecado, restituirá o devido.” “A fará estar de pé diante do Senhor.” “A mulher responderá: Assim seja, assim seja.” “Se, porém, não está manchada, não sofrerá mal algum.”",
+    "meditatio_perguntas": [
+      "Cuido da pureza do “acampamento” onde Deus habita, a minha alma e a comunidade?",
+      "Confesso e reparo as faltas contra o próximo?",
+      "No matrimônio, cultivo a confiança e a fidelidade?"
+    ],
+    "oratio_guia": "Senhor, que habitas no meio do teu povo, purifica-me de toda mancha. Dá-me confessar e reparar as minhas faltas, e guarda na fidelidade os esposos. Amém.",
+    "contemplatio_foco": {
+      "texto": "habitando eu convosco",
+      "ref": "Nm 5,3"
+    }
+  },
+  "ancoras": {
+    "5:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "De novo, confissão e restituição com um quinto a mais (cf. Lv 6,1-7).",
+        "origem": "ia"
+      }
+    },
+    "5:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Assim seja”: é o “Amém” hebraico, com que a mulher aceita o juízo de Deus.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

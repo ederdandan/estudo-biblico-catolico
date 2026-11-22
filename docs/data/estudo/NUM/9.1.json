@@ -1,0 +1,49 @@
+{
+  "id": "NUM.9.1",
+  "livro": "NUM",
+  "titulo": "A segunda Páscoa e a nuvem que guia",
+  "secao": "Leis e preparativos para a partida",
+  "referencia": "Nm 9,1-23",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "A nuvem que guia: partir e parar à ordem do Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No primeiro mês do segundo ano, no Sinai, Israel celebra a Páscoa no tempo marcado. Alguns, impuros por terem tocado um morto, perguntam a Moisés: “por que havemos nós de ser privados de fazer a oblação ao Senhor?” Moisés diz: “Esperai que eu consulte o Senhor.” E o Senhor estabelece uma Páscoa no segundo mês para os impuros e os que estiverem em viagem; mas quem, podendo, deixar de celebrá-la, será cortado do povo. O estrangeiro pode celebrá-la com os mesmos ritos. Depois, a nuvem: desde que o tabernáculo foi erguido, a nuvem o cobria de dia e, de noite, era como fogo. “Quando se levantava a nuvem… punham-se em marcha os filhos de Israel; no lugar onde a nuvem parava, aí acampavam.” Se ela ficava um dia, um mês ou mais, o povo esperava; se partia de manhã, partiam. “Ao mandado do Senhor assentavam as tendas, e ao seu mandado partiam.”",
+    "alegorico": "A nuvem que guia o povo foi lida como figura do Espírito Santo, que guia a Igreja; Paulo vê nela uma figura do Batismo (1Cor 10,1-2). A Páscoa oferecida também aos que estavam impedidos e aos estrangeiros prenuncia a Páscoa de Cristo, aberta a todos.",
+    "moral": "A vida espiritual é feita de esperar e de partir no tempo de Deus. Ficar quando ele fica, mesmo que pareça longo; partir quando ele parte, mesmo que seja cedo. A pergunta humilde dos impuros, que não querem ser excluídos da Páscoa, e a resposta de Moisés, “esperai que eu consulte o Senhor”, ensinam o discernimento.",
+    "anagogico": "A nuvem que conduz o povo até à terra prometida anuncia a guia de Deus até ao repouso final, onde não será mais preciso levantar acampamento."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Por que havemos nós de ser privados de fazer a oblação ao Senhor?” “Esperai que eu consulte o Senhor.” “De dia cobria-o a nuvem, e de noite como que uma espécie de fogo.” “Ao mandado do Senhor assentavam as tendas, e ao seu mandado partiam.”",
+    "meditatio_perguntas": [
+      "Sei esperar o tempo de Deus, ou quero adiantar-me a ele?",
+      "Quando Deus me pede que parta, obedeço com prontidão?",
+      "Antes de decidir, consulto o Senhor na oração?"
+    ],
+    "oratio_guia": "Senhor, que guiaste o teu povo pela nuvem e pelo fogo, guia-me pelo teu Espírito. Dá-me paciência para esperar e prontidão para partir quando tu quiseres. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ao mandado do Senhor assentavam as tendas, e ao seu mandado partiam",
+      "ref": "Nm 9,23"
+    }
+  },
+  "ancoras": {
+    "9:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Nem quebrará os ossos”: citado em Jo 19,36 a respeito de Jesus na cruz.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

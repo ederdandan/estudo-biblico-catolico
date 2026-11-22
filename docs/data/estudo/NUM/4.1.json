@@ -1,0 +1,49 @@
+{
+  "id": "NUM.4.1",
+  "livro": "NUM",
+  "titulo": "O serviço dos levitas",
+  "secao": "O povo organizado no Sinai",
+  "referencia": "Nm 4,1-49",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 49
+  },
+  "liturgia": {
+    "tema_central": "As coisas santíssimas levadas sobre os ombros",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor manda contar os levitas de trinta a cinquenta anos, aptos para o serviço do tabernáculo. Os filhos de Caath têm a seu cargo “coisas santíssimas”: quando o acampamento parte, Aarão e seus filhos descem o véu e envolvem nele a arca, cobrem-na com peles e com um pano de púrpura violácea e põem os varais; fazem o mesmo com a mesa, o candelabro, o altar de ouro e os utensílios. Só depois entram os caatitas para carregar, “não tocarão nos utensílios do santuário, para que não morram”. Eleazar, filho de Aarão, cuida do azeite, do incenso, da oblação perpétua e do óleo da unção. O Senhor diz: “Procedei de modo que vivam, e não morram ao tocarem as coisas santíssimas.” Os filhos de Gerson levam as cortinas e as coberturas; os de Merari, as tábuas, as colunas e as bases, sob Itamar. O total dos levitas contados para o serviço é de oito mil quinhentos e oitenta, “cada um segundo o seu ofício e os seus cargos”.",
+    "alegorico": "A arca coberta pelo véu e levada aos ombros é figura de Cristo, cuja divindade está velada na carne e que é levado pela Igreja através da história. Os Padres viam nas coberturas sucessivas o mistério escondido que só se revela aos que são introduzidos. Na procissão eucarística, o Santíssimo é levado com reverência, como a arca no deserto.",
+    "moral": "O sagrado se trata com reverência e ordem: nem todos fazem tudo, cada um tem o seu ofício. Deus cuida até para que os servidores não morram por imprudência: a disciplina litúrgica protege. Há também uma idade para servir e uma para passar adiante: o serviço é tarefa, não posse.",
+    "anagogico": "O que agora é levado velado, um dia será visto sem véu: “agora vemos como por espelho, em enigma; então, face a face” (1Cor 13,12)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Referir-se-á a coisas santíssimas.” “Envolverão nele a arca do testemunho.” “Não tocarão nos utensílios do santuário, para que não morram.” “Procedei de modo que vivam.” “Cada um segundo o seu ofício e os seus cargos.”",
+    "meditatio_perguntas": [
+      "Trato as coisas sagradas, especialmente a Eucaristia, com reverência?",
+      "Cumpro com fidelidade o “ofício” que me cabe, sem invadir o dos outros?",
+      "Levo Cristo comigo pelo caminho da vida?"
+    ],
+    "oratio_guia": "Senhor, que te deixas levar pelo teu povo, dá-me reverência diante das coisas santas e fidelidade no serviço que me confiaste. Que eu te leve aos outros com humildade. Amém.",
+    "contemplatio_foco": {
+      "texto": "Procedei de modo que vivam, e não morram ao tocarem as coisas santíssimas",
+      "ref": "Nm 4,19"
+    }
+  },
+  "ancoras": {
+    "4:15": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Davi esquecerá esta regra ao transportar a arca num carro, e Oza morrerá ao tocá-la (2Sm 6,6-7).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

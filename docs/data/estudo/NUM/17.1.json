@@ -1,0 +1,57 @@
+{
+  "id": "NUM.17.1",
+  "livro": "NUM",
+  "titulo": "A vara de Aarão floresce",
+  "secao": "Murmurações no deserto",
+  "referencia": "Nm 17,1-13",
+  "ini": {
+    "c": 17,
+    "v": 1
+  },
+  "fim": {
+    "c": 17,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "A vara que floresce: o sacerdócio escolhido por Deus",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Para pôr fim às murmurações, o Senhor manda tomar doze varas, uma por tribo, com o nome de cada chefe escrito; na vara de Levi, o nome de Aarão. Moisés as põe no tabernáculo, diante do testemunho: “A vara daquele que eu escolher… florescerá.” No dia seguinte, a vara de Aarão “tinha germinado… aparecendo os botões, tinham saído flores, e haviam amadurecido amêndoas”. Moisés mostra as varas a todos, e cada um retoma a sua. O Senhor manda guardar a vara de Aarão diante do testemunho, “em memória da rebelião dos filhos de Israel, e para que cessem as suas queixas”. O povo, aterrado, diz a Moisés: “Eis que somos consumidos, todos perecemos… Qualquer que se aproxima do tabernáculo do Senhor, morre.”",
+    "alegorico": "A vara seca que floresce sem raiz foi lida pelos Padres como figura da Virgem Maria, que concebeu sem semente humana, e da Ressurreição de Cristo, o lenho morto que volta à vida. A vara guardada na arca (Hb 9,4) é sinal do sacerdócio que não vem da carne, mas da escolha de Deus: “ninguém se atribui esta honra, senão o que é chamado por Deus, como Aarão” (Hb 5,4).",
+    "moral": "A vocação não se conquista por força nem se reivindica: é dom de Deus, que ele mesmo confirma com frutos. O que floresce sem explicação humana é sinal da escolha divina. O medo do povo, no fim, mostra que precisam de um mediador para se aproximar de Deus: é o que o capítulo seguinte responderá.",
+    "anagogico": "A vara que dá flores e frutos numa só noite anuncia a ressurreição dos mortos, quando o que parecia seco florescerá para a vida eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A vara daquele que eu escolher… florescerá.” “Tinha germinado a vara de Aarão.” “Tinham saído flores, e haviam amadurecido amêndoas.” “Para se guardar ali em memória.” “Qualquer que se aproxima do tabernáculo do Senhor, morre.”",
+    "meditatio_perguntas": [
+      "Reconheço os frutos como sinal da vocação, a minha e a dos outros?",
+      "Há na minha vida algo “seco” que Deus pode fazer florescer?",
+      "Aproximo-me de Deus com confiança, por meio de Cristo mediador?"
+    ],
+    "oratio_guia": "Senhor, que fizeste florescer a vara seca de Aarão e o seio da Virgem, faz florescer a minha vida pela tua graça. Confirma as vocações que escolheste e dá-nos frutos de santidade. Amém.",
+    "contemplatio_foco": {
+      "texto": "A vara daquele que eu escolher, dentre eles, florescerá",
+      "ref": "Nm 17,5"
+    }
+  },
+  "ancoras": {
+    "17:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Nm 17,1-13 da Vulgata corresponde a Nm 17,16-28 das edições hebraicas.",
+        "origem": "ia"
+      }
+    },
+    "17:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A vara foi guardada na arca da aliança, junto com o maná e as tábuas (Hb 9,4).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

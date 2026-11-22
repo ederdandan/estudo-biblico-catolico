@@ -1,0 +1,57 @@
+{
+  "id": "NUM.13.1",
+  "livro": "NUM",
+  "titulo": "Os exploradores de Canaã",
+  "secao": "Murmurações no deserto",
+  "referencia": "Nm 13,1-34",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 34
+  },
+  "liturgia": {
+    "tema_central": "Uma terra que mana leite e mel, e o medo dos gigantes",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "De Haserot, o povo vai ao deserto de Farã. O Senhor manda enviar homens, um chefe por tribo, para reconhecer a terra de Canaã. Entre eles estão Caleb, de Judá, e Oseias, filho de Nun, de Efraim, a quem Moisés dá o nome de Josué. Moisés lhes diz: subi pelo sul até às montanhas, vede se o povo é forte ou fraco, se as cidades têm muros, se a terra é fértil; “tende coragem, e trazei-nos dos frutos da terra”. Era o tempo das primeiras uvas. Exploram a terra até Roob; vão a Hebron, onde vivem os filhos de Enac; no Vale do Cacho cortam um ramo de vide com um cacho, que dois homens levam numa vara, e colhem romãs e figos. Depois de quarenta dias, voltam a Cades e mostram os frutos: “a qual na verdade mana leite e mel… Porém tem habitantes fortíssimos, e cidades grandes e muralhas.” Caleb acalma o povo: “Vamos e tomemos conta da terra, porque nós poderemos conquistá-la.” Mas os outros difamam a terra: “devora os seus habitantes… comparados com os quais nós parecemos gafanhotos.”",
+    "alegorico": "O cacho de uva levado numa vara por dois homens tornou-se, para os Padres, imagem de Cristo pendente da cruz: o fruto da terra prometida, carregado entre o povo da antiga aliança, que vai à frente sem o ver, e o da nova, que o segue olhando para ele. Josué, cujo nome Moisés dá aqui, é o mesmo nome de Jesus: “o Senhor salva”.",
+    "moral": "Os exploradores viram a mesma terra, mas uns viram o fruto, e outros, os gigantes. O medo transforma a realidade: “parecemos gafanhotos” é como se viram, antes de qualquer combate. Caleb não nega as dificuldades, mas olha para Deus. A fé não é ingenuidade; é medir os obstáculos pelo tamanho de Deus, não pelo nosso.",
+    "anagogico": "Os frutos trazidos da terra são antecipação dos bens eternos: a graça é o “cacho” que já provamos, penhor da herança (Ef 1,14) que ainda não possuímos plenamente."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Tende coragem, e trazei-nos dos frutos da terra.” “Cortaram um ramo de vide com o seu cacho, o qual levaram dois homens numa vara.” “Na verdade mana leite e mel.” “Vamos e tomemos conta da terra, porque nós poderemos conquistá-la.” “Nós parecemos gafanhotos.”",
+    "meditatio_perguntas": [
+      "Diante das dificuldades, vejo primeiro os frutos ou os gigantes?",
+      "Como me vejo: como “gafanhoto” ou como filho de Deus?",
+      "Sou para os outros uma voz de coragem, como Caleb, ou de desânimo?"
+    ],
+    "oratio_guia": "Senhor, que me deste provar os frutos da tua promessa, livra-me do medo que me faz sentir gafanhoto. Dá-me o espírito de Caleb, que confia em ti diante dos gigantes. Amém.",
+    "contemplatio_foco": {
+      "texto": "Vamos e tomemos conta da terra, porque nós poderemos conquistá-la",
+      "ref": "Nm 13,31"
+    }
+  },
+  "ancoras": {
+    "13:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Oseias (Hoshea, “salvação”) passa a se chamar Josué (Yehoshua, “o Senhor salva”), o mesmo nome de Jesus.",
+        "origem": "ia"
+      }
+    },
+    "13:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O cacho levado na vara tornou-se símbolo do turismo e da enologia em Israel, e figura cristológica nos Padres.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

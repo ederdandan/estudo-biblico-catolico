@@ -1,0 +1,57 @@
+{
+  "id": "NUM.21.1",
+  "livro": "NUM",
+  "titulo": "A serpente de bronze e as primeiras vitórias",
+  "secao": "De Cades às planícies de Moab",
+  "referencia": "Nm 21,1-35",
+  "ini": {
+    "c": 21,
+    "v": 1
+  },
+  "fim": {
+    "c": 21,
+    "v": 35
+  },
+  "liturgia": {
+    "tema_central": "“Aquele que, sendo ferido, olhar para ela, viverá”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O rei cananeu de Arad ataca Israel; o povo faz um voto e o Senhor lhe dá a vitória em Horma. Partindo do monte Hor para contornar Edom, o povo se cansa do caminho e fala contra Deus e contra Moisés: “Falta pão, não há água: a nossa alma está enfastiada deste alimento levíssimo.” O Senhor envia serpentes ardentes, que mordem e matam muitos. O povo reconhece: “Nós pecamos porque falamos contra o Senhor e contra ti: roga-lhe que afaste de nós as serpentes.” Moisés ora, e o Senhor diz: “Faze uma serpente de bronze, e põe-na por sinal: aquele que, sendo ferido, olhar para ela, viverá.” Moisés a faz, e os feridos que olhavam para ela saravam. O povo continua as etapas até ao Arnon, fronteira de Moab; num poço que o Senhor lhes dá, cantam: “Suba o poço.” Seon, rei dos amorreus, recusa a passagem e é vencido; Israel toma Hesebon e as suas aldeias. Og, rei de Basã, sai à batalha; o Senhor diz a Moisés: “Não tenhas medo dele”, e também ele é vencido.",
+    "alegorico": "O próprio Jesus interpreta esta cena: “assim como Moisés levantou a serpente no deserto, assim importa que seja levantado o Filho do homem, para que todo o que crê nele tenha a vida eterna” (Jo 3,14-15). A serpente, imagem do mal que fere, levantada como sinal, anuncia Cristo que, “feito pecado”, venceu o pecado na cruz. A festa da Exaltação da Santa Cruz lê este texto.",
+    "moral": "A cura vem de um olhar: olhar com fé para o sinal que Deus levantou. O povo reconhece o pecado e pede a intercessão: é o começo da cura. O fastio do “alimento levíssimo”, o maná, é a tentação de desprezar os dons de Deus porque são simples. Olhar para o crucifixo, na dor e na tentação, é gesto de salvação.",
+    "anagogico": "Quem olha para o Crucificado com fé vive para sempre: “olharão para aquele que traspassaram” (Jo 19,37), e esse olhar se tornará visão na glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A nossa alma está enfastiada deste alimento levíssimo.” “Nós pecamos porque falamos contra o Senhor.” “Faze uma serpente de bronze, e põe-na por sinal.” “Aquele que, sendo ferido, olhar para ela, viverá.” “Não tenhas medo dele.”",
+    "meditatio_perguntas": [
+      "Olho para Cristo crucificado quando sou ferido pelo pecado?",
+      "Reconheço o meu pecado com a simplicidade do povo arrependido?",
+      "Desprezo os dons de Deus por parecerem simples demais?"
+    ],
+    "oratio_guia": "Senhor Jesus, levantado na cruz como a serpente no deserto, eu olho para ti com fé: cura as feridas do meu pecado e dá-me a vida eterna. Amém.",
+    "contemplatio_foco": {
+      "texto": "aquele que, sendo ferido, olhar para ela, viverá",
+      "ref": "Nm 21,8"
+    }
+  },
+  "ancoras": {
+    "21:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ezequias destruiu esta serpente, chamada Noestã, porque o povo lhe queimava incenso (2Rs 18,4).",
+        "origem": "ia"
+      }
+    },
+    "21:14": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O “livro das guerras do Senhor” é uma antiga coleção poética hoje perdida.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

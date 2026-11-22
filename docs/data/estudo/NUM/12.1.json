@@ -1,0 +1,57 @@
+{
+  "id": "NUM.12.1",
+  "livro": "NUM",
+  "titulo": "Maria e Aarão contra Moisés",
+  "secao": "Murmurações no deserto",
+  "referencia": "Nm 12,1-15",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 15
+  },
+  "liturgia": {
+    "tema_central": "“A ele eu falo cara a cara”: Moisés, o servo fiel",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Maria e Aarão falam contra Moisés por causa da mulher etíope que ele tomara, e dizem: “Porventura o Senhor falou só por Moisés? Não nos falou ele igualmente a nós?” “Moisés, porém, era o mais manso de todos os homens que havia na terra.” O Senhor chama os três ao tabernáculo, desce na coluna de nuvem e diz a Aarão e Maria: aos profetas eu apareço em visões e sonhos; “mas não é assim a respeito do meu servo Moisés, o qual é fidelíssimo em toda a minha casa. A ele eu falo cara a cara: ele vê o Senhor claramente, e não sob enigmas e figuras.” Irado, retira-se, e Maria aparece coberta de lepra branca como a neve. Aarão suplica a Moisés que não lhes impute aquele pecado. Moisés clama: “Ó Deus, eu te rogo, sara-a.” O Senhor responde que ela fique sete dias fora do acampamento, como quem foi envergonhada, e depois seja chamada de novo. O povo não parte enquanto Maria não volta.",
+    "alegorico": "A Carta aos Hebreus cita este texto: Moisés foi “fiel em toda a sua casa”, como servo; Cristo é fiel como Filho, sobre a sua própria casa (Hb 3,2-6). Moisés que vê o Senhor “cara a cara” prefigura o Filho, que “está no seio do Pai” e o revela (Jo 1,18). A mulher etíope foi lida pelos Padres como figura da Igreja dos gentios, unida a Cristo.",
+    "moral": "A inveja pode surgir até entre irmãos santos, com pretextos de zelo. Moisés, o mais manso dos homens, não se defende: deixa Deus defendê-lo, e depois intercede por quem o ofendeu. É a mansidão evangélica: “bem-aventurados os mansos” (Mt 5,4). E o povo espera Maria: a comunidade não segue adiante deixando alguém para trás.",
+    "anagogico": "O “cara a cara” de Moisés é antecipação do que é prometido a todos os santos: “então veremos face a face” (1Cor 13,12)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Porventura o Senhor falou só por Moisés?” “Moisés, porém, era o mais manso de todos os homens.” “O meu servo Moisés, o qual é fidelíssimo em toda a minha casa.” “A ele eu falo cara a cara.” “Ó Deus, eu te rogo, sara-a.”",
+    "meditatio_perguntas": [
+      "Há inveja escondida sob o meu “zelo”?",
+      "Quando sou criticado injustamente, deixo Deus defender-me?",
+      "Rezo por quem me ofendeu, como Moisés por Maria?"
+    ],
+    "oratio_guia": "Senhor, dá-me a mansidão de Moisés, que não se defendeu e intercedeu por quem o feriu. Livra-me da inveja e faz-me fiel em tua casa, até te ver face a face. Amém.",
+    "contemplatio_foco": {
+      "texto": "Ó Deus, eu te rogo, sara-a",
+      "ref": "Nm 12,13"
+    }
+  },
+  "ancoras": {
+    "12:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Este elogio de Moisés foi lido pela tradição como acréscimo posterior; em todo caso, exprime o seu caráter.",
+        "origem": "ia"
+      }
+    },
+    "12:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citado em Hb 3,2.5.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

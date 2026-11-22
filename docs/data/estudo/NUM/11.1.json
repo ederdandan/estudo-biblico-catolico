@@ -1,0 +1,57 @@
+{
+  "id": "NUM.11.1",
+  "livro": "NUM",
+  "titulo": "As codornizes e os setenta anciãos",
+  "secao": "Murmurações no deserto",
+  "referencia": "Nm 11,1-34",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 34
+  },
+  "liturgia": {
+    "tema_central": "“Porventura é impotente a mão do Senhor?”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O povo murmura e o fogo do Senhor queima a extremidade do acampamento; Moisés ora e o fogo se apaga. Depois, a gente mista que veio com eles, e os israelitas com ela, chora: “Quem nos dará carnes para comer? Lembramo-nos dos peixes que comíamos de graça no Egito… os pepinos e os melões… Os nossos olhos não veem senão maná.” Moisés, abatido, diz ao Senhor: “Por que puseste sobre mim o peso de todo este povo? Porventura concebi eu toda esta multidão…? Eu só não posso suportar todo este povo.” O Senhor manda reunir setenta anciãos: “tomarei do seu Espírito e lho darei a eles, para que sustentem contigo o peso do povo”. Promete carne por um mês inteiro, e, diante da dúvida de Moisés, responde: “Porventura é impotente a mão do Senhor?” O Espírito repousa sobre os setenta, e eles profetizam; também Eldad e Medad, que ficaram no acampamento. Josué quer impedi-los, mas Moisés responde: “Por que és tão zeloso por mim? Quem dera que todo o povo profetizasse!” Vêm as codornizes; mas, com a carne ainda nos dentes, uma praga fere o povo, e o lugar se chama Sepulcros da Concupiscência.",
+    "alegorico": "O desejo de Moisés, “quem dera que todo o povo profetizasse”, cumpre-se em Pentecostes, quando o Espírito é derramado sobre todos (At 2,17). Jesus, como Moisés, corrige o zelo exclusivista dos discípulos: “não o impeçais… quem não é contra nós é por nós” (Mc 9,38-40). O maná desprezado é figura da Eucaristia, de que se pode também ter fastio.",
+    "moral": "A murmuração nasce da memória seletiva: lembram-se dos peixes do Egito e esquecem a escravidão. O cansaço de Moisés é profundamente humano, e Deus não o repreende: dá-lhe colaboradores. Quem tem responsabilidade não precisa carregar tudo só. E o zelo pelo próprio grupo não deve impedir o bem que o Espírito faz em outros.",
+    "anagogico": "O Espírito repartido entre os setenta anuncia a efusão final, quando todo o povo de Deus será profeta, e a saciedade verdadeira não virá das codornizes, mas da presença de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Os nossos olhos não vêem senão maná.” “Eu só não posso suportar todo este povo.” “Tomarei do seu Espírito e lho darei a eles.” “Porventura é impotente a mão do Senhor?” “Quem dera que todo o povo profetizasse, e que o Senhor lhe desse o seu Espírito!”",
+    "meditatio_perguntas": [
+      "Tenho fastio do “maná” que Deus me dá, a Eucaristia, a Palavra?",
+      "Sei repartir as responsabilidades em vez de carregar tudo sozinho?",
+      "Alegro-me com o bem que o Espírito faz em pessoas fora do meu grupo?"
+    ],
+    "oratio_guia": "Senhor, cuja mão não é impotente, livra-me da murmuração e do fastio dos teus dons. Derrama o teu Espírito sobre todo o teu povo, e dá-me alegrar-me com o bem que fazes em todos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Quem dera que todo o povo profetizasse, e que o Senhor lhe desse o seu Espírito",
+      "ref": "Nm 11,29"
+    }
+  },
+  "ancoras": {
+    "11:25": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O dom do Espírito aos anciãos lembra Ex 18, onde Jetro aconselha dividir o governo.",
+        "origem": "ia"
+      }
+    },
+    "11:34": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Sepulcros da Concupiscência” traduz o hebraico Qibrot-ha-Taavá.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

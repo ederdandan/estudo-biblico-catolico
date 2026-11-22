@@ -1,0 +1,57 @@
+{
+  "id": "NUM.25.1",
+  "livro": "NUM",
+  "titulo": "Baal-Fegor e o zelo de Fineias",
+  "secao": "De Cades às planícies de Moab",
+  "referencia": "Nm 25,1-18",
+  "ini": {
+    "c": 25,
+    "v": 1
+  },
+  "fim": {
+    "c": 25,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Baal-Fegor: a sedução da idolatria e o zelo de Fineias",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Em Setim, o povo cai em pecado com as filhas de Moab, que os convidam aos sacrifícios dos seus deuses: “Eles comeram e adoraram os deuses delas. Israel consagrou-se a Beelfegor.” O Senhor, irado, manda punir os chefes; Moisés ordena aos juízes que matem os que se consagraram ao ídolo. Enquanto o povo chora diante da porta do tabernáculo, um israelita traz uma madianita à vista de Moisés e de todos. Fineias, neto de Aarão, toma uma lança, entra atrás dele na tenda e traspassa os dois; e a praga cessa. Morreram vinte e quatro mil. O Senhor diz que Fineias “foi animado do meu zelo” e afastou a sua ira de Israel: “Eu lhe dou a paz da minha aliança, que será tanto para ele como para sua descendência um pacto de perpétuo sacerdócio, porque foi zeloso pelo seu Deus e expiou a maldade dos filhos de Israel.” Os mortos eram Zambri, chefe de família de Simeão, e Cozbi, filha de um chefe madianita. O Senhor manda tratar Madiã como inimigo, porque enganou Israel “por meio do ídolo de Fogor”.",
+    "alegorico": "O Apocalipse revela o que estava por trás: Balaão “ensinava Balac a armar laços diante dos filhos de Israel, para comerem das coisas sacrificadas aos ídolos e se prostituírem” (Ap 2,14; cf. Nm 31,16). O que o adivinho não conseguiu pela maldição, conseguiu pela sedução. Paulo cita o episódio como advertência: “não forniquemos, como alguns deles fornicaram, e caíram num só dia vinte e três mil” (1Cor 10,8). O zelo de Fineias anuncia o zelo de Cristo pela casa do Pai (Jo 2,17).",
+    "moral": "O inimigo que não vence de frente vence pela sedução: a idolatria entrou pela porta do prazer e da amizade com o mundo. A imoralidade e a idolatria andam juntas. O zelo de Fineias, louvado no Salmo 105,30-31, é zelo pela santidade de Deus; o cristão o vive não com a lança, mas com a firmeza contra o pecado em si mesmo e com a defesa da verdade.",
+    "anagogico": "A “paz da aliança” dada a Fineias anuncia a aliança eterna de paz em Cristo, sacerdote para sempre, que expiou a maldade do povo não com o sangue dos pecadores, mas com o seu."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“As quais os convidaram para os seus sacrifícios.” “Israel consagrou-se a Beelfegor.” “Foi animado do meu zelo.” “Eu lhe dou a paz da minha aliança.” “Porque foi zeloso pelo seu Deus.”",
+    "meditatio_perguntas": [
+      "Por onde a sedução do mundo tenta entrar na minha vida?",
+      "Tenho zelo pela santidade de Deus, começando por mim mesmo?",
+      "Reconheço que a idolatria e a impureza andam juntas?"
+    ],
+    "oratio_guia": "Senhor, dá-me o zelo pela tua santidade e a firmeza diante das seduções do mundo. Guarda-me da idolatria e concede-me a paz da tua aliança. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eu lhe dou a paz da minha aliança",
+      "ref": "Nm 25,12"
+    }
+  },
+  "ancoras": {
+    "25:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Baal-Fegor: o Baal venerado no monte Fegor (Peor).",
+        "origem": "ia"
+      }
+    },
+    "25:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Paulo fala em 23 mil (1Cor 10,8), talvez contando só os mortos num dia.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

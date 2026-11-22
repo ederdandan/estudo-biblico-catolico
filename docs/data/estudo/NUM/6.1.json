@@ -1,0 +1,49 @@
+{
+  "id": "NUM.6.1",
+  "livro": "NUM",
+  "titulo": "O voto do nazireu",
+  "secao": "Leis e preparativos para a partida",
+  "referencia": "Nm 6,1-21",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 21
+  },
+  "liturgia": {
+    "tema_central": "O nazireu: consagrado ao Senhor por um tempo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor dá a lei do nazireu, o homem ou a mulher que “fizerem voto de se santificar, e se quiserem consagrar ao Senhor”. Durante o tempo do voto, abstém-se de vinho e de tudo o que vem da vinha, das uvas frescas às passas; não passa navalha pela cabeça, “será santo, deixando crescer os cabelos da sua cabeça”; e não se aproxima de nenhum morto, nem do pai, da mãe ou dos irmãos, “porque a consagração do seu Deus está sobre a sua cabeça”. Se alguém morre de repente junto dele, a consagração fica manchada: rapa a cabeça, oferece rolas ou pombos e um cordeiro, e recomeça o voto, perdendo os dias anteriores. Terminado o tempo, apresenta-se no tabernáculo com holocausto, sacrifício pelo pecado e sacrifício pacífico, com pães ázimos; rapa o cabelo consagrado e o lança no fogo debaixo da vítima pacífica; depois pode beber vinho.",
+    "alegorico": "Sansão, Samuel e João Batista foram consagrados como nazireus desde o seio materno (Jz 13,5; 1Sm 1,11; Lc 1,15). Paulo cumpriu um voto semelhante (At 18,18; 21,23-26). Os Padres viram no nazireu uma figura de Cristo, o Santo de Deus, e da vida consagrada na Igreja, em que alguns se dão a Deus de modo especial, por uma renúncia livre.",
+    "moral": "Há renúncias boas e livres que exprimem a pertença a Deus: o jejum, a abstinência, o voto. Não por desprezo das coisas criadas, como o vinho, mas para tornar visível que Deus é o primeiro. A interrupção do voto por um acidente ensina a recomeçar com humildade, sem desânimo.",
+    "anagogico": "O nazireu “santo para o Senhor” anuncia a consagração definitiva dos eleitos, e a abstenção de vinho lembra a palavra de Jesus: “Não beberei mais deste fruto da videira, até ao dia em que o beber novo convosco no reino de meu Pai” (Mt 26,29)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quando um homem ou uma mulher fizerem voto de se santificar.” “Será santo, deixando crescer os cabelos da sua cabeça.” “A consagração do seu Deus está sobre a sua cabeça.” “Durante todos os dias da sua separação será santo para o Senhor.”",
+    "meditatio_perguntas": [
+      "Que renúncia livre poderia exprimir melhor a minha pertença a Deus?",
+      "Quando falho num propósito, sei recomeçar sem desânimo?",
+      "Valorizo a vida consagrada na Igreja?"
+    ],
+    "oratio_guia": "Senhor, que chamas alguns a uma consagração especial, aceita as minhas pequenas renúncias como sinal de que és o primeiro. Quando eu falhar, dá-me recomeçar com humildade. Amém.",
+    "contemplatio_foco": {
+      "texto": "Durante todos os dias da sua separação será santo para o Senhor",
+      "ref": "Nm 6,8"
+    }
+  },
+  "ancoras": {
+    "6:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Nazireu” vem do hebraico nazir, “separado, consagrado”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

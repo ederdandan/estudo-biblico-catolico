@@ -1,0 +1,49 @@
+{
+  "id": "NUM.30.1",
+  "livro": "NUM",
+  "titulo": "A lei dos votos",
+  "secao": "Nas planícies de Moab",
+  "referencia": "Nm 30,1-17",
+  "ini": {
+    "c": 30,
+    "v": 1
+  },
+  "fim": {
+    "c": 30,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "A palavra dada a Deus: a lei dos votos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Moisés transmite aos chefes das tribos a lei dos votos: “Se um homem fizer um voto ao Senhor ou se obrigar com juramento, não faltará à sua palavra, mas cumprirá tudo o que prometeu.” Para a mulher que vive sob a autoridade de outro, há regras: a jovem em casa do pai fica obrigada se o pai, sabendo, se cala; se ele se opõe no mesmo dia, o voto é nulo, “e o Senhor lhe perdoará”. O mesmo vale para a mulher casada em relação ao marido; mas, se ele se opõe tarde, depois de se ter calado, “levará ele sobre si a iniquidade dela”. A viúva e a repudiada, que não estão sob autoridade de ninguém, cumprem tudo o que prometeram. “Estas são as leis que o Senhor intimou a Moisés entre o marido e a mulher, entre o pai e a filha.”",
+    "alegorico": "A palavra dada a Deus é coisa sagrada porque Deus mesmo é fiel à sua palavra. Jesus leva mais longe: “Seja o vosso falar: sim, sim; não, não” (Mt 5,37), uma vida inteira tão verdadeira que não precise de juramentos. Os votos religiosos na Igreja são herdeiros desta seriedade.",
+    "moral": "Prometer a Deus é sério: não se fazem votos levianamente, e o que se promete se cumpre. A lei também protege a ordem da família e impede que um voto imprudente pese sobre todos; e põe a responsabilidade em quem tem autoridade: quem se cala consente, quem anula tarde responde pelo mal. Toda autoridade é responsabilidade.",
+    "anagogico": "A fidelidade à palavra dada prepara o “sim” definitivo da alma a Deus, que se consuma na eternidade, onde não haverá mais promessa, mas posse."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Se um homem fizer um voto ao Senhor… não faltará à sua palavra, mas cumprirá tudo o que prometeu.” “O Senhor lhe perdoará.” “Levará ele sobre si a iniquidade dela.”",
+    "meditatio_perguntas": [
+      "Cumpro as promessas que fiz a Deus e aos outros?",
+      "Sou prudente antes de prometer?",
+      "Exerço a autoridade que tenho com responsabilidade?"
+    ],
+    "oratio_guia": "Senhor, fiel em todas as tuas palavras, dá-me ser fiel às minhas. Que o meu sim seja sim, e o meu não seja não, e que eu cumpra o que te prometi. Amém.",
+    "contemplatio_foco": {
+      "texto": "não faltará à sua palavra, mas cumprirá tudo o que prometeu",
+      "ref": "Nm 30,3"
+    }
+  },
+  "ancoras": {
+    "30:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Matos Soares segue a Vulgata: Nm 30,1 corresponde a Nm 29,40 das edições hebraicas, e o restante do capítulo tem a numeração deslocada de um versículo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

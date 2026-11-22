@@ -1,0 +1,57 @@
+{
+  "id": "NUM.19.1",
+  "livro": "NUM",
+  "titulo": "A novilha vermelha e a água da purificação",
+  "secao": "Murmurações no deserto",
+  "referencia": "Nm 19,1-22",
+  "ini": {
+    "c": 19,
+    "v": 1
+  },
+  "fim": {
+    "c": 19,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "A novilha vermelha e a água que purifica da morte",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor dá o rito da novilha vermelha, sem defeito, que nunca levou jugo. Ela é entregue ao sacerdote Eleazar, levada para fora do acampamento e imolada; com o sangue, o sacerdote faz sete aspersões na direção do tabernáculo. A novilha é queimada inteira, com a pele, a carne, o sangue e os excrementos, e no fogo se lançam cedro, hissopo e escarlate. Um homem puro recolhe as cinzas e as guarda fora do acampamento, num lugar limpo, para preparar a “água de aspersão”. Quem tocar um cadáver fica impuro sete dias; deve ser aspergido com esta água no terceiro e no sétimo dia para se purificar; se não o fizer, mancha o tabernáculo do Senhor e é cortado de Israel. A lei vale para a tenda onde alguém morre, os vasos abertos, quem tocar um osso ou um sepulcro. Curiosamente, os que preparam e aspergem a água ficam eles mesmos impuros até à tarde.",
+    "alegorico": "A Carta aos Hebreus cita este rito: “se a cinza de uma novilha, aspergida sobre os impuros, os santifica… quanto mais o sangue de Cristo… purificará a nossa consciência das obras mortas” (Hb 9,13-14). A novilha imolada fora do acampamento é figura de Cristo crucificado fora da cidade; e o paradoxo de que quem purifica se torna impuro anuncia Cristo, que “se fez pecado por nós” para nos purificar (2Cor 5,21).",
+    "moral": "A morte é o contrário de Deus, o Vivente, e o contato com ela pede purificação. As “obras mortas” do pecado também contaminam a alma e precisam de uma água que purifica: o Batismo, a Penitência. A purificação tem etapas, terceiro e sétimo dia: a conversão é caminho, não um instante.",
+    "anagogico": "A água que purifica da morte anuncia a vitória final de Cristo sobre a morte, quando “a morte não existirá mais” (Ap 21,4) e nada mais nos separará do Deus vivo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Uma vaca vermelha, perfeita, na qual não haja nenhum defeito, e que não tenha (ainda) levado o jugo.” “Depois de a ter tirado para fora do campo.” “Para fazer água de aspersão.” “Será aspergido com esta água ao terceiro e ao sétimo dia, e assim se tornará puro.”",
+    "meditatio_perguntas": [
+      "Que “obras mortas” contaminam a minha consciência?",
+      "Recorro com fé à água e ao sangue que purificam, nos sacramentos?",
+      "Aceito que a conversão seja um caminho com etapas?"
+    ],
+    "oratio_guia": "Senhor Jesus, imolado fora da cidade, purifica a minha consciência das obras mortas com o teu sangue, para que eu sirva ao Deus vivo. Amém.",
+    "contemplatio_foco": {
+      "texto": "será aspergido com esta água ao terceiro e ao sétimo dia",
+      "ref": "Nm 19,12"
+    }
+  },
+  "ancoras": {
+    "19:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Vulgata diz “vaca vermelha”; o hebraico indica uma novilha.",
+        "origem": "ia"
+      }
+    },
+    "19:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Hb 9,13-14.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,516 @@
+{
+ "livro": "NUM",
+ "secoes": [
+  "O povo organizado no Sinai",
+  "Leis e preparativos para a partida",
+  "Murmurações no deserto",
+  "De Cades às planícies de Moab",
+  "Nas planícies de Moab"
+ ],
+ "pericopes": [
+  {
+   "id": "NUM.1.1",
+   "titulo": "O recenseamento das tribos",
+   "secao": "O povo organizado no Sinai",
+   "referencia": "Nm 1,1-54",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 54
+   }
+  },
+  {
+   "id": "NUM.2.1",
+   "titulo": "O acampamento ao redor do tabernáculo",
+   "secao": "O povo organizado no Sinai",
+   "referencia": "Nm 2,1-34",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 34
+   }
+  },
+  {
+   "id": "NUM.3.1",
+   "titulo": "Os levitas em lugar dos primogênitos",
+   "secao": "O povo organizado no Sinai",
+   "referencia": "Nm 3,1-51",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 51
+   }
+  },
+  {
+   "id": "NUM.4.1",
+   "titulo": "O serviço dos levitas",
+   "secao": "O povo organizado no Sinai",
+   "referencia": "Nm 4,1-49",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 49
+   }
+  },
+  {
+   "id": "NUM.5.1",
+   "titulo": "A pureza do acampamento e a lei dos zelos",
+   "secao": "Leis e preparativos para a partida",
+   "referencia": "Nm 5,1-31",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 31
+   }
+  },
+  {
+   "id": "NUM.6.1",
+   "titulo": "O voto do nazireu",
+   "secao": "Leis e preparativos para a partida",
+   "referencia": "Nm 6,1-21",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 21
+   }
+  },
+  {
+   "id": "NUM.6.22",
+   "titulo": "A bênção sacerdotal",
+   "secao": "Leis e preparativos para a partida",
+   "referencia": "Nm 6,22-27",
+   "ini": {
+    "c": 6,
+    "v": 22
+   },
+   "fim": {
+    "c": 6,
+    "v": 27
+   }
+  },
+  {
+   "id": "NUM.7.1",
+   "titulo": "As ofertas dos chefes para a dedicação do altar",
+   "secao": "Leis e preparativos para a partida",
+   "referencia": "Nm 7,1-89",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 89
+   }
+  },
+  {
+   "id": "NUM.8.1",
+   "titulo": "O candelabro e a consagração dos levitas",
+   "secao": "Leis e preparativos para a partida",
+   "referencia": "Nm 8,1-26",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 26
+   }
+  },
+  {
+   "id": "NUM.9.1",
+   "titulo": "A segunda Páscoa e a nuvem que guia",
+   "secao": "Leis e preparativos para a partida",
+   "referencia": "Nm 9,1-23",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 23
+   }
+  },
+  {
+   "id": "NUM.10.1",
+   "titulo": "As trombetas e a partida do Sinai",
+   "secao": "Leis e preparativos para a partida",
+   "referencia": "Nm 10,1-36",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 36
+   }
+  },
+  {
+   "id": "NUM.11.1",
+   "titulo": "As codornizes e os setenta anciãos",
+   "secao": "Murmurações no deserto",
+   "referencia": "Nm 11,1-34",
+   "ini": {
+    "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 34
+   }
+  },
+  {
+   "id": "NUM.12.1",
+   "titulo": "Maria e Aarão contra Moisés",
+   "secao": "Murmurações no deserto",
+   "referencia": "Nm 12,1-15",
+   "ini": {
+    "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 15
+   }
+  },
+  {
+   "id": "NUM.13.1",
+   "titulo": "Os exploradores de Canaã",
+   "secao": "Murmurações no deserto",
+   "referencia": "Nm 13,1-34",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 34
+   }
+  },
+  {
+   "id": "NUM.14.1",
+   "titulo": "A revolta e os quarenta anos no deserto",
+   "secao": "Murmurações no deserto",
+   "referencia": "Nm 14,1-45",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 45
+   }
+  },
+  {
+   "id": "NUM.15.1",
+   "titulo": "Leis das ofertas, o violador do sábado e as franjas",
+   "secao": "Murmurações no deserto",
+   "referencia": "Nm 15,1-41",
+   "ini": {
+    "c": 15,
+    "v": 1
+   },
+   "fim": {
+    "c": 15,
+    "v": 41
+   }
+  },
+  {
+   "id": "NUM.16.1",
+   "titulo": "A rebelião de Coré, Datã e Abirão",
+   "secao": "Murmurações no deserto",
+   "referencia": "Nm 16,1-50",
+   "ini": {
+    "c": 16,
+    "v": 1
+   },
+   "fim": {
+    "c": 16,
+    "v": 50
+   }
+  },
+  {
+   "id": "NUM.17.1",
+   "titulo": "A vara de Aarão floresce",
+   "secao": "Murmurações no deserto",
+   "referencia": "Nm 17,1-13",
+   "ini": {
+    "c": 17,
+    "v": 1
+   },
+   "fim": {
+    "c": 17,
+    "v": 13
+   }
+  },
+  {
+   "id": "NUM.18.1",
+   "titulo": "A parte dos sacerdotes e dos levitas",
+   "secao": "Murmurações no deserto",
+   "referencia": "Nm 18,1-32",
+   "ini": {
+    "c": 18,
+    "v": 1
+   },
+   "fim": {
+    "c": 18,
+    "v": 32
+   }
+  },
+  {
+   "id": "NUM.19.1",
+   "titulo": "A novilha vermelha e a água da purificação",
+   "secao": "Murmurações no deserto",
+   "referencia": "Nm 19,1-22",
+   "ini": {
+    "c": 19,
+    "v": 1
+   },
+   "fim": {
+    "c": 19,
+    "v": 22
+   }
+  },
+  {
+   "id": "NUM.20.1",
+   "titulo": "As águas de Meriba e a morte de Aarão",
+   "secao": "De Cades às planícies de Moab",
+   "referencia": "Nm 20,1-30",
+   "ini": {
+    "c": 20,
+    "v": 1
+   },
+   "fim": {
+    "c": 20,
+    "v": 30
+   }
+  },
+  {
+   "id": "NUM.21.1",
+   "titulo": "A serpente de bronze e as primeiras vitórias",
+   "secao": "De Cades às planícies de Moab",
+   "referencia": "Nm 21,1-35",
+   "ini": {
+    "c": 21,
+    "v": 1
+   },
+   "fim": {
+    "c": 21,
+    "v": 35
+   }
+  },
+  {
+   "id": "NUM.22.1",
+   "titulo": "Balaão e a jumenta",
+   "secao": "De Cades às planícies de Moab",
+   "referencia": "Nm 22,1-41",
+   "ini": {
+    "c": 22,
+    "v": 1
+   },
+   "fim": {
+    "c": 22,
+    "v": 41
+   }
+  },
+  {
+   "id": "NUM.23.1",
+   "titulo": "Os primeiros oráculos de Balaão",
+   "secao": "De Cades às planícies de Moab",
+   "referencia": "Nm 23,1-30",
+   "ini": {
+    "c": 23,
+    "v": 1
+   },
+   "fim": {
+    "c": 23,
+    "v": 30
+   }
+  },
+  {
+   "id": "NUM.24.1",
+   "titulo": "“Nascerá uma estrela de Jacó”",
+   "secao": "De Cades às planícies de Moab",
+   "referencia": "Nm 24,1-25",
+   "ini": {
+    "c": 24,
+    "v": 1
+   },
+   "fim": {
+    "c": 24,
+    "v": 25
+   }
+  },
+  {
+   "id": "NUM.25.1",
+   "titulo": "Baal-Fegor e o zelo de Fineias",
+   "secao": "De Cades às planícies de Moab",
+   "referencia": "Nm 25,1-18",
+   "ini": {
+    "c": 25,
+    "v": 1
+   },
+   "fim": {
+    "c": 25,
+    "v": 18
+   }
+  },
+  {
+   "id": "NUM.26.1",
+   "titulo": "O segundo recenseamento",
+   "secao": "Nas planícies de Moab",
+   "referencia": "Nm 26,1-65",
+   "ini": {
+    "c": 26,
+    "v": 1
+   },
+   "fim": {
+    "c": 26,
+    "v": 65
+   }
+  },
+  {
+   "id": "NUM.27.1",
+   "titulo": "As filhas de Salfaad e a escolha de Josué",
+   "secao": "Nas planícies de Moab",
+   "referencia": "Nm 27,1-23",
+   "ini": {
+    "c": 27,
+    "v": 1
+   },
+   "fim": {
+    "c": 27,
+    "v": 23
+   }
+  },
+  {
+   "id": "NUM.28.1",
+   "titulo": "As ofertas de cada dia e das festas",
+   "secao": "Nas planícies de Moab",
+   "referencia": "Nm 28,1–29,39",
+   "ini": {
+    "c": 28,
+    "v": 1
+   },
+   "fim": {
+    "c": 29,
+    "v": 39
+   }
+  },
+  {
+   "id": "NUM.30.1",
+   "titulo": "A lei dos votos",
+   "secao": "Nas planícies de Moab",
+   "referencia": "Nm 30,1-17",
+   "ini": {
+    "c": 30,
+    "v": 1
+   },
+   "fim": {
+    "c": 30,
+    "v": 17
+   }
+  },
+  {
+   "id": "NUM.31.1",
+   "titulo": "A guerra contra Madiã",
+   "secao": "Nas planícies de Moab",
+   "referencia": "Nm 31,1-54",
+   "ini": {
+    "c": 31,
+    "v": 1
+   },
+   "fim": {
+    "c": 31,
+    "v": 54
+   }
+  },
+  {
+   "id": "NUM.32.1",
+   "titulo": "Rúben e Gad na Transjordânia",
+   "secao": "Nas planícies de Moab",
+   "referencia": "Nm 32,1-42",
+   "ini": {
+    "c": 32,
+    "v": 1
+   },
+   "fim": {
+    "c": 32,
+    "v": 42
+   }
+  },
+  {
+   "id": "NUM.33.1",
+   "titulo": "As etapas do êxodo",
+   "secao": "Nas planícies de Moab",
+   "referencia": "Nm 33,1-56",
+   "ini": {
+    "c": 33,
+    "v": 1
+   },
+   "fim": {
+    "c": 33,
+    "v": 56
+   }
+  },
+  {
+   "id": "NUM.34.1",
+   "titulo": "As fronteiras da terra prometida",
+   "secao": "Nas planícies de Moab",
+   "referencia": "Nm 34,1-29",
+   "ini": {
+    "c": 34,
+    "v": 1
+   },
+   "fim": {
+    "c": 34,
+    "v": 29
+   }
+  },
+  {
+   "id": "NUM.35.1",
+   "titulo": "As cidades dos levitas e as cidades de refúgio",
+   "secao": "Nas planícies de Moab",
+   "referencia": "Nm 35,1-34",
+   "ini": {
+    "c": 35,
+    "v": 1
+   },
+   "fim": {
+    "c": 35,
+    "v": 34
+   }
+  },
+  {
+   "id": "NUM.36.1",
+   "titulo": "A herança das filhas",
+   "secao": "Nas planícies de Moab",
+   "referencia": "Nm 36,1-13",
+   "ini": {
+    "c": 36,
+    "v": 1
+   },
+   "fim": {
+    "c": 36,
+    "v": 13
+   }
+  }
+ ]
+}

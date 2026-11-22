@@ -1,0 +1,57 @@
+{
+  "id": "NUM.20.1",
+  "livro": "NUM",
+  "titulo": "As águas de Meriba e a morte de Aarão",
+  "secao": "De Cades às planícies de Moab",
+  "referencia": "Nm 20,1-30",
+  "ini": {
+    "c": 20,
+    "v": 1
+  },
+  "fim": {
+    "c": 20,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "A água do rochedo e a falta de Moisés e Aarão",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No primeiro mês, o povo chega ao deserto de Sin e fica em Cades; ali morre Maria e é sepultada. Falta água, e o povo se amotina contra Moisés e Aarão: “Por que nos fizestes partir do Egito, e nos conduzistes a este péssimo lugar?” Os dois entram no tabernáculo, prostram-se, e aparece a glória do Senhor. O Senhor diz a Moisés: “Toma a vara, junta o povo… falai ao rochedo diante deles, e ele dará águas.” Moisés reúne a multidão e diz: “Ouvi, rebeldes e incrédulos: Acaso poderemos nós fazer sair água deste rochedo para vós?” E fere duas vezes o rochedo com a vara; saem águas abundantes. Mas o Senhor diz a Moisés e a Aarão: “Porque vós não me crestes para me santificardes diante dos filhos de Israel, não introduzireis estes povos na terra.” São as águas da Contradição, Meriba. Moisés pede passagem a Edom, “teu irmão Israel”, mas Edom recusa e sai armado; Israel desvia-se. No monte Hor, Moisés despe Aarão das vestes sacerdotais e reveste com elas Eleazar; Aarão morre no cume, e todo Israel o chora trinta dias.",
+    "alegorico": "Paulo diz que os israelitas “bebiam de uma pedra espiritual que os seguia; e a pedra era Cristo” (1Cor 10,4). Do lado de Cristo, ferido na cruz uma só vez, brotou a água viva (Jo 19,34); por isso os Padres viram na dupla pancada uma falta de fé, que não precisava ferir de novo o que basta falar. A passagem das vestes de Aarão a Eleazar mostra que o sacerdócio continua, além da morte de quem o exerce.",
+    "moral": "Até os maiores santos podem falhar por impaciência e por atribuir a si o que é de Deus: “poderemos nós fazer sair água?”. A falta de Moisés parece pequena, mas, num chefe, é grave: não santificou a Deus diante do povo. E a morte de Aarão, despojado das vestes, ensina que ninguém é dono do ministério: passa-se adiante o que se recebeu.",
+    "anagogico": "Aarão morre no monte, à vista da terra que não verá; mas o verdadeiro sumo sacerdote, Cristo, entra na terra prometida do céu e nos leva consigo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Por que nos conduzistes a este péssimo lugar?” “Falai ao rochedo diante deles, e ele dará águas.” “Acaso poderemos nós fazer sair água deste rochedo para vós?” “Porque vós não me crestes para me santificardes diante dos filhos de Israel.” “Choraram por ele todas as famílias de Israel, durante trinta dias.”",
+    "meditatio_perguntas": [
+      "Atribuo a mim o que é obra de Deus?",
+      "A impaciência me faz ferir onde bastaria falar?",
+      "Estou disposto a passar adiante, com humildade, o que recebi?"
+    ],
+    "oratio_guia": "Senhor, rocha de onde brota a água viva, dá-me a fé que santifica o teu nome diante dos outros. Livra-me da impaciência e da presunção, e ensina-me a servir sem me apropriar do teu dom. Amém.",
+    "contemplatio_foco": {
+      "texto": "Farás sair água do rochedo, e beberá toda a multidão e os seus animais",
+      "ref": "Nm 20,8"
+    }
+  },
+  "ancoras": {
+    "20:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Contradição” traduz Meribá, “disputa”; cf. Ex 17,7 e Sl 94,8.",
+        "origem": "ia"
+      }
+    },
+    "20:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A passagem das vestes simboliza a sucessão no sumo sacerdócio.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

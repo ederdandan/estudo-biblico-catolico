@@ -1,0 +1,57 @@
+{
+  "id": "NUM.27.1",
+  "livro": "NUM",
+  "titulo": "As filhas de Salfaad e a escolha de Josué",
+  "secao": "Nas planícies de Moab",
+  "referencia": "Nm 27,1-23",
+  "ini": {
+    "c": 27,
+    "v": 1
+  },
+  "fim": {
+    "c": 27,
+    "v": 23
+  },
+  "liturgia": {
+    "tema_central": "As filhas de Salfaad e o pastor que o povo precisa",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "As cinco filhas de Salfaad, da tribo de Manassés, Maala, Noa, Hegla, Melca e Tersa, apresentam-se a Moisés, a Eleazar e aos chefes, à porta do tabernáculo: “Nosso pai morreu no deserto… não teve filhos varões. Por que razão é tirado o seu nome da sua família? … Dai-nos uma propriedade entre os irmãos do nosso pai.” Moisés leva a causa ao Senhor, que responde: “As filhas de Salfaad pedem uma coisa justa”; e faz disso lei: se um homem morre sem filhos, a herança passa à filha; depois aos irmãos, aos tios, ao parente mais próximo. Depois o Senhor diz a Moisés que suba ao monte Abarim para contemplar a terra, e que então morrerá, como Aarão, por causa das águas de Meriba. Moisés não pensa em si, mas no povo: “O Senhor Deus dos espíritos de toda a carne escolha um homem… para que o povo do Senhor não seja como ovelhas sem pastor.” O Senhor indica Josué, “homem no qual reside o meu espírito”. Moisés lhe impõe as mãos diante de Eleazar e de todo o povo e lhe transmite os mandamentos.",
+    "alegorico": "Jesus, vendo a multidão, “teve compaixão dela, porque estavam como ovelhas sem pastor” (Mc 6,34): ele é o pastor que Moisés pediu, e tem o mesmo nome de Josué. A imposição das mãos para transmitir o espírito e a missão anuncia a ordenação na Igreja, pela qual os Apóstolos transmitem o ministério aos sucessores (At 6,6; 2Tm 1,6).",
+    "moral": "As filhas de Salfaad têm a coragem de pedir justiça publicamente, e Deus lhes dá razão: a Lei se desenvolve a partir de um caso concreto e protege quem estava desprotegido. Moisés, ao saber da sua morte, não se lamenta: preocupa-se com o povo e prepara o sucessor. É a marca do verdadeiro pastor: pensar nos outros até o fim e saber passar o bastão.",
+    "anagogico": "Moisés contempla a terra do alto, sem entrar: imagem da esperança que vê de longe e saúda as promessas (Hb 11,13). Só Josué, isto é, Jesus, introduz o povo no repouso."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Por que razão é tirado o seu nome da sua família?” “As filhas de Salfaad pedem uma coisa justa.” “Sobe a este monte Abarim, e contempla de lá a terra.” “Para que o povo do Senhor não seja como ovelhas sem pastor.” “Toma Josué… homem no qual reside o meu espírito, e põe a tua mão sobre ele.”",
+    "meditatio_perguntas": [
+      "Tenho coragem de pedir justiça para mim e para os desprotegidos?",
+      "Penso nos outros mesmo quando sofro?",
+      "Preparo quem continuará o meu serviço, em vez de me agarrar a ele?"
+    ],
+    "oratio_guia": "Senhor, Deus dos espíritos de toda a carne, dá ao teu povo pastores segundo o teu coração, para que não sejamos ovelhas sem pastor. E dá-me pensar nos outros até o fim. Amém.",
+    "contemplatio_foco": {
+      "texto": "para que o povo do Senhor não seja como ovelhas sem pastor",
+      "ref": "Nm 27,17"
+    }
+  },
+  "ancoras": {
+    "27:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O caso das filhas de Salfaad é um exemplo de como a Lei se desenvolvia a partir de casos concretos; ver o complemento em Nm 36.",
+        "origem": "ia"
+      }
+    },
+    "27:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A imposição das mãos transmite autoridade e espírito (cf. Dt 34,9).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

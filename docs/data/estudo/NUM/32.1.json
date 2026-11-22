@@ -1,0 +1,49 @@
+{
+  "id": "NUM.32.1",
+  "livro": "NUM",
+  "titulo": "Rúben e Gad na Transjordânia",
+  "secao": "Nas planícies de Moab",
+  "referencia": "Nm 32,1-42",
+  "ini": {
+    "c": 32,
+    "v": 1
+  },
+  "fim": {
+    "c": 32,
+    "v": 42
+  },
+  "liturgia": {
+    "tema_central": "“Irão vossos irmãos para a batalha, e vós ficareis aqui?”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "As tribos de Rúben e de Gad, com muitos rebanhos, veem que as terras de Jazer e de Galaad, já conquistadas, são boas para o gado, e pedem a Moisés: “não nos faças passar o Jordão.” Moisés se indigna: “Irão vossos irmãos para a batalha, e vós ficareis aqui? Por que quereis tirar ânimo aos filhos de Israel?” Lembra o desânimo dos exploradores e os quarenta anos de castigo. Eles então propõem: construiremos currais e cidades para as famílias, mas “nós, porém, armados e prontos, iremos ao combate na frente dos filhos de Israel” e não voltaremos para casa enquanto todos não tiverem recebido a sua herança. Moisés aceita: se fizerdes isso, sereis irrepreensíveis diante do Senhor e de Israel; “mas, se não fizerdes o que dizeis… ficai sabendo que o vosso pecado vos há-de atingir”. Moisés dá a Rúben, a Gad e a meia tribo de Manassés os reinos de Seon e de Og; eles reconstroem as cidades e lhes dão nomes.",
+    "alegorico": "Os Padres viram nas tribos que ficam aquém do Jordão os cristãos que se contentam com os bens desta vida, sem atravessar para a herança plena. Mas também viram no seu compromisso de combater à frente dos irmãos a solidariedade da Igreja, em que os que já receberam ajudam os que ainda esperam.",
+    "moral": "É fácil instalar-se quando já se tem o que se quer e esquecer os irmãos que ainda lutam. Moisés lembra que o egoísmo desanima os outros. A solução é a solidariedade: ninguém descansa enquanto todos não tiverem a sua parte. E a frase “o vosso pecado vos há-de atingir” lembra que as promessas não cumpridas acabam nos alcançando.",
+    "anagogico": "A herança de uns só é plena quando todos chegam: os santos esperam a ressurreição de todos os irmãos, porque “não chegariam à perfeição sem nós” (Hb 11,40)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não nos faças passar o Jordão.” “Irão vossos irmãos para a batalha, e vós ficareis aqui?” “Iremos ao combate na frente dos filhos de Israel.” “Não voltaremos para as nossas casas, enquanto os filhos de Israel não estiverem de posse da sua herança.” “O vosso pecado vos há-de atingir.”",
+    "meditatio_perguntas": [
+      "Instalei-me no que já tenho, esquecendo os irmãos que ainda lutam?",
+      "O meu comodismo desanima os outros?",
+      "Cumpro o que prometo à comunidade?"
+    ],
+    "oratio_guia": "Senhor, livra-me do comodismo que se contenta com o que já tem. Dá-me lutar ao lado dos irmãos até que todos recebam a sua herança, e cumprir o que prometo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Irão vossos irmãos para a batalha, e vós ficareis aqui",
+      "ref": "Nm 32,6"
+    }
+  },
+  "ancoras": {
+    "32:33": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Transjordânia (Galaad e Basã) ficou com duas tribos e meia; cf. Js 22.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

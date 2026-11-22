@@ -1,0 +1,57 @@
+{
+  "id": "NUM.35.1",
+  "livro": "NUM",
+  "titulo": "As cidades dos levitas e as cidades de refúgio",
+  "secao": "Nas planícies de Moab",
+  "referencia": "Nm 35,1-34",
+  "ini": {
+    "c": 35,
+    "v": 1
+  },
+  "fim": {
+    "c": 35,
+    "v": 34
+  },
+  "liturgia": {
+    "tema_central": "Cidades de refúgio: Deus habita no meio do seu povo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor manda que as tribos deem aos levitas quarenta e oito cidades com os seus arredores para pastagem, em proporção à herança de cada tribo. Seis delas serão cidades de refúgio, três de cada lado do Jordão, para israelitas e estrangeiros: nelas se acolhe quem matou alguém involuntariamente, para que o vingador do sangue não o mate antes do julgamento. A lei distingue o homicídio voluntário, com ferro, pedra ou pau, ou por ódio e traição, que é punido com a morte, do homicídio acidental, “não por ódio nem por inimizade”. O homicida involuntário, julgado pela assembleia, volta à cidade de refúgio e ali fica “até à morte do sumo sacerdote”; depois pode voltar para casa. Ninguém é condenado pelo testemunho de um só. Não se aceita resgate em dinheiro pela vida do homicida. “Não profaneis a terra que habitais, onde também eu habito, porque eu sou o Senhor, que habito entre os filhos de Israel.”",
+    "alegorico": "As cidades de refúgio foram lidas como figura de Cristo e da Igreja: “nós, que nos refugiamos em agarrar-nos à esperança proposta” (Hb 6,18). O homicida só volta livre com a morte do sumo sacerdote: figura da morte de Cristo, sumo sacerdote, que liberta os culpados e os reconduz à casa.",
+    "moral": "A Lei distingue a intenção: matar por ódio não é o mesmo que matar por acidente. É o fundamento da justiça que avalia a culpa, e não só o fato. E protege o culpado involuntário contra a vingança cega, pedindo julgamento e testemunhas. O cristão é chamado a oferecer refúgio, não vingança.",
+    "anagogico": "“Onde também eu habito”: a terra é santa porque Deus habita nela; e a terra nova será plenamente santa porque Deus habitará com os homens para sempre."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A fim de que nelas se acolha aquele que tiver derramado sangue.” “Não por ódio nem por inimizade.” “Ficará até à morte do sumo sacerdote.” “Ninguém será condenado pela deposição de uma só testemunha.” “Eu sou o Senhor, que habito entre os filhos de Israel.”",
+    "meditatio_perguntas": [
+      "Refugio-me em Cristo quando me sinto culpado?",
+      "Sou para os outros cidade de refúgio ou vingador?",
+      "Distingo a intenção dos atos ao julgar os outros?"
+    ],
+    "oratio_guia": "Senhor Jesus, sumo sacerdote cuja morte me liberta, sê o meu refúgio. Faz de mim um lugar de acolhida para os que fogem, e não um vingador. Amém.",
+    "contemplatio_foco": {
+      "texto": "eu sou o Senhor, que habito entre os filhos de Israel",
+      "ref": "Nm 35,34"
+    }
+  },
+  "ancoras": {
+    "35:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As seis cidades estão nomeadas em Js 20,7-8.",
+        "origem": "ia"
+      }
+    },
+    "35:30": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A exigência de duas testemunhas é retomada em Dt 17,6; 19,15 e por Jesus (Mt 18,16).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

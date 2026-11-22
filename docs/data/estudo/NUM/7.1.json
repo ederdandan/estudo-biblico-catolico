@@ -1,0 +1,49 @@
+{
+  "id": "NUM.7.1",
+  "livro": "NUM",
+  "titulo": "As ofertas dos chefes para a dedicação do altar",
+  "secao": "Leis e preparativos para a partida",
+  "referencia": "Nm 7,1-89",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 89
+  },
+  "liturgia": {
+    "tema_central": "A generosidade dos chefes e a voz que fala do propiciatório",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No dia em que Moisés acaba de erguer e ungir o tabernáculo, os chefes das tribos oferecem seis carros cobertos e doze bois para o transporte; Moisés os entrega aos levitas, segundo o serviço de cada família, mas não aos caatitas, “porque servem no santuário, levando as coisas santas aos seus próprios ombros”. Depois, para a dedicação do altar, o Senhor manda que cada chefe apresente a sua oferta num dia. Durante doze dias, de Naasson, da tribo de Judá, até Aira, de Neftali, cada um oferece exatamente a mesma coisa: um prato e uma taça de prata cheios de flor de farinha, uma pequena taça de ouro cheia de incenso, animais para o holocausto, para o pecado e para o sacrifício pacífico. O texto repete por inteiro cada oferta e faz no fim o total. E o capítulo termina: quando Moisés entrava no tabernáculo para falar com o Senhor, “ouvia a voz daquele que lhe falava do propiciatório… entre os dois querubins”.",
+    "alegorico": "Doze ofertas iguais das doze tribos anunciam a Igreja fundada sobre os Doze, onde todos oferecem um só sacrifício. A voz que fala do propiciatório, entre os querubins, prefigura o Verbo que se faz ouvir em Cristo, “propiciação pelos nossos pecados”; e o altar dedicado anuncia o altar cristão, consagrado com as ofertas dos fiéis.",
+    "moral": "A repetição, que parece monótona, ensina uma lição: diante de Deus, nenhuma tribo vale mais que a outra, e cada oferta é registrada por inteiro, como se fosse a única. Deus não se cansa da generosidade de cada um. E o fim de tudo, das ofertas e do altar, é o encontro: escutar a voz de Deus.",
+    "anagogico": "A voz que Moisés ouvia de entre os querubins anuncia o diálogo eterno com Deus face a face, quando já não haverá véu nem propiciatório, porque “o seu trono estará na cidade” (Ap 22,3)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Levando as coisas santas aos seus próprios ombros.” “Cada um dos chefes ofereça cada dia os seus dons para a dedicação do altar.” “Quando Moisés entrava no tabernáculo da reunião, para falar com o Senhor, ouvia a voz daquele que lhe falava do propiciatório.”",
+    "meditatio_perguntas": [
+      "Contribuo com generosidade para a casa de Deus e para a comunidade?",
+      "Creio que Deus vê e registra cada oferta minha, por pequena que seja?",
+      "Entro no “tabernáculo” da oração para escutar a sua voz?"
+    ],
+    "oratio_guia": "Senhor, que acolhes a oferta de cada um como se fosse única, recebe o que te dou. E, quando eu entrar na tua presença, faz-me ouvir a tua voz. Amém.",
+    "contemplatio_foco": {
+      "texto": "ouvia a voz daquele que lhe falava do propiciatório",
+      "ref": "Nm 7,89"
+    }
+  },
+  "ancoras": {
+    "7:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os caatitas carregam as coisas santas aos ombros, não em carros: cf. o erro de 2Sm 6,3.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

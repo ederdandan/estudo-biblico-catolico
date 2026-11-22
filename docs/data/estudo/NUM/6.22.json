@@ -1,0 +1,57 @@
+{
+  "id": "NUM.6.22",
+  "livro": "NUM",
+  "titulo": "A bênção sacerdotal",
+  "secao": "Leis e preparativos para a partida",
+  "referencia": "Nm 6,22-27",
+  "ini": {
+    "c": 6,
+    "v": 22
+  },
+  "fim": {
+    "c": 6,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "“O Senhor te abençoe, e te guarde”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor fala a Moisés e dá a Aarão e a seus filhos a fórmula com que devem abençoar os filhos de Israel: “O Senhor te abençoe, e te guarde. O Senhor te mostre a sua face e tenha piedade de ti. O Senhor volva o seu rosto para ti, e te dê a paz.” E conclui: “Assim invocarão o meu nome sobre os filhos de Israel, e eu os abençoarei.” Três vezes o nome do Senhor é pronunciado sobre o povo; a bênção cresce de uma frase para outra: proteção, graça, paz. O sacerdote é apenas o instrumento: quem abençoa é o próprio Deus.",
+    "alegorico": "Os Padres viram no tríplice nome do Senhor um prenúncio da Santíssima Trindade: o Pai que abençoa e guarda, o Filho que é a face de Deus que se mostra e tem piedade, o Espírito que dá a paz. Cristo, ao subir ao céu, “levantando as mãos, os abençoou” (Lc 24,50). A Igreja proclama esta bênção na liturgia de 1º de janeiro, festa de Santa Maria, Mãe de Deus.",
+    "moral": "Deus quer abençoar o seu povo e quer fazê-lo por meio de pessoas. Abençoar é dizer bem, desejar o bem e invocar o nome de Deus sobre alguém. Os pais podem abençoar os filhos, os amigos uns aos outros. E a bênção suprema é ver a face de Deus voltada para nós: a sua atenção, o seu sorriso, a sua paz.",
+    "anagogico": "“Mostrar a face” é a promessa final: “verão a sua face, e o seu nome estará nas suas frontes” (Ap 22,4). A paz que esta bênção pede é a paz eterna da visão de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Assim abençoareis os filhos de Israel.” “O Senhor te abençoe, e te guarde.” “O Senhor te mostre a sua face e tenha piedade de ti.” “O Senhor volva o seu rosto para ti, e te dê a paz.” “E eu os abençoarei.”",
+    "meditatio_perguntas": [
+      "Deixo-me abençoar por Deus, sentindo a sua face voltada para mim?",
+      "Abençoo os meus, filhos, cônjuge, amigos, em nome de Deus?",
+      "Que paz peço ao Senhor hoje?"
+    ],
+    "oratio_guia": "Senhor, abençoa-me e guarda-me; mostra-me a tua face e tem piedade de mim; volta para mim o teu rosto e dá-me a paz. E faz de mim uma bênção para os outros. Amém.",
+    "contemplatio_foco": {
+      "texto": "O Senhor te abençoe, e te guarde",
+      "ref": "Nm 6,24"
+    }
+  },
+  "ancoras": {
+    "6:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Esta bênção é proclamada na Missa de 1º de janeiro (Solenidade de Santa Maria, Mãe de Deus).",
+        "origem": "ia"
+      }
+    },
+    "6:27": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Invocar o nome” sobre alguém é colocá-lo sob a proteção e a posse de Deus.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

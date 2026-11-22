@@ -1,0 +1,57 @@
+{
+  "id": "NUM.1.1",
+  "livro": "NUM",
+  "titulo": "O recenseamento das tribos",
+  "secao": "O povo organizado no Sinai",
+  "referencia": "Nm 1,1-54",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 54
+  },
+  "liturgia": {
+    "tema_central": "Contados pelo nome: o povo de Deus organizado para a marcha",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No deserto do Sinai, no primeiro dia do segundo mês do segundo ano depois da saída do Egito, o Senhor manda Moisés fazer o recenseamento de toda a congregação, “apontando o nome de cada um dos varões, dos vinte anos para cima, de todos os homens aptos para o serviço das armas”. Moisés e Aarão o fazem com a ajuda de um chefe por tribo, cujos nomes são registrados. O capítulo enumera, tribo por tribo, de Rúben a Neftali, os homens contados. O total é de seiscentos e três mil quinhentos e cinquenta. Os levitas não são contados com os outros: o Senhor os encarrega “de cuidarem do tabernáculo do testemunho e de todos os seus vasos”; são eles que o desarmam e o armam a cada etapa, e acampam ao redor dele, “para que não suceda cair a indignação sobre a multidão dos filhos de Israel”. E os filhos de Israel fizeram tudo conforme o Senhor mandara a Moisés.",
+    "alegorico": "O povo contado nome por nome no deserto é figura da Igreja peregrina, em que cada um é conhecido por Deus: o Bom Pastor “chama as suas ovelhas pelo nome” (Jo 10,3). Os nomes registrados anunciam o “livro da vida” (Ap 20,12). Os levitas que guardam o tabernáculo no centro do acampamento lembram que, no centro da Igreja, está a presença de Deus, guardada por aqueles que ele chamou ao seu serviço.",
+    "moral": "Diante de Deus ninguém é anônimo: cada um é contado, tem nome e tem lugar. A organização não contradiz o Espírito: o povo de Deus precisa de ordem para caminhar. E nem todos têm a mesma função: uns combatem, outros guardam o santuário, todos servem ao mesmo Senhor.",
+    "anagogico": "O recenseamento antes da marcha anuncia a multidão dos eleitos que o Apocalipse também conta, tribo por tribo (Ap 7,4-8), antes de se abrir à “grande multidão que ninguém podia contar” (Ap 7,9)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Fazei o recenseamento de toda a congregação dos filhos de Israel.” “Apontando o nome de cada um.” “Os Levitas, porém, não foram contados com eles.” “Velarão na guarda do tabernáculo do testemunho.” “Os filhos de Israel, pois, fizeram tudo conforme o Senhor tinha mandado a Moisés.”",
+    "meditatio_perguntas": [
+      "Sei que Deus me conhece pelo nome?",
+      "Qual é o meu lugar e a minha função no povo de Deus?",
+      "Aceito a ordem e a organização da Igreja como serviço à sua missão?"
+    ],
+    "oratio_guia": "Senhor, que conheces cada um pelo nome, conta-me no teu povo e dá-me ocupar com fidelidade o lugar que me confiaste. Que o teu tabernáculo esteja sempre no centro da minha vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "Os filhos de Israel, pois, fizeram tudo conforme o Senhor tinha mandado a Moisés",
+      "ref": "Nm 1,54"
+    }
+  },
+  "ancoras": {
+    "1:46": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O número é o mesmo de Ex 38,26; a interpretação destes números elevados é discutida pelos exegetas.",
+        "origem": "ia"
+      }
+    },
+    "1:50": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os levitas servem ao tabernáculo e por isso ficam isentos do serviço militar.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "NUM.36.1",
+  "livro": "NUM",
+  "titulo": "A herança das filhas",
+  "secao": "Nas planícies de Moab",
+  "referencia": "Nm 36,1-13",
+  "ini": {
+    "c": 36,
+    "v": 1
+  },
+  "fim": {
+    "c": 36,
+    "v": 13
+  },
+  "liturgia": {
+    "tema_central": "A herança guardada na família",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Os chefes da família de Galaad, da tribo de Manassés, apresentam a Moisés um problema: as filhas de Salfaad receberam a herança do pai; mas, se casarem com homens de outra tribo, a terra passará para essa tribo, e a herança de Manassés diminuirá, mesmo no jubileu. Moisés responde, por ordem do Senhor: “A tribo dos filhos de José falou bem.” As filhas de Salfaad casem com quem quiserem, “contanto que seja com homens da sua tribo, para que a possessão dos filhos de Israel não passe de tribo para tribo”. Maala, Tersa, Hegla, Melca e Noa casam-se com os filhos de seus tios paternos, e a herança permanece na família. O livro termina: “Estas são as leis e as ordens dadas pelo Senhor por meio de Moisés aos filhos de Israel, nas planícies de Moab, junto do Jordão, defronte de Jericó.”",
+    "alegorico": "A herança que não deve sair da tribo é figura da herança da fé, que se transmite de geração em geração e não deve dispersar-se. A Igreja guarda o “depósito” recebido (1Tm 6,20) para que nada se perca.",
+    "moral": "Uma lei justa pode pedir ajustes quando surgem novas situações: a primeira decisão sobre as filhas de Salfaad é completada sem ser negada. Escutar as objeções razoáveis é sinal de sabedoria. E as filhas de Salfaad obedecem livremente: recebem a herança e a conservam para a família.",
+    "anagogico": "A herança conservada na família anuncia a herança eterna, que ninguém nos tirará, guardada nos céus para os filhos de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“A tribo dos filhos de José falou bem.” “Casem com quem quiserem, contanto que seja com homens da sua tribo.” “Para que a herança fique nas famílias.” “Estas são as leis e as ordens dadas pelo Senhor por meio de Moisés.”",
+    "meditatio_perguntas": [
+      "Guardo e transmito a herança da fé na minha família?",
+      "Sei escutar objeções razoáveis e corrigir decisões?",
+      "Obedeço com liberdade às orientações justas?"
+    ],
+    "oratio_guia": "Senhor, que confiaste ao teu povo uma herança, dá-me guardar e transmitir a fé na minha família, para que nada se perca do que recebemos de ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "para que a possessão dos filhos de Israel não passe de tribo para tribo",
+      "ref": "Nm 36,7"
+    }
+  },
+  "ancoras": {
+    "36:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O jubileu devolvia as terras vendidas, mas não as heranças passadas por casamento; daí o problema.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

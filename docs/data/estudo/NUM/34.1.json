@@ -1,0 +1,57 @@
+{
+  "id": "NUM.34.1",
+  "livro": "NUM",
+  "titulo": "As fronteiras da terra prometida",
+  "secao": "Nas planícies de Moab",
+  "referencia": "Nm 34,1-29",
+  "ini": {
+    "c": 34,
+    "v": 1
+  },
+  "fim": {
+    "c": 34,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "Os limites da herança",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor descreve as fronteiras da terra de Canaã, “quando tiverdes entrado na terra de Canaan, e cada um de vós possuir nela o que lhe tiver caído por sorte”. Ao sul, do deserto de Sin, junto a Edom, a partir do Mar de Sal (o Mar Morto), passando por Cades Barne, até à torrente do Egito e ao mar. A oeste, o Mar Grande, o Mediterrâneo. Ao norte, do Mar Grande ao monte Hor e à entrada de Emat. A leste, de Enan até ao Jordão e ao Mar de Sal. Moisés diz que esta é a terra a ser repartida entre as nove tribos e meia, porque Rúben, Gad e a meia tribo de Manassés já receberam a sua parte do outro lado do Jordão. O Senhor nomeia os responsáveis pela partilha: o sacerdote Eleazar, Josué e um chefe de cada tribo, cujos nomes são registrados, entre eles Caleb, filho de Jefone, de Judá.",
+    "alegorico": "A terra com fronteiras precisas é figura da herança dos santos, que não é vaga nem indefinida: cada um tem um lugar preparado (Jo 14,2). Os Padres viam na terra prometida a Igreja e, em sentido último, o céu. Que Josué e Eleazar repartam a terra anuncia Cristo, rei e sacerdote, que distribui a herança.",
+    "moral": "Deus promete coisas concretas e cumpre com precisão. Conhecer os limites também é uma graça: a herança tem fronteiras, e o desejo de possuir tudo é contrário ao dom. Caleb, que esperou quarenta anos, está entre os que repartem a terra: a fidelidade é recompensada.",
+    "anagogico": "A terra descrita antes de ser possuída é como a pátria celeste anunciada antes de ser vista: “o que os olhos não viram… Deus preparou para os que o amam” (1Cor 2,9)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quando tiverdes entrado na terra de Canaan.” “O que lhe tiver caído por sorte.” “Esta será a terra que vós possuireis.” “Estes são os nomes dos homens, que vos dividirão a terra.”",
+    "meditatio_perguntas": [
+      "Aceito os limites da minha “herança”, ou cobiço o que não me foi dado?",
+      "Confio que Deus preparou um lugar concreto para mim?",
+      "Que promessa de Deus estou esperando com a perseverança de Caleb?"
+    ],
+    "oratio_guia": "Senhor, que traçaste os limites da herança do teu povo, ensina-me a receber com gratidão a parte que me deste e a esperar a herança eterna que preparaste para mim. Amém.",
+    "contemplatio_foco": {
+      "texto": "Esta será a terra que vós possuireis por sorte",
+      "ref": "Nm 34,13"
+    }
+  },
+  "ancoras": {
+    "34:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Mar de Sal” é o Mar Morto.",
+        "origem": "ia"
+      }
+    },
+    "34:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Caleb é o único dos doze exploradores, além de Josué, a participar da partilha.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

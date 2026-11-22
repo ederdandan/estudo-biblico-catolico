@@ -1,0 +1,57 @@
+{
+  "id": "NUM.8.1",
+  "livro": "NUM",
+  "titulo": "O candelabro e a consagração dos levitas",
+  "secao": "Leis e preparativos para a partida",
+  "referencia": "Nm 8,1-26",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "A luz do candelabro e os levitas oferecidos ao Senhor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor manda a Aarão colocar as sete lâmpadas sobre o candelabro de modo que “projetem luz para a parte da frente”. O candelabro era todo de ouro batido, “segundo o modelo que o Senhor mostrou a Moisés”. Segue a consagração dos levitas: são aspergidos com a água da purificação, rapam o corpo e lavam as vestes. Diante de toda a multidão reunida, os filhos de Israel põem as mãos sobre eles, e Aarão os oferece ao Senhor “como um dom dos filhos de Israel”. Os levitas põem as mãos sobre dois bois, um pelo pecado e outro em holocausto. O Senhor diz: “separá-los-ás do meio dos filhos de Israel, para que sejam meus… Eu os recebi em lugar de todos os primogênitos.” Eles servirão no tabernáculo e orarão pelo povo. A lei fixa a idade: dos vinte e cinco aos cinquenta anos no serviço ativo; depois, ajudam os irmãos na guarda.",
+    "alegorico": "A imposição das mãos do povo sobre os levitas anuncia o gesto pelo qual a Igreja ordena os seus ministros (At 6,6; 1Tm 4,14). O candelabro que ilumina para a frente lembra Cristo, luz que ilumina o caminho, e os ministros, que devem fazer brilhar a luz para os outros, não para si.",
+    "moral": "Os ministros não são donos: são “um dom dos filhos de Israel” oferecido a Deus e “dados” para servir. A comunidade os oferece, e eles servem em nome dela. Também a idade tem o seu tempo: há um tempo para o serviço ativo e outro para ajudar e guardar, sem deixar de pertencer a Deus.",
+    "anagogico": "A luz projetada para a frente aponta para a luz que não terá ocaso, quando o Senhor Deus iluminar os seus servos e eles reinarem pelos séculos (Ap 22,5)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Coloca-as de forma que projetem luz para a parte da frente.” “Os filhos de Israel porão as suas mãos sobre eles.” “Para que sejam meus.” “Para me servirem por Israel no tabernáculo da reunião e orarem por eles.”",
+    "meditatio_perguntas": [
+      "A minha luz ilumina os outros ou só a mim?",
+      "Rezo pelos ministros que a comunidade ofereceu a Deus?",
+      "Aceito com serenidade as mudanças de tarefa ao longo da vida?"
+    ],
+    "oratio_guia": "Senhor, que recebeste os levitas como dom do teu povo, santifica os ministros da tua Igreja. E faz que a minha vida, como o candelabro, ilumine o caminho dos irmãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "separá-los-ás do meio dos filhos de Israel, para que sejam meus",
+      "ref": "Nm 8,14"
+    }
+  },
+  "ancoras": {
+    "8:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A imposição das mãos pela comunidade indica que os levitas a representam diante de Deus.",
+        "origem": "ia"
+      }
+    },
+    "8:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Em Nm 4,3 a idade é de trinta anos; aqui, vinte e cinco, talvez incluindo um tempo de preparação.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

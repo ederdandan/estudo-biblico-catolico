@@ -1,0 +1,57 @@
+{
+  "id": "NUM.23.1",
+  "livro": "NUM",
+  "titulo": "Os primeiros oráculos de Balaão",
+  "secao": "De Cades às planícies de Moab",
+  "referencia": "Nm 23,1-30",
+  "ini": {
+    "c": 23,
+    "v": 1
+  },
+  "fim": {
+    "c": 23,
+    "v": 30
+  },
+  "liturgia": {
+    "tema_central": "“Como amaldiçoarei eu a quem Deus não amaldiçoou?”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Balac leva Balaão aos altos de Baal, de onde se vê uma parte do povo. Balaão manda levantar sete altares e oferecer um novilho e um carneiro em cada um; afasta-se, Deus vem ao seu encontro e põe a palavra na sua boca. Diante de Balac e dos príncipes, Balaão pronuncia o oráculo: “Como amaldiçoarei eu a quem Deus não amaldiçoou?… Este povo habitará só, e não será contado entre as nações. Quem poderá contar o pó de Jacob?… Que eu morra da morte dos justos, e que o meu fim seja semelhante ao deles.” Balac protesta: chamei-te para amaldiçoar e tu abençoas! Leva-o ao cume do Fasga e repete os sacrifícios. O segundo oráculo: “Deus não é como o homem, capaz de mentir, nem como o filho do homem, sujeito a mudanças. Ele disse uma coisa, e não a fará?… ele abençoou e eu não posso impedir a bênção… Com ele está o Senhor seu Deus, nele se ouve a aclamação dum rei… Não há magia em Jacob.” Balac diz: “Nem o amaldiçoes, nem o abençoes”, e o leva ainda ao monte Fogor.",
+    "alegorico": "A bênção que nenhum adivinho pode anular anuncia a bênção definitiva de Deus sobre o seu povo em Cristo: “Se Deus é por nós, quem será contra nós?” (Rm 8,31). “Este povo habitará só” foi lido como figura da Igreja, no mundo mas não do mundo (Jo 17,16). A aclamação do rei no meio de Israel prepara a vinda do Messias rei.",
+    "moral": "Ninguém pode amaldiçoar quem Deus abençoou: o cristão não deve temer maldições, feitiços ou superstições. “Deus não é como o homem, capaz de mentir”: a fidelidade de Deus é o fundamento da nossa segurança. E o desejo de Balaão, “que eu morra da morte dos justos”, é bom, mas não basta desejá-lo: é preciso viver como justo.",
+    "anagogico": "“Que o meu fim seja semelhante ao deles”: a morte dos justos é a entrada na vida. Pedir uma boa morte é pedir a perseverança final na graça."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Como amaldiçoarei eu a quem Deus não amaldiçoou?” “Este povo habitará só.” “Que eu morra da morte dos justos.” “Deus não é como o homem, capaz de mentir.” “Ele abençoou e eu não posso impedir a bênção.” “Não há magia em Jacob.”",
+    "meditatio_perguntas": [
+      "Vivo com medo de maldições ou superstições, esquecendo que Deus me abençoou?",
+      "Confio na fidelidade de Deus, que não muda?",
+      "Desejo a morte dos justos, e vivo de modo a alcançá-la?"
+    ],
+    "oratio_guia": "Senhor, que não és como o homem para mentir nem para mudar, guarda-me sob a tua bênção e livra-me de todo temor. Dá-me viver como justo e morrer a morte dos justos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Que eu morra da morte dos justos, e que o meu fim seja semelhante ao deles",
+      "ref": "Nm 23,10"
+    }
+  },
+  "ancoras": {
+    "23:19": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 1Sm 15,29; Tg 1,17: em Deus não há mudança.",
+        "origem": "ia"
+      }
+    },
+    "23:23": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Lei proíbe a adivinhação em Israel (Dt 18,10-12).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

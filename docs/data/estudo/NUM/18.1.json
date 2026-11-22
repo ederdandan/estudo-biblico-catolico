@@ -1,0 +1,49 @@
+{
+  "id": "NUM.18.1",
+  "livro": "NUM",
+  "titulo": "A parte dos sacerdotes e dos levitas",
+  "secao": "Murmurações no deserto",
+  "referencia": "Nm 18,1-32",
+  "ini": {
+    "c": 18,
+    "v": 1
+  },
+  "fim": {
+    "c": 18,
+    "v": 32
+  },
+  "liturgia": {
+    "tema_central": "“Eu sou a tua parte e a tua herança”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Respondendo ao medo do povo, o Senhor diz a Aarão que ele e seus filhos “levarão a iniquidade do santuário”: são responsáveis pelo culto, para que a ira não caia sobre o povo. Os levitas os ajudam no serviço do tabernáculo, mas não se aproximam do altar nem dos vasos santos; são dados aos sacerdotes como um dom. Aos sacerdotes cabe a guarda das primícias e das coisas consagradas: as partes das ofertas, as primícias do azeite, do vinho e do trigo, os primogênitos, que são resgatados. E o Senhor diz a Aarão: “Tu não possuirás nada na sua terra, nem terás parte alguma entre eles; eu sou a tua parte e a tua herança no meio dos filhos de Israel.” Aos levitas são dados os dízimos de Israel em troca do seu serviço, e eles devem, por sua vez, oferecer ao Senhor o dízimo dos dízimos, “o melhor e o mais escolhido”.",
+    "alegorico": "“Eu sou a tua parte e a tua herança” ressoa no Salmo 15: “O Senhor é a parte da minha herança e do meu cálice”, que a Igreja usou por séculos no rito da tonsura dos clérigos. Cristo, que “não tinha onde reclinar a cabeça” (Mt 8,20), viveu esta pobreza de quem tem a Deus por herança.",
+    "moral": "Quem serve a Deus de modo especial é chamado a não pôr o coração nas posses: Deus mesmo é a sua herança. E o povo tem o dever de sustentar os que o servem. Mas também os levitas devem dar o dízimo do que recebem, e “o melhor”: ninguém está dispensado de dar a Deus.",
+    "anagogico": "Ter a Deus por herança é a promessa final de todos os santos: no céu ninguém possui terra, mas todos possuem a Deus, a herança incorruptível (1Pd 1,4)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Levareis a iniquidade do santuário.” “Dados ao Senhor, vos são entregues de novo, como oferta.” “Eu sou a tua parte e a tua herança no meio dos filhos de Israel.” “Será o melhor e o mais escolhido.”",
+    "meditatio_perguntas": [
+      "Posso dizer com sinceridade que o Senhor é a minha herança?",
+      "Contribuo para o sustento dos que servem a Deus?",
+      "Dou a Deus “o melhor” do que recebo?"
+    ],
+    "oratio_guia": "Senhor, sê tu a minha parte e a minha herança. Desapega o meu coração das posses e dá-me generosidade para sustentar os que te servem. Amém.",
+    "contemplatio_foco": {
+      "texto": "eu sou a tua parte e a tua herança no meio dos filhos de Israel",
+      "ref": "Nm 18,20"
+    }
+  },
+  "ancoras": {
+    "18:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. Sl 15,5; Dt 10,9; Js 13,33; Ez 44,28.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

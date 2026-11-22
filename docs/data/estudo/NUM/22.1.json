@@ -1,0 +1,57 @@
+{
+  "id": "NUM.22.1",
+  "livro": "NUM",
+  "titulo": "Balaão e a jumenta",
+  "secao": "De Cades às planícies de Moab",
+  "referencia": "Nm 22,1-41",
+  "ini": {
+    "c": 22,
+    "v": 1
+  },
+  "fim": {
+    "c": 22,
+    "v": 41
+  },
+  "liturgia": {
+    "tema_central": "A jumenta que vê o anjo: Deus abre os olhos do vidente cego",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Israel acampa nas planícies de Moab, diante de Jericó. Balac, rei de Moab, aterrado, manda chamar Balaão, adivinho famoso, para amaldiçoar o povo: “Eu sei que será bendito aquele a quem tu abençoares, e maldito aquele a quem lançares maldições.” Deus diz a Balaão: “Não vás com eles, nem amaldiçoes o povo, porque é bendito.” Balac manda emissários mais ilustres e promete honras; Balaão responde: “Ainda que Balac me desse a sua casa cheia de prata e de ouro, eu não poderei alterar a palavra do Senhor meu Deus”, mas pede que fiquem mais uma noite. Deus lhe permite ir, com a condição de dizer só o que ele mandar. No caminho, porém, o anjo do Senhor se põe diante dele com a espada desembainhada. A jumenta vê o anjo e se desvia três vezes: para o campo, contra o muro, apertando o pé de Balaão, e por fim deita-se. Balaão a espanca. “O Senhor abriu a boca da jumenta, que disse: Que te fiz eu? Por que me feres?” Então o Senhor abre os olhos de Balaão, que vê o anjo e se prostra. O anjo diz: “o teu caminho é perverso”. Balaão reconhece: “Eu pequei.” O anjo o deixa ir: “não digas senão o que eu te mandar.” Balaão diz a Balac: “Poderei eu dizer outra coisa, que não seja o que Deus me puser na boca?”",
+    "alegorico": "Os Padres viram na jumenta, que vê o anjo enquanto o profeta não vê, a figura dos simples e dos pagãos que reconhecem o Senhor enquanto os sábios permanecem cegos: “escondeste estas coisas aos sábios e as revelaste aos pequeninos” (Mt 11,25). Balaão é para o Novo Testamento o tipo do falso profeta movido pelo lucro: “amou o salário da iniquidade, mas foi repreendido… um animal mudo, falando com voz humana, conteve a loucura do profeta” (2Pd 2,15-16; cf. Jd 11; Ap 2,14).",
+    "moral": "Balaão diz palavras certas, “não posso alterar a palavra do Senhor”, mas o seu coração está dividido: pede mais uma noite, esperando que Deus mude de ideia, porque deseja a prata de Balac. A ambição cega; um animal vê melhor que ele. Deus pode usar qualquer coisa, até uma jumenta, para nos deter no caminho errado. Os obstáculos que nos irritam às vezes são o anjo que nos salva.",
+    "anagogico": "O anjo de espada no caminho lembra que todo caminho “perverso” encontrará, no fim, o juízo de Deus; e que só quem tem os olhos abertos pela graça verá o que está diante de si."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não amaldiçoes o povo, porque é bendito.” “Ainda que Balac me desse a sua casa cheia de prata e de ouro…” “O Senhor abriu a boca da jumenta.” “De repente abriu o Senhor os olhos de Balaão.” “Eu pequei.” “Poderei eu dizer outra coisa, que não seja o que Deus me puser na boca?”",
+    "meditatio_perguntas": [
+      "Peço a Deus “mais uma noite” esperando que ele mude o que já disse?",
+      "Que “jumenta” Deus usa para me deter no caminho errado?",
+      "A ambição me cega para o que os simples veem?"
+    ],
+    "oratio_guia": "Senhor, abre os meus olhos como abriste os de Balaão, para que eu veja o teu anjo no caminho. Livra-me da ambição que divide o coração e põe na minha boca só a tua palavra. Amém.",
+    "contemplatio_foco": {
+      "texto": "poderei eu dizer outra coisa, que não seja o que Deus me puser na boca",
+      "ref": "Nm 22,38"
+    }
+  },
+  "ancoras": {
+    "22:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Uma inscrição do séc. VIII a.C. achada em Deir Alla (Jordânia) menciona “Balaão, filho de Beor, vidente dos deuses”.",
+        "origem": "ia"
+      }
+    },
+    "22:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cf. 2Pd 2,16.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

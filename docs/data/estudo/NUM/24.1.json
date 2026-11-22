@@ -1,0 +1,57 @@
+{
+  "id": "NUM.24.1",
+  "livro": "NUM",
+  "titulo": "“Nascerá uma estrela de Jacó”",
+  "secao": "De Cades às planícies de Moab",
+  "referencia": "Nm 24,1-25",
+  "ini": {
+    "c": 24,
+    "v": 1
+  },
+  "fim": {
+    "c": 24,
+    "v": 25
+  },
+  "liturgia": {
+    "tema_central": "“Nascerá uma estrela de Jacob”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Vendo que agrada ao Senhor abençoar Israel, Balaão não vai mais procurar agouros; volta o rosto para o deserto e vê Israel acampado por tribos, e “o Espírito de Deus” vem sobre ele. Diz o seu oráculo: “palavra do homem que tem os olhos fechados… que cai e que se lhe abrem os olhos: Que formosos são os teus pavilhões, ó Jacob, e as tuas tendas, ó Israel! Alargam-se como extensos vales, como jardins junto dos rios… Quem te abençoar, será também bendito; quem te amaldiçoar, será tido por amaldiçoado.” Balac, furioso, bate as mãos e o despede sem as honras prometidas. Balaão responde que não podia transgredir a palavra do Senhor, e anuncia o que esse povo fará “no fim dos tempos”: “Eu o verei, mas não agora, eu o contemplarei, mas não de perto. Nascerá uma estrela de Jacob, e levantar-se-á cetro de Israel, que ferirá os dois flancos de Moab… De Jacob sairá um dominador.” Seguem oráculos breves sobre Amalec, os cineus e os povos que virão de Citim. E cada um volta para a sua terra.",
+    "alegorico": "Esta é uma das grandes profecias messiânicas. A tradição judaica e cristã viu na “estrela de Jacob” o Messias. Os Magos do Oriente, de onde Balaão viera, seguem uma estrela até Belém (Mt 2,2), e Cristo se apresenta como “a estrela resplandecente da manhã” (Ap 22,16). O cetro de Israel retoma a bênção de Judá (Gn 49,10).",
+    "moral": "Até um pagão ambicioso foi instrumento da profecia: Deus fala por quem quer. Mas Balaão vê “não de perto”: é possível conhecer a verdade sem se converter a ela. O que importa não é só ver a estrela, é segui-la, como fizeram os Magos. As tendas formosas de Israel são as de um povo ordenado em torno de Deus: a beleza da Igreja é a sua santidade.",
+    "anagogico": "“Eu o verei, mas não agora”: é a condição de toda a humanidade que espera; o Advento da Igreja aponta para a manifestação final, quando a Estrela da manhã se levantar sem ocaso."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vendo sobre ele o Espírito de Deus.” “Que formosos são os teus pavilhões, ó Jacob, e as tuas tendas, ó Israel!” “Eu o verei, mas não agora, eu o contemplarei, mas não de perto.” “Nascerá uma estrela de Jacob, e levantar-se-á cetro de Israel.”",
+    "meditatio_perguntas": [
+      "Vejo a estrela de Cristo apenas de longe, ou ponho-me a caminho como os Magos?",
+      "Reconheço a beleza da Igreja, apesar das suas misérias?",
+      "Deixo Deus abrir os meus “olhos fechados”?"
+    ],
+    "oratio_guia": "Senhor Jesus, estrela que nasceu de Jacob, não quero ver-te só de longe: guia-me como guiaste os Magos, até te adorar de perto. Amém.",
+    "contemplatio_foco": {
+      "texto": "Nascerá uma estrela de Jacob, e levantar-se-á ceptro de Israel",
+      "ref": "Nm 24,17"
+    }
+  },
+  "ancoras": {
+    "24:17": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O líder judeu da revolta de 132 d.C. foi chamado Bar Kochba, “filho da estrela”, a partir deste versículo.",
+        "origem": "ia"
+      }
+    },
+    "24:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citim designa Chipre e, por extensão, os povos do Ocidente.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

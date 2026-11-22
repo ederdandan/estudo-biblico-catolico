@@ -1,0 +1,49 @@
+{
+  "id": "NUM.2.1",
+  "livro": "NUM",
+  "titulo": "O acampamento ao redor do tabernáculo",
+  "secao": "O povo organizado no Sinai",
+  "referencia": "Nm 2,1-34",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 34
+  },
+  "liturgia": {
+    "tema_central": "Deus no centro: as tribos acampadas ao redor do tabernáculo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor dispõe o acampamento: “Os filhos de Israel acamparão em volta do tabernáculo da aliança cada um segundo as suas turmas, as suas insígnias, os seus estandartes.” Ao oriente, Judá, com Issacar e Zabulon, sob o príncipe Naasson, filho de Aminadab; são os primeiros a partir. Ao sul, Rúben, com Simeão e Gad. No meio da marcha vão os levitas com o tabernáculo. Ao ocidente, Efraim, com Manassés e Benjamim. Ao norte, Dan, com Aser e Neftali, os últimos a partir. Cada grupo tem o seu número e o seu chefe. O total é o mesmo: seiscentos e três mil e quinhentos e cinquenta, sem contar os levitas. “Os filhos de Israel fizeram tudo segundo o que o Senhor tinha mandado. Acamparam segundo as suas turmas, e marcharam segundo as famílias e casas de seus pais.”",
+    "alegorico": "O acampamento em quadrado, com o tabernáculo no centro e as doze tribos ao redor, prefigura a Jerusalém celeste, cidade quadrada com doze portas e o Cordeiro no meio (Ap 21,12-16.22). Judá, que vai à frente, a tribo de Davi e do Messias, anuncia Cristo, “o Leão da tribo de Judá” (Ap 5,5), que guia o seu povo.",
+    "moral": "Quando Deus está no centro, cada um encontra o seu lugar. A vida pessoal e comunitária se ordena a partir do que está no meio: se é Deus, tudo se harmoniza; se é outra coisa, tudo se desagrega. Cada tribo tem a sua insígnia, a sua identidade, mas todas olham para o mesmo centro.",
+    "anagogico": "O acampamento ordenado em torno da presença de Deus é imagem do céu, onde todas as nações, cada uma com a sua glória, estarão reunidas em torno do trono (Ap 7,9-10)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Os filhos de Israel acamparão em volta do tabernáculo da aliança.” “Judá assentará as suas tendas ao oriente.” “Acamparam segundo as suas turmas, e marcharam segundo as famílias e casas de seus pais.”",
+    "meditatio_perguntas": [
+      "O que está no centro do “acampamento” da minha vida?",
+      "Na minha comunidade, cada um olha para Deus ou para si mesmo?",
+      "Sigo Cristo, que vai à frente como Judá?"
+    ],
+    "oratio_guia": "Senhor, sê o centro da minha vida e da minha família. Ordena tudo em mim ao redor da tua presença, e faz-me caminhar contigo como parte do teu povo. Amém.",
+    "contemplatio_foco": {
+      "texto": "Os filhos de Israel acamparão em volta do tabernáculo da aliança",
+      "ref": "Nm 2,2"
+    }
+  },
+  "ancoras": {
+    "2:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Naasson, filho de Aminadab, figura na genealogia de Davi e de Jesus (Rt 4,20; Mt 1,4).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

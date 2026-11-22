@@ -1,0 +1,57 @@
+{
+  "id": "NUM.31.1",
+  "livro": "NUM",
+  "titulo": "A guerra contra Madiã",
+  "secao": "Nas planícies de Moab",
+  "referencia": "Nm 31,1-54",
+  "ini": {
+    "c": 31,
+    "v": 1
+  },
+  "fim": {
+    "c": 31,
+    "v": 54
+  },
+  "liturgia": {
+    "tema_central": "A guerra contra Madiã e a oferta dos chefes",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O Senhor diz a Moisés: “Vinga primeiro os filhos de Israel dos Madianitas, e depois serás unido ao teu povo.” Mil homens de cada tribo partem com Fineias, que leva os vasos santos e as trombetas. Vencem Madiã, matam os cinco reis e também Balaão, filho de Beor; levam mulheres, crianças, gado e bens, e queimam as cidades. Moisés se irrita com os chefes por terem poupado as mulheres que, “por sugestão de Balaão”, seduziram Israel em Fegor, e manda executá-las, poupando as jovens. Os guerreiros ficam sete dias fora do acampamento para se purificarem, eles e os objetos, pelo fogo ou pela água. O despojo é repartido ao meio entre os combatentes e a comunidade, e de cada parte se tira um tributo para o Senhor. Os chefes contam os seus homens: “nem um faltou”. Em ação de graças, oferecem ao Senhor o ouro encontrado, braceletes, anéis, arrecadas e colares, “para que rogues por nós ao Senhor”; Moisés e Eleazar o põem no tabernáculo “como memória dos filhos de Israel diante do Senhor”.",
+    "alegorico": "Esta guerra pertence à pedagogia de um tempo em que Israel devia ser protegido da idolatria a qualquer custo. Os Padres a leram espiritualmente: a guerra contra Madiã é o combate contra os vícios que seduziram a alma, e que não se podem “poupar”. O fim de Balaão mostra a sorte de quem conhece a verdade e a vende.",
+    "moral": "O texto choca a consciência cristã, e deve ser lido à luz de Cristo, que pede amar os inimigos. A Igreja ensina que tais páginas refletem uma etapa imperfeita da revelação, “coisas imperfeitas e transitórias” (Dei Verbum 15). Mas a lição permanece: não se faz pacto com o que nos leva ao pecado. E a ação de graças dos chefes, que reconhecem que “nem um faltou”, ensina a oferecer a Deus os frutos das vitórias.",
+    "anagogico": "O despojo oferecido “como memória diante do Senhor” aponta para a vitória definitiva de Cristo, que, “despojando os principados e as potestades, os expôs publicamente, triunfando deles” (Cl 2,15)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Vinga primeiro os filhos de Israel dos Madianitas.” “Mataram também com a espada a Balaão, filho de Beor.” “Nem um faltou.” “Para que rogues por nós ao Senhor.” “Como memória dos filhos de Israel diante do Senhor.”",
+    "meditatio_perguntas": [
+      "Há algum “Madiã”, um vício que me seduz, com o qual faço pactos?",
+      "Leio as páginas difíceis da Bíblia à luz de Cristo?",
+      "Reconheço e agradeço a Deus as vitórias que me deu?"
+    ],
+    "oratio_guia": "Senhor Jesus, vencedor do pecado e da morte, dá-me força contra os vícios que me seduzem, e faz que eu te ofereça, em ação de graças, os frutos de cada vitória. Amém.",
+    "contemplatio_foco": {
+      "texto": "Nós, teus servos, fizemos a resenha dos combatentes, que comandávamos, e nem um faltou",
+      "ref": "Nm 31,49"
+    }
+  },
+  "ancoras": {
+    "31:8": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Balaão morreu entre os madianitas; cf. Nm 31,16 e Ap 2,14.",
+        "origem": "ia"
+      }
+    },
+    "31:27": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A partilha do despojo entre combatentes e comunidade será retomada por Davi (1Sm 30,24).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "NUM.33.1",
+  "livro": "NUM",
+  "titulo": "As etapas do êxodo",
+  "secao": "Nas planícies de Moab",
+  "referencia": "Nm 33,1-56",
+  "ini": {
+    "c": 33,
+    "v": 1
+  },
+  "fim": {
+    "c": 33,
+    "v": 56
+  },
+  "liturgia": {
+    "tema_central": "As etapas do caminho, lembradas uma a uma",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "“Estas são as paragens dos filhos de Israel, que saíram do Egito.” Moisés as escreveu, “segundo os lugares dos acampamentos, que eles mudavam ao mandado do Senhor”. Partiram de Ramessés no dia quinze do primeiro mês, “com a mão levantada, à vista de todos os Egípcios, que sepultavam os seus primogênitos”. Segue a lista de cerca de quarenta etapas: Socot, Etam, o mar, Mara com as suas águas amargas, Elim com as doze fontes e setenta palmeiras, o deserto de Sin, Rafidim, onde não havia água, o Sinai, e muitos outros lugares, até Cades, o monte Hor, onde morreu Aarão aos cento e vinte e três anos, e as planícies de Moab, defronte de Jericó. Ali o Senhor manda: ao passar o Jordão, expulsai os habitantes, destruí os ídolos e os lugares altos, e reparti a terra por sorte; “se vós não quiserdes expulsar os habitantes do país, os que ficarem serão para vós como espinhos nos olhos, e aguilhões nas ilhargas”.",
+    "alegorico": "Orígenes e São Jerônimo comentaram estas etapas como as “mansões” da alma que sai do Egito do pecado e sobe, etapa por etapa, até à terra prometida da contemplação. Cada nome é uma estação no caminho espiritual: amarguras como Mara, consolações como Elim, provas e revelações.",
+    "moral": "Recordar o caminho percorrido é parte da fé: Deus conduziu cada etapa, as doces e as amargas. Fazer memória das “paragens” da própria vida ajuda a reconhecer a fidelidade de Deus. E a advertência final vale para a vida espiritual: o que não se arranca, os vícios tolerados, torna-se espinho nos olhos.",
+    "anagogico": "As etapas do deserto terminam diante do Jordão; as da vida terminam diante da passagem da morte, além da qual está a terra prometida."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Estas são as paragens dos filhos de Israel.” “Que eles mudavam ao mandado do Senhor.” “Partiram de Ramessés com a mão levantada.” “Os que ficarem serão para vós como espinhos nos olhos.”",
+    "meditatio_perguntas": [
+      "Quais foram as “paragens” da minha vida, e como Deus esteve em cada uma?",
+      "Faço memória agradecida do caminho percorrido?",
+      "Que vícios tolerados se tornaram espinhos nos meus olhos?"
+    ],
+    "oratio_guia": "Senhor, que conduziste o teu povo etapa por etapa, eu te agradeço por cada paragem da minha vida. Ajuda-me a arrancar o que me fere e conduz-me até à tua terra. Amém.",
+    "contemplatio_foco": {
+      "texto": "Estas são as paragens dos filhos de Israel, que saíram do Egito",
+      "ref": "Nm 33,1"
+    }
+  },
+  "ancoras": {
+    "33:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Única passagem do Pentateuco (com Ex 17,14; 24,4; Dt 31,9) que atribui explicitamente a Moisés a escrita.",
+        "origem": "ia"
+      }
+    },
+    "33:38": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Única data precisa da morte de Aarão: primeiro dia do quinto mês do quadragésimo ano.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

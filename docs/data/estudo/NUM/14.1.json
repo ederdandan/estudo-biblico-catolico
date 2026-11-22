@@ -1,0 +1,57 @@
+{
+  "id": "NUM.14.1",
+  "livro": "NUM",
+  "titulo": "A revolta e os quarenta anos no deserto",
+  "secao": "Murmurações no deserto",
+  "referencia": "Nm 14,1-45",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 45
+  },
+  "liturgia": {
+    "tema_central": "“O Senhor está connosco, não temais”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O povo chora a noite inteira e murmura: “Oxalá que nós tivéssemos morrido no Egito… Escolhamos um chefe, e voltemos para o Egito.” Moisés e Aarão prostram-se diante da multidão. Josué e Caleb rasgam as vestes: “A terra que nós percorremos é muito boa. Se o Senhor nos for propício introduzir-nos-á nela… Não sejais rebeldes contra o Senhor, nem temais o povo desta terra… o Senhor está connosco, não temais.” O povo quer apedrejá-los, mas aparece a glória do Senhor. O Senhor quer destruir o povo e fazer de Moisés uma nação maior; Moisés intercede, lembrando a honra do nome de Deus diante das nações e a sua palavra: “O Senhor é paciente e de muita misericórdia… Perdoa, te suplico, o pecado deste povo.” O Senhor responde: “Eu perdoei conforme o teu pedido”, mas nenhum dos que o tentaram dez vezes verá a terra, exceto Caleb, “que cheio de outro espírito me seguiu”, e Josué. Os filhos entrarão; os pais morrerão no deserto: quarenta anos, um ano por cada dia de exploração. Os exploradores difamadores morrem. No dia seguinte, o povo quer subir por conta própria; Moisés avisa que o Senhor não está com eles; são derrotados até Horma.",
+    "alegorico": "A Carta aos Hebreus faz deste episódio uma advertência à Igreja: “não endureçais os vossos corações, como no tempo da rebelião… aqueles cujos cadáveres caíram no deserto” não entraram no repouso por causa da incredulidade (Hb 3,7-19). Moisés que intercede e oferece a sua vida em lugar do povo anuncia Cristo intercessor.",
+    "moral": "A incredulidade não é só falta de informação: é recusa de confiar depois de ter visto os prodígios de Deus. Deus perdoa, mas o pecado deixa consequências: a geração incrédula não entra. E há duas tentações opostas: recusar a ordem de Deus por medo e, depois, querer realizá-la à força, sem ele. A obediência fora do tempo de Deus também é desobediência.",
+    "anagogico": "O repouso que a geração incrédula não alcançou permanece prometido: “resta um repouso sabático para o povo de Deus” (Hb 4,9), e só entra nele quem crê."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Escolhamos um chefe, e voltemos para o Egito.” “O Senhor está connosco, não temais.” “O Senhor é paciente e de muita misericórdia.” “Eu perdoei conforme o teu pedido.” “O meu servo Caleb, que cheio de outro espírito me seguiu.”",
+    "meditatio_perguntas": [
+      "Já quis “voltar para o Egito” diante da dificuldade?",
+      "Intercedo pelos outros como Moisés, ou os condeno?",
+      "Faço as coisas de Deus no tempo dele, ou no meu?"
+    ],
+    "oratio_guia": "Senhor, paciente e cheio de misericórdia, perdoa a minha incredulidade e dá-me o outro espírito de Caleb, que te segue de todo o coração. Que eu não endureça o coração no dia da prova. Amém.",
+    "contemplatio_foco": {
+      "texto": "o Senhor está connosco, não temais",
+      "ref": "Nm 14,9"
+    }
+  },
+  "ancoras": {
+    "14:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Moisés cita a autorrevelação de Deus no Sinai (Ex 34,6-7).",
+        "origem": "ia"
+      }
+    },
+    "14:34": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Daí os quarenta anos do deserto, que darão sentido aos quarenta dias de Jesus no deserto.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

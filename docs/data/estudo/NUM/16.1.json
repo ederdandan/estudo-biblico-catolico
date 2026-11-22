@@ -1,0 +1,57 @@
+{
+  "id": "NUM.16.1",
+  "livro": "NUM",
+  "titulo": "A rebelião de Coré, Datã e Abirão",
+  "secao": "Murmurações no deserto",
+  "referencia": "Nm 16,1-50",
+  "ini": {
+    "c": 16,
+    "v": 1
+  },
+  "fim": {
+    "c": 16,
+    "v": 50
+  },
+  "liturgia": {
+    "tema_central": "Coré e os rebeldes; Aarão entre os mortos e os vivos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Coré, levita, com Datã e Abirão, da tribo de Rúben, e duzentos e cinquenta chefes, levantam-se contra Moisés e Aarão: “todo este povo é santo, e o Senhor está no meio de todos; por que vos elevais vós sobre o povo do Senhor?” Moisés prostra-se e propõe a prova: amanhã cada um traga o seu turíbulo com incenso, e o Senhor mostrará quem escolheu. E diz aos levitas: acaso é pouco para vós servir no tabernáculo, que quereis também o sacerdócio? Datã e Abirão recusam-se a vir: “não vamos”, e acusam Moisés de os ter tirado de uma terra que mana leite e mel. Diante da glória do Senhor, Moisés e Aarão intercedem: “acaso pelo pecado de um só se acenderá a tua ira contra todos?” O povo se afasta das tendas dos rebeldes; Moisés diz que, se a terra os engolir, saberão que ele foi enviado pelo Senhor. A terra se abre e os engole com as suas tendas; um fogo do Senhor consome os duzentos e cinquenta. Os turíbulos são transformados em lâminas para o altar, como sinal. No dia seguinte, o povo murmura: “Vós matastes o povo do Senhor.” Começa uma praga; Moisés manda Aarão correr com o turíbulo: ele “estando de pé entre os mortos e vivos, rogou pelo povo, e a praga cessou”.",
+    "alegorico": "Aarão de pé entre os mortos e os vivos, com o incenso da intercessão, é uma das mais belas figuras de Cristo mediador, que se coloca entre o pecado e a morte para salvar o povo. Judas menciona “a contradição de Coré” como imagem dos que se rebelam contra a ordem estabelecida por Deus na Igreja (Jd 11).",
+    "moral": "A rebelião de Coré usa uma verdade, “todo o povo é santo”, para negar outra, a vocação específica dada por Deus. A inveja das funções alheias destrói a comunidade. Moisés responde prostrando-se e intercedendo, não se defendendo com violência. E Aarão, acusado pelo povo, corre para salvá-lo: o verdadeiro pastor ama até os que o rejeitam.",
+    "anagogico": "O abismo que engole os rebeldes é imagem do juízo; e o sacerdote que faz cessar a praga, figura de Cristo que, no último dia, separará para sempre a morte da vida."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Por que vos elevais vós sobre o povo do Senhor?” “Acaso é pouco para vós…?” “Acaso pelo pecado de um só se acenderá a tua ira contra todos?” “Estando de pé entre os mortos e vivos, rogou pelo povo, e a praga cessou.”",
+    "meditatio_perguntas": [
+      "Invejo as funções e os dons dos outros na Igreja?",
+      "Contento-me com a vocação que recebi, ou acho “pouco”?",
+      "Intercedo pelos que me rejeitam, como Aarão?"
+    ],
+    "oratio_guia": "Senhor, livra-me da inveja que se disfarça de zelo. Dá-me contentar-me com a minha vocação e interceder, como Aarão, pelos que estão entre a morte e a vida. Amém.",
+    "contemplatio_foco": {
+      "texto": "estando de pé entre os mortos e vivos, rogou pelo povo, e a praga cessou",
+      "ref": "Nm 16,48"
+    }
+  },
+  "ancoras": {
+    "16:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Matos Soares segue a Vulgata: Nm 16,36-50 corresponde a Nm 17,1-15 das edições hebraicas.",
+        "origem": "ia"
+      }
+    },
+    "16:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Deus dos espíritos de toda a carne”: título que exprime o senhorio de Deus sobre toda vida.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "NUM.26.1",
+  "livro": "NUM",
+  "titulo": "O segundo recenseamento",
+  "secao": "Nas planícies de Moab",
+  "referencia": "Nm 26,1-65",
+  "ini": {
+    "c": 26,
+    "v": 1
+  },
+  "fim": {
+    "c": 26,
+    "v": 65
+  },
+  "liturgia": {
+    "tema_central": "Uma nova geração diante da terra prometida",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Depois da praga de Baal-Fegor, o Senhor manda Moisés e o sacerdote Eleazar fazer um novo recenseamento, nas planícies de Moab, junto ao Jordão, defronte de Jericó: todos os homens de vinte anos para cima, aptos para a guerra. O capítulo percorre as tribos, de Rúben a Neftali, citando os clãs e lembrando episódios: Datã e Abirão engolidos pela terra com Coré, “e os filhos de Coré não pereceram”; Her e Onã, mortos em Canaã; as filhas de Salfaad, que não teve filhos varões. O total é de seiscentos e um mil setecentos e trinta. O Senhor diz que a terra será repartida segundo o número de cada tribo, mas por sorte. Os levitas são contados à parte, vinte e três mil, porque não recebem herança; a genealogia recorda Amram e Jocabed, pais de Aarão, Moisés e Maria. E a nota final: “Entre eles não se achou nenhum daqueles que tinham sido recenseados antes… no deserto do Sinai… excepto Caleb… e Josué.”",
+    "alegorico": "A geração que morreu no deserto e a nova que entra na terra figuram a passagem do homem velho ao homem novo: no Batismo morre o velho Adão e nasce o filho de Deus. A herança repartida por sorte lembra que a herança dos santos é dom, não conquista: “a sorte me coube em lugares deliciosos” (Sl 15,6).",
+    "moral": "Deus cumpre as suas palavras, tanto as de castigo quanto as de promessa. A geração incrédula passou; a promessa permanece e se cumpre nos filhos. Nenhuma infidelidade humana anula a fidelidade de Deus. Caleb e Josué, os únicos que restam, mostram que a fé perseverante atravessa o deserto inteiro.",
+    "anagogico": "A nova contagem às portas da terra anuncia o povo dos redimidos às portas da Jerusalém celeste, onde cada um receberá a herança preparada “desde a fundação do mundo” (Mt 25,34)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Fazei o recenseamento de todos os filhos de Israel.” “A terra será dividida entre estes.” “A terra seja repartida por sorte.” “Não ficou nenhum deles, excepto Caleb, filho de Jefone, e Josué, filho de Nun.”",
+    "meditatio_perguntas": [
+      "O que em mim precisa “morrer no deserto” para que eu entre na promessa?",
+      "Persevero na fé como Caleb e Josué, ao longo de todo o caminho?",
+      "Recebo a minha parte na vida como dom de Deus?"
+    ],
+    "oratio_guia": "Senhor, fiel às tuas promessas, faz morrer em mim o homem velho e conduz-me como homem novo à herança que preparaste. Dá-me a perseverança de Caleb e de Josué. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não ficou nenhum deles, excepto Caleb, filho de Jefone, e Josué, filho de Nun",
+      "ref": "Nm 26,65"
+    }
+  },
+  "ancoras": {
+    "26:11": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os filhos de Coré sobreviveram; a eles são atribuídos vários Salmos (Sl 41–48; 83–84; 86–87 na Vulgata).",
+        "origem": "ia"
+      }
+    },
+    "26:51": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Quase o mesmo número do primeiro recenseamento (Nm 1,46): a geração mudou, o povo permanece.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

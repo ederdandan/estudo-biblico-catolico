@@ -1,0 +1,57 @@
+{
+  "id": "NUM.3.1",
+  "livro": "NUM",
+  "titulo": "Os levitas em lugar dos primogênitos",
+  "secao": "O povo organizado no Sinai",
+  "referencia": "Nm 3,1-51",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 51
+  },
+  "liturgia": {
+    "tema_central": "“Os Levitas serão meus”: o resgate dos primogênitos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "São apresentadas as gerações de Aarão e de Moisés: os filhos de Aarão, Nadab, Abiú, Eleazar e Itamar; Nadab e Abiú morreram sem filhos por terem oferecido fogo estranho. O Senhor manda aproximar a tribo de Levi e dá-la a Aarão para o servir e guardar o tabernáculo. E explica: “Eu tomei os Levitas dentre os filhos de Israel em lugar de todo o primogênito… e os Levitas serão meus, porque todo o primogênito é meu. Desde o dia em que feri os primogênitos na terra do Egito, consagrei para mim todo o que nasce primeiro em Israel.” Os levitas são recenseados a partir de um mês de idade, pelas famílias de Gerson, Caath e Merari, cada uma com a sua parte do tabernáculo; são vinte e dois mil. Os primogênitos de Israel são vinte e dois mil duzentos e setenta e três; os duzentos e setenta e três excedentes são resgatados a cinco siclos por cabeça, e o dinheiro é dado a Aarão e a seus filhos.",
+    "alegorico": "Os levitas tomados em lugar dos primogênitos anunciam a lógica da substituição que culmina em Cristo, o Primogênito, que se oferece em lugar de todos. Ele é “o primogênito entre muitos irmãos” (Rm 8,29), e a Igreja é “a assembleia dos primogênitos inscritos nos céus” (Hb 12,23). O preço do resgate lembra que fomos “comprados por alto preço” (1Cor 6,20).",
+    "moral": "O que é primeiro pertence a Deus: o primeiro filho, os primeiros frutos, a primeira hora do dia. A memória da Páscoa no Egito funda a consagração: quem foi salvo pertence a quem o salvou. Os levitas, dados “inteiramente” a Aarão, ensinam a disponibilidade dos que são chamados ao serviço de Deus.",
+    "anagogico": "Os primogênitos resgatados prefiguram os redimidos “comprados dentre os homens como primícias para Deus e para o Cordeiro” (Ap 14,4), que seguem o Cordeiro aonde quer que vá."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Faze aproximar a tribo de Levi.” “Eu tomei os Levitas… em lugar de todo o primogênito.” “Todo o primogênito é meu.” “Os Levitas serão meus. Eu sou o Senhor.”",
+    "meditatio_perguntas": [
+      "Dou a Deus as primícias do meu tempo e da minha vida?",
+      "Rezo pelas vocações ao serviço de Deus?",
+      "Lembro-me do preço com que fui resgatado?"
+    ],
+    "oratio_guia": "Senhor, que resgataste os teus primogênitos e me resgataste com o sangue de teu Filho, toma para ti o primeiro lugar em minha vida, e suscita no teu povo servidores dedicados inteiramente a ti. Amém.",
+    "contemplatio_foco": {
+      "texto": "Os Levitas serão meus. Eu sou o Senhor",
+      "ref": "Nm 3,45"
+    }
+  },
+  "ancoras": {
+    "3:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A consagração dos primogênitos remonta à Páscoa (Ex 13,2.11-16).",
+        "origem": "ia"
+      }
+    },
+    "3:47": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Cinco siclos é o preço do resgate do primogênito, pago também por Jesus segundo Lc 2,22-23.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "NUM.15.1",
+  "livro": "NUM",
+  "titulo": "Leis das ofertas, o violador do sábado e as franjas",
+  "secao": "Murmurações no deserto",
+  "referencia": "Nm 15,1-41",
+  "ini": {
+    "c": 15,
+    "v": 1
+  },
+  "fim": {
+    "c": 15,
+    "v": 41
+  },
+  "liturgia": {
+    "tema_central": "As franjas da lembrança: “recordem-se de todos os mandamentos”",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Depois da sentença, o Senhor fala da terra como de coisa certa: “Quando entrardes na terra da vossa habitação, que eu vos hei-de dar.” Regula as ofertas que acompanham os sacrifícios: flor de farinha, azeite e vinho em medida proporcional ao animal; a mesma lei para o natural e para o estrangeiro. Manda oferecer as primícias da massa do pão. Para as faltas por ignorância, da comunidade ou de um só, há sacrifício e perdão; mas quem peca “com a mão levantada”, desprezando a palavra do Senhor, será cortado do povo. Um homem é encontrado apanhando lenha no sábado; levado a Moisés, é posto em prisão, e o Senhor manda apedrejá-lo fora do acampamento. Por fim, o Senhor manda que os israelitas façam franjas nas extremidades das capas, com fitas de púrpura violácea, “para que, vendo-as, se recordem de todos os mandamentos do Senhor, e não sigam os seus pensamentos nem os seus olhos que os arrastam à infidelidade”.",
+    "alegorico": "Jesus usava estas franjas: a mulher com fluxo de sangue toca “a orla do seu manto” e é curada (Mt 9,20), e muitos doentes pediam para tocá-la (Mt 14,36). O que era sinal da lembrança da Lei torna-se em Cristo canal da graça. A distinção entre pecados de ignorância e pecados “de mão levantada” é retomada em Hb 10,26.",
+    "moral": "Precisamos de sinais que nos façam lembrar: as franjas, o crucifixo, o terço, as orações do dia. O coração e os olhos facilmente nos arrastam; a memória de Deus nos devolve ao caminho. Há grande diferença entre a fraqueza e a rebeldia consciente: Deus é paciente com a primeira, mas a soberba que despreza a sua palavra se exclui a si mesma.",
+    "anagogico": "A memória dos mandamentos, sustentada por sinais visíveis, prepara a visão em que já não serão precisos sinais, porque a lei estará escrita nos corações (Jr 31,33) e Deus será visto."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Quando entrardes na terra da vossa habitação, que eu vos hei-de dar.” “Uma mesma lei será para todos.” “Porque desprezou a palavra do Senhor.” “Para que, vendo-as, se recordem de todos os mandamentos do Senhor.” “E serão santos para com o seu Deus.”",
+    "meditatio_perguntas": [
+      "Que sinais uso para lembrar-me de Deus durante o dia?",
+      "Os meus olhos e pensamentos me arrastam para onde?",
+      "Distingo em mim a fraqueza da rebeldia?"
+    ],
+    "oratio_guia": "Senhor, que me tiraste do Egito para seres o meu Deus, dá-me sinais que me façam lembrar de ti, e guarda os meus olhos e pensamentos na fidelidade. Como a mulher do Evangelho, quero tocar a orla do teu manto. Amém.",
+    "contemplatio_foco": {
+      "texto": "para que, vendo-as, se recordem de todos os mandamentos do Senhor",
+      "ref": "Nm 15,39"
+    }
+  },
+  "ancoras": {
+    "15:30": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Com a mão levantada”: pecado cometido deliberadamente, em atitude de desafio.",
+        "origem": "ia"
+      }
+    },
+    "15:38": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As franjas (tsitsit) ainda são usadas pelos judeus piedosos no xale de oração.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
