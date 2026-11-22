@@ -1,0 +1,57 @@
+{
+  "id": "2MA.10.10",
+  "livro": "2MA",
+  "titulo": "Guerras contra os idumeus e Timóteo",
+  "secao": "Judas Macabeu",
+  "referencia": "2Mc 10,10-38",
+  "ini": {
+    "c": 10,
+    "v": 10
+  },
+  "fim": {
+    "c": 10,
+    "v": 38
+  },
+  "liturgia": {
+    "tema_central": "Venderam seus irmãos por dinheiro: idumeus e Timóteo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Começa a história de Eupátor, filho do ímpio Antíoco. Ele põe Lísias à frente do reino. Ptolomeu Macron, o primeiro a tratar os judeus com justiça, é acusado de traição e se envenena. Górgias, governador da região, e os idumeus, senhores de fortalezas, atacam sempre os judeus e acolhem os expulsos de Jerusalém. Os de Macabeu, depois de rezar ao Senhor pedindo o seu auxílio, atacam as fortalezas idumeias, tomam-nas e matam muitos. Nove mil se refugiam em duas torres bem abastecidas. Judas deixa para sitiá-las Simão, José e Zaqueu, e vai aonde a necessidade é maior. Mas os homens de Simão, por cobiça, são subornados com setenta mil dracmas e deixam escapar alguns. Judas reúne os chefes do povo e “acusou aqueles homens de terem vendido seus irmãos por dinheiro, deixando escapar os seus inimigos”; manda matar os traidores e toma as duas torres. Timóteo, antes vencido, vem com um grande exército de estrangeiros e cavalaria da Ásia para tomar a Judeia. Macabeu e os seus rezam, lançando terra sobre a cabeça, com os rins cingidos de saco, prostrados ao pé do altar, pedindo que Deus seja inimigo dos seus inimigos, como promete a lei. Ao amanhecer, combatem: uns têm o Senhor como garantia da vitória, os outros só a sua fúria. No auge da batalha aparecem do céu cinco homens resplandecentes sobre cavalos com freios de ouro, que guiam os judeus; dois deles protegem Macabeu com as suas armas e lançam dardos e raios contra os inimigos, que caem cegos e confusos. Caem vinte mil e quinhentos infantes e seiscentos cavaleiros. Timóteo foge para Gazara; os que estão dentro blasfemam; no quinto dia, vinte jovens, indignados pelas blasfêmias, escalam os muros; tomam a fortaleza e matam Timóteo, escondido numa cisterna. E bendizem com hinos o Senhor “que tinha feito tão grandes coisas em Israel”.",
+    "alegorico": "A traição dos que “venderam seus irmãos por dinheiro” recorda José vendido pelos irmãos e Judas, que vendeu o Senhor por trinta moedas. Os cavaleiros celestes que protegem Macabeu são figura dos anjos que guardam os justos: “ele mandará aos seus anjos que te guardem em todos os teus caminhos” (Sl 91(90),11).",
+    "moral": "O maior perigo para a causa de Deus pode vir de dentro: a cobiça dos próprios companheiros. Judas não trata o suborno como coisa pequena: é vender os irmãos. A oração penitente precede de novo a batalha: cinza, saco, prostração junto ao altar. E a vitória é atribuída ao Senhor, a quem se cantam hinos.",
+    "anagogico": "“Aquele que tinha feito tão grandes coisas em Israel”: o louvor final ecoa o Magnificat (Lc 1,49). Toda vitória dos justos é obra do Senhor e termina em cântico."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Tendo conjurado pelas suas orações o Senhor a que viesse em seu auxílio.” “Levados da cobiça, foram subornados com dinheiro.” “Acusou aqueles homens de terem vendido seus irmãos por dinheiro.” “Prostrados junto do altar.” “Apareceram do céu… cinco homens resplandecentes.” “Bem-diziam ao Senhor, que tinha feito tão grandes coisas em Israel.”",
+    "meditatio_perguntas": [
+      "Já “vendi” um irmão por interesse ou dinheiro?",
+      "Peço a proteção dos anjos nos meus combates?",
+      "Atribuo as minhas vitórias ao Senhor e lhe canto louvores?"
+    ],
+    "oratio_guia": "Senhor, livra-me da cobiça que vende os irmãos. Manda os teus anjos para me guardar no combate, e faz que eu te bendiga sempre por todas as grandes coisas que fazes em favor do teu povo. Amém.",
+    "contemplatio_foco": {
+      "texto": "acusou aqueles homens de terem vendido seus irmãos por dinheiro, deixando escapar os seus inimigos",
+      "ref": "2Mc 10,21"
+    }
+  },
+  "ancoras": {
+    "10:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Ptolomeu Macron, governador de Chipre sob o Egito, passou para o lado selêucida; foi favorável aos judeus.",
+        "origem": "ia"
+      }
+    },
+    "10:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As aparições celestes (epifanias) são típicas de 2 Macabeus e expressam a convicção de que Deus combate com os fiéis.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

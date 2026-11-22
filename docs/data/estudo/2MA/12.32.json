@@ -1,0 +1,57 @@
+{
+  "id": "2MA.12.32",
+  "livro": "2MA",
+  "titulo": "A oração pelos mortos",
+  "secao": "Judas Macabeu",
+  "referencia": "2Mc 12,32-46",
+  "ini": {
+    "c": 12,
+    "v": 32
+  },
+  "fim": {
+    "c": 12,
+    "v": 46
+  },
+  "liturgia": {
+    "tema_central": "Santo e salutar pensamento orar pelos mortos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Depois da festa de Pentecostes, marcham contra Górgias, governador da Idumeia, que sai com três mil infantes e quatrocentos cavaleiros. Na batalha caem alguns judeus. Um cavaleiro valente, Dositeu, agarra Górgias pela clâmide para levá-lo vivo, mas um cavaleiro trácio lhe corta o ombro, e Górgias foge para Marisa. Os de Esdrin estão exaustos; Judas invoca o Senhor para que se mostre protetor e chefe no combate; e, entoando na língua pátria hinos de guerra, põe em fuga os soldados de Górgias. Judas leva o exército a Odolão; no sétimo dia, purificados segundo o costume, celebram o sábado. No dia seguinte, vão recolher os corpos dos que tinham caído para sepultá-los com os parentes nos túmulos dos pais. Encontram, debaixo das túnicas de cada morto, objetos consagrados aos ídolos de Jâmnia, proibidos pela lei. Todos compreendem que essa foi a causa da sua morte. Bendizem o Senhor, “justo juiz, que descobre o que está escondido”, e põem-se em oração, “suplicaram que se esquecesse do pecado cometido”. O nobre Judas exorta o povo a guardar-se do pecado, tendo diante dos olhos o que acontecera aos que caíram. Faz uma coleta e envia dois mil dracmas de prata a Jerusalém, para que se ofereça um sacrifício pelo pecado: “Obra bela e santa, inspirada pela crença na ressurreição, porque se ele não esperasse que os mortos haviam de ressuscitar, seria uma coisa supérflua e vã orar pelos defuntos.” Considerava que aos que morrem piedosamente está reservada uma magnífica recompensa. “Santo e salutar pensamento este de orar pelos mortos. Eis porque ofereceu um sacrifício expiatório pelos defuntos, para que fossem livres dos seus pecados.”",
+    "alegorico": "Este é o texto bíblico clássico em que a Igreja fundamenta a oração pelos defuntos e a fé na purificação depois da morte. Desde os primeiros séculos os cristãos rezam e oferecem a Eucaristia pelos mortos (Tertuliano, Cipriano; Santa Mônica pede a Agostinho que se lembre dela no altar). A Missa pelos defuntos e a comemoração de 2 de novembro prolongam o gesto de Judas, agora no sacrifício de Cristo.",
+    "moral": "Judas não condena os mortos nem esconde o seu pecado: reconhece-o, tira dele uma lição para os vivos, e reza por eles. A oração pelos defuntos une três virtudes: fé (na ressurreição), esperança (de que Deus perdoe) e caridade (pelos que não podem mais ajudar-se). Lembrar os mortos na oração é um ato de amor que atravessa a morte.",
+    "anagogico": "“Aos que falecem na piedade está reservada uma grandíssima recompensa.” A comunhão dos santos une vivos e mortos na esperança da ressurreição, quando todos serão purificados e glorificados."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Para que se fizesse ele mesmo o protector e o chefe neste combate.” “Bem-disseram o Senhor, justo juiz, que descobre o que está escondido.” “Suplicaram… que se esquecesse do pecado cometido.” “Obra bela e santa, inspirada pela crença na ressurreição.” “Santo e salutar pensamento este de orar pelos mortos.”",
+    "meditatio_perguntas": [
+      "Rezo com frequência pelos meus mortos?",
+      "Tiro lições, para a minha vida, do pecado e da morte dos outros, sem julgá-los?",
+      "Ofereço a Missa e sacrifícios pelos defuntos?"
+    ],
+    "oratio_guia": "Senhor, justo juiz e Pai misericordioso, esquece os pecados dos nossos irmãos falecidos. Recebe a nossa oração e o sacrifício do teu Filho por eles, e dá-lhes o descanso eterno e a luz que não se apaga. Amém.",
+    "contemplatio_foco": {
+      "texto": "Santo e salutar pensamento este de orar pelos mortos",
+      "ref": "2Mc 12,46"
+    }
+  },
+  "ancoras": {
+    "12:40": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os amuletos de Jâmnia eram objetos de culto pagão tomados como despojo, proibidos por Dt 7,25-26.",
+        "origem": "ia"
+      }
+    },
+    "12:43": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O texto grego diz que Judas “pensava na ressurreição”; é o fundamento bíblico citado pelo Concílio de Trento para a doutrina do purgatório.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

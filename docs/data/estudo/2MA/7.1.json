@@ -1,0 +1,57 @@
+{
+  "id": "2MA.7.1",
+  "livro": "2MA",
+  "titulo": "A mãe e os sete filhos",
+  "secao": "Os mártires",
+  "referencia": "2Mc 7,1-42",
+  "ini": {
+    "c": 7,
+    "v": 1
+  },
+  "fim": {
+    "c": 7,
+    "v": 42
+  },
+  "liturgia": {
+    "tema_central": "O Rei do universo nos ressuscitará: a mãe e os sete filhos",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Sete irmãos são presos com a mãe e torturados com açoites para comer carne de porco. Um deles, em nome de todos, diz: “Estamos prontos antes a morrer que a violar as leis de nossos pais.” O rei, furioso, manda cortar-lhe a língua, arrancar-lhe o couro cabeludo, cortar-lhe as extremidades e assá-lo vivo, à vista dos irmãos e da mãe, que se exortam: “O Senhor Deus vê e consola-se em nós.” O segundo, antes de morrer, diz: “Tu, ó malvado, fazes-nos perder a vida presente, mas o Rei do universo nos ressuscitará para a vida eterna, a nós que morremos por fidelidade às suas leis.” O terceiro estende a língua e as mãos: “Do céu recebi estes membros, mas agora os desprezo pela defesa das suas leis, esperando que ele mos tornará a dar um dia.” O quarto: “Felizes os que são entregues à morte pelos homens, esperando em Deus que hão de ser por ele ressuscitados; porém, quanto a ti, a tua ressurreição não será para a vida.” O quinto: não penses que Deus abandonou a nossa nação. O sexto: sofremos pelos nossos pecados; mas não fiques impune por combater contra Deus. A mãe, “sobremaneira admirável e digna de memória”, vê morrer os sete num só dia e o suporta pela esperança no Senhor. Exorta cada um na língua pátria, unindo à ternura de mulher uma coragem viril: “Não sei como fostes formados no meu ventre… O Criador do mundo… vos tornará a dar o espírito e a vida, por sua misericórdia.” Antíoco promete riquezas ao mais novo e pede à mãe que o convença. Ela se inclina sobre ele e, zombando do tirano, diz: meu filho, tem compaixão de mim, que te trouxe nove meses no ventre; “olha para o céu e para a terra… e pensa bem que Deus as criou do nada”; “não temas este algoz, mas sê digno de teus irmãos, aceita a morte, para que eu te encontre com eles no dia da misericórdia”. O jovem responde: obedeço à lei de Moisés; os meus irmãos “entraram já na aliança da vida eterna”; ofereço o meu corpo e a minha alma, pedindo que “na minha morte e na de meus irmãos se detenha a ira do Todo-Poderoso”. Morre puro, confiando inteiramente no Senhor. Por último, morre a mãe.",
+    "alegorico": "Este capítulo é o testemunho mais claro do Antigo Testamento sobre a ressurreição da carne e a criação “do nada”. Os Padres veneraram os “santos Macabeus” como os primeiros mártires, e Agostinho e Gregório Nazianzeno pregaram sobre eles. A mãe ao pé dos filhos que morrem é figura de Maria ao pé da cruz; e o último filho, que oferece a vida para que “se detenha a ira”, antecipa o sacrifício expiatório de Cristo.",
+    "moral": "A força dos filhos nasce da mãe: ela não os poupa da dor, mas os ajuda a permanecer fiéis. O seu amor materno é maior que o desejo de tê-los vivos a qualquer preço. Cada irmão dá uma razão de fé: a ressurreição, a origem divina do corpo, o juízo, a correção pelos pecados, a expiação. O martírio não é desespero, mas esperança vivida até o fim.",
+    "anagogico": "“Para que eu te encontre com eles no dia da misericórdia”: a mãe espera reencontrar os filhos na ressurreição. É a esperança cristã na comunhão dos santos e na vida eterna."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Estamos prontos antes a morrer que a violar as leis de nossos pais.” “O Rei do universo nos ressuscitará para a vida eterna.” “Do céu recebi estes membros.” “Felizes os que são entregues à morte pelos homens, esperando em Deus.” “Deus as criou do nada.” “Para que eu te encontre com eles no dia da misericórdia.” “Morreu este jovem sem se contaminar, confiando inteiramente no Senhor.”",
+    "meditatio_perguntas": [
+      "Creio realmente na ressurreição da carne?",
+      "Ajudo os que amo a permanecer fiéis, mesmo quando isso custa?",
+      "Que razões de fé me sustentariam numa grande prova?"
+    ],
+    "oratio_guia": "Senhor, Rei do universo, que criaste tudo do nada e ressuscitarás os que morrem fiéis, dá-me a fé dos sete irmãos e a fortaleza da sua mãe. Que eu os encontre contigo no dia da misericórdia. Amém.",
+    "contemplatio_foco": {
+      "texto": "Tu, ó malvado, fazes-nos perder a vida presente, mas (Deus) o Rei do universo nos ressuscitará para a vida eterna",
+      "ref": "2Mc 7,9"
+    }
+  },
+  "ancoras": {
+    "7:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citação de Dt 32,36: “Ele terá compaixão dos seus servos”.",
+        "origem": "ia"
+      }
+    },
+    "7:28": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Primeira formulação explícita da criação “do nada” (ex nihilo) na Bíblia, base da doutrina cristã da criação.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

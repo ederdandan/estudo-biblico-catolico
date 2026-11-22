@@ -1,0 +1,57 @@
+{
+  "id": "2MA.2.1",
+  "livro": "2MA",
+  "titulo": "Jeremias esconde a tenda, a arca e o altar",
+  "secao": "As cartas e o prefácio",
+  "referencia": "2Mc 2,1-18",
+  "ini": {
+    "c": 2,
+    "v": 1
+  },
+  "fim": {
+    "c": 2,
+    "v": 18
+  },
+  "liturgia": {
+    "tema_central": "Até que Deus reúna o seu povo: Jeremias esconde a arca",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Segundo os escritos do profeta Jeremias, ele ordenou aos deportados que levassem o fogo e lhes deu um exemplar da lei, “para que se não esquecessem dos preceitos do Senhor, nem se extraviassem, ao ver os ídolos de ouro e de prata”, e os exortava a não afastar a lei do coração. Por ordem de Deus, Jeremias mandou levar consigo a tenda e a arca e subiu ao monte de onde Moisés contemplou a herança de Deus. Ali encontrou uma caverna, pôs nela a tenda, a arca e o altar do incenso, e fechou a entrada. Alguns que o seguiam voltaram para marcar o caminho, mas não o encontraram. Jeremias os repreendeu: “este lugar ficará incógnito, até que Deus reúna o seu povo disperso e use com ele de misericórdia. Então descobrirá o Senhor estas coisas, aparecerá a majestade do Senhor e ver-se-á uma nuvem, como apareceu no tempo de Moisés” e de Salomão. Recordam como Moisés e Salomão rezaram e desceu fogo do céu sobre o holocausto, e como Salomão celebrou oito dias de dedicação. Neemias reuniu uma biblioteca com os livros dos reis e dos profetas, os de Davi e as cartas dos reis; Judas recolheu igualmente os livros dispersos pela guerra, que estão disponíveis. A carta termina: celebrai a purificação; “esperamos que Deus, que livrou o seu povo e que restituiu a todos a herança, o reino, o sacerdócio e o templo… cedo usará conosco de misericórdia e nos tornará a ajuntar de todos os países, que estão debaixo do céu, no seu santo lugar”.",
+    "alegorico": "A arca escondida, que reaparecerá quando Deus reunir o seu povo, é retomada no Apocalipse: “abriu-se o santuário de Deus no céu, e apareceu a arca da sua aliança” (Ap 11,19), seguida imediatamente da “Mulher vestida de sol” (Ap 12,1). Por isso a Igreja chama Maria “Arca da Aliança” na Ladainha: nela habitou a presença de Deus. A nuvem que reaparecerá é a glória de Deus que cobre Maria (Lc 1,35) e se manifesta na Transfiguração.",
+    "moral": "Jeremias, ao partir para o exílio, entrega aos deportados o essencial: o fogo e a lei. O perigo do exílio não é só a perda da terra, mas a fascinação dos ídolos de ouro. A lição é guardar a Palavra no coração quando se vive num ambiente que adora outras coisas. A curiosidade de marcar o caminho é repreendida: há mistérios que Deus guarda para o seu tempo.",
+    "anagogico": "“Até que Deus reúna o seu povo disperso”: a arca escondida aguarda o dia da manifestação final da glória de Deus, quando a nuvem reaparecerá e todos verão a sua majestade."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Para que se não esquecessem dos preceitos do Senhor.” “Nem se extraviassem, ao ver os ídolos de ouro e de prata.” “Este lugar ficará incógnito, até que Deus reúna o seu povo disperso.” “Aparecerá a majestade do Senhor e ver-se-á uma nuvem.” “Restituiu a todos a herança, o reino, o sacerdócio e o templo.”",
+    "meditatio_perguntas": [
+      "Que “ídolos de ouro” me fascinam no meu exílio?",
+      "Guardo a Palavra no coração quando o ambiente me afasta dela?",
+      "Aceito que Deus guarde mistérios para o seu tempo?"
+    ],
+    "oratio_guia": "Senhor, que não deixaste o teu povo sem a tua lei no exílio, guarda no meu coração a tua Palavra. Que eu não me extravie diante dos ídolos, e espere o dia em que reunirás os teus filhos e manifestarás a tua glória. Amém.",
+    "contemplatio_foco": {
+      "texto": "este lugar ficará incógnito, até que Deus reúna o seu povo disperso e use com ele de misericórdia",
+      "ref": "2Mc 2,7"
+    }
+  },
+  "ancoras": {
+    "2:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O monte Nebo, de onde Moisés viu a terra prometida (Dt 34,1). A tradição da arca escondida por Jeremias é judaica e não aparece no livro de Jeremias (cf. Jr 3,16).",
+        "origem": "ia"
+      }
+    },
+    "2:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Testemunho importante da formação do cânon: uma coleção de “livros dos reis e profetas” e “de Davi” (Salmos).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

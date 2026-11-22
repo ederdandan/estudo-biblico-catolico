@@ -1,0 +1,57 @@
+{
+  "id": "2MA.2.19",
+  "livro": "2MA",
+  "titulo": "O prefácio do autor",
+  "secao": "As cartas e o prefácio",
+  "referencia": "2Mc 2,19-33",
+  "ini": {
+    "c": 2,
+    "v": 19
+  },
+  "fim": {
+    "c": 2,
+    "v": 33
+  },
+  "liturgia": {
+    "tema_central": "Uma empresa de vigílias e de suores: o prefácio do autor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O autor apresenta a sua obra: a história de Judas Macabeu e dos seus irmãos, a purificação do grande templo e a dedicação do altar, as guerras contra Antíoco Epífanes e o seu filho Eupátor, “as manifestações do céu a favor dos que pelejaram pelo judaísmo com valentia e zelo”, os quais, sendo poucos, tomaram todo o país, puseram em fuga multidões bárbaras, recobraram o templo famoso em todo o mundo, libertaram a cidade e restabeleceram as leis que estavam para ser abolidas, “graças ao Senhor que lhes foi propício”. Tudo isso Jasão de Cirene escreveu em cinco livros; o autor procura resumi-los num só. Considerando a multidão de números e a dificuldade de seguir tantos fatos, quer dar prazer aos que gostam de ler, facilitar a memória aos estudiosos e ser útil a todos. “Para nós, que empreendemos fazer este resumo, não é pequeno o trabalho, antes empresa cheia de vigílias e de suores.” Como quem prepara um banquete para agradar aos outros, aceita de boa vontade o cansaço, pela gratidão de muitos. Deixa os pormenores ao historiador e se dedica ao resumo, como o arquiteto cuida de toda a construção e o pintor da decoração: ao historiador cabe pesquisar cada detalhe; ao que resume, a brevidade. “Comecemos, pois, aqui a nossa narração”: seria tolice alongar o prefácio e encurtar a história.",
+    "alegorico": "O autor sagrado mostra que a inspiração não dispensa o trabalho humano: “vigílias e suores”. A Igreja ensina que Deus se serve dos autores humanos “com as suas faculdades e capacidades” (Dei Verbum 11). O prefácio é como o de Lucas (Lc 1,1-4): o Espírito Santo age por meio da pesquisa, do estilo e da intenção de servir aos leitores.",
+    "moral": "O autor escreve por amor aos leitores: quer agradar, ajudar a memória, ser útil. É um modelo para todo serviço intelectual na Igreja: trabalho árduo, humildade de resumir o que outro escreveu, e o desejo de servir como quem prepara um banquete. O cansaço aceito “de boa vontade” para o bem dos outros é já uma forma de caridade.",
+    "anagogico": "A história da fidelidade dos Macabeus é contada para alimentar a esperança: as “manifestações do céu” anunciam a manifestação definitiva de Deus a favor dos que lutam pela sua lei."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“As manifestações do céu a favor dos que pelejaram pelo judaísmo com valentia e zelo.” “Graças ao Senhor que lhes foi propício.” “Tomá-la geralmente útil a todos.” “Empresa cheia de vigílias e de suores.” “Como aqueles que preparam um banquete.” “Comecemos, pois, aqui a nossa narração.”",
+    "meditatio_perguntas": [
+      "Faço o meu trabalho como serviço aos outros, “como quem prepara um banquete”?",
+      "Aceito o cansaço de boa vontade, pelo bem de muitos?",
+      "Leio a Escritura reconhecendo nela também o trabalho humano?"
+    ],
+    "oratio_guia": "Senhor, que inspiraste os autores sagrados sem dispensar o seu trabalho, abençoa as minhas vigílias e cansaços. Que eu sirva aos outros como quem prepara um banquete, e que tudo seja para a tua glória. Amém.",
+    "contemplatio_foco": {
+      "texto": "Para nós, que empreendemos fazer este resumo, não é pequeno o trabalho, antes empresa cheia de vigílias e de suores",
+      "ref": "2Mc 2,27"
+    }
+  },
+  "ancoras": {
+    "2:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Jasão de Cirene, historiador judeu da diáspora, cuja obra em cinco livros se perdeu; 2 Macabeus é um resumo (epítome) dela.",
+        "origem": "ia"
+      }
+    },
+    "2:22": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Manifestações” (epiphaneiai): termo-chave do livro, que narra aparições celestes a favor dos fiéis (3,24-26; 5,2-4; 10,29-30; 11,8).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

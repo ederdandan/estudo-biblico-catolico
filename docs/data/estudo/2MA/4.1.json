@@ -1,0 +1,57 @@
+{
+  "id": "2MA.4.1",
+  "livro": "2MA",
+  "titulo": "Jasão e a moda grega",
+  "secao": "Antes da perseguição",
+  "referencia": "2Mc 4,1-22",
+  "ini": {
+    "c": 4,
+    "v": 1
+  },
+  "fim": {
+    "c": 4,
+    "v": 22
+  },
+  "liturgia": {
+    "tema_central": "A violação das leis de Deus não fica sem castigo: Jasão e a moda grega",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Simão, o traidor, calunia Onias como se fosse culpado pelo mal de Heliodoro e fosse um conspirador, ele que era “o protetor da cidade, o defensor dos seus concidadãos, o zeloso observador das leis”. A rivalidade chega a homicídios. Onias vai ao rei, não para acusar os compatriotas, mas pelo bem comum de todo o povo. Morto Seleuco, sobe ao trono Antíoco Epífanes; Jasão, irmão de Onias, compra o sumo sacerdócio prometendo trezentos e sessenta talentos de prata e oitenta de outras rendas, e mais cento e cinquenta se lhe for permitido criar um ginásio e uma efebia e inscrever os habitantes de Jerusalém como antioquenos. O rei aceita. Jasão começa logo a levar os seus compatriotas aos costumes gregos; abole os privilégios obtidos pelos judeus e introduz costumes contrários à lei. Funda com alegria um ginásio aos pés da acrópole e põe os jovens mais nobres sob o chapéu de Hermes. Cresce o helenismo pela maldade do ímpio Jasão, de tal modo “que os sacerdotes, perdendo o zelo pelas funções do altar, desprezando o templo, descuidados dos sacrifícios, corriam aos exercícios da palestra, quando se anunciava o lançamento do disco”. Desprezam as honras da pátria e estimam as glórias gregas. Mas aqueles a quem invejavam tornam-se os seus inimigos e algozes: “Porque a violação das leis de Deus não fica sem castigo.” Para os jogos de Tiro, Jasão envia dinheiro para o sacrifício a Hércules; os próprios mensageiros, envergonhados, o destinam à construção de navios. Antíoco é recebido em Jerusalém com tochas e aclamações.",
+    "alegorico": "Os Padres viram em Jasão o exemplo da simonia: comprar com dinheiro um cargo sagrado, como Simão Mago quis comprar o dom do Espírito (At 8,18-20). Os sacerdotes que abandonam o altar para correr ao disco são a imagem dos ministros que trocam o serviço de Deus pelo prestígio do mundo.",
+    "moral": "A apostasia começa pelo alto: um sumo sacerdote que compra o cargo e promove a cultura pagã. Não há perseguição aqui; tudo é feito “com alegria” e por moda. É mais perigoso que a espada: os sacerdotes abandonam o altar livremente, atraídos pelo prestígio. A lição é dura: aqueles que admiramos e imitamos para ser aceitos acabam por se tornar nossos inimigos.",
+    "anagogico": "“A violação das leis de Deus não fica sem castigo”: a história é julgada por Deus. Quem troca a glória de Deus pela glória do mundo perde as duas."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O protector da cidade, o defensor dos seus concidadãos, o zeloso observador das leis.” “Começou logo a fazer passar os seus concidadãos para os costumes dos gregos.” “Os sacerdotes perdendo o zelo pelas funções do altar.” “Apreciavam muito mais as distinções dos Gregos.” “A violação das leis de Deus não fica sem castigo.”",
+    "meditatio_perguntas": [
+      "Troco o “altar” pelas “palestras” do prestígio social?",
+      "Que modas do mundo admiro e imito, contra a minha fé?",
+      "Busco cargos e reconhecimento a qualquer preço?"
+    ],
+    "oratio_guia": "Senhor, livra a tua Igreja da simonia e da sede de prestígio. Que eu não abandone o teu altar pelas glórias passageiras, e permaneça fiel ao que é teu, mesmo quando o mundo me oferece aplausos. Amém.",
+    "contemplatio_foco": {
+      "texto": "os sacerdotes perdendo o zelo pelas funções do altar, desprezando o templo, descuidados dos sacrifícios, corriam aos exercícios da palestra",
+      "ref": "2Mc 4,14"
+    }
+  },
+  "ancoras": {
+    "4:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A “efebia” era a instituição de educação dos jovens gregos; inscrever-se como “antioquenos” dava direitos de cidadania de uma pólis grega.",
+        "origem": "ia"
+      }
+    },
+    "4:12": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O pétaso, chapéu de abas largas, era o símbolo de Hermes, patrono dos ginásios.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

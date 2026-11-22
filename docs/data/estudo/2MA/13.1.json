@@ -1,0 +1,57 @@
+{
+  "id": "2MA.13.1",
+  "livro": "2MA",
+  "titulo": "A morte de Menelau e a campanha de Antíoco Eupátor",
+  "secao": "Judas Macabeu",
+  "referencia": "2Mc 13,1-26",
+  "ini": {
+    "c": 13,
+    "v": 1
+  },
+  "fim": {
+    "c": 13,
+    "v": 26
+  },
+  "liturgia": {
+    "tema_central": "Vitória de Deus: Menelau morre na cinza; Eupátor diante de Betsur",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "No ano cento e quarenta e nove, Antíoco Eupátor marcha contra a Judeia com Lísias, com cento e dez mil infantes, cinco mil e trezentos cavaleiros, vinte e dois elefantes e trezentos carros armados de foices. Menelau junta-se a eles e, com grande astúcia, busca o favor do rei, “não para salvação da pátria, mas esperando ser reconduzido à sua dignidade”. “Porém, o Rei dos reis suscitou contra este pecador a cólera de Antíoco”: Lísias o acusa de ser a causa de todos os males, e o rei manda levá-lo a Bereia e matá-lo à maneira do lugar, numa torre cheia de cinza, de onde os sacrílegos são precipitados. Assim morre Menelau, prevaricador da lei, sem sepultura, “com toda a justiça, porque… tinha cometido muitas impiedades contra o altar de Deus, cujo fogo e cinza eram coisas santas, na cinza encontrou a morte”. O rei avança furioso, decidido a ser pior que o pai. Judas manda o povo invocar o Senhor dia e noite, temendo perder a lei, a pátria e o templo; todos rezam juntos com lágrimas e jejuns, prostrados três dias. Judas os exorta e, com os anciãos, decide sair ao encontro do rei antes que entre na Judeia, “remetendo, pois, a sorte das armas ao Criador do universo”, e exorta a combater até a morte pelas leis, o templo, a cidade, a pátria e as instituições. Dá a senha “Vitória de Deus”, ataca de noite o acampamento real com os jovens mais valentes, mata muitos e o maior dos elefantes, e semeia o terror; ao amanhecer, tudo está feito “graças ao Senhor que dispensou a sua proteção”. O rei tenta tomar as fortalezas por astúcia; é repelido em Betsur. Um judeu, Rodoco, revela segredos ao inimigo e é preso. O rei negocia com Betsur, combate Judas e é vencido; sabendo da revolta de Filipe em Antioquia, faz a paz com os judeus, oferece sacrifícios, honra o templo, acolhe Macabeu e o nomeia governador. Lísias acalma os de Ptolemaida, irritados com o tratado.",
+    "alegorico": "Menelau, que profanou o altar e morre na cinza, ilustra a palavra “com a medida com que medirdes, sereis medidos” (Mt 7,2). As duas senhas de Judas, “Auxílio de Deus” (8,23) e “Vitória de Deus” (13,15), resumem a fé de todo o livro e anunciam a vitória de Cristo, “que nos dá a vitória por nosso Senhor Jesus Cristo” (1Cor 15,57).",
+    "moral": "Menelau é a figura do traidor ambicioso que busca o poder a todo custo, até ao lado dos inimigos do seu povo; morre abandonado pelos próprios aliados. Judas, ao contrário, começa sempre pela oração: três dias de jejum e lágrimas antes de agir. Depois, age com decisão, mas “remetendo a sorte ao Criador”. É o equilíbrio entre confiar em Deus e fazer a própria parte.",
+    "anagogico": "“Vitória de Deus”: a última palavra da história pertence a Deus. Os que combatem com ele participarão da sua vitória definitiva."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não para salvação da pátria, mas esperando ser reconduzido à sua dignidade.” “O Rei dos reis suscitou contra este pecador a cólera de Antíoco.” “Na cinza encontrou a morte.” “Implorando a misericórdia do Senhor com lágrimas e jejuns.” “Remetendo, pois, a sorte das armas ao Criador do universo.” “Vitória de Deus.”",
+    "meditatio_perguntas": [
+      "Busco o bem comum ou a minha posição?",
+      "Antes das decisões graves, dedico tempo à oração e ao jejum?",
+      "Sei agir com decisão, entregando o resultado a Deus?"
+    ],
+    "oratio_guia": "Senhor, Rei dos reis, livra-me da ambição que trai. Ensina-me a rezar com lágrimas antes de agir, a fazer o que me cabe e a entregar a ti o resultado, certo de que a vitória é tua. Amém.",
+    "contemplatio_foco": {
+      "texto": "Remetendo, pois, a sorte das armas ao Criador do universo, exortou os seus a combater valorosamente",
+      "ref": "2Mc 13,14"
+    }
+  },
+  "ancoras": {
+    "13:4": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Menelau foi executado em 163/162 a.C.; Josefo (Ant. XII,9,7) confirma a sua morte por ordem de Antíoco V.",
+        "origem": "ia"
+      }
+    },
+    "13:5": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A execução na cinza era um suplício persa: o condenado era sufocado na cinza quente.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

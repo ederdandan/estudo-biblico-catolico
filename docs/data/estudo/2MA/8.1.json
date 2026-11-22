@@ -1,0 +1,57 @@
+{
+  "id": "2MA.8.1",
+  "livro": "2MA",
+  "titulo": "Judas vence Nicanor",
+  "secao": "Judas Macabeu",
+  "referencia": "2Mc 8,1-36",
+  "ini": {
+    "c": 8,
+    "v": 1
+  },
+  "fim": {
+    "c": 8,
+    "v": 36
+  },
+  "liturgia": {
+    "tema_central": "Nós confiamos em Deus Todo-Poderoso: Judas vence Nicanor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Judas Macabeu e os seus companheiros entram às escondidas nas aldeias, chamam os parentes e os que permaneceram fiéis ao judaísmo, e reúnem seis mil homens. Rezam ao Senhor que olhe para o povo pisado por todos, tenha piedade do templo profanado e da cidade destruída, “ouvisse a voz do sangue que clamava para ele”, se lembre das crianças inocentes mortas e das blasfêmias contra o seu nome. Judas, à frente de muitos, torna-se invencível, “porque a ira do Senhor tinha-se convertido em misericórdia”. Ataca de surpresa, sobretudo de noite, e a sua fama se espalha. Filipe pede socorro a Ptolomeu, que envia Nicanor com vinte mil homens para exterminar os judeus. Nicanor pretende pagar o tributo devido aos romanos vendendo judeus como escravos: convida os mercadores, prometendo noventa escravos por talento, sem pensar no castigo do Todo-Poderoso. Alguns dos de Judas, com medo, fogem; outros vendem o que lhes resta e rezam para serem livrados do ímpio que já os vendera antes da batalha, ao menos por causa da aliança com os pais e do nome santo invocado sobre eles. Judas exorta os seis mil: “Eles somente confiam nas suas armas e na sua audácia; porém nós confiamos em Deus Todo-Poderoso, capaz de destruir com um gesto não só os que vêm para nos atacar mas ainda o mundo inteiro.” Recorda Senaquerib e a batalha contra os gálatas. Divide o exército entre os irmãos, manda Eleazar ler o livro santo e dá a senha: “Auxílio de Deus”. Matam mais de nove mil; tomam o dinheiro dos mercadores. Param a perseguição por causa da véspera do sábado e celebram o sábado bendizendo o Senhor. Depois do sábado, repartem os despojos com as vítimas da perseguição, as viúvas e os órfãos, e rezam pedindo ao Senhor misericordioso que se reconcilie plenamente com os seus servos. Nicanor, humilhado por aqueles que julgava nada, foge sozinho como escravo fugitivo e proclama que os judeus têm um protetor, Deus, e por isso são invulneráveis, porque seguem as suas leis.",
+    "alegorico": "A senha “Auxílio de Deus” e a leitura do livro santo antes do combate mostram que a verdadeira arma é a Palavra. Os Padres viram aqui a imagem do combate espiritual: “tomai a espada do Espírito, que é a Palavra de Deus” (Ef 6,17). Nicanor, que queria vender o povo de Deus e acaba fugindo como escravo, é a inversão pascal: o opressor humilhado, os humildes exaltados (Lc 1,52).",
+    "moral": "O capítulo é uma escola de fé prática: oração antes de tudo, coragem diante da multidão, memória das intervenções de Deus, leitura da Palavra. E a vitória não interrompe o sábado: a fidelidade à lei vem antes do lucro. Os despojos são repartidos primeiro com as viúvas, os órfãos e as vítimas: a vitória é posta a serviço dos pobres. Assim a guerra santa se torna obra de justiça.",
+    "anagogico": "“A ira do Senhor tinha-se convertido em misericórdia”: depois do tempo da correção vem o tempo da graça. O fim da história será a misericórdia triunfante."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ouvisse a voz do sangue que clamava para ele.” “A ira do Senhor tinha-se convertido em misericórdia.” “Nós confiamos em Deus Todo-Poderoso.” “Mandou a Eleázar que lesse o livro santo.” “Auxílio de Deus.” “Repartiram dos despojos com as vítimas da perseguição, com as viúvas e com os órfãos.”",
+    "meditatio_perguntas": [
+      "Diante das grandes lutas, confio nas minhas forças ou em Deus?",
+      "Leio a Palavra antes das decisões e combates?",
+      "Partilho as minhas “vitórias” com os pobres?"
+    ],
+    "oratio_guia": "Senhor Todo-Poderoso, converte a tua ira em misericórdia. Sê o meu auxílio no combate, fala-me pelo teu livro santo e ensina-me a partilhar com os pobres os bens que me dás. Amém.",
+    "contemplatio_foco": {
+      "texto": "Eles, dizia-lhes, somente confiam nas suas armas e na sua audácia; porém nós confiamos em Deus Todo-Poderoso",
+      "ref": "2Mc 8,18"
+    }
+  },
+  "ancoras": {
+    "8:10": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O tributo a Roma vinha do tratado de Apameia (188 a.C.), imposto a Antíoco III depois da derrota de Magnésia.",
+        "origem": "ia"
+      }
+    },
+    "8:20": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A batalha contra os gálatas na Babilônia não é conhecida por outras fontes; havia mercenários judeus no exército selêucida.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

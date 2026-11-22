@@ -1,0 +1,57 @@
+{
+  "id": "2MA.6.18",
+  "livro": "2MA",
+  "titulo": "O martírio de Eleazar",
+  "secao": "Os mártires",
+  "referencia": "2Mc 6,18-31",
+  "ini": {
+    "c": 6,
+    "v": 18
+  },
+  "fim": {
+    "c": 6,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Um nobre exemplo de fortaleza: o martírio de Eleazar",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Eleazar, um dos principais escribas, homem de idade avançada e de aspecto nobre, é obrigado, com a boca aberta à força, a comer carne de porco. “Mas ele, preferindo uma morte gloriosa a uma vida infame”, cospe a carne e caminha voluntariamente para o suplício, como devem fazer os que têm coragem de recusar o que não é lícito comer, mesmo por amor à vida. Os que presidem o banquete sacrílego, por velha amizade, chamam-no à parte e pedem que traga carne permitida e finja comer a do sacrifício, para escapar da morte. Mas ele, com nobres considerações dignas da sua idade, das suas cãs e da vida irrepreensível desde a infância, e sobretudo da lei santa dada por Deus, responde que o mandem logo para a sepultura: “não é digno da nossa idade usar de fingimento”; muitos jovens pensariam que Eleazar, aos noventa anos, passou para os costumes pagãos, e seriam enganados por causa da minha dissimulação, para ganhar um pouco de vida passageira, e eu atrairia vergonha sobre a minha velhice. “Ainda que eu me livrasse presentemente dos suplícios dos homens, não poderia todavia fugir à mão do Todo-Poderoso, nem na vida, nem depois da morte.” Por isso, morrendo com coragem, me mostrarei digno da velhice “e deixarei aos jovens um nobre exemplo de fortaleza” para morrer pelas leis santas. Os que antes eram brandos se enfurecem. Sob os golpes, Eleazar suspira: “O Senhor, que tem a ciência santa, bem sabe que, podendo eu livrar-me da morte, sofro em meu corpo, sob os açoites, acerbas dores; mas na alma sinto alegria em as padecer pelo temor que lhe tenho.” Assim morre, deixando a todos “um exemplo de valor e memória de virtude”.",
+    "alegorico": "Eleazar é venerado pela Igreja entre os santos Macabeus (1º de agosto). Os Padres (Gregório Nazianzeno, Ambrósio, Agostinho) o veem como o protótipo do mártir cristão, que recusa até a aparência de apostasia. A sua alegria na dor (“na alma sinto alegria”) antecipa a dos apóstolos, “contentes por terem sido dignos de sofrer ultrajes pelo Nome” (At 5,41).",
+    "moral": "A proposta dos amigos parece razoável: um pequeno fingimento para salvar a vida. Eleazar a recusa por causa do escândalo: o que pensariam os jovens? A coerência dos mais velhos é responsabilidade para com os mais novos. A fidelidade não é só interior; o testemunho público conta. E ele sabe que pode escapar dos homens, não de Deus. A verdadeira liberdade é preferir morrer a fingir.",
+    "anagogico": "“Nem na vida, nem depois da morte”: Eleazar sabe que há um juízo além da morte. A sua fé na vida futura dá sentido ao seu sacrifício."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Preferindo uma morte gloriosa a uma vida infame.” “Não é digno da nossa idade usar de fingimento.” “Não poderia todavia fugir à mão do Todo-Poderoso, nem na vida, nem depois da morte.” “Deixarei aos jovens um nobre exemplo de fortaleza.” “Na alma sinto alegria em as padecer.” “Um exemplo de valor e memória de virtude.”",
+    "meditatio_perguntas": [
+      "Aceito “pequenos fingimentos” para evitar problemas por causa da fé?",
+      "Que exemplo dou aos mais jovens com a minha coerência?",
+      "Sinto alegria em sofrer algo por amor a Deus?"
+    ],
+    "oratio_guia": "Senhor, dá-me a fortaleza de Eleazar, que preferiu a morte à mentira. Que eu nunca escandalize os pequenos com fingimentos, e deixe aos que vêm depois de mim um exemplo de fidelidade. Amém.",
+    "contemplatio_foco": {
+      "texto": "deixarei aos jovens um nobre exemplo de fortaleza, para sofrer, com ânimo pronto e valoroso, a morte em defesa das veneráveis e santas leis",
+      "ref": "2Mc 6,28"
+    }
+  },
+  "ancoras": {
+    "6:18": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A carne de porco (Lv 11,7) era o teste da apostasia; comê-la era renegar publicamente a aliança.",
+        "origem": "ia"
+      }
+    },
+    "6:24": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O relato de Eleazar foi desenvolvido no tratado judeu-helenista 4 Macabeus (séc. I d.C.), muito lido pelos Padres.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

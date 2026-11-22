@@ -1,0 +1,57 @@
+{
+  "id": "2MA.3.1",
+  "livro": "2MA",
+  "titulo": "Heliodoro no tesouro do Templo",
+  "secao": "Antes da perseguição",
+  "referencia": "2Mc 3,1-40",
+  "ini": {
+    "c": 3,
+    "v": 1
+  },
+  "fim": {
+    "c": 3,
+    "v": 40
+  },
+  "liturgia": {
+    "tema_central": "Aquele que habita nos céus protege este lugar: Heliodoro no Templo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Jerusalém goza de paz perfeita e as leis são bem observadas, “por causa da piedade do sumo pontífice Onias e do seu ódio a todo o mal”; até os reis honram o templo, e Seleuco paga os sacrifícios. Mas Simão, prefeito do templo, em conflito com Onias, vai a Apolônio, governador da Celessíria, e diz que o tesouro de Jerusalém está cheio de riquezas imensas. O rei envia Heliodoro, seu primeiro-ministro, para levá-las. Onias explica que são depósitos de viúvas e órfãos e de Hircano, e que é impossível defraudar os que confiaram na santidade do lugar. Heliodoro insiste. Toda a cidade se angustia: os sacerdotes prostram-se diante do altar em vestes sacerdotais, invocando aquele que fez a lei dos depósitos; o rosto do sumo sacerdote, pálido, revela a agonia da alma; o povo sai em multidão para a súplica; as mulheres, cobertas de saco, enchem as ruas; as virgens correm às portas e aos muros; todos, com as mãos erguidas ao céu, suplicam. No momento em que Heliodoro chega ao tesouro, “o Senhor dos espíritos e soberano dominador de todo o poder se manifestou”: aparece um cavalo montado por um cavaleiro terrível, com armadura de ouro, que o derruba com as patas, e dois jovens de força e beleza resplandecente que o açoitam sem parar. Heliodoro cai envolto em trevas e é levado numa liteira, sem fala e sem esperança de vida. Os judeus bendizem o Senhor. Amigos de Heliodoro pedem a Onias que reze por ele; o sumo sacerdote oferece um sacrifício pela sua vida, e os dois jovens reaparecem: agradece a Onias, pois por ele o Senhor te dá a vida; “anuncia a todos o seu grande poder”. Heliodoro oferece sacrifício e testemunha as obras de Deus. Ao rei, que pergunta quem enviar de novo, responde: manda o teu inimigo, e ele voltará açoitado; “aquele que tem habitação nos céus está vigilante e protege esse lugar”.",
+    "alegorico": "Os cavaleiros e jovens celestes são os anjos que guardam o santuário e os pobres; Rafael celebrou esta passagem nos seus afrescos do Vaticano (“A expulsão de Heliodoro”) como imagem de Deus que defende a Igreja contra os que a espoliam. Onias, que reza pelo inimigo derrotado, antecipa o mandamento de Cristo: “orai pelos que vos perseguem” (Mt 5,44).",
+    "moral": "A causa do conflito é a inveja de Simão, que entrega o templo para vencer um rival: a discórdia interna abre a porta ao inimigo. O dinheiro em jogo é o das viúvas e dos órfãos: Deus defende os pobres. A resposta do povo é a oração unânime. E Onias, depois da vitória, não se vinga: reza pela vida do inimigo. O castigo serve para converter Heliodoro em testemunha.",
+    "anagogico": "“Aquele que habita nos céus está vigilante”: os pobres e os lugares santos estão sob a guarda de Deus, que um dia fará justiça a todos os que os espoliaram."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Por causa da piedade do sumo pontífice Onias e do seu ódio a todo o mal.” “Depósitos das viúvas e dos órfãos.” “Levantando as mãos para o céu, dirigiam a Deus as suas súplicas.” “O Senhor dos espíritos… se manifestou.” “Anuncia a todos o seu grande poder.” “Aquele que tem habitação nos céus está vigilante e protege esse lugar.”",
+    "meditatio_perguntas": [
+      "A inveja ou a rivalidade me leva a prejudicar o que é de Deus?",
+      "Defendo os bens dos pobres, viúvas e órfãos?",
+      "Rezo pela conversão dos que me fizeram mal?"
+    ],
+    "oratio_guia": "Senhor dos espíritos, que habitas nos céus e vigias sobre os teus pobres, guarda a tua Igreja e o que pertence aos pequenos. Dá-me rezar pelos inimigos, para que se tornem testemunhas do teu poder. Amém.",
+    "contemplatio_foco": {
+      "texto": "Aquele que tem habitação nos céus, está vigilante e protege esse lugar",
+      "ref": "2Mc 3,39"
+    }
+  },
+  "ancoras": {
+    "3:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Seleuco IV Filopátor (187-175 a.C.), irmão e predecessor de Antíoco IV.",
+        "origem": "ia"
+      }
+    },
+    "3:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Heliodoro é conhecido por uma inscrição de Delos; mais tarde assassinou Seleuco IV (175 a.C.).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

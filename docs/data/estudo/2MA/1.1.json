@@ -1,0 +1,57 @@
+{
+  "id": "2MA.1.1",
+  "livro": "2MA",
+  "titulo": "Carta aos judeus do Egito",
+  "secao": "As cartas e o prefácio",
+  "referencia": "2Mc 1,1-9",
+  "ini": {
+    "c": 1,
+    "v": 1
+  },
+  "fim": {
+    "c": 1,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "Abra o vosso coração à sua lei: carta aos irmãos do Egito",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "O livro começa com uma carta: “Aos irmãos judeus, que estão no Egito, os judeus seus irmãos, que estão em Jerusalém e no país da Judeia, saúde e venturosa paz!” Segue uma bênção cheia de afeto: “Deus vos encha de bens e se lembre da aliança que fez com Abraão, Isaac e Jacó, seus fiéis servos!” “Que vos dê a todos um coração disposto a adorá-lo e a cumprir os seus preceitos, com grandeza de alma e generosidade.” “Abra o vosso coração à sua lei e aos seus preceitos, e vos dê a paz.” Que ouça as vossas orações, se reconcilie convosco e não vos abandone no tempo da aflição. “Aqui estamos agora orando por vós.” A carta recorda uma carta anterior, escrita sob Demétrio, no ano cento e sessenta e nove, durante a grande tribulação, desde que Jasão e os seus abandonaram a terra santa e o reino: a porta do templo foi queimada e derramou-se sangue inocente. Então rezaram ao Senhor e foram ouvidos; ofereceram o sacrifício e a flor de farinha, acenderam as lâmpadas e puseram os pães. E agora o convite: “Celebrai, pois, agora a festa dos tabernáculos do mês de Casleu.”",
+    "alegorico": "Esta carta é um belo testemunho da comunhão entre as comunidades dispersas e a Igreja-mãe de Jerusalém, como mais tarde as cartas apostólicas unirão as Igrejas. A bênção “abra o vosso coração à sua lei” ecoa o Senhor que “abriu o coração de Lídia” (At 16,14) e a mente dos discípulos às Escrituras (Lc 24,45). A festa da Dedicação, chamada “dos tabernáculos de Casleu”, une o tempo de Cristo, que nela se revela (Jo 10,22).",
+    "moral": "A carta ensina a rezar uns pelos outros: “aqui estamos agora orando por vós”. Antes de pedir aos irmãos que celebrem a festa, deseja-lhes um coração generoso para servir a Deus. A unidade do povo disperso se mantém pela oração mútua, pela memória das provações comuns e pela celebração das mesmas festas. A fé não é isolada; é comunhão.",
+    "anagogico": "Os irmãos dispersos, unidos pela oração e pelas festas, esperam a reunião final de todos no santo lugar de Deus."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Saúde e venturosa paz!” “Deus… se lembre da aliança que fez com Abraão, Isaac e Jacob.” “Que vos dê a todos um coração disposto a adorá-lo.” “Abra o vosso coração à sua lei.” “Vos não desampare no tempo da aflição.” “Aqui estamos agora orando por vós.”",
+    "meditatio_perguntas": [
+      "Rezo pelos irmãos de fé distantes de mim?",
+      "O meu coração está aberto à lei de Deus, com generosidade?",
+      "Celebro as festas da Igreja como laço de comunhão?"
+    ],
+    "oratio_guia": "Senhor, abre o meu coração à tua lei e dá-me um espírito generoso para te adorar. Lembra-te da tua aliança, não me desampares na aflição, e une na oração todos os teus filhos dispersos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Que vos dê a todos um coração disposto a adorá-lo e a cumprir os seus preceitos, com grandeza de alma e generosidade",
+      "ref": "2Mc 1,3"
+    }
+  },
+  "ancoras": {
+    "1:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O ano 169 corresponde a 143 a.C.; a carta atual seria do ano 188 (124 a.C.).",
+        "origem": "ia"
+      }
+    },
+    "1:9": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A Dedicação era chamada “festa dos tabernáculos de Casleu” porque imitava a festa das Tendas (oito dias, ramos), que não pudera ser celebrada em 164 a.C. (10,6).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

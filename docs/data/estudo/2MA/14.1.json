@@ -1,0 +1,57 @@
+{
+  "id": "2MA.14.1",
+  "livro": "2MA",
+  "titulo": "Alcimo e Nicanor",
+  "secao": "Judas Macabeu",
+  "referencia": "2Mc 14,1-36",
+  "ini": {
+    "c": 14,
+    "v": 1
+  },
+  "fim": {
+    "c": 14,
+    "v": 36
+  },
+  "liturgia": {
+    "tema_central": "Senhor, santo de toda santidade, conserva livre esta casa: Alcimo e Nicanor",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Três anos depois, Demétrio, filho de Seleuco, desembarca em Trípoli com um forte exército e navios, toma o país e mata Antíoco e Lísias. Alcimo, que fora sumo sacerdote e se contaminara voluntariamente no tempo da helenização, vendo que não havia salvação para ele nem acesso ao altar, vai ao rei com uma coroa de ouro, uma palma e ramos de oliveira. Interrogado no conselho, diz: os assideus, chefiados por Judas Macabeu, fomentam guerras e sedições; eu, despojado da dignidade dos meus pais, vim pelo bem do rei e do meu povo; “enquanto Judas viver, é impossível que haja paz no Estado”. Demétrio envia Nicanor, chefe dos elefantes, para matar Judas e instalar Alcimo. Os judeus, ao saber, cobrem-se de pó e suplicam ao Senhor que fundou o seu povo para sempre. Simão sofre um revés, mas Nicanor, ouvindo da coragem de Judas, prefere negociar. Encontram-se, cada um com a sua cadeira; Judas mantém homens armados por precaução; mas a conferência é leal. Nicanor fica em Jerusalém, nada faz contra a justiça, despede as tropas; tem sempre Judas consigo, afeiçoado a ele, e o aconselha a casar-se e ter filhos; Judas se casa, vive em paz e goza a vida. Alcimo, vendo a amizade, calunia Nicanor junto ao rei; Demétrio ordena que envie Judas preso a Antioquia. Nicanor se entristece de romper o pacto com um homem que não lhe fizera mal, mas obedece. Judas percebe a mudança e se esconde. Nicanor sobe ao templo e exige dos sacerdotes que entreguem Judas; eles juram não saber onde está; ele estende a mão contra o santuário e jura: se não mo entregardes, arrasarei este templo e levantarei aqui um templo a Baco. Os sacerdotes levantam as mãos ao céu: “Senhor de todo o universo, que de nada necessitas, quiseste que se edificasse um templo para tua habitação no meio de nós. Agora, pois, Senhor, santo de toda a santidade, conserva para sempre livre de profanação esta casa, que há pouco foi purificada.”",
+    "alegorico": "A oração dos sacerdotes contém uma intuição profunda: o Deus “que de nada necessita” quis habitar no meio dos homens. É o mistério que se cumpre na Encarnação: “o Verbo se fez carne e habitou entre nós” (Jo 1,14). A amizade entre Nicanor e Judas, rompida pela calúnia de Alcimo, é imagem de como a inveja do mal destrói a paz entre os homens.",
+    "moral": "O episódio mostra a possibilidade da paz e a sua fragilidade. Nicanor e Judas chegam a ser amigos; Judas pode enfim casar-se e viver tranquilo. Mas a calúnia de um homem amargurado destrói tudo. Alcimo, que se contaminou voluntariamente e perdeu o altar, passa a odiar os que permaneceram fiéis. Quem se afasta de Deus por escolha tende a perseguir os que lhe recordam o que perdeu.",
+    "anagogico": "“Conserva para sempre livre de profanação esta casa”: a Igreja e cada alma purificada são casa de Deus. No fim, nada impuro entrará na Jerusalém celeste (Ap 21,27)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Voluntariamente se havia manchado.” “Enquanto Judas viver, é impossível que haja paz.” “Tinha sempre Judas consigo, sentindo inclinação para a sua pessoa.” “Custava-lhe muito ter de violar o concerto.” “Senhor de todo o universo, que de nada necessitas, quiseste que se edificasse um templo para tua habitação no meio de nós.” “Senhor, santo de toda a santidade.”",
+    "meditatio_perguntas": [
+      "A inveja ou o ressentimento me levam a caluniar?",
+      "Sou capaz de construir amizade com quem pensava ser inimigo?",
+      "Guardo a casa de Deus em mim livre de profanação?"
+    ],
+    "oratio_guia": "Senhor de todo o universo, que de nada necessitas e quiseste habitar no meio de nós, santo de toda a santidade, conserva para sempre puro o templo do meu coração. Livra-me da calúnia e da inveja que destroem a paz. Amém.",
+    "contemplatio_foco": {
+      "texto": "Senhor de todo o universo, que de nada necessitas, quiseste que se edificasse um templo para tua habitação no meio de nós",
+      "ref": "2Mc 14,35"
+    }
+  },
+  "ancoras": {
+    "14:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Demétrio I Sóter tomou o poder em 162/161 a.C., cerca de três anos depois da purificação do Templo.",
+        "origem": "ia"
+      }
+    },
+    "14:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Os assideus aqui são identificados com o partido de Judas; em 1Mc 7,12-13 eles confiaram em Alcimo.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

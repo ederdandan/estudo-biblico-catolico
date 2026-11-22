@@ -1,0 +1,57 @@
+{
+  "id": "2MA.4.23",
+  "livro": "2MA",
+  "titulo": "Menelau e o assassinato de Onias",
+  "secao": "Antes da perseguição",
+  "referencia": "2Mc 4,23-50",
+  "ini": {
+    "c": 4,
+    "v": 23
+  },
+  "fim": {
+    "c": 4,
+    "v": 50
+  },
+  "liturgia": {
+    "tema_central": "Contra toda justiça: Menelau e o assassinato de Onias",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Três anos depois, Jasão envia Menelau, irmão daquele Simão, para levar dinheiro ao rei. Menelau, adulando o rei, compra para si o sumo sacerdócio, oferecendo trezentos talentos a mais que Jasão; volta “não tendo nada que fosse digno do sacerdócio, mas antes os instintos dum tirano cruel e a ira dum animal selvagem”. Jasão, que suplantara o irmão, é suplantado e foge para a terra dos amonitas. Menelau não paga o que prometeu; é chamado ao rei e deixa no seu lugar o irmão Lisímaco. Enquanto o rei está fora, Menelau rouba vasos de ouro do templo, dá parte a Andrônico, lugar-tenente do rei, e vende o resto. Onias, refugiado no santuário de Dafne, perto de Antioquia, o repreende. Menelau pede a Andrônico que o mate. Andrônico vai a Onias, convence-o com juramento a sair do asilo e “o matou logo, sem nenhuma atenção à justiça”. Não só os judeus, mas também muitos pagãos se indignam com a morte injusta desse homem. O rei, de volta, “ficou penetrado de tristeza no fundo do seu coração… e derramou lágrimas, lembrado da sabedoria e discrição do defunto”; manda despojar Andrônico da púrpura e matá-lo no mesmo lugar. Lisímaco, por conselho de Menelau, comete roubos sacrílegos; o povo se levanta e o mata junto ao tesouro. Três anciãos acusam Menelau diante do rei em Tiro; mas Menelau suborna Ptolomeu, que convence o rei; Menelau é absolvido, e os três inocentes são condenados à morte. Os próprios tírios, indignados, dão-lhes honrosa sepultura. E Menelau continua no poder, “por causa da sede de dinheiro dos governantes, crescendo em malícia e tornando-se o pior inimigo dos seus compatriotas”.",
+    "alegorico": "Onias, sumo sacerdote justo, atraído para fora do asilo com um juramento e morto à traição, é para muitos intérpretes o “ungido” eliminado de Dn 9,26. A sua figura prepara a do justo traído e morto injustamente, Cristo, sumo sacerdote eterno, cuja morte também comoveu pagãos (o centurião, Lc 23,47).",
+    "moral": "Simonia gera simonia: quem compra o cargo é por sua vez superado por quem paga mais. O resultado é um sacerdote com “a ira de um animal selvagem”. A corrupção se espalha pelos tribunais: o culpado é absolvido por dinheiro, os inocentes são mortos. Mas há também luzes: pagãos que se indignam e honram os justos. A consciência moral não é monopólio do povo de Deus.",
+    "anagogico": "Os justos mortos injustamente e honrados até pelos estrangeiros esperam a justiça de Deus. No juízo, nenhum suborno valerá."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Os instintos dum tirano cruel e a ira dum animal selvagem.” “O matou logo, sem nenhuma atenção à justiça.” “Também muitos pagãos ficaram indignados.” “Derramou lágrimas, lembrado da sabedoria e discrição do defunto.” “Foram punidos… com esta pena injusta.” “Por causa da sede de dinheiro dos governantes.”",
+    "meditatio_perguntas": [
+      "Indigno-me com a injustiça, mesmo quando não me atinge diretamente?",
+      "Há algo que estou disposto a “comprar” com dinheiro ou bajulação?",
+      "Reconheço a retidão também nos que não partilham a minha fé?"
+    ],
+    "oratio_guia": "Senhor, recebe os justos mortos injustamente e consola os que choram por eles. Livra os teus pastores da sede de dinheiro, e livra os juízes do suborno. Que eu nunca me cale diante da injustiça. Amém.",
+    "contemplatio_foco": {
+      "texto": "Não somente os Judeus, mas também muitos pagãos ficaram indignados e irritados pela injusta morte deste varão",
+      "ref": "2Mc 4,35"
+    }
+  },
+  "ancoras": {
+    "4:33": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Dafne, subúrbio de Antioquia com um famoso santuário de Apolo e Ártemis, que tinha direito de asilo.",
+        "origem": "ia"
+      }
+    },
+    "4:34": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A morte de Onias III é datada de 171 a.C.; seu filho Onias IV fundou um templo judeu em Leontópolis, no Egito.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

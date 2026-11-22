@@ -1,0 +1,57 @@
+{
+  "id": "2MA.12.1",
+  "livro": "2MA",
+  "titulo": "Jope, Jâmnia e as campanhas de Galaad",
+  "secao": "Judas Macabeu",
+  "referencia": "2Mc 12,1-31",
+  "ini": {
+    "c": 12,
+    "v": 1
+  },
+  "fim": {
+    "c": 12,
+    "v": 31
+  },
+  "liturgia": {
+    "tema_central": "Invocando o justo Juiz: Jope, Jâmnia e as campanhas de Galaad",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Concluído o tratado, Lísias volta ao rei e os judeus cultivam as terras. Mas os governadores locais, Timóteo, Apolônio, Jerônimo, Demofonte e Nicanor, não os deixam em paz. Os habitantes de Jope cometem um crime: convidam os judeus que vivem entre eles a subir com as mulheres e os filhos em barcos, como se não houvesse inimizade; os judeus aceitam, como pessoas pacíficas e sem suspeita, e, em alto-mar, pelo menos duzentos são afogados. Judas, sabendo da crueldade contra os seus irmãos, invoca Deus, “justo Juiz”, ataca de noite o porto, queima os barcos e mata os que ali se refugiaram. Faz o mesmo em Jâmnia, que planejava o mesmo crime: o clarão do fogo se vê em Jerusalém. Os árabes o atacam; vencidos, pedem a paz e prometem gado e ajuda; Judas aceita, crendo que lhe podem ser úteis. Toma Caspin, cujos habitantes blasfemam, invocando “o grande Senhor do mundo, que sem aríetes nem máquinas de guerra… derribou Jericó”. Persegue Timóteo; os generais Dositeu e Sosípatro matam a guarnição. Diante da primeira coorte de Judas, os inimigos fogem aterrorizados pela manifestação daquele que vê todas as coisas. Timóteo, capturado, pede a vida, alegando ter muitos pais e irmãos dos judeus como prisioneiros; deixam-no ir em troca da libertação deles, “com o fim de salvar seus irmãos”. Judas toma Carnion e Efron. Mas chegando a Citópolis, os judeus que ali vivem atestam que foram bem tratados nos tempos de desgraça; Judas e os seus agradecem aos citopolitanos e os exortam a continuar benévolos com o seu povo. E voltam a Jerusalém para a festa das Semanas.",
+    "alegorico": "A distinção entre Jope, que trai, e Citópolis, que trata bem os judeus e recebe gratidão, mostra que o juízo de Deus não é contra os povos, mas contra o mal. A tradição cristã leu aqui que Deus, “justo Juiz”, distingue os corações: “não faz acepção de pessoas, mas em qualquer nação lhe é agradável quem o teme e pratica a justiça” (At 10,34-35).",
+    "moral": "O texto mostra um Judas que pune o crime, mas também sabe fazer a paz (com os árabes), trocar a vida de um inimigo pela dos prisioneiros e agradecer aos estrangeiros que foram bons. A gratidão para com os que ajudaram o povo de Deus nos tempos difíceis é um dever de justiça. A violência dos relatos pertence ao seu tempo; a lição duradoura é o discernimento entre o inimigo e o benfeitor.",
+    "anagogico": "Deus, “justo Juiz” que vê todas as coisas, dará a cada um segundo as suas obras. Os que foram bons com os pequenos receberão a sua recompensa (Mt 25,40)."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Como pessoas pacíficas, sem a menor suspeita.” “Depois de ter invocado a Deus, justo Juiz.” “Que, sem aríetes nem máquinas de guerra… derribou Jericó.” “Com o fim de salvar seus irmãos.” “Tinham recebido deles atenções.” “Apresentaram-lhes agradecimentos.”",
+    "meditatio_perguntas": [
+      "Sei agradecer aos que, mesmo sem partilhar a minha fé, me fizeram bem?",
+      "Distingo o mal das pessoas, sem generalizar contra grupos inteiros?",
+      "Estou disposto a renunciar a uma “vitória” para salvar irmãos?"
+    ],
+    "oratio_guia": "Deus, justo Juiz, que vês todas as coisas, guarda-me do ódio que generaliza e dá-me um coração grato para com todos os que fazem o bem aos teus. Ensina-me a buscar sempre a salvação dos irmãos. Amém.",
+    "contemplatio_foco": {
+      "texto": "depois de ter invocado a Deus, justo Juiz",
+      "ref": "2Mc 12,5"
+    }
+  },
+  "ancoras": {
+    "12:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Citópolis (Bet-Shean), cidade helenística da Decápole, chamada “dos citas” por causa de antigos mercenários.",
+        "origem": "ia"
+      }
+    },
+    "12:31": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A festa das Semanas (Pentecostes), cinquenta dias após a Páscoa.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

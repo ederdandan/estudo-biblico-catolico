@@ -1,0 +1,57 @@
+{
+  "id": "2MA.1.10",
+  "livro": "2MA",
+  "titulo": "O fogo sagrado escondido e reencontrado",
+  "secao": "As cartas e o prefácio",
+  "referencia": "2Mc 1,10-36",
+  "ini": {
+    "c": 1,
+    "v": 10
+  },
+  "fim": {
+    "c": 1,
+    "v": 36
+  },
+  "liturgia": {
+    "tema_central": "Em tudo seja Deus louvado: o fogo sagrado reencontrado",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Segunda carta, do ano cento e oitenta e oito: o povo de Jerusalém e da Judeia, o senado e Judas escrevem a Aristóbulo, mestre do rei Ptolomeu, e aos judeus do Egito. Livres por Deus de grandes perigos, dão graças por terem podido combater contra um rei; foi Deus mesmo quem repeliu os que atacaram a cidade santa. O chefe deles, na Pérsia, com um exército que parecia invencível, morreu no templo de Naneia, enganado pelos seus sacerdotes: entrou com poucos para tomar os tesouros como dote, e os sacerdotes, por uma porta secreta no teto, o esmagaram com pedras. “Em tudo seja Deus louvado, que assim entregou os ímpios.” Ao celebrar a purificação do templo no dia vinte e cinco de Casleu, querem contar aos irmãos a história do fogo. Quando os pais foram levados para a Pérsia, os sacerdotes piedosos tomaram o fogo do altar e o esconderam num poço seco. Muitos anos depois, Neemias mandou os descendentes desses sacerdotes buscá-lo; não encontraram fogo, mas uma água espessa. Neemias manda aspergir com ela a lenha e as vítimas. Quando o sol, antes encoberto, brilha, acende-se um grande fogo, e todos se maravilham. Os sacerdotes rezam enquanto o sacrifício se consome: “Senhor, Senhor Deus, criador de todas as coisas, terrível e forte, justo e misericordioso, que és o único rei e bom”; “congrega todos os nossos irmãos dispersos”; “estabelece o teu povo no teu santo lugar”. O resto da água, derramado sobre as pedras, acende uma chama que se funde com o fogo do altar. O rei da Pérsia, sabendo disso, manda cercar o lugar e o declara sagrado. Chamam-no Neftar, isto é, purificação.",
+    "alegorico": "O fogo do altar escondido e reencontrado como água espessa que se inflama ao sol é uma imagem cara aos Padres: o Espírito Santo, fogo divino, que parece apagado nos tempos de exílio, mas reacende quando o Sol de justiça brilha. A água que se torna fogo evoca o Batismo “na água e no Espírito” (Jo 3,5) e o fogo de Pentecostes. A oração de Neemias, “congrega os dispersos”, é retomada pela Igreja (Didaqué 9: “como este pão estava disperso sobre os montes…”).",
+    "moral": "Os sacerdotes do exílio não puderam salvar o templo, mas salvaram o fogo: guardaram o que era essencial para o recomeço. Nos tempos difíceis, é preciso guardar a chama, mesmo escondida. E a oração ensina a ordem certa: primeiro louvar quem Deus é (criador, justo, misericordioso, único rei), depois pedir pelo povo e pelos dispersos.",
+    "anagogico": "O fogo que se une ao fogo do altar é figura da alma que, purificada, se une a Deus, fogo consumidor e eterno. Os dispersos serão reunidos no santo lugar."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Livrados por Deus de grandes perigos, rendemos-lhe grandes acções de graças.” “Em tudo seja Deus louvado.” “Esconderam-no secretamente no fundo dum poço seco.” “Acendeu-se um grande fogo.” “Senhor Deus, criador de todas as coisas… justo e misericordioso.” “Congrega todos os nossos irmãos dispersos.” “Purificação.”",
+    "meditatio_perguntas": [
+      "Que “fogo” da fé preciso guardar nos tempos de exílio?",
+      "Começo as minhas orações pelo louvor de quem Deus é?",
+      "Rezo pela reunião dos irmãos dispersos?"
+    ],
+    "oratio_guia": "Senhor, Deus criador, justo e misericordioso, único rei e bom: guarda em mim o fogo do teu Espírito, mesmo quando parecer apagado. Reacende-o ao sol da tua graça e congrega os teus filhos dispersos no teu santo lugar. Amém.",
+    "contemplatio_foco": {
+      "texto": "Senhor, Senhor Deus, criador de todas as coisas, terrível e forte, justo e misericordioso, que és o único rei e bom",
+      "ref": "2Mc 1,24"
+    }
+  },
+  "ancoras": {
+    "1:13": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Esta versão da morte de Antíoco IV difere de 1Mc 6 e 2Mc 9; talvez confunda com a morte de Antíoco III (187 a.C.), morto ao saquear um templo em Elimaida.",
+        "origem": "ia"
+      }
+    },
+    "1:36": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Neftar” é talvez a nafta (petróleo), que se inflama ao sol; a palavra é explicada popularmente como “purificação”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

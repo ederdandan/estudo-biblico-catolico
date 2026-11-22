@@ -1,0 +1,28 @@
+# Divisão em perícopes (numeração Matos Soares / Vulgata). Formato: ini-fim | título
+# Linhas "## " abrem uma seção.
+## As cartas e o prefácio
+1:1-1:9 | Carta aos judeus do Egito
+1:10-1:36 | O fogo sagrado escondido e reencontrado
+2:1-2:18 | Jeremias esconde a tenda, a arca e o altar
+2:19-2:33 | O prefácio do autor
+## Antes da perseguição
+3:1-3:40 | Heliodoro no tesouro do Templo
+4:1-4:22 | Jasão e a moda grega
+4:23-4:50 | Menelau e o assassinato de Onias
+5:1-5:27 | Antíoco saqueia o Templo
+## Os mártires
+6:1-6:17 | A profanação do Templo e o sentido do castigo
+6:18-6:31 | O martírio de Eleazar
+7:1-7:42 | A mãe e os sete filhos
+## Judas Macabeu
+8:1-8:36 | Judas vence Nicanor
+9:1-9:29 | A morte de Antíoco Epífanes
+10:1-10:9 | A purificação do Templo
+10:10-10:38 | Guerras contra os idumeus e Timóteo
+11:1-11:38 | A derrota de Lísias e as cartas de paz
+12:1-12:31 | Jope, Jâmnia e as campanhas de Galaad
+12:32-12:46 | A oração pelos mortos
+13:1-13:26 | A morte de Menelau e a campanha de Antíoco Eupátor
+14:1-14:36 | Alcimo e Nicanor
+14:37-14:46 | O martírio de Razias
+15:1-15:40 | A vitória sobre Nicanor e o epílogo

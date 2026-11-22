@@ -1,0 +1,57 @@
+{
+  "id": "2MA.10.1",
+  "livro": "2MA",
+  "titulo": "A purificação do Templo",
+  "secao": "Judas Macabeu",
+  "referencia": "2Mc 10,1-9",
+  "ini": {
+    "c": 10,
+    "v": 1
+  },
+  "fim": {
+    "c": 10,
+    "v": 9
+  },
+  "liturgia": {
+    "tema_central": "Castiga-nos com brandura: a purificação do Templo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Macabeu e os seus companheiros, “graças à proteção do Senhor”, recobram o templo e a cidade. Demolem os altares levantados pelos estrangeiros na praça pública e os santuários dos ídolos. Purificam o templo, constroem um novo altar e, tirando faíscas de pedras, acendem o fogo e oferecem sacrifícios, depois de dois anos de interrupção; queimam o incenso, acendem as lâmpadas e põem os pães da proposição. Feito isso, prostrados por terra, suplicam ao Senhor que não os deixe cair de novo em tão grandes males, “mas que, no caso de novamente pecarem, os castigasse com brandura e não os entregasse a homens ímpios e bárbaros”. No mesmo dia em que o templo tinha sido profanado pelos estrangeiros, é purificado: no dia vinte e cinco de Casleu. Celebram com alegria oito dias, como na festa dos Tabernáculos, lembrando-se de que pouco antes tinham passado aquela festa nos montes e nas cavernas, como animais selvagens. Por isso levam nas mãos tirsos, ramos verdes e palmas, e cantam hinos àquele que lhes concedeu purificar o seu lugar santo. E, por decreto comum, estabelecem que toda a nação judaica celebre a festa todos os anos naqueles dias. “Tal foi o fim da vida de Antíoco, chamado Epífanes.”",
+    "alegorico": "O fogo tirado de pedras para o novo altar foi lido pelos Padres como imagem de Cristo, “pedra” da qual brota o fogo do Espírito (1Cor 10,4). Os ramos e palmas dos oito dias da Dedicação prefiguram os ramos da entrada de Jesus em Jerusalém e as palmas dos eleitos diante do Cordeiro (Ap 7,9). A Igreja celebra com a mesma alegria a dedicação dos seus templos.",
+    "moral": "A oração depois da purificação é de uma grande sabedoria: não pedem ser impecáveis, mas que, se pecarem, Deus os corrija “com brandura” e não os entregue aos ímpios. É a humildade de quem conhece a própria fraqueza e prefere cair nas mãos de Deus que nas mãos dos homens (2Sm 24,14). E a alegria da festa nasce da memória do sofrimento: os que viveram nas cavernas celebram com mais gratidão.",
+    "anagogico": "Os ramos e as palmas da festa anunciam a liturgia celeste, onde os que passaram pela grande tribulação celebram para sempre aquele que purificou o seu templo."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Graças à protecção do Senhor, recobraram o templo e a cidade.” “Tendo feito sair algumas faíscas de fogo de pedra.” “Que no caso de novamente pecarem, os castigasse com brandura.” “Celebraram esta festa com alegria durante oito dias.” “Levavam nas mãos tirsos, ramos verdes e palmas.”",
+    "meditatio_perguntas": [
+      "Peço a Deus que, se eu cair, me corrija com brandura e não me abandone?",
+      "Celebro com gratidão a lembrança das provações vencidas?",
+      "Que “altar novo” preciso reconstruir na minha vida?"
+    ],
+    "oratio_guia": "Senhor, que purificaste o teu templo, purifica o meu coração. Não permitas que eu volte a cair; mas, se eu pecar, corrige-me com brandura e não me entregues ao inimigo. E faz-me celebrar com palmas a tua vitória. Amém.",
+    "contemplatio_foco": {
+      "texto": "no caso de novamente pecarem, os castigasse com brandura e não os entregasse a homens ímpios e bárbaros",
+      "ref": "2Mc 10,4"
+    }
+  },
+  "ancoras": {
+    "10:3": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“Dois anos”: 1Mc 1,57 e 4,52 indicam três anos (167-164 a.C.); a diferença depende da contagem.",
+        "origem": "ia"
+      }
+    },
+    "10:6": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A festa das Tendas de 164 a.C. (outubro) fora passada nas montanhas; por isso a Dedicação imita os ritos dos Tabernáculos.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2MA.14.37",
+  "livro": "2MA",
+  "titulo": "O martírio de Razias",
+  "secao": "Judas Macabeu",
+  "referencia": "2Mc 14,37-46",
+  "ini": {
+    "c": 14,
+    "v": 37
+  },
+  "fim": {
+    "c": 14,
+    "v": 46
+  },
+  "liturgia": {
+    "tema_central": "O Senhor da vida e da alma: o martírio de Razias",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Foi acusado diante de Nicanor um dos anciãos de Jerusalém, chamado Bazis (Razias), “homem que amava os seus concidadãos, que era muito considerado e chamado o pai dos judeus, pelo afeto que lhes tinha”. Já antes, nos tempos da resistência ao paganismo, fora acusado de judaísmo e expusera com constância o corpo e a vida pelo judaísmo. Nicanor, querendo mostrar o seu ódio aos judeus, manda quinhentos soldados prendê-lo, pensando causar-lhes um grande dano. Quando as tropas estão para tomar a torre e queimar as portas, cercado, ele se fere com a espada, “preferindo morrer nobremente a ser sujeito a criminosos e padecer ultrajes indignos do seu nascimento”. Como o golpe, pela pressa, não é mortal, e os soldados entram, corre ao muro e se lança sobre a multidão; os soldados se afastam e ele cai no espaço vazio. Ainda vivo, inflamado, levanta-se coberto de sangue e de feridas, atravessa a multidão correndo, sobe a uma rocha escarpada e, já quase sem sangue, arranca as entranhas e as lança com as duas mãos sobre a multidão, “invocando o Senhor da vida e da alma, para que lhas tornasse a dar um dia. Assim acabou a vida”.",
+    "alegorico": "O autor sagrado narra o gesto de Razias como uma morte heroica, segundo a mentalidade do seu tempo, e põe nos seus lábios uma confissão de fé na ressurreição do corpo: o Senhor “da vida e da alma” lhe devolverá o que entrega. Santo Agostinho (Contra Gaudêncio I,31) explica que a Escritura narra o fato e louva a sua fidelidade, mas não aprova o modo da sua morte; a Igreja ensina que a vida é dom de Deus, de que não somos senhores.",
+    "moral": "O que permanece exemplar em Razias é o amor ao seu povo (“pai dos judeus”), a constância na fé desde as primeiras perseguições e a esperança na ressurreição. O gesto de tirar a própria vida não é proposto como modelo: a fé cristã ensina que não dispomos da vida, nem mesmo para fugir da humilhação. O cristão é chamado a suportar com Cristo também a humilhação, que ele mesmo sofreu na cruz.",
+    "anagogico": "“Para que lhas tornasse a dar um dia”: Razias morre confessando a ressurreição da carne. A esperança cristã é essa: Deus, Senhor da vida, devolverá aos seus o corpo glorificado."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Homem que amava os seus concidadãos.” “Chamado o pai dos Judeus, pelo afecto que lhes tinha.” “Pronto a entregar por ele o seu corpo e a sua vida.” “Invocando o Senhor da vida e da alma, para que lhas tornasse a dar um dia.”",
+    "meditatio_perguntas": [
+      "Amo o povo de Deus a ponto de ser chamado “pai” ou “mãe” por ele?",
+      "Creio que Deus é o Senhor da minha vida e da minha alma?",
+      "Sei aceitar a humilhação unido a Cristo, sem desesperar?"
+    ],
+    "oratio_guia": "Senhor da vida e da alma, que nos devolverás um dia o que te entregamos, guarda-me no amor ao teu povo e na constância da fé. Dá-me suportar com Cristo toda humilhação, e esperar a ressurreição da carne. Amém.",
+    "contemplatio_foco": {
+      "texto": "invocando o Senhor da vida e da alma, para que lhas tornasse a dar um dia",
+      "ref": "2Mc 14,46"
+    }
+  },
+  "ancoras": {
+    "14:37": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Matos Soares grafa “Bazis”; a Vulgata e o grego chamam-no Razias (Razis).",
+        "origem": "ia"
+      }
+    },
+    "14:42": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O tipo de “morte nobre” para evitar a desonra era admirado na cultura greco-romana; a tradição cristã o julga à luz do quinto mandamento.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2MA.6.1",
+  "livro": "2MA",
+  "titulo": "A profanação do Templo e o sentido do castigo",
+  "secao": "Os mártires",
+  "referencia": "2Mc 6,1-17",
+  "ini": {
+    "c": 6,
+    "v": 1
+  },
+  "fim": {
+    "c": 6,
+    "v": 17
+  },
+  "liturgia": {
+    "tema_central": "Castiga, mas não desampara: a profanação e o sentido da prova",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Pouco depois, o rei envia um ancião ateniense para obrigar os judeus a abandonar as leis de Deus e dos pais, para profanar o templo de Jerusalém e dedicá-lo a Júpiter Olímpico, e o de Garizim a Júpiter Hospitaleiro. O mal se torna pesado para todos: o templo enche-se de devassidão e de banquetes dos gentios, que se divertem com prostitutas nos átrios sagrados; o altar se enche de vítimas proibidas. Não se pode guardar o sábado nem as festas, “e ninguém se atrevia a confessar que era judeu”. Todo mês, no aniversário do rei, levam-nos à força aos sacrifícios, e na festa de Baco obrigam-nos a andar em procissão coroados de hera. Um édito estende a perseguição às cidades gregas vizinhas. Duas mulheres, acusadas de circuncidar os filhos, são levadas pela cidade com as crianças penduradas ao peito e lançadas do alto das muralhas. Outros, que celebram o sábado escondidos em cavernas, são denunciados e queimados, porque por respeito ao dia santo não se defendem. Aqui o autor interrompe a narrativa: “Eu conjuro, porém, os que lerem este livro, a que se não deixem abater por tais calamidades, antes considerem que todos estes males… não foram para ruína, mas para castigo da nossa raça.” É sinal de grande misericórdia que Deus não deixe impunes os pecadores por muito tempo, mas os corrija logo. Com as outras nações, o Senhor espera com paciência para puni-las na plenitude dos seus pecados; conosco não age assim, para não nos punir quando os nossos pecados chegarem ao cúmulo. “Portanto ele nunca retira de nós a sua misericórdia, e, quando castiga o seu povo com adversidades, não o desampara.”",
+    "alegorico": "A reflexão do autor é retomada pela Carta aos Hebreus: “o Senhor corrige a quem ama, e castiga todo aquele que recebe como filho” (Hb 12,6). A correção imediata é sinal de filiação. Os Padres aplicaram este texto à vida da Igreja perseguida: as provações não são abandono, mas pedagogia do Pai.",
+    "moral": "O autor quer evitar que o leitor desanime diante de tanto sofrimento. A perseguição é real, cruel, e não é negada. Mas tem um sentido: Deus corrige o seu povo antes que o mal chegue ao extremo. A dor que corrige é melhor que a impunidade que deixa apodrecer. Ler as provações como pedagogia de Deus muda a forma de sofrê-las: não com revolta, mas com confiança.",
+    "anagogico": "“Não o desampara”: a misericórdia de Deus acompanha o seu povo até no castigo, e o conduz à purificação final e à glória."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Ninguém se atrevia a confessar que era Judeu.” “Que se não deixem abater por tais calamidades.” “Não foram para ruína, mas para castigo da nossa raça.” “É sinal de grande misericórdia de Deus… não deixar por muito tempo impunes.” “Ele nunca retira de nós a sua misericórdia.” “Não o desampara.”",
+    "meditatio_perguntas": [
+      "Tenho coragem de “confessar” a minha fé quando isso custa?",
+      "Leio as minhas provações como correção amorosa de Deus?",
+      "Prefiro ser corrigido logo ou permanecer no pecado impune?"
+    ],
+    "oratio_guia": "Pai, que corriges os filhos que amas, não retires de mim a tua misericórdia. Quando me provares, não me deixes desanimar, e dá-me a coragem de confessar o teu nome diante de todos. Amém.",
+    "contemplatio_foco": {
+      "texto": "Portanto ele nunca retira de nós a sua misericórdia, e, quando castiga o seu povo com adversidades, não o desampara",
+      "ref": "2Mc 6,16"
+    }
+  },
+  "ancoras": {
+    "6:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Zeus Olímpico, a quem Antíoco se identificava; o “velho ateniense” talvez fosse um conselheiro religioso.",
+        "origem": "ia"
+      }
+    },
+    "6:7": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A festa de Dioniso (Baco), com procissões e coroas de hera, era central no culto real selêucida.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

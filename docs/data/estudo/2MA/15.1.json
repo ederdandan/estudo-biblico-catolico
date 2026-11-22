@@ -1,0 +1,57 @@
+{
+  "id": "2MA.15.1",
+  "livro": "2MA",
+  "titulo": "A vitória sobre Nicanor e o epílogo",
+  "secao": "Judas Macabeu",
+  "referencia": "2Mc 15,1-40",
+  "ini": {
+    "c": 15,
+    "v": 1
+  },
+  "fim": {
+    "c": 15,
+    "v": 40
+  },
+  "liturgia": {
+    "tema_central": "Toma esta santa espada: a vitória sobre Nicanor e o epílogo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Nicanor decide atacar Judas em dia de sábado na Samaria. Os judeus forçados a segui-lo pedem: honra o dia que o Senhor que vê tudo santificou. Ele pergunta: há no céu um soberano que mandou celebrar o sábado? Respondem: “há um Senhor vivo e poderoso no céu, o qual mandou guardar o dia sétimo”. Ele replica: “também eu sou poderoso na terra”. Mas não consegue executar o seu plano. Enquanto Nicanor, em sua arrogância, planeja um troféu, “Macabeu esperava sempre, com toda a confiança, que Deus lhe havia de assistir”. Exorta os seus a não temer, lembrando os auxílios do céu; anima-os “com a lei e os profetas”, arma-os mais com palavras que com escudos, e conta um sonho digno de fé: o sumo sacerdote Onias, homem bom, modesto, de palavra nobre, exercitado desde menino nas virtudes, “orava de mãos estendidas por todo o povo judaico”; depois aparece um ancião de glória majestosa, e Onias diz: “Este é o amigo de seus irmãos e do povo de Israel, é Jeremias, profeta de Deus, que ora muito pelo povo e por toda a cidade santa.” Jeremias entrega a Judas uma espada de ouro: “Toma esta santa espada como um presente de Deus.” Animados, decidem atacar; o seu maior temor não é pelas mulheres e filhos, mas pelo templo. Diante do exército inimigo, com os elefantes e a cavalaria, Judas estende as mãos ao céu: tu que enviaste o teu anjo no tempo de Ezequias, “manda também agora diante de nós, ó Senhor dos céus, o teu bom anjo”. Combatendo com as mãos e rezando no coração, matam trinta e cinco mil, alegres com a manifestação de Deus. Encontram Nicanor morto na sua armadura. Judas leva a Jerusalém a cabeça e a mão que ele estendera contra o templo, e todos bendizem o Senhor “que conservou puro o seu santo templo”. Decreta-se celebrar o dia treze de Adar, véspera do dia de Mardoqueu. O autor encerra: se a narração está bem feita, é o que desejava; se é medíocre, foi o que pude; como o vinho misturado com água agrada mais, assim a narração bem temperada encanta o leitor. “E com isto termino.”",
+    "alegorico": "O sonho de Judas é o grande testemunho bíblico da intercessão dos santos: Onias, já morto, reza “de mãos estendidas por todo o povo”, e Jeremias “ora muito pelo povo e pela cidade santa”. A Igreja vê aqui o fundamento da comunhão dos santos e da intercessão dos justos que estão junto de Deus. A espada de ouro dada por Jeremias é a Palavra de Deus, “mais cortante que espada de dois gumes” (Hb 4,12). A imagem do vinho misturado com água foi lembrada a propósito do vinho e da água do cálice eucarístico.",
+    "moral": "Nicanor, que se diz “poderoso na terra” contra o Senhor do céu, resume o orgulho de todos os perseguidores do livro, e cai. Judas vence armando os seus “com palavras”: a lei, os profetas, o sonho de fé. O seu primeiro temor é pelo templo, não por si mesmo. E o autor termina com humildade: fez o que pôde. Até a obra inspirada é oferecida com modéstia.",
+    "anagogico": "Os santos que intercedem por nós no céu, como Onias e Jeremias, são a garantia de que a vitória final pertence a Deus e ao seu povo. A comunhão dos santos une a Igreja peregrina e a Igreja gloriosa."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Há um Senhor vivo e poderoso no céu.” “Macabeu esperava sempre, com toda a confiança.” “Animou-os com a lei e os profetas.” “Orava de mãos estendidas por todo o povo judaico.” “Jeremias, profeta de Deus, que ora muito pelo povo.” “Toma esta santa espada como um presente de Deus.” “Bem-dito seja aquele que conservou puro o seu santo templo.”",
+    "meditatio_perguntas": [
+      "Creio que os santos intercedem por mim junto de Deus?",
+      "Armo-me para os combates com a Palavra de Deus?",
+      "O que mais temo perder: os meus bens ou o que é de Deus?"
+    ],
+    "oratio_guia": "Senhor vivo e poderoso no céu, obrigado pelos santos que oram por nós de mãos estendidas. Dá-me a espada da tua Palavra, envia o teu bom anjo à minha frente e conserva puro o templo do meu coração. Amém.",
+    "contemplatio_foco": {
+      "texto": "Este é o amigo de seus irmãos e do povo de Israel, é Jeremias, profeta de Deus, que ora muito pelo povo e por toda a cidade santa",
+      "ref": "2Mc 15,14"
+    }
+  },
+  "ancoras": {
+    "15:36": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O 13 de Adar de 161 a.C.; o “dia de Mardoqueu” é a festa de Purim (Est 9,17-19).",
+        "origem": "ia"
+      }
+    },
+    "15:38": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "O livro termina antes da morte de Judas (1Mc 9), com a cidade em posse dos judeus: o autor escolhe concluir na vitória.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

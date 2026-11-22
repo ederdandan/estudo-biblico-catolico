@@ -1,0 +1,319 @@
+{
+ "livro": "2MA",
+ "secoes": [
+  "As cartas e o prefácio",
+  "Antes da perseguição",
+  "Os mártires",
+  "Judas Macabeu"
+ ],
+ "pericopes": [
+  {
+   "id": "2MA.1.1",
+   "titulo": "Carta aos judeus do Egito",
+   "secao": "As cartas e o prefácio",
+   "referencia": "2Mc 1,1-9",
+   "ini": {
+    "c": 1,
+    "v": 1
+   },
+   "fim": {
+    "c": 1,
+    "v": 9
+   }
+  },
+  {
+   "id": "2MA.1.10",
+   "titulo": "O fogo sagrado escondido e reencontrado",
+   "secao": "As cartas e o prefácio",
+   "referencia": "2Mc 1,10-36",
+   "ini": {
+    "c": 1,
+    "v": 10
+   },
+   "fim": {
+    "c": 1,
+    "v": 36
+   }
+  },
+  {
+   "id": "2MA.2.1",
+   "titulo": "Jeremias esconde a tenda, a arca e o altar",
+   "secao": "As cartas e o prefácio",
+   "referencia": "2Mc 2,1-18",
+   "ini": {
+    "c": 2,
+    "v": 1
+   },
+   "fim": {
+    "c": 2,
+    "v": 18
+   }
+  },
+  {
+   "id": "2MA.2.19",
+   "titulo": "O prefácio do autor",
+   "secao": "As cartas e o prefácio",
+   "referencia": "2Mc 2,19-33",
+   "ini": {
+    "c": 2,
+    "v": 19
+   },
+   "fim": {
+    "c": 2,
+    "v": 33
+   }
+  },
+  {
+   "id": "2MA.3.1",
+   "titulo": "Heliodoro no tesouro do Templo",
+   "secao": "Antes da perseguição",
+   "referencia": "2Mc 3,1-40",
+   "ini": {
+    "c": 3,
+    "v": 1
+   },
+   "fim": {
+    "c": 3,
+    "v": 40
+   }
+  },
+  {
+   "id": "2MA.4.1",
+   "titulo": "Jasão e a moda grega",
+   "secao": "Antes da perseguição",
+   "referencia": "2Mc 4,1-22",
+   "ini": {
+    "c": 4,
+    "v": 1
+   },
+   "fim": {
+    "c": 4,
+    "v": 22
+   }
+  },
+  {
+   "id": "2MA.4.23",
+   "titulo": "Menelau e o assassinato de Onias",
+   "secao": "Antes da perseguição",
+   "referencia": "2Mc 4,23-50",
+   "ini": {
+    "c": 4,
+    "v": 23
+   },
+   "fim": {
+    "c": 4,
+    "v": 50
+   }
+  },
+  {
+   "id": "2MA.5.1",
+   "titulo": "Antíoco saqueia o Templo",
+   "secao": "Antes da perseguição",
+   "referencia": "2Mc 5,1-27",
+   "ini": {
+    "c": 5,
+    "v": 1
+   },
+   "fim": {
+    "c": 5,
+    "v": 27
+   }
+  },
+  {
+   "id": "2MA.6.1",
+   "titulo": "A profanação do Templo e o sentido do castigo",
+   "secao": "Os mártires",
+   "referencia": "2Mc 6,1-17",
+   "ini": {
+    "c": 6,
+    "v": 1
+   },
+   "fim": {
+    "c": 6,
+    "v": 17
+   }
+  },
+  {
+   "id": "2MA.6.18",
+   "titulo": "O martírio de Eleazar",
+   "secao": "Os mártires",
+   "referencia": "2Mc 6,18-31",
+   "ini": {
+    "c": 6,
+    "v": 18
+   },
+   "fim": {
+    "c": 6,
+    "v": 31
+   }
+  },
+  {
+   "id": "2MA.7.1",
+   "titulo": "A mãe e os sete filhos",
+   "secao": "Os mártires",
+   "referencia": "2Mc 7,1-42",
+   "ini": {
+    "c": 7,
+    "v": 1
+   },
+   "fim": {
+    "c": 7,
+    "v": 42
+   }
+  },
+  {
+   "id": "2MA.8.1",
+   "titulo": "Judas vence Nicanor",
+   "secao": "Judas Macabeu",
+   "referencia": "2Mc 8,1-36",
+   "ini": {
+    "c": 8,
+    "v": 1
+   },
+   "fim": {
+    "c": 8,
+    "v": 36
+   }
+  },
+  {
+   "id": "2MA.9.1",
+   "titulo": "A morte de Antíoco Epífanes",
+   "secao": "Judas Macabeu",
+   "referencia": "2Mc 9,1-29",
+   "ini": {
+    "c": 9,
+    "v": 1
+   },
+   "fim": {
+    "c": 9,
+    "v": 29
+   }
+  },
+  {
+   "id": "2MA.10.1",
+   "titulo": "A purificação do Templo",
+   "secao": "Judas Macabeu",
+   "referencia": "2Mc 10,1-9",
+   "ini": {
+    "c": 10,
+    "v": 1
+   },
+   "fim": {
+    "c": 10,
+    "v": 9
+   }
+  },
+  {
+   "id": "2MA.10.10",
+   "titulo": "Guerras contra os idumeus e Timóteo",
+   "secao": "Judas Macabeu",
+   "referencia": "2Mc 10,10-38",
+   "ini": {
+    "c": 10,
+    "v": 10
+   },
+   "fim": {
+    "c": 10,
+    "v": 38
+   }
+  },
+  {
+   "id": "2MA.11.1",
+   "titulo": "A derrota de Lísias e as cartas de paz",
+   "secao": "Judas Macabeu",
+   "referencia": "2Mc 11,1-38",
+   "ini": {
+    "c": 11,
+    "v": 1
+   },
+   "fim": {
+    "c": 11,
+    "v": 38
+   }
+  },
+  {
+   "id": "2MA.12.1",
+   "titulo": "Jope, Jâmnia e as campanhas de Galaad",
+   "secao": "Judas Macabeu",
+   "referencia": "2Mc 12,1-31",
+   "ini": {
+    "c": 12,
+    "v": 1
+   },
+   "fim": {
+    "c": 12,
+    "v": 31
+   }
+  },
+  {
+   "id": "2MA.12.32",
+   "titulo": "A oração pelos mortos",
+   "secao": "Judas Macabeu",
+   "referencia": "2Mc 12,32-46",
+   "ini": {
+    "c": 12,
+    "v": 32
+   },
+   "fim": {
+    "c": 12,
+    "v": 46
+   }
+  },
+  {
+   "id": "2MA.13.1",
+   "titulo": "A morte de Menelau e a campanha de Antíoco Eupátor",
+   "secao": "Judas Macabeu",
+   "referencia": "2Mc 13,1-26",
+   "ini": {
+    "c": 13,
+    "v": 1
+   },
+   "fim": {
+    "c": 13,
+    "v": 26
+   }
+  },
+  {
+   "id": "2MA.14.1",
+   "titulo": "Alcimo e Nicanor",
+   "secao": "Judas Macabeu",
+   "referencia": "2Mc 14,1-36",
+   "ini": {
+    "c": 14,
+    "v": 1
+   },
+   "fim": {
+    "c": 14,
+    "v": 36
+   }
+  },
+  {
+   "id": "2MA.14.37",
+   "titulo": "O martírio de Razias",
+   "secao": "Judas Macabeu",
+   "referencia": "2Mc 14,37-46",
+   "ini": {
+    "c": 14,
+    "v": 37
+   },
+   "fim": {
+    "c": 14,
+    "v": 46
+   }
+  },
+  {
+   "id": "2MA.15.1",
+   "titulo": "A vitória sobre Nicanor e o epílogo",
+   "secao": "Judas Macabeu",
+   "referencia": "2Mc 15,1-40",
+   "ini": {
+    "c": 15,
+    "v": 1
+   },
+   "fim": {
+    "c": 15,
+    "v": 40
+   }
+  }
+ ]
+}

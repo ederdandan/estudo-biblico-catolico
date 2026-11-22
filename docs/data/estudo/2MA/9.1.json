@@ -1,0 +1,57 @@
+{
+  "id": "2MA.9.1",
+  "livro": "2MA",
+  "titulo": "A morte de Antíoco Epífanes",
+  "secao": "Judas Macabeu",
+  "referencia": "2Mc 9,1-29",
+  "ini": {
+    "c": 9,
+    "v": 1
+  },
+  "fim": {
+    "c": 9,
+    "v": 29
+  },
+  "liturgia": {
+    "tema_central": "Quem é mortal não pretenda igualar-se a Deus: a morte de Antíoco",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Antíoco volta da Pérsia em desonra: tentara saquear o templo de Persépolis e foi posto em fuga pelos habitantes. Perto de Ecbatana sabe da derrota de Nicanor e de Timóteo. Furioso, quer vingar-se nos judeus e ordena ao cocheiro que corra sem parar, gabando-se: farei de Jerusalém um cemitério de judeus. “Mas o Senhor Deus de Israel, que vê todas as coisas, feriu este príncipe com uma chaga incurável e invisível”: uma dor terrível nas entranhas, “com muita justiça, pois que ele mesmo havia rasgado as entranhas aos outros”. Sem diminuir a arrogância, ordena acelerar, e cai do carro com violência, ferindo todos os membros. Ele, que se julgava capaz de dar ordens às ondas do mar e pesar as montanhas numa balança, é levado numa liteira, mostrando a todos o poder de Deus. Do seu corpo saem vermes; as carnes caem aos pedaços; o mau cheiro incomoda todo o exército; o que pensava tocar os astros, ninguém o pode suportar. Abatido o orgulho, começa a conhecer-se a si mesmo sob o castigo de Deus e diz: “É justo que o homem seja sujeito a Deus, e que quem é mortal não pretenda igualar-se com o mesmo Deus.” Reza ao Senhor, de quem não obterá misericórdia: promete libertar Jerusalém, tornar os judeus iguais aos atenienses, enriquecer o templo, devolver os vasos, até tornar-se judeu e proclamar o poder de Deus por toda a terra. Mas as dores não cessam. Escreve aos judeus uma carta: lembra os benefícios, nomeia o filho Antíoco sucessor e pede lealdade a ele. “Enfim, este homicida e blasfemo, presa de horríveis tormentos, como tinha causado aos outros, acabou a vida sobre os montes, longe da sua terra, com uma miserável morte.” Filipe, seu amigo de infância, leva o corpo e foge para o Egito.",
+    "alegorico": "A morte de Antíoco é o modelo bíblico do fim do perseguidor soberbo, retomado na morte de Herodes Agripa “comido pelos vermes” por não dar glória a Deus (At 12,23). Os Padres viram no “arrependimento” tardio de Antíoco a imagem da penitência motivada só pelo medo da pena, que não nasce do amor (atrição sem conversão do coração).",
+    "moral": "A frase de Antíoco é uma verdade universal: o mortal não deve igualar-se a Deus. Mas ele só a reconhece quando a dor o derruba. As suas promessas exageradas (tornar-se judeu!) mostram que quer negociar com Deus para escapar do sofrimento, não converter-se. O texto diz que ele não obteria misericórdia: não porque Deus a recuse, mas porque o coração não mudou. A conversão verdadeira não é barganha.",
+    "anagogico": "O perseguidor que se julgava capaz de tocar os astros é reduzido ao pó. No fim, toda soberba humana será julgada, e Deus será tudo em todos."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“O Senhor Deus de Israel, que vê todas as coisas, feriu este príncipe.” “Imaginava que podia dar ordens às ondas do mar.” “Começou a entrar do conhecimento de si mesmo.” “É justo que o homem seja sujeito a Deus.” “Quem é mortal não pretenda igualar-se com o mesmo Deus.” “Acabou a vida sobre os montes, longe da sua terra.”",
+    "meditatio_perguntas": [
+      "Em que áreas da minha vida pretendo “igualar-me a Deus”?",
+      "A minha conversão nasce do amor ou só do medo da pena?",
+      "Tento “negociar” com Deus em vez de mudar de vida?"
+    ],
+    "oratio_guia": "Senhor, que vês todas as coisas, abate em mim toda soberba antes que ela me destrua. Que eu me reconheça mortal e sujeito a ti, e me converta por amor, não por medo. Amém.",
+    "contemplatio_foco": {
+      "texto": "É justo que o homem seja sujeito a Deus, e que quem é mortal não pretenda igualar-se com o mesmo Deus",
+      "ref": "2Mc 9,12"
+    }
+  },
+  "ancoras": {
+    "9:2": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Persépolis aqui talvez designe Elimaida (cf. 1Mc 6,1); as tradições sobre a morte de Antíoco IV divergem nos detalhes.",
+        "origem": "ia"
+      }
+    },
+    "9:29": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "Filipe, nomeado regente pelo rei moribundo (1Mc 6,14-15), entrará em conflito com Lísias (1Mc 6,55-63).",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2MA.5.1",
+  "livro": "2MA",
+  "titulo": "Antíoco saqueia o Templo",
+  "secao": "Antes da perseguição",
+  "referencia": "2Mc 5,1-27",
+  "ini": {
+    "c": 5,
+    "v": 1
+  },
+  "fim": {
+    "c": 5,
+    "v": 27
+  },
+  "liturgia": {
+    "tema_central": "Deus escolheu o lugar por amor do povo: Antíoco saqueia o Templo",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Antíoco prepara a segunda expedição ao Egito. Em Jerusalém, durante quarenta dias, veem-se no ar cavaleiros vestidos de ouro, armados de lanças, esquadrões que se atacam, escudos, espadas, dardos, armaduras resplandecentes; todos rezam para que o prodígio seja para o bem. Corre o falso boato da morte de Antíoco; Jasão, com mil homens, ataca de surpresa a cidade e faz um massacre dos seus próprios concidadãos, “não considerando que uma vitória ganha contra os compatriotas é o maior desastre”. Não consegue o poder e foge de novo para os amonitas; perseguido por Aretas, odiado por todos, termina no Egito e depois em Esparta, onde morre: “aquele que tinha lançado fora da sua terra tantas pessoas, pereceu longe da sua pátria”; quem deixou tantos sem sepultura não foi chorado nem sepultado no túmulo dos pais. O rei, pensando que a Judeia se revolta, volta do Egito furioso, toma a cidade e manda matar sem piedade: em três dias, oitenta mil vítimas, quarenta mil mortos e outros tantos vendidos. Ousa entrar no templo, “o lugar mais santo de todo o mundo”, guiado por Menelau, traidor das leis e da pátria, e toma com as mãos impuras os vasos sagrados. Antíoco, inchado de soberba, não compreende que Deus estava irado por pouco tempo por causa dos pecados do povo; senão, teria sido açoitado como Heliodoro. “Porém, Deus não escolheu o povo por amor do lugar, mas escolheu este por amor do povo.” Por isso o lugar participou das desgraças do povo e participará dos seus bens. Antíoco leva mil e oitocentos talentos e, em sua soberba, pensa poder navegar sobre a terra e caminhar sobre o mar. Deixa governadores cruéis e envia Apolônio, que mata em dia de sábado. “Entretanto Judas Macabeu, que era o décimo, retirou-se” para o deserto e vivia nos montes entre as feras, comendo ervas do campo, “para não se mancharem”.",
+    "alegorico": "A frase “Deus não escolheu o povo por causa do lugar, mas o lugar por causa do povo” antecipa a palavra de Jesus: “o sábado foi feito para o homem” (Mc 2,27), e a revelação de que o verdadeiro templo é o próprio Cristo e os que creem nele (Jo 2,21; 1Cor 3,16). Judas no deserto, entre as feras, comendo ervas, recorda Elias e prefigura Cristo no deserto “com as feras” (Mc 1,13).",
+    "moral": "O autor dá uma chave teológica: o sofrimento do povo vem de Deus como correção temporária por causa dos pecados. O templo não é um amuleto; se o povo peca, também o lugar sofre. A morte de Jasão, longe da pátria e sem sepultura, ilustra a lei da retribuição. E a última palavra é para Judas, que se retira ao deserto para não se contaminar: a fidelidade começa pela separação do mal.",
+    "anagogico": "“Participou das desgraças… e participará dos bens”: o templo e o povo serão glorificados juntos. A Igreja, povo de Deus, participará da glória do seu Senhor."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Uma vitória ganha contra os compatriotas é o maior desastre.” “Pereceu longe da sua pátria.” “O lugar mais santo de todo o mundo.” “Deus… se tinha irado por pouco tempo.” “Deus não escolheu o povo por amor do lugar, mas escolheu este por amor do povo.” “Apenas comiam ervas do campo, para não se mancharem.”",
+    "meditatio_perguntas": [
+      "Confio nos “lugares santos” como amuletos, sem conversão do coração?",
+      "Vejo as minhas provações como correção de Deus?",
+      "Sei retirar-me para não me manchar?"
+    ],
+    "oratio_guia": "Senhor, que escolheste o lugar por amor do teu povo, faz de mim um templo vivo. Que eu aceite a tua correção, me afaste do que mancha e espere que me faças participar dos teus bens. Amém.",
+    "contemplatio_foco": {
+      "texto": "Deus não escolheu o povo por amor do lugar (ou templo), mas escolheu este por amor do povo",
+      "ref": "2Mc 5,19"
+    }
+  },
+  "ancoras": {
+    "5:1": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A segunda campanha egípcia de Antíoco IV (168 a.C.) foi interrompida por ordem de Roma (o “círculo de Popílio Lenas”), o que explica a sua fúria.",
+        "origem": "ia"
+      }
+    },
+    "5:27": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "“O décimo”: talvez Judas fosse um dos dez que fugiram com ele; o grego diz “com cerca de nove outros”.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}

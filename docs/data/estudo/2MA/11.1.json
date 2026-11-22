@@ -1,0 +1,57 @@
+{
+  "id": "2MA.11.1",
+  "livro": "2MA",
+  "titulo": "A derrota de Lísias e as cartas de paz",
+  "secao": "Judas Macabeu",
+  "referencia": "2Mc 11,1-38",
+  "ini": {
+    "c": 11,
+    "v": 1
+  },
+  "fim": {
+    "c": 11,
+    "v": 38
+  },
+  "liturgia": {
+    "tema_central": "Enviasse um bom anjo para salvação de Israel: Lísias e a paz",
+    "usos": []
+  },
+  "quatro_sentidos": {
+    "literal": "Pouco depois, Lísias, tutor e parente do rei, regente do reino, irritado com o que acontecera, reúne oitenta mil infantes, toda a cavalaria e oitenta elefantes, e marcha contra os judeus, pensando fazer de Jerusalém uma cidade grega, cobrar tributo do templo como dos templos pagãos e vender todo ano o sumo sacerdócio, “não fazendo reflexão alguma no poder de Deus”. Ataca Betsur. Macabeu e os seus, ao saber, com gemidos e lágrimas, junto com todo o povo, pedem ao Senhor “que enviasse um bom anjo para salvação de Israel”. Macabeu é o primeiro a tomar as armas e exorta os outros a se exporem com ele para socorrer os irmãos. Perto de Jerusalém, aparece à frente deles um cavaleiro vestido de branco, com armas de ouro, brandindo uma lança. Todos juntos bendizem o Senhor misericordioso e se enchem de coragem, prontos a combater não só homens, mas as feras mais ferozes e muros de ferro. Avançam “com este auxiliar vindo do céu”, lançam-se como leões, matam onze mil infantes e mil e seiscentos cavaleiros; Lísias escapa numa fuga vergonhosa. Mas, como não é insensato, reconhece que os hebreus são invencíveis porque se apoiam no Deus Todo-Poderoso, e propõe a paz em condições justas. Macabeu aceita, pensando no bem comum. Seguem as cartas: Lísias promete fazer o bem aos judeus; o jovem rei Antíoco escreve que, sabendo que os judeus não aceitaram os costumes gregos e querem conservar os seus, determina “que lhes seja restituído o seu templo, para viverem conforme os costumes dos seus antepassados”; outra carta do rei concede anistia e permite viver segundo as leis e alimentos próprios; e os legados romanos aprovam as concessões.",
+    "alegorico": "O “bom anjo” pedido em lágrimas e o cavaleiro branco que precede o exército recordam o anjo que guiava Israel no deserto (Ex 23,20) e o Cavaleiro branco do Apocalipse, “Fiel e Verdadeiro”, que combate com justiça (Ap 19,11). A Igreja reza a cada dia aos anjos da guarda e a São Miguel, “príncipe da milícia celeste”, pedindo proteção no combate.",
+    "moral": "Lísias perde porque “não fazia reflexão alguma no poder de Deus”; o seu erro é o orgulho dos números. Mas mostra também uma qualidade: sabe reconhecer a derrota e propor a paz. Macabeu, por sua vez, aceita a paz pelo bem comum: o zelo não exclui a negociação. A verdadeira vitória é a liberdade de viver segundo a lei de Deus, garantida pela paz.",
+    "anagogico": "O cavaleiro celeste que vai à frente do povo é figura de Cristo, que precede a sua Igreja até a vitória final e a paz definitiva."
+  },
+  "lectio_divina": {
+    "lectio_resumo": "“Não fazendo reflexão alguma no poder de Deus.” “Com gemidos e lágrimas rogavam ao Senhor… que enviasse um bom anjo para salvação de Israel.” “Foi o primeiro que tomou as armas.” “Bem-disseram todos ao mesmo tempo ao Senhor misericordioso.” “Este auxiliar vindo do céu.” “Para viverem conforme os costumes dos seus antepassados.”",
+    "meditatio_perguntas": [
+      "Considero o poder de Deus nos meus planos, ou só os meus recursos?",
+      "Peço a Deus o auxílio dos seus anjos?",
+      "Sei aceitar a paz quando ela serve ao bem comum?"
+    ],
+    "oratio_guia": "Senhor misericordioso, envia o teu bom anjo para me guardar e guiar. Que eu não confie na força dos números, mas no teu poder, e saiba buscar a paz que dá liberdade de viver segundo a tua lei. Amém.",
+    "contemplatio_foco": {
+      "texto": "com gemidos e lágrimas rogavam ao Senhor, acompanhados de todo o povo, que enviasse um bom anjo para salvação de Israel",
+      "ref": "2Mc 11,6"
+    }
+  },
+  "ancoras": {
+    "11:21": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "As cartas datam de 164 a.C.; a de 11,22-26 é posterior à morte de Antíoco IV e foi escrita por Antíoco V.",
+        "origem": "ia"
+      }
+    },
+    "11:34": {
+      "cic": [],
+      "padres": [],
+      "nota": {
+        "texto": "A carta dos legados romanos é o primeiro contato documentado entre Roma e os judeus, anterior ao tratado de 1Mc 8.",
+        "origem": "ia"
+      }
+    }
+  },
+  "revisado": false
+}
